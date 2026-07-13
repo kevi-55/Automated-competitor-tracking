@@ -1,0 +1,167 @@
+{
+  "canonical": "",
+  "category": "content",
+  "competitor": "PCBWay",
+  "ctas": [
+    {
+      "href": "/orderonline.aspx",
+      "text": "PCB Instant Quote"
+    },
+    {
+      "href": "javascript:void(0)",
+      "text": "Sign Up"
+    },
+    {
+      "href": "/project/shareproject/?order=1",
+      "text": "By Source Files"
+    },
+    {
+      "href": "/project/shareproject/?order=1",
+      "text": "View all source files projects"
+    },
+    {
+      "href": "/project/shareproject/?order=1",
+      "text": "Source Files"
+    },
+    {
+      "href": "/blog/club-publish.html",
+      "text": "Submit for Publication"
+    },
+    {
+      "href": "/blog/Activities/Submit_for_Publication___Now_I_Write_Articles_in_PCBWay.html",
+      "text": "Write for PCBWay"
+    },
+    {
+      "href": "/blog/?tag=PCB industry",
+      "text": "PCB industry"
+    },
+    {
+      "href": "/contact.html",
+      "text": "Contact us"
+    }
+  ],
+  "fetched_at": "2026-07-13T07:44:55+00:00",
+  "h1": "PCBWay Plug-In for KiCad",
+  "headings": [
+    {
+      "level": "h1",
+      "text": "PCBWay Plug-In for KiCad"
+    },
+    {
+      "level": "h2",
+      "text": "Send your layout to PCBWay for instant production with just one click."
+    },
+    {
+      "level": "h2",
+      "text": "Installation from the official KiCad repositories"
+    },
+    {
+      "level": "h2",
+      "text": "Manual installation"
+    },
+    {
+      "level": "h2",
+      "text": "About Bom"
+    },
+    {
+      "level": "h3",
+      "text": "Related articles"
+    }
+  ],
+  "images": [
+    {
+      "alt": "",
+      "src": "/project/img/images/avatar/user-pic.png"
+    },
+    {
+      "alt": "",
+      "src": "/project/img/images/loading-pro.gif"
+    },
+    {
+      "alt": "",
+      "src": "https://pcbwayfile.s3.us-west-2.amazonaws.com/web/23/10/03/1152415436848m.jpeg"
+    },
+    {
+      "alt": "",
+      "src": "https://pcbwayfile.s3.us-west-2.amazonaws.com/web/25/02/01/195239553dd028d967de6453aa74b91ac0e5423e73248m.png"
+    },
+    {
+      "alt": "",
+      "src": "https://pcbwayfile.s3-us-west-2.amazonaws.com/web/21/08/30/1823256917346m.png"
+    },
+    {
+      "alt": "",
+      "src": "https://pcbwayfile.s3-us-west-2.amazonaws.com/web/22/04/01/2107138032210t.gif"
+    },
+    {
+      "alt": "",
+      "src": "https://pcbwayfile.s3.us-west-2.amazonaws.com/web/23/06/29/1747431884078t.png"
+    },
+    {
+      "alt": "",
+      "src": "https://pcbwayfile.s3.us-west-2.amazonaws.com/web/22/05/13/1344561054348t.png"
+    },
+    {
+      "alt": "",
+      "src": "https://user-images.githubusercontent.com/20063837/160970891-4971cb1a-a36a-45bc-b219-93924f0ff070.png"
+    },
+    {
+      "alt": "",
+      "src": "https://user-images.githubusercontent.com/20063837/160999527-e0a50238-3468-44be-b691-667ab8e8fef1.png"
+    },
+    {
+      "alt": "",
+      "src": "https://user-images.githubusercontent.com/20063837/161211870-b4a46c17-2e1c-45b4-bfe7-2ab97ade157d.png"
+    },
+    {
+      "alt": "",
+      "src": "/img/images/note-tips.png"
+    }
+  ],
+  "meta_description": "",
+  "requested_url": "https://www.pcbway.com/blog/News/PCBWay_Plug_In_for_KiCad_3ea6219c.html",
+  "sections": [
+    {
+      "hash": "c0531b269a1bca605f5fefaab6e15e0e46021219",
+      "heading": "PCBWay Plug-In for KiCad",
+      "level": "h1",
+      "text": "Blog > PCBWay Plug-In for KiCad PCBWay Plug-In for KiCad by: Anson Apr 01,2022 107151 Views 36 Comments Posted in News Kicad PCB design Send your layout to PCBWay for instant production with just one click. Have you ever thought that when you complete the design on KiCad, you can place an order on pcbway with just one click? Now this idea is finally achieved (it's not an April Fool's joke). When you click PCBWay Plug-in button on Kicad, we will export these files in your project ( Please make sure you have installed the latest version of the plugin released on July 11, 2024 )： 1.Gerber files in correct format for production 2.IPC-Netlist file 3.Bom-file that includes all information of comp..."
+    },
+    {
+      "hash": "dc3e4963f0d0be5a65ebc15cdb3820893d900eac",
+      "heading": "Send your layout to PCBWay for instant production with just one click.",
+      "level": "h2",
+      "text": "Send your layout to PCBWay for instant production with just one click. Have you ever thought that when you complete the design on KiCad, you can place an order on pcbway with just one click? Now this idea is finally achieved (it's not an April Fool's joke). When you click PCBWay Plug-in button on Kicad, we will export these files in your project ( Please make sure you have installed the latest version of the plugin released on July 11, 2024 )： 1.Gerber files in correct format for production 2.IPC-Netlist file 3.Bom-file that includes all information of components 4.Pick and Place-file used in assembly You can click \"Save to Cart\" to place an order immediately after uploading the files( usua..."
+    },
+    {
+      "hash": "dc3e4963f0d0be5a65ebc15cdb3820893d900eac",
+      "heading": "Installation from the official KiCad repositories",
+      "level": "h2",
+      "text": "Send your layout to PCBWay for instant production with just one click. Have you ever thought that when you complete the design on KiCad, you can place an order on pcbway with just one click? Now this idea is finally achieved (it's not an April Fool's joke). When you click PCBWay Plug-in button on Kicad, we will export these files in your project ( Please make sure you have installed the latest version of the plugin released on July 11, 2024 )： 1.Gerber files in correct format for production 2.IPC-Netlist file 3.Bom-file that includes all information of components 4.Pick and Place-file used in assembly You can click \"Save to Cart\" to place an order immediately after uploading the files( usua..."
+    },
+    {
+      "hash": "dc3e4963f0d0be5a65ebc15cdb3820893d900eac",
+      "heading": "Manual installation",
+      "level": "h2",
+      "text": "Send your layout to PCBWay for instant production with just one click. Have you ever thought that when you complete the design on KiCad, you can place an order on pcbway with just one click? Now this idea is finally achieved (it's not an April Fool's joke). When you click PCBWay Plug-in button on Kicad, we will export these files in your project ( Please make sure you have installed the latest version of the plugin released on July 11, 2024 )： 1.Gerber files in correct format for production 2.IPC-Netlist file 3.Bom-file that includes all information of components 4.Pick and Place-file used in assembly You can click \"Save to Cart\" to place an order immediately after uploading the files( usua..."
+    },
+    {
+      "hash": "dc3e4963f0d0be5a65ebc15cdb3820893d900eac",
+      "heading": "About Bom",
+      "level": "h2",
+      "text": "Send your layout to PCBWay for instant production with just one click. Have you ever thought that when you complete the design on KiCad, you can place an order on pcbway with just one click? Now this idea is finally achieved (it's not an April Fool's joke). When you click PCBWay Plug-in button on Kicad, we will export these files in your project ( Please make sure you have installed the latest version of the plugin released on July 11, 2024 )： 1.Gerber files in correct format for production 2.IPC-Netlist file 3.Bom-file that includes all information of components 4.Pick and Place-file used in assembly You can click \"Save to Cart\" to place an order immediately after uploading the files( usua..."
+    },
+    {
+      "hash": "b8127f52941c63daea675541cf2ea34e93f7b651",
+      "heading": "Related articles",
+      "level": "h3",
+      "text": "Related articles Circuit Symbols Explained: A Complete Guide to Electronic Symbols and Schematic Symbols in PCB Design Mixed-Signal PCB Design: A Practical Engineering Guide Decoupling Capacitor Placement Guidelines for High-Speed PCB Design How PCB Design Decisions Impact Manufacturing Cost"
+    }
+  ],
+  "status": 200,
+  "structure_hash": "a897cf72e3b4169c69ef3fafd6d92fd4b037a075",
+  "text_excerpt": "PCBWay Plug-In for KiCad - News - PCBway PCBWay Community Search title or content Search PCBWay PCB Instant Quote CNC | 3D Printing Login Sign Up More Notifications No notifications. My Profile My projects My Likes My Deals My Goods for Bazaar Settings Sign Out Projects Categories DIY Electronics Arduino Hardware Audio Computers & USB Breakout Board Projects Home Automation LED Displays & Matrices IoT Robotics View all categories By Source Files Onju Voice - AI assistant replacement to Google Nest Mini by @justLV LogicAnalyzer V6.0 DIY 1kW Open Source MPPT Solar Charge Controller Tad Boy Color SummerCart64 - a fully open source N64 flashcart kv4p HT v1.7b QuinLED-Dig-Uno Bike Fingerprint - PCB Arduino RC engine sound & light controller with inertia simulation for ESP32 Solar Powered WiFi Weather Station V2.0 Frog Boy Color SIDKick pico 0.2 (SID 6581/8580-replacement for C64/C128) View all source files projects Featured Projects Onju Voice - AI assistant replacement to Google Nest Mini by @justLV LogicAnalyzer V6.0 DIY 1kW Open Source MPPT Solar Charge Controller Featured Source Files Video View all projects Questions Sponsorships Feedback Blog Store PCB Design Contest - 2026 KiCad...",
+  "text_hash": "2f1290d2326e4c23de6ad6b3d624b46dd9693b79",
+  "title": "PCBWay Plug-In for KiCad - News - PCBway",
+  "url": "https://www.pcbway.com/blog/News/PCBWay_Plug_In_for_KiCad_3ea6219c.html"
+}

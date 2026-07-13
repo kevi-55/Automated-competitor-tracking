@@ -1,0 +1,595 @@
+{
+  "canonical": "https://www.hubs.com/knowledge-base/cnc-machining-manufacturing-technology-explained/",
+  "category": "content",
+  "competitor": "Hubs",
+  "ctas": [
+    {
+      "href": "/manufacture/?technology=cnc-machining",
+      "text": "Get instant quote"
+    },
+    {
+      "href": "/how-ordering-works/",
+      "text": "How ordering works Using Protolabs Network from quote to delivery"
+    },
+    {
+      "href": "/production-orders/",
+      "text": "Production orders"
+    },
+    {
+      "href": "/blog/",
+      "text": "Blog Industry trends, company news and product updates"
+    },
+    {
+      "href": "/newsletter/",
+      "text": "Newsletter Sign up for Protolabs Network tips, news and insights"
+    },
+    {
+      "href": "#",
+      "text": "Company Learn about who we are and how it all started"
+    },
+    {
+      "href": "/contact/",
+      "text": "Contact us We have offices in the United States and Europe"
+    },
+    {
+      "href": "/manufacture/",
+      "text": "Upload your design for a free, instant quote"
+    },
+    {
+      "href": "/manufacture/",
+      "text": "Get an instant quote today"
+    },
+    {
+      "href": "https://www.hubs.com/manufacture/?technology=cnc-machining",
+      "text": "instant quote"
+    },
+    {
+      "href": "/manufacture/",
+      "text": "Get an instant quote"
+    },
+    {
+      "href": "/how-ordering-works/",
+      "text": "How ordering works"
+    },
+    {
+      "href": "/order-from-anywhere/",
+      "text": "Order from anywhere"
+    },
+    {
+      "href": "/contact/",
+      "text": "Offices"
+    },
+    {
+      "href": "/manufacture/",
+      "text": "Get Instant Quote"
+    }
+  ],
+  "fetched_at": "2026-07-13T07:35:48+00:00",
+  "h1": "What is CNC machining?",
+  "headings": [
+    {
+      "level": "h1",
+      "text": "What is CNC machining?"
+    },
+    {
+      "level": "h2",
+      "text": "How does CNC machining work? Let's talk milling and turning"
+    },
+    {
+      "level": "h2",
+      "text": "How does CNC milling work?"
+    },
+    {
+      "level": "h2",
+      "text": "How does CNC turning work?"
+    },
+    {
+      "level": "h2",
+      "text": "A quick guide to CNC machining parameters"
+    },
+    {
+      "level": "h2",
+      "text": "What are the most common cutting tools for CNC machining?"
+    },
+    {
+      "level": "h2",
+      "text": "CNC machining parts with geometric complexity: what are the design restrictions?"
+    },
+    {
+      "level": "h3",
+      "text": "Tool geometry constraints Â"
+    },
+    {
+      "level": "h3",
+      "text": "Machine accessibility Â"
+    },
+    {
+      "level": "h3",
+      "text": "Thin walls and fine features Â"
+    },
+    {
+      "level": "h2",
+      "text": "What are the characteristics of CNC machining?"
+    },
+    {
+      "level": "h2",
+      "text": "How much do CNC machining materials cost?"
+    },
+    {
+      "level": "h2",
+      "text": "How can I learn more about materials for CNC machining?"
+    },
+    {
+      "level": "h2",
+      "text": "Post-processing and surface finishes for CNC machining"
+    },
+    {
+      "level": "h2",
+      "text": "What are the advantages and disadvantages of CNC machining?"
+    },
+    {
+      "level": "h3",
+      "text": "Advantages of CNC MachiningÂ"
+    },
+    {
+      "level": "h3",
+      "text": "Disadvantages of CNC MachiningÂ"
+    },
+    {
+      "level": "h2",
+      "text": "What are Protolabs Network's rules of thumb for CNC machining?"
+    },
+    {
+      "level": "h2",
+      "text": "Get a QuoteÂ"
+    },
+    {
+      "level": "h2",
+      "text": "Frequently asked questions"
+    },
+    {
+      "level": "h3",
+      "text": "What's the best application of CNC machining?"
+    },
+    {
+      "level": "h3",
+      "text": "What are the most common CNC machining cutting tools?"
+    },
+    {
+      "level": "h3",
+      "text": "Which industries use CNC machining the most?"
+    },
+    {
+      "level": "h3",
+      "text": "Is CNC machining completely automated?"
+    },
+    {
+      "level": "h3",
+      "text": "What's the general surface texture of CNC milled and turned parts?"
+    },
+    {
+      "level": "h3",
+      "text": "How do you speed up CNC manufacturing?"
+    },
+    {
+      "level": "h2",
+      "text": "More resources for engineers"
+    },
+    {
+      "level": "h3",
+      "text": "Types of taps: A practical guide for machining"
+    },
+    {
+      "level": "h3",
+      "text": "What is G-code? An explanation of the best CNC methods"
+    },
+    {
+      "level": "h3",
+      "text": "Differences between jigs and fixtures"
+    },
+    {
+      "level": "h3",
+      "text": "Precision CNC machining: Engineering high-accuracy components"
+    },
+    {
+      "level": "h3",
+      "text": "Types of CNC machines: A practical overview"
+    },
+    {
+      "level": "h3",
+      "text": "Comparing 3 axis versus 5 axis in CNC machining"
+    },
+    {
+      "level": "h3",
+      "text": "CNC machining for small parts"
+    },
+    {
+      "level": "h3",
+      "text": "A guide to acrylic CNC machining"
+    },
+    {
+      "level": "h3",
+      "text": "CNC turning machines: How they work and when to use them in manufacturing"
+    },
+    {
+      "level": "h3",
+      "text": "Precision CNC machining for aerospace applications"
+    },
+    {
+      "level": "h3",
+      "text": "What is CNC machining best for? How engineers use it in practice"
+    },
+    {
+      "level": "h3",
+      "text": "The advantages of 5-axis CNC machining"
+    },
+    {
+      "level": "h3",
+      "text": "Types of taps: A practical guide for machining"
+    },
+    {
+      "level": "h3",
+      "text": "What is G-code? An explanation of the best CNC methods"
+    },
+    {
+      "level": "h3",
+      "text": "Differences between jigs and fixtures"
+    },
+    {
+      "level": "h3",
+      "text": "Precision CNC machining: Engineering high-accuracy components"
+    },
+    {
+      "level": "h3",
+      "text": "Types of CNC machines: A practical overview"
+    },
+    {
+      "level": "h3",
+      "text": "Comparing 3 axis versus 5 axis in CNC machining"
+    },
+    {
+      "level": "h3",
+      "text": "CNC machining for small parts"
+    },
+    {
+      "level": "h3",
+      "text": "A guide to acrylic CNC machining"
+    },
+    {
+      "level": "h3",
+      "text": "CNC turning machines: How they work and when to use them in manufacturing"
+    },
+    {
+      "level": "h3",
+      "text": "Precision CNC machining for aerospace applications"
+    },
+    {
+      "level": "h3",
+      "text": "What is CNC machining best for? How engineers use it in practice"
+    },
+    {
+      "level": "h3",
+      "text": "The advantages of 5-axis CNC machining"
+    },
+    {
+      "level": "h2",
+      "text": "Ready to transform your CAD file into a custom part? Upload your designs for a free, instant quote."
+    }
+  ],
+  "images": [
+    {
+      "alt": "Quality control check",
+      "src": "/images/trans.gif"
+    },
+    {
+      "alt": "CNC machining, 3D printing and sheet metal fabrication parts",
+      "src": "/images/trans.gif"
+    },
+    {
+      "alt": "Kepler satellite image in orbit around the earth",
+      "src": "/images/trans.gif"
+    },
+    {
+      "alt": "Close up image of CNC machining material",
+      "src": "/images/trans.gif"
+    },
+    {
+      "alt": "Close up image of Hubs logo object",
+      "src": "/images/trans.gif"
+    },
+    {
+      "alt": "Introduction to CNC machining",
+      "src": "//images.ctfassets.net/q2hzfkp3j57e/4a40aa2c1e01d36969726ab2e4e28943e0c59e62/b795373a44b5fb1e95b77800bdf603e3/cropped-shutterstock_94373530.webp?w=400&h=300&fm=jpg&q=82"
+    },
+    {
+      "alt": "",
+      "src": "/images/trans.gif"
+    },
+    {
+      "alt": "CNC machining guide cover image",
+      "src": "/images/trans.gif"
+    },
+    {
+      "alt": "3D Printing for Grips, Jigs and Fixtures",
+      "src": "/images/trans.gif"
+    },
+    {
+      "alt": "CNC Milling Machine Factory",
+      "src": "/images/trans.gif"
+    },
+    {
+      "alt": "cnc-5-axis-3 2 milling",
+      "src": "/images/trans.gif"
+    },
+    {
+      "alt": "Acrylic CNC Machining Process",
+      "src": "/images/trans.gif"
+    },
+    {
+      "alt": "CNC lathe machine in action.",
+      "src": "/images/trans.gif"
+    },
+    {
+      "alt": "Plane above clouds",
+      "src": "/images/trans.gif"
+    },
+    {
+      "alt": "5-axis indexed CNC machine in action",
+      "src": "/images/trans.gif"
+    },
+    {
+      "alt": "5 axis cnc milling machine",
+      "src": "/images/trans.gif"
+    }
+  ],
+  "meta_description": "What is CNC machining and how does it work? This overview explains the basic principles and fundamental mechanics, along with the key benefits and limitations, of this subtractive manufacturing process.",
+  "requested_url": "https://www.hubs.com/knowledge-base/cnc-machining-manufacturing-technology-explained",
+  "sections": [
+    {
+      "hash": "bcc694112ac9b8b3b4cb3aac8cfd9a0fb5a59d68",
+      "heading": "What is CNC machining?",
+      "level": "h1",
+      "text": "What is CNC machining? What is CNC machining and how does it work? This overview explains the basic principles and fundamental mechanics, along with the key benefits and limitations, of this subtractive manufacturing process."
+    },
+    {
+      "hash": "c332dbb68ecc5f5a80d7f15eac5683935cfdbb59",
+      "heading": "How does CNC machining work? Let's talk milling and turning",
+      "level": "h2",
+      "text": "CNC machining is a widely used subtractive manufacturing technology for producing custom metal and plastic components with precision, reliability, and versatility. Guided by digital CAD models, CNC machines use cutting tools to remove material from solid blocks with high accuracy. Engineers often source CNC machining through outsourced manufacturing partners to meet tight tolerances and quality requirements.Â This process supports tight tolerances and strong material performance, making it suitable for prototyping and low-to-medium volume production. While CNC machining offers high repeatability, it has design constraints compared with additive manufacturing because material is removed rath..."
+    },
+    {
+      "hash": "c332dbb68ecc5f5a80d7f15eac5683935cfdbb59",
+      "heading": "How does CNC milling work?",
+      "level": "h2",
+      "text": "CNC machining is a widely used subtractive manufacturing technology for producing custom metal and plastic components with precision, reliability, and versatility. Guided by digital CAD models, CNC machines use cutting tools to remove material from solid blocks with high accuracy. Engineers often source CNC machining through outsourced manufacturing partners to meet tight tolerances and quality requirements.Â This process supports tight tolerances and strong material performance, making it suitable for prototyping and low-to-medium volume production. While CNC machining offers high repeatability, it has design constraints compared with additive manufacturing because material is removed rath..."
+    },
+    {
+      "hash": "c332dbb68ecc5f5a80d7f15eac5683935cfdbb59",
+      "heading": "How does CNC turning work?",
+      "level": "h2",
+      "text": "CNC machining is a widely used subtractive manufacturing technology for producing custom metal and plastic components with precision, reliability, and versatility. Guided by digital CAD models, CNC machines use cutting tools to remove material from solid blocks with high accuracy. Engineers often source CNC machining through outsourced manufacturing partners to meet tight tolerances and quality requirements.Â This process supports tight tolerances and strong material performance, making it suitable for prototyping and low-to-medium volume production. While CNC machining offers high repeatability, it has design constraints compared with additive manufacturing because material is removed rath..."
+    },
+    {
+      "hash": "c332dbb68ecc5f5a80d7f15eac5683935cfdbb59",
+      "heading": "A quick guide to CNC machining parameters",
+      "level": "h2",
+      "text": "CNC machining is a widely used subtractive manufacturing technology for producing custom metal and plastic components with precision, reliability, and versatility. Guided by digital CAD models, CNC machines use cutting tools to remove material from solid blocks with high accuracy. Engineers often source CNC machining through outsourced manufacturing partners to meet tight tolerances and quality requirements.Â This process supports tight tolerances and strong material performance, making it suitable for prototyping and low-to-medium volume production. While CNC machining offers high repeatability, it has design constraints compared with additive manufacturing because material is removed rath..."
+    },
+    {
+      "hash": "c332dbb68ecc5f5a80d7f15eac5683935cfdbb59",
+      "heading": "What are the most common cutting tools for CNC machining?",
+      "level": "h2",
+      "text": "CNC machining is a widely used subtractive manufacturing technology for producing custom metal and plastic components with precision, reliability, and versatility. Guided by digital CAD models, CNC machines use cutting tools to remove material from solid blocks with high accuracy. Engineers often source CNC machining through outsourced manufacturing partners to meet tight tolerances and quality requirements.Â This process supports tight tolerances and strong material performance, making it suitable for prototyping and low-to-medium volume production. While CNC machining offers high repeatability, it has design constraints compared with additive manufacturing because material is removed rath..."
+    },
+    {
+      "hash": "c332dbb68ecc5f5a80d7f15eac5683935cfdbb59",
+      "heading": "CNC machining parts with geometric complexity: what are the design restrictions?",
+      "level": "h2",
+      "text": "CNC machining is a widely used subtractive manufacturing technology for producing custom metal and plastic components with precision, reliability, and versatility. Guided by digital CAD models, CNC machines use cutting tools to remove material from solid blocks with high accuracy. Engineers often source CNC machining through outsourced manufacturing partners to meet tight tolerances and quality requirements.Â This process supports tight tolerances and strong material performance, making it suitable for prototyping and low-to-medium volume production. While CNC machining offers high repeatability, it has design constraints compared with additive manufacturing because material is removed rath..."
+    },
+    {
+      "hash": "c332dbb68ecc5f5a80d7f15eac5683935cfdbb59",
+      "heading": "Tool geometry constraints Â",
+      "level": "h3",
+      "text": "CNC machining is a widely used subtractive manufacturing technology for producing custom metal and plastic components with precision, reliability, and versatility. Guided by digital CAD models, CNC machines use cutting tools to remove material from solid blocks with high accuracy. Engineers often source CNC machining through outsourced manufacturing partners to meet tight tolerances and quality requirements.Â This process supports tight tolerances and strong material performance, making it suitable for prototyping and low-to-medium volume production. While CNC machining offers high repeatability, it has design constraints compared with additive manufacturing because material is removed rath..."
+    },
+    {
+      "hash": "c332dbb68ecc5f5a80d7f15eac5683935cfdbb59",
+      "heading": "Machine accessibility Â",
+      "level": "h3",
+      "text": "CNC machining is a widely used subtractive manufacturing technology for producing custom metal and plastic components with precision, reliability, and versatility. Guided by digital CAD models, CNC machines use cutting tools to remove material from solid blocks with high accuracy. Engineers often source CNC machining through outsourced manufacturing partners to meet tight tolerances and quality requirements.Â This process supports tight tolerances and strong material performance, making it suitable for prototyping and low-to-medium volume production. While CNC machining offers high repeatability, it has design constraints compared with additive manufacturing because material is removed rath..."
+    },
+    {
+      "hash": "c332dbb68ecc5f5a80d7f15eac5683935cfdbb59",
+      "heading": "Thin walls and fine features Â",
+      "level": "h3",
+      "text": "CNC machining is a widely used subtractive manufacturing technology for producing custom metal and plastic components with precision, reliability, and versatility. Guided by digital CAD models, CNC machines use cutting tools to remove material from solid blocks with high accuracy. Engineers often source CNC machining through outsourced manufacturing partners to meet tight tolerances and quality requirements.Â This process supports tight tolerances and strong material performance, making it suitable for prototyping and low-to-medium volume production. While CNC machining offers high repeatability, it has design constraints compared with additive manufacturing because material is removed rath..."
+    },
+    {
+      "hash": "c332dbb68ecc5f5a80d7f15eac5683935cfdbb59",
+      "heading": "What are the characteristics of CNC machining?",
+      "level": "h2",
+      "text": "CNC machining is a widely used subtractive manufacturing technology for producing custom metal and plastic components with precision, reliability, and versatility. Guided by digital CAD models, CNC machines use cutting tools to remove material from solid blocks with high accuracy. Engineers often source CNC machining through outsourced manufacturing partners to meet tight tolerances and quality requirements.Â This process supports tight tolerances and strong material performance, making it suitable for prototyping and low-to-medium volume production. While CNC machining offers high repeatability, it has design constraints compared with additive manufacturing because material is removed rath..."
+    },
+    {
+      "hash": "c332dbb68ecc5f5a80d7f15eac5683935cfdbb59",
+      "heading": "How much do CNC machining materials cost?",
+      "level": "h2",
+      "text": "CNC machining is a widely used subtractive manufacturing technology for producing custom metal and plastic components with precision, reliability, and versatility. Guided by digital CAD models, CNC machines use cutting tools to remove material from solid blocks with high accuracy. Engineers often source CNC machining through outsourced manufacturing partners to meet tight tolerances and quality requirements.Â This process supports tight tolerances and strong material performance, making it suitable for prototyping and low-to-medium volume production. While CNC machining offers high repeatability, it has design constraints compared with additive manufacturing because material is removed rath..."
+    },
+    {
+      "hash": "c332dbb68ecc5f5a80d7f15eac5683935cfdbb59",
+      "heading": "How can I learn more about materials for CNC machining?",
+      "level": "h2",
+      "text": "CNC machining is a widely used subtractive manufacturing technology for producing custom metal and plastic components with precision, reliability, and versatility. Guided by digital CAD models, CNC machines use cutting tools to remove material from solid blocks with high accuracy. Engineers often source CNC machining through outsourced manufacturing partners to meet tight tolerances and quality requirements.Â This process supports tight tolerances and strong material performance, making it suitable for prototyping and low-to-medium volume production. While CNC machining offers high repeatability, it has design constraints compared with additive manufacturing because material is removed rath..."
+    },
+    {
+      "hash": "c332dbb68ecc5f5a80d7f15eac5683935cfdbb59",
+      "heading": "Post-processing and surface finishes for CNC machining",
+      "level": "h2",
+      "text": "CNC machining is a widely used subtractive manufacturing technology for producing custom metal and plastic components with precision, reliability, and versatility. Guided by digital CAD models, CNC machines use cutting tools to remove material from solid blocks with high accuracy. Engineers often source CNC machining through outsourced manufacturing partners to meet tight tolerances and quality requirements.Â This process supports tight tolerances and strong material performance, making it suitable for prototyping and low-to-medium volume production. While CNC machining offers high repeatability, it has design constraints compared with additive manufacturing because material is removed rath..."
+    },
+    {
+      "hash": "c332dbb68ecc5f5a80d7f15eac5683935cfdbb59",
+      "heading": "What are the advantages and disadvantages of CNC machining?",
+      "level": "h2",
+      "text": "CNC machining is a widely used subtractive manufacturing technology for producing custom metal and plastic components with precision, reliability, and versatility. Guided by digital CAD models, CNC machines use cutting tools to remove material from solid blocks with high accuracy. Engineers often source CNC machining through outsourced manufacturing partners to meet tight tolerances and quality requirements.Â This process supports tight tolerances and strong material performance, making it suitable for prototyping and low-to-medium volume production. While CNC machining offers high repeatability, it has design constraints compared with additive manufacturing because material is removed rath..."
+    },
+    {
+      "hash": "c332dbb68ecc5f5a80d7f15eac5683935cfdbb59",
+      "heading": "Advantages of CNC MachiningÂ",
+      "level": "h3",
+      "text": "CNC machining is a widely used subtractive manufacturing technology for producing custom metal and plastic components with precision, reliability, and versatility. Guided by digital CAD models, CNC machines use cutting tools to remove material from solid blocks with high accuracy. Engineers often source CNC machining through outsourced manufacturing partners to meet tight tolerances and quality requirements.Â This process supports tight tolerances and strong material performance, making it suitable for prototyping and low-to-medium volume production. While CNC machining offers high repeatability, it has design constraints compared with additive manufacturing because material is removed rath..."
+    },
+    {
+      "hash": "c332dbb68ecc5f5a80d7f15eac5683935cfdbb59",
+      "heading": "Disadvantages of CNC MachiningÂ",
+      "level": "h3",
+      "text": "CNC machining is a widely used subtractive manufacturing technology for producing custom metal and plastic components with precision, reliability, and versatility. Guided by digital CAD models, CNC machines use cutting tools to remove material from solid blocks with high accuracy. Engineers often source CNC machining through outsourced manufacturing partners to meet tight tolerances and quality requirements.Â This process supports tight tolerances and strong material performance, making it suitable for prototyping and low-to-medium volume production. While CNC machining offers high repeatability, it has design constraints compared with additive manufacturing because material is removed rath..."
+    },
+    {
+      "hash": "c332dbb68ecc5f5a80d7f15eac5683935cfdbb59",
+      "heading": "What are Protolabs Network's rules of thumb for CNC machining?",
+      "level": "h2",
+      "text": "CNC machining is a widely used subtractive manufacturing technology for producing custom metal and plastic components with precision, reliability, and versatility. Guided by digital CAD models, CNC machines use cutting tools to remove material from solid blocks with high accuracy. Engineers often source CNC machining through outsourced manufacturing partners to meet tight tolerances and quality requirements.Â This process supports tight tolerances and strong material performance, making it suitable for prototyping and low-to-medium volume production. While CNC machining offers high repeatability, it has design constraints compared with additive manufacturing because material is removed rath..."
+    },
+    {
+      "hash": "c332dbb68ecc5f5a80d7f15eac5683935cfdbb59",
+      "heading": "Get a QuoteÂ",
+      "level": "h2",
+      "text": "CNC machining is a widely used subtractive manufacturing technology for producing custom metal and plastic components with precision, reliability, and versatility. Guided by digital CAD models, CNC machines use cutting tools to remove material from solid blocks with high accuracy. Engineers often source CNC machining through outsourced manufacturing partners to meet tight tolerances and quality requirements.Â This process supports tight tolerances and strong material performance, making it suitable for prototyping and low-to-medium volume production. While CNC machining offers high repeatability, it has design constraints compared with additive manufacturing because material is removed rath..."
+    },
+    {
+      "hash": "c332dbb68ecc5f5a80d7f15eac5683935cfdbb59",
+      "heading": "Frequently asked questions",
+      "level": "h2",
+      "text": "CNC machining is a widely used subtractive manufacturing technology for producing custom metal and plastic components with precision, reliability, and versatility. Guided by digital CAD models, CNC machines use cutting tools to remove material from solid blocks with high accuracy. Engineers often source CNC machining through outsourced manufacturing partners to meet tight tolerances and quality requirements.Â This process supports tight tolerances and strong material performance, making it suitable for prototyping and low-to-medium volume production. While CNC machining offers high repeatability, it has design constraints compared with additive manufacturing because material is removed rath..."
+    },
+    {
+      "hash": "c332dbb68ecc5f5a80d7f15eac5683935cfdbb59",
+      "heading": "What's the best application of CNC machining?",
+      "level": "h3",
+      "text": "CNC machining is a widely used subtractive manufacturing technology for producing custom metal and plastic components with precision, reliability, and versatility. Guided by digital CAD models, CNC machines use cutting tools to remove material from solid blocks with high accuracy. Engineers often source CNC machining through outsourced manufacturing partners to meet tight tolerances and quality requirements.Â This process supports tight tolerances and strong material performance, making it suitable for prototyping and low-to-medium volume production. While CNC machining offers high repeatability, it has design constraints compared with additive manufacturing because material is removed rath..."
+    },
+    {
+      "hash": "c332dbb68ecc5f5a80d7f15eac5683935cfdbb59",
+      "heading": "What are the most common CNC machining cutting tools?",
+      "level": "h3",
+      "text": "CNC machining is a widely used subtractive manufacturing technology for producing custom metal and plastic components with precision, reliability, and versatility. Guided by digital CAD models, CNC machines use cutting tools to remove material from solid blocks with high accuracy. Engineers often source CNC machining through outsourced manufacturing partners to meet tight tolerances and quality requirements.Â This process supports tight tolerances and strong material performance, making it suitable for prototyping and low-to-medium volume production. While CNC machining offers high repeatability, it has design constraints compared with additive manufacturing because material is removed rath..."
+    },
+    {
+      "hash": "c332dbb68ecc5f5a80d7f15eac5683935cfdbb59",
+      "heading": "Which industries use CNC machining the most?",
+      "level": "h3",
+      "text": "CNC machining is a widely used subtractive manufacturing technology for producing custom metal and plastic components with precision, reliability, and versatility. Guided by digital CAD models, CNC machines use cutting tools to remove material from solid blocks with high accuracy. Engineers often source CNC machining through outsourced manufacturing partners to meet tight tolerances and quality requirements.Â This process supports tight tolerances and strong material performance, making it suitable for prototyping and low-to-medium volume production. While CNC machining offers high repeatability, it has design constraints compared with additive manufacturing because material is removed rath..."
+    },
+    {
+      "hash": "c332dbb68ecc5f5a80d7f15eac5683935cfdbb59",
+      "heading": "Is CNC machining completely automated?",
+      "level": "h3",
+      "text": "CNC machining is a widely used subtractive manufacturing technology for producing custom metal and plastic components with precision, reliability, and versatility. Guided by digital CAD models, CNC machines use cutting tools to remove material from solid blocks with high accuracy. Engineers often source CNC machining through outsourced manufacturing partners to meet tight tolerances and quality requirements.Â This process supports tight tolerances and strong material performance, making it suitable for prototyping and low-to-medium volume production. While CNC machining offers high repeatability, it has design constraints compared with additive manufacturing because material is removed rath..."
+    },
+    {
+      "hash": "c332dbb68ecc5f5a80d7f15eac5683935cfdbb59",
+      "heading": "What's the general surface texture of CNC milled and turned parts?",
+      "level": "h3",
+      "text": "CNC machining is a widely used subtractive manufacturing technology for producing custom metal and plastic components with precision, reliability, and versatility. Guided by digital CAD models, CNC machines use cutting tools to remove material from solid blocks with high accuracy. Engineers often source CNC machining through outsourced manufacturing partners to meet tight tolerances and quality requirements.Â This process supports tight tolerances and strong material performance, making it suitable for prototyping and low-to-medium volume production. While CNC machining offers high repeatability, it has design constraints compared with additive manufacturing because material is removed rath..."
+    },
+    {
+      "hash": "c332dbb68ecc5f5a80d7f15eac5683935cfdbb59",
+      "heading": "How do you speed up CNC manufacturing?",
+      "level": "h3",
+      "text": "CNC machining is a widely used subtractive manufacturing technology for producing custom metal and plastic components with precision, reliability, and versatility. Guided by digital CAD models, CNC machines use cutting tools to remove material from solid blocks with high accuracy. Engineers often source CNC machining through outsourced manufacturing partners to meet tight tolerances and quality requirements.Â This process supports tight tolerances and strong material performance, making it suitable for prototyping and low-to-medium volume production. While CNC machining offers high repeatability, it has design constraints compared with additive manufacturing because material is removed rath..."
+    },
+    {
+      "hash": "0c8b4542146dfdb054bcdf18dec3ca22b1233beb",
+      "heading": "More resources for engineers",
+      "level": "h2",
+      "text": "More resources for engineers Types of taps: A practical guide for machining Read article What is G-code? An explanation of the best CNC methods Read article Differences between jigs and fixtures Read article Precision CNC machining: Engineering high-accuracy components Read article Types of CNC machines: A practical overview Read article Comparing 3 axis versus 5 axis in CNC machining Read article CNC machining for small parts Read article A guide to acrylic CNC machining Read article CNC turning machines: How they work and when to use them in manufacturing Read article Precision CNC machining for aerospace applications Read article What is CNC machining best for? How engineers use it in pr..."
+    },
+    {
+      "hash": "10cdb7d034c135ce5d58e346ce11ec397f889b07",
+      "heading": "Types of taps: A practical guide for machining",
+      "level": "h3",
+      "text": "Types of taps: A practical guide for machining Read article"
+    },
+    {
+      "hash": "d2962461ce63d67dbec1a502c7644c41baee8b1d",
+      "heading": "What is G-code? An explanation of the best CNC methods",
+      "level": "h3",
+      "text": "What is G-code? An explanation of the best CNC methods Read article"
+    },
+    {
+      "hash": "b2f6abcd00e5c28bfc5cf7d25ffd4d9a34cfed1c",
+      "heading": "Differences between jigs and fixtures",
+      "level": "h3",
+      "text": "Differences between jigs and fixtures Read article"
+    },
+    {
+      "hash": "8a149ad2677ea3dd15bf9afc54f9130b81c09323",
+      "heading": "Precision CNC machining: Engineering high-accuracy components",
+      "level": "h3",
+      "text": "Precision CNC machining: Engineering high-accuracy components Read article"
+    },
+    {
+      "hash": "135c3312b68425bc2135431ed849273dec0d87de",
+      "heading": "Types of CNC machines: A practical overview",
+      "level": "h3",
+      "text": "Types of CNC machines: A practical overview Read article"
+    },
+    {
+      "hash": "b3f1f35c7e793ed38341399a9b63a9b3f6514d49",
+      "heading": "Comparing 3 axis versus 5 axis in CNC machining",
+      "level": "h3",
+      "text": "Comparing 3 axis versus 5 axis in CNC machining Read article"
+    },
+    {
+      "hash": "efb615412b1cc0d1e3738bd410862010f6fa0771",
+      "heading": "CNC machining for small parts",
+      "level": "h3",
+      "text": "CNC machining for small parts Read article"
+    },
+    {
+      "hash": "b60584539399bfd1cb59c00c3ce6b54b083180e0",
+      "heading": "A guide to acrylic CNC machining",
+      "level": "h3",
+      "text": "A guide to acrylic CNC machining Read article"
+    },
+    {
+      "hash": "e288bf74a0582f0742a3d9e27ae88553c26a569d",
+      "heading": "CNC turning machines: How they work and when to use them in manufacturing",
+      "level": "h3",
+      "text": "CNC turning machines: How they work and when to use them in manufacturing Read article"
+    },
+    {
+      "hash": "2235850c2ef812847b959f22a6be0a08f300d1fc",
+      "heading": "Precision CNC machining for aerospace applications",
+      "level": "h3",
+      "text": "Precision CNC machining for aerospace applications Read article"
+    },
+    {
+      "hash": "64c8d46b5509aa86bb1c10e73ab69ce617cb3ad5",
+      "heading": "What is CNC machining best for? How engineers use it in practice",
+      "level": "h3",
+      "text": "What is CNC machining best for? How engineers use it in practice Read article"
+    },
+    {
+      "hash": "c13df12603aa232d973f2b2622a8de4e53b6dcad",
+      "heading": "The advantages of 5-axis CNC machining",
+      "level": "h3",
+      "text": "The advantages of 5-axis CNC machining Read article"
+    },
+    {
+      "hash": "1fa7a7d46b028d1e6b711952f4d87ae98aacd6ca",
+      "heading": "Ready to transform your CAD file into a custom part? Upload your designs for a free, instant quote.",
+      "level": "h2",
+      "text": "Ready to transform your CAD file into a custom part? Upload your designs for a free, instant quote. Get an instant quote"
+    }
+  ],
+  "status": 200,
+  "structure_hash": "5c7f1e3c68418ab745496ed035214ad3ade5e8d3",
+  "text_excerpt": "What is CNC machining? | Protolabs Network Help center EN English Deutsch Francais Nederlands Go to homepage Get instant quote How it works On-demand, custom manufacturing How it works On-demand, custom manufacturing How Protolabs Network works How ordering works Using Protolabs Network from quote to delivery IP protection How we guarantee security and confidentiality Quality & consistency Quality standards Processes and systems for maintaining the highest quality Manufacturing partners How we manage our suppliers Features Team Accounts How to collaborate with a team account Capabilities Prototypes and production parts Capabilities Prototypes and production parts 3D printing 3D printing service Fused Deposition Modeling (FDM) Stereolithography (SLA) Selective Laser Sintering (SLS) Multi Jet Fusion (MJF) CNC machining CNC machining service CNC milling CNC turning Additional services Sheet metal fabrication service Injection molding service Production orders Popular finishes As machined Smooth machining Aluminum anodizing Bead blasting Polishing Vapor smoothing New Black oxide Powder coating View all surface finishes Industries Join thousands of industry leaders developing revolutio...",
+  "text_hash": "50752cab905a380db2ae404531894c4c5f3b805a",
+  "title": "What is CNC machining? | Protolabs Network",
+  "url": "https://www.hubs.com/knowledge-base/cnc-machining-manufacturing-technology-explained"
+}

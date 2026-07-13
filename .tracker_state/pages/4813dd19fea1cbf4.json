@@ -1,0 +1,159 @@
+{
+  "canonical": "",
+  "category": "content",
+  "competitor": "PCBWay",
+  "ctas": [
+    {
+      "href": "/orderonline.aspx",
+      "text": "PCB Instant Quote"
+    },
+    {
+      "href": "javascript:void(0)",
+      "text": "Sign Up"
+    },
+    {
+      "href": "/project/shareproject/?order=1",
+      "text": "By Source Files"
+    },
+    {
+      "href": "/project/shareproject/?order=1",
+      "text": "View all source files projects"
+    },
+    {
+      "href": "/project/shareproject/?order=1",
+      "text": "Source Files"
+    },
+    {
+      "href": "/blog/club-publish.html",
+      "text": "Submit for Publication"
+    },
+    {
+      "href": "/blog/Activities/Submit_for_Publication___Now_I_Write_Articles_in_PCBWay.html",
+      "text": "Write for PCBWay"
+    },
+    {
+      "href": "/blog/?tag=PCB industry",
+      "text": "PCB industry"
+    },
+    {
+      "href": "/contact.html",
+      "text": "Contact us"
+    }
+  ],
+  "fetched_at": "2026-07-13T07:45:04+00:00",
+  "h1": "How to Generate Gerber, Drill Files and Centroid File From Eagle 9.6.2",
+  "headings": [
+    {
+      "level": "h1",
+      "text": "How to Generate Gerber, Drill Files and Centroid File From Eagle 9.6.2"
+    },
+    {
+      "level": "h3",
+      "text": "Generate Gerber, Drill File and Centroid File (PnP File)"
+    },
+    {
+      "level": "h3",
+      "text": "Online Gerber Files Viewer by PCBWay"
+    },
+    {
+      "level": "h3",
+      "text": "Related articles"
+    }
+  ],
+  "images": [
+    {
+      "alt": "",
+      "src": "/project/img/images/avatar/user-pic.png"
+    },
+    {
+      "alt": "",
+      "src": "/project/img/images/loading-pro.gif"
+    },
+    {
+      "alt": "",
+      "src": "https://pcbwayfile.s3.us-west-2.amazonaws.com/web/23/10/03/1152415436848m.jpeg"
+    },
+    {
+      "alt": "",
+      "src": "https://pcbwayfile.s3.us-west-2.amazonaws.com/web/25/02/01/195239553dd028d967de6453aa74b91ac0e5423e73248m.png"
+    },
+    {
+      "alt": "",
+      "src": "https://pcbwayfile.s3-us-west-2.amazonaws.com/web/21/08/30/1823256917346m.png"
+    },
+    {
+      "alt": "",
+      "src": "https://pcbwayfile.s3.us-west-2.amazonaws.com/web/23/06/14/0900096368682t.png"
+    },
+    {
+      "alt": "",
+      "src": "https://pcbwayfile.s3.us-west-2.amazonaws.com/web/23/06/14/0900211294003t.png"
+    },
+    {
+      "alt": "",
+      "src": "https://pcbwayfile.s3.us-west-2.amazonaws.com/web/23/06/14/0900349677136t.png"
+    },
+    {
+      "alt": "",
+      "src": "https://pcbwayfile.s3.us-west-2.amazonaws.com/web/23/06/14/0900422566528t.png"
+    },
+    {
+      "alt": "",
+      "src": "https://pcbwayfile.s3.us-west-2.amazonaws.com/web/23/06/14/0901002431642t.png"
+    },
+    {
+      "alt": "",
+      "src": "https://pcbwayfile.s3.us-west-2.amazonaws.com/web/23/08/02/1557317153118t.png"
+    },
+    {
+      "alt": "",
+      "src": "https://pcbwayfile.s3.us-west-2.amazonaws.com/web/23/06/14/0901321195103t.png"
+    },
+    {
+      "alt": "",
+      "src": "https://pcbwayfile.s3.us-west-2.amazonaws.com/web/23/06/14/0901406307383t.png"
+    },
+    {
+      "alt": "",
+      "src": "https://pcbwayfile.s3.us-west-2.amazonaws.com/web/23/06/14/0901528863731t.png"
+    },
+    {
+      "alt": "",
+      "src": "/img/images/note-tips.png"
+    }
+  ],
+  "meta_description": "",
+  "requested_url": "https://www.pcbway.com/blog/PCB_Design_Tutorial/How_to_Generate_Gerber_and_Drill_Files_From_Eagle_9_6_2_93d3fa9c.html",
+  "sections": [
+    {
+      "hash": "31a0782733eb7c0b224c7fe81dc0a0a3b96c6808",
+      "heading": "How to Generate Gerber, Drill Files and Centroid File From Eagle 9.6.2",
+      "level": "h1",
+      "text": "Blog > How to Generate Gerber, Drill Files and Centroid File From Eagle 9.6.2 How to Generate Gerber, Drill Files and Centroid File From Eagle 9.6.2 by: Mia Jun 14,2023 20483 Views 0 Comments Posted in PCB Design Tutorial Tutorial PCB design Gerber Eagle In this tutorial, we will show you how to generate Gerber files and drill files from Autodesk Eagle 9.6.2 CAD version. Generate Gerber, Drill File and Centroid File (PnP File) Open the control panel of Eagle and select \"File\"->\"Open\"->\"Board\". Choose the .brd file you want to use. This guide uses the board example provided by the Eagle. The name of the file is Arduino_MEGA2560_ref.brd. At this point, a window displaying the PCB layout will..."
+    },
+    {
+      "hash": "52f33038957816136a8cb1f425ea30947cdafdd4",
+      "heading": "Generate Gerber, Drill File and Centroid File (PnP File)",
+      "level": "h3",
+      "text": "In this tutorial, we will show you how to generate Gerber files and drill files from Autodesk Eagle 9.6.2 CAD version. Generate Gerber, Drill File and Centroid File (PnP File) Open the control panel of Eagle and select \"File\"->\"Open\"->\"Board\". Choose the .brd file you want to use. This guide uses the board example provided by the Eagle. The name of the file is Arduino_MEGA2560_ref.brd. At this point, a window displaying the PCB layout will appear, as shown in the following image: Click on the CAM Processor button on the toolbar (the one without the green arrow), or select \"File\"->\"CAM Processor\". Tips: To avoid potential manufacturing issues, it is highly recommended to perform a DRC check..."
+    },
+    {
+      "hash": "52f33038957816136a8cb1f425ea30947cdafdd4",
+      "heading": "Online Gerber Files Viewer by PCBWay",
+      "level": "h3",
+      "text": "In this tutorial, we will show you how to generate Gerber files and drill files from Autodesk Eagle 9.6.2 CAD version. Generate Gerber, Drill File and Centroid File (PnP File) Open the control panel of Eagle and select \"File\"->\"Open\"->\"Board\". Choose the .brd file you want to use. This guide uses the board example provided by the Eagle. The name of the file is Arduino_MEGA2560_ref.brd. At this point, a window displaying the PCB layout will appear, as shown in the following image: Click on the CAM Processor button on the toolbar (the one without the green arrow), or select \"File\"->\"CAM Processor\". Tips: To avoid potential manufacturing issues, it is highly recommended to perform a DRC check..."
+    },
+    {
+      "hash": "b8127f52941c63daea675541cf2ea34e93f7b651",
+      "heading": "Related articles",
+      "level": "h3",
+      "text": "Related articles Circuit Symbols Explained: A Complete Guide to Electronic Symbols and Schematic Symbols in PCB Design Mixed-Signal PCB Design: A Practical Engineering Guide Decoupling Capacitor Placement Guidelines for High-Speed PCB Design How PCB Design Decisions Impact Manufacturing Cost"
+    }
+  ],
+  "status": 200,
+  "structure_hash": "49dd3cb7baa40568bac78aad3c9eb63ae4642809",
+  "text_excerpt": "How to Generate Gerber, Drill Files and Centroid File From Eagle 9.6.2 - PCB Design Tutorial - PCBway PCBWay Community Search title or content Search PCBWay PCB Instant Quote CNC | 3D Printing Login Sign Up More Notifications No notifications. My Profile My projects My Likes My Deals My Goods for Bazaar Settings Sign Out Projects Categories DIY Electronics Arduino Hardware Audio Computers & USB Breakout Board Projects Home Automation LED Displays & Matrices IoT Robotics View all categories By Source Files Onju Voice - AI assistant replacement to Google Nest Mini by @justLV LogicAnalyzer V6.0 DIY 1kW Open Source MPPT Solar Charge Controller Tad Boy Color SummerCart64 - a fully open source N64 flashcart kv4p HT v1.7b QuinLED-Dig-Uno Bike Fingerprint - PCB Arduino RC engine sound & light controller with inertia simulation for ESP32 Solar Powered WiFi Weather Station V2.0 Frog Boy Color SIDKick pico 0.2 (SID 6581/8580-replacement for C64/C128) View all source files projects Featured Projects Onju Voice - AI assistant replacement to Google Nest Mini by @justLV LogicAnalyzer V6.0 DIY 1kW Open Source MPPT Solar Charge Controller Featured Source Files Video View all projects Questions Spo...",
+  "text_hash": "cff08f8c4056abd57e3b462576f5c84ed49d0fad",
+  "title": "How to Generate Gerber, Drill Files and Centroid File From Eagle 9.6.2 - PCB Design Tutorial - PCBway",
+  "url": "https://www.pcbway.com/blog/PCB_Design_Tutorial/How_to_Generate_Gerber_and_Drill_Files_From_Eagle_9_6_2_93d3fa9c.html"
+}

@@ -1,0 +1,599 @@
+{
+  "canonical": "",
+  "category": "service",
+  "competitor": "Xometry",
+  "ctas": [
+    {
+      "href": "",
+      "text": "Get an Instant Quote"
+    },
+    {
+      "href": "/capabilities/injection-molding-quote/",
+      "text": "Injection Molding Services"
+    },
+    {
+      "href": "/hardware-startups/",
+      "text": "Hardware Startups"
+    },
+    {
+      "href": "/capabilities/",
+      "text": "Xometry Production Guide"
+    },
+    {
+      "href": "https://community.xometry.com/kb",
+      "text": "FAQs"
+    },
+    {
+      "href": "https://community.xometry.com/",
+      "text": "Supplier Community"
+    },
+    {
+      "href": "/contact-us/",
+      "text": "Contact Us"
+    },
+    {
+      "href": "mailto:support@xometry.com",
+      "text": "support@xometry.com"
+    },
+    {
+      "href": "https://community.xometry.com/kb",
+      "text": "Help Center"
+    },
+    {
+      "href": "/xometry-enterprise/",
+      "text": "Xometry Enterprise"
+    },
+    {
+      "href": "/xometry-enterprise/teamspace/",
+      "text": "Discover Xometry Teamspace"
+    },
+    {
+      "href": "/xometry-enterprise/xometry-integration-punchout/",
+      "text": "eProcurement Integrations"
+    },
+    {
+      "href": "/xometry-enterprise/production-quotes/",
+      "text": "Bulk Upload for Production Quotes"
+    },
+    {
+      "href": "/xometry-enterprise/onboard-xometry/",
+      "text": "Onboard Xometry As Your Vendor"
+    },
+    {
+      "href": "/quoting/home/",
+      "text": "Xometry's Platform"
+    },
+    {
+      "href": "/how-xometry-works/",
+      "text": "How to Use the Xometry Instant Quoting EngineÂ®"
+    },
+    {
+      "href": "/testdrive/",
+      "text": "Test Drive Xometry"
+    },
+    {
+      "href": "/how-xometry-works/tool-details/",
+      "text": "Tool Library and Tool Detail Pages"
+    },
+    {
+      "href": "https://community.xometry.com/",
+      "text": "From Our FAQ"
+    },
+    {
+      "href": "https://community.xometry.com/kb/articles/839-part-revisions-same-suppliers-for-repeat-orders",
+      "text": "Part Revisions & Same-Suppliers for Repeat Orders"
+    },
+    {
+      "href": "https://community.xometry.com/kb/articles/689-are-my-uploaded-files-and-xometry-projects-secure",
+      "text": "Xometry's Privacy and Security"
+    },
+    {
+      "href": "/about-us/",
+      "text": "About Xometry"
+    },
+    {
+      "href": "/quality-lab/",
+      "text": "Xometryâs Quality Assurance"
+    },
+    {
+      "href": "/manufacturing-partner-network-overview/",
+      "text": "Xometryâs Supplier Network"
+    },
+    {
+      "href": "/machine-learning-for-manufacturing/",
+      "text": "Xometry's Machine Learning"
+    },
+    {
+      "href": "/capabilities/community/",
+      "text": "Xometry's Manufacturing Community"
+    },
+    {
+      "href": "https://prismic-io.s3.amazonaws.com/xometry-marketing/17b3b40b-b779-41b4-b971-a499391127e2_VeroUltra+Material+Datasheet.pdf",
+      "text": "VeroUltra"
+    },
+    {
+      "href": "https://prismic-io.s3.amazonaws.com/xometry-marketing/6b304665-8c45-42ea-8ccd-55213005bedf_PolyJet+Vero+Datasheet.pdf",
+      "text": "Vero"
+    },
+    {
+      "href": "https://prismic-io.s3.amazonaws.com/xometry-marketing/86481477-ab4a-4a1c-9e01-70c2d310c3a8_Agilus30+Material+Datasheet.pdf",
+      "text": "Agilus30 Material Data Sheet"
+    },
+    {
+      "href": "https://prismic-io.s3.amazonaws.com/xometry-marketing/565e150e-26fc-44c5-9852-9348fe1aa61d_Digital+Materials+Datasheet.pdf",
+      "text": "Digital Materials Data Sheet"
+    },
+    {
+      "href": "/quoting/home/?processInitialisms=PolyJet",
+      "text": "Xometry quote"
+    },
+    {
+      "href": "https://community.xometry.com/kb/articles/651",
+      "text": "learn more"
+    },
+    {
+      "href": "",
+      "text": "Get Your Instant Quote"
+    },
+    {
+      "href": "https://www.xometry.com/capabilities/cnc-machining-service/",
+      "text": "CNC Machining"
+    },
+    {
+      "href": "https://www.xometry.com/capabilities/3d-printing-service/",
+      "text": "3D Printing"
+    },
+    {
+      "href": "https://www.xometry.com/capabilities/sheet-metal-fabrication/",
+      "text": "Sheet Metal Fabrication"
+    },
+    {
+      "href": "https://www.xometry.com/capabilities/injection-molding-service/",
+      "text": "Injection Molding"
+    },
+    {
+      "href": "https://www.xometry.com/capabilities/die-casting-services/",
+      "text": "Metal Forming & Die Casting"
+    },
+    {
+      "href": "https://www.xometry.com/xometry-enterprise/",
+      "text": "Enterprise"
+    },
+    {
+      "href": "https://www.xometry.com/aerospace-and-defense/",
+      "text": "Aerospace & Defense"
+    },
+    {
+      "href": "https://www.xometry.com/automotive/",
+      "text": "Automotive"
+    },
+    {
+      "href": "https://www.xometry.com/medical-and-dental/",
+      "text": "Medical & Dental"
+    },
+    {
+      "href": "https://www.xometry.com/electronics-and-semiconductors/",
+      "text": "Electronics & Semiconductors"
+    },
+    {
+      "href": "https://www.xometry.com/data-centers/",
+      "text": "Data Centers"
+    },
+    {
+      "href": "https://www.xometry.com/about-us/",
+      "text": "About"
+    },
+    {
+      "href": "https://www.xometry.com/careers",
+      "text": "Careers"
+    },
+    {
+      "href": "https://investors.xometry.com/news-and-events/news-releases",
+      "text": "Press"
+    },
+    {
+      "href": "https://investors.xometry.com/",
+      "text": "Investor Relations"
+    },
+    {
+      "href": "https://www.xometry.com/legal/",
+      "text": "Legal"
+    },
+    {
+      "href": "https://www.xometry.com/technical-resources/",
+      "text": "Technical Hub"
+    },
+    {
+      "href": "https://www.xometry.com/resources/design-guides/",
+      "text": "Design Guides"
+    },
+    {
+      "href": "https://www.xometry.com/get-started/",
+      "text": "Get Started"
+    },
+    {
+      "href": "https://www.xometry.com/resources/case-studies/",
+      "text": "Case Studies"
+    },
+    {
+      "href": "https://www.xometry.com/materials/",
+      "text": "Materials Guide"
+    },
+    {
+      "href": "https://www.xometry.com/finishes/",
+      "text": "Finishes Guide"
+    },
+    {
+      "href": "https://www.xometry.com/manufacturing-standards/",
+      "text": "Manufacturing Standards"
+    },
+    {
+      "href": "https://www.xometry.com/cad-add-ins/",
+      "text": "CAD Add-ins"
+    },
+    {
+      "href": "https://www.xometry.com/release-notes/",
+      "text": "Release Notes"
+    },
+    {
+      "href": "https://www.xometry.com/manufacturing-partner-network-overview/",
+      "text": "Xometry Partner Network"
+    },
+    {
+      "href": "https://www.xometry.com/become-a-supplier/",
+      "text": "Become a Supplier"
+    }
+  ],
+  "fetched_at": "2026-07-13T07:37:54+00:00",
+  "h1": "PolyJet 3D Printing Service",
+  "headings": [
+    {
+      "level": "h1",
+      "text": "PolyJet 3D Printing Service"
+    },
+    {
+      "level": "h3",
+      "text": "PolyJet 3D Printing"
+    },
+    {
+      "level": "h2",
+      "text": "PolyJet Materials"
+    },
+    {
+      "level": "h3",
+      "text": "Full Color 3D Printing With PolyJet"
+    },
+    {
+      "level": "h2",
+      "text": "PolyJet Color 3D Printing Examples"
+    },
+    {
+      "level": "h3",
+      "text": "Full Color 3D Printing Best Practices"
+    },
+    {
+      "level": "h2",
+      "text": "PolyJet Finishes"
+    },
+    {
+      "level": "h3",
+      "text": "Standard"
+    },
+    {
+      "level": "h3",
+      "text": "Additional Finishes"
+    },
+    {
+      "level": "h3",
+      "text": "Ready to get started on your PolyJet quote?"
+    },
+    {
+      "level": "h3",
+      "text": "Applications of PolyJet"
+    },
+    {
+      "level": "h2",
+      "text": "Advantages of Polyjet"
+    },
+    {
+      "level": "h3",
+      "text": "Efficiency"
+    },
+    {
+      "level": "h3",
+      "text": "Complex Geometry"
+    },
+    {
+      "level": "h3",
+      "text": "Rubber-like Flexibility"
+    },
+    {
+      "level": "h3",
+      "text": "Material Selection"
+    },
+    {
+      "level": "h3",
+      "text": "Rapid Turnaround"
+    },
+    {
+      "level": "h2",
+      "text": "Polyjet General Tolerances"
+    },
+    {
+      "level": "h3",
+      "text": "Need to Compare Printing Processes?"
+    },
+    {
+      "level": "h3",
+      "text": "Overview: What is PolyJet 3D Printing?"
+    },
+    {
+      "level": "h3",
+      "text": "Why Choose Xometry for PolyJet?"
+    },
+    {
+      "level": "h3",
+      "text": "Download the PolyJet Design Guide"
+    }
+  ],
+  "images": [
+    {
+      "alt": "",
+      "src": "data:image/svg+xml;charset=utf-8,%3Csvg%20height='492'%20width='492'%20xmlns='http://www.w3.org/2000/svg'%20version='1.1'%3E%3C/svg%3E"
+    },
+    {
+      "alt": "Xometry Resources",
+      "src": "https://images.prismic.io/xometry-marketing/91391418-a0e7-4925-9b27-f08dc2d0c687_Polyjet_X-tile_no-bg.png?auto=format%2Ccompress&rect=195%2C0%2C1200%2C1200&w=492&h=492&fit=max"
+    },
+    {
+      "alt": "Xometry Resources",
+      "src": "https://images.prismic.io/xometry-marketing/83ada7ff-e014-42b0-a45f-946ee9298753_polyjet_CMYK-parts.png?auto=format%2Ccompress&rect=20%2C0%2C1440%2C1440&w=492&h=492&fit=max"
+    },
+    {
+      "alt": "",
+      "src": "data:image/svg+xml;charset=utf-8,%3Csvg%20height='231'%20width='231'%20xmlns='http://www.w3.org/2000/svg'%20version='1.1'%3E%3C/svg%3E"
+    },
+    {
+      "alt": "Xometry Image",
+      "src": "https://images.prismic.io/xometry-marketing/f8c70c8c-e4da-4564-ac2a-266d274c458a_PolyJet-Toast-%281%29.jpg?auto=format%2Ccompress&rect=-15%2C0%2C39587%2C39587&w=231&h=231&fit=max"
+    },
+    {
+      "alt": "Xometry Image",
+      "src": "https://images.prismic.io/xometry-marketing/22ebdd22-4fe6-4703-b648-19fe8ff740eb_PolyJet-Multi-Material-HDMI-Cable.jpg?auto=format%2Ccompress&rect=-154%2C-111%2C22621%2C22621&w=23..."
+    },
+    {
+      "alt": "Xometry Image",
+      "src": "https://images.prismic.io/xometry-marketing/3549b547-a13d-4d68-936e-63538b8fbc25_PolyJet-X-Rainbow-Kickstand-%281%29.jpg?auto=format%2Ccompress&rect=-41%2C0%2C39587%2C39587&w=231&..."
+    },
+    {
+      "alt": "Xometry Image",
+      "src": "https://images.prismic.io/xometry-marketing/051c6b77-31ff-4d7c-b38f-96223f680b12_PolyJet-Handheld-Radio-%281%29.jpg?auto=format%2Ccompress&rect=-38%2C0%2C39587%2C39587&w=231&h=231..."
+    },
+    {
+      "alt": "Xometry Image",
+      "src": "https://images.prismic.io/xometry-marketing/04eae022-3087-4087-8ab4-3b8845aa0bfb_PolyJet-Cookie.jpg?auto=format%2Ccompress&rect=-160%2C-105%2C22621%2C22621&w=231&h=231&fit=max"
+    },
+    {
+      "alt": "Xometry Image",
+      "src": "https://images.prismic.io/xometry-marketing/be373bbe-d421-42cf-afcd-a52555cfd4cb_PolyJet-Avacado.jpg?auto=format%2Ccompress&rect=-154%2C-105%2C22621%2C22621&w=231&h=231&fit=max"
+    },
+    {
+      "alt": "Xometry Image",
+      "src": "https://images.prismic.io/xometry-marketing/7ecc4812-5b5f-4735-85f6-c32ee9aeb5aa_PolyJet-Stratasys-Wine-Bottle.jpg?auto=format%2Ccompress&rect=0%2C-38%2C32004%2C32004&w=231&h=231&..."
+    },
+    {
+      "alt": "Xometry Image",
+      "src": "https://images.prismic.io/xometry-marketing/c6d8c550-ff2e-457a-8da2-a4404310a79d_PolyJet-Color-Transparency-Enclosure-%281%29.jpg?auto=format%2Ccompress&rect=-30%2C0%2C39587%2C395..."
+    },
+    {
+      "alt": "Isometric illustration of the Polyjet printing process.",
+      "src": "https://xometry-marketing.cdn.prismic.io/xometry-marketing/cf64d1d2-a17a-4911-9124-dd10ca11003d_Polyjet.svg?rect=0%2C0%2C70%2C70&w=200&h=200%3Fauto%3Dcompress%2Cformat&fit=max"
+    },
+    {
+      "alt": "",
+      "src": "data:image/svg+xml;charset=utf-8,%3Csvg%20height='185'%20width='185'%20xmlns='http://www.w3.org/2000/svg'%20version='1.1'%3E%3C/svg%3E"
+    },
+    {
+      "alt": "Concept models",
+      "src": "https://images.prismic.io/xometry-marketing/5194cdb8-807c-4c2a-95f4-2927ba76d0f3_icon-industries-logistics-inhand-001-20180305-adobestockID-127663570.png?auto=format%2Ccompress&fi..."
+    },
+    {
+      "alt": "Fast parts and fast shipping",
+      "src": "https://images.prismic.io/xometry-marketing/d48da758-fb01-42a7-8b23-62a279ae395e_icon-industries-logistics-speed-001-20180305-adobestockID-127663570.png?auto=format%2Ccompress&fit..."
+    },
+    {
+      "alt": "Rapid tooling",
+      "src": "https://images.prismic.io/xometry-marketing/46b72960-0c9f-4ef3-8901-7f43b1c17fa5_icon-industries-technology-gear-002-20180305-adobestockID-127665840.png?auto=format%2Ccompress&fit..."
+    },
+    {
+      "alt": "3D Printed Parts",
+      "src": "https://images.prismic.io/xometry-marketing/b92f7fa9-6c70-4247-9e54-32bf6bdb182e_3d-printing-assortment.png?auto=format%2Ccompress&w=200&h=200&fit=max"
+    },
+    {
+      "alt": "Isometric illustration of the Polyjet printing process.",
+      "src": "https://xometry-marketing.cdn.prismic.io/xometry-marketing/cf64d1d2-a17a-4911-9124-dd10ca11003d_Polyjet.svg?rect=0%2C0%2C28%2C28&w=492&h=492&fit=max"
+    },
+    {
+      "alt": "Xometry Illustration",
+      "src": "https://images.prismic.io/xometry-marketing/e7b66d54-0ac4-4ed2-9b4c-62db1c46b06c_Endless-Options.png?auto=format%2Ccompress&fit=max&w=185&h=185"
+    },
+    {
+      "alt": "Xometry Illustration",
+      "src": "https://images.prismic.io/xometry-marketing/c408f978-3fa0-45f1-ada7-8f03d93ce758_Project-Management.png?auto=format%2Ccompress&fit=max&w=185&h=185"
+    },
+    {
+      "alt": "Xometry Illustration",
+      "src": "https://images.prismic.io/xometry-marketing/25bb3ed3-9ce7-45db-a9cf-a4fea96ae2e8_Vetted-Network.png?auto=format%2Ccompress&fit=max&w=185&h=185"
+    },
+    {
+      "alt": "Xometry X Logo",
+      "src": "https://images.prismic.io/xometry-marketing/71eefbf6-5c2d-446a-b547-777392384f42_Logo+Mark+-+1000px.png?auto=format%2Ccompress&rect=0%2C24%2C1000%2C1000&w=200&h=200&fit=max"
+    },
+    {
+      "alt": "Xometry Inc.",
+      "src": "https://xometry-marketing.cdn.prismic.io/xometry-marketing/aUF6cHNYClf9oRtQ_Xometry_Light_Registered.svg?fit=max"
+    },
+    {
+      "alt": "",
+      "src": "https://xometry-marketing.cdn.prismic.io/xometry-marketing/afJuYcBOoF08xc3I_instagram.svg?fit=max"
+    },
+    {
+      "alt": "",
+      "src": "https://xometry-marketing.cdn.prismic.io/xometry-marketing/afJuYsBOoF08xc3J_linkedin-in.svg?fit=max"
+    },
+    {
+      "alt": "",
+      "src": "https://xometry-marketing.cdn.prismic.io/xometry-marketing/afJuY8BOoF08xc3K_youtube.svg?fit=max"
+    },
+    {
+      "alt": "",
+      "src": "https://xometry-marketing.cdn.prismic.io/xometry-marketing/afNddsBOoF08xf6h_xometry-logo-mark.svg?fit=max"
+    },
+    {
+      "alt": "",
+      "src": "https://xometry-marketing.cdn.prismic.io/xometry-marketing/afJtesBOoF08xc20_shield-halved.svg?fit=max"
+    }
+  ],
+  "meta_description": "PolyJet is a resin 3D printing technology known for its customizable material properties, full color printing, clear and rubber-like parts, and excellent surface finish for prototypes and high quality production parts.",
+  "requested_url": "https://www.xometry.com/capabilities/3d-printing-service/polyjet-3d",
+  "sections": [
+    {
+      "hash": "55ae63051fce752fb6dbbae467dbd9536c8649b6",
+      "heading": "PolyJet 3D Printing Service",
+      "level": "h1",
+      "text": "PolyJet 3D Printing Service Prototypes, full-color concept models, and simulated overmold parts in days | Free shipping on all US orders See How It Works"
+    },
+    {
+      "hash": "9ef689f8d431eb689f9a974a2dcf2428d8788ce6",
+      "heading": "PolyJet 3D Printing",
+      "level": "h3",
+      "text": "PolyJet 3D Printing PolyJet printing is a 3D printing technology known for its customizable material properties, excellent surface finish, incredible precision and speed. Our PolyJet machines support the ability to simultaneously print multiple materials and simulate rubber materials of different durometers, multi-color 3D printing, transparent or translucent parts, and simulated overmolds. Rigid and rubber-like options Multi-material 3D printing Color and transparency matched prototypes Multi-color prints 3D prints in as little as a business day High resolution parts with a smooth finish"
+    },
+    {
+      "hash": "caf9f8cedf6b30ebbc6eceb28d4050f726c2b980",
+      "heading": "PolyJet Materials",
+      "level": "h2",
+      "text": "PolyJet Materials Material Name Description Shore Hardness Elongation at Break (%) Notched Impact Strength (J/m) Data Sheets Material Name Photopolymer, Rigid Description VeroUltraâ¢ Black (RGD865), VeroUltraâ¢ White (RGD825), VeroUltraClear Component (RGD820), VeroClear (RGD810) Shore Hardness 83D - 86D Elongation at Break (%) 7% - 12% Notched Impact Strength (J/m) 19 - 25 J/M Data Sheets VeroUltra , Vero Material Name Photopolymer, Rubber-like (Digital rubber) Description Agilus30 + Vero Shore Hardness 26-28A, 35-40A, 45-50A, 57-63A, 68-72A, 80-85A, 92-95A Elongation at Break (%) 185% - 230% Notched Impact Strength (J/m) N/A Data Sheets Agilus30 Material Data Sheet , Digital Materials D..."
+    },
+    {
+      "hash": "5da346843c0ee1022f6bb3c1dfb45540693cef83",
+      "heading": "Full Color 3D Printing With PolyJet",
+      "level": "h3",
+      "text": "Full Color 3D Printing With PolyJet Xometry offers a full-color, high quality 3D printing service in addition to black, white, translucent, and grayscale utilizing the latest generation of PolyJet equipment from Stratasys. With over 600,000 available colors, Xometry can print color 3MF and other 3D formats. Have a Pantone, RAL, HEX, CMYK, or other color input? Choose \"Custom\" and write in the combination in your notes for a Xometry quote ! VeroUltraâ¢ Black (RGD865) VeroUltraâ¢ White (RGD825) VeroCyan-V (RGD845) VeroMagenta-V (RGD852) VeroYellow-V (RGD838) VeroUltraClear Component (RGD820), VeroClear (RGD810) Agilus30 and rubber-like digital materials Digital ABS Plus, Ivory (upon request..."
+    },
+    {
+      "hash": "295cebeef7b0123665ae60092669b5ed62393ad8",
+      "heading": "PolyJet Color 3D Printing Examples",
+      "level": "h2",
+      "text": "PolyJet Color 3D Printing Examples Toast PolyJet Rigid Multi-Color HDMI Cable PolyJet Multi-Material Color Sample PolyJet Rigid Multi-Color Radio Concept Model PolyJet Rigid Multi-Color Cookie PolyJet Rigid Multi-Color Avacados PolyJet Rigid Multi-Color Wine Bottle and Labels PolyJet Rigid Multi-Color Color Test for Prototypes PolyJet Rigid, Color Write In"
+    },
+    {
+      "hash": "5218ee9cea20a7e486a83c9e3728957c91374614",
+      "heading": "Full Color 3D Printing Best Practices",
+      "level": "h3",
+      "text": "Full Color 3D Printing Best Practices Learn the best practices and methods for full color 3D printing and how to order a full color print using Xometry's PolyJet services. Read the Full Case Study"
+    },
+    {
+      "hash": "1a55a5d4afcf8359a4eb78f31f9b64c41fad6276",
+      "heading": "PolyJet Finishes",
+      "level": "h2",
+      "text": "PolyJet Finishes"
+    },
+    {
+      "hash": "2dfa66079d9b7229409430972fd5f1567d78a3b6",
+      "heading": "Standard",
+      "level": "h3",
+      "text": "Standard"
+    },
+    {
+      "hash": "e6497117729e1f5666a0158bdd886127b849af01",
+      "heading": "Additional Finishes",
+      "level": "h3",
+      "text": "Additional Finishes"
+    },
+    {
+      "hash": "049ea4478d86644593b30a6d9033434be2ebef6b",
+      "heading": "Ready to get started on your PolyJet quote?",
+      "level": "h3",
+      "text": "Ready to get started on your PolyJet quote? Free shipping available for domestic 3D printing orders ; learn more ! Get Your Instant Quote"
+    },
+    {
+      "hash": "3bcc26881164d4c64b055fb86d7f7de802ad526f",
+      "heading": "Applications of PolyJet",
+      "level": "h3",
+      "text": "Applications of PolyJet Concept Models The speed, efficiency, and range of build materials make PolyJet 3D perfect for concept models. Rapid Prototyping PolyJet 3D can be used to create quick-turn prototypes and test fit and finish. Rapid Tooling PolyJet 3D is ideal for making tools, jigs, and fixtures that can be used in production settings"
+    },
+    {
+      "hash": "0803d21e60ea2d2d363add5b452bb6ff2c284ec1",
+      "heading": "Advantages of Polyjet",
+      "level": "h2",
+      "text": "Advantages of Polyjet"
+    },
+    {
+      "hash": "12c4ffe1d987164a4bedf6ab2aac597a113e181c",
+      "heading": "Efficiency",
+      "level": "h3",
+      "text": "Efficiency"
+    },
+    {
+      "hash": "98d5dd103ac4a6ce5068e98b0c0714ab81f79a8e",
+      "heading": "Complex Geometry",
+      "level": "h3",
+      "text": "Complex Geometry"
+    },
+    {
+      "hash": "a309ef16be7b45798c4cea40edf1580fca872038",
+      "heading": "Rubber-like Flexibility",
+      "level": "h3",
+      "text": "Rubber-like Flexibility"
+    },
+    {
+      "hash": "4e8d38536ef5baba7090bc4abc749de3a9508b31",
+      "heading": "Material Selection",
+      "level": "h3",
+      "text": "Material Selection"
+    },
+    {
+      "hash": "69176fe6450d8691defe66d7c63c8f6af9e6616d",
+      "heading": "Rapid Turnaround",
+      "level": "h3",
+      "text": "Rapid Turnaround"
+    },
+    {
+      "hash": "4c275fa8c4ebb82b655dd9ebfe46e0bd7f7d9a3a",
+      "heading": "Polyjet General Tolerances",
+      "level": "h2",
+      "text": "Polyjet General Tolerances Description Tolerance Notes Description General Tolerances Tolerance Notes +/- 0.004â for the first inch is typical, plus +/- 0.002â for every inch thereafter. Description Build Area Tolerance Notes Build area up to 19.3\" x 15.4\" x 7.9\". Description Minimum Feature Size Tolerance Notes 0.050\" or greater for rigid. 0.060\" or greater for rubber-like. Description Standard Layer Height Tolerance Notes 0.0010\" layers. This table depicts the general tolerances and guidelines for polyjet 3D printing. General tolerances apply before secondary finishing or post-processing unless otherwise specified. Please check out Xometry's Manufacturing Standards for more informatio..."
+    },
+    {
+      "hash": "991239dde7ba983409840e7cc1c189cf61714e5e",
+      "heading": "Need to Compare Printing Processes?",
+      "level": "h3",
+      "text": "Need to Compare Printing Processes? Our quick reference guides let you quickly compare different 3D printing processes! Get the Guides"
+    },
+    {
+      "hash": "fb8925a2c9ac3828954c84a0a1734cb5f9d3576c",
+      "heading": "Overview: What is PolyJet 3D Printing?",
+      "level": "h3",
+      "text": "Overview: What is PolyJet 3D Printing? Polyjet 3D Printing Basics PolyJet 3D is a 3D printing technology known for its customizable material properties and excellent surface finish. It works by jetting UV curable resin onto a build tray in a process somewhat similar to inkjet printing. PolyJet 3D printing offers one of the most advanced industrial 3D printing solutions available, producing parts with incredible precision and speed. It also supports a wide variety of build materials. How Polyjet Works PolyJet 3D printed parts are built using photopolymer liquid resin. The printer places layers of photocurable resins onto a build tray in extremely fine layers. As the layers are placed, they a..."
+    },
+    {
+      "hash": "eabe7ad368e3a158293e8e7a2d9c4d5ca34343a2",
+      "heading": "Why Choose Xometry for PolyJet?",
+      "level": "h3",
+      "text": "Why Choose Xometry for PolyJet? Endless Options Choose from millions of possible combinations of materials, finishes, tolerances, markings, and certifications for your order. Easy to Use Get your parts delivered right to your door without the hassle of sourcing, project management, logistics, or shipping. Vetted Network We are ISO 9001:2015, ISO 13485, and AS9100D certified. Only the top shops that apply to become Suppliers make it through our qualification process."
+    },
+    {
+      "hash": "c7aa20af00301925533f509ab92c60488e651f55",
+      "heading": "Download the PolyJet Design Guide",
+      "level": "h3",
+      "text": "Download the PolyJet Design Guide Get the Guide"
+    }
+  ],
+  "status": 200,
+  "structure_hash": "b30e5773c93a81273849130aac436e618a18ba2a",
+  "text_excerpt": "PolyJet 3D Printing Service | Full Color and High Quality 3D Printed Prototypes Get an Instant Quote Solutions Additive Manufacturing 3D Printing Service Plastic 3D Printing Service Fused Deposition Modeling HP Multi Jet Fusion Selective Laser Sintering Stereolithography PolyJet Production 3D Printing Service Carbon DLS Metal 3D Printing Service Direct Metal Laser Sintering Metal Binder Jetting Vapor Smoothing 3D Prints CNC Machining CNC Machining CNC Milling CNC Turning CNC Routing Swiss-type Turning Micro Machining Sheet and Tube Fabrication Sheet Metal Fabrication Sheet Cutting Laser Cutting Waterjet Cutting Laser Tube Cutting Tube Bending Injection Molding Injection Molding Services Plastic Injection Molding Prototype Molding Production Molding Insert Molding Overmolding Micro Molding Other Plastic Production Urethane and Silicone Casting Compression Molding Plastic Extrusion Metal Part Production Die Casting Metal Stamping Metal Extrusion Value-Added Solutions Assembly Services Weldments Rapid Prototyping High-Volume Production Precision Grinding Surface Grinding Powder Coating Industries Industries We Serve Aerospace and Defense Automotive Consumer Products Data Centers Desi...",
+  "text_hash": "b23900fffb5442150bebefac87078198c166b05c",
+  "title": "PolyJet 3D Printing Service | Full Color and High Quality 3D Printed Prototypes",
+  "url": "https://www.xometry.com/capabilities/3d-printing-service/polyjet-3d"
+}

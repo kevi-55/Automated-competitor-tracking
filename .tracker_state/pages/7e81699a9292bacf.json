@@ -1,0 +1,583 @@
+{
+  "canonical": "",
+  "category": "service",
+  "competitor": "Xometry",
+  "ctas": [
+    {
+      "href": "",
+      "text": "Get an Instant Quote"
+    },
+    {
+      "href": "/capabilities/injection-molding-quote/",
+      "text": "Injection Molding Services"
+    },
+    {
+      "href": "/hardware-startups/",
+      "text": "Hardware Startups"
+    },
+    {
+      "href": "/capabilities/",
+      "text": "Xometry Production Guide"
+    },
+    {
+      "href": "https://community.xometry.com/kb",
+      "text": "FAQs"
+    },
+    {
+      "href": "https://community.xometry.com/",
+      "text": "Supplier Community"
+    },
+    {
+      "href": "/contact-us/",
+      "text": "Contact Us"
+    },
+    {
+      "href": "mailto:support@xometry.com",
+      "text": "support@xometry.com"
+    },
+    {
+      "href": "https://community.xometry.com/kb",
+      "text": "Help Center"
+    },
+    {
+      "href": "/xometry-enterprise/",
+      "text": "Xometry Enterprise"
+    },
+    {
+      "href": "/xometry-enterprise/teamspace/",
+      "text": "Discover Xometry Teamspace"
+    },
+    {
+      "href": "/xometry-enterprise/xometry-integration-punchout/",
+      "text": "eProcurement Integrations"
+    },
+    {
+      "href": "/xometry-enterprise/production-quotes/",
+      "text": "Bulk Upload for Production Quotes"
+    },
+    {
+      "href": "/xometry-enterprise/onboard-xometry/",
+      "text": "Onboard Xometry As Your Vendor"
+    },
+    {
+      "href": "/quoting/home/",
+      "text": "Xometry's Platform"
+    },
+    {
+      "href": "/how-xometry-works/",
+      "text": "How to Use the Xometry Instant Quoting EngineÂ®"
+    },
+    {
+      "href": "/testdrive/",
+      "text": "Test Drive Xometry"
+    },
+    {
+      "href": "/how-xometry-works/tool-details/",
+      "text": "Tool Library and Tool Detail Pages"
+    },
+    {
+      "href": "https://community.xometry.com/",
+      "text": "From Our FAQ"
+    },
+    {
+      "href": "https://community.xometry.com/kb/articles/839-part-revisions-same-suppliers-for-repeat-orders",
+      "text": "Part Revisions & Same-Suppliers for Repeat Orders"
+    },
+    {
+      "href": "https://community.xometry.com/kb/articles/689-are-my-uploaded-files-and-xometry-projects-secure",
+      "text": "Xometry's Privacy and Security"
+    },
+    {
+      "href": "/about-us/",
+      "text": "About Xometry"
+    },
+    {
+      "href": "/quality-lab/",
+      "text": "Xometryâs Quality Assurance"
+    },
+    {
+      "href": "/manufacturing-partner-network-overview/",
+      "text": "Xometryâs Supplier Network"
+    },
+    {
+      "href": "/machine-learning-for-manufacturing/",
+      "text": "Xometry's Machine Learning"
+    },
+    {
+      "href": "/capabilities/community/",
+      "text": "Xometry's Manufacturing Community"
+    },
+    {
+      "href": "https://prismic-io.s3.amazonaws.com/xometry-marketing/a25fcfdb-23d5-4090-8f6e-7d9b1610165b_TC-878.pdf",
+      "text": "General Purpose Data Sheet"
+    },
+    {
+      "href": "https://prismic-io.s3.amazonaws.com/xometry-marketing/cfcb3e04-1d13-4858-99df-3a7ce8c384a9_Poly-Optic-1410-Clear.pdf",
+      "text": "Rigid Clear Data Sheet"
+    },
+    {
+      "href": "https://prismic-io.s3.amazonaws.com/xometry-marketing/0778b245-22a3-4c46-8598-e9855afc57e3_TC-891_FR_REV_1.pdf",
+      "text": "ABS-Like, FR Data Sheet"
+    },
+    {
+      "href": "https://prismic-io.s3.amazonaws.com/xometry-marketing/72a94a40-da95-44e0-a3af-e83a7144f50b_TC-872.pdf",
+      "text": "Polypropylene-Like Data Sheet"
+    },
+    {
+      "href": "https://prismic-io.s3.amazonaws.com/xometry-marketing/5360a485-55d0-4628-9e59-c5cc806aa9b9_TC-854.pdf",
+      "text": "Polycarbonate-Like Data Sheet"
+    },
+    {
+      "href": "https://prismic-io.s3.amazonaws.com/xometry-marketing/20650bf5-0b9a-42f9-94dc-6604b11d73aa_PT8902+Bulletin+30Apr14.pdf",
+      "text": "Glass-Filled Nylon-Like Data Sheet"
+    },
+    {
+      "href": "https://prismic-io.s3.amazonaws.com/xometry-marketing/5faa5008-4f1a-4169-8b2a-329c6849af0f_F-170_REV_1.pdf",
+      "text": "Rubber-Like Polyurethane Data Sheet"
+    },
+    {
+      "href": "https://prismic-io.s3.amazonaws.com/xometry-marketing/f6a32d20-bd40-4a05-ad4b-607bbd57ad78_WC-565_1.pdf",
+      "text": "Clear Rubber-Like Polyurethane Data Sheet"
+    },
+    {
+      "href": "https://community.xometry.com/kb/articles/650-all-about-hts-codes-for-international-shipments",
+      "text": "understanding international shipping costs"
+    },
+    {
+      "href": "https://www.xometry.com/capabilities/cnc-machining-service/",
+      "text": "CNC Machining"
+    },
+    {
+      "href": "https://www.xometry.com/capabilities/3d-printing-service/",
+      "text": "3D Printing"
+    },
+    {
+      "href": "https://www.xometry.com/capabilities/sheet-metal-fabrication/",
+      "text": "Sheet Metal Fabrication"
+    },
+    {
+      "href": "https://www.xometry.com/capabilities/injection-molding-service/",
+      "text": "Injection Molding"
+    },
+    {
+      "href": "https://www.xometry.com/capabilities/die-casting-services/",
+      "text": "Metal Forming & Die Casting"
+    },
+    {
+      "href": "https://www.xometry.com/xometry-enterprise/",
+      "text": "Enterprise"
+    },
+    {
+      "href": "https://www.xometry.com/aerospace-and-defense/",
+      "text": "Aerospace & Defense"
+    },
+    {
+      "href": "https://www.xometry.com/automotive/",
+      "text": "Automotive"
+    },
+    {
+      "href": "https://www.xometry.com/medical-and-dental/",
+      "text": "Medical & Dental"
+    },
+    {
+      "href": "https://www.xometry.com/electronics-and-semiconductors/",
+      "text": "Electronics & Semiconductors"
+    },
+    {
+      "href": "https://www.xometry.com/data-centers/",
+      "text": "Data Centers"
+    },
+    {
+      "href": "https://www.xometry.com/about-us/",
+      "text": "About"
+    },
+    {
+      "href": "https://www.xometry.com/careers",
+      "text": "Careers"
+    },
+    {
+      "href": "https://investors.xometry.com/news-and-events/news-releases",
+      "text": "Press"
+    },
+    {
+      "href": "https://investors.xometry.com/",
+      "text": "Investor Relations"
+    },
+    {
+      "href": "https://www.xometry.com/legal/",
+      "text": "Legal"
+    },
+    {
+      "href": "https://www.xometry.com/technical-resources/",
+      "text": "Technical Hub"
+    },
+    {
+      "href": "https://www.xometry.com/resources/design-guides/",
+      "text": "Design Guides"
+    },
+    {
+      "href": "https://www.xometry.com/get-started/",
+      "text": "Get Started"
+    },
+    {
+      "href": "https://www.xometry.com/resources/case-studies/",
+      "text": "Case Studies"
+    },
+    {
+      "href": "https://www.xometry.com/materials/",
+      "text": "Materials Guide"
+    },
+    {
+      "href": "https://www.xometry.com/finishes/",
+      "text": "Finishes Guide"
+    },
+    {
+      "href": "https://www.xometry.com/manufacturing-standards/",
+      "text": "Manufacturing Standards"
+    },
+    {
+      "href": "https://www.xometry.com/cad-add-ins/",
+      "text": "CAD Add-ins"
+    },
+    {
+      "href": "https://www.xometry.com/release-notes/",
+      "text": "Release Notes"
+    }
+  ],
+  "fetched_at": "2026-07-13T07:37:49+00:00",
+  "h1": "Urethane and Silicone Casting Services",
+  "headings": [
+    {
+      "level": "h1",
+      "text": "Urethane and Silicone Casting Services"
+    },
+    {
+      "level": "h3",
+      "text": "Urethane Casting"
+    },
+    {
+      "level": "h3",
+      "text": "Urethane Casting Materials"
+    },
+    {
+      "level": "h3",
+      "text": "Cast Silicone Materials"
+    },
+    {
+      "level": "h2",
+      "text": "Available Finishes for Urethane Casted Parts"
+    },
+    {
+      "level": "h3",
+      "text": "Matte/Frosted"
+    },
+    {
+      "level": "h3",
+      "text": "Semi-Gloss"
+    },
+    {
+      "level": "h3",
+      "text": "High-Gloss"
+    },
+    {
+      "level": "h3",
+      "text": "Textured"
+    },
+    {
+      "level": "h3",
+      "text": "Custom"
+    },
+    {
+      "level": "h3",
+      "text": "Urethane Color Options"
+    },
+    {
+      "level": "h3",
+      "text": "Ready to Get a Urethane Casting Quote?"
+    },
+    {
+      "level": "h3",
+      "text": "Applications of Urethane Casting"
+    },
+    {
+      "level": "h2",
+      "text": "Overview: What is Urethane Casting?"
+    },
+    {
+      "level": "h3",
+      "text": "The Basics Of Urethane Casting"
+    },
+    {
+      "level": "h3",
+      "text": "How Urethane Casting Works"
+    },
+    {
+      "level": "h3",
+      "text": "Benefits Of Urethane Casting"
+    },
+    {
+      "level": "h2",
+      "text": "Urethane Casting Tolerances"
+    },
+    {
+      "level": "h2",
+      "text": "Frequently Asked Questions About Urethane Casting"
+    },
+    {
+      "level": "h3",
+      "text": "Why would you choose urethane casting over 3D Printing?"
+    },
+    {
+      "level": "h3",
+      "text": "Why would you choose urethane casting over injection molding?"
+    },
+    {
+      "level": "h3",
+      "text": "Will I need to pay tariffs on internationally produced parts?"
+    },
+    {
+      "level": "h3",
+      "text": "Why Choose Xometry for Urethane Casting?"
+    },
+    {
+      "level": "h3",
+      "text": "Download the Urethane Casting Design Guide"
+    }
+  ],
+  "images": [
+    {
+      "alt": "",
+      "src": "data:image/svg+xml;charset=utf-8,%3Csvg%20height='492'%20width='492'%20xmlns='http://www.w3.org/2000/svg'%20version='1.1'%3E%3C/svg%3E"
+    },
+    {
+      "alt": "Teal transparent cast urethane part made by Xometry.",
+      "src": "https://images.prismic.io/xometry-marketing/aBowCvIqRLdaB6rm_xometry-urethane-blue-no-logo.png?auto=format%2Ccompress&w=492&h=492&fit=max"
+    },
+    {
+      "alt": "Urethane cast handheld radio housings on demand through xometry",
+      "src": "https://images.prismic.io/xometry-marketing/b8fa63e9-5c66-450c-ada2-0e6140b69593_Cast+urethane+radio+housing+from+Xometry.jpg?auto=format%2Ccompress&rect=-388%2C-188%2C6960%2C6960..."
+    },
+    {
+      "alt": "A silicone camera housing",
+      "src": "https://images.prismic.io/xometry-marketing/648efa9f-dbbd-4cff-8cef-8a6d05d5029c_feevr+housings.png?auto=format%2Ccompress&rect=0%2C0%2C4215%2C4215&w=492&h=492&fit=max"
+    },
+    {
+      "alt": "Color matching and custom finishes are available through urethane casting services",
+      "src": "https://images.prismic.io/xometry-marketing/bd68d2b2-7446-4057-ab40-25c64fe3b21a_20210428_Edit4_+ISOLAB+TECHNOLOGIES+LLC+-+Urethane+Cast+Carousel+copy.jpg?auto=format%2Ccompress&r..."
+    },
+    {
+      "alt": "Xometry Image",
+      "src": "https://xometry-marketing.cdn.prismic.io/xometry-marketing/1ec4f6b3-59d3-49ea-bedb-ccf2343ecc3a_Urethane-Casting-Fnl+icon.svg?rect=0%2C0%2C70%2C70&w=200&h=200%3Fauto%3Dcompress%2C..."
+    },
+    {
+      "alt": "",
+      "src": "data:image/svg+xml;charset=utf-8,%3Csvg%20height='185'%20width='185'%20xmlns='http://www.w3.org/2000/svg'%20version='1.1'%3E%3C/svg%3E"
+    },
+    {
+      "alt": "Digital manufacturing",
+      "src": "https://images.prismic.io/xometry-marketing/3ec2fc83-db31-4ccd-a6d5-7e02d79879a5_icon-industries-robotics-factory-001-20180305-adobestockID-127665662.png?auto=format%2Ccompress&fi..."
+    },
+    {
+      "alt": "Fast parts and fast shipping",
+      "src": "https://images.prismic.io/xometry-marketing/d48da758-fb01-42a7-8b23-62a279ae395e_icon-industries-logistics-speed-001-20180305-adobestockID-127663570.png?auto=format%2Ccompress&fit..."
+    },
+    {
+      "alt": "Xometry Illustration",
+      "src": "https://images.prismic.io/xometry-marketing/440eee19-fce0-4e69-817b-c6c200862e3d_icon-xomicons-xi-set-square-20161227.png?auto=format%2Ccompress&fit=max&w=185&h=185"
+    },
+    {
+      "alt": "Xometry Illustration",
+      "src": "https://images.prismic.io/xometry-marketing/e7b66d54-0ac4-4ed2-9b4c-62db1c46b06c_Endless-Options.png?auto=format%2Ccompress&fit=max&w=185&h=185"
+    },
+    {
+      "alt": "Xometry Illustration",
+      "src": "https://images.prismic.io/xometry-marketing/c408f978-3fa0-45f1-ada7-8f03d93ce758_Project-Management.png?auto=format%2Ccompress&fit=max&w=185&h=185"
+    },
+    {
+      "alt": "Xometry Illustration",
+      "src": "https://images.prismic.io/xometry-marketing/25bb3ed3-9ce7-45db-a9cf-a4fea96ae2e8_Vetted-Network.png?auto=format%2Ccompress&fit=max&w=185&h=185"
+    },
+    {
+      "alt": "Xometry Logo",
+      "src": "https://images.prismic.io/xometry-marketing/22f57c83-4e94-4a13-8c36-68c8235d12cd_Logomark_Xometry_Blue.png?auto=format%2Ccompress&rect=0%2C0%2C432%2C432&w=200&h=200&fit=max"
+    },
+    {
+      "alt": "Xometry Inc.",
+      "src": "https://xometry-marketing.cdn.prismic.io/xometry-marketing/aUF6cHNYClf9oRtQ_Xometry_Light_Registered.svg?fit=max"
+    },
+    {
+      "alt": "",
+      "src": "https://xometry-marketing.cdn.prismic.io/xometry-marketing/afJuYcBOoF08xc3I_instagram.svg?fit=max"
+    },
+    {
+      "alt": "",
+      "src": "https://xometry-marketing.cdn.prismic.io/xometry-marketing/afJuYsBOoF08xc3J_linkedin-in.svg?fit=max"
+    },
+    {
+      "alt": "",
+      "src": "https://xometry-marketing.cdn.prismic.io/xometry-marketing/afJuY8BOoF08xc3K_youtube.svg?fit=max"
+    },
+    {
+      "alt": "",
+      "src": "https://xometry-marketing.cdn.prismic.io/xometry-marketing/afNddsBOoF08xf6h_xometry-logo-mark.svg?fit=max"
+    },
+    {
+      "alt": "",
+      "src": "https://xometry-marketing.cdn.prismic.io/xometry-marketing/afJtesBOoF08xc20_shield-halved.svg?fit=max"
+    }
+  ],
+  "meta_description": "Xometry is your one-stop shop for online urethane and silicone casting services, a process that results in cost-efficient, durable cast urethane parts with production-level quality.",
+  "requested_url": "https://www.xometry.com/capabilities/urethane-casting",
+  "sections": [
+    {
+      "hash": "400050a61631d5dfda5cffbd290308656ef21ef4",
+      "heading": "Urethane and Silicone Casting Services",
+      "level": "h1",
+      "text": "Urethane and Silicone Casting Services Low volume, durable production-quality parts | International prototype pricing includes tariffs See How It Works"
+    },
+    {
+      "hash": "cbb7a6adca60f8eca51c9b9a9df01bd8e0ec95b2",
+      "heading": "Urethane Casting",
+      "level": "h3",
+      "text": "Urethane Casting Urethane casting provides end-use, rigid plastic, rubber, and silicone parts with production-level quality. Xometry is a leader in urethane casting services, with domestic (US-based) and international economy options to fit your timeline and budget; pricing includes tariffs for prototypes. Urethane gives professional results for low-volume production using a soft-tooling approach, utilizing 3D-printed master patterns and RTV silicone molds. Cast urethane parts are ideal when color, surface quality, and toughness are required for quantities from one to one hundred. Urethane molding is a perfect alternative for insert molding or overmolding in low volumes with diverse materia..."
+    },
+    {
+      "hash": "661ff12edd6d755dfaa9b88fb99ef4bed1027b5f",
+      "heading": "Urethane Casting Materials",
+      "level": "h3",
+      "text": "Urethane Casting Materials Polyurethane is a widely used thermoset material grouping known for its strength, durability, abrasion resistance, and versatility. Different urethanes can mimic the properties of many common thermoplastics. For example, a stiff urethane cast part is âpolycarbonate-like,â and a more flexible plastic may be âpolypropylene-like.â We group our urethane materials into general categories to help you make quicker decisions and get the best performance on your project. The list below describes the categories of materials and technical examples when selecting polyurethanes."
+    },
+    {
+      "hash": "09d15444d9950dc1f59a8e597120c37dfd077e45",
+      "heading": "Cast Silicone Materials",
+      "level": "h3",
+      "text": "Cast Silicone Materials Silicone is not only used for making tools in casting, but it is also an excellent material for parts. Silicone is durable, stretchy, tear-resistant, inert, easy to clean, and has a high-temperature resistance. Silicone rubber can achieve ultra-soft durometers as low as Shore A 10 and up to medium-hard rubbers in the Shore A 60 range. Silicone casting is ideal for medical devices, surgical models, props, soft-touch housings, kitchen accessories, and more. Shore A 10 (TC-5005 or equiv.) Shore A 20-30 (TC-5130 or equiv.) Shore A 30-40 (TC-5140 or equiv.) Shore A 40-50 (TC-5150 or equiv.) Shore A 50-60 (SmoothâSilâ¢â¯960 or equiv.)"
+    },
+    {
+      "hash": "ca11cc780cc2f5084d963b3282b96c7a60186220",
+      "heading": "Available Finishes for Urethane Casted Parts",
+      "level": "h2",
+      "text": "Available Finishes for Urethane Casted Parts"
+    },
+    {
+      "hash": "edf38949c0cb68aa5a93db7490f296bba23d71cf",
+      "heading": "Matte/Frosted",
+      "level": "h3",
+      "text": "Matte/Frosted"
+    },
+    {
+      "hash": "bff6f6bd3d9b316d2d85da4b1aed2327526cbc1f",
+      "heading": "Semi-Gloss",
+      "level": "h3",
+      "text": "Semi-Gloss"
+    },
+    {
+      "hash": "449d103f876b26c858a152f1e0527d4ac3850f65",
+      "heading": "High-Gloss",
+      "level": "h3",
+      "text": "High-Gloss"
+    },
+    {
+      "hash": "ecaa2dd8b5c5c72ecbad14f53fc0a6e9bba469d6",
+      "heading": "Textured",
+      "level": "h3",
+      "text": "Textured"
+    },
+    {
+      "hash": "081ae3fdc403609cf6e760849ebb14117b7a50cb",
+      "heading": "Custom",
+      "level": "h3",
+      "text": "Custom"
+    },
+    {
+      "hash": "8a9daaa7d3006654334e80da5459987302b4df08",
+      "heading": "Urethane Color Options",
+      "level": "h3",
+      "text": "Urethane Color Options Polyurethanes can be blended with pigments to achieve a variety of colors. Naturally, a urethane may be amber to milky-white in color. Xometry's clear urethane options are formulated to be colorless. Below are Xometry's color options: Black Color-Match Natural (unpigmented) Clear (colorless)"
+    },
+    {
+      "hash": "22181c9c8eec362b7a3f4f13b002acbffb6348e4",
+      "heading": "Ready to Get a Urethane Casting Quote?",
+      "level": "h3",
+      "text": "Ready to Get a Urethane Casting Quote? Get an Instant Quote"
+    },
+    {
+      "hash": "c0e8cf5b365841bbfe7af9c85fcd678c308ed879",
+      "heading": "Applications of Urethane Casting",
+      "level": "h3",
+      "text": "Applications of Urethane Casting Low-Volume Production Urethane cast parts are perfect for low-quantity productionâwhen volumes do not justify investment in injection mold toolingâas well as for first run production parts, which can be completed weeks before production tooling is ready. Advanced Prototyping The urethane casting process and relatively inexpensive tooling involved makes it easy and economical to make any necessary design changes. Additionally, different materials can be used with the same mold, making it possible to test designs with a variety of materials. Market Testing End-user functionality and a high-quality finish makes urethane cast parts ideal for consumer testing..."
+    },
+    {
+      "hash": "a8cb1ea8191ed548860af8307b27802ebbba952a",
+      "heading": "Overview: What is Urethane Casting?",
+      "level": "h2",
+      "text": "Overview: What is Urethane Casting? The Basics Of Urethane Casting Urethane casting provides end-use, rigid, flexible, and rubber parts with production-level quality. The urethane casting process uses a 3D-printed master pattern to create a silicone mold that delivers high-quality, short-run parts as an economical alternative to low-volumeÂ injection molding . How Urethane Casting Works Urethane casting is similar to injection molding in that it requires a tool with a cavity in the shape of the final part. The major difference is that urethane casting uses a \"soft\" mold made of silicone whereasÂ injection moldingÂ using a \"hard\" metal mold that has beenÂ CNC machined. The drawback to uretha..."
+    },
+    {
+      "hash": "8b6d729fb4e5a3d08236a20d473ebb81adfb0d3f",
+      "heading": "The Basics Of Urethane Casting",
+      "level": "h3",
+      "text": "The Basics Of Urethane Casting Urethane casting provides end-use, rigid, flexible, and rubber parts with production-level quality. The urethane casting process uses a 3D-printed master pattern to create a silicone mold that delivers high-quality, short-run parts as an economical alternative to low-volumeÂ injection molding . How Urethane Casting Works Urethane casting is similar to injection molding in that it requires a tool with a cavity in the shape of the final part. The major difference is that urethane casting uses a \"soft\" mold made of silicone whereasÂ injection moldingÂ using a \"hard\" metal mold that has beenÂ CNC machined. The drawback to urethane casting, then, is that the mold w..."
+    },
+    {
+      "hash": "8b6d729fb4e5a3d08236a20d473ebb81adfb0d3f",
+      "heading": "How Urethane Casting Works",
+      "level": "h3",
+      "text": "The Basics Of Urethane Casting Urethane casting provides end-use, rigid, flexible, and rubber parts with production-level quality. The urethane casting process uses a 3D-printed master pattern to create a silicone mold that delivers high-quality, short-run parts as an economical alternative to low-volumeÂ injection molding . How Urethane Casting Works Urethane casting is similar to injection molding in that it requires a tool with a cavity in the shape of the final part. The major difference is that urethane casting uses a \"soft\" mold made of silicone whereasÂ injection moldingÂ using a \"hard\" metal mold that has beenÂ CNC machined. The drawback to urethane casting, then, is that the mold w..."
+    },
+    {
+      "hash": "8b6d729fb4e5a3d08236a20d473ebb81adfb0d3f",
+      "heading": "Benefits Of Urethane Casting",
+      "level": "h3",
+      "text": "The Basics Of Urethane Casting Urethane casting provides end-use, rigid, flexible, and rubber parts with production-level quality. The urethane casting process uses a 3D-printed master pattern to create a silicone mold that delivers high-quality, short-run parts as an economical alternative to low-volumeÂ injection molding . How Urethane Casting Works Urethane casting is similar to injection molding in that it requires a tool with a cavity in the shape of the final part. The major difference is that urethane casting uses a \"soft\" mold made of silicone whereasÂ injection moldingÂ using a \"hard\" metal mold that has beenÂ CNC machined. The drawback to urethane casting, then, is that the mold w..."
+    },
+    {
+      "hash": "1ac10fa35a966e60be6640b73e32f7040a7211ad",
+      "heading": "Urethane Casting Tolerances",
+      "level": "h2",
+      "text": "Urethane Casting Tolerances Typically Cast Urethane Part Tolerances Description Tolerance Notes Description Distance Dimensions Tolerance Notes +/- 0.010â or +/- 0.003â per inch, whichever is larger, is typical. Irregular or overly-thick geometries may cause deviances or deflection due to shrinkage. Description Shrink Mitigation Tolerance Notes A shrinkage rate of +0.15% can be expected due to thermal expansion of the liquid, and the response of the flexible mold. Description Surface Quality Tolerance Notes Surface finish is externally smoothed to a satin or matte surface. Grow lines may be present on internal or difficult-to-access features. Polishing or custom finishes must be clearly..."
+    },
+    {
+      "hash": "66c7af8a070abc0bcaf1fe9f5d2d205ee988da71",
+      "heading": "Frequently Asked Questions About Urethane Casting",
+      "level": "h2",
+      "text": "Frequently Asked Questions About Urethane Casting"
+    },
+    {
+      "hash": "9db70c5333c1225489d621b288465387f53448b8",
+      "heading": "Why would you choose urethane casting over 3D Printing?",
+      "level": "h3",
+      "text": "Why would you choose urethane casting over 3D Printing?"
+    },
+    {
+      "hash": "d40f2a525db74df3488c7747c4a31eaddc4fc1c2",
+      "heading": "Why would you choose urethane casting over injection molding?",
+      "level": "h3",
+      "text": "Why would you choose urethane casting over injection molding?"
+    },
+    {
+      "hash": "ddbaba8554ff9c30b20cb73807d51ed3d95a23f8",
+      "heading": "Will I need to pay tariffs on internationally produced parts?",
+      "level": "h3",
+      "text": "Will I need to pay tariffs on internationally produced parts?"
+    },
+    {
+      "hash": "46fb56a64e33fbbe83cbf9dcd8fd3772bbff74d4",
+      "heading": "Why Choose Xometry for Urethane Casting?",
+      "level": "h3",
+      "text": "Why Choose Xometry for Urethane Casting? Endless Options Choose from millions of possible combinations of materials, finishes, tolerances, markings, and certifications for your order. Easy to Use Get your parts delivered right to your door without the hassle of sourcing, project management, logistics, or shipping. Vetted Network We are ISO 9001:2015, ISO 13485, and AS9100D certified. Only the top shops that apply to become Suppliers make it through our qualification process."
+    },
+    {
+      "hash": "6ca74a25a8e856d85cb6c16028a7c469ef4952e2",
+      "heading": "Download the Urethane Casting Design Guide",
+      "level": "h3",
+      "text": "Download the Urethane Casting Design Guide Get the Guide"
+    }
+  ],
+  "status": 200,
+  "structure_hash": "60e9d7a6a122e4e7cffe028d127a3e3c6f445020",
+  "text_excerpt": "Urethane Casting Parts on Demand - Cast Urethane and Silicone Parts Service Get an Instant Quote Solutions Additive Manufacturing 3D Printing Service Plastic 3D Printing Service Fused Deposition Modeling HP Multi Jet Fusion Selective Laser Sintering Stereolithography PolyJet Production 3D Printing Service Carbon DLS Metal 3D Printing Service Direct Metal Laser Sintering Metal Binder Jetting Vapor Smoothing 3D Prints CNC Machining CNC Machining CNC Milling CNC Turning CNC Routing Swiss-type Turning Micro Machining Sheet and Tube Fabrication Sheet Metal Fabrication Sheet Cutting Laser Cutting Waterjet Cutting Laser Tube Cutting Tube Bending Injection Molding Injection Molding Services Plastic Injection Molding Prototype Molding Production Molding Insert Molding Overmolding Micro Molding Other Plastic Production Urethane and Silicone Casting Compression Molding Plastic Extrusion Metal Part Production Die Casting Metal Stamping Metal Extrusion Value-Added Solutions Assembly Services Weldments Rapid Prototyping High-Volume Production Precision Grinding Surface Grinding Powder Coating Industries Industries We Serve Aerospace and Defense Automotive Consumer Products Data Centers Design A...",
+  "text_hash": "b0c5c2c24a4e952aa4a9df15aceb401542f97e0b",
+  "title": "Urethane Casting Parts on Demand - Cast Urethane and Silicone Parts Service",
+  "url": "https://www.xometry.com/capabilities/urethane-casting"
+}

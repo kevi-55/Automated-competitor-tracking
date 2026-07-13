@@ -1,0 +1,499 @@
+{
+  "canonical": "https://jlccnc.com/blog/gdt-flatness",
+  "category": "content",
+  "competitor": "JLC CNC",
+  "ctas": [
+    {
+      "href": "https://jlccnc.com/help/contact/CNC%20Inquiry",
+      "text": "Email Us>"
+    },
+    {
+      "href": "https://jlccnc.com/cnc-machining-quote",
+      "text": "Order Now"
+    },
+    {
+      "href": "/blog/category/industry-use-cases",
+      "text": "Industry Use Cases"
+    },
+    {
+      "href": "https://jlccnc.com/cnc-machining-quote?from=zoeblog",
+      "text": "Get Instant Quote"
+    },
+    {
+      "href": "https://jlccnc.com/help/contact",
+      "text": "Email Us >"
+    },
+    {
+      "href": "https://jlccnc.com/help/article/how-to-place-cnc-orders",
+      "text": "How To Order"
+    },
+    {
+      "href": "https://jlccnc.com/help/article/How-to-track-my-order",
+      "text": "How to Track"
+    },
+    {
+      "href": "https://jlccnc.com/help/article/How-to-submit-the-CNC-order-Complaint",
+      "text": "After-Sales Service"
+    },
+    {
+      "href": "https://jlccnc.com/help/contact",
+      "text": "Contact Us"
+    }
+  ],
+  "fetched_at": "2026-07-13T07:44:09+00:00",
+  "h1": "GD&T Flatness: Flatness Tolerance and Symbols Explained",
+  "headings": [
+    {
+      "level": "h1",
+      "text": "GD&T Flatness: Flatness Tolerance and Symbols Explained"
+    },
+    {
+      "level": "h3",
+      "text": "Key Takeaways"
+    },
+    {
+      "level": "h2",
+      "text": "What Is GD&T Flatness"
+    },
+    {
+      "level": "h3",
+      "text": "Definition of GD&T Flatness"
+    },
+    {
+      "level": "h3",
+      "text": "Purpose of Flatness Tolerance"
+    },
+    {
+      "level": "h3",
+      "text": "Why Flatness Matters in Manufacturing"
+    },
+    {
+      "level": "h2",
+      "text": "Flatness GD&T Symbol and Drawing Interpretation"
+    },
+    {
+      "level": "h3",
+      "text": "GD&T Flatness Symbol Explained"
+    },
+    {
+      "level": "h3",
+      "text": "How to Read Flatness Callouts"
+    },
+    {
+      "level": "h3",
+      "text": "Flatness Tolerance Zone Concept"
+    },
+    {
+      "level": "h2",
+      "text": "Flatness Tolerance in GD&T Standards"
+    },
+    {
+      "level": "h3",
+      "text": "Flatness Tolerance Definition"
+    },
+    {
+      "level": "h3",
+      "text": "Tight vs Loose Flatness Tolerances"
+    },
+    {
+      "level": "h3",
+      "text": "Engineering Drawing Requirements"
+    },
+    {
+      "level": "h2",
+      "text": "Achieving Flatness in CNC Milling"
+    },
+    {
+      "level": "h3",
+      "text": "Flatness in CNC Milling"
+    },
+    {
+      "level": "h3",
+      "text": "Flatness in Grinding Processes"
+    },
+    {
+      "level": "h3",
+      "text": "Workholding and Fixturing Effects"
+    },
+    {
+      "level": "h3",
+      "text": "Thermal and Residual Stress Considerations"
+    },
+    {
+      "level": "h3",
+      "text": "Process Capability and Flatness Control"
+    },
+    {
+      "level": "h3",
+      "text": "Precision CNC Machining Service"
+    },
+    {
+      "level": "h2",
+      "text": "Measuring Flatness in Manufacturing"
+    },
+    {
+      "level": "h3",
+      "text": "Surface Plate and Height Gauge Method"
+    },
+    {
+      "level": "h3",
+      "text": "Coordinate Measuring Machine (CMM)"
+    },
+    {
+      "level": "h3",
+      "text": "Laser and Optical Measurement Systems"
+    },
+    {
+      "level": "h2",
+      "text": "Flatness GD&T vs Other Geometric Controls"
+    },
+    {
+      "level": "h3",
+      "text": "Flatness vs Straightness"
+    },
+    {
+      "level": "h3",
+      "text": "Flatness vs Parallelism"
+    },
+    {
+      "level": "h3",
+      "text": "Flatness vs Perpendicularity"
+    },
+    {
+      "level": "h2",
+      "text": "Importance of Flatness in CNC Manufacturing"
+    },
+    {
+      "level": "h3",
+      "text": "Assembly Fit and Function"
+    },
+    {
+      "level": "h3",
+      "text": "Sealing and Contact Surfaces"
+    },
+    {
+      "level": "h3",
+      "text": "Precision Engineering Requirements"
+    },
+    {
+      "level": "h3",
+      "text": "Precision CNC Machining Service"
+    },
+    {
+      "level": "h2",
+      "text": "FAQ About GD&T Flatness"
+    },
+    {
+      "level": "h3",
+      "text": "Q: What is GD&T flatness?"
+    },
+    {
+      "level": "h3",
+      "text": "Q: What is the flatness GD&T symbol?"
+    },
+    {
+      "level": "h3",
+      "text": "Q: How is flatness tolerance defined?"
+    },
+    {
+      "level": "h3",
+      "text": "Q: How is flatness measured in CNC machining?"
+    },
+    {
+      "level": "h3",
+      "text": "Q: What is the difference between flatness and surface finish?"
+    },
+    {
+      "level": "h3",
+      "text": "Q: What flatness tolerance is achievable with CNC milling?"
+    }
+  ],
+  "images": [
+    {
+      "alt": "jlccnc navigation cnc machining service cnc machining",
+      "src": "https://rs.jlccnc.com/static/image/homepage/navigation-cnc-machining-service-cnc-milling.webp"
+    },
+    {
+      "alt": "jlccnc navigation cnc machining service cnc milling",
+      "src": "https://rs.jlccnc.com/static/image/homepage/navigation-cnc-machining-service-cnc-machining.webp"
+    },
+    {
+      "alt": "jlccnc navigation cnc machining service cnc turning",
+      "src": "https://rs.jlccnc.com/static/image/homepage/navigation-cnc-machining-service-cnc-turning.webp"
+    },
+    {
+      "alt": "jlccnc navigation cnc machining service edm",
+      "src": "https://rs.jlccnc.com/static/image/homepage/navigation-cnc-machining-service-edm.webp"
+    },
+    {
+      "alt": "jlccnc navigation cnc machining service sheet metal",
+      "src": "https://rs.jlccnc.com/static/image/homepage/navigation-cnc-machining-service-sheet-metal.webp"
+    },
+    {
+      "alt": "Machined metal plate flatness inspection on surface plate",
+      "src": "https://rs.jlccnc.com/static/image/blog/Knowledge-Hub/CNC-Machining-Fundamentals/Machined-metal-plate-flatness-inspection-on-surface-plate.jpg"
+    },
+    {
+      "alt": "Face milling flat surface on aluminum block CNC setup",
+      "src": "https://rs.jlccnc.com/static/image/blog/Knowledge-Hub/CNC-Machining-Fundamentals/Face-milling-flat-surface-on-aluminum-block-CNC-setup.jpg"
+    },
+    {
+      "alt": "JLCCNC Logo",
+      "src": "https://rs.jlccnc.com/static/image/blog/banner/CNC-logo%E9%80%8F%E6%98%8E%E5%BA%95.png"
+    },
+    {
+      "alt": "CMM measurement",
+      "src": "https://rs.jlccnc.com/static/image/blog/Knowledge-Hub/CNC-Machining-Fundamentals/CMM-measurement.png"
+    }
+  ],
+  "meta_description": "Learn how GD&T flatness tolerance works, its symbol, and 3D tolerance zones. Explore flatness measurement and crucial tips for holding flatness inside CNC shops",
+  "requested_url": "https://jlccnc.com/blog/gdt-flatness",
+  "sections": [
+    {
+      "hash": "da72a2c936d7ecf1334f6ec16aa9b86248aa2667",
+      "heading": "GD&T Flatness: Flatness Tolerance and Symbols Explained",
+      "level": "h1",
+      "text": "GD&T Flatness: Flatness Tolerance and Symbols Explained Published Jun 24, 2026, updated Jun 24, 2026 16 min Table of Contents What Is GD&amp;T Flatness Flatness GD&amp;T Symbol and Drawing Interpretation Flatness Tolerance in GD&amp;T Standards Achieving Flatness in CNC Milling Measuring Flatness in Manufacturing Flatness GD&amp;T vs Other Geometric Controls Importance of Flatness in CNC Manufacturing FAQ About GD&amp;T Flatness Key Takeaways GD&T flatness controls how much a surface can deviate from a perfect flat plane, independent of size tolerances and without referencing any datum. The flatness GD&T symbol is a simple parallelogram shape, appearing alone in the feature control frame wi..."
+    },
+    {
+      "hash": "8baa3b42ec78d198ea67bc2e10aadf8ed5177c8a",
+      "heading": "Key Takeaways",
+      "level": "h3",
+      "text": "Key Takeaways GD&T flatness controls how much a surface can deviate from a perfect flat plane, independent of size tolerances and without referencing any datum. The flatness GD&T symbol is a simple parallelogram shape, appearing alone in the feature control frame with no datum letters. Flatness tolerance defines a 3D zone, two parallel planes, and every point on the surface must fall between them. Flatness in machining is affected by cutting forces, workholding, thermal expansion, and residual stress, not just the final finishing pass. Surface flatness GD&T matters most on sealing faces, mounting surfaces, and any interface where two parts need to sit flush against each other."
+    },
+    {
+      "hash": "6bb5e79ffdfbb6a7a2f115c55c514b0a21eefb85",
+      "heading": "What Is GD&T Flatness",
+      "level": "h2",
+      "text": "Key Takeaways GD&T flatness controls how much a surface can deviate from a perfect flat plane, independent of size tolerances and without referencing any datum. The flatness GD&T symbol is a simple parallelogram shape, appearing alone in the feature control frame with no datum letters. Flatness tolerance defines a 3D zone, two parallel planes, and every point on the surface must fall between them. Flatness in machining is affected by cutting forces, workholding, thermal expansion, and residual stress, not just the final finishing pass. Surface flatness GD&T matters most on sealing faces, mounting surfaces, and any interface where two parts need to sit flush against each other. (AI generated..."
+    },
+    {
+      "hash": "6bb5e79ffdfbb6a7a2f115c55c514b0a21eefb85",
+      "heading": "Definition of GD&T Flatness",
+      "level": "h3",
+      "text": "Key Takeaways GD&T flatness controls how much a surface can deviate from a perfect flat plane, independent of size tolerances and without referencing any datum. The flatness GD&T symbol is a simple parallelogram shape, appearing alone in the feature control frame with no datum letters. Flatness tolerance defines a 3D zone, two parallel planes, and every point on the surface must fall between them. Flatness in machining is affected by cutting forces, workholding, thermal expansion, and residual stress, not just the final finishing pass. Surface flatness GD&T matters most on sealing faces, mounting surfaces, and any interface where two parts need to sit flush against each other. (AI generated..."
+    },
+    {
+      "hash": "6bb5e79ffdfbb6a7a2f115c55c514b0a21eefb85",
+      "heading": "Purpose of Flatness Tolerance",
+      "level": "h3",
+      "text": "Key Takeaways GD&T flatness controls how much a surface can deviate from a perfect flat plane, independent of size tolerances and without referencing any datum. The flatness GD&T symbol is a simple parallelogram shape, appearing alone in the feature control frame with no datum letters. Flatness tolerance defines a 3D zone, two parallel planes, and every point on the surface must fall between them. Flatness in machining is affected by cutting forces, workholding, thermal expansion, and residual stress, not just the final finishing pass. Surface flatness GD&T matters most on sealing faces, mounting surfaces, and any interface where two parts need to sit flush against each other. (AI generated..."
+    },
+    {
+      "hash": "6bb5e79ffdfbb6a7a2f115c55c514b0a21eefb85",
+      "heading": "Why Flatness Matters in Manufacturing",
+      "level": "h3",
+      "text": "Key Takeaways GD&T flatness controls how much a surface can deviate from a perfect flat plane, independent of size tolerances and without referencing any datum. The flatness GD&T symbol is a simple parallelogram shape, appearing alone in the feature control frame with no datum letters. Flatness tolerance defines a 3D zone, two parallel planes, and every point on the surface must fall between them. Flatness in machining is affected by cutting forces, workholding, thermal expansion, and residual stress, not just the final finishing pass. Surface flatness GD&T matters most on sealing faces, mounting surfaces, and any interface where two parts need to sit flush against each other. (AI generated..."
+    },
+    {
+      "hash": "6bb5e79ffdfbb6a7a2f115c55c514b0a21eefb85",
+      "heading": "Flatness GD&T Symbol and Drawing Interpretation",
+      "level": "h2",
+      "text": "Key Takeaways GD&T flatness controls how much a surface can deviate from a perfect flat plane, independent of size tolerances and without referencing any datum. The flatness GD&T symbol is a simple parallelogram shape, appearing alone in the feature control frame with no datum letters. Flatness tolerance defines a 3D zone, two parallel planes, and every point on the surface must fall between them. Flatness in machining is affected by cutting forces, workholding, thermal expansion, and residual stress, not just the final finishing pass. Surface flatness GD&T matters most on sealing faces, mounting surfaces, and any interface where two parts need to sit flush against each other. (AI generated..."
+    },
+    {
+      "hash": "6bb5e79ffdfbb6a7a2f115c55c514b0a21eefb85",
+      "heading": "GD&T Flatness Symbol Explained",
+      "level": "h3",
+      "text": "Key Takeaways GD&T flatness controls how much a surface can deviate from a perfect flat plane, independent of size tolerances and without referencing any datum. The flatness GD&T symbol is a simple parallelogram shape, appearing alone in the feature control frame with no datum letters. Flatness tolerance defines a 3D zone, two parallel planes, and every point on the surface must fall between them. Flatness in machining is affected by cutting forces, workholding, thermal expansion, and residual stress, not just the final finishing pass. Surface flatness GD&T matters most on sealing faces, mounting surfaces, and any interface where two parts need to sit flush against each other. (AI generated..."
+    },
+    {
+      "hash": "6bb5e79ffdfbb6a7a2f115c55c514b0a21eefb85",
+      "heading": "How to Read Flatness Callouts",
+      "level": "h3",
+      "text": "Key Takeaways GD&T flatness controls how much a surface can deviate from a perfect flat plane, independent of size tolerances and without referencing any datum. The flatness GD&T symbol is a simple parallelogram shape, appearing alone in the feature control frame with no datum letters. Flatness tolerance defines a 3D zone, two parallel planes, and every point on the surface must fall between them. Flatness in machining is affected by cutting forces, workholding, thermal expansion, and residual stress, not just the final finishing pass. Surface flatness GD&T matters most on sealing faces, mounting surfaces, and any interface where two parts need to sit flush against each other. (AI generated..."
+    },
+    {
+      "hash": "6bb5e79ffdfbb6a7a2f115c55c514b0a21eefb85",
+      "heading": "Flatness Tolerance Zone Concept",
+      "level": "h3",
+      "text": "Key Takeaways GD&T flatness controls how much a surface can deviate from a perfect flat plane, independent of size tolerances and without referencing any datum. The flatness GD&T symbol is a simple parallelogram shape, appearing alone in the feature control frame with no datum letters. Flatness tolerance defines a 3D zone, two parallel planes, and every point on the surface must fall between them. Flatness in machining is affected by cutting forces, workholding, thermal expansion, and residual stress, not just the final finishing pass. Surface flatness GD&T matters most on sealing faces, mounting surfaces, and any interface where two parts need to sit flush against each other. (AI generated..."
+    },
+    {
+      "hash": "6bb5e79ffdfbb6a7a2f115c55c514b0a21eefb85",
+      "heading": "Flatness Tolerance in GD&T Standards",
+      "level": "h2",
+      "text": "Key Takeaways GD&T flatness controls how much a surface can deviate from a perfect flat plane, independent of size tolerances and without referencing any datum. The flatness GD&T symbol is a simple parallelogram shape, appearing alone in the feature control frame with no datum letters. Flatness tolerance defines a 3D zone, two parallel planes, and every point on the surface must fall between them. Flatness in machining is affected by cutting forces, workholding, thermal expansion, and residual stress, not just the final finishing pass. Surface flatness GD&T matters most on sealing faces, mounting surfaces, and any interface where two parts need to sit flush against each other. (AI generated..."
+    },
+    {
+      "hash": "6bb5e79ffdfbb6a7a2f115c55c514b0a21eefb85",
+      "heading": "Flatness Tolerance Definition",
+      "level": "h3",
+      "text": "Key Takeaways GD&T flatness controls how much a surface can deviate from a perfect flat plane, independent of size tolerances and without referencing any datum. The flatness GD&T symbol is a simple parallelogram shape, appearing alone in the feature control frame with no datum letters. Flatness tolerance defines a 3D zone, two parallel planes, and every point on the surface must fall between them. Flatness in machining is affected by cutting forces, workholding, thermal expansion, and residual stress, not just the final finishing pass. Surface flatness GD&T matters most on sealing faces, mounting surfaces, and any interface where two parts need to sit flush against each other. (AI generated..."
+    },
+    {
+      "hash": "6bb5e79ffdfbb6a7a2f115c55c514b0a21eefb85",
+      "heading": "Tight vs Loose Flatness Tolerances",
+      "level": "h3",
+      "text": "Key Takeaways GD&T flatness controls how much a surface can deviate from a perfect flat plane, independent of size tolerances and without referencing any datum. The flatness GD&T symbol is a simple parallelogram shape, appearing alone in the feature control frame with no datum letters. Flatness tolerance defines a 3D zone, two parallel planes, and every point on the surface must fall between them. Flatness in machining is affected by cutting forces, workholding, thermal expansion, and residual stress, not just the final finishing pass. Surface flatness GD&T matters most on sealing faces, mounting surfaces, and any interface where two parts need to sit flush against each other. (AI generated..."
+    },
+    {
+      "hash": "6bb5e79ffdfbb6a7a2f115c55c514b0a21eefb85",
+      "heading": "Engineering Drawing Requirements",
+      "level": "h3",
+      "text": "Key Takeaways GD&T flatness controls how much a surface can deviate from a perfect flat plane, independent of size tolerances and without referencing any datum. The flatness GD&T symbol is a simple parallelogram shape, appearing alone in the feature control frame with no datum letters. Flatness tolerance defines a 3D zone, two parallel planes, and every point on the surface must fall between them. Flatness in machining is affected by cutting forces, workholding, thermal expansion, and residual stress, not just the final finishing pass. Surface flatness GD&T matters most on sealing faces, mounting surfaces, and any interface where two parts need to sit flush against each other. (AI generated..."
+    },
+    {
+      "hash": "6bb5e79ffdfbb6a7a2f115c55c514b0a21eefb85",
+      "heading": "Achieving Flatness in CNC Milling",
+      "level": "h2",
+      "text": "Key Takeaways GD&T flatness controls how much a surface can deviate from a perfect flat plane, independent of size tolerances and without referencing any datum. The flatness GD&T symbol is a simple parallelogram shape, appearing alone in the feature control frame with no datum letters. Flatness tolerance defines a 3D zone, two parallel planes, and every point on the surface must fall between them. Flatness in machining is affected by cutting forces, workholding, thermal expansion, and residual stress, not just the final finishing pass. Surface flatness GD&T matters most on sealing faces, mounting surfaces, and any interface where two parts need to sit flush against each other. (AI generated..."
+    },
+    {
+      "hash": "6bb5e79ffdfbb6a7a2f115c55c514b0a21eefb85",
+      "heading": "Flatness in CNC Milling",
+      "level": "h3",
+      "text": "Key Takeaways GD&T flatness controls how much a surface can deviate from a perfect flat plane, independent of size tolerances and without referencing any datum. The flatness GD&T symbol is a simple parallelogram shape, appearing alone in the feature control frame with no datum letters. Flatness tolerance defines a 3D zone, two parallel planes, and every point on the surface must fall between them. Flatness in machining is affected by cutting forces, workholding, thermal expansion, and residual stress, not just the final finishing pass. Surface flatness GD&T matters most on sealing faces, mounting surfaces, and any interface where two parts need to sit flush against each other. (AI generated..."
+    },
+    {
+      "hash": "6bb5e79ffdfbb6a7a2f115c55c514b0a21eefb85",
+      "heading": "Flatness in Grinding Processes",
+      "level": "h3",
+      "text": "Key Takeaways GD&T flatness controls how much a surface can deviate from a perfect flat plane, independent of size tolerances and without referencing any datum. The flatness GD&T symbol is a simple parallelogram shape, appearing alone in the feature control frame with no datum letters. Flatness tolerance defines a 3D zone, two parallel planes, and every point on the surface must fall between them. Flatness in machining is affected by cutting forces, workholding, thermal expansion, and residual stress, not just the final finishing pass. Surface flatness GD&T matters most on sealing faces, mounting surfaces, and any interface where two parts need to sit flush against each other. (AI generated..."
+    },
+    {
+      "hash": "6bb5e79ffdfbb6a7a2f115c55c514b0a21eefb85",
+      "heading": "Workholding and Fixturing Effects",
+      "level": "h3",
+      "text": "Key Takeaways GD&T flatness controls how much a surface can deviate from a perfect flat plane, independent of size tolerances and without referencing any datum. The flatness GD&T symbol is a simple parallelogram shape, appearing alone in the feature control frame with no datum letters. Flatness tolerance defines a 3D zone, two parallel planes, and every point on the surface must fall between them. Flatness in machining is affected by cutting forces, workholding, thermal expansion, and residual stress, not just the final finishing pass. Surface flatness GD&T matters most on sealing faces, mounting surfaces, and any interface where two parts need to sit flush against each other. (AI generated..."
+    },
+    {
+      "hash": "6bb5e79ffdfbb6a7a2f115c55c514b0a21eefb85",
+      "heading": "Thermal and Residual Stress Considerations",
+      "level": "h3",
+      "text": "Key Takeaways GD&T flatness controls how much a surface can deviate from a perfect flat plane, independent of size tolerances and without referencing any datum. The flatness GD&T symbol is a simple parallelogram shape, appearing alone in the feature control frame with no datum letters. Flatness tolerance defines a 3D zone, two parallel planes, and every point on the surface must fall between them. Flatness in machining is affected by cutting forces, workholding, thermal expansion, and residual stress, not just the final finishing pass. Surface flatness GD&T matters most on sealing faces, mounting surfaces, and any interface where two parts need to sit flush against each other. (AI generated..."
+    },
+    {
+      "hash": "6bb5e79ffdfbb6a7a2f115c55c514b0a21eefb85",
+      "heading": "Process Capability and Flatness Control",
+      "level": "h3",
+      "text": "Key Takeaways GD&T flatness controls how much a surface can deviate from a perfect flat plane, independent of size tolerances and without referencing any datum. The flatness GD&T symbol is a simple parallelogram shape, appearing alone in the feature control frame with no datum letters. Flatness tolerance defines a 3D zone, two parallel planes, and every point on the surface must fall between them. Flatness in machining is affected by cutting forces, workholding, thermal expansion, and residual stress, not just the final finishing pass. Surface flatness GD&T matters most on sealing faces, mounting surfaces, and any interface where two parts need to sit flush against each other. (AI generated..."
+    },
+    {
+      "hash": "8b72fd088458c5d94a532f39f0536099329845b6",
+      "heading": "Precision CNC Machining Service",
+      "level": "h3",
+      "text": "Precision CNC Machining Service"
+    },
+    {
+      "hash": "6bb5e79ffdfbb6a7a2f115c55c514b0a21eefb85",
+      "heading": "Measuring Flatness in Manufacturing",
+      "level": "h2",
+      "text": "Key Takeaways GD&T flatness controls how much a surface can deviate from a perfect flat plane, independent of size tolerances and without referencing any datum. The flatness GD&T symbol is a simple parallelogram shape, appearing alone in the feature control frame with no datum letters. Flatness tolerance defines a 3D zone, two parallel planes, and every point on the surface must fall between them. Flatness in machining is affected by cutting forces, workholding, thermal expansion, and residual stress, not just the final finishing pass. Surface flatness GD&T matters most on sealing faces, mounting surfaces, and any interface where two parts need to sit flush against each other. (AI generated..."
+    },
+    {
+      "hash": "6bb5e79ffdfbb6a7a2f115c55c514b0a21eefb85",
+      "heading": "Surface Plate and Height Gauge Method",
+      "level": "h3",
+      "text": "Key Takeaways GD&T flatness controls how much a surface can deviate from a perfect flat plane, independent of size tolerances and without referencing any datum. The flatness GD&T symbol is a simple parallelogram shape, appearing alone in the feature control frame with no datum letters. Flatness tolerance defines a 3D zone, two parallel planes, and every point on the surface must fall between them. Flatness in machining is affected by cutting forces, workholding, thermal expansion, and residual stress, not just the final finishing pass. Surface flatness GD&T matters most on sealing faces, mounting surfaces, and any interface where two parts need to sit flush against each other. (AI generated..."
+    },
+    {
+      "hash": "6bb5e79ffdfbb6a7a2f115c55c514b0a21eefb85",
+      "heading": "Coordinate Measuring Machine (CMM)",
+      "level": "h3",
+      "text": "Key Takeaways GD&T flatness controls how much a surface can deviate from a perfect flat plane, independent of size tolerances and without referencing any datum. The flatness GD&T symbol is a simple parallelogram shape, appearing alone in the feature control frame with no datum letters. Flatness tolerance defines a 3D zone, two parallel planes, and every point on the surface must fall between them. Flatness in machining is affected by cutting forces, workholding, thermal expansion, and residual stress, not just the final finishing pass. Surface flatness GD&T matters most on sealing faces, mounting surfaces, and any interface where two parts need to sit flush against each other. (AI generated..."
+    },
+    {
+      "hash": "6bb5e79ffdfbb6a7a2f115c55c514b0a21eefb85",
+      "heading": "Laser and Optical Measurement Systems",
+      "level": "h3",
+      "text": "Key Takeaways GD&T flatness controls how much a surface can deviate from a perfect flat plane, independent of size tolerances and without referencing any datum. The flatness GD&T symbol is a simple parallelogram shape, appearing alone in the feature control frame with no datum letters. Flatness tolerance defines a 3D zone, two parallel planes, and every point on the surface must fall between them. Flatness in machining is affected by cutting forces, workholding, thermal expansion, and residual stress, not just the final finishing pass. Surface flatness GD&T matters most on sealing faces, mounting surfaces, and any interface where two parts need to sit flush against each other. (AI generated..."
+    },
+    {
+      "hash": "6bb5e79ffdfbb6a7a2f115c55c514b0a21eefb85",
+      "heading": "Flatness GD&T vs Other Geometric Controls",
+      "level": "h2",
+      "text": "Key Takeaways GD&T flatness controls how much a surface can deviate from a perfect flat plane, independent of size tolerances and without referencing any datum. The flatness GD&T symbol is a simple parallelogram shape, appearing alone in the feature control frame with no datum letters. Flatness tolerance defines a 3D zone, two parallel planes, and every point on the surface must fall between them. Flatness in machining is affected by cutting forces, workholding, thermal expansion, and residual stress, not just the final finishing pass. Surface flatness GD&T matters most on sealing faces, mounting surfaces, and any interface where two parts need to sit flush against each other. (AI generated..."
+    },
+    {
+      "hash": "6bb5e79ffdfbb6a7a2f115c55c514b0a21eefb85",
+      "heading": "Flatness vs Straightness",
+      "level": "h3",
+      "text": "Key Takeaways GD&T flatness controls how much a surface can deviate from a perfect flat plane, independent of size tolerances and without referencing any datum. The flatness GD&T symbol is a simple parallelogram shape, appearing alone in the feature control frame with no datum letters. Flatness tolerance defines a 3D zone, two parallel planes, and every point on the surface must fall between them. Flatness in machining is affected by cutting forces, workholding, thermal expansion, and residual stress, not just the final finishing pass. Surface flatness GD&T matters most on sealing faces, mounting surfaces, and any interface where two parts need to sit flush against each other. (AI generated..."
+    },
+    {
+      "hash": "6bb5e79ffdfbb6a7a2f115c55c514b0a21eefb85",
+      "heading": "Flatness vs Parallelism",
+      "level": "h3",
+      "text": "Key Takeaways GD&T flatness controls how much a surface can deviate from a perfect flat plane, independent of size tolerances and without referencing any datum. The flatness GD&T symbol is a simple parallelogram shape, appearing alone in the feature control frame with no datum letters. Flatness tolerance defines a 3D zone, two parallel planes, and every point on the surface must fall between them. Flatness in machining is affected by cutting forces, workholding, thermal expansion, and residual stress, not just the final finishing pass. Surface flatness GD&T matters most on sealing faces, mounting surfaces, and any interface where two parts need to sit flush against each other. (AI generated..."
+    },
+    {
+      "hash": "6bb5e79ffdfbb6a7a2f115c55c514b0a21eefb85",
+      "heading": "Flatness vs Perpendicularity",
+      "level": "h3",
+      "text": "Key Takeaways GD&T flatness controls how much a surface can deviate from a perfect flat plane, independent of size tolerances and without referencing any datum. The flatness GD&T symbol is a simple parallelogram shape, appearing alone in the feature control frame with no datum letters. Flatness tolerance defines a 3D zone, two parallel planes, and every point on the surface must fall between them. Flatness in machining is affected by cutting forces, workholding, thermal expansion, and residual stress, not just the final finishing pass. Surface flatness GD&T matters most on sealing faces, mounting surfaces, and any interface where two parts need to sit flush against each other. (AI generated..."
+    },
+    {
+      "hash": "6bb5e79ffdfbb6a7a2f115c55c514b0a21eefb85",
+      "heading": "Importance of Flatness in CNC Manufacturing",
+      "level": "h2",
+      "text": "Key Takeaways GD&T flatness controls how much a surface can deviate from a perfect flat plane, independent of size tolerances and without referencing any datum. The flatness GD&T symbol is a simple parallelogram shape, appearing alone in the feature control frame with no datum letters. Flatness tolerance defines a 3D zone, two parallel planes, and every point on the surface must fall between them. Flatness in machining is affected by cutting forces, workholding, thermal expansion, and residual stress, not just the final finishing pass. Surface flatness GD&T matters most on sealing faces, mounting surfaces, and any interface where two parts need to sit flush against each other. (AI generated..."
+    },
+    {
+      "hash": "6bb5e79ffdfbb6a7a2f115c55c514b0a21eefb85",
+      "heading": "Assembly Fit and Function",
+      "level": "h3",
+      "text": "Key Takeaways GD&T flatness controls how much a surface can deviate from a perfect flat plane, independent of size tolerances and without referencing any datum. The flatness GD&T symbol is a simple parallelogram shape, appearing alone in the feature control frame with no datum letters. Flatness tolerance defines a 3D zone, two parallel planes, and every point on the surface must fall between them. Flatness in machining is affected by cutting forces, workholding, thermal expansion, and residual stress, not just the final finishing pass. Surface flatness GD&T matters most on sealing faces, mounting surfaces, and any interface where two parts need to sit flush against each other. (AI generated..."
+    },
+    {
+      "hash": "6bb5e79ffdfbb6a7a2f115c55c514b0a21eefb85",
+      "heading": "Sealing and Contact Surfaces",
+      "level": "h3",
+      "text": "Key Takeaways GD&T flatness controls how much a surface can deviate from a perfect flat plane, independent of size tolerances and without referencing any datum. The flatness GD&T symbol is a simple parallelogram shape, appearing alone in the feature control frame with no datum letters. Flatness tolerance defines a 3D zone, two parallel planes, and every point on the surface must fall between them. Flatness in machining is affected by cutting forces, workholding, thermal expansion, and residual stress, not just the final finishing pass. Surface flatness GD&T matters most on sealing faces, mounting surfaces, and any interface where two parts need to sit flush against each other. (AI generated..."
+    },
+    {
+      "hash": "6bb5e79ffdfbb6a7a2f115c55c514b0a21eefb85",
+      "heading": "Precision Engineering Requirements",
+      "level": "h3",
+      "text": "Key Takeaways GD&T flatness controls how much a surface can deviate from a perfect flat plane, independent of size tolerances and without referencing any datum. The flatness GD&T symbol is a simple parallelogram shape, appearing alone in the feature control frame with no datum letters. Flatness tolerance defines a 3D zone, two parallel planes, and every point on the surface must fall between them. Flatness in machining is affected by cutting forces, workholding, thermal expansion, and residual stress, not just the final finishing pass. Surface flatness GD&T matters most on sealing faces, mounting surfaces, and any interface where two parts need to sit flush against each other. (AI generated..."
+    },
+    {
+      "hash": "6bb5e79ffdfbb6a7a2f115c55c514b0a21eefb85",
+      "heading": "FAQ About GD&T Flatness",
+      "level": "h2",
+      "text": "Key Takeaways GD&T flatness controls how much a surface can deviate from a perfect flat plane, independent of size tolerances and without referencing any datum. The flatness GD&T symbol is a simple parallelogram shape, appearing alone in the feature control frame with no datum letters. Flatness tolerance defines a 3D zone, two parallel planes, and every point on the surface must fall between them. Flatness in machining is affected by cutting forces, workholding, thermal expansion, and residual stress, not just the final finishing pass. Surface flatness GD&T matters most on sealing faces, mounting surfaces, and any interface where two parts need to sit flush against each other. (AI generated..."
+    },
+    {
+      "hash": "2b85b69391f2c5270110b3b498113c26d7203c7b",
+      "heading": "Q: What is GD&T flatness?",
+      "level": "h3",
+      "text": "Q: What is GD&T flatness?"
+    },
+    {
+      "hash": "265a054873a9e16aeb1911a499b2acb9d9a2f6e8",
+      "heading": "Q: What is the flatness GD&T symbol?",
+      "level": "h3",
+      "text": "Q: What is the flatness GD&T symbol?"
+    },
+    {
+      "hash": "f41b682b3756d54fecbac07ebbc04eddb221c1d8",
+      "heading": "Q: How is flatness tolerance defined?",
+      "level": "h3",
+      "text": "Q: How is flatness tolerance defined?"
+    },
+    {
+      "hash": "de44de9f4fed1581010520587591eb4654d6b48a",
+      "heading": "Q: How is flatness measured in CNC machining?",
+      "level": "h3",
+      "text": "Q: How is flatness measured in CNC machining?"
+    },
+    {
+      "hash": "18b5c7544bb5764ad3fc1272c8639b3f0832cefa",
+      "heading": "Q: What is the difference between flatness and surface finish?",
+      "level": "h3",
+      "text": "Q: What is the difference between flatness and surface finish?"
+    },
+    {
+      "hash": "84a09f43e0a92684fd425eda19362e383a02d461",
+      "heading": "Q: What flatness tolerance is achievable with CNC milling?",
+      "level": "h3",
+      "text": "Q: What flatness tolerance is achievable with CNC milling?"
+    }
+  ],
+  "status": 200,
+  "structure_hash": "9ad5ccd9c8c396050812eb45311852781f9979f5",
+  "text_excerpt": "GD&T Flatness Tolerance: Symbol, Zones & Machining Account Restriction Notice Get Coupon Here Coupons JLCCNC CNC Machining Service CNC Machining CNC Milling CNC Turning EDM Sheet Metal Mechanical Services JLC3DP - 3D Printing JLCMC - Mechatronic Parts Electronics Services PCB Fabrication PCB Assembly SMT Stencil PCB Layout Flex Heater More EasyEDA - CAD Design Tool JLCDFM - DFM Check OSHWLAB - Open Source Hardware 3D Viewer - 3D File Preview Tool Download JLCONE Desktop—Get $524 Exclusive Coupons Download Now Products CNC Machining Materials Aluminum Aluminum 6061 Aluminum 7075 Steel SUS304 45# Steel Copper Brass - H59 Copper - T2 Plastic POM Polycarbonate (PC) ABS FR4 PMMA (Acrylic) Nylon - PA6 Bakelite Sheet Metal Materials Aluminum 5052 Stainless Steel 201 Stainless Steel 304 Cold Rolled Steel Galvanized Steel Sheet Materials Contact Us Online Chat> Mon-Fri: 24 hours, Sat: 9am-6pm, GMT+8 Email Us> Mon-Fri: 24 hours, Sat: 9am-6pm, GMT+8 WhatsApp> Mon-Fri: 24 hours, Sat: 9am-6pm, GMT+8 Support Help Center Get instant answers. 24/7 Available. Blog Support About Us Search 0 Order Now Blog Knowledge Hub Materials Design & Engineering Manufacturing Services Blog Blog Knowledge Hub Fu...",
+  "text_hash": "4ae4f8bb0bb12858dd5bcb38de9356eaf34fc95c",
+  "title": "GD&T Flatness Tolerance: Symbol, Zones & Machining",
+  "url": "https://jlccnc.com/blog/gdt-flatness"
+}

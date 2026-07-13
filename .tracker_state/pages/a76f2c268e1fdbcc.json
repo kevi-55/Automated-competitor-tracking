@@ -1,0 +1,529 @@
+{
+  "canonical": "https://www.xometry.com/capabilities/",
+  "category": "service",
+  "competitor": "Xometry",
+  "ctas": [
+    {
+      "href": "",
+      "text": "Get an Instant Quote"
+    },
+    {
+      "href": "/capabilities/injection-molding-quote/",
+      "text": "Injection Molding Services"
+    },
+    {
+      "href": "/hardware-startups/",
+      "text": "Hardware Startups"
+    },
+    {
+      "href": "/capabilities/",
+      "text": "Xometry Production Guide"
+    },
+    {
+      "href": "https://community.xometry.com/kb",
+      "text": "FAQs"
+    },
+    {
+      "href": "https://community.xometry.com/",
+      "text": "Supplier Community"
+    },
+    {
+      "href": "/contact-us/",
+      "text": "Contact Us"
+    },
+    {
+      "href": "mailto:support@xometry.com",
+      "text": "support@xometry.com"
+    },
+    {
+      "href": "https://community.xometry.com/kb",
+      "text": "Help Center"
+    },
+    {
+      "href": "https://www.xometry.com/xometry-enterprise/",
+      "text": "Xometry Enterprise"
+    },
+    {
+      "href": "/xometry-enterprise/teamspace/",
+      "text": "Discover Xometry Teamspace"
+    },
+    {
+      "href": "/xometry-enterprise/xometry-integration-punchout/",
+      "text": "eProcurement Integrations"
+    },
+    {
+      "href": "/xometry-enterprise/production-quotes/",
+      "text": "Bulk Upload for Production Quotes"
+    },
+    {
+      "href": "/xometry-enterprise/onboard-xometry/",
+      "text": "Onboard Xometry As Your Vendor"
+    },
+    {
+      "href": "https://www.xometry.com/quoting/home/",
+      "text": "Xometry's Platform"
+    },
+    {
+      "href": "/how-xometry-works/",
+      "text": "How to Use the Xometry Instant Quoting Engine®"
+    },
+    {
+      "href": "/testdrive/",
+      "text": "Test Drive Xometry"
+    },
+    {
+      "href": "/how-xometry-works/tool-details/",
+      "text": "Tool Library and Tool Detail Pages"
+    },
+    {
+      "href": "https://community.xometry.com/",
+      "text": "From Our FAQ"
+    },
+    {
+      "href": "https://community.xometry.com/kb/articles/839-part-revisions-same-suppliers-for-repeat-orders",
+      "text": "Part Revisions & Same-Suppliers for Repeat Orders"
+    },
+    {
+      "href": "https://community.xometry.com/kb/articles/689-are-my-uploaded-files-and-xometry-projects-secure",
+      "text": "Xometry's Privacy and Security"
+    },
+    {
+      "href": "https://www.xometry.com/about-us/",
+      "text": "About Xometry"
+    },
+    {
+      "href": "/quality-lab/",
+      "text": "Xometry’s Quality Assurance"
+    },
+    {
+      "href": "/manufacturing-partner-network-overview/",
+      "text": "Xometry’s Supplier Network"
+    },
+    {
+      "href": "/machine-learning-for-manufacturing/",
+      "text": "Xometry's Machine Learning"
+    },
+    {
+      "href": "/capabilities/community/",
+      "text": "Xometry's Manufacturing Community"
+    },
+    {
+      "href": "https://www.xometry.com/become-a-supplier/",
+      "text": "Become a Supplier"
+    },
+    {
+      "href": "https://www.xometry.com/capabilities/#cnc-machining",
+      "text": "CNC Machining"
+    },
+    {
+      "href": "https://www.xometry.com/capabilities/#plastic-3d-printing",
+      "text": "Plastic 3D Printing"
+    },
+    {
+      "href": "https://www.xometry.com/capabilities/#resin-3d-printing",
+      "text": "Resin 3D Printing"
+    },
+    {
+      "href": "https://www.xometry.com/capabilities/#metal-3d-printing",
+      "text": "Metal 3D Printing"
+    },
+    {
+      "href": "https://www.xometry.com/capabilities/#sheet-and-tube-fabrication",
+      "text": "Sheet and Tube Fabrication"
+    },
+    {
+      "href": "https://www.xometry.com/capabilities/#plastic-part-production",
+      "text": "Plastic Part Production"
+    },
+    {
+      "href": "https://www.xometry.com/capabilities/#metal-part-production",
+      "text": "Metal Part Production"
+    },
+    {
+      "href": "https://www.xometry.com/capabilities/#value-added-solutions",
+      "text": "Value-Added Solutions"
+    },
+    {
+      "href": "",
+      "text": "Start Your New Instant Quote"
+    },
+    {
+      "href": "https://www.xometry.com/capabilities/cnc-machining-service/",
+      "text": "Custom Online CNC Machining Services"
+    },
+    {
+      "href": "https://www.xometry.com/capabilities/3d-printing-service/fused-deposition-modeling/",
+      "text": "Fused Deposition Modeling (FDM) 3D Printing Service"
+    },
+    {
+      "href": "https://www.xometry.com/capabilities/3d-printing-service/hp-multi-jet-fusion/",
+      "text": "HP Multi Jet Fusion (MJF) 3D Printing Service"
+    },
+    {
+      "href": "https://www.xometry.com/capabilities/3d-printing-service/selective-laser-sintering/",
+      "text": "Selective Laser Sintering (SLS) 3D Printing Service"
+    },
+    {
+      "href": "https://www.xometry.com/capabilities/3d-printing-service/stereolithography-3d-printing/",
+      "text": "Stereolithography (SLA) 3D Printing Services"
+    },
+    {
+      "href": "https://www.xometry.com/capabilities/3d-printing-service/polyjet-3d/",
+      "text": "PolyJet 3D Printing Service"
+    },
+    {
+      "href": "https://www.xometry.com/capabilities/3d-printing-service/carbon-dls/",
+      "text": "Carbon Digital Light Synthesis™ (DLS™) 3D Printing Service"
+    },
+    {
+      "href": "https://www.xometry.com/capabilities/3d-printing-service/direct-metal-laser-sintering/",
+      "text": "Direct Metal Laser Sintering (DMLS) 3D Printing Service"
+    },
+    {
+      "href": "https://www.xometry.com/capabilities/3d-printing-service/metal-binder-jetting/",
+      "text": "Metal Binder Jetting 3D Printing Service"
+    },
+    {
+      "href": "https://www.xometry.com/capabilities/sheet-metal-fabrication/",
+      "text": "Sheet Metal Fabrication Services"
+    },
+    {
+      "href": "https://www.xometry.com/capabilities/sheet-cutting/",
+      "text": "Laser and Sheet Cutting Services"
+    },
+    {
+      "href": "",
+      "text": "Get an Instant Tube Bending Quote"
+    },
+    {
+      "href": "https://www.xometry.com/capabilities/tube-bending-services/",
+      "text": "Tube Bending Services"
+    },
+    {
+      "href": "",
+      "text": "Get an Instant Laser Tube Cutting Quote"
+    },
+    {
+      "href": "https://www.xometry.com/capabilities/laser-tube-cutting-services/",
+      "text": "Laser Tube Cutting Services"
+    },
+    {
+      "href": "https://www.xometry.com/capabilities/injection-molding-service/",
+      "text": "Custom Plastic Injection Molding Services"
+    },
+    {
+      "href": "https://www.xometry.com/capabilities/urethane-casting/",
+      "text": "Urethane and Silicone Casting Services"
+    },
+    {
+      "href": "",
+      "text": "Get A Quote"
+    },
+    {
+      "href": "https://www.xometry.com/capabilities/plastic-extrusion-services/",
+      "text": "Custom Plastic Extrusion Services"
+    },
+    {
+      "href": "",
+      "text": "Start A Die Casting Quote"
+    },
+    {
+      "href": "https://www.xometry.com/capabilities/die-casting-services/",
+      "text": "Custom Die Casting Services"
+    },
+    {
+      "href": "",
+      "text": "Get Your Stamping Quote"
+    },
+    {
+      "href": "https://www.xometry.com/capabilities/metal-stamping-services/",
+      "text": "Metal Stamping Services"
+    },
+    {
+      "href": "https://www.xometry.com/capabilities/metal-extrusion-services/",
+      "text": "Metal Extrusion Services"
+    }
+  ],
+  "fetched_at": "2026-07-13T07:36:39+00:00",
+  "h1": "Xometry Capabilities Navigator",
+  "headings": [
+    {
+      "level": "h1",
+      "text": "Xometry Capabilities Navigator"
+    },
+    {
+      "level": "h3",
+      "text": "Machining and Turning"
+    },
+    {
+      "level": "h3",
+      "text": "Thermoplastic Additive Manufacturing / 3D Printing"
+    },
+    {
+      "level": "h3",
+      "text": "Resin Additive Manufacturing / 3D Printing"
+    },
+    {
+      "level": "h3",
+      "text": "Metal Additive Manufacturing / 3D Printing"
+    },
+    {
+      "level": "h3",
+      "text": "Sheet Metal and Tube Cutting and Bending Services"
+    },
+    {
+      "level": "h3",
+      "text": "Plastic Molding, Casting, and Production"
+    },
+    {
+      "level": "h3",
+      "text": "Metal Casting, Stamping, and Production"
+    },
+    {
+      "level": "h3",
+      "text": "Value-Added, Turnkey Solutions"
+    }
+  ],
+  "images": [
+    {
+      "alt": "",
+      "src": "https://aorta.clickagy.com/pixel.gif?clkgypv=jstag&ws=1"
+    },
+    {
+      "alt": "",
+      "src": "https://aorta.clickagy.com/channel-sync/4?clkgypv=jstag&ws=1"
+    },
+    {
+      "alt": "",
+      "src": "https://aorta.clickagy.com/pixel.gif?ch=319&cm=c81b2bcd93cd79b86d6f1783928195"
+    },
+    {
+      "alt": "",
+      "src": "data:image/svg+xml;charset=utf-8,%3Csvg%20height='606'%20width='1440'%20xmlns='http://www.w3.org/2000/svg'%20version='1.1'%3E%3C/svg%3E"
+    },
+    {
+      "alt": "Xometry Landing Page",
+      "src": "https://xometry-marketing.cdn.prismic.io/xometry-marketing/e1a27518-3908-4efd-affd-f93bce304e86_hero.svg?fit=max&w=1440&h=606"
+    },
+    {
+      "alt": "",
+      "src": "data:image/svg+xml;charset=utf-8,%3Csvg%20height='200'%20width='300'%20xmlns='http://www.w3.org/2000/svg'%20version='1.1'%3E%3C/svg%3E"
+    },
+    {
+      "alt": "High Precision CNC Machined Part",
+      "src": "https://images.prismic.io/xometry-marketing/d1044727-b388-4846-a61f-4320a57a3412_capabilities-cncmachining-hero_190329_100505.jpg?auto=format%2Ccompress&fit=max&w=300&h=200"
+    },
+    {
+      "alt": "",
+      "src": "data:image/svg+xml;charset=utf-8,%3Csvg%20height='300'%20width='300'%20xmlns='http://www.w3.org/2000/svg'%20version='1.1'%3E%3C/svg%3E"
+    },
+    {
+      "alt": "FDM Part",
+      "src": "https://images.prismic.io/xometry-marketing/642d2c3e-e8e9-4cac-b259-2111e8fa2fdb_fdm-part.png?auto=format%2Ccompress&fit=max&w=235&h=235"
+    },
+    {
+      "alt": "MJF Materials",
+      "src": "https://images.prismic.io/xometry-marketing/Z9rifziBA97Giqbg_MJFMixMaterialsandFinish-Edit.png?auto=format%2Ccompress&fit=max&w=300&h=300"
+    },
+    {
+      "alt": "",
+      "src": "data:image/svg+xml;charset=utf-8,%3Csvg%20height='225'%20width='300'%20xmlns='http://www.w3.org/2000/svg'%20version='1.1'%3E%3C/svg%3E"
+    },
+    {
+      "alt": "SLS Nylon Parts",
+      "src": "https://images.prismic.io/xometry-marketing/4fdf61d2-3300-4636-83c7-aec207f29f0d_SLS+nylon+materials.jpg?auto=format%2Ccompress&fit=max&w=300&h=225"
+    },
+    {
+      "alt": "Stereolithography SLA materials have a variety of engineered properties for function and cosmetics",
+      "src": "https://images.prismic.io/xometry-marketing/17a44386-0a6c-49d5-a8cc-063fa4de7a94_SLA+3D+Printing+Stereolithography+Mix+Materials.jpg?auto=compress%2Cformat&fit=max&w=300&h=200"
+    },
+    {
+      "alt": "Xometry Capability",
+      "src": "https://images.prismic.io/xometry-marketing/f43059be-7bef-4377-979f-2282bf729ca6_PolyJet-X-Rainbow-Kickstand-%283%29.jpg?auto=format%2Ccompress&rect=-888%2C-853%2C2688%2C2016&w=30..."
+    },
+    {
+      "alt": "",
+      "src": "data:image/svg+xml;charset=utf-8,%3Csvg%20height='169'%20width='300'%20xmlns='http://www.w3.org/2000/svg'%20version='1.1'%3E%3C/svg%3E"
+    },
+    {
+      "alt": "Carbon Digital Light Synthesis (DLS) makes production parts without tooling",
+      "src": "https://images.prismic.io/xometry-marketing/437e8983-e2cf-4248-a327-77e0d3e94290_Carbon+DLS+RPU+70+Build.jpg?auto=format%2Ccompress&fit=max&w=300&h=169"
+    },
+    {
+      "alt": "",
+      "src": "data:image/svg+xml;charset=utf-8,%3Csvg%20height='154'%20width='300'%20xmlns='http://www.w3.org/2000/svg'%20version='1.1'%3E%3C/svg%3E"
+    },
+    {
+      "alt": "Direct Metal Laser Sintered (DMLS) Part",
+      "src": "https://images.prismic.io/xometry-marketing/207957c6-c34c-47a5-999e-8aa16ecd6eed_dmls-3dprinting-metal-gear-teeth-cutouts-20190329-bloghero.jpg?auto=format%2Ccompress&fit=max&w=30..."
+    },
+    {
+      "alt": "Binder Jet Parts",
+      "src": "https://images.prismic.io/xometry-marketing/0531a26d-9449-4b03-a3b9-c3417f1baa1e_Binder+Jet+420i+Parts+%2819%29.jpg?auto=compress%2Cformat&fit=max&w=300&h=225"
+    },
+    {
+      "alt": "Sheet metal parts with hems and other formed features.",
+      "src": "https://images.prismic.io/xometry-marketing/44319101-7d8f-4ef4-a47a-365033eae461_sheetmetal-bending-punching-001-20160818-shutterstockID-157402658.jpg?auto=format%2Ccompress&rect=..."
+    },
+    {
+      "alt": "Sheet metal laser cut and punched plate with Xometry logo",
+      "src": "https://images.prismic.io/xometry-marketing/c853de94-8714-4bcb-a660-7f579b271a00_Sheet+metal+punched+drain+plate+Xometry+logo.jpg?auto=format%2Ccompress&fit=max&w=300&h=225"
+    },
+    {
+      "alt": "A tube bending machine in operation. Image Credit: Dmitry Kalinovsky",
+      "src": "https://images.prismic.io/xometry-marketing/05eb2429-0de9-4c45-a318-64972ff333dd_pipe-and-tube-bending.jpg?auto=format%2Ccompress&fit=max&w=300&h=200"
+    },
+    {
+      "alt": "Laser tube cutting",
+      "src": "https://images.prismic.io/xometry-marketing/40181fdb-01c9-4318-8cff-bfeb524b21c5_tube-laser-cutting-on-steel-pipe.jpg?auto=format%2Ccompress&fit=max&w=300&h=200"
+    },
+    {
+      "alt": "Xometry Capability",
+      "src": "https://images.prismic.io/xometry-marketing/fe17ee3f-7565-489d-83a3-f9b6c2767d5a_injection-molding-machine.jpg?auto=format%2Ccompress&fit=max&w=300&h=200"
+    },
+    {
+      "alt": "Urethane Casting",
+      "src": "https://images.prismic.io/xometry-marketing/b3787f04-e600-4ba7-b2d7-2c6ce2ec84c9_design-guide-urethanecasting-thumb.jpg?auto=format%2Ccompress&fit=max&w=300&h=200"
+    },
+    {
+      "alt": "Xometry Capability",
+      "src": "https://images.prismic.io/xometry-marketing/428824b5-c6f7-465d-a51c-efc9bc11fe4f_plastic-extrusion-colors-weatherstripping.jpeg?auto=format%2Ccompress&rect=-922%2C-631%2C1715%2C11..."
+    },
+    {
+      "alt": "Die cast metal parts",
+      "src": "https://images.prismic.io/xometry-marketing/51dad9e2-5bbc-4c68-bc6a-9e44928350ff_AdobeStock_282444652.jpeg?auto=format%2Ccompress&fit=max&w=300&h=200"
+    },
+    {
+      "alt": "Xometry Capability",
+      "src": "https://images.prismic.io/xometry-marketing/7a13cafd-d8a8-427e-b6bc-1fb4570e32c8_sheet-metal-stamping-tool-die-for-automotive-precision-parts.jpg?auto=format%2Ccompress&fit=max&w=..."
+    },
+    {
+      "alt": "",
+      "src": "data:image/svg+xml;charset=utf-8,%3Csvg%20height='294'%20width='300'%20xmlns='http://www.w3.org/2000/svg'%20version='1.1'%3E%3C/svg%3E"
+    },
+    {
+      "alt": "Xometry Capability",
+      "src": "https://images.prismic.io/xometry-marketing/53c08e9c-d449-44ac-a619-221e46269b63_Extrusion-min+%281%29.png?auto=format%2Ccompress&fit=max&w=300&h=294"
+    },
+    {
+      "alt": "Welder is welding a flange assembly. Image Credit: Shutterstock.com/Chumphon_TH",
+      "src": "https://images.prismic.io/xometry-marketing/93ff9fe9-5420-4baf-adde-3a309a71a1c8_welder-welding-a-flange-assembly.jpg?auto=compress%2Cformat&fit=max&w=300&h=200"
+    },
+    {
+      "alt": "Operator assembling machine in factory. Image Credit: Shutterstock.com/industryviews",
+      "src": "https://images.prismic.io/xometry-marketing/8b6c7d7e-c16b-4a13-9521-b381e7bb6032_operator-assembles-machine-in-a-factory.jpg?auto=compress%2Cformat&fit=max&w=300&h=200"
+    },
+    {
+      "alt": "Xometry Inc.",
+      "src": "https://xometry-marketing.cdn.prismic.io/xometry-marketing/aUF6cHNYClf9oRtQ_Xometry_Light_Registered.svg?fit=max"
+    },
+    {
+      "alt": "",
+      "src": "https://xometry-marketing.cdn.prismic.io/xometry-marketing/afJuYcBOoF08xc3I_instagram.svg?fit=max"
+    },
+    {
+      "alt": "",
+      "src": "https://xometry-marketing.cdn.prismic.io/xometry-marketing/afJuYsBOoF08xc3J_linkedin-in.svg?fit=max"
+    },
+    {
+      "alt": "",
+      "src": "https://xometry-marketing.cdn.prismic.io/xometry-marketing/afJuY8BOoF08xc3K_youtube.svg?fit=max"
+    },
+    {
+      "alt": "",
+      "src": "https://xometry-marketing.cdn.prismic.io/xometry-marketing/afNddsBOoF08xf6h_xometry-logo-mark.svg?fit=max"
+    },
+    {
+      "alt": "",
+      "src": "https://xometry-marketing.cdn.prismic.io/xometry-marketing/afJtesBOoF08xc20_shield-halved.svg?fit=max"
+    },
+    {
+      "alt": "",
+      "src": "https://bat.bing.com/action/0?ti=4041816&tm=gtm002&Ver=2&mid=350cc7ca-fddd-4443-b019-55d7f1403568&bo=1&sid=932628b07e8d11f19e07af77d6b37fd0&vid=93263a407e8d11f18e8a93b6170bb180&vi..."
+    },
+    {
+      "alt": "",
+      "src": "https://id.rlcdn.com/464526.gif"
+    },
+    {
+      "alt": "",
+      "src": "https://bttrack.com/Pixel/Retarget/3792"
+    },
+    {
+      "alt": "",
+      "src": "https://bat.bing.com/action/0?ti=30001607&Ver=2&mid=e44ee1d2-29d2-4d89-8797-3751009612cb&bo=1&sid=932628b07e8d11f19e07af77d6b37fd0&vid=93263a407e8d11f18e8a93b6170bb180&vids=0&mscl..."
+    },
+    {
+      "alt": "",
+      "src": "https://bat.bing.com/action/0?ti=30001607&Ver=2&mid=e44ee1d2-29d2-4d89-8797-3751009612cb&bo=2&sid=932628b07e8d11f19e07af77d6b37fd0&vid=93263a407e8d11f18e8a93b6170bb180&vids=0&mscl..."
+    },
+    {
+      "alt": "",
+      "src": "https://bat.bing.com/action/0?ti=30001607&Ver=2&mid=e44ee1d2-29d2-4d89-8797-3751009612cb&bo=3&sid=932628b07e8d11f19e07af77d6b37fd0&vid=93263a407e8d11f18e8a93b6170bb180&vids=0&mscl..."
+    }
+  ],
+  "meta_description": "Explore all of Xometry's manufacturing capabilities and access over 10,000 global suppliers using the Xometry Instant Quoting Engine for pricing, timelines, and DFM feedback.",
+  "requested_url": "https://www.xometry.com/capabilities",
+  "sections": [
+    {
+      "hash": "3bbb4b17ffb356254b66ce3e88c1a3b7122df634",
+      "heading": "Xometry Capabilities Navigator",
+      "level": "h1",
+      "text": "Xometry Capabilities Navigator From prototyping to production, our network of over 5,000 suppliers has the capacity for all of your manufacturing projects. Select a capability below to explore how Xometry can bring your projects to life. Explore all of our capabilities."
+    },
+    {
+      "hash": "79200fa7df15b561877b6bf3abbeaa32aedc6574",
+      "heading": "Machining and Turning",
+      "level": "h3",
+      "text": "Machining and Turning Custom Online CNC Machining Services Instant quotes on custom metal and plastic machined parts | Quick turn prototypes and production parts in days | Free standard shipping on all US orders | International prototype pricing includes tariffs | ISO 9001:2015, ISO 13485, IATF 16949:2016, AS9100D certified. ITAR registered. Start Your New Instant Quote Custom Online CNC Machining Services"
+    },
+    {
+      "hash": "8d7a597c712b959612cc851a24a18769c47e7419",
+      "heading": "Thermoplastic Additive Manufacturing / 3D Printing",
+      "level": "h3",
+      "text": "Thermoplastic Additive Manufacturing / 3D Printing Fused Deposition Modeling (FDM) 3D Printing Service High-Quality Large Format FDM 3D Printing 1-Day Expedites Available. Free Shipping on All US and International Orders. International prototype pricing includes tariffs. Start Your New Instant Quote Fused Deposition Modeling (FDM) 3D Printing Service HP Multi Jet Fusion (MJF) 3D Printing Service Quality prototypes and production parts. Free shipping on all US and international orders. ISO 9001:2015, ISO 13485, IATF 16949:2016, and AS9100D certified. Start Your New Instant Quote HP Multi Jet Fusion (MJF) 3D Printing Service Selective Laser Sintering (SLS) 3D Printing Service Quality prototyp..."
+    },
+    {
+      "hash": "5e4b8155743126a4de8d2b09f28c7ead23f3df29",
+      "heading": "Resin Additive Manufacturing / 3D Printing",
+      "level": "h3",
+      "text": "Resin Additive Manufacturing / 3D Printing Stereolithography (SLA) 3D Printing Services High Detail, Smooth Surfaced Parts in Days Free shipping on all US 3D printing orders Start Your New Instant Quote Stereolithography (SLA) 3D Printing Services PolyJet 3D Printing Service Prototypes, full-color concept models, and simulated overmold parts in days | Free shipping on all US orders Start Your New Instant Quote PolyJet 3D Printing Service Carbon Digital Light Synthesis™ (DLS™) 3D Printing Service High-Performing Prototypes and Serialized Production Parts | Free Shipping on All US Orders Start Your New Instant Quote Carbon Digital Light Synthesis™ (DLS™) 3D Printing Service"
+    },
+    {
+      "hash": "3f56531358e78417ae0164cb58a6bc8cc3316f18",
+      "heading": "Metal Additive Manufacturing / 3D Printing",
+      "level": "h3",
+      "text": "Metal Additive Manufacturing / 3D Printing Direct Metal Laser Sintering (DMLS) 3D Printing Service Instant quotes for metal prototypes and production parts | Free shipping on all US orders | ISO 9001:2015, ISO 13485, IATF 16949:2016, AS9100D certified. ITAR registered. Start Your New Instant Quote Direct Metal Laser Sintering (DMLS) 3D Printing Service Metal Binder Jetting 3D Printing Service Upload your CAD files to get an instant quote on parts. Free shipping on all US orders. Start Your New Instant Quote Metal Binder Jetting 3D Printing Service"
+    },
+    {
+      "hash": "2d45ffdfe6ac0153a0497aee68de5f70770b2567",
+      "heading": "Sheet Metal and Tube Cutting and Bending Services",
+      "level": "h3",
+      "text": "Sheet Metal and Tube Cutting and Bending Services Sheet Metal Fabrication Services Instant quotes on custom-formed sheet metal parts | Prototypes and production parts in days | Free standard shipping on all US orders. | International prototype pricing includes tariffs. | ISO 9001:2015, ISO 13485, IATF 16949:2016, AS9100D certified. ITAR registered. Start Your New Instant Quote Sheet Metal Fabrication Services Laser and Sheet Cutting Services Instant quotes for laser cutting or waterjet cut parts | No minimums | Get parts in days | Free standard shipping on U.S. and international orders | International prototype pricing includes tariffs | Competitive pricing for high-quality parts Start Your..."
+    },
+    {
+      "hash": "1dd74a7980b4d4180473bff12d4ee53c9a510431",
+      "heading": "Plastic Molding, Casting, and Production",
+      "level": "h3",
+      "text": "Plastic Molding, Casting, and Production Custom Plastic Injection Molding Services Instant injection molding quotes for plastic molded parts | Full-service from prototype to production runs | Virtually endless material and finishing options | Expert engineering reviews and project management included with every order Get An Instant Quote Custom Plastic Injection Molding Services Urethane and Silicone Casting Services Low volume, durable production-quality parts | International prototype pricing includes tariffs Start Your New Instant Quote Urethane and Silicone Casting Services Custom Plastic Extrusion Services High Quality, Low Cost Custom Plastic Extrusions With Xometry Get A Quote Custom..."
+    },
+    {
+      "hash": "c93d4308cc64f770ee711cddee0cdb4eaac8a564",
+      "heading": "Metal Casting, Stamping, and Production",
+      "level": "h3",
+      "text": "Metal Casting, Stamping, and Production Custom Die Casting Services Custom aluminum and zinc die casting for complex metal parts | Cost-effective tooling and rapid, scalable production | ISO 9001:2015, ISO 13485, IATF 16949:2016, AS9100D certified. ITAR registered. Start A Die Casting Quote Custom Die Casting Services Metal Stamping Services High Quality Metal Stamped Parts From Short Runs To Production In The Millions. Get Your Stamping Quote Metal Stamping Services Metal Extrusion Services High Quality, Low Cost Metal Extrusions With Xometry. Get A Quote Metal Extrusion Services"
+    },
+    {
+      "hash": "a2cb9576c9e13415d8497d0b01888241489de27e",
+      "heading": "Value-Added, Turnkey Solutions",
+      "level": "h3",
+      "text": "Value-Added, Turnkey Solutions Custom Online Weldment Services by Xometry High-quality custom weldment services available for a variety of materials, manufacturing processes, finishes, and more. Custom Online Weldment Services by Xometry Assembly Services by Xometry High quality assembly services for your production needs. Assembly Services by Xometry"
+    }
+  ],
+  "status": 200,
+  "structure_hash": "7f7212b14c703690b51cf945d54e39cc2897f2a7",
+  "text_excerpt": "Xometry Manufacturing Capability Navigator | Xometry | On-Demand Manufactring for Custom Parts Get an Instant Quote Log In / Register Solutions Additive Manufacturing 3D Printing Service Plastic 3D Printing Service Fused Deposition Modeling HP Multi Jet Fusion Selective Laser Sintering Stereolithography PolyJet Production 3D Printing Service Carbon DLS Metal 3D Printing Service Direct Metal Laser Sintering Metal Binder Jetting Vapor Smoothing 3D Prints CNC Machining CNC Machining CNC Milling CNC Turning CNC Routing Swiss-type Turning Micro Machining Sheet and Tube Fabrication Sheet Metal Fabrication Sheet Cutting Laser Cutting Waterjet Cutting Laser Tube Cutting Tube Bending Injection Molding Injection Molding Services Plastic Injection Molding Prototype Molding Production Molding Insert Molding Overmolding Micro Molding Other Plastic Production Urethane and Silicone Casting Compression Molding Plastic Extrusion Metal Part Production Die Casting Metal Stamping Metal Extrusion Value-Added Solutions Assembly Services Weldments Rapid Prototyping High-Volume Production Precision Grinding Surface Grinding Powder Coating Industries Industries We Serve Aerospace and Defense Automotive Co...",
+  "text_hash": "cb35a99fa996fe91ef40f43a0c631b929bd89153",
+  "title": "Xometry Manufacturing Capability Navigator | Xometry | On-Demand Manufactring for Custom Parts",
+  "url": "https://www.xometry.com/capabilities"
+}

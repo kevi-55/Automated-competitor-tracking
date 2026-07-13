@@ -1,0 +1,307 @@
+{
+  "canonical": "",
+  "category": "content",
+  "competitor": "PCBWay",
+  "ctas": [
+    {
+      "href": "/orderonline.aspx",
+      "text": "PCB Instant Quote"
+    },
+    {
+      "href": "javascript:void(0)",
+      "text": "Sign Up"
+    },
+    {
+      "href": "/project/shareproject/?order=1",
+      "text": "By Source Files"
+    },
+    {
+      "href": "/project/shareproject/?order=1",
+      "text": "View all source files projects"
+    },
+    {
+      "href": "/project/shareproject/?order=1",
+      "text": "Source Files"
+    },
+    {
+      "href": "https://www.pcbway.com/order/QuoteLayout?designType=2",
+      "text": "PCBWay Design Service"
+    },
+    {
+      "href": "https://www.pcbway.com/order/QuoteLayout?designType=2",
+      "text": "PCB Design Service team"
+    },
+    {
+      "href": "/blog/club-publish.html",
+      "text": "Submit for Publication"
+    },
+    {
+      "href": "/blog/Activities/Submit_for_Publication___Now_I_Write_Articles_in_PCBWay.html",
+      "text": "Write for PCBWay"
+    },
+    {
+      "href": "/blog/?tag=PCB industry",
+      "text": "PCB industry"
+    },
+    {
+      "href": "/blog/PCB_Design_Layout/Medical_PCB_Design_Guide_Manufacturing_Assembly_Testing_and_Industry_Standar_fa2610eb.html",
+      "text": "Medical PCB Design Guide: Manufacturing, Assembly, Testing, and Industry Standards"
+    },
+    {
+      "href": "/contact.html",
+      "text": "Contact us"
+    }
+  ],
+  "fetched_at": "2026-07-13T07:45:07+00:00",
+  "h1": "PCB Annular Ring Design: Sizing, IPC Standards, DFM Rules, and Failure Prevention",
+  "headings": [
+    {
+      "level": "h1",
+      "text": "PCB Annular Ring Design: Sizing, IPC Standards, DFM Rules, and Failure Prevention"
+    },
+    {
+      "level": "h2",
+      "text": "What Is an Annular Ring in PCB Design?"
+    },
+    {
+      "level": "h3",
+      "text": "Key Structural Parameters"
+    },
+    {
+      "level": "h2",
+      "text": "Annular Ring Width Calculation and Sizing Standards"
+    },
+    {
+      "level": "h3",
+      "text": "Standard Calculation Formula"
+    },
+    {
+      "level": "h3",
+      "text": "Recommended Annular Ring Sizes for Different Applications"
+    },
+    {
+      "level": "h3",
+      "text": "Annular Ring Design Considerations for Special Applications"
+    },
+    {
+      "level": "h2",
+      "text": "PCB Annular Ring Design Guidelines for Manufacturability"
+    },
+    {
+      "level": "h3",
+      "text": "Reserve Manufacturing Tolerance"
+    },
+    {
+      "level": "h3",
+      "text": "Consider Different Hole Types"
+    },
+    {
+      "level": "h3",
+      "text": "Follow IPC Product Class Requirements"
+    },
+    {
+      "level": "h3",
+      "text": "Account for Soldering Stress"
+    },
+    {
+      "level": "h2",
+      "text": "Common Annular Ring Failure Modes"
+    },
+    {
+      "level": "h3",
+      "text": "Tangency"
+    },
+    {
+      "level": "h3",
+      "text": "Breakout"
+    },
+    {
+      "level": "h3",
+      "text": "Annular Ring Cracking"
+    },
+    {
+      "level": "h3",
+      "text": "Pad Lifting"
+    },
+    {
+      "level": "h2",
+      "text": "Annular Ring Design Checklist"
+    },
+    {
+      "level": "h2",
+      "text": "Conclusion"
+    },
+    {
+      "level": "h3",
+      "text": "Related articles"
+    }
+  ],
+  "images": [
+    {
+      "alt": "",
+      "src": "/project/img/images/avatar/user-pic.png"
+    },
+    {
+      "alt": "",
+      "src": "/project/img/images/loading-pro.gif"
+    },
+    {
+      "alt": "",
+      "src": "https://pcbwayfile.s3.us-west-2.amazonaws.com/web/23/10/03/1152415436848m.jpeg"
+    },
+    {
+      "alt": "",
+      "src": "https://pcbwayfile.s3.us-west-2.amazonaws.com/web/25/02/01/195239553dd028d967de6453aa74b91ac0e5423e73248m.png"
+    },
+    {
+      "alt": "",
+      "src": "https://pcbwayfile.s3-us-west-2.amazonaws.com/web/21/08/30/1823256917346m.png"
+    },
+    {
+      "alt": "",
+      "src": "https://pcb-files.s3.us-west-2.amazonaws.com/web/26/06/17/170121178a4dee3dbe61042efb324a0743174ff033526t.jpg"
+    },
+    {
+      "alt": "",
+      "src": "https://pcb-files.s3.us-west-2.amazonaws.com/web/26/06/17/17311734639a74bf81afc4bc899a0adcd2cd8dbbe0772t.png"
+    },
+    {
+      "alt": "",
+      "src": "https://pcb-files.s3.us-west-2.amazonaws.com/web/26/06/17/17374628971f5bbf6182c49ee9eec3d99de86c5fe5603t.png"
+    },
+    {
+      "alt": "",
+      "src": "/img/images/note-tips.png"
+    }
+  ],
+  "meta_description": "",
+  "requested_url": "https://www.pcbway.com/blog/PCB_Design_Layout/PCB_Annular_Ring_Design_Sizing_IPC_Standards_DFM_Rules_and_Failure_Preventio_76fedbc1.html",
+  "sections": [
+    {
+      "hash": "4f01d7af90b477325913b948608e9d4aa91a8a59",
+      "heading": "PCB Annular Ring Design: Sizing, IPC Standards, DFM Rules, and Failure Prevention",
+      "level": "h1",
+      "text": "Blog > PCB Annular Ring Design: Sizing, IPC Standards, DFM Rules, and Failure Prevention PCB Annular Ring Design: Sizing, IPC Standards, DFM Rules, and Failure Prevention by: Mila Jun 17,2026 610 Views 0 Comments Posted in PCB Design & Layout annular rings annular ring pcb annular rings design via annular ring In PCB design, the annular ring may seem like a small feature, but it directly affects electrical reliability, solder joint strength, and manufacturing yield. Insufficient annular ring width can lead to breakout, tangency, intermittent connections, and even complete circuit failure. This article explains annular ring fundamentals, sizing calculations, IPC requirements, design guidelin..."
+    },
+    {
+      "hash": "1c06570df0de6f39f7342c155a5d7467b4a16781",
+      "heading": "What Is an Annular Ring in PCB Design?",
+      "level": "h2",
+      "text": "In PCB design, the annular ring may seem like a small feature, but it directly affects electrical reliability, solder joint strength, and manufacturing yield. Insufficient annular ring width can lead to breakout, tangency, intermittent connections, and even complete circuit failure. This article explains annular ring fundamentals, sizing calculations, IPC requirements, design guidelines, and common failure modes to help engineers improve PCB reliability and manufacturability. Designing annular rings is not simply a matter of following a formula. Hole registration tolerance, layer-to-layer alignment, fabrication capability, and PCB reliability requirements must all be considered during the d..."
+    },
+    {
+      "hash": "1c06570df0de6f39f7342c155a5d7467b4a16781",
+      "heading": "Key Structural Parameters",
+      "level": "h3",
+      "text": "In PCB design, the annular ring may seem like a small feature, but it directly affects electrical reliability, solder joint strength, and manufacturing yield. Insufficient annular ring width can lead to breakout, tangency, intermittent connections, and even complete circuit failure. This article explains annular ring fundamentals, sizing calculations, IPC requirements, design guidelines, and common failure modes to help engineers improve PCB reliability and manufacturability. Designing annular rings is not simply a matter of following a formula. Hole registration tolerance, layer-to-layer alignment, fabrication capability, and PCB reliability requirements must all be considered during the d..."
+    },
+    {
+      "hash": "1c06570df0de6f39f7342c155a5d7467b4a16781",
+      "heading": "Annular Ring Width Calculation and Sizing Standards",
+      "level": "h2",
+      "text": "In PCB design, the annular ring may seem like a small feature, but it directly affects electrical reliability, solder joint strength, and manufacturing yield. Insufficient annular ring width can lead to breakout, tangency, intermittent connections, and even complete circuit failure. This article explains annular ring fundamentals, sizing calculations, IPC requirements, design guidelines, and common failure modes to help engineers improve PCB reliability and manufacturability. Designing annular rings is not simply a matter of following a formula. Hole registration tolerance, layer-to-layer alignment, fabrication capability, and PCB reliability requirements must all be considered during the d..."
+    },
+    {
+      "hash": "1c06570df0de6f39f7342c155a5d7467b4a16781",
+      "heading": "Standard Calculation Formula",
+      "level": "h3",
+      "text": "In PCB design, the annular ring may seem like a small feature, but it directly affects electrical reliability, solder joint strength, and manufacturing yield. Insufficient annular ring width can lead to breakout, tangency, intermittent connections, and even complete circuit failure. This article explains annular ring fundamentals, sizing calculations, IPC requirements, design guidelines, and common failure modes to help engineers improve PCB reliability and manufacturability. Designing annular rings is not simply a matter of following a formula. Hole registration tolerance, layer-to-layer alignment, fabrication capability, and PCB reliability requirements must all be considered during the d..."
+    },
+    {
+      "hash": "1c06570df0de6f39f7342c155a5d7467b4a16781",
+      "heading": "Recommended Annular Ring Sizes for Different Applications",
+      "level": "h3",
+      "text": "In PCB design, the annular ring may seem like a small feature, but it directly affects electrical reliability, solder joint strength, and manufacturing yield. Insufficient annular ring width can lead to breakout, tangency, intermittent connections, and even complete circuit failure. This article explains annular ring fundamentals, sizing calculations, IPC requirements, design guidelines, and common failure modes to help engineers improve PCB reliability and manufacturability. Designing annular rings is not simply a matter of following a formula. Hole registration tolerance, layer-to-layer alignment, fabrication capability, and PCB reliability requirements must all be considered during the d..."
+    },
+    {
+      "hash": "1c06570df0de6f39f7342c155a5d7467b4a16781",
+      "heading": "Annular Ring Design Considerations for Special Applications",
+      "level": "h3",
+      "text": "In PCB design, the annular ring may seem like a small feature, but it directly affects electrical reliability, solder joint strength, and manufacturing yield. Insufficient annular ring width can lead to breakout, tangency, intermittent connections, and even complete circuit failure. This article explains annular ring fundamentals, sizing calculations, IPC requirements, design guidelines, and common failure modes to help engineers improve PCB reliability and manufacturability. Designing annular rings is not simply a matter of following a formula. Hole registration tolerance, layer-to-layer alignment, fabrication capability, and PCB reliability requirements must all be considered during the d..."
+    },
+    {
+      "hash": "1c06570df0de6f39f7342c155a5d7467b4a16781",
+      "heading": "PCB Annular Ring Design Guidelines for Manufacturability",
+      "level": "h2",
+      "text": "In PCB design, the annular ring may seem like a small feature, but it directly affects electrical reliability, solder joint strength, and manufacturing yield. Insufficient annular ring width can lead to breakout, tangency, intermittent connections, and even complete circuit failure. This article explains annular ring fundamentals, sizing calculations, IPC requirements, design guidelines, and common failure modes to help engineers improve PCB reliability and manufacturability. Designing annular rings is not simply a matter of following a formula. Hole registration tolerance, layer-to-layer alignment, fabrication capability, and PCB reliability requirements must all be considered during the d..."
+    },
+    {
+      "hash": "1c06570df0de6f39f7342c155a5d7467b4a16781",
+      "heading": "Reserve Manufacturing Tolerance",
+      "level": "h3",
+      "text": "In PCB design, the annular ring may seem like a small feature, but it directly affects electrical reliability, solder joint strength, and manufacturing yield. Insufficient annular ring width can lead to breakout, tangency, intermittent connections, and even complete circuit failure. This article explains annular ring fundamentals, sizing calculations, IPC requirements, design guidelines, and common failure modes to help engineers improve PCB reliability and manufacturability. Designing annular rings is not simply a matter of following a formula. Hole registration tolerance, layer-to-layer alignment, fabrication capability, and PCB reliability requirements must all be considered during the d..."
+    },
+    {
+      "hash": "1c06570df0de6f39f7342c155a5d7467b4a16781",
+      "heading": "Consider Different Hole Types",
+      "level": "h3",
+      "text": "In PCB design, the annular ring may seem like a small feature, but it directly affects electrical reliability, solder joint strength, and manufacturing yield. Insufficient annular ring width can lead to breakout, tangency, intermittent connections, and even complete circuit failure. This article explains annular ring fundamentals, sizing calculations, IPC requirements, design guidelines, and common failure modes to help engineers improve PCB reliability and manufacturability. Designing annular rings is not simply a matter of following a formula. Hole registration tolerance, layer-to-layer alignment, fabrication capability, and PCB reliability requirements must all be considered during the d..."
+    },
+    {
+      "hash": "1c06570df0de6f39f7342c155a5d7467b4a16781",
+      "heading": "Follow IPC Product Class Requirements",
+      "level": "h3",
+      "text": "In PCB design, the annular ring may seem like a small feature, but it directly affects electrical reliability, solder joint strength, and manufacturing yield. Insufficient annular ring width can lead to breakout, tangency, intermittent connections, and even complete circuit failure. This article explains annular ring fundamentals, sizing calculations, IPC requirements, design guidelines, and common failure modes to help engineers improve PCB reliability and manufacturability. Designing annular rings is not simply a matter of following a formula. Hole registration tolerance, layer-to-layer alignment, fabrication capability, and PCB reliability requirements must all be considered during the d..."
+    },
+    {
+      "hash": "1c06570df0de6f39f7342c155a5d7467b4a16781",
+      "heading": "Account for Soldering Stress",
+      "level": "h3",
+      "text": "In PCB design, the annular ring may seem like a small feature, but it directly affects electrical reliability, solder joint strength, and manufacturing yield. Insufficient annular ring width can lead to breakout, tangency, intermittent connections, and even complete circuit failure. This article explains annular ring fundamentals, sizing calculations, IPC requirements, design guidelines, and common failure modes to help engineers improve PCB reliability and manufacturability. Designing annular rings is not simply a matter of following a formula. Hole registration tolerance, layer-to-layer alignment, fabrication capability, and PCB reliability requirements must all be considered during the d..."
+    },
+    {
+      "hash": "1c06570df0de6f39f7342c155a5d7467b4a16781",
+      "heading": "Common Annular Ring Failure Modes",
+      "level": "h2",
+      "text": "In PCB design, the annular ring may seem like a small feature, but it directly affects electrical reliability, solder joint strength, and manufacturing yield. Insufficient annular ring width can lead to breakout, tangency, intermittent connections, and even complete circuit failure. This article explains annular ring fundamentals, sizing calculations, IPC requirements, design guidelines, and common failure modes to help engineers improve PCB reliability and manufacturability. Designing annular rings is not simply a matter of following a formula. Hole registration tolerance, layer-to-layer alignment, fabrication capability, and PCB reliability requirements must all be considered during the d..."
+    },
+    {
+      "hash": "1c06570df0de6f39f7342c155a5d7467b4a16781",
+      "heading": "Tangency",
+      "level": "h3",
+      "text": "In PCB design, the annular ring may seem like a small feature, but it directly affects electrical reliability, solder joint strength, and manufacturing yield. Insufficient annular ring width can lead to breakout, tangency, intermittent connections, and even complete circuit failure. This article explains annular ring fundamentals, sizing calculations, IPC requirements, design guidelines, and common failure modes to help engineers improve PCB reliability and manufacturability. Designing annular rings is not simply a matter of following a formula. Hole registration tolerance, layer-to-layer alignment, fabrication capability, and PCB reliability requirements must all be considered during the d..."
+    },
+    {
+      "hash": "1c06570df0de6f39f7342c155a5d7467b4a16781",
+      "heading": "Breakout",
+      "level": "h3",
+      "text": "In PCB design, the annular ring may seem like a small feature, but it directly affects electrical reliability, solder joint strength, and manufacturing yield. Insufficient annular ring width can lead to breakout, tangency, intermittent connections, and even complete circuit failure. This article explains annular ring fundamentals, sizing calculations, IPC requirements, design guidelines, and common failure modes to help engineers improve PCB reliability and manufacturability. Designing annular rings is not simply a matter of following a formula. Hole registration tolerance, layer-to-layer alignment, fabrication capability, and PCB reliability requirements must all be considered during the d..."
+    },
+    {
+      "hash": "1c06570df0de6f39f7342c155a5d7467b4a16781",
+      "heading": "Annular Ring Cracking",
+      "level": "h3",
+      "text": "In PCB design, the annular ring may seem like a small feature, but it directly affects electrical reliability, solder joint strength, and manufacturing yield. Insufficient annular ring width can lead to breakout, tangency, intermittent connections, and even complete circuit failure. This article explains annular ring fundamentals, sizing calculations, IPC requirements, design guidelines, and common failure modes to help engineers improve PCB reliability and manufacturability. Designing annular rings is not simply a matter of following a formula. Hole registration tolerance, layer-to-layer alignment, fabrication capability, and PCB reliability requirements must all be considered during the d..."
+    },
+    {
+      "hash": "1c06570df0de6f39f7342c155a5d7467b4a16781",
+      "heading": "Pad Lifting",
+      "level": "h3",
+      "text": "In PCB design, the annular ring may seem like a small feature, but it directly affects electrical reliability, solder joint strength, and manufacturing yield. Insufficient annular ring width can lead to breakout, tangency, intermittent connections, and even complete circuit failure. This article explains annular ring fundamentals, sizing calculations, IPC requirements, design guidelines, and common failure modes to help engineers improve PCB reliability and manufacturability. Designing annular rings is not simply a matter of following a formula. Hole registration tolerance, layer-to-layer alignment, fabrication capability, and PCB reliability requirements must all be considered during the d..."
+    },
+    {
+      "hash": "1c06570df0de6f39f7342c155a5d7467b4a16781",
+      "heading": "Annular Ring Design Checklist",
+      "level": "h2",
+      "text": "In PCB design, the annular ring may seem like a small feature, but it directly affects electrical reliability, solder joint strength, and manufacturing yield. Insufficient annular ring width can lead to breakout, tangency, intermittent connections, and even complete circuit failure. This article explains annular ring fundamentals, sizing calculations, IPC requirements, design guidelines, and common failure modes to help engineers improve PCB reliability and manufacturability. Designing annular rings is not simply a matter of following a formula. Hole registration tolerance, layer-to-layer alignment, fabrication capability, and PCB reliability requirements must all be considered during the d..."
+    },
+    {
+      "hash": "1c06570df0de6f39f7342c155a5d7467b4a16781",
+      "heading": "Conclusion",
+      "level": "h2",
+      "text": "In PCB design, the annular ring may seem like a small feature, but it directly affects electrical reliability, solder joint strength, and manufacturing yield. Insufficient annular ring width can lead to breakout, tangency, intermittent connections, and even complete circuit failure. This article explains annular ring fundamentals, sizing calculations, IPC requirements, design guidelines, and common failure modes to help engineers improve PCB reliability and manufacturability. Designing annular rings is not simply a matter of following a formula. Hole registration tolerance, layer-to-layer alignment, fabrication capability, and PCB reliability requirements must all be considered during the d..."
+    },
+    {
+      "hash": "2ff468a4fd7afce13bfd63c5b04bb8a2abde8c85",
+      "heading": "Related articles",
+      "level": "h3",
+      "text": "Related articles PCB Annular Ring Design: Sizing, IPC Standards, DFM Rules, and Failure Prevention"
+    }
+  ],
+  "status": 200,
+  "structure_hash": "49dd28bdbed98017d89b0fdfb4f147a480580ccb",
+  "text_excerpt": "PCB Annular Ring Design: Sizing, IPC Standards, DFM Rules, and Failure Prevention - PCB Design & Layout - PCBway PCBWay Community Search title or content Search PCBWay PCB Instant Quote CNC | 3D Printing Login Sign Up More Notifications No notifications. My Profile My projects My Likes My Deals My Goods for Bazaar Settings Sign Out Projects Categories DIY Electronics Arduino Hardware Audio Computers & USB Breakout Board Projects Home Automation LED Displays & Matrices IoT Robotics View all categories By Source Files Onju Voice - AI assistant replacement to Google Nest Mini by @justLV LogicAnalyzer V6.0 DIY 1kW Open Source MPPT Solar Charge Controller Tad Boy Color SummerCart64 - a fully open source N64 flashcart kv4p HT v1.7b QuinLED-Dig-Uno Bike Fingerprint - PCB Arduino RC engine sound & light controller with inertia simulation for ESP32 Solar Powered WiFi Weather Station V2.0 Frog Boy Color SIDKick pico 0.2 (SID 6581/8580-replacement for C64/C128) View all source files projects Featured Projects Onju Voice - AI assistant replacement to Google Nest Mini by @justLV LogicAnalyzer V6.0 DIY 1kW Open Source MPPT Solar Charge Controller Featured Source Files Video View all projects Qu...",
+  "text_hash": "0bd547d5b499503f9bdf5be1c9fc86893c166598",
+  "title": "PCB Annular Ring Design: Sizing, IPC Standards, DFM Rules, and Failure Prevention - PCB Design & Layout - PCBway",
+  "url": "https://www.pcbway.com/blog/PCB_Design_Layout/PCB_Annular_Ring_Design_Sizing_IPC_Standards_DFM_Rules_and_Failure_Preventio_76fedbc1.html"
+}

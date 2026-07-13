@@ -1,0 +1,159 @@
+{
+  "canonical": "",
+  "category": "content",
+  "competitor": "PCBWay",
+  "ctas": [
+    {
+      "href": "/orderonline.aspx",
+      "text": "PCB Instant Quote"
+    },
+    {
+      "href": "javascript:void(0)",
+      "text": "Sign Up"
+    },
+    {
+      "href": "/project/shareproject/?order=1",
+      "text": "By Source Files"
+    },
+    {
+      "href": "/project/shareproject/?order=1",
+      "text": "View all source files projects"
+    },
+    {
+      "href": "/project/shareproject/?order=1",
+      "text": "Source Files"
+    },
+    {
+      "href": "/blog/club-publish.html",
+      "text": "Submit for Publication"
+    },
+    {
+      "href": "/blog/Activities/Submit_for_Publication___Now_I_Write_Articles_in_PCBWay.html",
+      "text": "Write for PCBWay"
+    },
+    {
+      "href": "/blog/?tag=PCB industry",
+      "text": "PCB industry"
+    },
+    {
+      "href": "/contact.html",
+      "text": "Contact us"
+    }
+  ],
+  "fetched_at": "2026-07-13T07:45:05+00:00",
+  "h1": "How to Generate Gerber and Drill Files in Altium Designer 23.5.1",
+  "headings": [
+    {
+      "level": "h1",
+      "text": "How to Generate Gerber and Drill Files in Altium Designer 23.5.1"
+    },
+    {
+      "level": "h3",
+      "text": "Gerber Files"
+    },
+    {
+      "level": "h3",
+      "text": "Drill Files"
+    },
+    {
+      "level": "h3",
+      "text": "Related articles"
+    }
+  ],
+  "images": [
+    {
+      "alt": "",
+      "src": "/project/img/images/avatar/user-pic.png"
+    },
+    {
+      "alt": "",
+      "src": "/project/img/images/loading-pro.gif"
+    },
+    {
+      "alt": "",
+      "src": "https://pcbwayfile.s3.us-west-2.amazonaws.com/web/23/10/03/1152415436848m.jpeg"
+    },
+    {
+      "alt": "",
+      "src": "https://pcbwayfile.s3.us-west-2.amazonaws.com/web/25/02/01/195239553dd028d967de6453aa74b91ac0e5423e73248m.png"
+    },
+    {
+      "alt": "",
+      "src": "https://pcbwayfile.s3-us-west-2.amazonaws.com/web/21/08/30/1823256917346m.png"
+    },
+    {
+      "alt": "",
+      "src": "https://pcbwayfile.s3.us-west-2.amazonaws.com/web/23/07/06/0905168518207t.png"
+    },
+    {
+      "alt": "",
+      "src": "https://pcbwayfile.s3.us-west-2.amazonaws.com/web/23/07/06/0905363090416t.png"
+    },
+    {
+      "alt": "",
+      "src": "https://pcbwayfile.s3.us-west-2.amazonaws.com/web/23/07/06/0905524375213t.png"
+    },
+    {
+      "alt": "",
+      "src": "https://pcbwayfile.s3.us-west-2.amazonaws.com/web/23/07/06/0906278338844t.png"
+    },
+    {
+      "alt": "",
+      "src": "https://pcbwayfile.s3.us-west-2.amazonaws.com/web/23/07/06/0906393298783t.png"
+    },
+    {
+      "alt": "",
+      "src": "https://pcbwayfile.s3.us-west-2.amazonaws.com/web/23/11/24/1451434633824t.png"
+    },
+    {
+      "alt": "",
+      "src": "https://pcbwayfile.s3.us-west-2.amazonaws.com/web/23/07/06/0907059376405t.png"
+    },
+    {
+      "alt": "",
+      "src": "https://pcbwayfile.s3.us-west-2.amazonaws.com/web/23/07/06/0907148353378t.png"
+    },
+    {
+      "alt": "",
+      "src": "https://pcbwayfile.s3.us-west-2.amazonaws.com/web/23/07/06/0907315431313t.png"
+    },
+    {
+      "alt": "",
+      "src": "/img/images/note-tips.png"
+    }
+  ],
+  "meta_description": "",
+  "requested_url": "https://www.pcbway.com/blog/PCB_Design_Tutorial/How_to_Generate_Gerber_and_Drill_Files_in_Altium_Designer_23_5_1_c436e1cc.html",
+  "sections": [
+    {
+      "hash": "d42b4d1caab4066d54e63b742ce8bcbccc405c27",
+      "heading": "How to Generate Gerber and Drill Files in Altium Designer 23.5.1",
+      "level": "h1",
+      "text": "Blog > How to Generate Gerber and Drill Files in Altium Designer 23.5.1 How to Generate Gerber and Drill Files in Altium Designer 23.5.1 by: Mia Jul 06,2023 36021 Views 2 Comments Posted in PCB Design Tutorial Tutorial PCB design Gerber Altium Design Gerber Files Select the menu bar, click \"File\"->\"Fabrication Outputs\"->\"Gerber Files\", as shown in the figure below. After clicking, the Gerber Setup interface will appear. Refer to the red boxes in the figure below to select the Layers to plot page, and click \"Plot Layers\"->\"Select Used\". On the Advanced page, select as shown below. Click Apply, and the pop-up .Cam project file can be closed directly without saving. Drill Files Select the menu..."
+    },
+    {
+      "hash": "17326a3ad66bf94ef43c88e1d68295174a6ce7da",
+      "heading": "Gerber Files",
+      "level": "h3",
+      "text": "Gerber Files Select the menu bar, click \"File\"->\"Fabrication Outputs\"->\"Gerber Files\", as shown in the figure below. After clicking, the Gerber Setup interface will appear. Refer to the red boxes in the figure below to select the Layers to plot page, and click \"Plot Layers\"->\"Select Used\". On the Advanced page, select as shown below. Click Apply, and the pop-up .Cam project file can be closed directly without saving. Drill Files Select the menu bar, click \"File\"->\"Fabrication Outputs\"->\"NC Drill Files\". After clicking, the NC Drill Setup interface will pop up, select as shown below and click OK. Import Drill Data Page appears, keep the default setting and click OK. The pop-up .Cam project f..."
+    },
+    {
+      "hash": "17326a3ad66bf94ef43c88e1d68295174a6ce7da",
+      "heading": "Drill Files",
+      "level": "h3",
+      "text": "Gerber Files Select the menu bar, click \"File\"->\"Fabrication Outputs\"->\"Gerber Files\", as shown in the figure below. After clicking, the Gerber Setup interface will appear. Refer to the red boxes in the figure below to select the Layers to plot page, and click \"Plot Layers\"->\"Select Used\". On the Advanced page, select as shown below. Click Apply, and the pop-up .Cam project file can be closed directly without saving. Drill Files Select the menu bar, click \"File\"->\"Fabrication Outputs\"->\"NC Drill Files\". After clicking, the NC Drill Setup interface will pop up, select as shown below and click OK. Import Drill Data Page appears, keep the default setting and click OK. The pop-up .Cam project f..."
+    },
+    {
+      "hash": "b8127f52941c63daea675541cf2ea34e93f7b651",
+      "heading": "Related articles",
+      "level": "h3",
+      "text": "Related articles Circuit Symbols Explained: A Complete Guide to Electronic Symbols and Schematic Symbols in PCB Design Mixed-Signal PCB Design: A Practical Engineering Guide Decoupling Capacitor Placement Guidelines for High-Speed PCB Design How PCB Design Decisions Impact Manufacturing Cost"
+    }
+  ],
+  "status": 200,
+  "structure_hash": "16ecc8a79d58a3bba732284df90c84d205a78ce7",
+  "text_excerpt": "How to Generate Gerber and Drill Files in Altium Designer 23.5.1 - PCB Design Tutorial - PCBway PCBWay Community Search title or content Search PCBWay PCB Instant Quote CNC | 3D Printing Login Sign Up More Notifications No notifications. My Profile My projects My Likes My Deals My Goods for Bazaar Settings Sign Out Projects Categories DIY Electronics Arduino Hardware Audio Computers & USB Breakout Board Projects Home Automation LED Displays & Matrices IoT Robotics View all categories By Source Files Onju Voice - AI assistant replacement to Google Nest Mini by @justLV LogicAnalyzer V6.0 DIY 1kW Open Source MPPT Solar Charge Controller Tad Boy Color SummerCart64 - a fully open source N64 flashcart kv4p HT v1.7b QuinLED-Dig-Uno Bike Fingerprint - PCB Arduino RC engine sound & light controller with inertia simulation for ESP32 Solar Powered WiFi Weather Station V2.0 Frog Boy Color SIDKick pico 0.2 (SID 6581/8580-replacement for C64/C128) View all source files projects Featured Projects Onju Voice - AI assistant replacement to Google Nest Mini by @justLV LogicAnalyzer V6.0 DIY 1kW Open Source MPPT Solar Charge Controller Featured Source Files Video View all projects Questions Sponsorsh...",
+  "text_hash": "fd84144cdb0733691f739ad508d85fe4874bc966",
+  "title": "How to Generate Gerber and Drill Files in Altium Designer 23.5.1 - PCB Design Tutorial - PCBway",
+  "url": "https://www.pcbway.com/blog/PCB_Design_Tutorial/How_to_Generate_Gerber_and_Drill_Files_in_Altium_Designer_23_5_1_c436e1cc.html"
+}
