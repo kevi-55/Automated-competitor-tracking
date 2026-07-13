@@ -55,10 +55,10 @@ GitHub Actions 使用 UTC 时间。当前配置等价于北京时间：
 必填：
 
 - `MAIL_TO`：`kevi.rapiddirect@gmail.com`
-- `MAIL_FROM`：例如 `Competitor Tracker <tracking@yourdomain.com>`
+- `MAIL_FROM`：测试可以用 `Competitor Tracker <onboarding@resend.dev>`；长期建议换成你已验证域名下的邮箱
 - `RESEND_API_KEY`：你的 Resend API Key
 
-注意：Resend 通常需要验证发件域名。如果你还没有域名，可能需要先用 Gmail SMTP。
+注意：不要把 API key 写进代码、README 或聊天记录。只放到 GitHub Secrets。如果 key 泄露过，先在 Resend 删除旧 key，再生成新的 key。
 
 ### 方案 B：Gmail SMTP
 
@@ -122,4 +122,3 @@ PYTHONPATH=src python -m tracker.main run --mode daily --config config/competito
 - `exclude_path_keywords`：自动发现时排除哪些 URL
 
 如果某个竞品页面很多，先调高它的重点页比盲目加大全站页数更有效。
-
