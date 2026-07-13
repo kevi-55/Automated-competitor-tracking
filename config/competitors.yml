@@ -1,0 +1,133 @@
+timezone: Asia/Shanghai
+
+email:
+  to:
+    - kevi.rapiddirect@gmail.com
+  subject_prefix: "[Competitor Tracking]"
+
+run:
+  max_pages_per_domain: 120
+  request_timeout_seconds: 25
+  screenshot_priority_pages_per_domain: 6
+  visual_diff_threshold:
+    rms: 7
+    changed_pixels_percent: 2.5
+
+discovery:
+  include_path_keywords:
+    - /
+    - pricing
+    - price
+    - services
+    - service
+    - capabilities
+    - manufacturing
+    - machining
+    - cnc
+    - sheet-metal
+    - injection
+    - molding
+    - 3d-printing
+    - blog
+    - resources
+    - articles
+    - knowledge
+    - changelog
+    - updates
+    - news
+    - case-study
+    - case-studies
+  exclude_path_keywords:
+    - careers
+    - career
+    - jobs
+    - hiring
+    - privacy
+    - terms
+    - cookie
+    - login
+    - sign-in
+    - signin
+    - cart
+    - checkout
+    - account
+    - wp-json
+    - feed
+    - tag/
+    - author/
+
+competitors:
+  - name: Hubs
+    base_url: https://www.hubs.com/
+    priority_paths:
+      - /
+      - /manufacturing-services/
+      - /cnc-machining/
+      - /3d-printing/
+      - /injection-molding/
+      - /knowledge-base/
+      - /blog/
+  - name: Xometry
+    base_url: https://www.xometry.com/
+    priority_paths:
+      - /
+      - /capabilities/
+      - /capabilities/cnc-machining-service/
+      - /capabilities/injection-molding-service/
+      - /resources/
+      - /blog/
+  - name: Fictiv
+    base_url: https://www.fictiv.com/
+    priority_paths:
+      - /
+      - /capabilities/
+      - /services/
+      - /articles/
+      - /resources/
+      - /blog/
+  - name: Protolabs
+    base_url: https://www.protolabs.com/
+    priority_paths:
+      - /
+      - /services/
+      - /services/cnc-machining/
+      - /services/3d-printing/
+      - /services/injection-molding/
+      - /resources/
+  - name: JLC CNC
+    base_url: https://jlccnc.com/
+    priority_paths:
+      - /
+      - /cnc-machining
+      - /sheet-metal-fabrication
+      - /surface-finishes
+      - /blog
+  - name: PCBWay
+    base_url: https://www.pcbway.com/
+    priority_paths:
+      - /
+      - /rapid-prototyping/
+      - /project/
+      - /blog/
+  - name: eMachineShop
+    base_url: https://www.emachineshop.com/
+    priority_paths:
+      - /
+      - /services/
+      - /cnc-machining/
+      - /resources/
+  - name: SyBridge
+    base_url: https://sybridge.com/
+    priority_paths:
+      - /
+      - /solutions/
+      - /capabilities/
+      - /resources/
+  - name: CNCLATHING
+    base_url: https://www.cnclathing.com/
+    priority_paths:
+      - /
+      - /services/
+      - /cnc-machining-services
+      - /blog/
+

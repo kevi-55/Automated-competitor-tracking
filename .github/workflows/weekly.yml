@@ -1,0 +1,54 @@
+name: Weekly competitor summary
+
+on:
+  workflow_dispatch:
+  schedule:
+    # 09:37 Asia/Shanghai every Monday. Avoid exact-hour GitHub Actions congestion.
+    - cron: "37 1 * * 1"
+
+permissions:
+  contents: write
+
+jobs:
+  weekly:
+    runs-on: ubuntu-latest
+    timeout-minutes: 55
+
+    steps:
+      - name: Check out repository
+        uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+
+      - name: Install dependencies
+        run: |
+          python -m pip install --upgrade pip
+          pip install -r requirements.txt
+          python -m playwright install --with-deps chromium
+
+      - name: Run weekly tracker
+        env:
+          MAIL_TO: ${{ secrets.MAIL_TO }}
+          MAIL_FROM: ${{ secrets.MAIL_FROM }}
+          RESEND_API_KEY: ${{ secrets.RESEND_API_KEY }}
+          SMTP_HOST: ${{ secrets.SMTP_HOST }}
+          SMTP_PORT: ${{ secrets.SMTP_PORT }}
+          SMTP_USER: ${{ secrets.SMTP_USER }}
+          SMTP_PASS: ${{ secrets.SMTP_PASS }}
+        run: PYTHONPATH=src python -m tracker.main run --mode weekly --config config/competitors.yml
+
+      - name: Save tracker state
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add .tracker_state reports
+          if ! git diff --cached --quiet; then
+            git commit -m "Update weekly competitor report [skip ci]"
+            git push
+          fi
+
