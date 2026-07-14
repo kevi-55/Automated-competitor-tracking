@@ -216,6 +216,8 @@ def _priority(snapshot: dict[str, Any], change_type: str) -> str:
     category = snapshot.get("category")
     if category == "pricing":
         return "high"
+    if category == "content" and change_type in {"new_page", "content_changed", "title_changed", "h1_changed"}:
+        return "high"
     if category == "homepage" and change_type in {"h1", "title", "section_added", "visual"}:
         return "high"
     if category in IMPORTANT_CATEGORIES:
