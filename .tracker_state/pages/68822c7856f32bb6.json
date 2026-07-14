@@ -72,6 +72,10 @@
       "text": "Learn more"
     },
     {
+      "href": "/ai/materials",
+      "text": "Try Materials.Ai"
+    },
+    {
       "href": "https://www.fictiv.com/articles/slip-fit-tolerances-and-geometry",
       "text": "CTA - Read More Button Created with Sketch."
     },
@@ -116,7 +120,7 @@
       "text": "Submit"
     }
   ],
-  "fetched_at": "2026-07-13T07:39:42+00:00",
+  "fetched_at": "2026-07-14T01:55:21+00:00",
   "h1": "Manufacturing Design Guides, Case Studies, Tools, & Reports",
   "headings": [
     {
@@ -126,6 +130,10 @@
     {
       "level": "h1",
       "text": "Manufacturing Design Guides, Case Studies, Tools, & Reports"
+    },
+    {
+      "level": "h2",
+      "text": "Your Material Selection Assistant"
     },
     {
       "level": "h2",
@@ -193,6 +201,10 @@
     },
     {
       "level": "h2",
+      "text": "The U.S. Manufacturing Gap in 2026"
+    },
+    {
+      "level": "h2",
       "text": "Bridge Production Manufacturing: What It Is, When to Use It, and How to Plan for It"
     },
     {
@@ -210,10 +222,6 @@
     {
       "level": "h2",
       "text": "Robotic Arm Component Manufacturing: Process Selection and Domestic Sourcing Guide"
-    },
-    {
-      "level": "h2",
-      "text": "Low-Volume Manufacturing: Processes, Costs, and Scaling Strategies"
     },
     {
       "level": "h2",
@@ -434,10 +442,6 @@
     {
       "level": "h2",
       "text": "10 DFA Rules to Live By Checklist"
-    },
-    {
-      "level": "h2",
-      "text": "DFM for CNC Machining Checklist"
     }
   ],
   "images": [
@@ -488,6 +492,14 @@
     {
       "alt": "",
       "src": "https://www.fictiv.com/wp-content/uploads/2021/11/Resources_Backdrop-scaled-1-1500x449.jpeg"
+    },
+    {
+      "alt": "mechstack phone",
+      "src": "https://www.fictiv.com/wp-content/themes/fictiv-theme/assets/images/graphics/mechstack-phone-sidebar.png"
+    },
+    {
+      "alt": "Your Material Selection Assistant",
+      "src": "https://www.fictiv.com/wp-content/themes/fictiv-theme/assets/images/material-ai.webp"
     },
     {
       "alt": "The 2026 State of Manufacturing & Supply Chain: AI, Regional Resilience, and the Capacity Crunch",
@@ -554,6 +566,10 @@
       "src": "https://www.fictiv.com/wp-content/uploads/2020/09/china-1405217_1280-345x225.jpg"
     },
     {
+      "alt": "The U.S. Manufacturing Gap in 2026",
+      "src": "https://www.fictiv.com/wp-content/uploads/2026/07/US-Manufacturing-hero-345x225.png"
+    },
+    {
       "alt": "Bridge Production Manufacturing: What It Is, When to Use It, and How to Plan for It",
       "src": "https://www.fictiv.com/wp-content/uploads/2026/07/Bridge-Manufacturing-Plant-345x225.jpeg"
     },
@@ -572,10 +588,6 @@
     {
       "alt": "Robotic Arm Component Manufacturing: Process Selection and Domestic Sourcing Guide",
       "src": "https://www.fictiv.com/wp-content/uploads/2026/07/Robotic-Arm-Manufacturing-345x225.png"
-    },
-    {
-      "alt": "Low-Volume Manufacturing: Processes, Costs, and Scaling Strategies",
-      "src": "https://www.fictiv.com/wp-content/uploads/2026/06/Fictiv-LVM--345x225.png"
     },
     {
       "alt": "Product Assembly Guide",
@@ -752,23 +764,15 @@
     {
       "alt": "Design Failure Modes and Effects Analysis (D-FMEA) Template",
       "src": "https://www.fictiv.com/wp-content/uploads/2020/12/FMEA.png"
-    },
-    {
-      "alt": "Tolerance Analysis Calculator",
-      "src": "https://www.fictiv.com/wp-content/uploads/2016/06/tolerance-analysis-for-3D-printed-parts_0-345x225.png"
-    },
-    {
-      "alt": "Digital Manufacturing Value Calculator",
-      "src": "https://www.fictiv.com/wp-content/uploads/2021/02/Fictiv-Logo-Green-1-345x225.png"
     }
   ],
   "meta_description": "Fictiv’s manufacturing resource center for design guides, engineering articles, case studies, tools, & industry reports for CNC, injection molding, 3DP, & more.",
   "requested_url": "https://www.fictiv.com/resources",
   "sections": [],
   "status": 200,
-  "structure_hash": "0265824f6ed4c06eeab5e0a4d2ee01989a7bb47d",
-  "text_excerpt": "Manufacturing Resources | Design Guides, Tools, & Reports Fictiv named Sourcing Solution of the Year at the SupplyTech Breakthrough Awards → Learn More Fictiv named Sourcing Solution of the Year at the SupplyTech Breakthrough Awards → Learn More x Capabilities Capabilities CNC Machining Tight tolerances and finishing capabilities, manufactured in one day. Sheet Metal Experience the versatility & cost efficiency with flexible application options. Injection Molding Production-grade steel tooling, as fast as weeks. Die Casting Create high quality custom mechanicals with precision and accuracy. 3D Printing FDM, SLS, SLA, PolyJet, MJF technologies. Compression Molding Experience lower tooling costs with high-quality durable parts. Urethane Casting Production quality parts without the tooling investment. Explore All Capabilities Explore all materials and finishes Smart Manufacturing Platform See how our digital platform gives you instant quoting, auto DFM tools, global & domestic options, and complete order visibility. Try the Platform Solutions Solutions Prototyping Quality Management Production Tariff Management Teams Why Choose Fictiv? Assembly & Welding MRO Services Got a Complex Pr...",
-  "text_hash": "b42010544847b6892bb5ce62395bb2a12182aecb",
+  "structure_hash": "376b9a71c079cdfddd4ed2e914a1172c78de76e6",
+  "text_excerpt": "Manufacturing Resources | Design Guides, Tools, & Reports Fictiv named Sourcing Solution of the Year at the SupplyTech Breakthrough Awards → Learn More Fictiv named Sourcing Solution of the Year at the SupplyTech Breakthrough Awards → Learn More x Capabilities Capabilities CNC Machining Tight tolerances and finishing capabilities, manufactured in one day. Sheet Metal Experience the versatility & cost efficiency with flexible application options. Injection Molding Production-grade steel tooling, as fast as weeks. Die Casting Create high quality custom mechanicals with precision and accuracy. 3D Printing FDM, SLS, SLA, PolyJet, MJF technologies. Compression Molding Experience lower tooling costs with high-quality durable parts. Urethane Casting Production quality parts without the tooling investment. Explore All Capabilities Explore all materials and finishes View tolerances and specifications Smart Manufacturing Platform See how our digital platform gives you instant quoting, auto DFM tools, global & domestic options, and complete order visibility. Try the Platform Solutions Solutions Prototyping Quality Management Production Tariff Management Teams Why Choose Fictiv? Assembly & We...",
+  "text_hash": "927de3e6b8b421140f0e2c3d37439edb38dc8de8",
   "title": "Manufacturing Resources | Design Guides, Tools, & Reports",
   "url": "https://www.fictiv.com/resources"
 }
