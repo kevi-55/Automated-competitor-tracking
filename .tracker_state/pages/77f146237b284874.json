@@ -28,13 +28,21 @@
       "text": "Source Files"
     },
     {
+      "href": "/project/shareproject/C_G15W601306A_BA114_V2_002_a3eae8a6.html",
+      "text": "Update file. Please update price"
+    },
+    {
       "href": "/contact.html",
       "text": "Contact us"
     }
   ],
-  "fetched_at": "2026-07-15T04:27:40+00:00",
+  "fetched_at": "2026-07-15T07:52:40+00:00",
   "h1": "",
   "headings": [
+    {
+      "level": "h3",
+      "text": "BA114-V2-002"
+    },
     {
       "level": "h3",
       "text": "Arduino Indoor Garden"
@@ -94,10 +102,6 @@
     {
       "level": "h3",
       "text": "Arduino Nano and A4988 Stepper Motor Controller"
-    },
-    {
-      "level": "h3",
-      "text": "Digital Caliper Hack Mod new 2021"
     }
   ],
   "images": [
@@ -120,6 +124,10 @@
     {
       "alt": "",
       "src": "https://pcbwayfile.s3-us-west-2.amazonaws.com/web/21/08/30/1823256917346m.png"
+    },
+    {
+      "alt": "BA114-V2-002",
+      "src": "https://pcb-files.s3.us-west-2.amazonaws.com/web/26/07/09/1527454101038928924044f3bb677875be362d1d14321m.png"
     },
     {
       "alt": "Arduino Indoor Garden",
@@ -216,24 +224,22 @@
     {
       "alt": "",
       "src": "https://pcbwayfile.s3-us-west-2.amazonaws.com/project/20/01/04/2119270446378.jpg"
-    },
-    {
-      "alt": "Digital Caliper Hack Mod new 2021",
-      "src": "https://pcbwayfile.s3.us-west-2.amazonaws.com/web/23/12/19/0053065000678m.png"
-    },
-    {
-      "alt": "",
-      "src": "https://pcbwayfile.s3-us-west-2.amazonaws.com/project/20/08/08/1756538688173.jpg"
     }
   ],
   "meta_description": "",
   "requested_url": "https://www.pcbway.com/project/shareproject?category=CNC",
   "sections": [
     {
-      "hash": "21293ea7d3129ada6c5df8db8d54bcf4d351c1ff",
+      "hash": "6bc70daa9f416db34a4273852f6264bcaf66b8f9",
+      "heading": "BA114-V2-002",
+      "level": "h3",
+      "text": "BA114-V2-002 4 0 0 Engineer Engineer LITHUANIA 0 0"
+    },
+    {
+      "hash": "2f7fb1c88b778ff298e6d337f07b42fc317e3b33",
       "heading": "Arduino Indoor Garden",
       "level": "h3",
-      "text": "Arduino Indoor Garden 7959 2 15 Mohamed Belkhir Mohamed Belkhir TUNISIA 4 0"
+      "text": "Arduino Indoor Garden 7961 2 15 Mohamed Belkhir Mohamed Belkhir TUNISIA 4 0"
     },
     {
       "hash": "07fbe1b739c13fb0bdd75d7924c48cbf519346d7",
@@ -248,10 +254,10 @@
       "text": "Index Motherboard REV03 8326 2 20 Stephen Hawes Stephen Hawes UNITED STATES OF AMERICA 84 0"
     },
     {
-      "hash": "88a6fc6f5ab9a9182aee88de666c34b6547ff866",
+      "hash": "4b22e64423920dd02ae0f0fb0d55a23d5dd377c2",
       "heading": "3D Printer USB Power Blocker",
       "level": "h3",
-      "text": "3D Printer USB Power Blocker 5114 0 7 Home Kid Home Kid HUNGARY 104 31"
+      "text": "3D Printer USB Power Blocker 5115 0 7 Home Kid Home Kid HUNGARY 104 31"
     },
     {
       "hash": "5060a4ddf75f94d0dc3c291e031ecb3e6377cdbb",
@@ -278,28 +284,28 @@
       "text": "High Current H-Bridge Programmable Motor Driver Rev1.0 3586 2 5 Sathishkumar Sathishkumar INDIA 5 0"
     },
     {
-      "hash": "24fd98894209c75d78a777a7f9fe632ce8f0c6dd",
+      "hash": "398c49f54d98bb6e82c4421c408b632d8c421113",
       "heading": "Jackpot CNC Controller v1.2.",
       "level": "h3",
-      "text": "Jackpot CNC Controller v1.2. 8680 7 9 Ryan Zellars Ryan Zellars UNITED STATES OF AMERICA 8 0"
+      "text": "Jackpot CNC Controller v1.2. 8683 7 9 Ryan Zellars Ryan Zellars UNITED STATES OF AMERICA 8 0"
     },
     {
-      "hash": "71bb5a27921b58acc48faf32a7603d8ab96804e7",
+      "hash": "8890db75132b618654e096b4fa98f92114f10399",
       "heading": "Build a simple 3D Arduino Mini CNC Plotter",
       "level": "h3",
-      "text": "Build a simple 3D Arduino Mini CNC Plotter 31912 4 27 MERT KILIC MERT KILIC TURKEY 455 13"
+      "text": "Build a simple 3D Arduino Mini CNC Plotter 31916 4 27 MERT KILIC MERT KILIC TURKEY 455 13"
     },
     {
-      "hash": "0680e40dfd59afa62c5a2010ffa329b2aa147dfe",
+      "hash": "7308b39d4054085509a33b3314b90f6bbf40bbe8",
       "heading": "ARDUINO MANUAL CNC MACHINE PCB",
       "level": "h3",
-      "text": "ARDUINO MANUAL CNC MACHINE PCB 2841 1 1 Praddy Praddy INDIA 5 7"
+      "text": "ARDUINO MANUAL CNC MACHINE PCB 2842 1 1 Praddy Praddy INDIA 5 7"
     },
     {
-      "hash": "87cd746fa9c24cbbee34a55824af4e6f72d4d046",
+      "hash": "89e5d93bdcfd054fce7caa1e088b629b828a870c",
       "heading": "Ferris Sweep Aluminum case",
       "level": "h3",
-      "text": "Ferris Sweep Aluminum case 7221 1 7 Mattia Dal Ben Mattia Dal Ben ITALY 14 7"
+      "text": "Ferris Sweep Aluminum case 7222 1 7 Mattia Dal Ben Mattia Dal Ben ITALY 14 7"
     },
     {
       "hash": "32bc36db62b2f77c47a9493e33e1774e84e79b16",
@@ -308,28 +314,22 @@
       "text": "ESP32 CNC Board Rev 2 3020 3 20 Joan Peralta Joan Peralta DOMINICAN REPUBLIC 6 7"
     },
     {
-      "hash": "645177a5a76007dc8d2aa030957015916808559a",
+      "hash": "e6aee54ad2e4d2f6cead857a45c65d08d9433c04",
       "heading": "PCK-CNC Router",
       "level": "h3",
-      "text": "PCK-CNC Router 3038 0 11 Josef Pecka Josef Pecka CZECH REPUBLIC, THE 1 0"
+      "text": "PCK-CNC Router 3039 0 11 Josef Pecka Josef Pecka CZECH REPUBLIC, THE 1 0"
     },
     {
       "hash": "d34a8ad674aa8d287297eafe9eac78c49821e71a",
       "heading": "Arduino Nano and A4988 Stepper Motor Controller",
       "level": "h3",
       "text": "Arduino Nano and A4988 Stepper Motor Controller 10989 1 13 Shahzada Fahad Shahzada Fahad PAKISTAN 40 1"
-    },
-    {
-      "hash": "88de6155770951cba6d4d9a558fa0fbbf0a63063",
-      "heading": "Digital Caliper Hack Mod new 2021",
-      "level": "h3",
-      "text": "Digital Caliper Hack Mod new 2021 11561 17 13 LIMI DIY LIMI DIY GERMANY 11 1"
     }
   ],
   "status": 200,
-  "structure_hash": "908b4f041e137011f14bbdc7e585509510bec51a",
+  "structure_hash": "52afd750584569e26ec79342bdc9464c7d9a28f3",
   "text_excerpt": "CNC Community - PCBWay PCBWay Community Search title or content Search PCBWay PCB Instant Quote CNC | 3D Printing Login Sign Up More Notifications No notifications. My Profile My projects My Likes My Deals My Goods for Bazaar Settings Sign Out Projects Categories DIY Electronics Arduino Hardware Audio Computers & USB Breakout Board Projects Home Automation LED Displays & Matrices IoT Robotics View all categories By Source Files Onju Voice - AI assistant replacement to Google Nest Mini by @justLV LogicAnalyzer V6.0 DIY 1kW Open Source MPPT Solar Charge Controller Tad Boy Color SummerCart64 - a fully open source N64 flashcart kv4p HT v1.7b QuinLED-Dig-Uno Bike Fingerprint - PCB Arduino RC engine sound & light controller with inertia simulation for ESP32 Solar Powered WiFi Weather Station V2.0 Frog Boy Color SIDKick pico 0.2 (SID 6581/8580-replacement for C64/C128) View all source files projects Featured Projects Onju Voice - AI assistant replacement to Google Nest Mini by @justLV LogicAnalyzer V6.0 DIY 1kW Open Source MPPT Solar Charge Controller Featured Source Files Video View all projects Questions Sponsorships Feedback Blog Store PCB Design Contest - 2026 KiCad PCB Design Contes...",
-  "text_hash": "ee84738ec2a6809b6aff71ab51acfc000155f6dd",
+  "text_hash": "f6848421dfb0fce5b3c8757c32169726538d1a7e",
   "title": "CNC Community - PCBWay",
   "url": "https://www.pcbway.com/project/shareproject?category=CNC"
 }
