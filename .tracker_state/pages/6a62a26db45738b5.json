@@ -44,7 +44,7 @@
       "text": "Contact us"
     }
   ],
-  "fetched_at": "2026-07-17T04:30:52+00:00",
+  "fetched_at": "2026-07-18T04:23:15+00:00",
   "h1": "PCB Design Layout Guidelines for Routing",
   "headings": [
     {
@@ -134,10 +134,10 @@
   "requested_url": "https://www.pcbway.com/blog/PCB_Design_Layout/Common_Rules_for_PCB_Routing_29d86598.html",
   "sections": [
     {
-      "hash": "5e159aba5276c6cdb0a3e64fcff52a43a307701f",
+      "hash": "36a6541327fe3fa23c310fd29639b8b3e00c3135",
       "heading": "PCB Design Layout Guidelines for Routing",
       "level": "h1",
-      "text": "Blog > PCB Design Layout Guidelines for Routing PCB Design Layout Guidelines for Routing by: Mia Jul 17,2024 24363 Views 3 Comments Posted in PCB Design & Layout PCB Design Guideline PCB Routing PCB Layout 1. Length Control in Routing Length controlling is very important in PCB design. The traces should be kept as short as possible to avoid introducing unnecessary interference due to excessive length. For important signal traces, such as clock signal traces, be sure to place its oscillator very close to the device. 2. Direction Control in Routing The routing directions of adjacent layers should be orthogonal to avoid the signal traces of adjacent layers running in the same direction, thus r..."
+      "text": "Blog > PCB Design Layout Guidelines for Routing PCB Design Layout Guidelines for Routing by: Mia Jul 17,2024 24473 Views 3 Comments Posted in PCB Design & Layout PCB Design Guideline PCB Routing PCB Layout 1. Length Control in Routing Length controlling is very important in PCB design. The traces should be kept as short as possible to avoid introducing unnecessary interference due to excessive length. For important signal traces, such as clock signal traces, be sure to place its oscillator very close to the device. 2. Direction Control in Routing The routing directions of adjacent layers should be orthogonal to avoid the signal traces of adjacent layers running in the same direction, thus r..."
     },
     {
       "hash": "1429497d800c665857909a256ec4079ac38b6aeb",
@@ -147,9 +147,9 @@
     }
   ],
   "status": 200,
-  "structure_hash": "6b4940d5e43028cfe0fb51ef0ad6869a04bab61c",
+  "structure_hash": "d22ebb74dd71b992a6648704924d5d62b6669423",
   "text_excerpt": "PCB Design Layout Guidelines for Routing - PCB Design & Layout - PCBway PCBWay Community Search title or content Search PCBWay PCB Instant Quote CNC | 3D Printing Login Sign Up More Notifications No notifications. My Profile My projects My Likes My Deals My Goods for Bazaar Settings Sign Out Projects Categories DIY Electronics Arduino Hardware Audio Computers & USB Breakout Board Projects Home Automation LED Displays & Matrices IoT Robotics View all categories By Source Files Onju Voice - AI assistant replacement to Google Nest Mini by @justLV LogicAnalyzer V6.0 DIY 1kW Open Source MPPT Solar Charge Controller Tad Boy Color SummerCart64 - a fully open source N64 flashcart kv4p HT v1.7b QuinLED-Dig-Uno Bike Fingerprint - PCB Arduino RC engine sound & light controller with inertia simulation for ESP32 Solar Powered WiFi Weather Station V2.0 Frog Boy Color SIDKick pico 0.2 (SID 6581/8580-replacement for C64/C128) View all source files projects Featured Projects Onju Voice - AI assistant replacement to Google Nest Mini by @justLV LogicAnalyzer V6.0 DIY 1kW Open Source MPPT Solar Charge Controller Featured Source Files Video View all projects Questions Sponsorships Feedback Blog Store...",
-  "text_hash": "94a71822919b6e477b4a1c31ee99fa08cda4ced9",
+  "text_hash": "97a68b0aa9c9338c0c987d865ed2c33973898f4f",
   "title": "PCB Design Layout Guidelines for Routing - PCB Design & Layout - PCBway",
   "url": "https://www.pcbway.com/blog/PCB_Design_Layout/Common_Rules_for_PCB_Routing_29d86598.html"
 }

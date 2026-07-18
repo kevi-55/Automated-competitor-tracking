@@ -244,7 +244,7 @@
       "text": "Release Notes"
     }
   ],
-  "fetched_at": "2026-07-17T04:24:06+00:00",
+  "fetched_at": "2026-07-18T04:16:03+00:00",
   "h1": "3D Printing Design",
   "headings": [
     {
@@ -254,16 +254,16 @@
   ],
   "images": [
     {
-      "alt": "Metal 3D printing. Image Credit: Nordroden/Shutterstock",
-      "src": "https://images.prismic.io/xometry-marketing/5c1053af-f37f-4f59-ac40-9918ea1fef6a_shutterstock_1085138906+%281%29-min.jpg?auto=compress%2Cformat&rect=166%2C0%2C667%2C667&w=486&h=48..."
+      "alt": "Metal 3D printer in action - Image Credit: Shutterstock/asharkyu",
+      "src": "https://images.prismic.io/xometry-marketing/882caf69-03f7-4e11-bc82-e52111370f62_10-Best-Metal-3D-Printers-Buyer%27s-Guide.jpg?auto=compress%2Cformat&rect=0%2C0%2C486%2C486&w=486&..."
     },
     {
       "alt": "",
       "src": "data:image/svg+xml;charset=utf-8,%3Csvg%20height='1000'%20width='1000'%20xmlns='http://www.w3.org/2000/svg'%20version='1.1'%3E%3C/svg%3E"
     },
     {
-      "alt": "Metal 3D printer in action - Image Credit: Shutterstock/asharkyu",
-      "src": "https://images.prismic.io/xometry-marketing/882caf69-03f7-4e11-bc82-e52111370f62_10-Best-Metal-3D-Printers-Buyer%27s-Guide.jpg?auto=compress%2Cformat&rect=0%2C0%2C486%2C486&w=486&..."
+      "alt": "Metal 3D printing. Image Credit: Nordroden/Shutterstock",
+      "src": "https://images.prismic.io/xometry-marketing/5c1053af-f37f-4f59-ac40-9918ea1fef6a_shutterstock_1085138906+%281%29-min.jpg?auto=compress%2Cformat&rect=166%2C0%2C667%2C667&w=486&h=48..."
     },
     {
       "alt": "3D printing process up close. Image Credit: Shutterstock.com/Alexander Tolstykh",
@@ -278,12 +278,12 @@
       "src": "https://images.prismic.io/xometry-marketing/Zr9bB0aF0TcGJAHy_xometry-stl-file.png?auto=format%2Ccompress&rect=379%2C284%2C2063%2C2063&w=486&h=486&fit=max"
     },
     {
-      "alt": "Tensile and yield strength testing. Image Credit: Shutterstock.com/Tohsurat",
-      "src": "https://images.prismic.io/xometry-marketing/5d444bb7-d12d-48a0-b66f-dabb8cb5ee72_tensile-and-yield-strength-testing.jpg?auto=compress%2Cformat&rect=125%2C0%2C751%2C751&w=486&h=486..."
-    },
-    {
       "alt": "DMLS part",
       "src": "https://images.prismic.io/xometry-marketing/5a233235-ee6e-447c-b81e-adc01830c363_20150608-metal3dprintingminiguide-blog-hero.jpg?auto=compress%2Cformat&rect=339%2C0%2C720%2C720&w=..."
+    },
+    {
+      "alt": "Tensile and yield strength testing. Image Credit: Shutterstock.com/Tohsurat",
+      "src": "https://images.prismic.io/xometry-marketing/5d444bb7-d12d-48a0-b66f-dabb8cb5ee72_tensile-and-yield-strength-testing.jpg?auto=compress%2Cformat&rect=125%2C0%2C751%2C751&w=486&h=486..."
     },
     {
       "alt": "3D printed jet engine. Image Credit: Shutterstock.com/asharkyu",
@@ -422,12 +422,12 @@
       "src": "https://images.prismic.io/xometry-marketing/44fbf8c0-73a0-427b-bbb2-b8d1c97ad3f9_Multi+material+polyjet+sphere.jpg?auto=format%2Ccompress&rect=661%2C0%2C2644%2C2644&w=486&h=486&fi..."
     },
     {
-      "alt": "3D printed prosthetic. Image Credit: Shutterstock.com/Reshetnikov_art",
-      "src": "https://images.prismic.io/xometry-marketing/255d296c-9428-4a2c-8b0e-f5fe636f71cf_3d-printed-prosthetic.jpg?auto=format%2Ccompress&rect=-28%2C0%2C1157%2C1157&w=486&h=486&fit=max"
-    },
-    {
       "alt": "An FDM 3D printer. Image Credit: Shutterstock.com/R_Boe",
       "src": "https://images.prismic.io/xometry-marketing/a24eb789-fa42-4d89-bc37-0cda430b33e1_fdm-3dprinter.jpg?auto=format%2Ccompress&rect=-121%2C0%2C915%2C915&w=486&h=486&fit=max"
+    },
+    {
+      "alt": "3D printed prosthetic. Image Credit: Shutterstock.com/Reshetnikov_art",
+      "src": "https://images.prismic.io/xometry-marketing/255d296c-9428-4a2c-8b0e-f5fe636f71cf_3d-printed-prosthetic.jpg?auto=format%2Ccompress&rect=-28%2C0%2C1157%2C1157&w=486&h=486&fit=max"
     },
     {
       "alt": "fillet and chamfer",
@@ -514,12 +514,16 @@
       "src": "https://images.prismic.io/xometry-marketing/94759ba2-7e17-4be6-b64b-c545daa2dc0d_copper-heat-pipes.jpg?auto=compress%2Cformat&rect=166%2C0%2C667%2C667&w=486&h=486&fit=max"
     },
     {
-      "alt": "Red polypropylene granules on a white background. Image Credit: Shutterstock.com/Anastasiia Burlutskaia",
-      "src": "https://images.prismic.io/xometry-marketing/ac790244-6396-4e92-9193-6500bb4f6614_red-prolypropylene-granules.jpg?auto=compress%2Cformat&rect=166%2C0%2C667%2C667&w=486&h=486&fit=max"
+      "alt": "Ductile iron pipes. Image Credit: Shutterstock.com/mayank96",
+      "src": "https://images.prismic.io/xometry-marketing/906dbdd7-50c0-45c4-b222-461eb88419cc_ductile-iron-pipes.jpg?auto=compress%2Cformat&rect=166%2C0%2C667%2C667&w=486&h=486&fit=max"
     },
     {
       "alt": "CAD software on a computer screen. Image Credit: Shutterstock.com/Gorodenkoff",
       "src": "https://images.prismic.io/xometry-marketing/74e21aad-7ffa-48e8-a802-52eda54b5873_CAD-software-on-screen.jpg?auto=compress%2Cformat&rect=219%2C0%2C563%2C563&w=486&h=486&fit=max"
+    },
+    {
+      "alt": "Red polypropylene granules on a white background. Image Credit: Shutterstock.com/Anastasiia Burlutskaia",
+      "src": "https://images.prismic.io/xometry-marketing/ac790244-6396-4e92-9193-6500bb4f6614_red-prolypropylene-granules.jpg?auto=compress%2Cformat&rect=166%2C0%2C667%2C667&w=486&h=486&fit=max"
     },
     {
       "alt": "Copper heat pipes. Image Credit: Shutterstock.com/Dmitry Kalinovsky",
@@ -528,10 +532,6 @@
     {
       "alt": "Compressive test bulk modulus. Image Credit: Shutterstock.com/Tohsurat",
       "src": "https://images.prismic.io/xometry-marketing/f2a2ff9e-87da-456a-ab1e-91c98c45ff79_compressive-strength-bulk-modulus.jpg?auto=compress%2Cformat&rect=125%2C0%2C751%2C751&w=486&h=486&..."
-    },
-    {
-      "alt": "Ductile iron pipes. Image Credit: Shutterstock.com/mayank96",
-      "src": "https://images.prismic.io/xometry-marketing/906dbdd7-50c0-45c4-b222-461eb88419cc_ductile-iron-pipes.jpg?auto=compress%2Cformat&rect=166%2C0%2C667%2C667&w=486&h=486&fit=max"
     },
     {
       "alt": "STL to STEP conversion illustration",
@@ -554,12 +554,12 @@
       "src": "https://images.prismic.io/xometry-marketing/225ef98f-8ed1-4267-a77c-5265ab404076_carbon-steel-that-has-been-applied-fracture-test.jpg?auto=compress%2Cformat&rect=166%2C0%2C667%2C6..."
     },
     {
-      "alt": "Simple Charpy impact test. Image Credit: Shutterstock.com/Ali Balayev",
-      "src": "https://images.prismic.io/xometry-marketing/a337fab4-b226-4ea9-9e36-c8a7c060df31_simple-charpy-impact-test.jpg?auto=compress%2Cformat&rect=108%2C0%2C563%2C563&w=486&h=486&fit=max"
-    },
-    {
       "alt": "Red 3D printed object. Image Credit: Shutterstock.com/guteksk7",
       "src": "https://images.prismic.io/xometry-marketing/7604ad26-92ac-4118-94d8-9a85a7be35f7_red_3d_printed_object.jpg?auto=compress%2Cformat&rect=166%2C0%2C667%2C667&w=486&h=486&fit=max"
+    },
+    {
+      "alt": "Simple Charpy impact test. Image Credit: Shutterstock.com/Ali Balayev",
+      "src": "https://images.prismic.io/xometry-marketing/a337fab4-b226-4ea9-9e36-c8a7c060df31_simple-charpy-impact-test.jpg?auto=compress%2Cformat&rect=108%2C0%2C563%2C563&w=486&h=486&fit=max"
     },
     {
       "alt": "3D printing for education. Image Credit: Shutterstock.com/Marlon Lopez MMG1 Design",
@@ -585,9 +585,9 @@
     }
   ],
   "status": 200,
-  "structure_hash": "f67c4e8177a8886b974b339eab9364ca1178825a",
+  "structure_hash": "55e62aeb86ac05927ef8e29ec614421f56c76a94",
   "text_excerpt": "3D Printing Design Tips | Xometry Get an Instant Quote Solutions Additive Manufacturing 3D Printing Service Plastic 3D Printing Service Fused Deposition Modeling HP Multi Jet Fusion Selective Laser Sintering Stereolithography PolyJet Production 3D Printing Service Carbon DLS Metal 3D Printing Service Direct Metal Laser Sintering Metal Binder Jetting Vapor Smoothing 3D Prints CNC Machining CNC Machining CNC Milling CNC Turning CNC Routing Swiss-type Turning Micro Machining Sheet and Tube Fabrication Sheet Metal Fabrication Sheet Cutting Laser Cutting Waterjet Cutting Laser Tube Cutting Tube Bending Injection Molding Injection Molding Services Plastic Injection Molding Prototype Molding Production Molding Insert Molding Overmolding Micro Molding Other Plastic Production Urethane and Silicone Casting Compression Molding Plastic Extrusion Metal Part Production Die Casting Metal Stamping Metal Extrusion Value-Added Solutions Assembly Services Weldments Rapid Prototyping High-Volume Production Precision Grinding Surface Grinding Powder Coating Industries Industries We Serve Aerospace and Defense Automotive Consumer Products Data Centers Design Agencies Education Electronics and Semicond...",
-  "text_hash": "26ce569349f10f289d4fde7e67d8cad9e835f2b3",
+  "text_hash": "786c9ba9b437720230a7631edb5ddd275c3286b1",
   "title": "3D Printing Design Tips | Xometry",
   "url": "https://www.xometry.com/resources/3d-printing"
 }
