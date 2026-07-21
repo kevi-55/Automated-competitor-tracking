@@ -36,7 +36,7 @@
       "text": "Contact us"
     }
   ],
-  "fetched_at": "2026-07-20T05:00:16+00:00",
+  "fetched_at": "2026-07-21T04:39:20+00:00",
   "h1": "",
   "headings": [
     {
@@ -53,10 +53,6 @@
     },
     {
       "level": "h3",
-      "text": "BA114-V2-002"
-    },
-    {
-      "level": "h3",
       "text": "Index Motherboard REV03"
     },
     {
@@ -70,6 +66,10 @@
     {
       "level": "h3",
       "text": "Index PnP Motherboard REV000"
+    },
+    {
+      "level": "h3",
+      "text": "BA114-V2-002"
     },
     {
       "level": "h3",
@@ -142,10 +142,6 @@
       "src": "https://pcbwayfile.s3-us-west-2.amazonaws.com/project/20/11/14/1247262930163.jpg"
     },
     {
-      "alt": "BA114-V2-002",
-      "src": "https://pcb-files.s3.us-west-2.amazonaws.com/web/26/07/09/1527454101038928924044f3bb677875be362d1d14321m.png"
-    },
-    {
       "alt": "Index Motherboard REV03",
       "src": "https://pcbwayfile.s3-us-west-2.amazonaws.com/web/21/09/10/0211156188438m.png"
     },
@@ -168,6 +164,10 @@
     {
       "alt": "Index PnP Motherboard REV000",
       "src": "https://pcbwayfile.s3-us-west-2.amazonaws.com/project/20/06/20/2103508698354m.png"
+    },
+    {
+      "alt": "BA114-V2-002",
+      "src": "https://pcb-files.s3.us-west-2.amazonaws.com/web/26/07/09/1527454101038928924044f3bb677875be362d1d14321m.png"
     },
     {
       "alt": "Stepper Motor Controller Gerber",
@@ -226,40 +226,34 @@
   "requested_url": "https://www.pcbway.com/project/shareproject?category=CNC",
   "sections": [
     {
-      "hash": "bc33f28b25c7f23cdc6b1fea3f51972478a39e8b",
+      "hash": "224bf7d1857d5113dacc2ee5a8fce72e649ae6f3",
       "heading": "Profile to Ochain adapter",
       "level": "h3",
-      "text": "Profile to Ochain adapter 92 0 0 Ti Ti CANADA 0 2"
+      "text": "Profile to Ochain adapter 99 0 0 Ti Ti CANADA 0 2"
     },
     {
-      "hash": "a0d49362da3e04f45a88d7f50fc02732751f54cb",
+      "hash": "0d79599802d5640ed4af7bc25ce29eb302aa916d",
       "heading": "Arduino Indoor Garden",
       "level": "h3",
-      "text": "Arduino Indoor Garden 7995 2 15 Mohamed Belkhir Mohamed Belkhir TUNISIA 4 0"
+      "text": "Arduino Indoor Garden 8002 2 15 Mohamed Belkhir Mohamed Belkhir TUNISIA 4 0"
     },
     {
-      "hash": "28d7c3bc09475b10e634b396380905cbfb4548e5",
+      "hash": "7e7c410b47d25d1ab356b00809914d5328d8c212",
       "heading": "Index PnP Motherboard REV001",
       "level": "h3",
-      "text": "Index PnP Motherboard REV001 9067 0 16 Stephen Hawes Stephen Hawes UNITED STATES OF AMERICA 84 0"
+      "text": "Index PnP Motherboard REV001 9073 0 16 Stephen Hawes Stephen Hawes UNITED STATES OF AMERICA 84 0"
     },
     {
-      "hash": "62ed81c0b99524fff65d2c472f6c7f736878f89c",
-      "heading": "BA114-V2-002",
-      "level": "h3",
-      "text": "BA114-V2-002 25 0 0 Engineer Engineer LITHUANIA 0 0"
-    },
-    {
-      "hash": "c8d37af5d82c84447883d0be6ead7922a41d68f6",
+      "hash": "12a006279bb3d874dd7f827b5c93898674dc393c",
       "heading": "Index Motherboard REV03",
       "level": "h3",
-      "text": "Index Motherboard REV03 8341 2 20 Stephen Hawes Stephen Hawes UNITED STATES OF AMERICA 84 0"
+      "text": "Index Motherboard REV03 8343 2 20 Stephen Hawes Stephen Hawes UNITED STATES OF AMERICA 84 0"
     },
     {
-      "hash": "76da98c416049e65d131a23d306654bee0856c67",
+      "hash": "8d111d4d29285901515cf0b9a27fece3a8a9a44d",
       "heading": "3D Printer USB Power Blocker",
       "level": "h3",
-      "text": "3D Printer USB Power Blocker 5138 0 7 Home Kid Home Kid HUNGARY 104 31"
+      "text": "3D Printer USB Power Blocker 5143 0 7 Home Kid Home Kid HUNGARY 104 31"
     },
     {
       "hash": "1fc1b4e850213dff618ee25467d37817d548a40d",
@@ -268,16 +262,22 @@
       "text": "CNCusbController_PIC_HouseGhz 3472 1 5 EDUARDO?GUTIERREZ?HDEZ EDUARDO?GUTIERREZ?HDEZ MEXICO 2 0"
     },
     {
-      "hash": "d23f87fbf9aff86d247b5af2d02f840c77e018d9",
+      "hash": "96a63c619fe8f870545fa0833cf7b72efc0be018",
       "heading": "Index PnP Motherboard REV000",
       "level": "h3",
-      "text": "Index PnP Motherboard REV000 9473 2 8 Stephen Hawes Stephen Hawes UNITED STATES OF AMERICA 84 0"
+      "text": "Index PnP Motherboard REV000 9477 2 8 Stephen Hawes Stephen Hawes UNITED STATES OF AMERICA 84 0"
     },
     {
-      "hash": "0121ceafdcfa8a843677967ab9808bece73ce0ef",
+      "hash": "ed932348e25e36af72d11497ad1ad93b3e25d649",
+      "heading": "BA114-V2-002",
+      "level": "h3",
+      "text": "BA114-V2-002 26 0 0 Engineer Engineer LITHUANIA 0 0"
+    },
+    {
+      "hash": "f2d05a74f2db2dd78a319ac802ed8d1aef6f2457",
       "heading": "Stepper Motor Controller Gerber",
       "level": "h3",
-      "text": "Stepper Motor Controller Gerber 17417 3 14 Rao Abdul Samad Rao Abdul Samad PAKISTAN 74 0"
+      "text": "Stepper Motor Controller Gerber 17422 3 14 Rao Abdul Samad Rao Abdul Samad PAKISTAN 74 0"
     },
     {
       "hash": "3c55a58169b728ae835e29c7da684be63eb9c415",
@@ -286,46 +286,46 @@
       "text": "High Current H-Bridge Programmable Motor Driver Rev1.0 3601 2 5 Sathishkumar Sathishkumar INDIA 5 0"
     },
     {
-      "hash": "a79a3f82a504757a07cceba9a5f76d8ffe66752a",
+      "hash": "790f2ec55337c1391dd8ba9f4c84042f8eaf4c2c",
       "heading": "Jackpot CNC Controller v1.2.",
       "level": "h3",
-      "text": "Jackpot CNC Controller v1.2. 8736 7 9 Ryan Zellars Ryan Zellars UNITED STATES OF AMERICA 8 0"
+      "text": "Jackpot CNC Controller v1.2. 8740 7 9 Ryan Zellars Ryan Zellars UNITED STATES OF AMERICA 8 0"
     },
     {
-      "hash": "6f2daae011d167ecea4a19a0f48b1b1aa4515390",
+      "hash": "ffd0ed3f91bdee55c644b2467917da40003980bb",
       "heading": "Build a simple 3D Arduino Mini CNC Plotter",
       "level": "h3",
-      "text": "Build a simple 3D Arduino Mini CNC Plotter 32089 4 27 MERT KILIC MERT KILIC TURKEY 457 13"
+      "text": "Build a simple 3D Arduino Mini CNC Plotter 32118 4 27 MERT KILIC MERT KILIC TURKEY 457 13"
     },
     {
-      "hash": "cca47b37df03c386847ae024291a4f4a8d7c9b18",
+      "hash": "ae7351148003ba0e7b4314282ab0f3c79b537113",
       "heading": "ARDUINO MANUAL CNC MACHINE PCB",
       "level": "h3",
-      "text": "ARDUINO MANUAL CNC MACHINE PCB 2858 1 1 Praddy Praddy INDIA 5 7"
+      "text": "ARDUINO MANUAL CNC MACHINE PCB 2862 1 1 Praddy Praddy INDIA 5 7"
     },
     {
-      "hash": "e79f75f95fae8d0f6b2afa8bb6ade0567ba72d80",
+      "hash": "3a680da31e2786e8c232613a3b8324bf51abf55d",
       "heading": "Ferris Sweep Aluminum case",
       "level": "h3",
-      "text": "Ferris Sweep Aluminum case 7260 1 7 Mattia Dal Ben Mattia Dal Ben ITALY 14 7"
+      "text": "Ferris Sweep Aluminum case 7269 1 7 Mattia Dal Ben Mattia Dal Ben ITALY 14 7"
     },
     {
-      "hash": "46d424f08a949c232e7cbede2a53aa29434533db",
+      "hash": "a4ad1b4c8ba70fa42cb857f097906fe88c572f6a",
       "heading": "ESP32 CNC Board Rev 2",
       "level": "h3",
-      "text": "ESP32 CNC Board Rev 2 3047 3 20 Joan Peralta Joan Peralta DOMINICAN REPUBLIC 6 7"
+      "text": "ESP32 CNC Board Rev 2 3055 3 20 Joan Peralta Joan Peralta DOMINICAN REPUBLIC 6 7"
     },
     {
-      "hash": "30354e8ab9e728f6b9aa0f1a67169de9284b6ec5",
+      "hash": "d72da32ed3d71c611a29178ad812e020b2b68d3e",
       "heading": "PCK-CNC Router",
       "level": "h3",
-      "text": "PCK-CNC Router 3062 0 11 Josef Pecka Josef Pecka CZECH REPUBLIC, THE 1 0"
+      "text": "PCK-CNC Router 3064 0 11 Josef Pecka Josef Pecka CZECH REPUBLIC, THE 1 0"
     }
   ],
   "status": 200,
-  "structure_hash": "cef3731467318637d42e59a8663af152141547ce",
+  "structure_hash": "34f2b7a1e2c2c8f90ec2ca440754a6432a9d54f8",
   "text_excerpt": "CNC Community - PCBWay PCBWay Community Search title or content Search PCBWay PCB Instant Quote CNC | 3D Printing Login Sign Up More Notifications No notifications. My Profile My projects My Likes My Deals My Goods for Bazaar Settings Sign Out Projects Categories DIY Electronics Arduino Hardware Audio Computers & USB Breakout Board Projects Home Automation LED Displays & Matrices IoT Robotics View all categories By Source Files Onju Voice - AI assistant replacement to Google Nest Mini by @justLV LogicAnalyzer V6.0 DIY 1kW Open Source MPPT Solar Charge Controller Tad Boy Color SummerCart64 - a fully open source N64 flashcart kv4p HT v1.7b QuinLED-Dig-Uno Bike Fingerprint - PCB Arduino RC engine sound & light controller with inertia simulation for ESP32 Solar Powered WiFi Weather Station V2.0 Frog Boy Color SIDKick pico 0.2 (SID 6581/8580-replacement for C64/C128) View all source files projects Featured Projects Onju Voice - AI assistant replacement to Google Nest Mini by @justLV LogicAnalyzer V6.0 DIY 1kW Open Source MPPT Solar Charge Controller Featured Source Files Video View all projects Questions Sponsorships Feedback Blog Store PCB Design Contest - 2026 KiCad PCB Design Contes...",
-  "text_hash": "0b4faa8bd32c01e928e39d2c843a4587a73f960d",
+  "text_hash": "392774260bf054985b0843b926a9e4dca2cfce71",
   "title": "CNC Community - PCBWay",
   "url": "https://www.pcbway.com/project/shareproject?category=CNC"
 }
