@@ -120,7 +120,7 @@
       "text": "Submit"
     }
   ],
-  "fetched_at": "2026-07-24T04:33:50+00:00",
+  "fetched_at": "2026-07-25T04:29:02+00:00",
   "h1": "Manufacturing Design Guides, Case Studies, Tools, & Reports",
   "headings": [
     {
@@ -201,6 +201,14 @@
     },
     {
       "level": "h2",
+      "text": "The Impact of AI in Mechanical Engineering"
+    },
+    {
+      "level": "h2",
+      "text": "How to Evaluate a Manufacturing Partner: 8 Criteria That Separate Great from Good"
+    },
+    {
+      "level": "h2",
       "text": "U.S. Manufacturing Reaches Record $2.91 Trillion as Workforce Gap Threatens Next Decade of Growth"
     },
     {
@@ -214,14 +222,6 @@
     {
       "level": "h2",
       "text": "The U.S. Manufacturing Gap in 2026"
-    },
-    {
-      "level": "h2",
-      "text": "Bridge Production Manufacturing: What It Is, When to Use It, and How to Plan for It"
-    },
-    {
-      "level": "h2",
-      "text": "Design for Testability (DFT): Building Products That Are Easier to Test and Validate"
     },
     {
       "level": "h2",
@@ -566,6 +566,10 @@
       "src": "https://www.fictiv.com/wp-content/uploads/2020/09/china-1405217_1280-345x225.jpg"
     },
     {
+      "alt": "How to Evaluate a Manufacturing Partner: 8 Criteria That Separate Great from Good",
+      "src": "https://www.fictiv.com/wp-content/uploads/2026/07/manufacturing-partner-hero-345x225.png"
+    },
+    {
       "alt": "U.S. Manufacturing Reaches Record $2.91 Trillion as Workforce Gap Threatens Next Decade of Growth",
       "src": "https://www.fictiv.com/wp-content/uploads/2026/07/us_workforce_gap_web_thumnail_v1-copy.webp"
     },
@@ -580,14 +584,6 @@
     {
       "alt": "The U.S. Manufacturing Gap in 2026",
       "src": "https://www.fictiv.com/wp-content/uploads/2026/07/US-Manufacturing-hero-345x225.png"
-    },
-    {
-      "alt": "Bridge Production Manufacturing: What It Is, When to Use It, and How to Plan for It",
-      "src": "https://www.fictiv.com/wp-content/uploads/2026/07/Bridge-Manufacturing-Plant-345x225.jpeg"
-    },
-    {
-      "alt": "Design for Testability (DFT): Building Products That Are Easier to Test and Validate",
-      "src": "https://www.fictiv.com/wp-content/uploads/2026/07/Electronics-hardware-designed-for-testing-345x225.jpeg"
     },
     {
       "alt": "Product Assembly Guide",
@@ -764,15 +760,19 @@
     {
       "alt": "Design Failure Modes and Effects Analysis (D-FMEA) Template",
       "src": "https://www.fictiv.com/wp-content/uploads/2020/12/FMEA.png"
+    },
+    {
+      "alt": "Tolerance Analysis Calculator",
+      "src": "https://www.fictiv.com/wp-content/uploads/2016/06/tolerance-analysis-for-3D-printed-parts_0-345x225.png"
     }
   ],
   "meta_description": "Fictiv’s manufacturing resource center for design guides, engineering articles, case studies, tools, & industry reports for CNC, injection molding, 3DP, & more.",
   "requested_url": "https://www.fictiv.com/resources",
   "sections": [],
   "status": 200,
-  "structure_hash": "cfd7932c9df9ab5e2917c55b622ed6c6dea14c85",
+  "structure_hash": "66f793b94ba169b69d0f8aee19eb442b7439009d",
   "text_excerpt": "Manufacturing Resources | Design Guides, Tools, & Reports Fictiv named Sourcing Solution of the Year at the SupplyTech Breakthrough Awards → Learn More Fictiv named Sourcing Solution of the Year at the SupplyTech Breakthrough Awards → Learn More x Capabilities Capabilities CNC Machining Tight tolerances and finishing capabilities, manufactured in one day. Sheet Metal Experience the versatility & cost efficiency with flexible application options. Injection Molding Production-grade steel tooling, as fast as weeks. Die Casting Create high quality custom mechanicals with precision and accuracy. 3D Printing FDM, SLS, SLA, PolyJet, MJF technologies. Compression Molding Experience lower tooling costs with high-quality durable parts. Urethane Casting Production quality parts without the tooling investment. Explore All Capabilities Explore all materials and finishes View tolerances and specifications Smart Manufacturing Platform See how our digital platform gives you instant quoting, auto DFM tools, global & domestic options, and complete order visibility. Try the Platform Solutions Solutions Prototyping Quality Management Production Tariff Management Teams Why Choose Fictiv? Assembly & We...",
-  "text_hash": "505fe4a019f8dcdb1584e464612e50ab602573aa",
+  "text_hash": "845f68b46ddfab7c421b8a8581392a9b4cd199eb",
   "title": "Manufacturing Resources | Design Guides, Tools, & Reports",
   "url": "https://www.fictiv.com/resources"
 }
