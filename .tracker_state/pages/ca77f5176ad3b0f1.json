@@ -1,0 +1,587 @@
+{
+  "canonical": "",
+  "category": "content",
+  "competitor": "PCBWay",
+  "ctas": [
+    {
+      "href": "/orderonline.aspx",
+      "text": "PCB Instant Quote"
+    },
+    {
+      "href": "javascript:void(0)",
+      "text": "Sign Up"
+    },
+    {
+      "href": "/project/shareproject/?order=1",
+      "text": "By Source Files"
+    },
+    {
+      "href": "/project/shareproject/?order=1",
+      "text": "View all source files projects"
+    },
+    {
+      "href": "/project/shareproject/?order=1",
+      "text": "Source Files"
+    },
+    {
+      "href": "/blog/club-publish.html",
+      "text": "Submit for Publication"
+    },
+    {
+      "href": "/blog/Activities/Submit_for_Publication___Now_I_Write_Articles_in_PCBWay.html",
+      "text": "Write for PCBWay"
+    },
+    {
+      "href": "/blog/?tag=PCB industry",
+      "text": "PCB industry"
+    },
+    {
+      "href": "/blog/PCB_Design_Layout/Medical_PCB_Design_Guide_Manufacturing_Assembly_Testing_and_Industry_Standar_fa2610eb.html",
+      "text": "Medical PCB Design Guide: Manufacturing, Assembly, Testing, and Industry Standards"
+    },
+    {
+      "href": "/contact.html",
+      "text": "Contact us"
+    }
+  ],
+  "fetched_at": "2026-07-28T04:34:09+00:00",
+  "h1": "Rigid-Flex PCB Layout Design Guidelines: Best Practices for Reliable PCB Layout",
+  "headings": [
+    {
+      "level": "h1",
+      "text": "Rigid-Flex PCB Layout Design Guidelines: Best Practices for Reliable PCB Layout"
+    },
+    {
+      "level": "h2",
+      "text": "Substrate Selection and PCB Stackup Design"
+    },
+    {
+      "level": "h3",
+      "text": "1. Choose the Right Flexible Substrate"
+    },
+    {
+      "level": "h3",
+      "text": "2. Design the PCB Stackup Separately for Rigid and Flexible Areas"
+    },
+    {
+      "level": "h3",
+      "text": "3. Use Rolled Annealed Copper for Dynamic Flex Areas"
+    },
+    {
+      "level": "h3",
+      "text": "4. Create Smooth Layer Transitions"
+    },
+    {
+      "level": "h2",
+      "text": "PCB Layout Rules for Rigid and Flexible Areas"
+    },
+    {
+      "level": "h3",
+      "text": "1. Place Components Only in Rigid Sections"
+    },
+    {
+      "level": "h3",
+      "text": "2. Keep Routing Away from the Neutral Bend Axis"
+    },
+    {
+      "level": "h3",
+      "text": "3. Avoid Vias and Large Copper Features in Bend Areas"
+    },
+    {
+      "level": "h3",
+      "text": "4. Route Traces Perpendicular to the Bend Direction"
+    },
+    {
+      "level": "h3",
+      "text": "5. Maintain Uniform Trace Width and Spacing"
+    },
+    {
+      "level": "h2",
+      "text": "PCB Routing Guidelines for Flex Regions"
+    },
+    {
+      "level": "h3",
+      "text": "1. Use Rounded Trace Corners"
+    },
+    {
+      "level": "h3",
+      "text": "2. Increase Trace Width in Dynamic Bend Areas"
+    },
+    {
+      "level": "h3",
+      "text": "3. Preserve Differential Pair Integrity"
+    },
+    {
+      "level": "h3",
+      "text": "4. Eliminate Branch Routing"
+    },
+    {
+      "level": "h3",
+      "text": "5. Keep Flex Routing as Short as Possible"
+    },
+    {
+      "level": "h2",
+      "text": "Via and Pad Design Guidelines"
+    },
+    {
+      "level": "h3",
+      "text": "1. Minimize Vias in Flexible Areas"
+    },
+    {
+      "level": "h3",
+      "text": "2. Keep Transition Vias Away from the Rigid-Flex Boundary"
+    },
+    {
+      "level": "h3",
+      "text": "3. Use Oval Pads for Flexible Circuits"
+    },
+    {
+      "level": "h3",
+      "text": "4. Taper Traces Across the Rigid-Flex Transition"
+    },
+    {
+      "level": "h3",
+      "text": "5. Place COB Pads and Gold Fingers Only in Rigid Areas"
+    },
+    {
+      "level": "h2",
+      "text": "Grounding, Copper Pour, and EMI Shielding"
+    },
+    {
+      "level": "h3",
+      "text": "1. Avoid Solid Copper Pours in Dynamic Bend Areas"
+    },
+    {
+      "level": "h3",
+      "text": "2. Keep Full Ground Planes in Rigid Sections"
+    },
+    {
+      "level": "h3",
+      "text": "3. Place Ground Vias in Rigid Areas"
+    },
+    {
+      "level": "h3",
+      "text": "4. Keep Ground Splits Away from the Transition Zone"
+    },
+    {
+      "level": "h2",
+      "text": "Impedance Control and High-Speed PCB Layout"
+    },
+    {
+      "level": "h3",
+      "text": "1. Calculate Impedance Separately for Rigid and Flexible Sections"
+    },
+    {
+      "level": "h3",
+      "text": "2. Simulate Signal Transitions Across the Rigid-Flex Interface"
+    },
+    {
+      "level": "h3",
+      "text": "3. Keep High-Speed Flex Routing Short"
+    },
+    {
+      "level": "h3",
+      "text": "4. Account for Impedance Changes After Assembly"
+    },
+    {
+      "level": "h2",
+      "text": "Mechanical Design and Assembly Considerations"
+    },
+    {
+      "level": "h3",
+      "text": "1. Use Rounded Board Outlines"
+    },
+    {
+      "level": "h3",
+      "text": "2. Add Stiffeners Under Components and Connectors"
+    },
+    {
+      "level": "h3",
+      "text": "3. Allow Appropriate Dimensional Tolerance"
+    },
+    {
+      "level": "h3",
+      "text": "4. Follow Minimum Bend Radius Requirements"
+    },
+    {
+      "level": "h3",
+      "text": "5. Reinforce Gold Finger Areas"
+    },
+    {
+      "level": "h2",
+      "text": "Surface Finish and Solder Mask Guidelines"
+    },
+    {
+      "level": "h3",
+      "text": "1. Use Flexible Solder Mask in Bend Areas"
+    },
+    {
+      "level": "h3",
+      "text": "2. Minimize Solder Mask Openings"
+    },
+    {
+      "level": "h3",
+      "text": "3. ENIG Is the Preferred Surface Finish"
+    },
+    {
+      "level": "h3",
+      "text": "4. Keep Silkscreen Away from Bend Areas"
+    },
+    {
+      "level": "h2",
+      "text": "Thermal Design Considerations"
+    },
+    {
+      "level": "h3",
+      "text": "1. Place Heat-Generating Components in Rigid Areas"
+    },
+    {
+      "level": "h3",
+      "text": "2. Do Not Extend Thermal Structures into Flex Sections"
+    },
+    {
+      "level": "h3",
+      "text": "3. Keep Flexible Areas Away from Heat Sources"
+    },
+    {
+      "level": "h2",
+      "text": "DFM Guidelines for Rigid-Flex PCB Manufacturing"
+    },
+    {
+      "level": "h3",
+      "text": "1. Follow Appropriate Design Rules"
+    },
+    {
+      "level": "h3",
+      "text": "2. Include Process Rails and Support Tabs"
+    },
+    {
+      "level": "h3",
+      "text": "3. Optimize Lamination Parameters"
+    },
+    {
+      "level": "h3",
+      "text": "4. Use Laser Routing for Depanelization"
+    },
+    {
+      "level": "h3",
+      "text": "5. Provide Clearance Beneath Flexible Sections"
+    },
+    {
+      "level": "h2",
+      "text": "Reliability and Environmental Design"
+    },
+    {
+      "level": "h3",
+      "text": "1. Design for Vibration Resistance"
+    },
+    {
+      "level": "h3",
+      "text": "2. Allow Stress Relief for Thermal Expansion"
+    },
+    {
+      "level": "h3",
+      "text": "3. Improve Moisture Protection"
+    },
+    {
+      "level": "h3",
+      "text": "4. Verify Bend Life Early in the Design Stage"
+    },
+    {
+      "level": "h2",
+      "text": "Common Rigid-Flex PCB Layout Mistakes to Avoid"
+    },
+    {
+      "level": "h2",
+      "text": "Conclusion"
+    }
+  ],
+  "images": [
+    {
+      "alt": "",
+      "src": "/project/img/images/avatar/user-pic.png"
+    },
+    {
+      "alt": "",
+      "src": "/project/img/images/loading-pro.gif"
+    },
+    {
+      "alt": "",
+      "src": "https://pcbwayfile.s3.us-west-2.amazonaws.com/web/23/10/03/1152415436848m.jpeg"
+    },
+    {
+      "alt": "",
+      "src": "https://pcbwayfile.s3.us-west-2.amazonaws.com/web/25/02/01/195239553dd028d967de6453aa74b91ac0e5423e73248m.png"
+    },
+    {
+      "alt": "",
+      "src": "https://pcbwayfile.s3-us-west-2.amazonaws.com/web/21/08/30/1823256917346m.png"
+    },
+    {
+      "alt": "",
+      "src": "https://pcb-files.s3.us-west-2.amazonaws.com/web/26/07/27/154309519330249402d8a4c19b66ddfc6a509eee14774t.png"
+    },
+    {
+      "alt": "",
+      "src": "https://pcb-files.s3.us-west-2.amazonaws.com/web/26/07/27/15471739652a63de37e3d4262a9ff376c134e561d6534t.png"
+    },
+    {
+      "alt": "",
+      "src": "https://pcb-files.s3.us-west-2.amazonaws.com/web/26/07/27/15495735326c0726a269c407d82010875147350351208t.png"
+    },
+    {
+      "alt": "",
+      "src": "/img/images/note-tips.png"
+    }
+  ],
+  "meta_description": "",
+  "requested_url": "https://www.pcbway.com/blog/PCB_Design_Layout/Rigid_Flex_PCB_Layout_Design_Guidelines_Best_Practices_for_Reliable_PCB_Layout_c7530b87.html",
+  "sections": [
+    {
+      "hash": "d72795fb6344099007deffb0a9c889901b2cbac0",
+      "heading": "Rigid-Flex PCB Layout Design Guidelines: Best Practices for Reliable PCB Layout",
+      "level": "h1",
+      "text": "Blog > Rigid-Flex PCB Layout Design Guidelines: Best Practices for Reliable PCB Layout Rigid-Flex PCB Layout Design Guidelines: Best Practices for Reliable PCB Layout by: Mila Jul 27,2026 20 Views 0 Comments Posted in PCB Design & Layout Designing a rigid-flex PCB layout requires a fundamentally different approach than standard rigid boards. The combination of rigid FR4 sections and flexible polyimide (PI) regions introduces unique mechanical, thermal, and electrical challenges that every PCB layout engineer must address. This comprehensive guide covers material selection, bend area routing, via design, impedance control, and manufacturing considerations to help you create robust rigid-flex..."
+    },
+    {
+      "hash": "324c6c804189c8f37a6558570b79b8bd541a7d93",
+      "heading": "Substrate Selection and PCB Stackup Design",
+      "level": "h2",
+      "text": "Designing a rigid-flex PCB layout requires a fundamentally different approach than standard rigid boards. The combination of rigid FR4 sections and flexible polyimide (PI) regions introduces unique mechanical, thermal, and electrical challenges that every PCB layout engineer must address. This comprehensive guide covers material selection, bend area routing, via design, impedance control, and manufacturing considerations to help you create robust rigid-flex PCB layouts that survive thousands of flex cycles. Substrate Selection and PCB Stackup Design 1. Choose the Right Flexible Substrate The flexible section of a rigid-flex PCB should always use polyimide (PI) instead of FR4. For applicatio..."
+    },
+    {
+      "hash": "324c6c804189c8f37a6558570b79b8bd541a7d93",
+      "heading": "1. Choose the Right Flexible Substrate",
+      "level": "h3",
+      "text": "Designing a rigid-flex PCB layout requires a fundamentally different approach than standard rigid boards. The combination of rigid FR4 sections and flexible polyimide (PI) regions introduces unique mechanical, thermal, and electrical challenges that every PCB layout engineer must address. This comprehensive guide covers material selection, bend area routing, via design, impedance control, and manufacturing considerations to help you create robust rigid-flex PCB layouts that survive thousands of flex cycles. Substrate Selection and PCB Stackup Design 1. Choose the Right Flexible Substrate The flexible section of a rigid-flex PCB should always use polyimide (PI) instead of FR4. For applicatio..."
+    },
+    {
+      "hash": "324c6c804189c8f37a6558570b79b8bd541a7d93",
+      "heading": "2. Design the PCB Stackup Separately for Rigid and Flexible Areas",
+      "level": "h3",
+      "text": "Designing a rigid-flex PCB layout requires a fundamentally different approach than standard rigid boards. The combination of rigid FR4 sections and flexible polyimide (PI) regions introduces unique mechanical, thermal, and electrical challenges that every PCB layout engineer must address. This comprehensive guide covers material selection, bend area routing, via design, impedance control, and manufacturing considerations to help you create robust rigid-flex PCB layouts that survive thousands of flex cycles. Substrate Selection and PCB Stackup Design 1. Choose the Right Flexible Substrate The flexible section of a rigid-flex PCB should always use polyimide (PI) instead of FR4. For applicatio..."
+    },
+    {
+      "hash": "324c6c804189c8f37a6558570b79b8bd541a7d93",
+      "heading": "3. Use Rolled Annealed Copper for Dynamic Flex Areas",
+      "level": "h3",
+      "text": "Designing a rigid-flex PCB layout requires a fundamentally different approach than standard rigid boards. The combination of rigid FR4 sections and flexible polyimide (PI) regions introduces unique mechanical, thermal, and electrical challenges that every PCB layout engineer must address. This comprehensive guide covers material selection, bend area routing, via design, impedance control, and manufacturing considerations to help you create robust rigid-flex PCB layouts that survive thousands of flex cycles. Substrate Selection and PCB Stackup Design 1. Choose the Right Flexible Substrate The flexible section of a rigid-flex PCB should always use polyimide (PI) instead of FR4. For applicatio..."
+    },
+    {
+      "hash": "324c6c804189c8f37a6558570b79b8bd541a7d93",
+      "heading": "4. Create Smooth Layer Transitions",
+      "level": "h3",
+      "text": "Designing a rigid-flex PCB layout requires a fundamentally different approach than standard rigid boards. The combination of rigid FR4 sections and flexible polyimide (PI) regions introduces unique mechanical, thermal, and electrical challenges that every PCB layout engineer must address. This comprehensive guide covers material selection, bend area routing, via design, impedance control, and manufacturing considerations to help you create robust rigid-flex PCB layouts that survive thousands of flex cycles. Substrate Selection and PCB Stackup Design 1. Choose the Right Flexible Substrate The flexible section of a rigid-flex PCB should always use polyimide (PI) instead of FR4. For applicatio..."
+    },
+    {
+      "hash": "324c6c804189c8f37a6558570b79b8bd541a7d93",
+      "heading": "PCB Layout Rules for Rigid and Flexible Areas",
+      "level": "h2",
+      "text": "Designing a rigid-flex PCB layout requires a fundamentally different approach than standard rigid boards. The combination of rigid FR4 sections and flexible polyimide (PI) regions introduces unique mechanical, thermal, and electrical challenges that every PCB layout engineer must address. This comprehensive guide covers material selection, bend area routing, via design, impedance control, and manufacturing considerations to help you create robust rigid-flex PCB layouts that survive thousands of flex cycles. Substrate Selection and PCB Stackup Design 1. Choose the Right Flexible Substrate The flexible section of a rigid-flex PCB should always use polyimide (PI) instead of FR4. For applicatio..."
+    },
+    {
+      "hash": "324c6c804189c8f37a6558570b79b8bd541a7d93",
+      "heading": "1. Place Components Only in Rigid Sections",
+      "level": "h3",
+      "text": "Designing a rigid-flex PCB layout requires a fundamentally different approach than standard rigid boards. The combination of rigid FR4 sections and flexible polyimide (PI) regions introduces unique mechanical, thermal, and electrical challenges that every PCB layout engineer must address. This comprehensive guide covers material selection, bend area routing, via design, impedance control, and manufacturing considerations to help you create robust rigid-flex PCB layouts that survive thousands of flex cycles. Substrate Selection and PCB Stackup Design 1. Choose the Right Flexible Substrate The flexible section of a rigid-flex PCB should always use polyimide (PI) instead of FR4. For applicatio..."
+    },
+    {
+      "hash": "324c6c804189c8f37a6558570b79b8bd541a7d93",
+      "heading": "2. Keep Routing Away from the Neutral Bend Axis",
+      "level": "h3",
+      "text": "Designing a rigid-flex PCB layout requires a fundamentally different approach than standard rigid boards. The combination of rigid FR4 sections and flexible polyimide (PI) regions introduces unique mechanical, thermal, and electrical challenges that every PCB layout engineer must address. This comprehensive guide covers material selection, bend area routing, via design, impedance control, and manufacturing considerations to help you create robust rigid-flex PCB layouts that survive thousands of flex cycles. Substrate Selection and PCB Stackup Design 1. Choose the Right Flexible Substrate The flexible section of a rigid-flex PCB should always use polyimide (PI) instead of FR4. For applicatio..."
+    },
+    {
+      "hash": "324c6c804189c8f37a6558570b79b8bd541a7d93",
+      "heading": "3. Avoid Vias and Large Copper Features in Bend Areas",
+      "level": "h3",
+      "text": "Designing a rigid-flex PCB layout requires a fundamentally different approach than standard rigid boards. The combination of rigid FR4 sections and flexible polyimide (PI) regions introduces unique mechanical, thermal, and electrical challenges that every PCB layout engineer must address. This comprehensive guide covers material selection, bend area routing, via design, impedance control, and manufacturing considerations to help you create robust rigid-flex PCB layouts that survive thousands of flex cycles. Substrate Selection and PCB Stackup Design 1. Choose the Right Flexible Substrate The flexible section of a rigid-flex PCB should always use polyimide (PI) instead of FR4. For applicatio..."
+    },
+    {
+      "hash": "324c6c804189c8f37a6558570b79b8bd541a7d93",
+      "heading": "4. Route Traces Perpendicular to the Bend Direction",
+      "level": "h3",
+      "text": "Designing a rigid-flex PCB layout requires a fundamentally different approach than standard rigid boards. The combination of rigid FR4 sections and flexible polyimide (PI) regions introduces unique mechanical, thermal, and electrical challenges that every PCB layout engineer must address. This comprehensive guide covers material selection, bend area routing, via design, impedance control, and manufacturing considerations to help you create robust rigid-flex PCB layouts that survive thousands of flex cycles. Substrate Selection and PCB Stackup Design 1. Choose the Right Flexible Substrate The flexible section of a rigid-flex PCB should always use polyimide (PI) instead of FR4. For applicatio..."
+    },
+    {
+      "hash": "324c6c804189c8f37a6558570b79b8bd541a7d93",
+      "heading": "5. Maintain Uniform Trace Width and Spacing",
+      "level": "h3",
+      "text": "Designing a rigid-flex PCB layout requires a fundamentally different approach than standard rigid boards. The combination of rigid FR4 sections and flexible polyimide (PI) regions introduces unique mechanical, thermal, and electrical challenges that every PCB layout engineer must address. This comprehensive guide covers material selection, bend area routing, via design, impedance control, and manufacturing considerations to help you create robust rigid-flex PCB layouts that survive thousands of flex cycles. Substrate Selection and PCB Stackup Design 1. Choose the Right Flexible Substrate The flexible section of a rigid-flex PCB should always use polyimide (PI) instead of FR4. For applicatio..."
+    },
+    {
+      "hash": "324c6c804189c8f37a6558570b79b8bd541a7d93",
+      "heading": "PCB Routing Guidelines for Flex Regions",
+      "level": "h2",
+      "text": "Designing a rigid-flex PCB layout requires a fundamentally different approach than standard rigid boards. The combination of rigid FR4 sections and flexible polyimide (PI) regions introduces unique mechanical, thermal, and electrical challenges that every PCB layout engineer must address. This comprehensive guide covers material selection, bend area routing, via design, impedance control, and manufacturing considerations to help you create robust rigid-flex PCB layouts that survive thousands of flex cycles. Substrate Selection and PCB Stackup Design 1. Choose the Right Flexible Substrate The flexible section of a rigid-flex PCB should always use polyimide (PI) instead of FR4. For applicatio..."
+    },
+    {
+      "hash": "324c6c804189c8f37a6558570b79b8bd541a7d93",
+      "heading": "1. Use Rounded Trace Corners",
+      "level": "h3",
+      "text": "Designing a rigid-flex PCB layout requires a fundamentally different approach than standard rigid boards. The combination of rigid FR4 sections and flexible polyimide (PI) regions introduces unique mechanical, thermal, and electrical challenges that every PCB layout engineer must address. This comprehensive guide covers material selection, bend area routing, via design, impedance control, and manufacturing considerations to help you create robust rigid-flex PCB layouts that survive thousands of flex cycles. Substrate Selection and PCB Stackup Design 1. Choose the Right Flexible Substrate The flexible section of a rigid-flex PCB should always use polyimide (PI) instead of FR4. For applicatio..."
+    },
+    {
+      "hash": "324c6c804189c8f37a6558570b79b8bd541a7d93",
+      "heading": "2. Increase Trace Width in Dynamic Bend Areas",
+      "level": "h3",
+      "text": "Designing a rigid-flex PCB layout requires a fundamentally different approach than standard rigid boards. The combination of rigid FR4 sections and flexible polyimide (PI) regions introduces unique mechanical, thermal, and electrical challenges that every PCB layout engineer must address. This comprehensive guide covers material selection, bend area routing, via design, impedance control, and manufacturing considerations to help you create robust rigid-flex PCB layouts that survive thousands of flex cycles. Substrate Selection and PCB Stackup Design 1. Choose the Right Flexible Substrate The flexible section of a rigid-flex PCB should always use polyimide (PI) instead of FR4. For applicatio..."
+    },
+    {
+      "hash": "324c6c804189c8f37a6558570b79b8bd541a7d93",
+      "heading": "3. Preserve Differential Pair Integrity",
+      "level": "h3",
+      "text": "Designing a rigid-flex PCB layout requires a fundamentally different approach than standard rigid boards. The combination of rigid FR4 sections and flexible polyimide (PI) regions introduces unique mechanical, thermal, and electrical challenges that every PCB layout engineer must address. This comprehensive guide covers material selection, bend area routing, via design, impedance control, and manufacturing considerations to help you create robust rigid-flex PCB layouts that survive thousands of flex cycles. Substrate Selection and PCB Stackup Design 1. Choose the Right Flexible Substrate The flexible section of a rigid-flex PCB should always use polyimide (PI) instead of FR4. For applicatio..."
+    },
+    {
+      "hash": "324c6c804189c8f37a6558570b79b8bd541a7d93",
+      "heading": "4. Eliminate Branch Routing",
+      "level": "h3",
+      "text": "Designing a rigid-flex PCB layout requires a fundamentally different approach than standard rigid boards. The combination of rigid FR4 sections and flexible polyimide (PI) regions introduces unique mechanical, thermal, and electrical challenges that every PCB layout engineer must address. This comprehensive guide covers material selection, bend area routing, via design, impedance control, and manufacturing considerations to help you create robust rigid-flex PCB layouts that survive thousands of flex cycles. Substrate Selection and PCB Stackup Design 1. Choose the Right Flexible Substrate The flexible section of a rigid-flex PCB should always use polyimide (PI) instead of FR4. For applicatio..."
+    },
+    {
+      "hash": "324c6c804189c8f37a6558570b79b8bd541a7d93",
+      "heading": "5. Keep Flex Routing as Short as Possible",
+      "level": "h3",
+      "text": "Designing a rigid-flex PCB layout requires a fundamentally different approach than standard rigid boards. The combination of rigid FR4 sections and flexible polyimide (PI) regions introduces unique mechanical, thermal, and electrical challenges that every PCB layout engineer must address. This comprehensive guide covers material selection, bend area routing, via design, impedance control, and manufacturing considerations to help you create robust rigid-flex PCB layouts that survive thousands of flex cycles. Substrate Selection and PCB Stackup Design 1. Choose the Right Flexible Substrate The flexible section of a rigid-flex PCB should always use polyimide (PI) instead of FR4. For applicatio..."
+    },
+    {
+      "hash": "324c6c804189c8f37a6558570b79b8bd541a7d93",
+      "heading": "Via and Pad Design Guidelines",
+      "level": "h2",
+      "text": "Designing a rigid-flex PCB layout requires a fundamentally different approach than standard rigid boards. The combination of rigid FR4 sections and flexible polyimide (PI) regions introduces unique mechanical, thermal, and electrical challenges that every PCB layout engineer must address. This comprehensive guide covers material selection, bend area routing, via design, impedance control, and manufacturing considerations to help you create robust rigid-flex PCB layouts that survive thousands of flex cycles. Substrate Selection and PCB Stackup Design 1. Choose the Right Flexible Substrate The flexible section of a rigid-flex PCB should always use polyimide (PI) instead of FR4. For applicatio..."
+    },
+    {
+      "hash": "324c6c804189c8f37a6558570b79b8bd541a7d93",
+      "heading": "1. Minimize Vias in Flexible Areas",
+      "level": "h3",
+      "text": "Designing a rigid-flex PCB layout requires a fundamentally different approach than standard rigid boards. The combination of rigid FR4 sections and flexible polyimide (PI) regions introduces unique mechanical, thermal, and electrical challenges that every PCB layout engineer must address. This comprehensive guide covers material selection, bend area routing, via design, impedance control, and manufacturing considerations to help you create robust rigid-flex PCB layouts that survive thousands of flex cycles. Substrate Selection and PCB Stackup Design 1. Choose the Right Flexible Substrate The flexible section of a rigid-flex PCB should always use polyimide (PI) instead of FR4. For applicatio..."
+    },
+    {
+      "hash": "324c6c804189c8f37a6558570b79b8bd541a7d93",
+      "heading": "2. Keep Transition Vias Away from the Rigid-Flex Boundary",
+      "level": "h3",
+      "text": "Designing a rigid-flex PCB layout requires a fundamentally different approach than standard rigid boards. The combination of rigid FR4 sections and flexible polyimide (PI) regions introduces unique mechanical, thermal, and electrical challenges that every PCB layout engineer must address. This comprehensive guide covers material selection, bend area routing, via design, impedance control, and manufacturing considerations to help you create robust rigid-flex PCB layouts that survive thousands of flex cycles. Substrate Selection and PCB Stackup Design 1. Choose the Right Flexible Substrate The flexible section of a rigid-flex PCB should always use polyimide (PI) instead of FR4. For applicatio..."
+    },
+    {
+      "hash": "324c6c804189c8f37a6558570b79b8bd541a7d93",
+      "heading": "3. Use Oval Pads for Flexible Circuits",
+      "level": "h3",
+      "text": "Designing a rigid-flex PCB layout requires a fundamentally different approach than standard rigid boards. The combination of rigid FR4 sections and flexible polyimide (PI) regions introduces unique mechanical, thermal, and electrical challenges that every PCB layout engineer must address. This comprehensive guide covers material selection, bend area routing, via design, impedance control, and manufacturing considerations to help you create robust rigid-flex PCB layouts that survive thousands of flex cycles. Substrate Selection and PCB Stackup Design 1. Choose the Right Flexible Substrate The flexible section of a rigid-flex PCB should always use polyimide (PI) instead of FR4. For applicatio..."
+    },
+    {
+      "hash": "324c6c804189c8f37a6558570b79b8bd541a7d93",
+      "heading": "4. Taper Traces Across the Rigid-Flex Transition",
+      "level": "h3",
+      "text": "Designing a rigid-flex PCB layout requires a fundamentally different approach than standard rigid boards. The combination of rigid FR4 sections and flexible polyimide (PI) regions introduces unique mechanical, thermal, and electrical challenges that every PCB layout engineer must address. This comprehensive guide covers material selection, bend area routing, via design, impedance control, and manufacturing considerations to help you create robust rigid-flex PCB layouts that survive thousands of flex cycles. Substrate Selection and PCB Stackup Design 1. Choose the Right Flexible Substrate The flexible section of a rigid-flex PCB should always use polyimide (PI) instead of FR4. For applicatio..."
+    },
+    {
+      "hash": "324c6c804189c8f37a6558570b79b8bd541a7d93",
+      "heading": "5. Place COB Pads and Gold Fingers Only in Rigid Areas",
+      "level": "h3",
+      "text": "Designing a rigid-flex PCB layout requires a fundamentally different approach than standard rigid boards. The combination of rigid FR4 sections and flexible polyimide (PI) regions introduces unique mechanical, thermal, and electrical challenges that every PCB layout engineer must address. This comprehensive guide covers material selection, bend area routing, via design, impedance control, and manufacturing considerations to help you create robust rigid-flex PCB layouts that survive thousands of flex cycles. Substrate Selection and PCB Stackup Design 1. Choose the Right Flexible Substrate The flexible section of a rigid-flex PCB should always use polyimide (PI) instead of FR4. For applicatio..."
+    },
+    {
+      "hash": "324c6c804189c8f37a6558570b79b8bd541a7d93",
+      "heading": "Grounding, Copper Pour, and EMI Shielding",
+      "level": "h2",
+      "text": "Designing a rigid-flex PCB layout requires a fundamentally different approach than standard rigid boards. The combination of rigid FR4 sections and flexible polyimide (PI) regions introduces unique mechanical, thermal, and electrical challenges that every PCB layout engineer must address. This comprehensive guide covers material selection, bend area routing, via design, impedance control, and manufacturing considerations to help you create robust rigid-flex PCB layouts that survive thousands of flex cycles. Substrate Selection and PCB Stackup Design 1. Choose the Right Flexible Substrate The flexible section of a rigid-flex PCB should always use polyimide (PI) instead of FR4. For applicatio..."
+    },
+    {
+      "hash": "324c6c804189c8f37a6558570b79b8bd541a7d93",
+      "heading": "1. Avoid Solid Copper Pours in Dynamic Bend Areas",
+      "level": "h3",
+      "text": "Designing a rigid-flex PCB layout requires a fundamentally different approach than standard rigid boards. The combination of rigid FR4 sections and flexible polyimide (PI) regions introduces unique mechanical, thermal, and electrical challenges that every PCB layout engineer must address. This comprehensive guide covers material selection, bend area routing, via design, impedance control, and manufacturing considerations to help you create robust rigid-flex PCB layouts that survive thousands of flex cycles. Substrate Selection and PCB Stackup Design 1. Choose the Right Flexible Substrate The flexible section of a rigid-flex PCB should always use polyimide (PI) instead of FR4. For applicatio..."
+    },
+    {
+      "hash": "324c6c804189c8f37a6558570b79b8bd541a7d93",
+      "heading": "2. Keep Full Ground Planes in Rigid Sections",
+      "level": "h3",
+      "text": "Designing a rigid-flex PCB layout requires a fundamentally different approach than standard rigid boards. The combination of rigid FR4 sections and flexible polyimide (PI) regions introduces unique mechanical, thermal, and electrical challenges that every PCB layout engineer must address. This comprehensive guide covers material selection, bend area routing, via design, impedance control, and manufacturing considerations to help you create robust rigid-flex PCB layouts that survive thousands of flex cycles. Substrate Selection and PCB Stackup Design 1. Choose the Right Flexible Substrate The flexible section of a rigid-flex PCB should always use polyimide (PI) instead of FR4. For applicatio..."
+    },
+    {
+      "hash": "324c6c804189c8f37a6558570b79b8bd541a7d93",
+      "heading": "3. Place Ground Vias in Rigid Areas",
+      "level": "h3",
+      "text": "Designing a rigid-flex PCB layout requires a fundamentally different approach than standard rigid boards. The combination of rigid FR4 sections and flexible polyimide (PI) regions introduces unique mechanical, thermal, and electrical challenges that every PCB layout engineer must address. This comprehensive guide covers material selection, bend area routing, via design, impedance control, and manufacturing considerations to help you create robust rigid-flex PCB layouts that survive thousands of flex cycles. Substrate Selection and PCB Stackup Design 1. Choose the Right Flexible Substrate The flexible section of a rigid-flex PCB should always use polyimide (PI) instead of FR4. For applicatio..."
+    },
+    {
+      "hash": "324c6c804189c8f37a6558570b79b8bd541a7d93",
+      "heading": "4. Keep Ground Splits Away from the Transition Zone",
+      "level": "h3",
+      "text": "Designing a rigid-flex PCB layout requires a fundamentally different approach than standard rigid boards. The combination of rigid FR4 sections and flexible polyimide (PI) regions introduces unique mechanical, thermal, and electrical challenges that every PCB layout engineer must address. This comprehensive guide covers material selection, bend area routing, via design, impedance control, and manufacturing considerations to help you create robust rigid-flex PCB layouts that survive thousands of flex cycles. Substrate Selection and PCB Stackup Design 1. Choose the Right Flexible Substrate The flexible section of a rigid-flex PCB should always use polyimide (PI) instead of FR4. For applicatio..."
+    },
+    {
+      "hash": "324c6c804189c8f37a6558570b79b8bd541a7d93",
+      "heading": "Impedance Control and High-Speed PCB Layout",
+      "level": "h2",
+      "text": "Designing a rigid-flex PCB layout requires a fundamentally different approach than standard rigid boards. The combination of rigid FR4 sections and flexible polyimide (PI) regions introduces unique mechanical, thermal, and electrical challenges that every PCB layout engineer must address. This comprehensive guide covers material selection, bend area routing, via design, impedance control, and manufacturing considerations to help you create robust rigid-flex PCB layouts that survive thousands of flex cycles. Substrate Selection and PCB Stackup Design 1. Choose the Right Flexible Substrate The flexible section of a rigid-flex PCB should always use polyimide (PI) instead of FR4. For applicatio..."
+    },
+    {
+      "hash": "324c6c804189c8f37a6558570b79b8bd541a7d93",
+      "heading": "1. Calculate Impedance Separately for Rigid and Flexible Sections",
+      "level": "h3",
+      "text": "Designing a rigid-flex PCB layout requires a fundamentally different approach than standard rigid boards. The combination of rigid FR4 sections and flexible polyimide (PI) regions introduces unique mechanical, thermal, and electrical challenges that every PCB layout engineer must address. This comprehensive guide covers material selection, bend area routing, via design, impedance control, and manufacturing considerations to help you create robust rigid-flex PCB layouts that survive thousands of flex cycles. Substrate Selection and PCB Stackup Design 1. Choose the Right Flexible Substrate The flexible section of a rigid-flex PCB should always use polyimide (PI) instead of FR4. For applicatio..."
+    },
+    {
+      "hash": "324c6c804189c8f37a6558570b79b8bd541a7d93",
+      "heading": "2. Simulate Signal Transitions Across the Rigid-Flex Interface",
+      "level": "h3",
+      "text": "Designing a rigid-flex PCB layout requires a fundamentally different approach than standard rigid boards. The combination of rigid FR4 sections and flexible polyimide (PI) regions introduces unique mechanical, thermal, and electrical challenges that every PCB layout engineer must address. This comprehensive guide covers material selection, bend area routing, via design, impedance control, and manufacturing considerations to help you create robust rigid-flex PCB layouts that survive thousands of flex cycles. Substrate Selection and PCB Stackup Design 1. Choose the Right Flexible Substrate The flexible section of a rigid-flex PCB should always use polyimide (PI) instead of FR4. For applicatio..."
+    },
+    {
+      "hash": "324c6c804189c8f37a6558570b79b8bd541a7d93",
+      "heading": "3. Keep High-Speed Flex Routing Short",
+      "level": "h3",
+      "text": "Designing a rigid-flex PCB layout requires a fundamentally different approach than standard rigid boards. The combination of rigid FR4 sections and flexible polyimide (PI) regions introduces unique mechanical, thermal, and electrical challenges that every PCB layout engineer must address. This comprehensive guide covers material selection, bend area routing, via design, impedance control, and manufacturing considerations to help you create robust rigid-flex PCB layouts that survive thousands of flex cycles. Substrate Selection and PCB Stackup Design 1. Choose the Right Flexible Substrate The flexible section of a rigid-flex PCB should always use polyimide (PI) instead of FR4. For applicatio..."
+    },
+    {
+      "hash": "324c6c804189c8f37a6558570b79b8bd541a7d93",
+      "heading": "4. Account for Impedance Changes After Assembly",
+      "level": "h3",
+      "text": "Designing a rigid-flex PCB layout requires a fundamentally different approach than standard rigid boards. The combination of rigid FR4 sections and flexible polyimide (PI) regions introduces unique mechanical, thermal, and electrical challenges that every PCB layout engineer must address. This comprehensive guide covers material selection, bend area routing, via design, impedance control, and manufacturing considerations to help you create robust rigid-flex PCB layouts that survive thousands of flex cycles. Substrate Selection and PCB Stackup Design 1. Choose the Right Flexible Substrate The flexible section of a rigid-flex PCB should always use polyimide (PI) instead of FR4. For applicatio..."
+    },
+    {
+      "hash": "324c6c804189c8f37a6558570b79b8bd541a7d93",
+      "heading": "Mechanical Design and Assembly Considerations",
+      "level": "h2",
+      "text": "Designing a rigid-flex PCB layout requires a fundamentally different approach than standard rigid boards. The combination of rigid FR4 sections and flexible polyimide (PI) regions introduces unique mechanical, thermal, and electrical challenges that every PCB layout engineer must address. This comprehensive guide covers material selection, bend area routing, via design, impedance control, and manufacturing considerations to help you create robust rigid-flex PCB layouts that survive thousands of flex cycles. Substrate Selection and PCB Stackup Design 1. Choose the Right Flexible Substrate The flexible section of a rigid-flex PCB should always use polyimide (PI) instead of FR4. For applicatio..."
+    },
+    {
+      "hash": "324c6c804189c8f37a6558570b79b8bd541a7d93",
+      "heading": "1. Use Rounded Board Outlines",
+      "level": "h3",
+      "text": "Designing a rigid-flex PCB layout requires a fundamentally different approach than standard rigid boards. The combination of rigid FR4 sections and flexible polyimide (PI) regions introduces unique mechanical, thermal, and electrical challenges that every PCB layout engineer must address. This comprehensive guide covers material selection, bend area routing, via design, impedance control, and manufacturing considerations to help you create robust rigid-flex PCB layouts that survive thousands of flex cycles. Substrate Selection and PCB Stackup Design 1. Choose the Right Flexible Substrate The flexible section of a rigid-flex PCB should always use polyimide (PI) instead of FR4. For applicatio..."
+    },
+    {
+      "hash": "324c6c804189c8f37a6558570b79b8bd541a7d93",
+      "heading": "2. Add Stiffeners Under Components and Connectors",
+      "level": "h3",
+      "text": "Designing a rigid-flex PCB layout requires a fundamentally different approach than standard rigid boards. The combination of rigid FR4 sections and flexible polyimide (PI) regions introduces unique mechanical, thermal, and electrical challenges that every PCB layout engineer must address. This comprehensive guide covers material selection, bend area routing, via design, impedance control, and manufacturing considerations to help you create robust rigid-flex PCB layouts that survive thousands of flex cycles. Substrate Selection and PCB Stackup Design 1. Choose the Right Flexible Substrate The flexible section of a rigid-flex PCB should always use polyimide (PI) instead of FR4. For applicatio..."
+    },
+    {
+      "hash": "324c6c804189c8f37a6558570b79b8bd541a7d93",
+      "heading": "3. Allow Appropriate Dimensional Tolerance",
+      "level": "h3",
+      "text": "Designing a rigid-flex PCB layout requires a fundamentally different approach than standard rigid boards. The combination of rigid FR4 sections and flexible polyimide (PI) regions introduces unique mechanical, thermal, and electrical challenges that every PCB layout engineer must address. This comprehensive guide covers material selection, bend area routing, via design, impedance control, and manufacturing considerations to help you create robust rigid-flex PCB layouts that survive thousands of flex cycles. Substrate Selection and PCB Stackup Design 1. Choose the Right Flexible Substrate The flexible section of a rigid-flex PCB should always use polyimide (PI) instead of FR4. For applicatio..."
+    },
+    {
+      "hash": "324c6c804189c8f37a6558570b79b8bd541a7d93",
+      "heading": "4. Follow Minimum Bend Radius Requirements",
+      "level": "h3",
+      "text": "Designing a rigid-flex PCB layout requires a fundamentally different approach than standard rigid boards. The combination of rigid FR4 sections and flexible polyimide (PI) regions introduces unique mechanical, thermal, and electrical challenges that every PCB layout engineer must address. This comprehensive guide covers material selection, bend area routing, via design, impedance control, and manufacturing considerations to help you create robust rigid-flex PCB layouts that survive thousands of flex cycles. Substrate Selection and PCB Stackup Design 1. Choose the Right Flexible Substrate The flexible section of a rigid-flex PCB should always use polyimide (PI) instead of FR4. For applicatio..."
+    },
+    {
+      "hash": "324c6c804189c8f37a6558570b79b8bd541a7d93",
+      "heading": "5. Reinforce Gold Finger Areas",
+      "level": "h3",
+      "text": "Designing a rigid-flex PCB layout requires a fundamentally different approach than standard rigid boards. The combination of rigid FR4 sections and flexible polyimide (PI) regions introduces unique mechanical, thermal, and electrical challenges that every PCB layout engineer must address. This comprehensive guide covers material selection, bend area routing, via design, impedance control, and manufacturing considerations to help you create robust rigid-flex PCB layouts that survive thousands of flex cycles. Substrate Selection and PCB Stackup Design 1. Choose the Right Flexible Substrate The flexible section of a rigid-flex PCB should always use polyimide (PI) instead of FR4. For applicatio..."
+    }
+  ],
+  "status": 200,
+  "structure_hash": "da97c9ba5c88edc6dbbba12f57209bec164844b3",
+  "text_excerpt": "Rigid-Flex PCB Layout Design Guidelines: Best Practices for Reliable PCB Layout - PCB Design & Layout - PCBway PCBWay Community Search title or content Search PCBWay PCB Instant Quote CNC | 3D Printing Login Sign Up More Notifications No notifications. My Profile My projects My Likes My Deals My Goods for Bazaar Settings Sign Out Projects Categories DIY Electronics Arduino Hardware Audio Computers & USB Breakout Board Projects Home Automation LED Displays & Matrices IoT Robotics View all categories By Source Files Onju Voice - AI assistant replacement to Google Nest Mini by @justLV LogicAnalyzer V6.0 DIY 1kW Open Source MPPT Solar Charge Controller Tad Boy Color SummerCart64 - a fully open source N64 flashcart kv4p HT v1.7b QuinLED-Dig-Uno Bike Fingerprint - PCB Arduino RC engine sound & light controller with inertia simulation for ESP32 Solar Powered WiFi Weather Station V2.0 Frog Boy Color SIDKick pico 0.2 (SID 6581/8580-replacement for C64/C128) View all source files projects Featured Projects Onju Voice - AI assistant replacement to Google Nest Mini by @justLV LogicAnalyzer V6.0 DIY 1kW Open Source MPPT Solar Charge Controller Featured Source Files Video View all projects Ques...",
+  "text_hash": "3034c0b67d8235a011ab195a88ce1651f2245067",
+  "title": "Rigid-Flex PCB Layout Design Guidelines: Best Practices for Reliable PCB Layout - PCB Design & Layout - PCBway",
+  "url": "https://www.pcbway.com/blog/PCB_Design_Layout/Rigid_Flex_PCB_Layout_Design_Guidelines_Best_Practices_for_Reliable_PCB_Layout_c7530b87.html"
+}
