@@ -56,7 +56,7 @@
       "text": "Get Instant Quote"
     }
   ],
-  "fetched_at": "2026-07-30T04:17:16+00:00",
+  "fetched_at": "2026-07-31T04:35:24+00:00",
   "h1": "What is subtractive manufacturing?",
   "headings": [
     {
@@ -137,51 +137,7 @@
     },
     {
       "level": "h3",
-      "text": "Types of taps: A practical guide for machining"
-    },
-    {
-      "level": "h3",
-      "text": "What is G-code? An explanation of the best CNC methods"
-    },
-    {
-      "level": "h3",
-      "text": "Fits and tolerances: Clearance, transition, and interference"
-    },
-    {
-      "level": "h3",
-      "text": "Differences between jigs and fixtures"
-    },
-    {
-      "level": "h3",
-      "text": "Types of springs and their applications"
-    },
-    {
-      "level": "h3",
-      "text": "What is subtractive manufacturing?"
-    },
-    {
-      "level": "h3",
-      "text": "How do you deal with sharp corners in CNC machining? Designing with the machinist in mind"
-    },
-    {
-      "level": "h3",
-      "text": "What is GD&T? How to reduce manufacturing errors and improve quality"
-    },
-    {
-      "level": "h3",
-      "text": "What is design for manufacturability (DFM)?"
-    },
-    {
-      "level": "h3",
-      "text": "What is anodizing and how does it work?"
-    },
-    {
-      "level": "h3",
-      "text": "What are the different types of threads for manufacturing? Practical tips for engineers"
-    },
-    {
-      "level": "h3",
-      "text": "Standard blank sizes for CNC machining (sheets & rods)"
+      "text": "Understanding clearance, transition and interference fits"
     },
     {
       "level": "h3",
@@ -229,7 +185,51 @@
     },
     {
       "level": "h3",
-      "text": "Standard blank sizes for CNC machining (sheets & rods)"
+      "text": "Understanding clearance, transition and interference fits"
+    },
+    {
+      "level": "h3",
+      "text": "Types of taps: A practical guide for machining"
+    },
+    {
+      "level": "h3",
+      "text": "What is G-code? An explanation of the best CNC methods"
+    },
+    {
+      "level": "h3",
+      "text": "Fits and tolerances: Clearance, transition, and interference"
+    },
+    {
+      "level": "h3",
+      "text": "Differences between jigs and fixtures"
+    },
+    {
+      "level": "h3",
+      "text": "Types of springs and their applications"
+    },
+    {
+      "level": "h3",
+      "text": "What is subtractive manufacturing?"
+    },
+    {
+      "level": "h3",
+      "text": "How do you deal with sharp corners in CNC machining? Designing with the machinist in mind"
+    },
+    {
+      "level": "h3",
+      "text": "What is GD&T? How to reduce manufacturing errors and improve quality"
+    },
+    {
+      "level": "h3",
+      "text": "What is design for manufacturability (DFM)?"
+    },
+    {
+      "level": "h3",
+      "text": "What is anodizing and how does it work?"
+    },
+    {
+      "level": "h3",
+      "text": "What are the different types of threads for manufacturing? Practical tips for engineers"
     },
     {
       "level": "h2",
@@ -270,6 +270,10 @@
       "src": "/images/trans.gif"
     },
     {
+      "alt": "Automation has enormous potential to assist with 3D printing at the design stage",
+      "src": "/images/trans.gif"
+    },
+    {
       "alt": "CNC machining guide cover image",
       "src": "/images/trans.gif"
     },
@@ -295,10 +299,6 @@
     },
     {
       "alt": "cnc-surface finish-as-machined-1",
-      "src": "/images/trans.gif"
-    },
-    {
-      "alt": "Standard Blank Sizes for CNC machining (Sheets & Rods)",
       "src": "/images/trans.gif"
     }
   ],
@@ -414,10 +414,16 @@
       "text": "Subtractive manufacturing removes material from a solid blockâalso called a blank or workpieceâto form a final shape. As Michelangelo supposedly said of sculpting the David, \"I just removed everything that was not David.\" Today, instead of chisels and marble, engineers use precision tools to shape metals and plastics with the same principle in mind.Â Some of the most well-known subtractive methods include CNC milling , CNC turning , drilling, grinding, and laser cutting. While each technique removes material in a different wayâmilling uses rotating tools, laser cutting uses concentrated beams of lightâthey all carefully subtract material to match a final design.Â This article covers..."
     },
     {
-      "hash": "4983e489ea0ea8c631ebc11f45f1c458670a95b3",
+      "hash": "f6d5bd3a986e8783e7f204dc7046b9150e342346",
       "heading": "More resources for engineers",
       "level": "h2",
-      "text": "More resources for engineers Types of taps: A practical guide for machining Read article What is G-code? An explanation of the best CNC methods Read article Fits and tolerances: Clearance, transition, and interference Read article Differences between jigs and fixtures Read article Types of springs and their applications Read article What is subtractive manufacturing? Read article How do you deal with sharp corners in CNC machining? Designing with the machinist in mind Read article What is GD&T? How to reduce manufacturing errors and improve quality Read article What is design for manufacturability (DFM)? Read article What is anodizing and how does it work? Read article What are the differen..."
+      "text": "More resources for engineers Understanding clearance, transition and interference fits Read article Types of taps: A practical guide for machining Read article What is G-code? An explanation of the best CNC methods Read article Fits and tolerances: Clearance, transition, and interference Read article Differences between jigs and fixtures Read article Types of springs and their applications Read article What is subtractive manufacturing? Read article How do you deal with sharp corners in CNC machining? Designing with the machinist in mind Read article What is GD&T? How to reduce manufacturing errors and improve quality Read article What is design for manufacturability (DFM)? Read article Wha..."
+    },
+    {
+      "hash": "f4a7ce30bcbdc784442a69bf88b0df56e6f5dfe9",
+      "heading": "Understanding clearance, transition and interference fits",
+      "level": "h3",
+      "text": "Understanding clearance, transition and interference fits Read article"
     },
     {
       "hash": "10cdb7d034c135ce5d58e346ce11ec397f889b07",
@@ -480,12 +486,6 @@
       "text": "What are the different types of threads for manufacturing? Practical tips for engineers Read article"
     },
     {
-      "hash": "ff1bd1e70dc7ec3c7dce74d067693cd9a62cc45e",
-      "heading": "Standard blank sizes for CNC machining (sheets & rods)",
-      "level": "h3",
-      "text": "Standard blank sizes for CNC machining (sheets & rods) Read article"
-    },
-    {
       "hash": "1fa7a7d46b028d1e6b711952f4d87ae98aacd6ca",
       "heading": "Ready to transform your CAD file into a custom part? Upload your designs for a free, instant quote.",
       "level": "h2",
@@ -493,9 +493,9 @@
     }
   ],
   "status": 200,
-  "structure_hash": "4522482a08c952aa46614dcdafea80e58a2049b5",
+  "structure_hash": "bd0e3d2b57620c9fb00af8bbc579ad82cf18e88e",
   "text_excerpt": "What is subtractive manufacturing? | Protolabs Network Help center EN English Deutsch Francais Nederlands Go to homepage Get instant quote How it works On-demand, custom manufacturing How it works On-demand, custom manufacturing How Protolabs Network works How ordering works Using Protolabs Network from quote to delivery IP protection How we guarantee security and confidentiality Quality & consistency Quality standards Processes and systems for maintaining the highest quality Manufacturing partners How we manage our suppliers Features Team Accounts How to collaborate with a team account Capabilities Prototypes and production parts Capabilities Prototypes and production parts 3D printing 3D printing service Fused Deposition Modeling (FDM) Stereolithography (SLA) Selective Laser Sintering (SLS) Multi Jet Fusion (MJF) CNC machining CNC machining service CNC milling CNC turning Additional services Sheet metal fabrication service Injection molding service Production orders Popular finishes As machined Smooth machining Aluminum anodizing Bead blasting Polishing Vapor smoothing New Black oxide Powder coating View all surface finishes Industries Join thousands of industry leaders developi...",
-  "text_hash": "be748ebdacec6f53e533ca5500b681ecb9d308dc",
+  "text_hash": "5ea799a1f9cf2d943b870589db454492d112f018",
   "title": "What is subtractive manufacturing? | Protolabs Network",
   "url": "https://www.hubs.com/what-is-subtractive-manufacturing"
 }

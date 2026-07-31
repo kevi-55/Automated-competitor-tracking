@@ -56,7 +56,7 @@
       "text": "Get Instant Quote"
     }
   ],
-  "fetched_at": "2026-07-30T04:17:06+00:00",
+  "fetched_at": "2026-07-31T04:35:14+00:00",
   "h1": "The Knowledge Base",
   "headings": [
     {
@@ -146,6 +146,10 @@
       "src": "https://images.ctfassets.net/q2hzfkp3j57e/3E7Rja1E57711eco31pjVd/a2e6dc5e2001504f9b60ff6eca66e214/company_navbar.webp?w=350"
     },
     {
+      "alt": "CNC machining guide cover image",
+      "src": "//images.ctfassets.net/q2hzfkp3j57e/1ymZWakNbuCelYyJDYMpCY/6934f1566acf4d03e93b4c6279a6f1a5/cnc_machining_guide.webp?w=6&h=4&fm=jpg&q=50"
+    },
+    {
       "alt": "6. FDM 3D Printing",
       "src": "//images.ctfassets.net/q2hzfkp3j57e/5VbJkzNdjMUqDiFXgGprX6/4c96491ce5b3f7d508554d32e9bc57db/6.webp?w=6&h=4&fm=jpg&q=50"
     },
@@ -156,10 +160,6 @@
     {
       "alt": "",
       "src": "//images.ctfassets.net/q2hzfkp3j57e/59jkZdS5M7wq2k77pvMFFh/103ddfbffe0305868eac34906c8eb992/Freeform_shape_CAD_modeling.webp?w=6&h=4&fm=jpg&q=50"
-    },
-    {
-      "alt": "3D Printing STL files: A step-by-step guide",
-      "src": "//images.ctfassets.net/q2hzfkp3j57e/18b2e90b3e78a4177b1829d9d9318562513d44ed/909bd3f76447f90b11c888e36c115116/Screen_Shot_2016-09-26_at_15.webp?w=6&h=4&fm=jpg&q=50"
     },
     {
       "alt": "CNC machining, 3D printing and sheet metal fabrication parts",
@@ -242,10 +242,10 @@
       "text": "Standards & technical data What are the technical standards for digital manufacturing? Bookmark these rules and resources. Read more"
     },
     {
-      "hash": "1d4a3c367e6b93e3168227b9e56ccb80a37c5510",
+      "hash": "306f1942495ec585b53f75518207dd01de06b7bf",
       "heading": "What engineers are reading now",
       "level": "h2",
-      "text": "What engineers are reading now 3D-printing innovations: Discover our modern techniques Discover the latest 3D-printing innovations. We use modern techniques, the best hardware and high-quality materials. Upload your CAD-files. Reaming: How it works, applications, and advantages Read all about reaming. How does it work and which applications are available? Upload your CAD file for a quote. What is G-code? An explanation of the best CNC methods What is G-code and how does it work in manufacturing? We explain all the aspects of this CNC machining process. Upload your CAD file. 3D printing file types: A guide to STL, 3MF, OBJ and STEP Avoid scaling errors and low resolution. Choose the right 3D..."
+      "text": "What engineers are reading now Types of taps: A practical guide for machining Explore the essential types of taps for CNC machining. Learn how to choose the right tool geometry for your project and get instant feedback. 3D-printing innovations: Discover our modern techniques Discover the latest 3D-printing innovations. We use modern techniques, the best hardware and high-quality materials. Upload your CAD-files. Reaming: How it works, applications, and advantages Read all about reaming. How does it work and which applications are available? Upload your CAD file for a quote. What is G-code? An explanation of the best CNC methods What is G-code and how does it work in manufacturing? We explai..."
     },
     {
       "hash": "56c9ef33a0eb15b6575bb97fd6e659ef6b92e00e",
@@ -261,9 +261,9 @@
     }
   ],
   "status": 200,
-  "structure_hash": "8a9cfd0dd51e2285dcb4a4b214334c293c88a37b",
+  "structure_hash": "1dac4bcda77bcf2490db83483cb756da55021c2d",
   "text_excerpt": "Knowledge base | Protolabs Network All POs and payments for Protolabs Network have moved from 3D Hubs Manufacturing LLC to Proto Labs, Inc. | Contact us for more information Help center EN English Deutsch Francais Nederlands Go to homepage Get instant quote How it works On-demand, custom manufacturing How it works On-demand, custom manufacturing How Protolabs Network works How ordering works Using Protolabs Network from quote to delivery IP protection How we guarantee security and confidentiality Quality & consistency Quality standards Processes and systems for maintaining the highest quality Manufacturing partners How we manage our suppliers Features Team Accounts How to collaborate with a team account Capabilities Prototypes and production parts Capabilities Prototypes and production parts 3D printing 3D printing service Fused Deposition Modeling (FDM) Stereolithography (SLA) Selective Laser Sintering (SLS) Multi Jet Fusion (MJF) CNC machining CNC machining service CNC milling CNC turning Additional services Sheet metal fabrication service Injection molding service Production orders Popular finishes As machined Smooth machining Aluminum anodizing Bead blasting Polishing Vapor sm...",
-  "text_hash": "fefd0cc5b160941d237b0cbd21a99cdb330184ba",
+  "text_hash": "7256241bf02dee07aa8d3d349d0a6e246ac5ab39",
   "title": "Knowledge base | Protolabs Network",
   "url": "https://www.hubs.com/knowledge-base"
 }

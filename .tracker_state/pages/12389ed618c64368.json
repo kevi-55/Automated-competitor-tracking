@@ -64,7 +64,7 @@
       "text": "Get Instant Quote"
     }
   ],
-  "fetched_at": "2026-07-30T04:17:43+00:00",
+  "fetched_at": "2026-07-31T04:35:52+00:00",
   "h1": "What is CNC machining?",
   "headings": [
     {
@@ -177,51 +177,7 @@
     },
     {
       "level": "h3",
-      "text": "Types of taps: A practical guide for machining"
-    },
-    {
-      "level": "h3",
-      "text": "What is G-code? An explanation of the best CNC methods"
-    },
-    {
-      "level": "h3",
-      "text": "Differences between jigs and fixtures"
-    },
-    {
-      "level": "h3",
-      "text": "Precision CNC machining: Engineering high-accuracy components"
-    },
-    {
-      "level": "h3",
-      "text": "Types of CNC machines: A practical overview"
-    },
-    {
-      "level": "h3",
-      "text": "Comparing 3 axis versus 5 axis in CNC machining"
-    },
-    {
-      "level": "h3",
-      "text": "CNC machining for small parts"
-    },
-    {
-      "level": "h3",
-      "text": "A guide to acrylic CNC machining"
-    },
-    {
-      "level": "h3",
-      "text": "CNC turning machines: How they work and when to use them in manufacturing"
-    },
-    {
-      "level": "h3",
-      "text": "Precision CNC machining for aerospace applications"
-    },
-    {
-      "level": "h3",
-      "text": "What is CNC machining best for? How engineers use it in practice"
-    },
-    {
-      "level": "h3",
-      "text": "The advantages of 5-axis CNC machining"
+      "text": "Understanding clearance, transition and interference fits"
     },
     {
       "level": "h3",
@@ -269,7 +225,51 @@
     },
     {
       "level": "h3",
-      "text": "The advantages of 5-axis CNC machining"
+      "text": "Understanding clearance, transition and interference fits"
+    },
+    {
+      "level": "h3",
+      "text": "Types of taps: A practical guide for machining"
+    },
+    {
+      "level": "h3",
+      "text": "What is G-code? An explanation of the best CNC methods"
+    },
+    {
+      "level": "h3",
+      "text": "Differences between jigs and fixtures"
+    },
+    {
+      "level": "h3",
+      "text": "Precision CNC machining: Engineering high-accuracy components"
+    },
+    {
+      "level": "h3",
+      "text": "Types of CNC machines: A practical overview"
+    },
+    {
+      "level": "h3",
+      "text": "Comparing 3 axis versus 5 axis in CNC machining"
+    },
+    {
+      "level": "h3",
+      "text": "CNC machining for small parts"
+    },
+    {
+      "level": "h3",
+      "text": "A guide to acrylic CNC machining"
+    },
+    {
+      "level": "h3",
+      "text": "CNC turning machines: How they work and when to use them in manufacturing"
+    },
+    {
+      "level": "h3",
+      "text": "Precision CNC machining for aerospace applications"
+    },
+    {
+      "level": "h3",
+      "text": "What is CNC machining best for? How engineers use it in practice"
     },
     {
       "level": "h2",
@@ -306,6 +306,10 @@
       "src": "/images/trans.gif"
     },
     {
+      "alt": "Automation has enormous potential to assist with 3D printing at the design stage",
+      "src": "/images/trans.gif"
+    },
+    {
       "alt": "CNC machining guide cover image",
       "src": "/images/trans.gif"
     },
@@ -335,10 +339,6 @@
     },
     {
       "alt": "5-axis indexed CNC machine in action",
-      "src": "/images/trans.gif"
-    },
-    {
-      "alt": "5 axis cnc milling machine",
       "src": "/images/trans.gif"
     }
   ],
@@ -502,10 +502,16 @@
       "text": "CNC machining is a widely used subtractive manufacturing technology for producing custom metal and plastic components with precision, reliability, and versatility. Guided by digital CAD models, CNC machines use cutting tools to remove material from solid blocks with high accuracy. Engineers often source CNC machining through outsourced manufacturing partners to meet tight tolerances and quality requirements.Â This process supports tight tolerances and strong material performance, making it suitable for prototyping and low-to-medium volume production. While CNC machining offers high repeatability, it has design constraints compared with additive manufacturing because material is removed rath..."
     },
     {
-      "hash": "0c8b4542146dfdb054bcdf18dec3ca22b1233beb",
+      "hash": "b8d2cb3ee3caa942d64fbe6801c411dce047ea3e",
       "heading": "More resources for engineers",
       "level": "h2",
-      "text": "More resources for engineers Types of taps: A practical guide for machining Read article What is G-code? An explanation of the best CNC methods Read article Differences between jigs and fixtures Read article Precision CNC machining: Engineering high-accuracy components Read article Types of CNC machines: A practical overview Read article Comparing 3 axis versus 5 axis in CNC machining Read article CNC machining for small parts Read article A guide to acrylic CNC machining Read article CNC turning machines: How they work and when to use them in manufacturing Read article Precision CNC machining for aerospace applications Read article What is CNC machining best for? How engineers use it in pr..."
+      "text": "More resources for engineers Understanding clearance, transition and interference fits Read article Types of taps: A practical guide for machining Read article What is G-code? An explanation of the best CNC methods Read article Differences between jigs and fixtures Read article Precision CNC machining: Engineering high-accuracy components Read article Types of CNC machines: A practical overview Read article Comparing 3 axis versus 5 axis in CNC machining Read article CNC machining for small parts Read article A guide to acrylic CNC machining Read article CNC turning machines: How they work and when to use them in manufacturing Read article Precision CNC machining for aerospace applications..."
+    },
+    {
+      "hash": "f4a7ce30bcbdc784442a69bf88b0df56e6f5dfe9",
+      "heading": "Understanding clearance, transition and interference fits",
+      "level": "h3",
+      "text": "Understanding clearance, transition and interference fits Read article"
     },
     {
       "hash": "10cdb7d034c135ce5d58e346ce11ec397f889b07",
@@ -574,12 +580,6 @@
       "text": "What is CNC machining best for? How engineers use it in practice Read article"
     },
     {
-      "hash": "c13df12603aa232d973f2b2622a8de4e53b6dcad",
-      "heading": "The advantages of 5-axis CNC machining",
-      "level": "h3",
-      "text": "The advantages of 5-axis CNC machining Read article"
-    },
-    {
       "hash": "1fa7a7d46b028d1e6b711952f4d87ae98aacd6ca",
       "heading": "Ready to transform your CAD file into a custom part? Upload your designs for a free, instant quote.",
       "level": "h2",
@@ -587,9 +587,9 @@
     }
   ],
   "status": 200,
-  "structure_hash": "5c7f1e3c68418ab745496ed035214ad3ade5e8d3",
+  "structure_hash": "77a4372820bab83813f534aa013106478bd51182",
   "text_excerpt": "What is CNC machining? | Protolabs Network Help center EN English Deutsch Francais Nederlands Go to homepage Get instant quote How it works On-demand, custom manufacturing How it works On-demand, custom manufacturing How Protolabs Network works How ordering works Using Protolabs Network from quote to delivery IP protection How we guarantee security and confidentiality Quality & consistency Quality standards Processes and systems for maintaining the highest quality Manufacturing partners How we manage our suppliers Features Team Accounts How to collaborate with a team account Capabilities Prototypes and production parts Capabilities Prototypes and production parts 3D printing 3D printing service Fused Deposition Modeling (FDM) Stereolithography (SLA) Selective Laser Sintering (SLS) Multi Jet Fusion (MJF) CNC machining CNC machining service CNC milling CNC turning Additional services Sheet metal fabrication service Injection molding service Production orders Popular finishes As machined Smooth machining Aluminum anodizing Bead blasting Polishing Vapor smoothing New Black oxide Powder coating View all surface finishes Industries Join thousands of industry leaders developing revolutio...",
-  "text_hash": "50752cab905a380db2ae404531894c4c5f3b805a",
+  "text_hash": "f2c2e661149459838966b84d1fdf24efe414d03f",
   "title": "What is CNC machining? | Protolabs Network",
   "url": "https://www.hubs.com/knowledge-base/cnc-machining-manufacturing-technology-explained"
 }
