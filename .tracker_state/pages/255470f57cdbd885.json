@@ -64,7 +64,7 @@
       "text": "Get Instant Quote"
     }
   ],
-  "fetched_at": "2026-08-04T04:29:23+00:00",
+  "fetched_at": "2026-08-05T04:26:03+00:00",
   "h1": "What is additive manufacturing? Get started with 3D printing",
   "headings": [
     {
@@ -129,51 +129,7 @@
     },
     {
       "level": "h3",
-      "text": "3D-printing innovations: Discover our modern techniques"
-    },
-    {
-      "level": "h3",
-      "text": "3D printing file types: A guide to STL, 3MF, OBJ and STEP"
-    },
-    {
-      "level": "h3",
-      "text": "Sanding 3D prints: Techniques for a smooth 3D print"
-    },
-    {
-      "level": "h3",
-      "text": "How to remove supports from 3D-prints"
-    },
-    {
-      "level": "h3",
-      "text": "Resin versus filament 3D printer"
-    },
-    {
-      "level": "h3",
-      "text": "SLA versus SLS: Choosing the right 3D printing process"
-    },
-    {
-      "level": "h3",
-      "text": "How to get smooth 3D prints"
-    },
-    {
-      "level": "h3",
-      "text": "DFM tips for 3D printed parts with thin walls"
-    },
-    {
-      "level": "h3",
-      "text": "What is under-extrusion in 3D printing?"
-    },
-    {
-      "level": "h3",
-      "text": "FDM vs. SLA 3D printing"
-    },
-    {
-      "level": "h3",
-      "text": "The fastest 3D printing techniques"
-    },
-    {
-      "level": "h3",
-      "text": "When to use 3D printing vs when to use injection molding"
+      "text": "PETG 3D filament properties"
     },
     {
       "level": "h3",
@@ -221,7 +177,51 @@
     },
     {
       "level": "h3",
-      "text": "When to use 3D printing vs when to use injection molding"
+      "text": "PETG 3D filament properties"
+    },
+    {
+      "level": "h3",
+      "text": "3D-printing innovations: Discover our modern techniques"
+    },
+    {
+      "level": "h3",
+      "text": "3D printing file types: A guide to STL, 3MF, OBJ and STEP"
+    },
+    {
+      "level": "h3",
+      "text": "Sanding 3D prints: Techniques for a smooth 3D print"
+    },
+    {
+      "level": "h3",
+      "text": "How to remove supports from 3D-prints"
+    },
+    {
+      "level": "h3",
+      "text": "Resin versus filament 3D printer"
+    },
+    {
+      "level": "h3",
+      "text": "SLA versus SLS: Choosing the right 3D printing process"
+    },
+    {
+      "level": "h3",
+      "text": "How to get smooth 3D prints"
+    },
+    {
+      "level": "h3",
+      "text": "DFM tips for 3D printed parts with thin walls"
+    },
+    {
+      "level": "h3",
+      "text": "What is under-extrusion in 3D printing?"
+    },
+    {
+      "level": "h3",
+      "text": "FDM vs. SLA 3D printing"
+    },
+    {
+      "level": "h3",
+      "text": "The fastest 3D printing techniques"
     },
     {
       "level": "h2",
@@ -287,10 +287,6 @@
     },
     {
       "alt": "Models printed in SLA, FDM and SLS",
-      "src": "/images/trans.gif"
-    },
-    {
-      "alt": "ABS 3D printed part",
       "src": "/images/trans.gif"
     }
   ],
@@ -382,10 +378,16 @@
       "text": "Let's start with the basics Additive manufacturing (often referred to as rapid prototyping or 3D printing ) is a method of manufacturing where layers of material are built up one at a time to create a solid object. While there are many different additive manufacturing and 3D printing technologies out there, this article will focus on the general process from design to the final part. Whether the final part is a quick prototype or an end-use functional part, the general process does not change significantly. Let's get into it. From initial CAD design to 3D printed part the additive manufacturing follows a general series of steps How do you design manufacturable models in CAD? Producing a dig..."
     },
     {
-      "hash": "5143f78e48430778afec665e7f190d6e7153258c",
+      "hash": "35e381edfdf072017181c267505b2ae761937b37",
       "heading": "More resources for engineers",
       "level": "h2",
-      "text": "More resources for engineers 3D-printing innovations: Discover our modern techniques Read article 3D printing file types: A guide to STL, 3MF, OBJ and STEP Read article Sanding 3D prints: Techniques for a smooth 3D print Read article How to remove supports from 3D-prints Read article Resin versus filament 3D printer Read article SLA versus SLS: Choosing the right 3D printing process Read article How to get smooth 3D prints Read article DFM tips for 3D printed parts with thin walls Read article What is under-extrusion in 3D printing? Read article FDM vs. SLA 3D printing Read article The fastest 3D printing techniques Read article When to use 3D printing vs when to use injection molding Read..."
+      "text": "More resources for engineers PETG 3D filament properties Read article 3D-printing innovations: Discover our modern techniques Read article 3D printing file types: A guide to STL, 3MF, OBJ and STEP Read article Sanding 3D prints: Techniques for a smooth 3D print Read article How to remove supports from 3D-prints Read article Resin versus filament 3D printer Read article SLA versus SLS: Choosing the right 3D printing process Read article How to get smooth 3D prints Read article DFM tips for 3D printed parts with thin walls Read article What is under-extrusion in 3D printing? Read article FDM vs. SLA 3D printing Read article The fastest 3D printing techniques Read article PETG 3D filament prop..."
+    },
+    {
+      "hash": "95550194fde3938b423be464093a9662ff3b080c",
+      "heading": "PETG 3D filament properties",
+      "level": "h3",
+      "text": "PETG 3D filament properties Read article"
     },
     {
       "hash": "ddd03e78d965e86d5683956f7e8b88a79d2eed4c",
@@ -454,12 +456,6 @@
       "text": "The fastest 3D printing techniques Read article"
     },
     {
-      "hash": "b8c1cf6b8a053bfceee40fb99a8013ddb40751db",
-      "heading": "When to use 3D printing vs when to use injection molding",
-      "level": "h3",
-      "text": "When to use 3D printing vs when to use injection molding Read article"
-    },
-    {
       "hash": "1fa7a7d46b028d1e6b711952f4d87ae98aacd6ca",
       "heading": "Ready to transform your CAD file into a custom part? Upload your designs for a free, instant quote.",
       "level": "h2",
@@ -467,9 +463,9 @@
     }
   ],
   "status": 200,
-  "structure_hash": "e7e069a83a4eca1977c029b16ed5d627ab9e92b2",
+  "structure_hash": "76dc355fc5d4f9203d6025ef27fb7710e7ddf56e",
   "text_excerpt": "What is additive manufacturing? Get started with 3D printing | Protolabs Network Help center EN English Deutsch Francais Nederlands Go to homepage Get instant quote How it works On-demand, custom manufacturing How it works On-demand, custom manufacturing How Protolabs Network works How ordering works Using Protolabs Network from quote to delivery IP protection How we guarantee security and confidentiality Quality & consistency Quality standards Processes and systems for maintaining the highest quality Manufacturing partners How we manage our suppliers Features Team Accounts How to collaborate with a team account Capabilities Prototypes and production parts Capabilities Prototypes and production parts 3D printing 3D printing service Fused Deposition Modeling (FDM) Stereolithography (SLA) Selective Laser Sintering (SLS) Multi Jet Fusion (MJF) CNC machining CNC machining service CNC milling CNC turning Additional services Sheet metal fabrication service Injection molding service Production orders Popular finishes As machined Smooth machining Aluminum anodizing Bead blasting Polishing Vapor smoothing New Black oxide Powder coating View all surface finishes Industries Join thousands of...",
-  "text_hash": "0655a7d1a2e60815495ad9beda5d4b6421331751",
+  "text_hash": "2d4983d5780fa463519323dcf076efb17874438b",
   "title": "What is additive manufacturing? Get started with 3D printing | Protolabs Network",
   "url": "https://www.hubs.com/knowledge-base/additive-manufacturing-process"
 }
