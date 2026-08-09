@@ -56,7 +56,7 @@
       "text": "Contact us"
     }
   ],
-  "fetched_at": "2026-08-08T03:09:51+00:00",
+  "fetched_at": "2026-08-09T03:16:39+00:00",
   "h1": "How to Generate BOM and Centroid File in Eagle",
   "headings": [
     {
@@ -138,10 +138,10 @@
   "requested_url": "https://www.pcbway.com/blog/help_center/How_to_Generate_BOM_and_Centroid_File_in_Eagle_f0fa4189.html",
   "sections": [
     {
-      "hash": "637429ea5d0046974054b1c98f8aaac4e783277f",
+      "hash": "21bfff1278076779e3c2faa43b400b1b2ec9565f",
       "heading": "How to Generate BOM and Centroid File in Eagle",
       "level": "h1",
-      "text": "Blog > How to Generate BOM and Centroid File in Eagle How to Generate BOM and Centroid File in Eagle by: PCBWay Jan 11,2023 20182 Views 0 Comments Posted in Help Center In Eagle, we usually find that the file format is often confusing when using the normal way to export BOM and Centroid files. To solve the problem, this article will introduce how to export correctly formatted BOM and Centroid files by using ULP. First of all, download the ULP on your computer: https://pcbwayfile.s3.us-west-2.amazonaws.com/msgfile/23/01/11/1457344260842.zip Generate Controid file: Click ULP Then find Browse... Choose eagle_smt.ulp Click Save and the Centroid file will be generated automatically. Generate BOM..."
+      "text": "Blog > How to Generate BOM and Centroid File in Eagle How to Generate BOM and Centroid File in Eagle by: PCBWay Jan 11,2023 20196 Views 0 Comments Posted in Help Center In Eagle, we usually find that the file format is often confusing when using the normal way to export BOM and Centroid files. To solve the problem, this article will introduce how to export correctly formatted BOM and Centroid files by using ULP. First of all, download the ULP on your computer: https://pcbwayfile.s3.us-west-2.amazonaws.com/msgfile/23/01/11/1457344260842.zip Generate Controid file: Click ULP Then find Browse... Choose eagle_smt.ulp Click Save and the Centroid file will be generated automatically. Generate BOM..."
     },
     {
       "hash": "6ba7a73fcd720df5dba1adee95ed579a31934728",
@@ -163,9 +163,9 @@
     }
   ],
   "status": 200,
-  "structure_hash": "41bcf379a4c7640737de34f4f3726a4a6fa863b3",
+  "structure_hash": "7e0ccf4157b64b642621ae3bb7feb11fa1dea1ca",
   "text_excerpt": "How to Generate BOM and Centroid File in Eagle - Help Center - PCBway PCBWay Community Search title or content Search PCBWay PCB Instant Quote CNC | 3D Printing Login Sign Up More Notifications No notifications. My Profile My projects My Likes My Deals My Goods for Bazaar Settings Sign Out Projects Categories DIY Electronics Arduino Hardware Audio Computers & USB Breakout Board Projects Home Automation LED Displays & Matrices IoT Robotics View all categories By Source Files Onju Voice - AI assistant replacement to Google Nest Mini by @justLV LogicAnalyzer V6.0 DIY 1kW Open Source MPPT Solar Charge Controller Tad Boy Color SummerCart64 - a fully open source N64 flashcart kv4p HT v1.7b QuinLED-Dig-Uno Bike Fingerprint - PCB Arduino RC engine sound & light controller with inertia simulation for ESP32 Solar Powered WiFi Weather Station V2.0 Frog Boy Color SIDKick pico 0.2 (SID 6581/8580-replacement for C64/C128) View all source files projects Featured Projects Onju Voice - AI assistant replacement to Google Nest Mini by @justLV LogicAnalyzer V6.0 DIY 1kW Open Source MPPT Solar Charge Controller Featured Source Files Video View all projects Questions Sponsorships Feedback Blog Store PC...",
-  "text_hash": "b6845dcd4d2b93800975096e9e72ba6b8fd81147",
+  "text_hash": "589807121256490d3f9db82513b20a2befe605d8",
   "title": "How to Generate BOM and Centroid File in Eagle - Help Center - PCBway",
   "url": "https://www.pcbway.com/blog/help_center/How_to_Generate_BOM_and_Centroid_File_in_Eagle_f0fa4189.html"
 }
