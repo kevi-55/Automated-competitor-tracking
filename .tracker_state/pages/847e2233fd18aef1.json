@@ -1,0 +1,281 @@
+{
+  "canonical": "https://www.hubs.com/knowledge-base/sla-3d-printing-materials-compared",
+  "category": "content",
+  "competitor": "Hubs",
+  "ctas": [
+    {
+      "href": "https://www.hubs.com/manufacture",
+      "text": "Get a free, instant quote"
+    },
+    {
+      "href": "https://www.hubs.com/manufacture",
+      "text": "Upload your design for a free quote"
+    }
+  ],
+  "discovered_via": "sitemap",
+  "fetched_at": "2026-08-17T03:42:28+00:00",
+  "final_url": "https://www.hubs.com/knowledge-base/sla-3d-printing-materials-compared",
+  "first_seen_at": "2026-08-17T03:42:28+00:00",
+  "h1": "",
+  "headings": [
+    {
+      "level": "h2",
+      "text": "What's the right resin for your application? Comparing 3D printing materials"
+    },
+    {
+      "level": "h2",
+      "text": "What materials are available for SLA 3D printing? What do SLA resins do best?"
+    },
+    {
+      "level": "h2",
+      "text": "What are the standard SLA resins? Common 3D printing materials"
+    },
+    {
+      "level": "h3",
+      "text": "Standard resin"
+    },
+    {
+      "level": "h3",
+      "text": "Clear resin"
+    },
+    {
+      "level": "h2",
+      "text": "What are engineering SLA resins? 3D printing materials for production"
+    },
+    {
+      "level": "h3",
+      "text": "Tough resin (ABS-like)"
+    },
+    {
+      "level": "h3",
+      "text": "Durable resin (PP-like)"
+    },
+    {
+      "level": "h3",
+      "text": "Heat-resistant resin"
+    },
+    {
+      "level": "h3",
+      "text": "Rubber-like resin (flexible)"
+    },
+    {
+      "level": "h3",
+      "text": "Ceramic-filled resin (Rigid)"
+    },
+    {
+      "level": "h2",
+      "text": "What are dental & medical SLA resins? 3D printing materials with biocompatibility"
+    },
+    {
+      "level": "h3",
+      "text": "Custom medical appliances resin (class I biocompatible)"
+    },
+    {
+      "level": "h3",
+      "text": "Dental long-term biocompatible resin (class IIa biocompatible)"
+    },
+    {
+      "level": "h3",
+      "text": "What's the difference between Class I and Class IIa biocompatibility?"
+    },
+    {
+      "level": "h2",
+      "text": "What are castable SLA resins?"
+    },
+    {
+      "level": "h3",
+      "text": "Castable resin for jewelry making"
+    },
+    {
+      "level": "h2",
+      "text": "Frequently asked questions"
+    },
+    {
+      "level": "h3",
+      "text": "What’s the best SLA material for prototyping?"
+    },
+    {
+      "level": "h3",
+      "text": "What’s the best SLA material for functional prototypes?"
+    },
+    {
+      "level": "h3",
+      "text": "What temperatures can heat-resistant resin withstand?"
+    },
+    {
+      "level": "h3",
+      "text": "What SLA materials are safe for medical and dental applications?"
+    },
+    {
+      "level": "h3",
+      "text": "What are SLA materials and resins made of?"
+    }
+  ],
+  "images": [
+    {
+      "alt": "",
+      "src": "/images/trans.gif"
+    },
+    {
+      "alt": "SLA part printed in clear resin, showing different post-processing stages.",
+      "src": "/images/trans.gif"
+    },
+    {
+      "alt": "CNC machining, 3D printing and sheet metal fabrication parts",
+      "src": "/images/trans.gif"
+    }
+  ],
+  "meta_description": "What are the different materials available for SLA 3D printing? This article compares the main printing resins, including standard, tough, durable, heat resistant, rubber-like, dental and castable, by material properties. Find the best material option for your application.",
+  "modified_at": "",
+  "monitored_text": "SLA (Stereolithography) 3D printing can produce plastic parts with high resolution and accuracy, fine details and smooth surface finishes. Thanks to the variety of resins available for SLA , this manufacturing process is popular among many industries for a variety of applications. Standard resins, for instance, are often used for general prototyping and engineering resins are chosen for applications requiring specific mechanical and thermal properties. Dental and medical resins come with biocompatibility certifications, In this article, we explore the most common SLA material options to highlight the key advantages of each and give actionable guidelines to help you choose the right one for designing custom parts with SLA . What's the right resin for your application? Comparing 3D printing materials The table below summarizes the basic mechanical properties of the common SLA materials. Standard & Clear Tough Durable Heat resistant Ceramic reinforced IZOD impact strength (J/m) 25 38 109 14 N/A Elongation at break (%) 6.2 24 49 2.0 5.6 Tensile strength (MPa) 65.0 55.7 31.8 51.1 75.2 Tensile Modulus (GPa) 2.80 2.80 1.26 3.60 4.10 Flexural Modulus (GPa) 2.2 1.6 0.82 3.3 3.7 HDT @ 0.45 MPa (oC) 73 48 43 289 88 Standard resin has high tensile strength but is very brittle (very low elongation at break), so it is not suitable for functional parts. The ability to create fine features makes it ideal though for visual prototypes and art models. Durable resin has the highest impact strength and elongation at break compared to the other SLA materials. It is best for prototyping parts with moving elements and snap-fits. Tough resin is a compromise between the material properties of durable and standard resin. It has tensile strength, so it is best suited for rigid parts that require high stiffness. Heat-resistant resin can withstand temperatures above 200 degrees Celcius, but has poor impact strength and is even more brittle than standard resin. Ceramic resin has the highest tensile strength and flexural modulus but is brittle (poor elongation at break and impact strength). It should be preferred over other engineering resins for parts with fine features that require a high stiffness. The following graphs represent the mechanical properties of the most common SLA materials (courtest of Formlabs). Comparative chart for elongation at break and impact strength for common SLA engineering and standard materials. Stress-strain curves for common SLA engineering and standard materials. Comparative chart of the material properties of the different engineering resins. What materials are available for SLA 3D printing? What do SLA resins do best? SLA uses a UV laser to cure liquid resin into hardened plastic in a process called photopolymerization. Different combinations of monomers, oligomers, photoinitiators, and other additives result in a wide range of material properties. SLA produces parts from thermoset polymers that are isotropic , meaning they have uniform strength and mechanical properties in all directions (X, Y, and Z). This is a key advantage over processes like FDM, where parts can be weaker along layer lines. As a result, engineers often choose SLA when consistent performance and reliability are critical. Here are the main benefits and limitations that are common to all SLA materials: Pros Similar smoothness to injection molding Fine features & high detail High stiffness Cons Relatively brittle (low elongation at break) Not suitable for outdoor use, as the material properties may change over time (especially with overexposure to UV radiation) Susceptible to creep In the following sections, we will go deeper into material properties that are specific to each SLA resin. Curious about the cost and the available material options of SLA? See all SLA materials Get a free, instant quote For more material options and quick-turn projects, check out Protolabs’ SLA 3D printing service offering premium parts in days. What are the standard SLA resins? Common 3D printing materials Standard resin Standard resins produce high-stiffness, high-resolution prints with a smooth injection molding-like finish. Their low cost makes them ideal for prototyping applications. The color of the resin affects its properties. For example, grey resin is better suited for parts with fine details, and white resin for parts that require a very smooth surface. Standard resin is ideal for concept modeling, rapid prototyping and using 3D printing for more artistic endeavors. Pros Fine features & high detail Smooth surface finish Very cost-efficient Cons Brittle (low elongation at break) Low impact strength Low heat deflection temperature Hearing aids manufactured via SLA 3D printing in standard resin Clear resin Clear resin has similar mechanical properties to standard resin but can be post-processed to near optical transparency. More information on post-processing SLA parts can be found here . Clear resin is ideal for showcasing interior features, housings for LEDs and fluidic devices. Pros Fine features & high detail Smooth surface finish Transparent Cons Britte (low elongation at break) Low impact strength The optical clarity may change over time, as the part is exposed to UV radiation (sunlight) An electronics enclosure 3D printed with SLA in clear resin during different post-processing steps What are engineering SLA resins? 3D printing materials for production Engineering resins simulate a range of injection-molded plastics to provide engineers with a wide choice of material properties for prototyping, testing and manufacturing. All engineering resins require post-curing under UV light to reach their maximum mechanical properties. Tough resin (ABS-like) Similar to ABS, tough resin was developed for applications requiring materials that can withstand high stress and strain. Parts printed in tough resin have tensile strength (55.7 MPa) and modulus of elasticity (2.7 GPa) comparable to ABS. This material will produce sturdy, shatter-resistant parts and functional prototypes, such as enclosures with snap-fit joints, or rugged prototypes. Tough resin is ideal for functional prototypes and mechanical assemblies. Pros High stiffness Excellent resistance to cyclic loads Cons Not suitable for parts with thin walls (recommended minimum wall thickness of 1 mm) Low heat deflection temperature Relatively brittle (low elongation at break) A quadcopter prototype 3D printed with SLA in Tough (ABS-like) resin. Durable resin (PP-like) Durable resin is a wear-resistant and flexible material with mechanical properties similar to Polypropylene (PP). Durable resin can be used for parts that require high flexibility (high elongation at break), low friction and a smooth surface finish. Durable resin is particularly fitting for prototyping consumer products, snap fits, ball joints and low-friction moving parts. This material is optimal for functional prototypes, consumer products, and low-friction and low-wear mechanical parts. Pros High wear resistance Flexible (relatively high elongation at break) High impact resistance (higher than tough resin) Cons Not suitable for parts with thin walls (recommended minimum wall thickness of 1 mm) Low heat deflection temperature Low tensile strength (lower than tough resin) Heat-resistant resin Heat-resistant resin is ideal for applications that require high thermal stability and the ability to operate at high temperatures. These resins have a heat deflection temperature between 200-300°C and are ideal for manufacturing heat-resistant fixtures, mold prototypes, hot air and fluid flow equipment, and casting and thermoforming tooling. Heat-resistant resin is ideal for mold prototyping, casting and thermoforming tooling. Pros High heat deflection temperature Smooth surface finish Cons Britte (low elongation at break) Not suitable for parts with thin walls (recommended minimum wall thickness of 1 mm) A low-run injection mold 3D printed with SLA in Heat resistant resin. Rubber-like resin (flexible) Rubber-like resin allows engineers to simulate rubber parts that are soft to the touch. This material has a low tensile modulus and high elongation at break, and it is well-suited for objects that will be bent or compressed. It can also be used to add ergonomic features to multi-material assemblies<dynamic-value> packaging, stamps, wearable prototyping, handles, overmolding and grips. Rubber-like resin can produce parts with low hardness and high flexibility but lack the performance of true rubber. This material is ideal for wearables prototyping, multi-material assemblies, handles, grips and overmolding. Pros High flexibility (high elongation at break) Low hardness (simulates an 80A durometer rubber) High impact resistance Cons Lacks the properties of true rubber Requires extensive support structures The material properties degrade over time, as the part is exposed to UV radiation (sunlight) Not suitable for parts with thin walls (recommended minimum wall thickness of 1 mm) A model car tire 3D printed with SLA in Rubber-like (flexible) resin Ceramic-filled resin (Rigid) Rigid resins are reinforced with glass or other ceramic particles and result in very stiff and rigid parts, with a very smooth surface finish. Rigid resins offer good thermal stability and heat resistance (Heat Deflection Temperature HDT @ 0.45MPa of 88°C). They have a high modulus of elasticity and lower creep (higher resistance to deformation over time) compared to other SLA resins but are more brittle than the tough and durable resins. Rigid resin is also suitable for parts with thin walls and small features (the recommended minimum wall thickness is 100 µm). It's ideal for molds and tooling, jigs, manifolds, fixtures, electrical application housings and automotive parts. Pros High stiffness Suitable for parts with fine features Moderate heat resistance Cons Brittle (low elongation at break) Low impact strength Thermal management components 3D printed with SLA in Ceramic filled (rigid) resin. What are dental & medical SLA resins? 3D printing materials with biocompatibility Custom medical appliances resin (class I biocompatible) Class I biocompatible resins can be used to produce custom medical equipment, such as surgical guides. Parts printed with these materials can be steam sterilized using an autoclave, making them suitable for direct use in the operating room. Depending on the application and workflow, other sterilization methods such as gamma radiation or chemical sterilization may also be considered. These materials are optimal for producing surgical aids and short-term medical appliances where accuracy and hygiene are critical. Pros High precision Smooth finish Class I biocompatible (short-term use) Cons Moderate wear and fracture resistance Dental long-term biocompatible resin (class IIa biocompatible) This resin is specifically engineered for long-term orthodontic and dental applications. Class IIa biocompatible resins can remain in contact with the human body for up to a year. They offer high resistance to fracture and wear, making them ideal for producing custom hard splints, retainers, and other long-term dental appliances. These materials are also compatible with standard sterilization protocols used in dental and medical environments, supporting safe and compliant use. Pros High accuracy High resistance to fracture and wear Class II biocompatibility Cons High cost What's the difference between Class I and Class IIa biocompatibility? Class I biocompatibility regulations refer to materials that are allowed to be used for: non-invasive devices that come in contact with intact skin appliances for transient use or short-term use in the oral or ear canal or in nasal cavities reusable surgical instruments Class IIa biocompatibility regulations refer to materials that are allowed to be used for: devices that come in contact with body fluids or open wounds devices used to administer or remove substances to and from the human body invasive short-term devices, such as invasive surgical elements long-term implantable devices placed in teeth What are castable SLA resins? Castable resin for jewelry making This material enables printed parts with sharp details and a smooth finish and will burn out cleanly without leaving ashes or residue. Castable resin allows the production of parts directly from a digital design to investment casting through a single 3D-printed part. They are suitable for jewelry and other small and intricate components. As the name suggests, this castable resin is great for investment casting and producing jewelry. Pros Low ash content after burnout (less than 0.02 %) Fine features and high detail Cons Low impact and wear resistance Requires post-processing to ensure best results Ready to start 3D printing custom parts? Our SLA 3D printing services Upload your design for a free quote Subscribe Get the latest manufacturing news delivered to your mailbox. Sign up for our newsletter Sign me up Please enter a valid email address. Leave this field empty Thanks! You're now subscribed to our newsletter. Frequently asked questions What’s the best SLA material for prototyping? We recommend that you choose standard resin for prototypes with a smooth injection molding-like surface finish. What’s the best SLA material for functional prototypes? For functional prototypes, choose tough resin if stiffness is your main design requirement, durable resin for parts that need higher impact resistance or have moving parts and ceramic reinforced resin for parts with fine features. What temperatures can heat-resistant resin withstand? Heat-resistant resin can withstand temperatures above 200 degrees Celsius but is brittle. What SLA materials are safe for medical and dental applications? Class I biocompatible resins are suitable to come in external contact with the human body, while Class II biocompatible resins are suitable for short-term use devices. What are SLA materials and resins made of? While FDM raw materials come in spools of solid filament, SLA materials combine short chains of carbon molecules into lengthier chains to become hardened plastic, thanks to a photochemical process. These are photosensitive mixtures of oligomers and monomers that make up liquid resins.",
+  "published_at": "",
+  "requested_url": "https://www.hubs.com/knowledge-base/sla-3d-printing-materials-compared",
+  "schema_version": 2,
+  "sections": [
+    {
+      "hash": "c1ac2d52290157e524646092c33b4a657c18d770",
+      "heading": "What's the right resin for your application? Comparing 3D printing materials",
+      "level": "h2",
+      "text": "What's the right resin for your application? Comparing 3D printing materials The table below summarizes the basic mechanical properties of the common SLA materials."
+    },
+    {
+      "hash": "4f953268717edd7de69c30bb95e39934bdea362d",
+      "heading": "What materials are available for SLA 3D printing? What do SLA resins do best?",
+      "level": "h2",
+      "text": "What materials are available for SLA 3D printing? What do SLA resins do best? SLA uses a UV laser to cure liquid resin into hardened plastic in a process called photopolymerization. Different combinations of monomers, oligomers, photoinitiators, and other additives result in a wide range of material properties. SLA produces parts from thermoset polymers that are isotropic , meaning they have uniform strength and mechanical properties in all directions (X, Y, and Z). This is a key advantage over processes like FDM, where parts can be weaker along layer lines. As a result, engineers often choose SLA when consistent performance and reliability are critical. Here are the main benefits and limitations that are common to all SLA materials:"
+    },
+    {
+      "hash": "24d9c28b6893b349abee7600f862c74a2e407e4e",
+      "heading": "What are the standard SLA resins? Common 3D printing materials",
+      "level": "h2",
+      "text": "What are the standard SLA resins? Common 3D printing materials"
+    },
+    {
+      "hash": "5f56028daadf7075b9934a346998bef620cf3e38",
+      "heading": "Standard resin",
+      "level": "h3",
+      "text": "Standard resin Standard resins produce high-stiffness, high-resolution prints with a smooth injection molding-like finish. Their low cost makes them ideal for prototyping applications. The color of the resin affects its properties. For example, grey resin is better suited for parts with fine details, and white resin for parts that require a very smooth surface. Standard resin is ideal for concept modeling, rapid prototyping and using 3D printing for more artistic endeavors."
+    },
+    {
+      "hash": "b6093775128594b79dd765223ba0340f095f767f",
+      "heading": "Clear resin",
+      "level": "h3",
+      "text": "Clear resin Clear resin has similar mechanical properties to standard resin but can be post-processed to near optical transparency. More information on post-processing SLA parts can be found here . Clear resin is ideal for showcasing interior features, housings for LEDs and fluidic devices."
+    },
+    {
+      "hash": "dc221a76d39cc286246e5274a1998491dcaa24e1",
+      "heading": "What are engineering SLA resins? 3D printing materials for production",
+      "level": "h2",
+      "text": "What are engineering SLA resins? 3D printing materials for production Engineering resins simulate a range of injection-molded plastics to provide engineers with a wide choice of material properties for prototyping, testing and manufacturing. All engineering resins require post-curing under UV light to reach their maximum mechanical properties."
+    },
+    {
+      "hash": "ed1ee1bf34a8aa726e484ccc2479fe359df61572",
+      "heading": "Tough resin (ABS-like)",
+      "level": "h3",
+      "text": "Tough resin (ABS-like) Similar to ABS, tough resin was developed for applications requiring materials that can withstand high stress and strain. Parts printed in tough resin have tensile strength (55.7 MPa) and modulus of elasticity (2.7 GPa) comparable to ABS. This material will produce sturdy, shatter-resistant parts and functional prototypes, such as enclosures with snap-fit joints, or rugged prototypes. Tough resin is ideal for functional prototypes and mechanical assemblies."
+    },
+    {
+      "hash": "fff5f0eff96a4040ade98c65987942005b708562",
+      "heading": "Durable resin (PP-like)",
+      "level": "h3",
+      "text": "Durable resin (PP-like) Durable resin is a wear-resistant and flexible material with mechanical properties similar to Polypropylene (PP). Durable resin can be used for parts that require high flexibility (high elongation at break), low friction and a smooth surface finish. Durable resin is particularly fitting for prototyping consumer products, snap fits, ball joints and low-friction moving parts. This material is optimal for functional prototypes, consumer products, and low-friction and low-wear mechanical parts."
+    },
+    {
+      "hash": "9c0f65c14814862c704e55d79b1dc5bae1e63535",
+      "heading": "Heat-resistant resin",
+      "level": "h3",
+      "text": "Heat-resistant resin Heat-resistant resin is ideal for applications that require high thermal stability and the ability to operate at high temperatures. These resins have a heat deflection temperature between 200-300°C and are ideal for manufacturing heat-resistant fixtures, mold prototypes, hot air and fluid flow equipment, and casting and thermoforming tooling. Heat-resistant resin is ideal for mold prototyping, casting and thermoforming tooling."
+    },
+    {
+      "hash": "c6d2291b13c0b31cde9eb31b86314dd9e41d0338",
+      "heading": "Rubber-like resin (flexible)",
+      "level": "h3",
+      "text": "Rubber-like resin (flexible) Rubber-like resin allows engineers to simulate rubber parts that are soft to the touch. This material has a low tensile modulus and high elongation at break, and it is well-suited for objects that will be bent or compressed. It can also be used to add ergonomic features to multi-material assemblies<dynamic-value> packaging, stamps, wearable prototyping, handles, overmolding and grips. Rubber-like resin can produce parts with low hardness and high flexibility but lack the performance of true rubber. This material is ideal for wearables prototyping, multi-material assemblies, handles, grips and overmolding."
+    },
+    {
+      "hash": "300509cda3e3cb1b24becb496fbf3ee51b3b749b",
+      "heading": "Ceramic-filled resin (Rigid)",
+      "level": "h3",
+      "text": "Ceramic-filled resin (Rigid) Rigid resins are reinforced with glass or other ceramic particles and result in very stiff and rigid parts, with a very smooth surface finish. Rigid resins offer good thermal stability and heat resistance (Heat Deflection Temperature HDT @ 0.45MPa of 88°C). They have a high modulus of elasticity and lower creep (higher resistance to deformation over time) compared to other SLA resins but are more brittle than the tough and durable resins. Rigid resin is also suitable for parts with thin walls and small features (the recommended minimum wall thickness is 100 µm). It's ideal for molds and tooling, jigs, manifolds, fixtures, electrical application housings and automotive parts."
+    },
+    {
+      "hash": "e8b134c2b44eaf3b3373f77749659860ad404dfc",
+      "heading": "What are dental & medical SLA resins? 3D printing materials with biocompatibility",
+      "level": "h2",
+      "text": "What are dental & medical SLA resins? 3D printing materials with biocompatibility"
+    },
+    {
+      "hash": "e2231255f78d598fd343c358ffb90a5faa3258b3",
+      "heading": "Custom medical appliances resin (class I biocompatible)",
+      "level": "h3",
+      "text": "Custom medical appliances resin (class I biocompatible) Class I biocompatible resins can be used to produce custom medical equipment, such as surgical guides. Parts printed with these materials can be steam sterilized using an autoclave, making them suitable for direct use in the operating room. Depending on the application and workflow, other sterilization methods such as gamma radiation or chemical sterilization may also be considered. These materials are optimal for producing surgical aids and short-term medical appliances where accuracy and hygiene are critical."
+    },
+    {
+      "hash": "15b8f2c10a94305757b72f9035e81660b0c7b3e6",
+      "heading": "Dental long-term biocompatible resin (class IIa biocompatible)",
+      "level": "h3",
+      "text": "Dental long-term biocompatible resin (class IIa biocompatible) This resin is specifically engineered for long-term orthodontic and dental applications. Class IIa biocompatible resins can remain in contact with the human body for up to a year. They offer high resistance to fracture and wear, making them ideal for producing custom hard splints, retainers, and other long-term dental appliances. These materials are also compatible with standard sterilization protocols used in dental and medical environments, supporting safe and compliant use."
+    },
+    {
+      "hash": "0763b7f24abf4390133541419b77639e24073e61",
+      "heading": "What's the difference between Class I and Class IIa biocompatibility?",
+      "level": "h3",
+      "text": "What's the difference between Class I and Class IIa biocompatibility? Class I biocompatibility regulations refer to materials that are allowed to be used for: non-invasive devices that come in contact with intact skin appliances for transient use or short-term use in the oral or ear canal or in nasal cavities reusable surgical instruments Class IIa biocompatibility regulations refer to materials that are allowed to be used for: devices that come in contact with body fluids or open wounds devices used to administer or remove substances to and from the human body invasive short-term devices, such as invasive surgical elements long-term implantable devices placed in teeth"
+    },
+    {
+      "hash": "25d043d35c83d4cb29af2c0ce407da49b1fc78da",
+      "heading": "What are castable SLA resins?",
+      "level": "h2",
+      "text": "What are castable SLA resins?"
+    },
+    {
+      "hash": "d604e63593493b4c9cf7287ba886ff96fca0b23a",
+      "heading": "Castable resin for jewelry making",
+      "level": "h3",
+      "text": "Castable resin for jewelry making This material enables printed parts with sharp details and a smooth finish and will burn out cleanly without leaving ashes or residue. Castable resin allows the production of parts directly from a digital design to investment casting through a single 3D-printed part. They are suitable for jewelry and other small and intricate components. As the name suggests, this castable resin is great for investment casting and producing jewelry."
+    },
+    {
+      "hash": "02842b08377539be654ab1179cf41e1d947c4424",
+      "heading": "Frequently asked questions",
+      "level": "h2",
+      "text": "Frequently asked questions Frequently asked questions"
+    },
+    {
+      "hash": "f2a8ac580b0f57adb67c37f4071d6946f9bdf001",
+      "heading": "What’s the best SLA material for prototyping?",
+      "level": "h3",
+      "text": "What’s the best SLA material for prototyping? We recommend that you choose standard resin for prototypes with a smooth injection molding-like surface finish."
+    },
+    {
+      "hash": "29d93c714244a96896019f9c8f9c7e561149932f",
+      "heading": "What’s the best SLA material for functional prototypes?",
+      "level": "h3",
+      "text": "What’s the best SLA material for functional prototypes? For functional prototypes, choose tough resin if stiffness is your main design requirement, durable resin for parts that need higher impact resistance or have moving parts and ceramic reinforced resin for parts with fine features."
+    },
+    {
+      "hash": "35e6caa5fb4799aa7509bce4e3408ef77ca4614f",
+      "heading": "What temperatures can heat-resistant resin withstand?",
+      "level": "h3",
+      "text": "What temperatures can heat-resistant resin withstand? Heat-resistant resin can withstand temperatures above 200 degrees Celsius but is brittle."
+    },
+    {
+      "hash": "6887d447dba568fbdfe53559315119f081b6827b",
+      "heading": "What SLA materials are safe for medical and dental applications?",
+      "level": "h3",
+      "text": "What SLA materials are safe for medical and dental applications? Class I biocompatible resins are suitable to come in external contact with the human body, while Class II biocompatible resins are suitable for short-term use devices."
+    },
+    {
+      "hash": "9027500b6e7b6ccea8a28584d52e5f1cfd70b709",
+      "heading": "What are SLA materials and resins made of?",
+      "level": "h3",
+      "text": "What are SLA materials and resins made of? While FDM raw materials come in spools of solid filament, SLA materials combine short chains of carbon molecules into lengthier chains to become hardened plastic, thanks to a photochemical process. These are photosensitive mixtures of oligomers and monomers that make up liquid resins."
+    }
+  ],
+  "sitemap_lastmod": "2026-04-17T11:50:21+00:00",
+  "status": 200,
+  "structure_hash": "45cda4537cd0af9e5ffde02df810f4453d799927",
+  "text_excerpt": "SLA (Stereolithography) 3D printing can produce plastic parts with high resolution and accuracy, fine details and smooth surface finishes. Thanks to the variety of resins available for SLA , this manufacturing process is popular among many industries for a variety of applications. Standard resins, for instance, are often used for general prototyping and engineering resins are chosen for applications requiring specific mechanical and thermal properties. Dental and medical resins come with biocompatibility certifications, In this article, we explore the most common SLA material options to highlight the key advantages of each and give actionable guidelines to help you choose the right one for designing custom parts with SLA . What's the right resin for your application? Comparing 3D printing materials The table below summarizes the basic mechanical properties of the common SLA materials. Standard & Clear Tough Durable Heat resistant Ceramic reinforced IZOD impact strength (J/m) 25 38 109 14 N/A Elongation at break (%) 6.2 24 49 2.0 5.6 Tensile strength (MPa) 65.0 55.7 31.8 51.1 75.2 Tensile Modulus (GPa) 2.80 2.80 1.26 3.60 4.10 Flexural Modulus (GPa) 2.2 1.6 0.82 3.3 3.7 HDT @ 0.45...",
+  "text_hash": "7a12a453195afe0205458bc26f93614409437121",
+  "title": "What’s the right resin for SLA? 3D printing materials compared | Protolabs Network",
+  "url": "https://www.hubs.com/knowledge-base/sla-3d-printing-materials-compared"
+}

@@ -1,0 +1,101 @@
+{
+  "canonical": "https://www.protolabs.com/resources/blog/graduate-to-production-metal-3d-printing-with-enhanced-post-processing-and-quality-control",
+  "category": "content",
+  "competitor": "Protolabs",
+  "ctas": [
+    {
+      "href": "https://www.ge.com/additive/industry-overview",
+      "text": "GE Additive"
+    },
+    {
+      "href": "https://www.protolabs.com/ecom/get-a-quote",
+      "text": "Upload a part for metal 3D printing today"
+    }
+  ],
+  "discovered_via": "sitemap",
+  "fetched_at": "2026-08-17T03:49:12+00:00",
+  "final_url": "https://www.protolabs.com/resources/blog/graduate-to-production-metal-3d-printing-with-enhanced-post-processing-and-quality-control",
+  "first_seen_at": "2026-08-17T03:49:12+00:00",
+  "h1": "Graduate to Production: Metal 3D Printing with Enhanced Post Processing and Quality Control",
+  "headings": [
+    {
+      "level": "h1",
+      "text": "Graduate to Production: Metal 3D Printing with Enhanced Post Processing and Quality Control"
+    },
+    {
+      "level": "h3",
+      "text": "Enhance Additive Parts with Post-Process Machining"
+    },
+    {
+      "level": "h3",
+      "text": "Quality Control with Powder Analysis & Material Traceability"
+    },
+    {
+      "level": "h3",
+      "text": "Strengthen Parts with Heat Treatments and Mechanical Testing"
+    },
+    {
+      "level": "h3",
+      "text": "Quality Assurance with Inspection Reporting"
+    }
+  ],
+  "images": [
+    {
+      "alt": "DMLM post-process machining",
+      "src": "/media/1021100/post-process-machining-570x308.jpg?width=570&height=308&v=1d67c5247c391d0"
+    },
+    {
+      "alt": "DMLM combustion liner",
+      "src": "/media/1021104/dmlm-combust-liner.jpg?width=570&height=308&v=1d67c5e608b72d0"
+    },
+    {
+      "alt": "DMLM part inspection",
+      "src": "/media/1021102/dmls-inspection.jpg?width=570&height=308&v=1d67c52489ab7f0"
+    }
+  ],
+  "meta_description": "Graduate from prototype to production with post-process machining, powder analysis, heat treatment, and inspection reporting for metal 3D printing.",
+  "modified_at": "",
+  "monitored_text": "MFG 360 August 27, 2020 Graduate to Production: Metal 3D Printing with Enhanced Post Processing and Quality Control By Nicole Hopper Following a traditional manufacturing process, metal prototypes are commonly first produced for form, fit, and functional testing, often through CNC machining, before moving to other fabrication processes for higher quantities of end-use parts. Metal 3D printing for production shortcuts that process, producing parts that perform as well as—or even better than—their conventionally produced counterparts. One notable example embracing this technology is GE Aviation’s 3D-printed fuel nozzles , which allow for geometries too complex to create with traditional casting, while combining 20 parts into a single unit and reducing weight by 25%. In fact, Protolabs recently published a comprehensive guide that looks at using additive manufacturing to combine complex, multipart assemblies into single components, much like the fuel nozzles. And with the July arrival of GE Additive’s Concept Laser X Line 2000R direct metal laser melting (DMLM) machine—the world’s largest metal laser melting machine for large-scale functional parts, systems, and technical prototypes with repeatable material properties—large-format metal 3D printing for production has officially arrived. One element that elevates metal 3D printing to a higher production level is post processing, including post-build finishing options, material traceability, inspection reporting, and certifications to ensure high-quality parts that meet end-use, industry standards. Let’s take a look at some those options. Precision machining allows for tighter tolerances and enhanced surface finishes post-build than possible with DMLM alone. Enhance Additive Parts with Post-Process Machining Post-build CNC machining achieves the tighter tolerances needed for high-requirement parts, while also allowing for the design freedom of additive manufacturing. In general, DMLM can produce parts with tolerances of ±0.003 in. (0.076mm) plus ±0.001 in./in. (0.0254mm/mm) for each additional inch. Finishing parts with post-process CNC machining allows for even tighter tolerances, as tight as ±0.001 in. (0.0254mm/mm). As with most 3D printing processes, DMLM parts are removed from the build plate using wire EDM or a band saw, with leftover support structure material removed with hand tools. Post-build machining takes that process one step further for critical features requiring tighter tolerances. Additionally, post-process machining can also be used to enhance surface finishes. Standard surface finish roughness on 3D-printed metal parts ranges 200-400 µin Ra, depending on orientation, material, and layer thickness. Post-process machining can achieve a surface finish of up to 63 µin Ra. The added precision of CNC machining lends itself well to producing precise holes and threading. DMLM’s ability to build intricate geometries and lightweight designs makes is popular for aviation and aerospace applications, such as this combustion liner additively manufactured on GE Additive’s X Line 2000R. Quality Control with Powder Analysis & Material Traceability Similar to other powder bed 3D printing technologies, DMLM builds parts one layer at a time by melting metallic powder with a high-powered laser aimed into the powder bed. As highly regulated industries including aerospace , aviation, and medical adopt 3D printing as an end-use manufacturing process, analysis and traceability of this powder material becomes important. Material quality control starts before the build process even begins, by sourcing material per its ASTM standard and practicing single-lot tracking. Frequent powder testing after the material has been sourced ensures adherence to chemical composition defined by the ASTM document. In addition to following these processes, Protolabs also test particle size distribution and will supply an analysis of source powder with traceability to the supplier and mechanical coupon testing. Strengthen Parts with Heat Treatments and Mechanical Testing Heat treating metal parts eliminates stress and potential warping and makes them less prone to cracking and fatigue. The heat treating process hardens and strengthens parts, providing a tougher and more durable end-use product. Common techniques include stress relief treatment, hot isostatic pressing (HIP), solution annealing, and aging. The rapid heating and cooling that happens during the DMLM process could build up internal stresses. So, every DMLM part that Protolabs produces undergoes a stress relief treatment per the ASTM 3301 standard. Moving to specialized heat treatments, HIP drives out any remaining internal microporosity and provides another level of control to reduce failure. The process works by applying high heat and uniform pressure to fully solidify the part, a common requirement for aerospace applications. Annealing is another heat treatment option for production-grade DMLM parts. This process heats the piece to a high temperature and then rapidly cools it, which changes the actual microstructure of the part and improves ductility. Aging enhances the parts’ fatigue strength, making it comparable to a wrought material. Mechanical testing can be performed post-process to ensure mechanical requirements on production parts are met. This tests for tensile strength, Rockwell Hardness, fatigue, and vibration. Quality Assurance with Inspection Reporting For extra assurance that your high-requirement part measures up to exacting standards, a number of quality inspection options are provided to evaluate part geometry and material structure, provide dimensional validation, verify that part features are within tolerance, and examine internal features. Depending on your specific part and considerations, this can be achieved through coordinate measurement machines (CMM), optical, CT scanning, and/or X-ray. Quality reporting and certification help verify your part according to industry standards, which is key in sectors with industry-specific requirements and high safety considerations<dynamic-value> aviation and aerospace. Digital quality inspections validate geometry, structure, and dimensions to ensure every part meets specifications and quality standards. As metal-focused GE Additive notes \"Aviation and aerospace are two of the pioneering sectors for additive manufacturing. These products are renowned for having very long life cycles…and extremely high safety requirements. High levels of thermal or mechanical loading, especially during take-off and landing or if there is air turbulence, are one of the special features of the requirements profiles for most components.\" These high safety and quality standards are regulated through AS9100, the international management standard for the aircraft, space, and defense industries. The standard provides suppliers with a comprehensive quality system for providing safe and reliable products to aerospace and military entities. At Protoabs, for example, the digital manufacturer has AS9102 reporting for DMLM production parts with first article inspection (FAI) in accordance with the AS9100 quality management system . This inspection verifies that final parts comply with the original drawing, purchase order, and other specifications as noted. Altogether, post-processing for metal 3D printing improves dimensional accuracy, surface roughness, and mechanical properties. Producing quality parts goes beyond sending a CAD file to the machine and initiating the build, and additional post-processing provides advanced options for high-requirement, end-use parts. Ready to give metal 3D printing a try for your next production project? Upload a part for metal 3D printing today . Not quite ready? Consider GE Additive AddWorks for design help . Protolabs and GE Additive AddWorks have collaborated to offer you both design and manufacturing expertise that can be leveraged to help you get to final parts faster. AddWorks can help you define your additive business case to fast track your project with design support. And when you’re ready, Protolabs is waiting to take you to the finish line with prototypes or production parts. Tagged: 3D Printing, metal 3D printing, DMLS, DMLM, aerospace, aviation, medical",
+  "published_at": "",
+  "requested_url": "https://www.protolabs.com/resources/blog/graduate-to-production-metal-3d-printing-with-enhanced-post-processing-and-quality-control",
+  "schema_version": 2,
+  "sections": [
+    {
+      "hash": "bc90285a67f81d5d42e4b4c71e29d3c5ddbf4136",
+      "heading": "Graduate to Production: Metal 3D Printing with Enhanced Post Processing and Quality Control",
+      "level": "h1",
+      "text": "Graduate to Production: Metal 3D Printing with Enhanced Post Processing and Quality Control By Nicole Hopper MFG 360 August 27, 2020 Graduate to Production: Metal 3D Printing with Enhanced Post Processing and Quality Control By Nicole Hopper"
+    },
+    {
+      "hash": "edd7471c357e71ed322c9f861caaff9db55e885a",
+      "heading": "Enhance Additive Parts with Post-Process Machining",
+      "level": "h3",
+      "text": "Enhance Additive Parts with Post-Process Machining Post-build CNC machining achieves the tighter tolerances needed for high-requirement parts, while also allowing for the design freedom of additive manufacturing. In general, DMLM can produce parts with tolerances of ±0.003 in. (0.076mm) plus ±0.001 in./in. (0.0254mm/mm) for each additional inch. Finishing parts with post-process CNC machining allows for even tighter tolerances, as tight as ±0.001 in. (0.0254mm/mm). As with most 3D printing processes, DMLM parts are removed from the build plate using wire EDM or a band saw, with leftover support structure material removed with hand tools. Post-build machining takes that process one step further for critical features requiring tighter tolerances. Additionally, post-process machining can also be used to enhance surface finishes. Standard surface finish roughness on 3D-printed metal parts ranges 200-400 µin Ra, depending on orientation, material, and layer thickness. Post-process machining can achieve a surface finish of up to 63 µin Ra. The added precision of CNC machining lends itself well to producing precise holes and threading."
+    },
+    {
+      "hash": "d6c237e051b2a18eae772f6180921a3228b6fb21",
+      "heading": "Quality Control with Powder Analysis & Material Traceability",
+      "level": "h3",
+      "text": "Quality Control with Powder Analysis & Material Traceability Similar to other powder bed 3D printing technologies, DMLM builds parts one layer at a time by melting metallic powder with a high-powered laser aimed into the powder bed. As highly regulated industries including aerospace , aviation, and medical adopt 3D printing as an end-use manufacturing process, analysis and traceability of this powder material becomes important. Material quality control starts before the build process even begins, by sourcing material per its ASTM standard and practicing single-lot tracking. Frequent powder testing after the material has been sourced ensures adherence to chemical composition defined by the ASTM document. In addition to following these processes, Protolabs also test particle size distribution and will supply an analysis of source powder with traceability to the supplier and mechanical coupon testing."
+    },
+    {
+      "hash": "82b44255a092d583e90b6bc9b631d3dba1a8d9a7",
+      "heading": "Strengthen Parts with Heat Treatments and Mechanical Testing",
+      "level": "h3",
+      "text": "Strengthen Parts with Heat Treatments and Mechanical Testing Heat treating metal parts eliminates stress and potential warping and makes them less prone to cracking and fatigue. The heat treating process hardens and strengthens parts, providing a tougher and more durable end-use product. Common techniques include stress relief treatment, hot isostatic pressing (HIP), solution annealing, and aging. The rapid heating and cooling that happens during the DMLM process could build up internal stresses. So, every DMLM part that Protolabs produces undergoes a stress relief treatment per the ASTM 3301 standard. Moving to specialized heat treatments, HIP drives out any remaining internal microporosity and provides another level of control to reduce failure. The process works by applying high heat and uniform pressure to fully solidify the part, a common requirement for aerospace applications. Annealing is another heat treatment option for production-grade DMLM parts. This process heats the piece to a high temperature and then rapidly cools it, which changes the actual microstructure of the part and improves ductility. Aging enhances the parts’ fatigue strength, making it comparable to a wro..."
+    },
+    {
+      "hash": "8355f5e1b9faf79bd0d61a563a2a567ac4e51501",
+      "heading": "Quality Assurance with Inspection Reporting",
+      "level": "h3",
+      "text": "Quality Assurance with Inspection Reporting For extra assurance that your high-requirement part measures up to exacting standards, a number of quality inspection options are provided to evaluate part geometry and material structure, provide dimensional validation, verify that part features are within tolerance, and examine internal features. Depending on your specific part and considerations, this can be achieved through coordinate measurement machines (CMM), optical, CT scanning, and/or X-ray. Quality reporting and certification help verify your part according to industry standards, which is key in sectors with industry-specific requirements and high safety considerations<dynamic-value> aviation and aerospace. Digital quality inspections validate geometry, structure, and dimensions to ensure every part meets specifications and quality standards. As metal-focused GE Additive notes \"Aviation and aerospace are two of the pioneering sectors for additive manufacturing. These products are renowned for having very long life cycles…and extremely high safety requirements. High levels of thermal or mechanical loading, especially during take-off and landing or if there is air turbulence, ar..."
+    }
+  ],
+  "sitemap_lastmod": "2025-08-22T14:38:00+00:00",
+  "status": 200,
+  "structure_hash": "b590f020f165225825f5ae7c5365469c27e31016",
+  "text_excerpt": "MFG 360 August 27, 2020 Graduate to Production: Metal 3D Printing with Enhanced Post Processing and Quality Control By Nicole Hopper Following a traditional manufacturing process, metal prototypes are commonly first produced for form, fit, and functional testing, often through CNC machining, before moving to other fabrication processes for higher quantities of end-use parts. Metal 3D printing for production shortcuts that process, producing parts that perform as well as—or even better than—their conventionally produced counterparts. One notable example embracing this technology is GE Aviation’s 3D-printed fuel nozzles , which allow for geometries too complex to create with traditional casting, while combining 20 parts into a single unit and reducing weight by 25%. In fact, Protolabs recently published a comprehensive guide that looks at using additive manufacturing to combine complex, multipart assemblies into single components, much like the fuel nozzles. And with the July arrival of GE Additive’s Concept Laser X Line 2000R direct metal laser melting (DMLM) machine—the world’s largest metal laser melting machine for large-scale functional parts, systems, and technical prototypes...",
+  "text_hash": "0d5df826463bb0be0e1bcf4dc5424ff49bf90a06",
+  "title": "Metal 3D Printing with Enhanced Post Processing & Quality Control",
+  "url": "https://www.protolabs.com/resources/blog/graduate-to-production-metal-3d-printing-with-enhanced-post-processing-and-quality-control"
+}

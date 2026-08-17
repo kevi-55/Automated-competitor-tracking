@@ -1,0 +1,223 @@
+{
+  "canonical": "https://www.hubs.com/knowledge-base/heat-treatments-cnc-machined-parts",
+  "category": "content",
+  "competitor": "Hubs",
+  "ctas": [
+    {
+      "href": "https://www.hubs.com/cnc-machining?_gl=1%2A10m2rit%2A_up%2AMQ..%2A_ga%2AMTYxODg0OTQxNi4xNzQ5NTU5MTQz%2A_ga_T960KNB2NB%2AczE3NDk1NTkxNDIkbzEkZzAkdDE3NDk1NTkxNDIkajYwJGwwJGgxMjcwODM5NzY3",
+      "text": "CNC machining order"
+    },
+    {
+      "href": "https://www.hubs.com/manufacture",
+      "text": "Upload your design for a free, instant quote"
+    }
+  ],
+  "discovered_via": "sitemap",
+  "fetched_at": "2026-08-17T03:42:46+00:00",
+  "final_url": "https://www.hubs.com/knowledge-base/heat-treatments-cnc-machined-parts",
+  "first_seen_at": "2026-08-17T03:42:46+00:00",
+  "h1": "",
+  "headings": [
+    {
+      "level": "h2",
+      "text": "What is heat treatment in CNC machining?"
+    },
+    {
+      "level": "h2",
+      "text": "When should you apply heat treatments to metal parts?"
+    },
+    {
+      "level": "h3",
+      "text": "Before CNC machining"
+    },
+    {
+      "level": "h3",
+      "text": "After CNC machining"
+    },
+    {
+      "level": "h2",
+      "text": "What are common heat treatments for CNC materials?"
+    },
+    {
+      "level": "h3",
+      "text": "Annealing, stress relieving & tempering"
+    },
+    {
+      "level": "h3",
+      "text": "Quenching"
+    },
+    {
+      "level": "h3",
+      "text": "Precipitation hardening (aging)"
+    },
+    {
+      "level": "h3",
+      "text": "Case hardening & carburizing"
+    },
+    {
+      "level": "h2",
+      "text": "How to specify a heat treatment on CNC orders with Protolabs Network"
+    },
+    {
+      "level": "h3",
+      "text": "Specify the required hardness"
+    },
+    {
+      "level": "h3",
+      "text": "Specify the heat treatment cycle"
+    },
+    {
+      "level": "h2",
+      "text": "Frequently asked questions"
+    },
+    {
+      "level": "h3",
+      "text": "What are the different types of heat treatment?"
+    },
+    {
+      "level": "h3",
+      "text": "What’s the purpose of heat treatment?"
+    },
+    {
+      "level": "h3",
+      "text": "What are the different types of annealing?"
+    },
+    {
+      "level": "h3",
+      "text": "What are the advantages and disadvantages of heat treatment?"
+    },
+    {
+      "level": "h3",
+      "text": "How do you specify heat treatment for CNC parts on the Protolabs Network platform?"
+    }
+  ],
+  "images": [
+    {
+      "alt": "CNC machining, 3D printing and sheet metal fabrication parts",
+      "src": "/images/trans.gif"
+    }
+  ],
+  "meta_description": "What are the different types of heat treatment and how do they affect CNC-machined parts? This article explores how heat treatments can be applied to many metal alloys to drastically improve key physical properties like hardness, strength and machinability.",
+  "modified_at": "",
+  "monitored_text": "Heat treatment is a key process that enhances the quality of CNC-machined metal parts by altering their physical properties. But what exactly is heat treatment, and how does it affect different metal alloys used in CNC machining? Heat treatment involves heating metal alloys to specific, often high, temperatures, followed by controlled cooling. The temperature achieved, duration of heating, and rate of cooling are critical factors that influence the final hardness, strength, and machinability of the metal. These improvements are due to changes in the material’s microstructure and, at times, its chemical composition. This article examines the various types of heat treatment commonly applied to metals in CNC machining . Understanding these processes will help in selecting the right materials and treatment methods to enhance the durability, performance, and manufacturing efficiency of your parts. Learn how to design better, more cost-efficient parts for CNC machining? Our CNC design guidelines Tips for reducing CNC costs What is heat treatment in CNC machining? Heat treatment is an essential step in the CNC machining process for metal parts. This process involves the controlled heating and cooling of materials to achieve specific material properties. Heat treatment modifies critical properties of metals, such as hardness, strength, toughness, and ductility. The selection of the appropriate heat treatment method is influenced by factors like material composition, the size of the part, and the desired final properties. The primary aim is to attain a specific microstructure that imparts the necessary characteristics to your machined parts. By understanding these variables, you can ensure optimal results in CNC machining through effective heat treatment. When should you apply heat treatments to metal parts? Heat treatments can be applied to metal alloys at different stages in the CNC machining process, either before or after machining. The timing of the heat treatment is determined by the desired properties and the specific requirements of the project. Before CNC machining Applying heat treatment before CNC machining is beneficial when a standardized grade of metal alloy is needed, and stock materials are readily available. By using pre-heated material, CNC service providers can machine parts directly from these stocks, which can effectively reduce lead times and enhance efficiency. After CNC machining Applying heat treatment after CNC machining is advantageous when the process aims to harden the material or serve as a finishing step. This approach is essential for materials that become significantly harder after heat treatment, which can reduce machinability. For instance, it is standard practice to apply heat treatment to tool steel parts after CNC machining to enhance durability and performance. What are common heat treatments for CNC materials? Annealing, stress relieving & tempering Annealing, stress relieving, and tempering are critical heat treatments that involve heating a metal alloy to a high temperature followed by slow cooling, typically in air or an oven. These processes differ in the temperature reached and their sequence in the manufacturing process. Annealing involves heating the metal to a very high temperature and then slowly cooling it to achieve the desired microstructure. This process is usually applied to all metal alloys after forming and before any further machining to soften the material and improve its machinability. In the absence of additional specified heat treatments, most CNC-machined parts will possess the material properties characteristic of the annealed state. Stress relieving heats the metal to a high temperature, though lower than that used for annealing. This treatment is typically applied after CNC machining to eliminate residual stresses introduced during manufacturing. As a result, parts with more consistent mechanical properties are produced. Tempering involves heating the material at a temperature lower than that used in annealing. It is often employed after the quenching of mild steels (such as 1045 and A36) and alloy steels (like 4140 and 4240). This process reduces brittleness and enhances the mechanical performance of the metal. Heat treatment Purpose Compatible materials Annealing To improve the machinability of the metal alloy All metal alloys Stress relieving To release residual stresses from mechanical deformation or temperature increase during processing All metal alloys Tempering To reduce brittleness after quenching Mild steels (1045, A36) Alloy steels (4140, 4240) Tool steels (A2) Quenching Quenching is an important heat treatment process that involves heating the metal to a high temperature followed by rapid cooling, typically using oil, water, or a stream of cool air. This rapid cooling locks in the changes within the metal's microstructure that occur during heating, resulting in components with exceptionally high hardness. In CNC machining, quenching is often the final step after machining operations, as the increased hardness of the material can make further machining difficult. This process is reminiscent of the traditional practice where blacksmiths submerge hot metal in oil to cool it quickly. Tool steels undergo quenching after CNC machining to achieve their distinctive high surface hardness properties. After quenching, a tempering process might be applied to adjust and control the desired hardness level. For instance, Tool Steel A2 has a hardness of 63-65 Rockwell C post-quenching but can be tempered to attain a hardness ranging from 42 to 62 HRC. Tempering helps extend the service life of metal parts by reducing brittleness, with optimal results typically seen with a hardness of 56-58 HRC. Heat treatment Purpose Compatible materials Quenching To increase the hardness of the metal alloy Mild steels (1045, A36) Alloy steels (4140, 4240) Tool steels (D2, A2, O1) Precipitation hardening (aging) Precipitation hardening, also known as aging, is a heat treatment process that enhances the strength and hardness of metal alloys. This process involves three key steps: first, the material is heated to an elevated temperature; then it is rapidly cooled (quenched); and finally, it is heated to a lower temperature for an extended period (aged). During aging, alloying elements initially present as discrete particles dissolve and redistribute uniformly within the metal matrix, similar to how sugar crystals dissolve more uniformly in heated water. This treatment significantly boosts the strength and hardness of metal alloys. For example, aluminum alloy 7075, commonly used in aerospace applications, can achieve tensile strength similar to that of stainless steel while weighing less than a third as much. The effects of precipitation hardening on aluminum 7075 are highlighted in the following table: Aluminum 7075-0 (tempered) Aluminum 7075-T6 (precipitation hardened) Ultimate Tensile Strength 280 MPa 510–540 MPa Yield Strength 140 MPa 430–480 MPa Elongation at Break 9-10% 5–11% Hardness (HV) 68 175 Not all metals are suitable for heat treatment through precipitation hardening, but those that are compatible are often classified as superalloys. These materials are ideal for high-performance applications due to their enhanced strength and durability. Below is a summary of the most common precipitation hardening alloys used in CNC machining: Heat treatment Purpose Compatible materials Precipitation hardening (aging) To increase the hardness & strength of the metal alloy Aluminum alloys (6061-T6, 6068-T6, 7075-T6) Stainless steel (17-4) Case hardening & carburizing Case hardening is a group of heat treatment processes that enhance surface hardness while maintaining a relatively soft core material. This approach is often preferred over uniformly increasing the hardness of the entire part, as harder parts tend to be more brittle. Carburizing is the most common method of case hardening. It involves heating mild steels in a carbon-rich environment, followed by quenching to trap the carbon within the metal matrix. This process significantly increases the surface hardness of steel, akin to how anodizing enhances the surface hardness of CNC machined aluminum parts . Heat treatment Purpose Compatible materials Case hardening & carburizing To increase the surface hardness of the metal part, while keeping the core soft Mild steels (1018, A36) How to specify a heat treatment on CNC orders with Protolabs Network When placing a CNC machining order with Protolabs Network, you have several options for requesting a heat treatment: Reference to a manufacturing standard: Many heat treatments follow established standards. For example, the \"T6\" designation in aluminum alloys like 6061-T6 and 7075-T6 signifies that the material has undergone precipitation hardening. Referring to such standards ensures clarity and consistency in the heat treatment process. Specify the required hardness Specifying the required hardness is a common method for guiding the heat treatment of tool steels and case-hardened parts. By indicating the desired hardness level, you provide the manufacturer with the information needed to perform the appropriate heat treatment after CNC machining. For example, when working with D2 tool steel, a typical specification might be a hardness range of 56-58 HRC. Specify the heat treatment cycle If you are aware of the precise heat treatment cycle required for your application, you can provide these details to your supplier when placing your CNC order. This enables specific modifications to the material properties to meet your exact specifications. However, detailing this process requires advanced metallurgical knowledge. Rest assured, we are here to assist with these specifications to ensure optimal results for your project. Did you know we offer local sourcing for CNC machining? Upload your design for a free, instant quote Subscribe Get the latest manufacturing news delivered to your mailbox. Sign up for our newsletter Sign me up Please enter a valid email address. Leave this field empty Thanks! You're now subscribed to our newsletter. Frequently asked questions What are the different types of heat treatment? There are four common methods for heat treatment, which include annealing, hardening, quenching and stress relieving. What’s the purpose of heat treatment? Heat treatment modifies the microstructure of metals and alloys, offering multiple benefits to CNC-machined parts. It enhances surface hardness, strength, ductility, and temperature resistance. What are the different types of annealing? There are seven types of annealing: complete, isothermal, incomplete, spherification, diffusion (uniform), stress relieving, and recrystallization annealing. Annealing can enhance machinability and improve the electrical and magnetic properties of a part. What are the advantages and disadvantages of heat treatment? Heat treatment offers several advantages for CNC-machined parts, such as enhancing mechanical and chemical properties, and reducing stress and distortion. However, there are also disadvantages, including increased costs, surface oxidation, and potential contamination. How do you specify heat treatment for CNC parts on the Protolabs Network platform? When placing a CNC machining order, you can specify a heat treatment under “Custom requirement.” This can be done by referencing a specific material temper, providing a hardness specification, or detailing a treatment cycle. Our mechanical engineers will review the additional specifications and may adjust the pricing accordingly.",
+  "published_at": "",
+  "requested_url": "https://www.hubs.com/knowledge-base/heat-treatments-cnc-machined-parts",
+  "schema_version": 2,
+  "sections": [
+    {
+      "hash": "b61598e8023d31a35acb62e96d30535416d15d15",
+      "heading": "What is heat treatment in CNC machining?",
+      "level": "h2",
+      "text": "What is heat treatment in CNC machining? Heat treatment is an essential step in the CNC machining process for metal parts. This process involves the controlled heating and cooling of materials to achieve specific material properties. Heat treatment modifies critical properties of metals, such as hardness, strength, toughness, and ductility. The selection of the appropriate heat treatment method is influenced by factors like material composition, the size of the part, and the desired final properties. The primary aim is to attain a specific microstructure that imparts the necessary characteristics to your machined parts. By understanding these variables, you can ensure optimal results in CNC machining through effective heat treatment."
+    },
+    {
+      "hash": "dffa1629056bd45e47b919448b09bcbe7bae2afc",
+      "heading": "When should you apply heat treatments to metal parts?",
+      "level": "h2",
+      "text": "When should you apply heat treatments to metal parts? Heat treatments can be applied to metal alloys at different stages in the CNC machining process, either before or after machining. The timing of the heat treatment is determined by the desired properties and the specific requirements of the project."
+    },
+    {
+      "hash": "3c50b324a2972bcfb7ff946637430fc8d46103ef",
+      "heading": "Before CNC machining",
+      "level": "h3",
+      "text": "Before CNC machining Applying heat treatment before CNC machining is beneficial when a standardized grade of metal alloy is needed, and stock materials are readily available. By using pre-heated material, CNC service providers can machine parts directly from these stocks, which can effectively reduce lead times and enhance efficiency."
+    },
+    {
+      "hash": "be2d437edadd3e402ea7f7f1a93f3f138f4e99ea",
+      "heading": "After CNC machining",
+      "level": "h3",
+      "text": "After CNC machining Applying heat treatment after CNC machining is advantageous when the process aims to harden the material or serve as a finishing step. This approach is essential for materials that become significantly harder after heat treatment, which can reduce machinability. For instance, it is standard practice to apply heat treatment to tool steel parts after CNC machining to enhance durability and performance."
+    },
+    {
+      "hash": "795441583c27b7b85c82353bfd69337c4880a0c0",
+      "heading": "What are common heat treatments for CNC materials?",
+      "level": "h2",
+      "text": "What are common heat treatments for CNC materials?"
+    },
+    {
+      "hash": "dc78cbcddd6de8e85b723a136df6db0a097c4b3d",
+      "heading": "Annealing, stress relieving & tempering",
+      "level": "h3",
+      "text": "Annealing, stress relieving & tempering Annealing, stress relieving, and tempering are critical heat treatments that involve heating a metal alloy to a high temperature followed by slow cooling, typically in air or an oven. These processes differ in the temperature reached and their sequence in the manufacturing process. Annealing involves heating the metal to a very high temperature and then slowly cooling it to achieve the desired microstructure. This process is usually applied to all metal alloys after forming and before any further machining to soften the material and improve its machinability. In the absence of additional specified heat treatments, most CNC-machined parts will possess the material properties characteristic of the annealed state. Stress relieving heats the metal to a high temperature, though lower than that used for annealing. This treatment is typically applied after CNC machining to eliminate residual stresses introduced during manufacturing. As a result, parts with more consistent mechanical properties are produced. Tempering involves heating the material at a temperature lower than that used in annealing. It is often employed after the quenching of mild st..."
+    },
+    {
+      "hash": "0f896cf1107db24b997cf718fcc056188c62d84b",
+      "heading": "Quenching",
+      "level": "h3",
+      "text": "Quenching Quenching is an important heat treatment process that involves heating the metal to a high temperature followed by rapid cooling, typically using oil, water, or a stream of cool air. This rapid cooling locks in the changes within the metal's microstructure that occur during heating, resulting in components with exceptionally high hardness. In CNC machining, quenching is often the final step after machining operations, as the increased hardness of the material can make further machining difficult. This process is reminiscent of the traditional practice where blacksmiths submerge hot metal in oil to cool it quickly. Tool steels undergo quenching after CNC machining to achieve their distinctive high surface hardness properties. After quenching, a tempering process might be applied to adjust and control the desired hardness level. For instance, Tool Steel A2 has a hardness of 63-65 Rockwell C post-quenching but can be tempered to attain a hardness ranging from 42 to 62 HRC. Tempering helps extend the service life of metal parts by reducing brittleness, with optimal results typically seen with a hardness of 56-58 HRC."
+    },
+    {
+      "hash": "1281b32fc0e54e0413a04982d419d27476ddf2c7",
+      "heading": "Precipitation hardening (aging)",
+      "level": "h3",
+      "text": "Precipitation hardening (aging) Precipitation hardening, also known as aging, is a heat treatment process that enhances the strength and hardness of metal alloys. This process involves three key steps: first, the material is heated to an elevated temperature; then it is rapidly cooled (quenched); and finally, it is heated to a lower temperature for an extended period (aged). During aging, alloying elements initially present as discrete particles dissolve and redistribute uniformly within the metal matrix, similar to how sugar crystals dissolve more uniformly in heated water. This treatment significantly boosts the strength and hardness of metal alloys. For example, aluminum alloy 7075, commonly used in aerospace applications, can achieve tensile strength similar to that of stainless steel while weighing less than a third as much. The effects of precipitation hardening on aluminum 7075 are highlighted in the following table:"
+    },
+    {
+      "hash": "70237f8f2a9f3c0007aad4823355e75d3af44fab",
+      "heading": "Case hardening & carburizing",
+      "level": "h3",
+      "text": "Case hardening & carburizing Case hardening is a group of heat treatment processes that enhance surface hardness while maintaining a relatively soft core material. This approach is often preferred over uniformly increasing the hardness of the entire part, as harder parts tend to be more brittle. Carburizing is the most common method of case hardening. It involves heating mild steels in a carbon-rich environment, followed by quenching to trap the carbon within the metal matrix. This process significantly increases the surface hardness of steel, akin to how anodizing enhances the surface hardness of CNC machined aluminum parts ."
+    },
+    {
+      "hash": "40f3eb341c909d1e721a8fb57b60680a4a5a5627",
+      "heading": "How to specify a heat treatment on CNC orders with Protolabs Network",
+      "level": "h2",
+      "text": "How to specify a heat treatment on CNC orders with Protolabs Network When placing a CNC machining order with Protolabs Network, you have several options for requesting a heat treatment: Reference to a manufacturing standard: Many heat treatments follow established standards. For example, the \"T6\" designation in aluminum alloys like 6061-T6 and 7075-T6 signifies that the material has undergone precipitation hardening. Referring to such standards ensures clarity and consistency in the heat treatment process."
+    },
+    {
+      "hash": "9bc99728c2a8c97503d0af0899424d86f5fb4f64",
+      "heading": "Specify the required hardness",
+      "level": "h3",
+      "text": "Specify the required hardness Specifying the required hardness is a common method for guiding the heat treatment of tool steels and case-hardened parts. By indicating the desired hardness level, you provide the manufacturer with the information needed to perform the appropriate heat treatment after CNC machining. For example, when working with D2 tool steel, a typical specification might be a hardness range of 56-58 HRC."
+    },
+    {
+      "hash": "d36966fb2434e809f266bc386f34b063701c479b",
+      "heading": "Specify the heat treatment cycle",
+      "level": "h3",
+      "text": "Specify the heat treatment cycle If you are aware of the precise heat treatment cycle required for your application, you can provide these details to your supplier when placing your CNC order. This enables specific modifications to the material properties to meet your exact specifications. However, detailing this process requires advanced metallurgical knowledge. Rest assured, we are here to assist with these specifications to ensure optimal results for your project."
+    },
+    {
+      "hash": "02842b08377539be654ab1179cf41e1d947c4424",
+      "heading": "Frequently asked questions",
+      "level": "h2",
+      "text": "Frequently asked questions Frequently asked questions"
+    },
+    {
+      "hash": "205c49b7eaf76be4e4c99d7feef5d0d6cb134e1d",
+      "heading": "What are the different types of heat treatment?",
+      "level": "h3",
+      "text": "What are the different types of heat treatment? There are four common methods for heat treatment, which include annealing, hardening, quenching and stress relieving."
+    },
+    {
+      "hash": "91ad112d13a02d8b08e50f6d79e5a6e2cb27fafa",
+      "heading": "What’s the purpose of heat treatment?",
+      "level": "h3",
+      "text": "What’s the purpose of heat treatment? Heat treatment modifies the microstructure of metals and alloys, offering multiple benefits to CNC-machined parts. It enhances surface hardness, strength, ductility, and temperature resistance."
+    },
+    {
+      "hash": "a9f3a47937c512a264ac7204dd22e7c206aa41d2",
+      "heading": "What are the different types of annealing?",
+      "level": "h3",
+      "text": "What are the different types of annealing? There are seven types of annealing: complete, isothermal, incomplete, spherification, diffusion (uniform), stress relieving, and recrystallization annealing. Annealing can enhance machinability and improve the electrical and magnetic properties of a part."
+    },
+    {
+      "hash": "c23e1cfd902317d8b44803131f72823978e32c04",
+      "heading": "What are the advantages and disadvantages of heat treatment?",
+      "level": "h3",
+      "text": "What are the advantages and disadvantages of heat treatment? Heat treatment offers several advantages for CNC-machined parts, such as enhancing mechanical and chemical properties, and reducing stress and distortion. However, there are also disadvantages, including increased costs, surface oxidation, and potential contamination."
+    },
+    {
+      "hash": "8b77b2b55d558746b2d8c78fdbdb604d98b54944",
+      "heading": "How do you specify heat treatment for CNC parts on the Protolabs Network platform?",
+      "level": "h3",
+      "text": "How do you specify heat treatment for CNC parts on the Protolabs Network platform? When placing a CNC machining order, you can specify a heat treatment under “Custom requirement.” This can be done by referencing a specific material temper, providing a hardness specification, or detailing a treatment cycle. Our mechanical engineers will review the additional specifications and may adjust the pricing accordingly."
+    }
+  ],
+  "sitemap_lastmod": "2025-07-28T13:38:28+00:00",
+  "status": 200,
+  "structure_hash": "9fb140525f4f4f014ff7fdc5bb994486ffc74198",
+  "text_excerpt": "Heat treatment is a key process that enhances the quality of CNC-machined metal parts by altering their physical properties. But what exactly is heat treatment, and how does it affect different metal alloys used in CNC machining? Heat treatment involves heating metal alloys to specific, often high, temperatures, followed by controlled cooling. The temperature achieved, duration of heating, and rate of cooling are critical factors that influence the final hardness, strength, and machinability of the metal. These improvements are due to changes in the material’s microstructure and, at times, its chemical composition. This article examines the various types of heat treatment commonly applied to metals in CNC machining . Understanding these processes will help in selecting the right materials and treatment methods to enhance the durability, performance, and manufacturing efficiency of your parts. Learn how to design better, more cost-efficient parts for CNC machining? Our CNC design guidelines Tips for reducing CNC costs What is heat treatment in CNC machining? Heat treatment is an essential step in the CNC machining process for metal parts. This process involves the controlled heatin...",
+  "text_hash": "1abea29f9472dc7367c91c475bfb19e439753468",
+  "title": "What is heat treatment and how does it improve CNC-machined parts? | Protolabs Network",
+  "url": "https://www.hubs.com/knowledge-base/heat-treatments-cnc-machined-parts"
+}

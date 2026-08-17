@@ -1,0 +1,219 @@
+{
+  "canonical": "https://www.protolabs.com/resources/design-tips/balancing-cnc-machining-and-3d-printing-for-metal-parts",
+  "category": "content",
+  "competitor": "Protolabs",
+  "ctas": [
+    {
+      "href": "https://www.protolabs.com/ecom/get-a-quote",
+      "text": "Get a Quote"
+    }
+  ],
+  "discovered_via": "sitemap",
+  "fetched_at": "2026-08-17T03:48:41+00:00",
+  "final_url": "https://www.protolabs.com/resources/design-tips/balancing-cnc-machining-and-3d-printing-for-metal-parts",
+  "first_seen_at": "2026-08-17T03:48:41+00:00",
+  "h1": "CNC Machining vs. Metal 3D Printing for Metal Parts",
+  "headings": [
+    {
+      "level": "h1",
+      "text": "CNC Machining vs. Metal 3D Printing for Metal Parts"
+    },
+    {
+      "level": "h2",
+      "text": "Understand the trade-offs between subtractive and additive manufacturing, and when to combine both technologies"
+    },
+    {
+      "level": "h2",
+      "text": "CNC Machining vs. Metal 3D Printing: When to Use Each Process"
+    },
+    {
+      "level": "h2",
+      "text": "Manoeuvring Through Metal Manufacturing"
+    },
+    {
+      "level": "h2",
+      "text": "Building vs. Cutting Metal Parts"
+    },
+    {
+      "level": "h2",
+      "text": "Accuracy Considerations for Metal Parts"
+    },
+    {
+      "level": "h2",
+      "text": "Finishing Where DMLS Leaves Off"
+    },
+    {
+      "level": "h2",
+      "text": "Removing DMLS Supports"
+    },
+    {
+      "level": "h2",
+      "text": "Fixturing Printed Parts"
+    },
+    {
+      "level": "h2",
+      "text": "Mulling Over Machinability"
+    },
+    {
+      "level": "h2",
+      "text": "Combining Complex Metal Manufacturing Processes"
+    },
+    {
+      "level": "h2",
+      "text": "FAQ"
+    },
+    {
+      "level": "h3",
+      "text": "When should I design a metal part for both CNC machining and 3D printing?"
+    },
+    {
+      "level": "h3",
+      "text": "Which features are best left for secondary machining on a DMLS part?"
+    },
+    {
+      "level": "h3",
+      "text": "How can I make a metal part easier to both print and machine?"
+    },
+    {
+      "level": "h2",
+      "text": "Get a Quote"
+    }
+  ],
+  "images": [
+    {
+      "alt": "",
+      "src": "/media/01pgzbm2/dmls-process-2.jpg"
+    },
+    {
+      "alt": "illustration of surface finish on DMLS part",
+      "src": "/media/a0knefis/78_balancing-cnc-and-3dp-for-metal-parts_dmls.jpg"
+    },
+    {
+      "alt": "CAD model of 3D printing DMLS fixturing",
+      "src": "/media/iy4pji3k/78_balancing-cnc-and-3dp-for-metal-parts_add-a-tab.jpg"
+    },
+    {
+      "alt": "Row of CNC mills",
+      "src": "/media/1011567/suite-services-cnc-machining-machines-900x400.jpg?width=115&height=115&v=1d35edc1d6cec10"
+    },
+    {
+      "alt": "Direct Metal Laser Sintering",
+      "src": "/media/1017355/dmls-parts-570x312.jpg?width=115&height=115&v=1d50ca8eda01cb0"
+    },
+    {
+      "alt": "plastic part",
+      "src": "/media/3vif0uqt/comparison-guide.jpg?width=115&height=115&v=1dba498e20cb730"
+    }
+  ],
+  "meta_description": "Compare CNC machining vs. metal 3D printing for metal parts. Learn when to use each process, combine both, and optimize part design, tolerances, and cost.",
+  "modified_at": "",
+  "monitored_text": "CNC Machining vs. Metal 3D Printing for Metal Parts Understand the trade-offs between subtractive and additive manufacturing, and when to combine both technologies CNC machining vs. metal 3D printing isn't a question of which process is better, but which is better suited to the part you're making. Each has distinct strengths, and understanding where they differ can help you reduce cost, improve part performance, and manufacture more efficiently. CNC Machining vs. Metal 3D Printing: When to Use Each Process Nowhere is this relationship more significant than the bond that exists between CNC machining and direct metal laser sintering (DMLS), the leading technology for 3D printing complex metal parts. The latter can produce virtually any part shape using nothing more than a laser beam and a pile of metal powder, but it can be a slow process. Machining on the other hand is more limited in terms of geometry, but offers far faster production speeds. When comparing CNC machining vs. metal 3D printing, the decision often comes down to two questions: Can the part be machined, and how many parts need to be produced? In many cases, the two manufacturing processes can work together. Oftentimes metal-based additive manufacturing relies on its subtractive alter ego to finish the job. Holes must be bored or reamed, threads tapped or thread-milled, critical surfaces milled, turned, or ground to size. At the very least, 3D-printed parts need some manual TLC in the form of cleaning, blasting, and support removal, pretty much guaranteeing a visit to the machine shop. What does all this mean to you or anyone looking for the most effective way to manufacture functional prototypes and lower quantities of end-use metal parts? Plenty. By adopting a strategy where metal 3D printing and machining can be different steps in the same manufacturing process, you can leverage the best of both worlds, eliminating surprises, reducing costs, and improving part design. Here’s a handful of design considerations to think about before diving into your next metal part design project. Manoeuvring Through Metal Manufacturing Metal 3D printing and machining work well together for: Improving part accuracy Finishing requirements Machined removal of printed supports Component fixturing, when needed Building vs. Cutting Metal Parts DMLS builds metal parts layer by layer by selectively fusing metal powder with a laser. CNC machining, by comparison, removes material using cutting tools. While DMLS excels at producing complex geometries, CNC machining delivers tighter tolerances and finer surface finishes. Accuracy Considerations for Metal Parts Although DMLS can create extremely complex shapes that might otherwise be un-manufacturable, it’s not without its limitations. For starters, significant heating and cooling of the metal takes place as the laser does its work, creating internal stresses that must be removed via post-build heat-treating. This means little to the people designing the part, except that stress relief equates to some amount of part movement and therefore some loss of accuracy. This is one reason—though not the only one—why even a well-designed DMLS-produced part requires machining of any part feature where tolerances tighter than ±0.003 in. (0.076mm) is required, plus ±0.001 in./in. (0.001mm/mm) for each additional inch of build height. Finishing Where DMLS Leaves Off Another reason for combining DMLS and machining is surface finish. On a vertical or horizontal surface, DMLS produces part roughness about equal to a sand casting. All other surfaces will see some amount of stair-stepping, an effect that’s largely dependent on how the part is situated in the build chamber. If your part design requires a smooth finish, it will need to be blasted, sanded, or quite possibly machined. This last part is no big deal, unless your part design calls for a fine finish on a surface that the end mill, drill, or turning tool can’t reach. Whatever the case, be sure to call out such critical features on your CAD model when submitting to Protolabs, so the features needing secondary processing, including machining, can be identified. On a vertical or horizontal surface, direct metal laser sintering (DMLS) produces part roughness about equal to a sand casting. All other surfaces will see some amount of stair-stepping (as seen at left). If your part design requires a smooth finish, that stair-stepping will need to be blasted, sanded, or machined (as seen at right). Removing DMLS Supports Support structures should also be considered when designing metal parts in additive manufacturing. DMLS is a little like building a metal sandcastle—without some seashells and twigs to hold the thing together, the ramparts will fall, the architraves crumble. With DMLS, scaffold-like supports are needed to keep the semi-molten metal from drooping, curling, or otherwise misbehaving. Oftentimes, these supports can be removed with a Dremel tool, but machining may be the preferred method where larger part volumes are called for, or when the workpiece is headed to the machine shop anyway for one of the drilling, milling, or turning operations mentioned previously. Fixturing Printed Parts Unlike DMLS, which requires nothing more than a simple “build plate” to carry the workpiece through to completion, machined parts must be clamped, bolted, or otherwise securely fixtured to the machine to prevent cutting tool-induced movement. If your 3D-printed workpiece is composed entirely of curved, organic shapes (which is one of 3D printing’s greatest appeals), how will the machinist hang on to it for turning or milling? Check with an applications engineer at Protolabs, but you might need to design in a pair of parallel surfaces or some mounting holes by which to clamp the 3D-printed workpiece for machining. Oftentimes, fixturing printed parts is necessary, which involves adding a tab or other device to the CAD model itself and printing it directly onto the part, as seen here. It can be removed after machining. Mulling Over Machinability Lastly, there’s the metal to think about. The lasers used by DMLS don’t really “care” how hard or tough a metal is, but cutting tools sure do. DMLS is known for its ability to 3D print aerospace- and medical-grade metals like titanium , Inconel , cobalt chrome , and others , and even though different laser parameters and build speeds may be called for, it does so with relative impunity. Machining those same metals, on the other hand, requires lighter depths of cut, slower speeds and feeds (a little machining-speak here), and will consume more cutting tools and machining time. To see all of Protolabs metal options for machining and 3D printing, head over to the material comparison guide . Beyond the guide’s list, you may have other materials-related questions. For example, if Protolabs doesn’t machine a certain material, it doesn’t necessarily mean we also would not post-machine it in 3D printing—we might. For these specific questions, contact one of our applications engineers at 877-479-3680 or [email protected] . Combining Complex Metal Manufacturing Processes The CNC machining vs. metal 3D printing decision isn't always an either-or choice. Many metal parts benefit from combining both processes to achieve complex geometry, tight tolerances, and the required surface finish . Machining and metal 3D printing are deep, complex technologies, and it’s only by understanding how each will affect your design project that success will be achieved. Ask questions, embrace each process, and understand that both are close-knit partners in manufacturing. If you have a metal part design that could benefit from combining 3D printing and CNC machining, you can indicate that during the 3D printing quoting process. When uploading your CAD file, select the custom finish option and add notes specifying which features or surfaces require additional finishing. You can also attach documents<dynamic-value> a drawing, to identify tolerances, surface finishes, and other manufacturing requirements . FAQ When should I design a metal part for both CNC machining and 3D printing? expand_less expand_more If your part includes complex geometry alongside tight tolerances or precision mating surfaces, combining the two processes often delivers the best result. Planning for post-machining early can improve quality and reduce redesigns. Which features are best left for secondary machining on a DMLS part? expand_less expand_more Features such as precision holes, threads, bearing seats, sealing surfaces, and tight-tolerance interfaces are typically better finished with CNC machining. DMLS creates the geometry, while machining delivers the required accuracy and surface finish. How can I make a metal part easier to both print and machine? expand_less expand_more Design with the full manufacturing process in mind. Include accessible fixturing surfaces where needed, identify critical dimensions for machining, and consider how supports and finishing operations will affect the final part. Get a Quote Manufacture parts using advanced machining or DMLS technology. Upload a CAD file for pricing and lead times. Get a Quote You Might Also Like... CNC Machining Direct Metal Laser Sintering Material Comparison Guide",
+  "published_at": "",
+  "requested_url": "https://www.protolabs.com/resources/design-tips/balancing-cnc-machining-and-3d-printing-for-metal-parts",
+  "schema_version": 2,
+  "sections": [
+    {
+      "hash": "3fc1775edb4541a53ddb11c96e08461b6fda0471",
+      "heading": "CNC Machining vs. Metal 3D Printing for Metal Parts",
+      "level": "h1",
+      "text": "CNC Machining vs. Metal 3D Printing for Metal Parts"
+    },
+    {
+      "hash": "0dc3d8e5ecdb4bd1e43a1b87baf355fb13016708",
+      "heading": "Understand the trade-offs between subtractive and additive manufacturing, and when to combine both technologies",
+      "level": "h2",
+      "text": "Understand the trade-offs between subtractive and additive manufacturing, and when to combine both technologies"
+    },
+    {
+      "hash": "e759c58b27631e6023a068981fd5b76e98c08edc",
+      "heading": "CNC Machining vs. Metal 3D Printing: When to Use Each Process",
+      "level": "h2",
+      "text": "CNC Machining vs. Metal 3D Printing: When to Use Each Process Nowhere is this relationship more significant than the bond that exists between CNC machining and direct metal laser sintering (DMLS), the leading technology for 3D printing complex metal parts. The latter can produce virtually any part shape using nothing more than a laser beam and a pile of metal powder, but it can be a slow process. Machining on the other hand is more limited in terms of geometry, but offers far faster production speeds. When comparing CNC machining vs. metal 3D printing, the decision often comes down to two questions: Can the part be machined, and how many parts need to be produced? In many cases, the two manufacturing processes can work together. Oftentimes metal-based additive manufacturing relies on its subtractive alter ego to finish the job. Holes must be bored or reamed, threads tapped or thread-milled, critical surfaces milled, turned, or ground to size. At the very least, 3D-printed parts need some manual TLC in the form of cleaning, blasting, and support removal, pretty much guaranteeing a visit to the machine shop. What does all this mean to you or anyone looking for the most effective way..."
+    },
+    {
+      "hash": "3bbe409f35d14f2d911480cbb3d5843b32a86361",
+      "heading": "Manoeuvring Through Metal Manufacturing",
+      "level": "h2",
+      "text": "Manoeuvring Through Metal Manufacturing Metal 3D printing and machining work well together for: Improving part accuracy Finishing requirements Machined removal of printed supports Component fixturing, when needed"
+    },
+    {
+      "hash": "e95715b5d3362d64ea7ccfc8bb0ded2a195e75f0",
+      "heading": "Building vs. Cutting Metal Parts",
+      "level": "h2",
+      "text": "Building vs. Cutting Metal Parts DMLS builds metal parts layer by layer by selectively fusing metal powder with a laser. CNC machining, by comparison, removes material using cutting tools. While DMLS excels at producing complex geometries, CNC machining delivers tighter tolerances and finer surface finishes."
+    },
+    {
+      "hash": "45d63e9ee6af2f4d25595ceace4bb03f0479307f",
+      "heading": "Accuracy Considerations for Metal Parts",
+      "level": "h2",
+      "text": "Accuracy Considerations for Metal Parts Accuracy Considerations for Metal Parts"
+    },
+    {
+      "hash": "a4f6ad670ca90d653aac8464f8453595c9687650",
+      "heading": "Finishing Where DMLS Leaves Off",
+      "level": "h2",
+      "text": "Finishing Where DMLS Leaves Off Finishing Where DMLS Leaves Off"
+    },
+    {
+      "hash": "d19c5d5411561eba4636349cdb62a7a1b2348617",
+      "heading": "Removing DMLS Supports",
+      "level": "h2",
+      "text": "Removing DMLS Supports Removing DMLS Supports"
+    },
+    {
+      "hash": "136b5d760b45b34dda43f4931438097f4dd1465b",
+      "heading": "Fixturing Printed Parts",
+      "level": "h2",
+      "text": "Fixturing Printed Parts Fixturing Printed Parts"
+    },
+    {
+      "hash": "1ce6543388dd21abd5ede51b6b3a1d818396a272",
+      "heading": "Mulling Over Machinability",
+      "level": "h2",
+      "text": "Mulling Over Machinability Mulling Over Machinability"
+    },
+    {
+      "hash": "ec3ac7270e409c0dbfa8f485a71ec6df42b5776e",
+      "heading": "Combining Complex Metal Manufacturing Processes",
+      "level": "h2",
+      "text": "Combining Complex Metal Manufacturing Processes Combining Complex Metal Manufacturing Processes"
+    },
+    {
+      "hash": "ee8cafbeca8a9058ad1317bccbf39117e9f1983d",
+      "heading": "FAQ",
+      "level": "h2",
+      "text": "FAQ When should I design a metal part for both CNC machining and 3D printing? expand_less expand_more If your part includes complex geometry alongside tight tolerances or precision mating surfaces, combining the two processes often delivers the best result. Planning for post-machining early can improve quality and reduce redesigns. Which features are best left for secondary machining on a DMLS part? expand_less expand_more Features such as precision holes, threads, bearing seats, sealing surfaces, and tight-tolerance interfaces are typically better finished with CNC machining. DMLS creates the geometry, while machining delivers the required accuracy and surface finish. How can I make a metal part easier to both print and machine? expand_less expand_more Design with the full manufacturing process in mind. Include accessible fixturing surfaces where needed, identify critical dimensions for machining, and consider how supports and finishing operations will affect the final part."
+    },
+    {
+      "hash": "a21d7a5d0e4ed69d6cb306b0dde4801004473ae1",
+      "heading": "When should I design a metal part for both CNC machining and 3D printing?",
+      "level": "h3",
+      "text": "When should I design a metal part for both CNC machining and 3D printing? expand_less expand_more"
+    },
+    {
+      "hash": "f2625eebb4b29ba9ce7dd102fd09131e83800803",
+      "heading": "Which features are best left for secondary machining on a DMLS part?",
+      "level": "h3",
+      "text": "Which features are best left for secondary machining on a DMLS part? expand_less expand_more"
+    },
+    {
+      "hash": "2f1ea939b8e28341acfd0f0d7286860e9437c24d",
+      "heading": "How can I make a metal part easier to both print and machine?",
+      "level": "h3",
+      "text": "How can I make a metal part easier to both print and machine? expand_less expand_more"
+    },
+    {
+      "hash": "97c51bddb8a4851bbcd9a07f1f775ad29a8ec00e",
+      "heading": "Get a Quote",
+      "level": "h2",
+      "text": "Get a Quote Manufacture parts using advanced machining or DMLS technology. Upload a CAD file for pricing and lead times. Get a Quote"
+    }
+  ],
+  "sitemap_lastmod": "2026-08-10T12:29:00+00:00",
+  "status": 200,
+  "structure_hash": "c94b8eefc364a36a88edda855b986c5b95e4b1b8",
+  "text_excerpt": "CNC Machining vs. Metal 3D Printing for Metal Parts Understand the trade-offs between subtractive and additive manufacturing, and when to combine both technologies CNC machining vs. metal 3D printing isn't a question of which process is better, but which is better suited to the part you're making. Each has distinct strengths, and understanding where they differ can help you reduce cost, improve part performance, and manufacture more efficiently. CNC Machining vs. Metal 3D Printing: When to Use Each Process Nowhere is this relationship more significant than the bond that exists between CNC machining and direct metal laser sintering (DMLS), the leading technology for 3D printing complex metal parts. The latter can produce virtually any part shape using nothing more than a laser beam and a pile of metal powder, but it can be a slow process. Machining on the other hand is more limited in terms of geometry, but offers far faster production speeds. When comparing CNC machining vs. metal 3D printing, the decision often comes down to two questions: Can the part be machined, and how many parts need to be produced? In many cases, the two manufacturing processes can work together. Oftentimes...",
+  "text_hash": "94d42f21ef7e915c5e499dbbe273eff83ed9c5da",
+  "title": "CNC Machining vs. Metal 3D Printing for Metal Parts",
+  "url": "https://www.protolabs.com/resources/design-tips/balancing-cnc-machining-and-3d-printing-for-metal-parts"
+}

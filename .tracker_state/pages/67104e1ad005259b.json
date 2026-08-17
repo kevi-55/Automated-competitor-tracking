@@ -4,7 +4,7 @@
   "competitor": "PCBWay",
   "ctas": [
     {
-      "href": "/orderonline.aspx",
+      "href": "https://www.pcbway.com/orderonline.aspx",
       "text": "PCB Instant Quote"
     },
     {
@@ -12,39 +12,42 @@
       "text": "Sign Up"
     },
     {
-      "href": "/project/shareproject/?order=1",
+      "href": "https://www.pcbway.com/project/shareproject?order=1",
       "text": "By Source Files"
     },
     {
-      "href": "/project/shareproject/?order=1",
+      "href": "https://www.pcbway.com/project/shareproject?order=1",
       "text": "View all source files projects"
     },
     {
-      "href": "/project/shareproject/?order=1",
+      "href": "https://www.pcbway.com/project/shareproject?order=1",
       "text": "Source Files"
     },
     {
-      "href": "/blog/club-publish.html",
+      "href": "https://www.pcbway.com/blog/club-publish.html",
       "text": "Submit for Publication"
     },
     {
-      "href": "/blog/HDI_PCB/Stackup_for_22_layer_4_order_Rogers_High_frequency_HDI_PCB_with_Pure_Lamination_3312bee9.html",
+      "href": "https://www.pcbway.com/blog/HDI_PCB/Stackup_for_22_layer_4_order_Rogers_High_frequency_HDI_PCB_with_Pure_Lamination_3312bee9.html",
       "text": "Stackup for 22-layer 4-order Rogers High-frequency HDI PCB"
     },
     {
-      "href": "/blog/Activities/Submit_for_Publication___Now_I_Write_Articles_in_PCBWay.html",
+      "href": "https://www.pcbway.com/blog/Activities/Submit_for_Publication___Now_I_Write_Articles_in_PCBWay.html",
       "text": "Write for PCBWay"
     },
     {
-      "href": "/blog/?tag=PCB industry",
+      "href": "https://www.pcbway.com/blog?tag=PCB+industry",
       "text": "PCB industry"
     },
     {
-      "href": "/contact.html",
+      "href": "https://www.pcbway.com/contact.html",
       "text": "Contact us"
     }
   ],
-  "fetched_at": "2026-08-17T02:33:38+00:00",
+  "discovered_via": "links",
+  "fetched_at": "2026-08-17T03:51:33+00:00",
+  "final_url": "https://www.pcbway.com/blog/HDI_PCB/Congratulations_on_the_Successful_Development_of_PCBWay_s_24_Layer_6_Order_Arbi_76c36a5e.html",
+  "first_seen_at": "2026-08-17T03:51:33+00:00",
   "h1": "Congratulations on the Successful Development of PCBWay's 24-Layer, 6-Order Arbitrary Interconnection HDI PCB",
   "headings": [
     {
@@ -115,13 +118,17 @@
     }
   ],
   "meta_description": "",
+  "modified_at": "",
+  "monitored_text": "PCBWay Community Search title or content Search PCBWay PCB Instant Quote CNC | 3D Printing Login Sign Up More Notifications No notifications. My Profile My projects My Likes My Deals My Goods for Bazaar Settings Sign Out Projects Categories DIY Electronics Arduino Hardware Audio Computers & USB Breakout Board Projects Home Automation LED Displays & Matrices IoT Robotics View all categories By Source Files Onju Voice - AI assistant replacement to Google Nest Mini by @justLV LogicAnalyzer V6.0 DIY 1kW Open Source MPPT Solar Charge Controller Tad Boy Color SummerCart64 - a fully open source N64 flashcart kv4p HT v1.7b QuinLED-Dig-Uno Arduino RC engine sound & light controller with inertia simulation for ESP32 Bike Fingerprint - PCB Solar Powered WiFi Weather Station V2.0 Frog Boy Color SIDKick pico 0.2 (SID 6581/8580-replacement for C64/C128) View all source files projects Featured Projects Onju Voice - AI assistant replacement to Google Nest Mini by @justLV LogicAnalyzer V6.0 DIY 1kW Open Source MPPT Solar Charge Controller Featured Source Files Video View all projects Questions Sponsorships Feedback Blog Store PCB Design Contest - 2026 KiCad PCB Design Contest - 8th Project Design Contest - 7th Project Design Contest - KiCad Design Contest - 6th Project Design Contest - 5th PCB Design Contest - 4th PCB Design Contest - Raspberry Pi Pico Contest - PCB Design Tutorial - 3rd PCB Design Contest - I CAN SOLDER Kit Contest - 2nd PCB Design Contest - 1st PCB Design Contest Add questions Create a project Please verify your email address so that you can enjoy our more comprehensive services. Verify Now Blog > Congratulations on the Successful Development of PCBWay's 24-Layer, 6-Order Arbitrary Interconnection HDI PCB Congratulations on the Successful Development of PCBWay's 24-Layer, 6-Order Arbitrary Interconnection HDI PCB by: Mia Nov 04,2024 <dynamic-value> <dynamic-value> Posted in HDI PCB HDI PCB Interposer PCB With the continuous development of the integrated circuit industry, the connections between chips have become increasingly complex. Traditional PCB technology faces limitations in applications with higher frequency and speed requirements. Achieving stable and reliable connections between high-speed and high-density chips has become critically important. Moreover, as the power consumption of chips continues to rise, heat generation has also increased, necessitating an effective cooling system to maintain normal chip operation. As a result, the interposer PCB, a new type of PCB, has emerged. The so-called interposer PCB is a highly precise, high-layer arbitrary interconnection HDI PCB. It serves as a critical component for connecting and integrating different electronic components and acts as an intermediary layer for chip connections. It achieves electrical connections through pad leads and interconnects with the chip’s micro bumps (uBump) and the routing in the intermediary layer. The intermediary layer utilizes through-silicon vias (TSV) to connect upper and lower layers. The design characteristics of this PCB include inner layers connected to the outer layers through laser microvias and dense routing, resulting in a multi-structure with BGA connections on the top side and pad connections on the bottom side. Interposer PCBs hold exceptional value and significance in improving various performance aspects of integrated circuits. First, interposer PCBs can provide higher connection speeds and reliability for semiconductor products. Made from high-performance materials, interposer PCBs enable short-distance, high-density connections between integrated circuits, significantly increasing chip data transmission rates. Second, interposer PCB technology addresses signal integrity and power consumption issues. By utilizing interposer technology, signal pins can be directly connected to the interposer layer, reducing the length of signal transmission paths, thereby minimizing signal loss and enhancing signal integrity. Third, the interposer layer also serves a thermal management role, effectively reducing chip temperatures. Finally, interposer PCB technology facilitates the connection between heterogeneous integrated circuits. By placing integrated circuits with different functions on the same interposer layer, it enables interconnections between various chips, thereby enhancing the overall performance and efficiency of semiconductor products. In conclusion, interposer PCBs are widely used in fields such as high-performance computing, artificial intelligence, data centers, and communications. In high-performance computing systems, interposer technology can connect multiple processing chips, enabling larger-scale computing capabilities. In the field of artificial intelligence, interposer technology facilitates interconnections between different chips, enhancing the training and inference speeds of neural networks. In data center and communication applications, interposer technology provides higher transmission rates and bandwidth to meet the demands of big data processing and high-speed communication. As a leading manufacturer of high-end HDI PCBs, PCBWay keeps pace with market trends. In response to the urgent demand from clients for high-order arbitrary interconnection (Anylayer) HDI boards, our product research institute has dedicated itself to overcoming technical challenges, ultimately achieving the successful development of high-layer, high-order arbitrary interconnection interposer PCBs. Here, we will showcase the details of this high-precision circuit product using the 24-layer, 6-order Anylayer HDI PCB as an example. 1. Product Parameters 2. Product Structure 3. Technical Challenges Challenge 1: The buried via PCB thickness from L7 to L18 is 1.0 mm, with a mechanical through-hole diameter of 0.1 mm, resulting in a hole aspect ratio of 10:1, making mechanical drilling difficult. Challenge 2: The BGA pitch is 0.35 mm, and the distance from the hole to the conductor trace is 0.13 mm, which makes it easy for misalignment during multiple laminations. Challenge 3: The trace width/spacing is 2.4/3 mil, and it features dense routing. Below are some routing diagrams. 4. Finished Product Pictures Enter the year of your birth and check your Chinese Zodiac. Join us Wanna be a dedicated PCBWay writer? We definately look forward to having you with us. Submit for Publication Become Our Writer Leave a Comment ( 1 ) Share to: Previous：PCBWay X MATELEC 2024 Next：A Versatile Power Supply in Your Pocket——Come and Support It！ Related articles Congratulations on the Successful Development of PCBWay's 24-Layer, 6-Order Arbitrary Interconnection HDI PCB Stackup for 22-layer 4-order Rogers High-frequency HDI PCB Electrodeposition Photoresist --- A New Technology of HDI PCB Manufacturing What is HDI PCB Comments ( 1 ) Log in to post comments. Upload photo You can only upload 5 files in total. Each file cannot exceed 2MB. Supports JPG, JPEG, GIF, PNG, BMP 0 / 10000 It looks like you have not written anything. Please add a comment and try again. You can upload up to 5 images! Image size should not exceed 2MB! File format not supported! Post Comment View More Write for PCBWay HOT TAG PCB Printed Circuit Board PCB design PCB Board PCB layout Circuit Board Printed Circuit Boards PCB Design Tutorial PCB industry pcb manufacturing KiCad pcbway Categories Select a Category 3D Printing Activities CNC Machining Engineering Technical Flexible PCB HDI PCB Help Center Injection Molding News PCB Assembly PCB Basic Information PCB Design & Layout PCB Design Tutorial PCB Layout Software PCB Manufacturing Information PCBWay Store Rigid-Flex PCB Sheet Metal Technology IF YOU MISSED IT 1 Congratulations on the Successful Development of PCBWay's 24-Layer, 6-Order Arbitrary Interconnection HDI PCB 2 Stackup for 22-layer 4-order Rogers High-frequency HDI PCB 3 Congratulations on the Success of PCBWay 4-layer Ultra-thin 0.25 mm and High Density HDI PCB 4 What is HDI PCB The PCB Way that recognize the talent and effort of the best ELECTRONIC designers in the World. © COPYRIGHT 2019 About us Contact us Follow us on Share to Facebook Share to Twitter Share to Reddit Share to Linkedin Back to top",
+  "published_at": "2024-11-04T00:00:00+00:00",
   "requested_url": "https://www.pcbway.com/blog/HDI_PCB/Congratulations_on_the_Successful_Development_of_PCBWay_s_24_Layer_6_Order_Arbi_76c36a5e.html",
+  "schema_version": 2,
   "sections": [
     {
-      "hash": "dc566a1ab4e439f862277e76efa4e515b81c0be1",
+      "hash": "b0fdd595d9e82a2d4f0d33059bc782e0f8f4f3b9",
       "heading": "Congratulations on the Successful Development of PCBWay's 24-Layer, 6-Order Arbitrary Interconnection HDI PCB",
       "level": "h1",
-      "text": "Blog > Congratulations on the Successful Development of PCBWay's 24-Layer, 6-Order Arbitrary Interconnection HDI PCB Congratulations on the Successful Development of PCBWay's 24-Layer, 6-Order Arbitrary Interconnection HDI PCB by: Mia Nov 04,2024 22191 Views 1 Comments Posted in HDI PCB HDI PCB Interposer PCB With the continuous development of the integrated circuit industry, the connections between chips have become increasingly complex. Traditional PCB technology faces limitations in applications with higher frequency and speed requirements. Achieving stable and reliable connections between high-speed and high-density chips has become critically important. Moreover, as the power consumpti..."
+      "text": "Congratulations on the Successful Development of PCBWay's 24-Layer, 6-Order Arbitrary Interconnection HDI PCB by: Mia Nov 04,2024 <dynamic-value> <dynamic-value> Posted in HDI PCB HDI PCB Interposer PCB With the continuous development of the integrated circuit industry, the connections between chips have become increasingly complex. Traditional PCB technology faces limitations in applications with higher frequency and speed requirements. Achieving stable and reliable connections between high-speed and high-density chips has become critically important. Moreover, as the power consumption of chips continues to rise, heat generation has also increased, necessitating an effective cooling system to maintain normal chip operation. As a result, the interposer PCB, a new type of PCB, has emerged. The so-called interposer PCB is a highly precise, high-layer arbitrary interconnection HDI PCB. It serves as a critical component for connecting and integrating different electronic components and acts as an intermediary layer for chip connections. It achieves electrical connections through pad leads and interconnects with the chip’s micro bumps (uBump) and the routing in the intermediary layer...."
     },
     {
       "hash": "9e8a8a9d0494f69dd986350d1d8c257a65c8b0ff",
@@ -130,10 +137,11 @@
       "text": "Related articles Congratulations on the Successful Development of PCBWay's 24-Layer, 6-Order Arbitrary Interconnection HDI PCB Stackup for 22-layer 4-order Rogers High-frequency HDI PCB Electrodeposition Photoresist --- A New Technology of HDI PCB Manufacturing What is HDI PCB"
     }
   ],
+  "sitemap_lastmod": "",
   "status": 200,
-  "structure_hash": "6799ca95091f9558ffd1e9c3f9fa38a8f2ab7913",
-  "text_excerpt": "Congratulations on the Successful Development of PCBWay's 24-Layer, 6-Order Arbitrary Interconnection HDI PCB - HDI PCB - PCBway PCBWay Community Search title or content Search PCBWay PCB Instant Quote CNC | 3D Printing Login Sign Up More Notifications No notifications. My Profile My projects My Likes My Deals My Goods for Bazaar Settings Sign Out Projects Categories DIY Electronics Arduino Hardware Audio Computers & USB Breakout Board Projects Home Automation LED Displays & Matrices IoT Robotics View all categories By Source Files Onju Voice - AI assistant replacement to Google Nest Mini by @justLV LogicAnalyzer V6.0 DIY 1kW Open Source MPPT Solar Charge Controller Tad Boy Color SummerCart64 - a fully open source N64 flashcart kv4p HT v1.7b QuinLED-Dig-Uno Arduino RC engine sound & light controller with inertia simulation for ESP32 Bike Fingerprint - PCB Solar Powered WiFi Weather Station V2.0 Frog Boy Color SIDKick pico 0.2 (SID 6581/8580-replacement for C64/C128) View all source files projects Featured Projects Onju Voice - AI assistant replacement to Google Nest Mini by @justLV LogicAnalyzer V6.0 DIY 1kW Open Source MPPT Solar Charge Controller Featured Source Files Video View...",
-  "text_hash": "a3f78578743ee6daed019d887e16ebaa5890232a",
+  "structure_hash": "568759e1dcb2c4c79c7995dae941cdaafc9c7acb",
+  "text_excerpt": "PCBWay Community Search title or content Search PCBWay PCB Instant Quote CNC | 3D Printing Login Sign Up More Notifications No notifications. My Profile My projects My Likes My Deals My Goods for Bazaar Settings Sign Out Projects Categories DIY Electronics Arduino Hardware Audio Computers & USB Breakout Board Projects Home Automation LED Displays & Matrices IoT Robotics View all categories By Source Files Onju Voice - AI assistant replacement to Google Nest Mini by @justLV LogicAnalyzer V6.0 DIY 1kW Open Source MPPT Solar Charge Controller Tad Boy Color SummerCart64 - a fully open source N64 flashcart kv4p HT v1.7b QuinLED-Dig-Uno Arduino RC engine sound & light controller with inertia simulation for ESP32 Bike Fingerprint - PCB Solar Powered WiFi Weather Station V2.0 Frog Boy Color SIDKick pico 0.2 (SID 6581/8580-replacement for C64/C128) View all source files projects Featured Projects Onju Voice - AI assistant replacement to Google Nest Mini by @justLV LogicAnalyzer V6.0 DIY 1kW Open Source MPPT Solar Charge Controller Featured Source Files Video View all projects Questions Sponsorships Feedback Blog Store PCB Design Contest - 2026 KiCad PCB Design Contest - 8th Project Design...",
+  "text_hash": "2bc1fa84bf8adec984649206b5180a83a2d03964",
   "title": "Congratulations on the Successful Development of PCBWay's 24-Layer, 6-Order Arbitrary Interconnection HDI PCB - HDI PCB - PCBway",
   "url": "https://www.pcbway.com/blog/HDI_PCB/Congratulations_on_the_Successful_Development_of_PCBWay_s_24_Layer_6_Order_Arbi_76c36a5e.html"
 }

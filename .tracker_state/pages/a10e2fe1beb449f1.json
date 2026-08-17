@@ -1,0 +1,235 @@
+{
+  "canonical": "https://www.hubs.com/knowledge-base/hp-mjf-vs-sls-3d-printing-technology-comparison",
+  "category": "content",
+  "competitor": "Hubs",
+  "ctas": [
+    {
+      "href": "https://www.hubs.com/knowledge-base/hp-mjf-vs-sls-3d-printing-technology-comparison",
+      "text": "3D printing"
+    },
+    {
+      "href": "https://www.hubs.com/manufacture",
+      "text": "quote builder"
+    }
+  ],
+  "discovered_via": "sitemap",
+  "fetched_at": "2026-08-17T03:42:18+00:00",
+  "final_url": "https://www.hubs.com/knowledge-base/hp-mjf-vs-sls-3d-printing-technology-comparison",
+  "first_seen_at": "2026-08-17T03:42:18+00:00",
+  "h1": "",
+  "headings": [
+    {
+      "level": "h2",
+      "text": "How do SLS and MJF 3D printing processes work?"
+    },
+    {
+      "level": "h3",
+      "text": "Selective Laser Sintering (SLS)"
+    },
+    {
+      "level": "h3",
+      "text": "Multi Jet Fusion"
+    },
+    {
+      "level": "h3",
+      "text": "Comparing workflows for SLS and MJF"
+    },
+    {
+      "level": "h2",
+      "text": "What is the dimensional accuracy of SLS and MJF?"
+    },
+    {
+      "level": "h2",
+      "text": "What surface quality can you get with SLS and MJF 3D printing?"
+    },
+    {
+      "level": "h2",
+      "text": "What are the material properties of SLS and MJF?"
+    },
+    {
+      "level": "h2",
+      "text": "What are the costs and lead times for SLS and MJF 3D printing?"
+    },
+    {
+      "level": "h2",
+      "text": "How will SLS and MJF develop in the future?"
+    },
+    {
+      "level": "h2",
+      "text": "Frequently asked questions"
+    },
+    {
+      "level": "h3",
+      "text": "Is MJF stronger than SLS?"
+    },
+    {
+      "level": "h3",
+      "text": "Is MJF more cost efficient than SLS?"
+    },
+    {
+      "level": "h3",
+      "text": "Is MJF more accurate than SLS?"
+    },
+    {
+      "level": "h3",
+      "text": "Is SLS better than MJF for materials and colors?"
+    },
+    {
+      "level": "h3",
+      "text": "Is MJF better than SLS for larger quantities of parts?"
+    },
+    {
+      "level": "h3",
+      "text": "Do MJF parts have better mechanical properties than SLS parts?"
+    }
+  ],
+  "images": [
+    {
+      "alt": "3D printing technology tree highlighting SLS",
+      "src": "/images/trans.gif"
+    },
+    {
+      "alt": "3DP 101 - SLS nylon part - square",
+      "src": "/images/trans.gif"
+    },
+    {
+      "alt": "3DP 101 - MJF nylon part",
+      "src": "/images/trans.gif"
+    },
+    {
+      "alt": "4-MJF-grey surface finish",
+      "src": "/images/trans.gif"
+    },
+    {
+      "alt": "4-MJF-black surface finish",
+      "src": "/images/trans.gif"
+    },
+    {
+      "alt": "SLS is an excellent choice when strong, functional parts such as brackets are required. This part is printed with white...",
+      "src": "/images/trans.gif"
+    },
+    {
+      "alt": "SLS part printed in grey nylon",
+      "src": "/images/trans.gif"
+    },
+    {
+      "alt": "The test bracket printed in gray SLS nylon",
+      "src": "/images/trans.gif"
+    },
+    {
+      "alt": "CNC machining, 3D printing and sheet metal fabrication parts",
+      "src": "/images/trans.gif"
+    }
+  ],
+  "meta_description": "What is the difference between MJF and SLS 3D printing technology in terms of accuracy, materials, cost and lead times? Here’s how to choose the right additive manufacturing technology for your custom part needs.",
+  "modified_at": "",
+  "monitored_text": "Multi Jet Fusion (MJF) and Selective Laser Sintering (SLS) are industrial 3D printing technologies that belong to the powder bed fusion family. Both processes build parts by thermally fusing (or sintering) polymer powder particles layer by layer. The main difference between these two technologies is their heat source. SLS uses a laser to scan and sinter across each cross-section. MJF, on the other hand, dispenses an ink (fusing agent) on the powder for absorbing infrared light. The printer then passes an infrared energy source over the build platform to fuse the inked areas. Essentially, MJF combines SLS and Binder Jetting technologies. Since SLS and MJF create parts that are very similar, it’s important for a designer to understand the differences between the two processes. In this article, we compare SLS and MJF in terms of workflow, accuracy, materials, cost and lead time. Already have an idea of which technology you'd like to use? Get your parts into production swiftly with our quote builder . How do SLS and MJF 3D printing processes work? SLS and MJF 3D printing have similar fabrication processes and workflows, however, there are a few key differences between the two technologies. Let’s start with the fabrication process. Selective Laser Sintering (SLS) An SLS printer first spreads a thin layer of powder over the build platform. A CO2 laser then scans each cross-section, sintering the powder. The platform then descends by one layer and the process repeats until the build is complete. The entire bin must cool before you can remove the part from the powder. For a more detailed explanation of these mechanics, read our in-depth article What is SLS 3D printing? . An SLS part, printed in nylon Multi Jet Fusion To print using MJF, the machine first spreads a thin layer of powder over the build platform. The printer heats this layer to a near-sintering temperature. A carriage with inkjet nozzles (which are similar to the nozzles used in desktop 2D printers) passes over the bed, depositing a fusing agent on the powder. At the same time, the machine prints a detailing agent that inhibits sintering near the edge of the part. A powerful IR energy source then passes over the build bed and sinters the areas where the fusing agent was deposited, leaving the rest of the powder unaltered. The process repeats until all parts are complete. Similar to SLS, the printed parts are embedded in powder and need to cool down before they can be removed for further processing. For more detail on MJF, read our breakdown of the technology in What is Multi Jet Fusion (MJF)? Explained by Protolabs Network . An MJF part, printed in nylon Comparing workflows for SLS and MJF When printing with SLS, you fuse each cross-section point-by-point, while fusing in MJF is more linear. This doesn’t change the print time significantly, though, as the recoating step (and the total number of layers) mainly determines the total printing time. This step takes the same amount of time with both SLS and MJF. However, bin cooling and post-processing are much speedier when working with MJF. HP offers a dedicated post-processions station that accelerates the cooling rate of the printed bin and helps with powder removal. With MJF, you can use 80-85% of the powder recycled and recovered after each build, while only 50% of the powder from each SLS build is recyclable. Faster cooling times and augmented changes to recycle and reuse powder make MJF operators less hesitant to start jobs even when the bin is partially full. SLS machine operators, in contrast, will often wait for the bin to fill before starting a print job. This key difference in workflow results in shorter lead times. What is the dimensional accuracy of SLS and MJF? SLS and MJF are both industrial technologies that offer high dimensional accuracy for custom parts. However, MJF does have a small edge over SLS. This is mainly because MJF printheads deposit material at 1200 DPI (or approximately 1 dot every 0.022 mm), while the typical SLS laser spot size is approximately 0.3 and 0.4 mm in diameter. Also, the detailing agent used in MJF helps with printing small features and sharp edges. It's important to note that SLS and MJF don't require support structures. This allows you to create free-form models without any support removal marks. However, both technologies are susceptible to warping, so be sure to avoid large flat areas in your design. In testing both technologies extensively, we found that MJF-printed parts were more prone to warping than those printed with SLS. MJF SLS Dimensional accuracy ± 0.3% (with lower limit on ± 0.2 mm) ± 0.3% (lower limit of ± 0.3 mm) Typical build size 380 x 285 x 380 300 x 300 x 300 mm(up to 750 x 550 x 550 mm) Common layer thickness 70 - 100 microns 100 - 120 microns Minimum wall thickness * 0.6 mm 0.7 mm Minimum detail 0.25 mm 0.30 mm Remember that the recommended minimum wall thickness of structural areas for both technologies is 1 mm. What surface quality can you get with SLS and MJF 3D printing? 3D printing parts with either SLS and MJF technology leads to grainy surface finishes that can be post-processed to a high standard. If one of your main requirements for your part is aesthetic appeal, we recommend dying as part of your post-processing. In terms of color, MJF systems presently use a black fusing agent, as dark materials absorb radiation more effectively. As a result, parts printed with MJF have a light gray appearance. You can opt for an additional dying step to achieve a uniform black finish. SLS parts, on the other hand, are usually printed white and can be dyed to any color . Grey SLS nylon powder is also available, and parts printed in this material will look similar to MJF parts but smoother to the touch. An MJF part, as printed An MJF part, after dyeing black An SLS part, printed in white nylon An SLS part in grey nylon What are the material properties of SLS and MJF? PA 12 (nylon) is the main material used for both SLS and MJF. When printing with this material, MJF parts have superior strength and flexibility and more homogeneous mechanical properties compared to SLS parts. But although MJF offers better print quality with nylon, SLS printers offer more material options, such as carbon-filled PA , aluminum-filled PA (alumide) and flexible TPU . MJF’s material limitation is definitely a disadvantage when choosing between the two technologies. However, MJF is an open material platform and a quickly maturing technology, which will usher in quick material development as more designers and engineers discover its myriad benefits. HP PA 12 SLS PA 12 Tensile Strength XY: 48 MPa Z: 48 MPa XY: 48 MPa Z: 42 MPa Tensile Modulus XY: 1700 MPa Z: 1800 MPa XY: 1650 MPa Z: 1650 MPa Elongation at break XY: 20% Z: 15% XY: 18% Z: 4% What are the costs and lead times for SLS and MJF 3D printing? Cost and lead time are two essential factors for choosing between SLS and MJF. To assess both elements, we ran a small experiment for each of these two 3D printing technologies. Using a bracket design (pictured below) as a testing model, we requested two quotes from 3D printing services in the United States for each technology. One quote was for a prototyping order (one part), and the other was for a small-batch production run (ten to 100 parts). The model we used has a volume of 28.8 cm3 and bounding box dimensions of 101.9 x 45.0 x 18.0 mm. The test bracket printed in gray SLS nylon In terms of pricing, printing with MJF was consistently more cost-efficient than with SLS by approximately 15% to 30%. The price difference was smaller for larger quantities of parts, likely due to the technology’s streamlined post-processing workflow (cooling, powder removal, etc.). As well, MJF tends to have a swifter lead time than SLS by about three days. This doesn’t mean that MJF is the superior process universally. Despite it being less cost-efficient, SLS offers a far wider selection of materials, including carbon and glass-filled nylon, as well as TPU and PP. To further assess pricing and lead times for both SLS and MJF, reach out to networksales@protolabs.com and a representative will go into further detail. HP PA 12 SLS PA 12 Tensile Strength XY: 48 MPa Z: 48 MPa XY: 48 MPa Z: 42 MPa Tensile Modulus XY: 1700 MPa Z: 1800 MPa XY: 1650 MPa Z: 1650 MPa Elongation at break XY: 20% Z: 15% XY: 18% Z: 4% How will SLS and MJF develop in the future? While SLS machines will always only ever be able to produce parts from a single material per build, MJF parts can have different material properties. You can achieve this by changing the type or concentration of the fusion agent. HP has claimed that MJF allows you to control the mechanical, thermal, optical and even electrical properties of a part. However, this functionality is not yet available with the first-generation MJF printers. The second-generation HP printers are expected to support multi-material and multi-colored printing. On the SLS side, one notable update is the development of a price-competitive desktop solution for SLS printing at home or at the office. These systems have a lot of promise, though viable machines for this exact application haven’t entered the market yet. Subscribe Get the latest manufacturing news delivered to your mailbox. Sign up for our newsletter Sign me up Please enter a valid email address. Leave this field empty Thanks! You're now subscribed to our newsletter. Frequently asked questions Is MJF stronger than SLS? Parts produced using MJF are stronger and more flexible than SLS parts. They also have more homogeneous mechanical properties compared to SLS parts, which are weaker along the print direction. Is MJF more cost efficient than SLS? In general, MJF costs less for lower density parts, and SLS is a better option for more solid parts. MJF is a more cost efficient choice for printing single items, while SLS is cheaper for nested items. Is MJF more accurate than SLS? SLS and MJF print parts with similar accuracy. This often depends more on the experience manufacturers have with each of the technologies, rather than the systems themselves. Is SLS better than MJF for materials and colors? With SLS, you get a wider range of material options with several nylons and an elastomeric prototyping TPU. SLS also offers more color variety. MJF prints gray parts that can be dyed black when they come out, while SLS parts come out white and can be dyed any color. For both processes, the materials available are Nylon 12 (PA 12) and Glass-filled Nylon (PA 12 GF). Is MJF better than SLS for larger quantities of parts? Overall, MJF builds parts faster than SLS, so you can create more parts in a shorter period. Do MJF parts have better mechanical properties than SLS parts? MJF-printed parts generally have more consistent mechanical properties across their entire geometry.",
+  "published_at": "",
+  "requested_url": "https://www.hubs.com/knowledge-base/hp-mjf-vs-sls-3d-printing-technology-comparison",
+  "schema_version": 2,
+  "sections": [
+    {
+      "hash": "666cac7762814c4637534d373d565fd3b6151bfc",
+      "heading": "How do SLS and MJF 3D printing processes work?",
+      "level": "h2",
+      "text": "How do SLS and MJF 3D printing processes work? SLS and MJF 3D printing have similar fabrication processes and workflows, however, there are a few key differences between the two technologies. Let’s start with the fabrication process."
+    },
+    {
+      "hash": "787796191df3676f2878fa43ba0ac25b870304ec",
+      "heading": "Selective Laser Sintering (SLS)",
+      "level": "h3",
+      "text": "Selective Laser Sintering (SLS) An SLS printer first spreads a thin layer of powder over the build platform. A CO2 laser then scans each cross-section, sintering the powder. The platform then descends by one layer and the process repeats until the build is complete. The entire bin must cool before you can remove the part from the powder. For a more detailed explanation of these mechanics, read our in-depth article What is SLS 3D printing? ."
+    },
+    {
+      "hash": "4ca69eaf226abe5807f7433ea6075a1eb6c1dcb5",
+      "heading": "Multi Jet Fusion",
+      "level": "h3",
+      "text": "Multi Jet Fusion To print using MJF, the machine first spreads a thin layer of powder over the build platform. The printer heats this layer to a near-sintering temperature. A carriage with inkjet nozzles (which are similar to the nozzles used in desktop 2D printers) passes over the bed, depositing a fusing agent on the powder. At the same time, the machine prints a detailing agent that inhibits sintering near the edge of the part. A powerful IR energy source then passes over the build bed and sinters the areas where the fusing agent was deposited, leaving the rest of the powder unaltered. The process repeats until all parts are complete. Similar to SLS, the printed parts are embedded in powder and need to cool down before they can be removed for further processing. For more detail on MJF, read our breakdown of the technology in What is Multi Jet Fusion (MJF)? Explained by Protolabs Network ."
+    },
+    {
+      "hash": "4e17eceedd10fd6c113838619e154cde61f2b4f9",
+      "heading": "Comparing workflows for SLS and MJF",
+      "level": "h3",
+      "text": "Comparing workflows for SLS and MJF When printing with SLS, you fuse each cross-section point-by-point, while fusing in MJF is more linear. This doesn’t change the print time significantly, though, as the recoating step (and the total number of layers) mainly determines the total printing time. This step takes the same amount of time with both SLS and MJF. However, bin cooling and post-processing are much speedier when working with MJF. HP offers a dedicated post-processions station that accelerates the cooling rate of the printed bin and helps with powder removal. With MJF, you can use 80-85% of the powder recycled and recovered after each build, while only 50% of the powder from each SLS build is recyclable. Faster cooling times and augmented changes to recycle and reuse powder make MJF operators less hesitant to start jobs even when the bin is partially full. SLS machine operators, in contrast, will often wait for the bin to fill before starting a print job. This key difference in workflow results in shorter lead times."
+    },
+    {
+      "hash": "508ad342914e83faa02d0f873785f16fb5963e22",
+      "heading": "What is the dimensional accuracy of SLS and MJF?",
+      "level": "h2",
+      "text": "What is the dimensional accuracy of SLS and MJF? SLS and MJF are both industrial technologies that offer high dimensional accuracy for custom parts. However, MJF does have a small edge over SLS. This is mainly because MJF printheads deposit material at 1200 DPI (or approximately 1 dot every 0.022 mm), while the typical SLS laser spot size is approximately 0.3 and 0.4 mm in diameter. Also, the detailing agent used in MJF helps with printing small features and sharp edges. It's important to note that SLS and MJF don't require support structures. This allows you to create free-form models without any support removal marks. However, both technologies are susceptible to warping, so be sure to avoid large flat areas in your design. In testing both technologies extensively, we found that MJF-printed parts were more prone to warping than those printed with SLS."
+    },
+    {
+      "hash": "859644b8063aeb884c370a9650b3af5a2e5713e4",
+      "heading": "What surface quality can you get with SLS and MJF 3D printing?",
+      "level": "h2",
+      "text": "What surface quality can you get with SLS and MJF 3D printing? 3D printing parts with either SLS and MJF technology leads to grainy surface finishes that can be post-processed to a high standard. If one of your main requirements for your part is aesthetic appeal, we recommend dying as part of your post-processing. In terms of color, MJF systems presently use a black fusing agent, as dark materials absorb radiation more effectively. As a result, parts printed with MJF have a light gray appearance. You can opt for an additional dying step to achieve a uniform black finish. SLS parts, on the other hand, are usually printed white and can be dyed to any color . Grey SLS nylon powder is also available, and parts printed in this material will look similar to MJF parts but smoother to the touch."
+    },
+    {
+      "hash": "52b0dc4aa6dc314e7ba807f052868d9ecd52ecbe",
+      "heading": "What are the material properties of SLS and MJF?",
+      "level": "h2",
+      "text": "What are the material properties of SLS and MJF? PA 12 (nylon) is the main material used for both SLS and MJF. When printing with this material, MJF parts have superior strength and flexibility and more homogeneous mechanical properties compared to SLS parts. But although MJF offers better print quality with nylon, SLS printers offer more material options, such as carbon-filled PA , aluminum-filled PA (alumide) and flexible TPU . MJF’s material limitation is definitely a disadvantage when choosing between the two technologies. However, MJF is an open material platform and a quickly maturing technology, which will usher in quick material development as more designers and engineers discover its myriad benefits."
+    },
+    {
+      "hash": "c13407c309c21731fa9b2145629c9097b70fbcc9",
+      "heading": "What are the costs and lead times for SLS and MJF 3D printing?",
+      "level": "h2",
+      "text": "What are the costs and lead times for SLS and MJF 3D printing? Cost and lead time are two essential factors for choosing between SLS and MJF. To assess both elements, we ran a small experiment for each of these two 3D printing technologies. Using a bracket design (pictured below) as a testing model, we requested two quotes from 3D printing services in the United States for each technology. One quote was for a prototyping order (one part), and the other was for a small-batch production run (ten to 100 parts). The model we used has a volume of 28.8 cm3 and bounding box dimensions of 101.9 x 45.0 x 18.0 mm."
+    },
+    {
+      "hash": "c955310269d69683c0d6685e4d6d571857490d54",
+      "heading": "How will SLS and MJF develop in the future?",
+      "level": "h2",
+      "text": "How will SLS and MJF develop in the future? While SLS machines will always only ever be able to produce parts from a single material per build, MJF parts can have different material properties. You can achieve this by changing the type or concentration of the fusion agent. HP has claimed that MJF allows you to control the mechanical, thermal, optical and even electrical properties of a part. However, this functionality is not yet available with the first-generation MJF printers. The second-generation HP printers are expected to support multi-material and multi-colored printing. On the SLS side, one notable update is the development of a price-competitive desktop solution for SLS printing at home or at the office. These systems have a lot of promise, though viable machines for this exact application haven’t entered the market yet."
+    },
+    {
+      "hash": "02842b08377539be654ab1179cf41e1d947c4424",
+      "heading": "Frequently asked questions",
+      "level": "h2",
+      "text": "Frequently asked questions Frequently asked questions"
+    },
+    {
+      "hash": "28702a30689affc4a67c0efc0aa2f63597280d72",
+      "heading": "Is MJF stronger than SLS?",
+      "level": "h3",
+      "text": "Is MJF stronger than SLS? Parts produced using MJF are stronger and more flexible than SLS parts. They also have more homogeneous mechanical properties compared to SLS parts, which are weaker along the print direction."
+    },
+    {
+      "hash": "991c13be059ccc8f25d1b446c1fe556179ab3cfa",
+      "heading": "Is MJF more cost efficient than SLS?",
+      "level": "h3",
+      "text": "Is MJF more cost efficient than SLS? In general, MJF costs less for lower density parts, and SLS is a better option for more solid parts. MJF is a more cost efficient choice for printing single items, while SLS is cheaper for nested items."
+    },
+    {
+      "hash": "d30b759581919a7d2bec8f60915d87822420c057",
+      "heading": "Is MJF more accurate than SLS?",
+      "level": "h3",
+      "text": "Is MJF more accurate than SLS? SLS and MJF print parts with similar accuracy. This often depends more on the experience manufacturers have with each of the technologies, rather than the systems themselves."
+    },
+    {
+      "hash": "2ded4d6fa56057752270e98735d98b1621881cda",
+      "heading": "Is SLS better than MJF for materials and colors?",
+      "level": "h3",
+      "text": "Is SLS better than MJF for materials and colors? With SLS, you get a wider range of material options with several nylons and an elastomeric prototyping TPU. SLS also offers more color variety. MJF prints gray parts that can be dyed black when they come out, while SLS parts come out white and can be dyed any color. For both processes, the materials available are Nylon 12 (PA 12) and Glass-filled Nylon (PA 12 GF)."
+    },
+    {
+      "hash": "f0ae49343ba7643fe365d0b08e0c772316e41b9d",
+      "heading": "Is MJF better than SLS for larger quantities of parts?",
+      "level": "h3",
+      "text": "Is MJF better than SLS for larger quantities of parts? Overall, MJF builds parts faster than SLS, so you can create more parts in a shorter period."
+    },
+    {
+      "hash": "76929529ccf70a1dddac4f97233e742a723b9aba",
+      "heading": "Do MJF parts have better mechanical properties than SLS parts?",
+      "level": "h3",
+      "text": "Do MJF parts have better mechanical properties than SLS parts? MJF-printed parts generally have more consistent mechanical properties across their entire geometry."
+    }
+  ],
+  "sitemap_lastmod": "2026-05-20T09:09:43+00:00",
+  "status": 200,
+  "structure_hash": "672f7340dc97dcb86ced69817e782e6bcc63244c",
+  "text_excerpt": "Multi Jet Fusion (MJF) and Selective Laser Sintering (SLS) are industrial 3D printing technologies that belong to the powder bed fusion family. Both processes build parts by thermally fusing (or sintering) polymer powder particles layer by layer. The main difference between these two technologies is their heat source. SLS uses a laser to scan and sinter across each cross-section. MJF, on the other hand, dispenses an ink (fusing agent) on the powder for absorbing infrared light. The printer then passes an infrared energy source over the build platform to fuse the inked areas. Essentially, MJF combines SLS and Binder Jetting technologies. Since SLS and MJF create parts that are very similar, it’s important for a designer to understand the differences between the two processes. In this article, we compare SLS and MJF in terms of workflow, accuracy, materials, cost and lead time. Already have an idea of which technology you'd like to use? Get your parts into production swiftly with our quote builder . How do SLS and MJF 3D printing processes work? SLS and MJF 3D printing have similar fabrication processes and workflows, however, there are a few key differences between the two technolo...",
+  "text_hash": "0a3d3782d283e79ac0293607fa19c4ea662cf1b1",
+  "title": "What is the difference between Selective Laser Sintering (SLS) and Multi Jet Fusion (MJF) 3D printing? | Protolabs Network",
+  "url": "https://www.hubs.com/knowledge-base/hp-mjf-vs-sls-3d-printing-technology-comparison"
+}

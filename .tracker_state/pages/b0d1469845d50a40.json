@@ -1,0 +1,203 @@
+{
+  "canonical": "https://www.hubs.com/knowledge-base/stress-strain-curve",
+  "category": "content",
+  "competitor": "Hubs",
+  "ctas": [
+    {
+      "href": "https://www.hubs.com/manufacture",
+      "text": "Upload your CAD file"
+    }
+  ],
+  "discovered_via": "sitemap",
+  "fetched_at": "2026-08-17T03:41:50+00:00",
+  "final_url": "https://www.hubs.com/knowledge-base/stress-strain-curve",
+  "first_seen_at": "2026-08-17T03:41:50+00:00",
+  "h1": "",
+  "headings": [
+    {
+      "level": "h2",
+      "text": "Stress strain diagram basics: Axes, units and key terms"
+    },
+    {
+      "level": "h2",
+      "text": "Elastic region, yield point and modulus explained"
+    },
+    {
+      "level": "h2",
+      "text": "Plastic deformation, necking and fracture insights"
+    },
+    {
+      "level": "h2",
+      "text": "Stress strain diagram learning resources: notes, labs and videos"
+    },
+    {
+      "level": "h2",
+      "text": "Get started"
+    },
+    {
+      "level": "h2",
+      "text": "Frequently asked questions"
+    },
+    {
+      "level": "h3",
+      "text": "What is a stress–strain diagram?"
+    },
+    {
+      "level": "h3",
+      "text": "Why is a stress–strain diagram important in engineering?"
+    },
+    {
+      "level": "h3",
+      "text": "What is the difference between stress and strain?"
+    },
+    {
+      "level": "h3",
+      "text": "What is the elastic region of a stress–strain curve?"
+    },
+    {
+      "level": "h3",
+      "text": "What is Young’s modulus?"
+    },
+    {
+      "level": "h3",
+      "text": "What is the yield point?"
+    },
+    {
+      "level": "h3",
+      "text": "What is plastic deformation?"
+    },
+    {
+      "level": "h3",
+      "text": "What is necking in a stress–strain diagram?"
+    },
+    {
+      "level": "h3",
+      "text": "How can stress–strain diagrams help with material selection?"
+    },
+    {
+      "level": "h3",
+      "text": "What is the difference between ductile and brittle materials on a stress–strain curve?"
+    }
+  ],
+  "images": [
+    {
+      "alt": "",
+      "src": "/images/trans.gif"
+    },
+    {
+      "alt": "CNC machining, 3D printing and sheet metal fabrication parts",
+      "src": "/images/trans.gif"
+    }
+  ],
+  "meta_description": "Understand stress–strain diagrams and material failure under load. Work on your design and upload your CAD file for expert feedback.",
+  "modified_at": "",
+  "monitored_text": "When you design parts that must perform reliably under real-world loads, nominal material values are rarely enough. A stress-strain diagram illustrates how a material responds as load increases, from the first elastic stretch through to permanent deformation and eventual failure. It gives you insight into when a material behaves predictably and when it does not. This diagram helps you to understand what happens inside the material as stress builds up. You can see where elastic behavior ends, where yielding begins, and how much deformation occurs before fracture. This makes it easier to judge whether a material is suitable for load-bearing features, thin walls, or tight tolerances. By learning how to read and interpret a stress-strain diagram, you can make better design decisions earlier in the process. It allows you to select alloys that balance strength, deformation behavior, and cost, while keeping sufficient safety margins for machined parts that must retain their shape and fit under load. Stress strain diagram basics: Axes, units and key terms In a stress-strain diagram, the vertical axis represents the stress applied to the material, while the horizontal axis shows strain, or how much the material deforms relative to its original length. Stress is typically expressed in MPa or ksi and reflects the force applied per unit area. Strain is a dimensionless value, calculated as the change in length divided by the original length, and indicates how much the material stretches or compresses under load. A common source of error is mixing up these units or misreading where the key transitions occur on the curve, such as the elastic limit or yield point. Another frequent mistake is treating all stress values as the same, even though material behavior changes significantly once deformation moves beyond the elastic range and plastic deformation begins. At this point, small increases in stress can result in disproportionately large changes in shape. Clearly defining stress, strain, and their units is essential when comparing materials, interpreting test reports, or evaluating supplier data. This clarity helps you to make informed decisions during material selection and ensures that components maintain their required dimensions and performance when subjected to real-world loads. Elastic region, yield point and modulus explained In the initial linear portion of a stress-strain curve, materials behave elastically. This means that they return to their original shape once the load is removed. Within this region, the material follows where stress increases proportionally with strain. The slope of this linear region is known as Young’s modulus. It describes how stiff a material is and how much it will deflect under a given load. A higher modulus means less deformation for the same applied stress. Once stress exceeds the yield point, the material enters the plastic region. From this moment onwards, deformation becomes permanent. Understanding where this transition occurs helps you to estimate how much a structural feature, housing, or mounting interface will deflect before it can no longer return to its original geometry. Plastic deformation, necking and fracture insights After a material passes its yield point, it enters the plastic deformation stage. In this phase, the material continues to stretch while its internal structure rearranges. The part may still carry load, but its shape is permanently altered. As stress increases further and reaches its maximum point, necking begins. The material starts to thin locally, concentrating deformation in one area. This localized thinning is a strong indicator that fracture is about to occur, as the remaining cross-section can no longer support the applied load. By understanding how plastic deformation, necking, and fracture appear on a stress-strain diagram, you can anticipate how and where the failure will occur. This insight allows you to design parts that fail predictably rather than abruptly, improving safety and reliability in load-bearing applications. Stress strain diagram learning resources: notes, labs and videos To move from theory to production, it helps to work with practical reference tools. Our interactive Material Database lets you compare yield strength, elasticity, and other mechanical properties of different metals side by side. This makes it easier to translate stress-strain behavior into concrete material choices for your design. Understanding how Young’s modulus influences stiffness and deflection is also covered in our CNC machining resources . These materials explain how elastic behavior affects part accuracy, tolerances, and performance under load. Combined with the recommendations in our manufacturing design guides , this gives you the context needed to design parts that balance durability, precision, and cost. Get started Are you ready to apply these insights to your project? Upload your CAD file for an instant quote and a comprehensive DFM analysis today. Subscribe Get the latest manufacturing news delivered to your mailbox. Sign up for our newsletter Sign me up Please enter a valid email address. Leave this field empty Thanks! You're now subscribed to our newsletter. Frequently asked questions What is a stress–strain diagram? A stress–strain diagram is a graph that illustrates how a material responds to increasing loads. It shows the relationship between stress (force per unit area) and strain (deformation), helping engineers to understand a material’s stiffness, strength, and failure behavior. Why is a stress–strain diagram important in engineering? Stress–strain diagrams help engineers to select suitable materials, predict part performance under load, and determine safe operating limits. They are widely used when designing structural, load-bearing, and precision components. What is the difference between stress and strain? Stress is the force applied per unit area and is typically measured in MPa or ksi. Strain measures the amount of deformation relative to the material’s original length and is expressed as a dimensionless value. What is the elastic region of a stress–strain curve? The elastic region is the initial portion of the curve where a material returns to its original shape after the load is removed. Deformation within this region is temporary and reversible. What is Young’s modulus? Young’s modulus, or the modulus of elasticity, is the slope of the linear elastic region of a stress–strain curve. It indicates how stiff a material is and how much it will deform under a given load. What is the yield point? The yield point marks the transition between elastic and plastic deformation. Once a material exceeds its yield strength, it undergoes permanent deformation and will not fully return to its original shape when the load is removed. What is plastic deformation? Plastic deformation occurs after the yield point and results in permanent changes to a material’s shape. The material may continue to carry load, but it won’t be able to recover its original geometry. What is necking in a stress–strain diagram? Necking occurs when deformation becomes concentrated in a small region of the material, causing a local reduction in cross-sectional area. It is often a precursor to fracture. How can stress–strain diagrams help with material selection? By comparing properties such as stiffness, yield strength, ductility, and fracture behavior, engineers can select materials that meet the performance requirements of a specific application while maintaining appropriate safety margins. What is the difference between ductile and brittle materials on a stress–strain curve? Ductile materials exhibit significant plastic deformation before fracture, while brittle materials fracture with little or no plastic deformation. This difference is clearly visible on a stress–strain diagram and helps predict how a material will fail in service.",
+  "published_at": "",
+  "requested_url": "https://www.hubs.com/knowledge-base/stress-strain-curve",
+  "schema_version": 2,
+  "sections": [
+    {
+      "hash": "f91b76f8173b7b9e435f2b0267a7ec53e31e6afd",
+      "heading": "Stress strain diagram basics: Axes, units and key terms",
+      "level": "h2",
+      "text": "Stress strain diagram basics: Axes, units and key terms In a stress-strain diagram, the vertical axis represents the stress applied to the material, while the horizontal axis shows strain, or how much the material deforms relative to its original length. Stress is typically expressed in MPa or ksi and reflects the force applied per unit area. Strain is a dimensionless value, calculated as the change in length divided by the original length, and indicates how much the material stretches or compresses under load. A common source of error is mixing up these units or misreading where the key transitions occur on the curve, such as the elastic limit or yield point. Another frequent mistake is treating all stress values as the same, even though material behavior changes significantly once deformation moves beyond the elastic range and plastic deformation begins. At this point, small increases in stress can result in disproportionately large changes in shape. Clearly defining stress, strain, and their units is essential when comparing materials, interpreting test reports, or evaluating supplier data. This clarity helps you to make informed decisions during material selection and ensures..."
+    },
+    {
+      "hash": "46b39d2fbc39997acfe5b77834ef551d422981ea",
+      "heading": "Elastic region, yield point and modulus explained",
+      "level": "h2",
+      "text": "Elastic region, yield point and modulus explained In the initial linear portion of a stress-strain curve, materials behave elastically. This means that they return to their original shape once the load is removed. Within this region, the material follows where stress increases proportionally with strain. The slope of this linear region is known as Young’s modulus. It describes how stiff a material is and how much it will deflect under a given load. A higher modulus means less deformation for the same applied stress. Once stress exceeds the yield point, the material enters the plastic region. From this moment onwards, deformation becomes permanent. Understanding where this transition occurs helps you to estimate how much a structural feature, housing, or mounting interface will deflect before it can no longer return to its original geometry."
+    },
+    {
+      "hash": "5a5a72cfb02e65a38b90fe798bfda5b40e365b7c",
+      "heading": "Plastic deformation, necking and fracture insights",
+      "level": "h2",
+      "text": "Plastic deformation, necking and fracture insights After a material passes its yield point, it enters the plastic deformation stage. In this phase, the material continues to stretch while its internal structure rearranges. The part may still carry load, but its shape is permanently altered. As stress increases further and reaches its maximum point, necking begins. The material starts to thin locally, concentrating deformation in one area. This localized thinning is a strong indicator that fracture is about to occur, as the remaining cross-section can no longer support the applied load. By understanding how plastic deformation, necking, and fracture appear on a stress-strain diagram, you can anticipate how and where the failure will occur. This insight allows you to design parts that fail predictably rather than abruptly, improving safety and reliability in load-bearing applications."
+    },
+    {
+      "hash": "da3098603a6e80e8914122befe85bc177fcbdef4",
+      "heading": "Stress strain diagram learning resources: notes, labs and videos",
+      "level": "h2",
+      "text": "Stress strain diagram learning resources: notes, labs and videos To move from theory to production, it helps to work with practical reference tools. Our interactive Material Database lets you compare yield strength, elasticity, and other mechanical properties of different metals side by side. This makes it easier to translate stress-strain behavior into concrete material choices for your design. Understanding how Young’s modulus influences stiffness and deflection is also covered in our CNC machining resources . These materials explain how elastic behavior affects part accuracy, tolerances, and performance under load. Combined with the recommendations in our manufacturing design guides , this gives you the context needed to design parts that balance durability, precision, and cost."
+    },
+    {
+      "hash": "e8f308de28e21d55a87fbc44d9eedb6df66e882f",
+      "heading": "Get started",
+      "level": "h2",
+      "text": "Get started Are you ready to apply these insights to your project? Upload your CAD file for an instant quote and a comprehensive DFM analysis today."
+    },
+    {
+      "hash": "02842b08377539be654ab1179cf41e1d947c4424",
+      "heading": "Frequently asked questions",
+      "level": "h2",
+      "text": "Frequently asked questions Frequently asked questions"
+    },
+    {
+      "hash": "78ff051655e1698e0bde4250e98524b10d8a0153",
+      "heading": "What is a stress–strain diagram?",
+      "level": "h3",
+      "text": "What is a stress–strain diagram? A stress–strain diagram is a graph that illustrates how a material responds to increasing loads. It shows the relationship between stress (force per unit area) and strain (deformation), helping engineers to understand a material’s stiffness, strength, and failure behavior."
+    },
+    {
+      "hash": "b3a11168e4223062f5a4c547cd237f3fc6db7c1a",
+      "heading": "Why is a stress–strain diagram important in engineering?",
+      "level": "h3",
+      "text": "Why is a stress–strain diagram important in engineering? Stress–strain diagrams help engineers to select suitable materials, predict part performance under load, and determine safe operating limits. They are widely used when designing structural, load-bearing, and precision components."
+    },
+    {
+      "hash": "d1ba6b6be308118badd45da35592db4a00b1d608",
+      "heading": "What is the difference between stress and strain?",
+      "level": "h3",
+      "text": "What is the difference between stress and strain? Stress is the force applied per unit area and is typically measured in MPa or ksi. Strain measures the amount of deformation relative to the material’s original length and is expressed as a dimensionless value."
+    },
+    {
+      "hash": "ae21c9632080518a6542c1bd136c20c9d1864c6e",
+      "heading": "What is the elastic region of a stress–strain curve?",
+      "level": "h3",
+      "text": "What is the elastic region of a stress–strain curve? The elastic region is the initial portion of the curve where a material returns to its original shape after the load is removed. Deformation within this region is temporary and reversible."
+    },
+    {
+      "hash": "a31fae7aef90e0c2462bbe08d32522f1e9ccb12d",
+      "heading": "What is Young’s modulus?",
+      "level": "h3",
+      "text": "What is Young’s modulus? Young’s modulus, or the modulus of elasticity, is the slope of the linear elastic region of a stress–strain curve. It indicates how stiff a material is and how much it will deform under a given load."
+    },
+    {
+      "hash": "7dc7ba085fedcaf5ec33278b486872472d47db71",
+      "heading": "What is the yield point?",
+      "level": "h3",
+      "text": "What is the yield point? The yield point marks the transition between elastic and plastic deformation. Once a material exceeds its yield strength, it undergoes permanent deformation and will not fully return to its original shape when the load is removed."
+    },
+    {
+      "hash": "e11f3e6e72764085e84a78c55a7603f1842c2633",
+      "heading": "What is plastic deformation?",
+      "level": "h3",
+      "text": "What is plastic deformation? Plastic deformation occurs after the yield point and results in permanent changes to a material’s shape. The material may continue to carry load, but it won’t be able to recover its original geometry."
+    },
+    {
+      "hash": "d046750cc19e362e20d9caf06822192249ddd45f",
+      "heading": "What is necking in a stress–strain diagram?",
+      "level": "h3",
+      "text": "What is necking in a stress–strain diagram? Necking occurs when deformation becomes concentrated in a small region of the material, causing a local reduction in cross-sectional area. It is often a precursor to fracture."
+    },
+    {
+      "hash": "1c40ac56bec7e255001034396e5abcb379009384",
+      "heading": "How can stress–strain diagrams help with material selection?",
+      "level": "h3",
+      "text": "How can stress–strain diagrams help with material selection? By comparing properties such as stiffness, yield strength, ductility, and fracture behavior, engineers can select materials that meet the performance requirements of a specific application while maintaining appropriate safety margins."
+    },
+    {
+      "hash": "ea857d599a811591df7335d36b2559011d953b70",
+      "heading": "What is the difference between ductile and brittle materials on a stress–strain curve?",
+      "level": "h3",
+      "text": "What is the difference between ductile and brittle materials on a stress–strain curve? Ductile materials exhibit significant plastic deformation before fracture, while brittle materials fracture with little or no plastic deformation. This difference is clearly visible on a stress–strain diagram and helps predict how a material will fail in service."
+    }
+  ],
+  "sitemap_lastmod": "2026-07-07T14:33:44+00:00",
+  "status": 200,
+  "structure_hash": "941d6787ecd12c7ba7cd6c51a637a63828431904",
+  "text_excerpt": "When you design parts that must perform reliably under real-world loads, nominal material values are rarely enough. A stress-strain diagram illustrates how a material responds as load increases, from the first elastic stretch through to permanent deformation and eventual failure. It gives you insight into when a material behaves predictably and when it does not. This diagram helps you to understand what happens inside the material as stress builds up. You can see where elastic behavior ends, where yielding begins, and how much deformation occurs before fracture. This makes it easier to judge whether a material is suitable for load-bearing features, thin walls, or tight tolerances. By learning how to read and interpret a stress-strain diagram, you can make better design decisions earlier in the process. It allows you to select alloys that balance strength, deformation behavior, and cost, while keeping sufficient safety margins for machined parts that must retain their shape and fit under load. Stress strain diagram basics: Axes, units and key terms In a stress-strain diagram, the vertical axis represents the stress applied to the material, while the horizontal axis shows strain, or...",
+  "text_hash": "252fb884bf7d99c0dd7c836123badcfe3c9ea87b",
+  "title": "Stress strain diagram: How materials behave under load | Protolabs Network",
+  "url": "https://www.hubs.com/knowledge-base/stress-strain-curve"
+}

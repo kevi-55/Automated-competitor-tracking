@@ -1,0 +1,181 @@
+{
+  "canonical": "https://www.xometry.com/resources/injection-molding/how-to-design-a-mold-for-high-temperature-plastics",
+  "category": "content",
+  "competitor": "Xometry",
+  "ctas": [
+    {
+      "href": "https://www.xometry.com/authors/joel-schadegg",
+      "text": "Joel Schadegg"
+    },
+    {
+      "href": "https://www.xometry.com/resources/design-guides/design-guide-cnc-machining",
+      "text": "Download for Free"
+    },
+    {
+      "href": "https://www.xometry.com/testdrive",
+      "text": "Launch Demo"
+    },
+    {
+      "href": "https://www.xometry.com/quoting/home",
+      "text": "Upload Your Design"
+    },
+    {
+      "href": "https://www.xometry.com/authors/joel-schadegg",
+      "text": "Read more articles by Joel Schadegg"
+    }
+  ],
+  "discovered_via": "feed",
+  "fetched_at": "2026-08-17T03:44:34+00:00",
+  "final_url": "https://www.xometry.com/resources/injection-molding/how-to-design-a-mold-for-high-temperature-plastics",
+  "first_seen_at": "2026-08-17T03:44:34+00:00",
+  "h1": "How to Design a Mold for High-Temperature Plastics",
+  "headings": [
+    {
+      "level": "h1",
+      "text": "How to Design a Mold for High-Temperature Plastics"
+    },
+    {
+      "level": "h2",
+      "text": "What are High-Temperature Plastics?"
+    },
+    {
+      "level": "h3",
+      "text": "1. Amorphous Thermoplastics"
+    },
+    {
+      "level": "h3",
+      "text": "2. Semi Crystalline Thermoplastics"
+    },
+    {
+      "level": "h2",
+      "text": "Mold Design for High-Temperature Materials"
+    },
+    {
+      "level": "h3",
+      "text": "1. Cooling Channels"
+    },
+    {
+      "level": "h3",
+      "text": "2. Mold Coolant"
+    },
+    {
+      "level": "h3",
+      "text": "3. Thermal Pins"
+    },
+    {
+      "level": "h3",
+      "text": "4. Mold Heating"
+    },
+    {
+      "level": "h3",
+      "text": "5. Mold Maintenance"
+    },
+    {
+      "level": "h3",
+      "text": "6. Mold Material Selection"
+    }
+  ],
+  "images": [
+    {
+      "alt": "Joel Schadegg",
+      "src": "https://images.prismic.io/xometry-marketing/Zpbe8B5LeNNTxNv3_Joel-Headshot.jpg?auto=format%2Ccompress&rect=719%2C259%2C1481%2C1481&w=88&h=88&fit=crop"
+    },
+    {
+      "alt": "Injection mold tool",
+      "src": "https://images.prismic.io/xometry-marketing/a2c6d225-6440-43c2-98be-6e60ce885bd6_20190219_TuningForks_Mold_Injection_Molding_Case_Study.jpg?auto=format%2Ccompress&rect=114%2C0%2C4..."
+    },
+    {
+      "alt": "CNC Machining Design Guide cover",
+      "src": "/_next/image/?url=https%3A%2F%2Fimages.prismic.io%2Fxometry-marketing%2FaAlI9vIqRLdaBisC_cnc-machining-design-guide.png%3Fauto%3Dformat%2Ccompress&w=384&q=75"
+    },
+    {
+      "alt": "",
+      "src": "https://images.prismic.io/xometry-marketing/aeksPsBOoF08xOhg_x-pipe.png?auto=format,compress"
+    },
+    {
+      "alt": "picture of Joel",
+      "src": "https://images.prismic.io/xometry-marketing/Zpbe8B5LeNNTxNv3_Joel-Headshot.jpg?auto=format%2Ccompress&rect=719%2C259%2C1481%2C1481&w=192&h=192&fit=crop"
+    }
+  ],
+  "meta_description": "This article will describe the typical problems faced when using these high-performance plastics for injection molding and what design steps can be taken when designing a mold for high-temperature material.",
+  "modified_at": "2026-07-22T18:50:33+00:00",
+  "monitored_text": "Resources / Injection Molding / How to Design a Mold for High-Temperature Plastics How to Design a Mold for High-Temperature Plastics Written by Joel Schadegg 5 min read Published October 19, 2021 Updated July 22, 2026 This article will describe the typical problems faced when using these high-performance plastics for injection molding and what design steps can be taken when designing a mold for high-temperature material. Injection molding is one of the most cost-effective manufacturing methods for high-volume production. However, parts are typically made from relatively weak materials that aren’t always up to tasks that need strength and corrosion resistance. This is where engineering plastics come in. These plastics have exceptional mechanical, thermal, and anti-corrosion properties. The best of these materials like PEEK or Ultem have high melting points which make them more difficult to mold via injection methods. This article will describe the typical problems faced when using these high-performance plastics for injection molding and what design steps can be taken when designing a mold for high-temperature material. What are High-Temperature Plastics? The term, ‘high-temperature plastics’ refers to engineering plastics that melt at between 410°F (216°C) and 720°F (382°C). They can be subdivided into amorphous and semi-crystalline materials. It must be noted that both material types are sensitive to the time spent in liquid form. They tend to degrade mechanically with longer residence times. Design Guide: CNC Machining Download our guide for CNC manufacturability recommendations to optimize your designs, reduce machining time, and lower your costs. Download for Free 1. Amorphous Thermoplastics Amorphous plastics like Ultem (polyetherimide or PEI) have a random molecular structure and a wide softening range. Amorphous plastics are easy to thermoform and can be bonded with adhesives but exhibit poor resistance to stress cracking and poor fatigue, corrosion, and wear resistance. Parts molded from amorphous plastics tend to stick to the molds and often develop cracks during the ejection process. Typical controls include high-temperature molds that help inhibit those internal stresses. The material should also be injected at high pressure. After that, the pack pressure should be gradually reduced to prevent overpacking. 2. Semi Crystalline Thermoplastics Semi-crystalline materials like polyether ether ketone ( PEEK ) have an ordered crystal structure. Unlike amorphous materials, their melting ranges are very tight. This means that they absorb a lot of heat then melt suddenly instead of slowly softening. Semi-crystalline plastics are great at resisting corrosion and wear while also exhibiting excellent mechanical toughness. The downside is their poor impact resistance and the difficulty of maintaining dimensional stability. Semi-crystalline plastics are generally tougher to inject than amorphous plastics and are prone to forming sinks and voids. This can be avoided by keeping the pack pressure consistent. Semi-crystalline parts should be injected at moderate pressure and mold temperatures should be kept high to ensure crystallization. Fully crystallized material will be translucent. Mold Design for High-Temperature Materials High-temperature amorphous and semicrystalline materials require extra care when it comes to mold cooling and heating to both reduce cycle times and ensure consistent part quality. The cost of injection molded parts is directly proportional to the cycle time. With high-temperature plastics, a significant proportion of this time is spent in the cooling phase before part ejection. As such, one of the most critical factors when molding high-temperature plastics is achieving a quick and efficient cooling and heating cycle. 1. Cooling Channels Cooling channels in a mold for high-temperature material must be designed in such a way that ensures highly turbulent flow. The turbulence significantly improves the coolant’s heat transfer capability. In general, the channels must be designed to achieve a Reynolds number of above 10,000 to ensure optimal turbulence. Laminar flow provides poor heat transfer. Take a Tour of Instant Quoting Engine® Get a live demo of Xometry's best-in-class Instant Quoting Engine Launch Demo In addition to the size of the coolant channels, it is important to maintain the temperature both in the cavity and the core of the mold. The amount of heat dumped into these can vary, so it must be accounted for. Ideally, the temperature differential between core and cavity needs to be maintained at no more than 5°C. 2. Mold Coolant High-performance plastics often have a melt temperature well above the boiling point of water and as such, other coolants like oil are used instead. The boiling point of water can be increased by increasing the overall system pressure but high pressures come with their own risks. High-temperature water systems tend to be specialized designs. 3. Thermal Pins In areas where cooling channels are not feasible, cooling pins made from copper-beryllium alloys can be used to transfer heat. They thermally connect difficult-to-reach parts of the mold to the cooling channels. 4. Mold Heating After the part has been ejected, the mold will be at its lower-temperature state. The next injection cannot take place at that temperature. A mold for high-temperature material will need to be quickly reheated. There are many methods to do this. Occasionally, the plastic itself may be hot enough to warm the mold as it is injected. More often, the most efficient solution is to use the cooling channels to pipe hot steam or oil through the mold to bring it to the required temperature. This heating medium then needs to be expelled to make space for the post-injection cooling fluid. Cartridge heaters are not recommended in molds for high-temperature material. They can only add heat and cannot remove it. Adding thermocouples to the mold in key locations can help users monitor mold temperatures to keep them consistent. 5. Mold Maintenance Over time, a mold may begin to wear. The degradation can affect heat transfer in that area. In addition to this, scale may form in the cooling channels which can significantly affect the heat transfer capacity. Regular mold maintenance and descaling of the coolant channels is an important factor in outputting consistent parts. 6. Mold Material Selection Choosing a mold material is a careful balance between abrasion resistance, cost, heat transfer capacity, and machinability. A key metric in a mold for high-temperature material is heat transfer capacity - a material with poor thermal conductivity will need more cooling channels and higher/lower temperature fluids will be needed for heating and cooling. In addition to this, molds should generally be made from a material with a hardness of 52-54 Rockwell C . The hardness also depends on what type of filler is used in the material, if any. Aluminum is not recommended for production tooling but may be sufficient for prototyping. Designing an injection mold for high-temperature material is a vast and complicated topic. There are often multiple ways to achieve the same result. It is difficult and expensive to design a cost-effective mold that produces quality parts under minimal cycle times. Parts made of high-temperature engineering plastics can often replace metal parts in high-performance applications, but creating their molds is much more of a challenge than for standard plastics like ABS. Start Your Instant Quote STEP · STP · SLDPRT · STL · DXF · IPT · X_T · X_B · 3DXML · CATPART · PRT · SAT · 3MF · JT Upload Your Design All uploads are secure and confidential Joel Schadegg Hey, I’m Joel, a technical content writer at Xometry! I have made it my personal mission to help customers like you get the most out of the Xometry experience and achieve success on your projects by leveraging my hands-on experience running machines, processing parts, and ensuring order fulfillment. Read more articles by Joel Schadegg Start Your Instant Quote STEP · STP · SLDPRT · STL · DXF · IPT · X_T · X_B · 3DXML · CATPART · PRT · SAT · 3MF · JT Upload Your Design All uploads are secure and confidential Recent Stories Data Center Cooling: Cooling Systems, Methods, and Best Practices August 13, 2026 24 min read Cloud Data Center: Definition and Model August 13, 2026 42 min read Edge Data Center: Definition and Architecture August 13, 2026 20 min read",
+  "published_at": "2021-10-19T19:24:52+00:00",
+  "requested_url": "https://www.xometry.com/resources/injection-molding/how-to-design-a-mold-for-high-temperature-plastics",
+  "schema_version": 2,
+  "sections": [
+    {
+      "hash": "374f09523e99af1fde9dd105be81272027d78383",
+      "heading": "How to Design a Mold for High-Temperature Plastics",
+      "level": "h1",
+      "text": "How to Design a Mold for High-Temperature Plastics How to Design a Mold for High-Temperature Plastics"
+    },
+    {
+      "hash": "d0dc990e5ebe448b138cf88e613e11690d7b8fdd",
+      "heading": "What are High-Temperature Plastics?",
+      "level": "h2",
+      "text": "What are High-Temperature Plastics? The term, ‘high-temperature plastics’ refers to engineering plastics that melt at between 410°F (216°C) and 720°F (382°C). They can be subdivided into amorphous and semi-crystalline materials. It must be noted that both material types are sensitive to the time spent in liquid form. They tend to degrade mechanically with longer residence times."
+    },
+    {
+      "hash": "8c15d802d40b2ffbb13e5eff6e8229252b1e335a",
+      "heading": "1. Amorphous Thermoplastics",
+      "level": "h3",
+      "text": "1. Amorphous Thermoplastics Amorphous plastics like Ultem (polyetherimide or PEI) have a random molecular structure and a wide softening range. Amorphous plastics are easy to thermoform and can be bonded with adhesives but exhibit poor resistance to stress cracking and poor fatigue, corrosion, and wear resistance. Parts molded from amorphous plastics tend to stick to the molds and often develop cracks during the ejection process. Typical controls include high-temperature molds that help inhibit those internal stresses. The material should also be injected at high pressure. After that, the pack pressure should be gradually reduced to prevent overpacking."
+    },
+    {
+      "hash": "755f32bd0b734af8c94152d3e09f7ad8a9600821",
+      "heading": "2. Semi Crystalline Thermoplastics",
+      "level": "h3",
+      "text": "2. Semi Crystalline Thermoplastics Semi-crystalline materials like polyether ether ketone ( PEEK ) have an ordered crystal structure. Unlike amorphous materials, their melting ranges are very tight. This means that they absorb a lot of heat then melt suddenly instead of slowly softening. Semi-crystalline plastics are great at resisting corrosion and wear while also exhibiting excellent mechanical toughness. The downside is their poor impact resistance and the difficulty of maintaining dimensional stability. Semi-crystalline plastics are generally tougher to inject than amorphous plastics and are prone to forming sinks and voids. This can be avoided by keeping the pack pressure consistent. Semi-crystalline parts should be injected at moderate pressure and mold temperatures should be kept high to ensure crystallization. Fully crystallized material will be translucent."
+    },
+    {
+      "hash": "a31965aea7b706134bedb34a30f00fa609c65967",
+      "heading": "Mold Design for High-Temperature Materials",
+      "level": "h2",
+      "text": "Mold Design for High-Temperature Materials High-temperature amorphous and semicrystalline materials require extra care when it comes to mold cooling and heating to both reduce cycle times and ensure consistent part quality. The cost of injection molded parts is directly proportional to the cycle time. With high-temperature plastics, a significant proportion of this time is spent in the cooling phase before part ejection. As such, one of the most critical factors when molding high-temperature plastics is achieving a quick and efficient cooling and heating cycle. 1. Cooling Channels Cooling channels in a mold for high-temperature material must be designed in such a way that ensures highly turbulent flow. The turbulence significantly improves the coolant’s heat transfer capability. In general, the channels must be designed to achieve a Reynolds number of above 10,000 to ensure optimal turbulence. Laminar flow provides poor heat transfer."
+    },
+    {
+      "hash": "8b9ef21d1e6b1659c45242140f22cd301e12ae94",
+      "heading": "1. Cooling Channels",
+      "level": "h3",
+      "text": "1. Cooling Channels Cooling channels in a mold for high-temperature material must be designed in such a way that ensures highly turbulent flow. The turbulence significantly improves the coolant’s heat transfer capability. In general, the channels must be designed to achieve a Reynolds number of above 10,000 to ensure optimal turbulence. Laminar flow provides poor heat transfer."
+    },
+    {
+      "hash": "ef2c56dc9d702fa94ddd34c14f866e27da07aa39",
+      "heading": "2. Mold Coolant",
+      "level": "h3",
+      "text": "2. Mold Coolant High-performance plastics often have a melt temperature well above the boiling point of water and as such, other coolants like oil are used instead. The boiling point of water can be increased by increasing the overall system pressure but high pressures come with their own risks. High-temperature water systems tend to be specialized designs."
+    },
+    {
+      "hash": "c313c7920ea555a26aae5140fff6b65b8bac045c",
+      "heading": "3. Thermal Pins",
+      "level": "h3",
+      "text": "3. Thermal Pins In areas where cooling channels are not feasible, cooling pins made from copper-beryllium alloys can be used to transfer heat. They thermally connect difficult-to-reach parts of the mold to the cooling channels."
+    },
+    {
+      "hash": "9afa8e40b9d742b6346cc6c17749ba6d378ade06",
+      "heading": "4. Mold Heating",
+      "level": "h3",
+      "text": "4. Mold Heating After the part has been ejected, the mold will be at its lower-temperature state. The next injection cannot take place at that temperature. A mold for high-temperature material will need to be quickly reheated. There are many methods to do this. Occasionally, the plastic itself may be hot enough to warm the mold as it is injected. More often, the most efficient solution is to use the cooling channels to pipe hot steam or oil through the mold to bring it to the required temperature. This heating medium then needs to be expelled to make space for the post-injection cooling fluid. Cartridge heaters are not recommended in molds for high-temperature material. They can only add heat and cannot remove it. Adding thermocouples to the mold in key locations can help users monitor mold temperatures to keep them consistent."
+    },
+    {
+      "hash": "0c101ca3cce7d1782cce606d75fa23e1c6556606",
+      "heading": "5. Mold Maintenance",
+      "level": "h3",
+      "text": "5. Mold Maintenance Over time, a mold may begin to wear. The degradation can affect heat transfer in that area. In addition to this, scale may form in the cooling channels which can significantly affect the heat transfer capacity. Regular mold maintenance and descaling of the coolant channels is an important factor in outputting consistent parts."
+    },
+    {
+      "hash": "561064f6106489e5ee7d6848bc6ed54f9163a6f5",
+      "heading": "6. Mold Material Selection",
+      "level": "h3",
+      "text": "6. Mold Material Selection Choosing a mold material is a careful balance between abrasion resistance, cost, heat transfer capacity, and machinability. A key metric in a mold for high-temperature material is heat transfer capacity - a material with poor thermal conductivity will need more cooling channels and higher/lower temperature fluids will be needed for heating and cooling. In addition to this, molds should generally be made from a material with a hardness of 52-54 Rockwell C . The hardness also depends on what type of filler is used in the material, if any. Aluminum is not recommended for production tooling but may be sufficient for prototyping. Designing an injection mold for high-temperature material is a vast and complicated topic. There are often multiple ways to achieve the same result. It is difficult and expensive to design a cost-effective mold that produces quality parts under minimal cycle times. Parts made of high-temperature engineering plastics can often replace metal parts in high-performance applications, but creating their molds is much more of a challenge than for standard plastics like ABS."
+    }
+  ],
+  "sitemap_lastmod": "",
+  "status": 200,
+  "structure_hash": "db03395d74f091e14b4ffeb675efeaa695e843fc",
+  "text_excerpt": "Resources / Injection Molding / How to Design a Mold for High-Temperature Plastics How to Design a Mold for High-Temperature Plastics Written by Joel Schadegg 5 min read Published October 19, 2021 Updated July 22, 2026 This article will describe the typical problems faced when using these high-performance plastics for injection molding and what design steps can be taken when designing a mold for high-temperature material. Injection molding is one of the most cost-effective manufacturing methods for high-volume production. However, parts are typically made from relatively weak materials that aren’t always up to tasks that need strength and corrosion resistance. This is where engineering plastics come in. These plastics have exceptional mechanical, thermal, and anti-corrosion properties. The best of these materials like PEEK or Ultem have high melting points which make them more difficult to mold via injection methods. This article will describe the typical problems faced when using these high-performance plastics for injection molding and what design steps can be taken when designing a mold for high-temperature material. What are High-Temperature Plastics? The term, ‘high-temperatu...",
+  "text_hash": "7f48699b9e71a5226e0e85a4907e89ffa179c5c6",
+  "title": "How to Design a Mold for High-Temperature Plastics",
+  "url": "https://www.xometry.com/resources/injection-molding/how-to-design-a-mold-for-high-temperature-plastics"
+}

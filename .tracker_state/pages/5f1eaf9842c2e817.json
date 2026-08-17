@@ -1,0 +1,96 @@
+{
+  "canonical": "https://www.protolabs.com/resources/blog/artificial-intelligence-brings-efficiencies-to-digital-manufacturing",
+  "category": "content",
+  "competitor": "Protolabs",
+  "ctas": [],
+  "discovered_via": "sitemap",
+  "fetched_at": "2026-08-17T03:49:02+00:00",
+  "final_url": "https://www.protolabs.com/resources/blog/artificial-intelligence-brings-efficiencies-to-digital-manufacturing",
+  "first_seen_at": "2026-08-17T03:49:02+00:00",
+  "h1": "Artificial Intelligence Brings Efficiencies to Digital Manufacturing",
+  "headings": [
+    {
+      "level": "h1",
+      "text": "Artificial Intelligence Brings Efficiencies to Digital Manufacturing"
+    },
+    {
+      "level": "h3",
+      "text": "Manufacturing and COVID-19"
+    },
+    {
+      "level": "h3",
+      "text": "Artificial Intelligence, Digital Manufacturing"
+    },
+    {
+      "level": "h3",
+      "text": "Using AI to Optimize the Back-End"
+    },
+    {
+      "level": "h3",
+      "text": "Customer Advantages of Manufacturing with AI"
+    }
+  ],
+  "images": [
+    {
+      "alt": "Brooklyn Park Protolabs facility",
+      "src": "/media/1020920/bp-scale-500-x-308.jpg?width=570&height=308&v=1d6659ad4860450"
+    },
+    {
+      "alt": "Artificial Intelligence in Digital Manufacturing",
+      "src": "/media/1020921/ai-graphic-570-308.jpg?width=570&height=308&v=1d6659af6c84fa0"
+    },
+    {
+      "alt": "",
+      "src": "/media/1020936/rob-bodor.jpg"
+    },
+    {
+      "alt": "",
+      "src": "/media/1020937/rich-baker.jpg"
+    }
+  ],
+  "meta_description": "Artificial intelligence brings efficiencies and flexibility to digital manufacturing.",
+  "modified_at": "",
+  "monitored_text": "Digital Manufacturing July 28, 2020 Artificial Intelligence Brings Efficiencies to Digital Manufacturing By Rob Bodor and Rich Baker Succeeding in manufacturing today requires extreme efficiency. Every step required to produce parts must be optimized in order to eliminate potential errors as well as maximize productivity, speed, and throughput. This applies to all manufacturing processes, whether filling a mold, printing a part, machining, or forming sheet metal. Digital manufacturing methods allow companies such as Protolabs to do an end-to-end evaluation of the entirety of the value chain and workflows before and during manufacturing. This digital thread runs through the operation and ties simulation, process monitoring, and traceability to the physical plant. It also creates a framework for learning and process improvement rooted in artificial intelligence (AI). AI uses computers programmed to assess huge streams of data and make decisions that maximize speed and quality—which for us equates to reliability—while not losing sight of final cost for our customers. This helps operational teams simplify decision making and improve the effectiveness of Continuous Improvement and Lean initiatives . Digital manufacturing methods at Protolabs enable us to do an end-to-end evaluation of the entirety of the value chain and workflows before and during manufacturing. This digital thread runs through the operation; ties simulation, process monitoring, and traceability to the physical plant; and creates a framework for learning rooted in AI. Manufacturing and COVID-19 The current COVID-19 pandemic has brought into sharp relief the importance of manufacturing processes that are digital from end-to-end. Protolabs, as an e-commerce company, starts the process digitally at the request for quote stage. There is limited need for human contact during the ordering process as communications are handled primarily online, supporting social distancing. Our manufacturing processes are also digital. While our production workers on the floor are absolutely essential, we require significantly fewer operators than other companies offering similar manufacturing services. Furthermore, digital manufacturing allows our skilled teams to address critical manufacturing issues earlier in the design process, rather than on the manufacturing floor. The digital thread reduces lead times and adds an important dimension that we use to streamline operations: data. Artificial Intelligence, Digital Manufacturing Fundamentally, digital manufacturing benefits from experiential learning and using that knowledge to automate processes. This digital approach is all about the importance of documenting what does and doesn’t work when manufacturing a part. The second step is to use AI to optimize manufacturing—using technology to apply that knowledge to affect future actions. In theory—and as we’ve found, in practice—the more data points we acquire, the more consistent, efficient, and faster our processes. The ultimate outcome helps us and our customers. AI is applied at nearly all stages of manufacturing at Protolabs, but it really shines in our front-end quoting and design analysis engine. When we receive 3D CAD files from engineers or product developers, our AI systems evaluate those geometries and, in essence, create a digital twin —a virtual copy of the physical part. AI then uses that virtual environment to determine the optimal way to manufacture that part. Sometimes these analyses require design modifications to the CAD model from the customer to ensure that their parts are optimized for manufacturing. Using AI to integrate the experiential knowledge of many functions streamlines the process for our customers, ensuring a rapid and insightful quote. It also helps improve quality and helps ensure successful manufacturing by integrating broad learnings from the long history of designs and manufacturing successes and failures into the design for manufacturability (DFM) feedback for each part as it is quoted. What would be traditionally achieved by relying on the consultation of an experienced individual is now replaced, or at least augmented, with the collective learnings of many and done so in a highly automated way. This is particularly valuable today, when we are social distancing, and it can therefore be challenging to bring all the right people together both in the factory and in the customer engagement models that we are used to. Using AI to integrate the experiential knowledge of many of our manufacturing functions streamlines the process for customers, which ensures a rapid and insightful quote and design analysis. Illustration: Quality Magazine As part of the DFM process, our systems help to determine the most cost-efficient manufacturing method. Sometimes, our own engineers assist with design feedback, but it’s just as possible that an uploaded design will flow through our systems relatively untouched by humans, using the knowledge our AI systems have gained manufacturing similar parts or using similar materials. At the same time, each part is unique, and treated as such. When changes are needed, design and engineering teams receive what amounts to direct input from our AI systems early in the quoting process, before production. This, in turn, can reduce development time and production costs. AI evaluates the customer’s CAD file in a virtual space in which manufacturing processes are applied to virtual raw materials to create a digital twin of the part, entirely in a virtual space. Through these simulations on a digital twin, we can determine: How to orient the part in the mold Where the parting line will be What tools we’ll have to use to make that mold What paths those tools will take Whether it will be necessary to use electrical discharge machining (EDM) on the mold The design of the gating and ejector system Equally important is that by pre-computing the answers to these production questions, the quote we provide is a firm price, rather than a budgetary quote or an estimate. By knowing the steps we’re going to take, we know with certainty what the true cost is going to be. It’s a scientifically and numerically driven approach to manufacturing, and one that yields a higher-quality product and faster speed-to-market. This process creates the actual machine code known as G-code , which drives the production process. Using AI to Optimize the Back-End AI doesn’t replace people, instead it facilitates a collaboration between automation and humans. The digital thread moves to the network of machines where orders are queued up and prioritized based on the inputs from the front-end analysis, materials loaded, and calibration is set. This digital connectivity allows us to take measurements from sensor readings on each machine and analyze the variations. You may have also heard of the idea of hardware connectivity called the industrial internet of things (IIoT). During the manufacturing process, the physical part on a CNC machine, for example, can be compared to its ideal—the digital twin—to ensure that the process is going well. Based on this knowledge, AI can make changes on the fly. Those lessons then get fed back into your model, helping improve and refine it further. Customer Advantages of Manufacturing with AI AI improves the customer experience and reduces risk immeasurably. The old school way of determining quality is to go through your process and inspect it in the end. If it didn’t work, you’d return to step one and redo everything. With digital manufacturing, mistakes are caught in the digital twin, so you save dramatically on manufacturing time, lowering costs, and improving on-time delivery. The end result yields: tighter tolerances, fewer parts sent back by our quality control for rework, and more manufacturable parts. You also get better, and more consistent, part quality. The best of all worlds. Rob Bodor is Vice President and General Manager, Americas, at Protolabs. He has also held roles as Chief Technology Officer and Director of Business Development during his time at Protolabs. Bodor held leadership roles at Honeywell and McKinsey & Company as well, and has been on the executive team of two early-stage software companies in the Twin Cities, where he led research in artificial intelligence and pattern recognition. Bodor holds B.S., M.S., and Ph.D. degrees in Engineering and Computer Science. Rich Baker joined Protolabs as CTO in May of 2016. Previously, he served as CTO at PaR Systems, a robotics and specialty machine tool builder. From 2005 to 2014, he held multiple positions at MTS Systems including General Manager of the Test Division, CTO, and VP of Engineering and Operations. Prior to MTS he was VP of Technology for Rohm and Haas Electronic Materials business from 1999 to 2005. Tagged: digital manufacturing, manufacturing, artificial intelligence",
+  "published_at": "",
+  "requested_url": "https://www.protolabs.com/resources/blog/artificial-intelligence-brings-efficiencies-to-digital-manufacturing",
+  "schema_version": 2,
+  "sections": [
+    {
+      "hash": "f1d0770a8ba8d81d4a891db4c54fb81a2b97859f",
+      "heading": "Artificial Intelligence Brings Efficiencies to Digital Manufacturing",
+      "level": "h1",
+      "text": "Artificial Intelligence Brings Efficiencies to Digital Manufacturing By Rob Bodor and Rich Baker"
+    },
+    {
+      "hash": "5b7538883a8663493139c80ffa33da07ce8d87e9",
+      "heading": "Manufacturing and COVID-19",
+      "level": "h3",
+      "text": "Manufacturing and COVID-19 The current COVID-19 pandemic has brought into sharp relief the importance of manufacturing processes that are digital from end-to-end. Protolabs, as an e-commerce company, starts the process digitally at the request for quote stage. There is limited need for human contact during the ordering process as communications are handled primarily online, supporting social distancing. Our manufacturing processes are also digital. While our production workers on the floor are absolutely essential, we require significantly fewer operators than other companies offering similar manufacturing services. Furthermore, digital manufacturing allows our skilled teams to address critical manufacturing issues earlier in the design process, rather than on the manufacturing floor. The digital thread reduces lead times and adds an important dimension that we use to streamline operations: data."
+    },
+    {
+      "hash": "fb09441aff1402d2ca30d85b49e5de107dd1d574",
+      "heading": "Artificial Intelligence, Digital Manufacturing",
+      "level": "h3",
+      "text": "Artificial Intelligence, Digital Manufacturing Fundamentally, digital manufacturing benefits from experiential learning and using that knowledge to automate processes. This digital approach is all about the importance of documenting what does and doesn’t work when manufacturing a part. The second step is to use AI to optimize manufacturing—using technology to apply that knowledge to affect future actions. In theory—and as we’ve found, in practice—the more data points we acquire, the more consistent, efficient, and faster our processes. The ultimate outcome helps us and our customers. AI is applied at nearly all stages of manufacturing at Protolabs, but it really shines in our front-end quoting and design analysis engine. When we receive 3D CAD files from engineers or product developers, our AI systems evaluate those geometries and, in essence, create a digital twin —a virtual copy of the physical part. AI then uses that virtual environment to determine the optimal way to manufacture that part. Sometimes these analyses require design modifications to the CAD model from the customer to ensure that their parts are optimized for manufacturing. Using AI to integrate the experiential kn..."
+    },
+    {
+      "hash": "057865be08e373641bbf80ed6397596dfd5cc1cb",
+      "heading": "Using AI to Optimize the Back-End",
+      "level": "h3",
+      "text": "Using AI to Optimize the Back-End AI doesn’t replace people, instead it facilitates a collaboration between automation and humans. The digital thread moves to the network of machines where orders are queued up and prioritized based on the inputs from the front-end analysis, materials loaded, and calibration is set. This digital connectivity allows us to take measurements from sensor readings on each machine and analyze the variations. You may have also heard of the idea of hardware connectivity called the industrial internet of things (IIoT). During the manufacturing process, the physical part on a CNC machine, for example, can be compared to its ideal—the digital twin—to ensure that the process is going well. Based on this knowledge, AI can make changes on the fly. Those lessons then get fed back into your model, helping improve and refine it further."
+    },
+    {
+      "hash": "1089c1e51892113e8fc6d02641acdcf813c32e48",
+      "heading": "Customer Advantages of Manufacturing with AI",
+      "level": "h3",
+      "text": "Customer Advantages of Manufacturing with AI AI improves the customer experience and reduces risk immeasurably. The old school way of determining quality is to go through your process and inspect it in the end. If it didn’t work, you’d return to step one and redo everything. With digital manufacturing, mistakes are caught in the digital twin, so you save dramatically on manufacturing time, lowering costs, and improving on-time delivery. The end result yields: tighter tolerances, fewer parts sent back by our quality control for rework, and more manufacturable parts. You also get better, and more consistent, part quality. The best of all worlds."
+    }
+  ],
+  "sitemap_lastmod": "2026-01-13T15:24:00+00:00",
+  "status": 200,
+  "structure_hash": "96708c8ff12d1009c33353b87cbca1fba4546954",
+  "text_excerpt": "Digital Manufacturing July 28, 2020 Artificial Intelligence Brings Efficiencies to Digital Manufacturing By Rob Bodor and Rich Baker Succeeding in manufacturing today requires extreme efficiency. Every step required to produce parts must be optimized in order to eliminate potential errors as well as maximize productivity, speed, and throughput. This applies to all manufacturing processes, whether filling a mold, printing a part, machining, or forming sheet metal. Digital manufacturing methods allow companies such as Protolabs to do an end-to-end evaluation of the entirety of the value chain and workflows before and during manufacturing. This digital thread runs through the operation and ties simulation, process monitoring, and traceability to the physical plant. It also creates a framework for learning and process improvement rooted in artificial intelligence (AI). AI uses computers programmed to assess huge streams of data and make decisions that maximize speed and quality—which for us equates to reliability—while not losing sight of final cost for our customers. This helps operational teams simplify decision making and improve the effectiveness of Continuous Improvement and Lean...",
+  "text_hash": "7272304c6ae0cd8c7838c1e1f9ed36dfcd7034b5",
+  "title": "Artificial Intelligence Enhances Digital Manufacturing",
+  "url": "https://www.protolabs.com/resources/blog/artificial-intelligence-brings-efficiencies-to-digital-manufacturing"
+}

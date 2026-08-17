@@ -1,0 +1,132 @@
+{
+  "canonical": "https://www.protolabs.com/resources/design-tips/the-basics-of-bend-radii-in-sheet-metal",
+  "category": "content",
+  "competitor": "Protolabs",
+  "ctas": [],
+  "discovered_via": "sitemap",
+  "fetched_at": "2026-08-17T03:48:45+00:00",
+  "final_url": "https://www.protolabs.com/resources/design-tips/the-basics-of-bend-radii-in-sheet-metal",
+  "first_seen_at": "2026-08-17T03:48:45+00:00",
+  "h1": "Sheet Metal Bend Radius Guidelines",
+  "headings": [
+    {
+      "level": "h1",
+      "text": "Sheet Metal Bend Radius Guidelines"
+    },
+    {
+      "level": "h2",
+      "text": "Here are a few key concepts to know about designing for sheet metal"
+    },
+    {
+      "level": "h3",
+      "text": "The K-factor"
+    },
+    {
+      "level": "h3",
+      "text": "Setbacks and Bend Allowances"
+    },
+    {
+      "level": "h3",
+      "text": "Other Sheet Metal Design Considerations"
+    },
+    {
+      "level": "h3",
+      "text": "A Final Piece of Sheet Metal Advice"
+    },
+    {
+      "level": "h2",
+      "text": "Frequently Asked Questions"
+    }
+  ],
+  "images": [
+    {
+      "alt": "K Factor",
+      "src": "/media/3xcdqrgd/pl-dt-sept-21-k-factor-570x308.gif?width=570&height=308&v=1d7a3d520dc0290"
+    },
+    {
+      "alt": "Sheet metal features",
+      "src": "/media/4ojgqmaf/sm_understanding-sheet-metal-bending_setbacks-and-bend-allowances.jpg?width=570&height=308&v=1d9fa8c2ffebf50"
+    },
+    {
+      "alt": "Sheet metal hole placement",
+      "src": "/media/saghfxnc/sm_understanding-sheet-metal-bending_avoid-placing-holes-too-close-to-bend.jpg?width=570&height=308&v=1d9fa8c2fd58c70"
+    },
+    {
+      "alt": "sheet metal design guide",
+      "src": "/media/qqip0hud/blog-_-dt-pdf-cta-293x200_sm-essentials-guide.png?width=293&height=200&v=1d87b42a97a9270"
+    },
+    {
+      "alt": "z frame sheet metal design aid",
+      "src": "/media/3zymeum0/blog-_-dt-fulfillment-cta-z-frame-240x180.png?width=240&height=180&v=1d87a84eb2a7690"
+    },
+    {
+      "alt": "Improve parts for consumer electronics",
+      "src": "/media/x32o2mec/sm_mistakes-to-avoid-when-designing-parts_self-cinching-nut.jpg?width=115&height=115&v=1d9fa8c2f673a40"
+    },
+    {
+      "alt": "Chromate plating",
+      "src": "/media/1020644/chromate-plating-900-x-400.jpg?width=115&height=115&v=1d64ef0a5a8d0b0"
+    },
+    {
+      "alt": "rapid sheet metal bracket part",
+      "src": "/media/1015664/copper-brass-sheet-metal-285x154.jpg?width=115&height=115&v=1d474f7834e2df0"
+    }
+  ],
+  "meta_description": "K-factor, bend allowance/deduction, and outside setbacks all affect sheet metal design. Learn about them to avoid issues during your design process.",
+  "modified_at": "",
+  "monitored_text": "Sheet Metal Bend Radius Guidelines Here are a few key concepts to know about designing for sheet metal Brackets, covers, cabinets, chassis, electrical enclosures. These and countless other sheet metal components might seem fairly simple to manufacture, but achieving part accuracy involves some fairly complex bending calculations. That’s because sheet metal elongates when bent. Not a lot, but enough to send designers back to the proverbial drawing board from time to time. The amount of elongation and, therefore, the necessary \"bend allowance\" (more on this in a moment) is determined by several factors. Among them are the workpiece material and thickness, the bend angle and inside radius, the method used to bend the metal (air vs. bottom bending), and the oft-misunderstood K-factor, also known as either the neutral factor or the Y-factor. A slice of cheese helps illustrate the K-factor, or neutral factor. The K-factor To illustrate, grab a piece of sliced cheese out of the refrigerator. Maybe a Kraft American single? It measures roughly 3-1/2 in. (88.9mm) square by 0.083 in. (2.1082mm) thick—about the same as a piece of 12-gauge brass or aluminum. Now, bend it evenly over the edge of the countertop. If this staple of school lunches everywhere were made of metal, the surface touching the counter would be compressed, its outer face stretched, and the length of the now-bent “workpiece” would have grown slightly beyond the 3-1/2 in. (88.9mm) mentioned earlier. Somewhere between these inner and outer surfaces lies an imaginary plane, one located at the transition zone that is neither compressed nor tensioned. This is the neutral axis, and it tends to shift towards the inner surface during bending. The K-factor, therefore, is the ratio between this neutral axis’ location as measured from the bend’s inner face (t) and the overall material thickness (Mt). The Y-factor provides a slightly more involved (and accurate) version of the industry standard K-factor, since it takes certain metallurgical properties into consideration. It is, however, rarely used. Assuming you used an inside bend radius smaller than the material thickness, the K-factor (or neutral factor, if you prefer) in our cheesy example would be 0.33 for an air bend and 0.42 for a bottom bend, both gradually increasing to 0.5 for larger bend radii. The K-factor also increases with harder materials such as steel and stainless steel but never exceeds the 0.5 just mentioned. But whether you call it K-factor, Y-factor, or neutral factor, if you’re working with us, there’s one important thing that you should know: Don’t worry about it. Sure, go ahead and accept whatever default values that Solidworks, Siemens NX, or Fusion 360 provides in their sheet metal settings. But the fact remains that K-factors are highly application- and material-specific, and we have spent extensive amounts of time developing values that work with our tooling and equipment. In other words, there’s no need to waste time worrying about it. Setbacks and Bend Allowances So what about all that other stuff—the outside setbacks, bend allowances, and bend deductions seen on fabricating websites? These values are A) quite important to anyone making manual bend calculations, and B) needed to produce an accurate \"flat\" layout of the 3D part models, but the truth is that a sheet metal-aware CAM system (which is most of them) does all the number crunching for you. Regardless, here are some brief descriptions that any sheet metal part designer should be familiar with: Pick up that piece of cheese once more and lay it flat on the counter, then lift one edge to form an L-shape. The vertical section is a flange. If making a simple box to contain an entire block of cheese, it would have a bottom face and four flanges, as would any lid that fits over it. Outside setback (OSSB). Aside from its location and height, each flange is also defined by a setback amount in the vertical and horizontal (X and Y) axes. On a 90-degree flange, for instance, the OSSB is equal to the outside radius. This, in turn, is equal to the bend radius plus the material thickness. Bend allowance. Remember that imaginary neutral line from the K-factor discussion? If you were to “unroll” it or make it flat, that would be the bend allowance. Google “bend allowance” and you will see it described on numerous sites as the “arc length of the bend as measured along the neutral axis of the material.” Bend deduction. Those same sites will state that the bend deduction is the difference between the bend allowance (which is itself determined by the K-factor) and two times the OSSB, or outside setback. When flattening a 3D model, this bend deduction is the amount that must be subtracted from the workpiece to account for any stretching. That last point is an important one, at least for those working with us. Here again, there’s no need to get a headache worrying about K-factors and similar bending minutiae, just as it’s unnecessary to flatten your 3D model and generate a .DXF of the workpiece blank. That might be needed with other fabricators, but not us. Just send us the file and we’ll take care of the rest. Other Sheet Metal Design Considerations That said, some caveats exist. For starters, the material thickness in any sheet metal part should be consistent. They all start out as a flat sheet, so don’t attempt to design a part that’s 1/16 in. (1.5875mm) thick in one area and 1/32 in. (0.03125mm) somewhere else. It doesn’t work that way. And consider bend radii, which is, after all, part of the title of this design tip. Remember that the internal radii (the section formed by the punch) of any flange directly impacts the K-factor, bend allowance, and so on. Here again, though, we’ve dialed in our K-factors and found that a 0.030 in. (0.762mm) bend radius works quite well on 95% of all parts. The only exception to this rule is 6061-T6 aluminum, which thanks to a slight brittleness, might require something a bit larger to prevent cracking. Yes, you are free to specify different radii—to fit a mating part, for instance, or where a crisp internal corner is required. Our standard tooling accommodates internal radii from 0.010 in. (0.254mm) up to 0.250 in. (6.35mm) in standard increments, but whatever value you choose should then be called out on all of the flanges found on that part. Failure to do so will mean additional setups and a higher part cost. Speaking of corners, you should also plan on a bend relief anywhere that two flanges come together. These are small notches roughly 0.030 in. (0.762mm) wide that prevent the material from bulging outwards at the junction. Many CAD systems are smart enough to create these bend reliefs, but if not, we’ll take care of it and let you know during design approval. If requested, we can also weld up the corner to provide a sealed seam. Avoid placing holes too close to the bend. Locate them at least 4x the material thickness away from any edges or inside corners. A Final Piece of Sheet Metal Advice When placing holes, slots, and similar features in your part design, be sure to locate them at least 4x the material thickness away from any edges or inside corners. This goes back to the whole stretching phenomenon described earlier—stick a round hole any closer than this to a bend line and, due to the metal deformation, it will likely come out slightly oval or egg-shaped. There’s a lot to sheet metal design , far more than might be evident when looking at a basic bracket or cabinet. Fortunately, we have the right equipment, a team of skilled personnel to operate it, and a firm grip on the bending calculations just outlined. That means it’s a simple matter to upload a 3D CAD model to our website and order whatever’s needed for your next project—depending on the urgency, part quantity, and secondary finishing options like powder coating and hardware insertion, the parts can be there in just a few days. Frequently Asked Questions Why does bend radius matter in sheet metal design? expand_less expand_more Bending stretches the outer surface and compresses the inner, changing the flat pattern length. This is handled with bend allowance/deduction calculations (Typically driven by the K-factor). Getting the bend radius right improves dimensional accuracy and helps prevent cracking (especially in brittle alloys) and costly rework. Do I need to set a specific K-factor or flatten my model for Protolabs? expand_less expand_more No. Use your CAD’s default K-factor if needed—Protolabs has calibrated values for our tooling and will handle bend allowance/deduction and flattening. You don’t need to supply a separate flat .DXF; just upload your 3D CAD. What internal bend radius should I specify? expand_less expand_more A 0.030 in. (0.76 mm) internal radius works for about 95% of parts. 6061‑T6 aluminum may require a larger radius to avoid cracking. Our standard tooling supports internal radii from 0.010 in. (0.25 mm) to 0.250 in. (6.35 mm) in standard increments—use the same radius on all flanges to avoid extra setups and cost. Are there general layout rules I should follow (thickness, holes, corners)? expand_less expand_more Yes: Keep material thickness consistent across the part (sheet parts start from a uniform gauge). Place holes/slots at least 4× material thickness from bend lines and edges to avoid distortion. Add bend reliefs where two flanges meet—small notches (~0.030 in./0.76 mm wide) prevent bulging. CAD often adds these automatically; we can add them and advise if needed. What about outside setback, bend allowance, and bend deduction? expand_less expand_more They’re essential concepts for manual calc and some shops, but our sheet-metal-aware CAM handles them automatically. Outside setback (OSSB), bend allowance (neutral-axis arc length), and bend deduction (allowance minus 2×OSSB) are all factored into our process so you can focus on design intent. If you have any issues getting your guide, click here to download . Sheet Metal Design Guide Download this guide to explore the processes involved in creating sheet metal parts along with how to design common features and select the right material. United States of America Afghanistan Åland Islands Albania Algeria American Samoa Andorra Angola Anguilla Antarctica Antigua and Barbuda Argentina Armenia Aruba Australia Austria Azerbaijan Bahamas Bahrain Bangladesh Barbados Belarus Belgium Belize Benin Bermuda Bhutan Bolivia, Plurinational State of Bonaire, Sint Eustatius and Saba Bosnia and Herzegovina Botswana Bouvet Island Brazil British Indian Ocean Territory Brunei Darussalam Bulgaria Burkina Faso Burundi Cambodia Cameroon Canada Cape Verde Cayman Islands Central African Republic Chad Chile China Christmas Island Cocos (Keeling) Islands Colombia Comoros Congo Congo, the Democratic Republic of the Cook Islands Costa Rica Côte d'Ivoire Croatia Cuba Curaçao Cyprus Czech Republic Denmark Djibouti Dominica Dominican Republic Ecuador Egypt El Salvador Equatorial Guinea Eritrea Estonia Ethiopia Falkland Islands (Malvinas) Faroe Islands Fiji Finland France French Guiana French Polynesia French Southern Territories Gabon Gambia Georgia Germany Ghana Gibraltar Greece Greenland Grenada Guadeloupe Guam Guatemala Guernsey Guinea Guinea-Bissau Guyana Haiti Heard Island and McDonald Islands Holy See (Vatican City State) Honduras Hong Kong Hungary Iceland India Indonesia Iran, Islamic Republic of Iraq Ireland Isle of Man Israel Italy Jamaica Japan Jersey Jordan Kazakhstan Kenya Kiribati Korea, Democratic People's Republic of Korea, Republic of Kuwait Kyrgyzstan Lao People's Democratic Republic Latvia Lebanon Lesotho Liberia Libya Liechtenstein Lithuania Luxembourg Macao Macedonia, the Former Yugoslav Republic of Madagascar Malawi Malaysia Maldives Mali Malta Marshall Islands Martinique Mauritania Mauritius Mayotte Mexico Micronesia, Federated States of Moldova, Republic of Monaco Mongolia Montenegro Montserrat Morocco Mozambique Myanmar Namibia Nauru Nepal Netherlands New Caledonia New Zealand Nicaragua Niger Nigeria Niue Norfolk Island Northern Mariana Islands Norway Oman Pakistan Palau Palestine, State of Panama Papua New Guinea Paraguay Peru Philippines Pitcairn Poland Portugal Puerto Rico Qatar Réunion Romania Russian Federation Rwanda Saint Barthélemy Saint Helena, Ascension and Tristan da Cunha Saint Kitts and Nevis Saint Lucia Saint Martin (French part) Saint Pierre and Miquelon Saint Vincent and the Grenadines Samoa San Marino Sao Tome and Principe Saudi Arabia Senegal Serbia Seychelles Sierra Leone Singapore Sint Maarten (Dutch part) Slovakia Slovenia Solomon Islands Somalia South Africa South Georgia and the South Sandwich Islands South Sudan Spain Sri Lanka Sudan SuriName Svalbard and Jan Mayen Swaziland Sweden Switzerland Syrian Arab Republic Taiwan, Province of China Tajikistan Tanzania, United Republic of Thailand Timor-Leste Togo Tokelau Tonga Trinidad and Tobago Tunisia Turkey Turkmenistan Turks and Caicos Islands Tuvalu Uganda Ukraine United Arab Emirates United Kingdom United States Minor Outlying Islands Uruguay Uzbekistan Vanuatu Venezuela, Bolivarian Republic of Viet Nam Virgin Islands, British Virgin Islands, U.S. Wallis and Futuna Western Sahara Yemen Zambia Zimbabwe I agree to receive email messages containing service updates and Design Tips from Protolabs and its affiliates Download Guide Get FREE Z Frame You Might Also Like... 8 Mistakes to Avoid When Designing Sheet Metal Parts Anodizing and Plating Provide Corrosion Protection for Parts Designing for Sheet Metal Fabrication",
+  "published_at": "",
+  "requested_url": "https://www.protolabs.com/resources/design-tips/the-basics-of-bend-radii-in-sheet-metal",
+  "schema_version": 2,
+  "sections": [
+    {
+      "hash": "60c023be2f4f7d4f5f7fd2505996473e320ac1ed",
+      "heading": "Sheet Metal Bend Radius Guidelines",
+      "level": "h1",
+      "text": "Sheet Metal Bend Radius Guidelines"
+    },
+    {
+      "hash": "a9e9e54464e6c261efc2da1016fc34e291959168",
+      "heading": "Here are a few key concepts to know about designing for sheet metal",
+      "level": "h2",
+      "text": "Here are a few key concepts to know about designing for sheet metal"
+    },
+    {
+      "hash": "19258d79e622436afd755a5cc26fd764c5dca04b",
+      "heading": "The K-factor",
+      "level": "h3",
+      "text": "The K-factor To illustrate, grab a piece of sliced cheese out of the refrigerator. Maybe a Kraft American single? It measures roughly 3-1/2 in. (88.9mm) square by 0.083 in. (2.1082mm) thick—about the same as a piece of 12-gauge brass or aluminum. Now, bend it evenly over the edge of the countertop. If this staple of school lunches everywhere were made of metal, the surface touching the counter would be compressed, its outer face stretched, and the length of the now-bent “workpiece” would have grown slightly beyond the 3-1/2 in. (88.9mm) mentioned earlier. Somewhere between these inner and outer surfaces lies an imaginary plane, one located at the transition zone that is neither compressed nor tensioned. This is the neutral axis, and it tends to shift towards the inner surface during bending. The K-factor, therefore, is the ratio between this neutral axis’ location as measured from the bend’s inner face (t) and the overall material thickness (Mt). The Y-factor provides a slightly more involved (and accurate) version of the industry standard K-factor, since it takes certain metallurgical properties into consideration. It is, however, rarely used. Assuming you used an inside bend rad..."
+    },
+    {
+      "hash": "120132ca7706b4cda471530cf8ebdbff818d8afb",
+      "heading": "Setbacks and Bend Allowances",
+      "level": "h3",
+      "text": "Setbacks and Bend Allowances So what about all that other stuff—the outside setbacks, bend allowances, and bend deductions seen on fabricating websites? These values are A) quite important to anyone making manual bend calculations, and B) needed to produce an accurate \"flat\" layout of the 3D part models, but the truth is that a sheet metal-aware CAM system (which is most of them) does all the number crunching for you. Regardless, here are some brief descriptions that any sheet metal part designer should be familiar with: Pick up that piece of cheese once more and lay it flat on the counter, then lift one edge to form an L-shape. The vertical section is a flange. If making a simple box to contain an entire block of cheese, it would have a bottom face and four flanges, as would any lid that fits over it. Outside setback (OSSB). Aside from its location and height, each flange is also defined by a setback amount in the vertical and horizontal (X and Y) axes. On a 90-degree flange, for instance, the OSSB is equal to the outside radius. This, in turn, is equal to the bend radius plus the material thickness. Bend allowance. Remember that imaginary neutral line from the K-factor discussio..."
+    },
+    {
+      "hash": "208782c00870d26040f986a59a726a96849488b6",
+      "heading": "Other Sheet Metal Design Considerations",
+      "level": "h3",
+      "text": "Other Sheet Metal Design Considerations That said, some caveats exist. For starters, the material thickness in any sheet metal part should be consistent. They all start out as a flat sheet, so don’t attempt to design a part that’s 1/16 in. (1.5875mm) thick in one area and 1/32 in. (0.03125mm) somewhere else. It doesn’t work that way. And consider bend radii, which is, after all, part of the title of this design tip. Remember that the internal radii (the section formed by the punch) of any flange directly impacts the K-factor, bend allowance, and so on. Here again, though, we’ve dialed in our K-factors and found that a 0.030 in. (0.762mm) bend radius works quite well on 95% of all parts. The only exception to this rule is 6061-T6 aluminum, which thanks to a slight brittleness, might require something a bit larger to prevent cracking. Yes, you are free to specify different radii—to fit a mating part, for instance, or where a crisp internal corner is required. Our standard tooling accommodates internal radii from 0.010 in. (0.254mm) up to 0.250 in. (6.35mm) in standard increments, but whatever value you choose should then be called out on all of the flanges found on that part. Failur..."
+    },
+    {
+      "hash": "efd36eb88183046ed3beadb5208324dcddc68cc2",
+      "heading": "A Final Piece of Sheet Metal Advice",
+      "level": "h3",
+      "text": "A Final Piece of Sheet Metal Advice When placing holes, slots, and similar features in your part design, be sure to locate them at least 4x the material thickness away from any edges or inside corners. This goes back to the whole stretching phenomenon described earlier—stick a round hole any closer than this to a bend line and, due to the metal deformation, it will likely come out slightly oval or egg-shaped. There’s a lot to sheet metal design , far more than might be evident when looking at a basic bracket or cabinet. Fortunately, we have the right equipment, a team of skilled personnel to operate it, and a firm grip on the bending calculations just outlined. That means it’s a simple matter to upload a 3D CAD model to our website and order whatever’s needed for your next project—depending on the urgency, part quantity, and secondary finishing options like powder coating and hardware insertion, the parts can be there in just a few days."
+    },
+    {
+      "hash": "9ef65a7c0ad17e90481c5adeaddc97bc3c1cf8b1",
+      "heading": "Frequently Asked Questions",
+      "level": "h2",
+      "text": "Frequently Asked Questions Why does bend radius matter in sheet metal design? expand_less expand_more Bending stretches the outer surface and compresses the inner, changing the flat pattern length. This is handled with bend allowance/deduction calculations (Typically driven by the K-factor). Getting the bend radius right improves dimensional accuracy and helps prevent cracking (especially in brittle alloys) and costly rework. Do I need to set a specific K-factor or flatten my model for Protolabs? expand_less expand_more No. Use your CAD’s default K-factor if needed—Protolabs has calibrated values for our tooling and will handle bend allowance/deduction and flattening. You don’t need to supply a separate flat .DXF; just upload your 3D CAD. What internal bend radius should I specify? expand_less expand_more A 0.030 in. (0.76 mm) internal radius works for about 95% of parts. 6061‑T6 aluminum may require a larger radius to avoid cracking. Our standard tooling supports internal radii from 0.010 in. (0.25 mm) to 0.250 in. (6.35 mm) in standard increments—use the same radius on all flanges to avoid extra setups and cost. Are there general layout rules I should follow (thickness, holes, c..."
+    }
+  ],
+  "sitemap_lastmod": "2026-05-14T13:44:00+00:00",
+  "status": 200,
+  "structure_hash": "ffa9b459391ac28d42d64c828a645e589bbdb32e",
+  "text_excerpt": "Sheet Metal Bend Radius Guidelines Here are a few key concepts to know about designing for sheet metal Brackets, covers, cabinets, chassis, electrical enclosures. These and countless other sheet metal components might seem fairly simple to manufacture, but achieving part accuracy involves some fairly complex bending calculations. That’s because sheet metal elongates when bent. Not a lot, but enough to send designers back to the proverbial drawing board from time to time. The amount of elongation and, therefore, the necessary \"bend allowance\" (more on this in a moment) is determined by several factors. Among them are the workpiece material and thickness, the bend angle and inside radius, the method used to bend the metal (air vs. bottom bending), and the oft-misunderstood K-factor, also known as either the neutral factor or the Y-factor. A slice of cheese helps illustrate the K-factor, or neutral factor. The K-factor To illustrate, grab a piece of sliced cheese out of the refrigerator. Maybe a Kraft American single? It measures roughly 3-1/2 in. (88.9mm) square by 0.083 in. (2.1082mm) thick—about the same as a piece of 12-gauge brass or aluminum. Now, bend it evenly over the edge o...",
+  "text_hash": "5cb06ac683097bde0e52667de0b7858e7ee00a0d",
+  "title": "Sheet Metal Bend Radius Guidelines",
+  "url": "https://www.protolabs.com/resources/design-tips/the-basics-of-bend-radii-in-sheet-metal"
+}

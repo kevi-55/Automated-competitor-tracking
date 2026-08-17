@@ -1,58 +1,17 @@
 {
-  "canonical": "https://sybridge.com/what-to-expect-during-the-additive-manufacturing-am-process/",
+  "canonical": "https://sybridge.com/what-to-expect-during-the-additive-manufacturing-am-process",
   "category": "service",
   "competitor": "SyBridge",
   "ctas": [
     {
-      "href": "https://sybridge.com/contact/",
-      "text": "Contact"
-    },
-    {
-      "href": "https://sybridge.com/contact/locations/",
-      "text": "Locations"
-    },
-    {
-      "href": "https://sybridge.com/contact/locations/#usa",
-      "text": "United States"
-    },
-    {
-      "href": "https://sybridge.com/contact/locations/#mexico",
-      "text": "Mexico"
-    },
-    {
-      "href": "https://sybridge.com/contact/locations/#canada",
-      "text": "Canada"
-    },
-    {
-      "href": "https://sybridge.com/contact/locations/#europe",
-      "text": "Europe"
-    },
-    {
-      "href": "https://sybridge.com/contact/locations/#asia",
-      "text": "Asia"
-    },
-    {
-      "href": "https://sybridge.com/contact/",
-      "text": "Start the Conversation"
-    },
-    {
-      "href": "/contact/",
+      "href": "https://sybridge.com/contact",
       "text": "Reach out to our team"
-    },
-    {
-      "href": "https://sybridge.com/how-additive-manufacturing-transforms-sporting-goods-industry/",
-      "text": "October 27, 2021 How Additive Manufacturing Transforms the Sporting Goods Industry"
-    },
-    {
-      "href": "https://sybridge.com/topics/industry-trends/",
-      "text": "Industry Trends"
-    },
-    {
-      "href": "https://sybridge.com/contact/",
-      "text": "Contact Us"
     }
   ],
-  "fetched_at": "2026-08-17T02:35:15+00:00",
+  "discovered_via": "sitemap",
+  "fetched_at": "2026-08-17T03:53:53+00:00",
+  "final_url": "https://sybridge.com/what-to-expect-during-the-additive-manufacturing-am-process",
+  "first_seen_at": "2026-08-17T03:53:53+00:00",
   "h1": "What to Expect During the Additive Manufacturing (AM) Process",
   "headings": [
     {
@@ -102,29 +61,9 @@
     {
       "level": "h2",
       "text": "Start the Process Today"
-    },
-    {
-      "level": "h3",
-      "text": "Related articles"
-    },
-    {
-      "level": "h2",
-      "text": "How Additive Manufacturing Transforms the Sporting Goods Industry"
-    },
-    {
-      "level": "h2",
-      "text": "Top 5 Impact-Resistant Plastics"
-    },
-    {
-      "level": "h2",
-      "text": "Polypropylene vs. Nylon (Polyamide): Benefits and Drawbacks for Various Applications"
     }
   ],
   "images": [
-    {
-      "alt": "Sybridge",
-      "src": "https://sybridge.com/wp-content/uploads/2025/11/logo-1.svg"
-    },
     {
       "alt": "",
       "src": "data:image/svg+xml,%3Csvg%20xmlns=%22http://www.w3.org/2000/svg%22%20viewBox=%220%200%20210%20140%22%3E%3C/svg%3E"
@@ -136,116 +75,93 @@
     {
       "alt": "",
       "src": "data:image/svg+xml,%3Csvg%20xmlns=%22http://www.w3.org/2000/svg%22%20viewBox=%220%200%20798%201024%22%3E%3C/svg%3E"
-    },
-    {
-      "alt": "Sybridge Technologies",
-      "src": "data:image/svg+xml,%3Csvg%20xmlns=%22http://www.w3.org/2000/svg%22%20viewBox=%220%200%20210%20140%22%3E%3C/svg%3E"
     }
   ],
   "meta_description": "",
+  "modified_at": "2024-04-22T16:51:23+00:00",
+  "monitored_text": "What to Expect During the Additive Manufacturing (AM) Process Published on March 29, 2022 While 3D printing from a CAD file for a non-functional prototype is a relatively straightforward manufacturing process, embarking on an entirely new product development project – from concept to production – may be more challenging, especially if you’re using an unfamiliar additive manufacturing technology. Understanding the 3D Printing Process The 3D printing process differs from traditional manufacturing processes in that it involves the progressive addition of material to a part. By contrast, CNC machining is a subtractive process, since parts are formed by the removal of material from a workpiece with a cutting tool, and injection molding involves the injection of an amount of molten thermoplastic into a preformed mold chamber. 3D technology presents numerous new procedural challenges . The build volume of 3D printers, for example, may require parts to be split into multiple builds for post-process assembly, while the heat generated during material extrusion may cause some parts to warp. Similarly some 3D printing technologies involve production considerations: fused deposition modeling (FDM), for example leaves layer lines on parts which may affect appearance, and the HP Multi Jet Fusion (MJF) process involves a cooling and cleaning process, post-print. With those factors in mind, you can make your additive manufacturing (AM) project run more smoothly and efficiently by knowing what to expect when you begin production. To that end, we’ve put together a step-by-step guide to the additive manufacturing process, including a comparison of additive product design approaches, and a workflow diagram highlighting the decision involved in each. Three Approaches to the Additive Manufacturing Process Although the specific procedural details for parts and products vary, there are three general categories that additive manufacturing projects fall into: Approach A: Quick-Turnaround Production and Prototyping Example: You have an approved CAD file for a prototype or part already exists — and you need to receive the part in 30 hours. Approach B: Modifying an Existing Design to Optimize for AM Example: You currently produce this part with injection molding but think you could simplify your supply chain and eliminate warehousing costs by using additive manufacturing to produce it on-demand. Approach C: Design a New Part or Product From the Ground up for Production With Additive Technology Example: You have a concept for a new part that you want to produce with AM for one of two reasons: It is not possible to produce the part with legacy manufacturing methods The economics of AM are favorable for low-to-mid volume production Which Additive Manufacturing Approach is Right for Me? Designing a new part from the ground-up for additive manufacturing offers the greatest opportunity to maximize both performance and cost benefits. While it could take longer, starting with a ‘blank page’ is a way to fully optimize the part using design for additive manufacturing (DFAM) principles . The majority of projects that we handle at SyBridge fall into the second category: the modification of an existing design to optimize for AM. In this scenario, a company has a part they’re already producing with traditional manufacturing methods and are seeking to transition to additive production. In both the second and third approaches, the initial file will be verified for full-scale production according to your requirements — which might require a comprehensive production part approval process (PPAP). After that, subsequent orders become a simple, quick-turn production process. One of the significant benefits of using an AM provider like SyBridge is that we can accelerate the production cycle and deliver your parts sometimes as soon as the next day. The Additive Manufacturing Process: Steps and Decisions The three approaches outlined above span different product development processes. We’ve outlined the key steps and decision points in those processes in the workflow diagram below. Remember: whichever category your proposed project falls into, you’ll need end-to-end support from your AM provider to ensure your parts are manufactured and delivered with the level of quality, reliability and performance that you require. The Process for Modifying an Existing Part for Additive Manufacturing Step 1: Identify Parts With a Strong Business Case for AM Production If you want to qualify an existing part for production-grade additive manufacturing, your first step should be to ensure there’s a strong business case for doing so. It’s a good idea to find a company<dynamic-value> SyBridge, that can work with you to identify parts that are suitable for the additive manufacturing process from a business perspective. High-turnover spare parts are good candidates here: while the original part might be made with injection molding, it is possible to make spares to the same performance standards with additive technologies. And, because additive allows you to order in quantities of single parts, you can also eliminate warehousing costs and adopt ‘never-out-of-stock’ inventory programs. Step 2: Design Your Part When spare parts are modified for AM production, the geometry of the finished part must be made to fit seamlessly into an existing assembly. In these cases, the real design work isn’t making significant changes to the shape of the part but performing minor design modifications to optimize for additive production – and ensuring the finished part meets critical required dimensions. Throughout design iterations, if the part is out of tolerance for even one critical dimension (i.e. the linear dimension of a clip or gap), you’ll need to redesign or re-orient the part to get a stable dimension. Essentially, this means beginning with the existing design and performing the required reverse engineering to qualify it for additive production. Step 3: Material and Process Selection Before production, you’ll need to identify materials that are acceptable for your application – and then compare the AM technologies capable of producing parts with those materials. Start with the performance requirements that your part needs (modulus, tensile strength, compressive strength, etc.) and then consider the environment that your part will be used in (exposed to the elements, inside a compressor, etc.). Use those factors to generate a list of suitable materials and then compare the benefits and challenges of your available AM technologies. When multiple processes and materials are acceptable for an application, your production partner can print sample parts made with each of those technologies, and let you determine which you prefer for full-scale production. Step 4: Iterative Production Design and Testing After you’ve chosen a list of acceptable materials and processes, the production engineering process can begin. It’s important that you both understand, and lock-in, the variables of the 3D printing process when you reach the level of dimensional accuracy, performance, and appearance that you need for full-scale production. It may take multiple iterations to reach your desired output, however, once you have a part that meets your requirements, verified by any necessary inspection or testing, all the production information will be compiled into a digital package containing everything needed to make your parts; at SyBridge we call this the build package. The build package contains all the necessary information on printing parameters, post-processing and packaging considerations that you’ll need to ensure your part is produced and delivered exactly as expected. That information will pertain to factors including: Support structure design Support removal tools Surface finishing parameters Cure time Jig and fixture instructions All of these details represent a way to design failure out of the additive manufacturing process. The build package essentially dials-in the parameters necessary to allow anyone from a company like SyBridge to print the part reliably, anywhere in the world. Step 5: On-Demand Production and Global Fulfillment After your part has been approved, it will be ready to be produced on-demand, and delivered globally. On-demand manufacturing is a key benefit of AM production. Essentially, it allows you to store your parts digitally until demand necessitates production, eliminating the need to physically warehouse a large inventory of spare parts to be sold and distributed over time. Designing and producing end-use parts for additive manufacturing is iterative. If at any point, the part fails to meet client expectations — in performance, dimensional accuracy or appearance — the product development process can be stopped so that engineers can identify the point of failure and find a way to design it away. Start the Process Today Wherever you are in the additive manufacturing design process, SyBridge can provide the end-to-end support and additive design expertise you need to get your idea across the finish line. Reach out to our team today to get started.",
+  "published_at": "2022-03-29T17:56:00+00:00",
   "requested_url": "https://sybridge.com/what-to-expect-during-the-additive-manufacturing-am-process",
+  "schema_version": 2,
   "sections": [
     {
-      "hash": "ed1ef85c63713dc028207129121af443972abcc9",
+      "hash": "1ec37f0cd631f52fe1715802e24f6a3c8b967c71",
       "heading": "What to Expect During the Additive Manufacturing (AM) Process",
       "level": "h1",
-      "text": "What to Expect During the Additive Manufacturing (AM) Process Published on March 29, 2022 While 3D printing from a CAD file for a non-functional prototype is a relatively straightforward manufacturing process, embarking on an entirely new product development project – from concept to production – may be more challenging, especially if you’re using an unfamiliar additive manufacturing technology. Understanding the 3D Printing Process The 3D printing process differs from traditional manufacturing processes in that it involves the progressive addition of material to a part. By contrast, CNC machining is a subtractive process, since parts are formed by the removal of material from a workpiece w..."
+      "text": "What to Expect During the Additive Manufacturing (AM) Process Published on March 29, 2022 While 3D printing from a CAD file for a non-functional prototype is a relatively straightforward manufacturing process, embarking on an entirely new product development project – from concept to production – may be more challenging, especially if you’re using an unfamiliar additive manufacturing technology."
     },
     {
-      "hash": "ed1ef85c63713dc028207129121af443972abcc9",
+      "hash": "1371eb903e77dc97ed51e7f438688f92d640ce9e",
       "heading": "Understanding the 3D Printing Process",
       "level": "h2",
-      "text": "What to Expect During the Additive Manufacturing (AM) Process Published on March 29, 2022 While 3D printing from a CAD file for a non-functional prototype is a relatively straightforward manufacturing process, embarking on an entirely new product development project – from concept to production – may be more challenging, especially if you’re using an unfamiliar additive manufacturing technology. Understanding the 3D Printing Process The 3D printing process differs from traditional manufacturing processes in that it involves the progressive addition of material to a part. By contrast, CNC machining is a subtractive process, since parts are formed by the removal of material from a workpiece w..."
+      "text": "Understanding the 3D Printing Process The 3D printing process differs from traditional manufacturing processes in that it involves the progressive addition of material to a part. By contrast, CNC machining is a subtractive process, since parts are formed by the removal of material from a workpiece with a cutting tool, and injection molding involves the injection of an amount of molten thermoplastic into a preformed mold chamber. 3D technology presents numerous new procedural challenges . The build volume of 3D printers, for example, may require parts to be split into multiple builds for post-process assembly, while the heat generated during material extrusion may cause some parts to warp. Similarly some 3D printing technologies involve production considerations: fused deposition modeling (FDM), for example leaves layer lines on parts which may affect appearance, and the HP Multi Jet Fusion (MJF) process involves a cooling and cleaning process, post-print. With those factors in mind, you can make your additive manufacturing (AM) project run more smoothly and efficiently by knowing what to expect when you begin production. To that end, we’ve put together a step-by-step guide to the..."
     },
     {
-      "hash": "ed1ef85c63713dc028207129121af443972abcc9",
+      "hash": "b9dafee4133b868532f91d00bebdca7950149b22",
       "heading": "Three Approaches to the Additive Manufacturing Process",
       "level": "h2",
-      "text": "What to Expect During the Additive Manufacturing (AM) Process Published on March 29, 2022 While 3D printing from a CAD file for a non-functional prototype is a relatively straightforward manufacturing process, embarking on an entirely new product development project – from concept to production – may be more challenging, especially if you’re using an unfamiliar additive manufacturing technology. Understanding the 3D Printing Process The 3D printing process differs from traditional manufacturing processes in that it involves the progressive addition of material to a part. By contrast, CNC machining is a subtractive process, since parts are formed by the removal of material from a workpiece w..."
+      "text": "Three Approaches to the Additive Manufacturing Process Although the specific procedural details for parts and products vary, there are three general categories that additive manufacturing projects fall into: Approach A: Quick-Turnaround Production and Prototyping Example: You have an approved CAD file for a prototype or part already exists — and you need to receive the part in 30 hours. Approach B: Modifying an Existing Design to Optimize for AM Example: You currently produce this part with injection molding but think you could simplify your supply chain and eliminate warehousing costs by using additive manufacturing to produce it on-demand. Approach C: Design a New Part or Product From the Ground up for Production With Additive Technology Example: You have a concept for a new part that you want to produce with AM for one of two reasons: It is not possible to produce the part with legacy manufacturing methods The economics of AM are favorable for low-to-mid volume production"
     },
     {
-      "hash": "ed1ef85c63713dc028207129121af443972abcc9",
+      "hash": "ccb6369038f38c94b6bf550cc0d575bf85daddb5",
       "heading": "Which Additive Manufacturing Approach is Right for Me?",
       "level": "h2",
-      "text": "What to Expect During the Additive Manufacturing (AM) Process Published on March 29, 2022 While 3D printing from a CAD file for a non-functional prototype is a relatively straightforward manufacturing process, embarking on an entirely new product development project – from concept to production – may be more challenging, especially if you’re using an unfamiliar additive manufacturing technology. Understanding the 3D Printing Process The 3D printing process differs from traditional manufacturing processes in that it involves the progressive addition of material to a part. By contrast, CNC machining is a subtractive process, since parts are formed by the removal of material from a workpiece w..."
+      "text": "Which Additive Manufacturing Approach is Right for Me? Designing a new part from the ground-up for additive manufacturing offers the greatest opportunity to maximize both performance and cost benefits. While it could take longer, starting with a ‘blank page’ is a way to fully optimize the part using design for additive manufacturing (DFAM) principles . The majority of projects that we handle at SyBridge fall into the second category: the modification of an existing design to optimize for AM. In this scenario, a company has a part they’re already producing with traditional manufacturing methods and are seeking to transition to additive production. In both the second and third approaches, the initial file will be verified for full-scale production according to your requirements — which might require a comprehensive production part approval process (PPAP). After that, subsequent orders become a simple, quick-turn production process. One of the significant benefits of using an AM provider like SyBridge is that we can accelerate the production cycle and deliver your parts sometimes as soon as the next day."
     },
     {
-      "hash": "ed1ef85c63713dc028207129121af443972abcc9",
+      "hash": "27fb495cb9d5dd0fcfbe057851a0af6751bf5820",
       "heading": "The Additive Manufacturing Process: Steps and Decisions",
       "level": "h2",
-      "text": "What to Expect During the Additive Manufacturing (AM) Process Published on March 29, 2022 While 3D printing from a CAD file for a non-functional prototype is a relatively straightforward manufacturing process, embarking on an entirely new product development project – from concept to production – may be more challenging, especially if you’re using an unfamiliar additive manufacturing technology. Understanding the 3D Printing Process The 3D printing process differs from traditional manufacturing processes in that it involves the progressive addition of material to a part. By contrast, CNC machining is a subtractive process, since parts are formed by the removal of material from a workpiece w..."
+      "text": "The Additive Manufacturing Process: Steps and Decisions The three approaches outlined above span different product development processes. We’ve outlined the key steps and decision points in those processes in the workflow diagram below. Remember: whichever category your proposed project falls into, you’ll need end-to-end support from your AM provider to ensure your parts are manufactured and delivered with the level of quality, reliability and performance that you require."
     },
     {
-      "hash": "ed1ef85c63713dc028207129121af443972abcc9",
+      "hash": "d38c0b4841fc66d90443d49e6d86d6bf720177d2",
       "heading": "The Process for Modifying an Existing Part for Additive Manufacturing",
       "level": "h2",
-      "text": "What to Expect During the Additive Manufacturing (AM) Process Published on March 29, 2022 While 3D printing from a CAD file for a non-functional prototype is a relatively straightforward manufacturing process, embarking on an entirely new product development project – from concept to production – may be more challenging, especially if you’re using an unfamiliar additive manufacturing technology. Understanding the 3D Printing Process The 3D printing process differs from traditional manufacturing processes in that it involves the progressive addition of material to a part. By contrast, CNC machining is a subtractive process, since parts are formed by the removal of material from a workpiece w..."
+      "text": "The Process for Modifying an Existing Part for Additive Manufacturing"
     },
     {
-      "hash": "ed1ef85c63713dc028207129121af443972abcc9",
+      "hash": "82e588b436e028ad1208af7c9e278567c2c4fb03",
       "heading": "Step 1: Identify Parts With a Strong Business Case for AM Production",
       "level": "h3",
-      "text": "What to Expect During the Additive Manufacturing (AM) Process Published on March 29, 2022 While 3D printing from a CAD file for a non-functional prototype is a relatively straightforward manufacturing process, embarking on an entirely new product development project – from concept to production – may be more challenging, especially if you’re using an unfamiliar additive manufacturing technology. Understanding the 3D Printing Process The 3D printing process differs from traditional manufacturing processes in that it involves the progressive addition of material to a part. By contrast, CNC machining is a subtractive process, since parts are formed by the removal of material from a workpiece w..."
+      "text": "Step 1: Identify Parts With a Strong Business Case for AM Production If you want to qualify an existing part for production-grade additive manufacturing, your first step should be to ensure there’s a strong business case for doing so. It’s a good idea to find a company<dynamic-value> SyBridge, that can work with you to identify parts that are suitable for the additive manufacturing process from a business perspective. High-turnover spare parts are good candidates here: while the original part might be made with injection molding, it is possible to make spares to the same performance standards with additive technologies. And, because additive allows you to order in quantities of single parts, you can also eliminate warehousing costs and adopt ‘never-out-of-stock’ inventory programs."
     },
     {
-      "hash": "ed1ef85c63713dc028207129121af443972abcc9",
+      "hash": "249bb66c70651cd0bef17dd8cad15bfb2ee6deed",
       "heading": "Step 2: Design Your Part",
       "level": "h3",
-      "text": "What to Expect During the Additive Manufacturing (AM) Process Published on March 29, 2022 While 3D printing from a CAD file for a non-functional prototype is a relatively straightforward manufacturing process, embarking on an entirely new product development project – from concept to production – may be more challenging, especially if you’re using an unfamiliar additive manufacturing technology. Understanding the 3D Printing Process The 3D printing process differs from traditional manufacturing processes in that it involves the progressive addition of material to a part. By contrast, CNC machining is a subtractive process, since parts are formed by the removal of material from a workpiece w..."
+      "text": "Step 2: Design Your Part When spare parts are modified for AM production, the geometry of the finished part must be made to fit seamlessly into an existing assembly. In these cases, the real design work isn’t making significant changes to the shape of the part but performing minor design modifications to optimize for additive production – and ensuring the finished part meets critical required dimensions. Throughout design iterations, if the part is out of tolerance for even one critical dimension (i.e. the linear dimension of a clip or gap), you’ll need to redesign or re-orient the part to get a stable dimension. Essentially, this means beginning with the existing design and performing the required reverse engineering to qualify it for additive production."
     },
     {
-      "hash": "ed1ef85c63713dc028207129121af443972abcc9",
+      "hash": "cbb25104197a24ede04c4ce29d71aba66b528627",
       "heading": "Step 3: Material and Process Selection",
       "level": "h3",
-      "text": "What to Expect During the Additive Manufacturing (AM) Process Published on March 29, 2022 While 3D printing from a CAD file for a non-functional prototype is a relatively straightforward manufacturing process, embarking on an entirely new product development project – from concept to production – may be more challenging, especially if you’re using an unfamiliar additive manufacturing technology. Understanding the 3D Printing Process The 3D printing process differs from traditional manufacturing processes in that it involves the progressive addition of material to a part. By contrast, CNC machining is a subtractive process, since parts are formed by the removal of material from a workpiece w..."
+      "text": "Step 3: Material and Process Selection Before production, you’ll need to identify materials that are acceptable for your application – and then compare the AM technologies capable of producing parts with those materials. Start with the performance requirements that your part needs (modulus, tensile strength, compressive strength, etc.) and then consider the environment that your part will be used in (exposed to the elements, inside a compressor, etc.). Use those factors to generate a list of suitable materials and then compare the benefits and challenges of your available AM technologies. When multiple processes and materials are acceptable for an application, your production partner can print sample parts made with each of those technologies, and let you determine which you prefer for full-scale production."
     },
     {
-      "hash": "ed1ef85c63713dc028207129121af443972abcc9",
+      "hash": "2b29a1f6da06cb2f8ab64525cee7149c118f9810",
       "heading": "Step 4: Iterative Production Design and Testing",
       "level": "h3",
-      "text": "What to Expect During the Additive Manufacturing (AM) Process Published on March 29, 2022 While 3D printing from a CAD file for a non-functional prototype is a relatively straightforward manufacturing process, embarking on an entirely new product development project – from concept to production – may be more challenging, especially if you’re using an unfamiliar additive manufacturing technology. Understanding the 3D Printing Process The 3D printing process differs from traditional manufacturing processes in that it involves the progressive addition of material to a part. By contrast, CNC machining is a subtractive process, since parts are formed by the removal of material from a workpiece w..."
+      "text": "Step 4: Iterative Production Design and Testing After you’ve chosen a list of acceptable materials and processes, the production engineering process can begin. It’s important that you both understand, and lock-in, the variables of the 3D printing process when you reach the level of dimensional accuracy, performance, and appearance that you need for full-scale production. It may take multiple iterations to reach your desired output, however, once you have a part that meets your requirements, verified by any necessary inspection or testing, all the production information will be compiled into a digital package containing everything needed to make your parts; at SyBridge we call this the build package. The build package contains all the necessary information on printing parameters, post-processing and packaging considerations that you’ll need to ensure your part is produced and delivered exactly as expected. That information will pertain to factors including: Support structure design Support removal tools Surface finishing parameters Cure time Jig and fixture instructions All of these details represent a way to design failure out of the additive manufacturing process. The build packa..."
     },
     {
-      "hash": "ed1ef85c63713dc028207129121af443972abcc9",
+      "hash": "3f30a156baa58888b936379191897c4af6f3e136",
       "heading": "Step 5: On-Demand Production and Global Fulfillment",
       "level": "h3",
-      "text": "What to Expect During the Additive Manufacturing (AM) Process Published on March 29, 2022 While 3D printing from a CAD file for a non-functional prototype is a relatively straightforward manufacturing process, embarking on an entirely new product development project – from concept to production – may be more challenging, especially if you’re using an unfamiliar additive manufacturing technology. Understanding the 3D Printing Process The 3D printing process differs from traditional manufacturing processes in that it involves the progressive addition of material to a part. By contrast, CNC machining is a subtractive process, since parts are formed by the removal of material from a workpiece w..."
+      "text": "Step 5: On-Demand Production and Global Fulfillment After your part has been approved, it will be ready to be produced on-demand, and delivered globally. On-demand manufacturing is a key benefit of AM production. Essentially, it allows you to store your parts digitally until demand necessitates production, eliminating the need to physically warehouse a large inventory of spare parts to be sold and distributed over time. Designing and producing end-use parts for additive manufacturing is iterative. If at any point, the part fails to meet client expectations — in performance, dimensional accuracy or appearance — the product development process can be stopped so that engineers can identify the point of failure and find a way to design it away."
     },
     {
-      "hash": "ed1ef85c63713dc028207129121af443972abcc9",
+      "hash": "828582e64788fb851a943a8ced38c7e3c7419042",
       "heading": "Start the Process Today",
       "level": "h2",
-      "text": "What to Expect During the Additive Manufacturing (AM) Process Published on March 29, 2022 While 3D printing from a CAD file for a non-functional prototype is a relatively straightforward manufacturing process, embarking on an entirely new product development project – from concept to production – may be more challenging, especially if you’re using an unfamiliar additive manufacturing technology. Understanding the 3D Printing Process The 3D printing process differs from traditional manufacturing processes in that it involves the progressive addition of material to a part. By contrast, CNC machining is a subtractive process, since parts are formed by the removal of material from a workpiece w..."
-    },
-    {
-      "hash": "a4977d2ee2c1f3bca2f5848506e7fd665cbfc5ee",
-      "heading": "Related articles",
-      "level": "h3",
-      "text": "Related articles"
-    },
-    {
-      "hash": "9d565dacff749ccb2e167f1b996d128a3c111df9",
-      "heading": "How Additive Manufacturing Transforms the Sporting Goods Industry",
-      "level": "h2",
-      "text": "How Additive Manufacturing Transforms the Sporting Goods Industry"
-    },
-    {
-      "hash": "617ab8be2672ef98a565aa41251e42380ac2eb81",
-      "heading": "Top 5 Impact-Resistant Plastics",
-      "level": "h2",
-      "text": "Top 5 Impact-Resistant Plastics"
-    },
-    {
-      "hash": "30d9114e5a70605eefa195fe6aedbbb9dacc6c6d",
-      "heading": "Polypropylene vs. Nylon (Polyamide): Benefits and Drawbacks for Various Applications",
-      "level": "h2",
-      "text": "Polypropylene vs. Nylon (Polyamide): Benefits and Drawbacks for Various Applications"
+      "text": "Start the Process Today Wherever you are in the additive manufacturing design process, SyBridge can provide the end-to-end support and additive design expertise you need to get your idea across the finish line. Reach out to our team today to get started."
     }
   ],
+  "sitemap_lastmod": "2024-04-22T16:51:23+00:00",
   "status": 200,
-  "structure_hash": "ca7ce6657948d0b01e9c97a6a4fac1445ae75ca0",
-  "text_excerpt": "What to Expect During the Additive Manufacturing (AM) Process - SyBridge Technologies about us About us overview About us overview Our Story Sybridge Advantage Sustainability Press Room Careers Injection mold tooling Injection molding tooling overview Injection molding tooling overview Design & Engineering Pre-Production Tooling Production Tooling Mold Validation Mold Maintenance SPECIALTY MANUFACTURING Specialty Manufacturing OVERVIEW Specialty Manufacturing Overview 3D Printing Quick-Turn Production Markets Served Markets Served Overview Markets Served Overview Healthcare Packaging Consumer Mobility Industrial More+ More Overview Blog Contact Locations United States Mexico Canada Europe Asia Start the Conversation Home > Resources > What to Expect During the Additive Manufacturing (AM) Process What to Expect During the Additive Manufacturing (AM) Process Published on March 29, 2022 While 3D printing from a CAD file for a non-functional prototype is a relatively straightforward manufacturing process, embarking on an entirely new product development project – from concept to production – may be more challenging, especially if you’re using an unfamiliar additive manufacturing techn...",
-  "text_hash": "3d45dde34cee7a59baf5d36cf1784595c4075772",
+  "structure_hash": "9e8c785663f7163170bb06959f6609ec50681404",
+  "text_excerpt": "What to Expect During the Additive Manufacturing (AM) Process Published on March 29, 2022 While 3D printing from a CAD file for a non-functional prototype is a relatively straightforward manufacturing process, embarking on an entirely new product development project – from concept to production – may be more challenging, especially if you’re using an unfamiliar additive manufacturing technology. Understanding the 3D Printing Process The 3D printing process differs from traditional manufacturing processes in that it involves the progressive addition of material to a part. By contrast, CNC machining is a subtractive process, since parts are formed by the removal of material from a workpiece with a cutting tool, and injection molding involves the injection of an amount of molten thermoplastic into a preformed mold chamber. 3D technology presents numerous new procedural challenges . The build volume of 3D printers, for example, may require parts to be split into multiple builds for post-process assembly, while the heat generated during material extrusion may cause some parts to warp. Similarly some 3D printing technologies involve production considerations: fused deposition modeling (...",
+  "text_hash": "6bf773802ec7a46156fdb62f06f9af3abaaa2d12",
   "title": "What to Expect During the Additive Manufacturing (AM) Process - SyBridge Technologies",
   "url": "https://sybridge.com/what-to-expect-during-the-additive-manufacturing-am-process"
 }

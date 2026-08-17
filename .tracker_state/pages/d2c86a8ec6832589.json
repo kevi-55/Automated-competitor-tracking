@@ -1,0 +1,123 @@
+{
+  "canonical": "https://www.protolabs.com/resources/blog/considerations-for-3d-printed-part-orientation",
+  "category": "content",
+  "competitor": "Protolabs",
+  "ctas": [
+    {
+      "href": "https://www.protolabs.com/ecom/get-a-quote",
+      "text": "Get Printed Parts"
+    }
+  ],
+  "discovered_via": "sitemap",
+  "fetched_at": "2026-08-17T03:48:49+00:00",
+  "final_url": "https://www.protolabs.com/resources/blog/considerations-for-3d-printed-part-orientation",
+  "first_seen_at": "2026-08-17T03:48:49+00:00",
+  "h1": "3D Printing Part Orientation: How it Affects Strength, Accuracy, and Surface Finish",
+  "headings": [
+    {
+      "level": "h1",
+      "text": "3D Printing Part Orientation: How it Affects Strength, Accuracy, and Surface Finish"
+    },
+    {
+      "level": "h3",
+      "text": "3D-printed Part Orientation for Strength"
+    },
+    {
+      "level": "h3",
+      "text": "Orienting to Avoid Differential Shrink"
+    },
+    {
+      "level": "h3",
+      "text": "Orienting to Achieve Desired Surface Finish"
+    }
+  ],
+  "images": [
+    {
+      "alt": "",
+      "src": "/images/Protolabs-mark-dark.jpg"
+    },
+    {
+      "alt": "Tension Graph",
+      "src": "/media/if4besvl/picture1.jpg"
+    },
+    {
+      "alt": "3D Printed Part",
+      "src": "/media/gydbnqmw/picture2.jpg?width=450&height=450&v=1d8d71f06869170"
+    },
+    {
+      "alt": "3D Printed Parts",
+      "src": "/media/f0hp4kwl/picture3.jpg"
+    },
+    {
+      "alt": "3D Printed Parts",
+      "src": "/media/oy2f1eqd/picture4.jpg"
+    },
+    {
+      "alt": "3D Printed Parts",
+      "src": "/media/q3mdnyvj/picture5.jpg"
+    },
+    {
+      "alt": "cover of 3d printing definitive guide",
+      "src": "/media/r52fuqmr/3dp-defintive-guide-cover-293x200.png?width=293&height=200&v=1d8a286710ca0c0"
+    },
+    {
+      "alt": "3D printing material selector",
+      "src": "/media/gvfkc54m/blog-_-dt-fulfillment-cta-3dp-selector-240x180.png?width=240&height=180&v=1d87a84eacaf170"
+    },
+    {
+      "alt": "Illustration",
+      "src": "/media/lmnhfe1l/3dp_mistakes-to-avoid_dmls-overhangs.jpg?width=115&height=115&v=1da22a6e2a79540"
+    },
+    {
+      "alt": "Selecting the Right Material for 3D Printing",
+      "src": "/media/1022785/1.jpg?width=115&height=115&v=1d74016e08c53b0"
+    },
+    {
+      "alt": "Clear 3D Printing: Material and Design Considerations",
+      "src": "/media/1021726/plate-only-900-400.jpg?width=115&height=115&v=1d6b7756be2f160"
+    },
+    {
+      "alt": "3D printing quote image",
+      "src": "/media/tr1fnzj1/blog-_-dt-quoting-cta-400x310_3dp-400x310-1.png?width=400&height=310&v=1d87b43e4485300"
+    }
+  ],
+  "meta_description": "Part orientation is an important but often overlooked design requirement of 3D printing, especially for stereolithography (SLA). Let’s examine the factors that should be considered.",
+  "modified_at": "",
+  "monitored_text": "Tech Tips October 4, 2022 3D Printing Part Orientation: How it Affects Strength, Accuracy, and Surface Finish By Protolabs It may seem like a no-brainer to opt for the orientation that offers the minimum z-height, and thus the quickest build time. But, orienting solely for z-height may not always make the most sense in terms of your part requirements. There are a few other technical factors that come into play when thinking about part orientation for 3D printing. When you think about part orientation for 3D printing—specifically stereolithography (SLA)—think of a pencil. What would it take to 3D-print this pencil layer-by-layer either horizontally or vertically? Doing it horizontally would take less time, because it’s flatter when lying on its side, and printing it vertically would take substantially longer, because it’s standing tall and requires more drawn layers stacked sequentially one on top of another. Printing it horizontally would also require more support structures compared to printing the pencil vertically, and those would require additional time to remove to achieve a finished part. So, your orientation selection could come down to strength requirements or surface finish requirements for your pencil, and you may even want to orient your part at an angle. There are a handful of considerations when selecting stereolithography build orientation. Let’s get into it! 3D-printed Part Orientation for Strength Let’s first look at a quick illustration that explains the general implications of 3d printing layer buildup and external part forces on parts. When tension forces are normal, or perpendicular, to the layers, part weakness tends to occur. When tension forces are parallel, or in line with the layers, the part is stronger. When forces are normal to the layers, the part is generally able to accommodate more compression than if forces are in line with the layers. Two takeaways apply: Print in an orientation so that layers align with the axis where tension forces are highest and Print in an orientation so that layers intersect the axis where compression forces are highest In the theoretical case of the pencil, a horizontal build orientation will likely work to account for the tension and bending forces the pencil will encounter when in use. Note that these guidelines always apply to Fused Deposition Modeling, (FDM) parts. SLA parts exhibit much less anisotropy than FDM parts because layers are chemically bonded, and the resolution achieved with SLA is much higher than with FDM. However, thermoset materials may require some additional thought around part orientation to maximize the strength of critical part features. Differential shrink is present in a 3D-printed part that was oriented as shown above. The rapid transition from small to large cross-sectional area caused shrink on this part. Orienting to Avoid Differential Shrink In general, the more unequal distribution of material there is in a part, the more prone it is to fall victim to a phenomenon known as differential shrink. Certain part geometries and sizes are inherently more likely to shrink because they don’t include adequate support from the preceding layers of material. To illustrate this, think of a capital letter “H.” When the crossbar section appears layer-by-layer in the middle, it tends to pull the supporting legs inward, causing the part to bow near the bottom. To prevent differential shrink, there are a couple of options. Often, we build SLA parts on an angle to reduce the surface area, and thus the overall stress encountered for each layer. This also helps increase part dimensionality and tolerancing accuracy. In addition, we build parts lying down so that each layer formed is the same surface area as the layer beneath it, and there are no large cross-sectional swings. When dimension critical or high-resolution part features are required, we advise that parts are oriented to position those features on the up facing surface of the part. Keep in mind that building parts on an angle can result in parts with non-ideal surface finish if cosmetics are key. Differential shrink can be avoided by orienting to eliminate small to large cross-sectional changes on the part (shown above) or by orienting the part at an angle (shown right). If smooth, cosmetic features are the goal, build parts vertically. Building at an angle will cause visible layer lines as shown on the angled cylinder. Orienting to Achieve Desired Surface Finish If it’s important for your part to have a cosmetic finish for use in a tradeshow or on display, we will tend to build the part flat and not at an angle. Any critical features should face up, as the top surfaces will be smooth and more prone to dimensional accuracy. On the other hand, if your part is built facing down, support structures that need to be removed and blasted would eliminate any glossy effect. The glossy effect is shown on the “H” that was built lying flat. The “H” built at an angle highlights layer lines and the visual effects they can have on text. As a rule of thumb, our team may choose a different orientation to provide you with the best quality part. One important thing to keep in mind is that if you don’t specify a desired part orientation (horizontal vs. vertical), we will automatically choose the orientation to meet the fastest possible build time. Letting us know what aspects are most vital to your 3D-printed parts helps us determine how best to orient your part during the build process. Overall, the biggest takeaway is that if you have a particular need for a 3D-printed part, whether it's critical features, cost consideration, or a specific desired surface finish, be sure to let our team of engineers know in advance so we can ensure your part meets your specific goals. If you have any issues getting your guide, click here to download . Definitive Guide to 3D Printing Our comprehensive guide navigates the entire additive manufacturing process—from prototyping to production. United States of America Afghanistan Åland Islands Albania Algeria American Samoa Andorra Angola Anguilla Antarctica Antigua and Barbuda Argentina Armenia Aruba Australia Austria Azerbaijan Bahamas Bahrain Bangladesh Barbados Belarus Belgium Belize Benin Bermuda Bhutan Bolivia, Plurinational State of Bonaire, Sint Eustatius and Saba Bosnia and Herzegovina Botswana Bouvet Island Brazil British Indian Ocean Territory Brunei Darussalam Bulgaria Burkina Faso Burundi Cambodia Cameroon Canada Cape Verde Cayman Islands Central African Republic Chad Chile China Christmas Island Cocos (Keeling) Islands Colombia Comoros Congo Congo, the Democratic Republic of the Cook Islands Costa Rica Côte d'Ivoire Croatia Cuba Curaçao Cyprus Czech Republic Denmark Djibouti Dominica Dominican Republic Ecuador Egypt El Salvador Equatorial Guinea Eritrea Estonia Ethiopia Falkland Islands (Malvinas) Faroe Islands Fiji Finland France French Guiana French Polynesia French Southern Territories Gabon Gambia Georgia Germany Ghana Gibraltar Greece Greenland Grenada Guadeloupe Guam Guatemala Guernsey Guinea Guinea-Bissau Guyana Haiti Heard Island and McDonald Islands Holy See (Vatican City State) Honduras Hong Kong Hungary Iceland India Indonesia Iran, Islamic Republic of Iraq Ireland Isle of Man Israel Italy Jamaica Japan Jersey Jordan Kazakhstan Kenya Kiribati Korea, Democratic People's Republic of Korea, Republic of Kuwait Kyrgyzstan Lao People's Democratic Republic Latvia Lebanon Lesotho Liberia Libya Liechtenstein Lithuania Luxembourg Macao Macedonia, the Former Yugoslav Republic of Madagascar Malawi Malaysia Maldives Mali Malta Marshall Islands Martinique Mauritania Mauritius Mayotte Mexico Micronesia, Federated States of Moldova, Republic of Monaco Mongolia Montenegro Montserrat Morocco Mozambique Myanmar Namibia Nauru Nepal Netherlands New Caledonia New Zealand Nicaragua Niger Nigeria Niue Norfolk Island Northern Mariana Islands Norway Oman Pakistan Palau Palestine, State of Panama Papua New Guinea Paraguay Peru Philippines Pitcairn Poland Portugal Puerto Rico Qatar Réunion Romania Russian Federation Rwanda Saint Barthélemy Saint Helena, Ascension and Tristan da Cunha Saint Kitts and Nevis Saint Lucia Saint Martin (French part) Saint Pierre and Miquelon Saint Vincent and the Grenadines Samoa San Marino Sao Tome and Principe Saudi Arabia Senegal Serbia Seychelles Sierra Leone Singapore Sint Maarten (Dutch part) Slovakia Slovenia Solomon Islands Somalia South Africa South Georgia and the South Sandwich Islands South Sudan Spain Sri Lanka Sudan SuriName Svalbard and Jan Mayen Swaziland Sweden Switzerland Syrian Arab Republic Taiwan, Province of China Tajikistan Tanzania, United Republic of Thailand Timor-Leste Togo Tokelau Tonga Trinidad and Tobago Tunisia Turkey Turkmenistan Turks and Caicos Islands Tuvalu Uganda Ukraine United Arab Emirates United Kingdom United States Minor Outlying Islands Uruguay Uzbekistan Vanuatu Venezuela, Bolivarian Republic of Viet Nam Virgin Islands, British Virgin Islands, U.S. Wallis and Futuna Western Sahara Yemen Zambia Zimbabwe I agree to receive email messages containing service updates and Design Tips from Protolabs and its affiliates Download Guide Get 3D Printing Material Selector You Might Also Like... 7 Mistakes to Avoid When Designing 3D-Printed Parts 3D Printing Materials Guide Clear 3D Printing: Material and Design Considerations Need custom 3D-printed parts? Upload your CAD file for an instant online quote. Get Printed Parts Tagged: 3D printing",
+  "published_at": "",
+  "requested_url": "https://www.protolabs.com/resources/blog/considerations-for-3d-printed-part-orientation",
+  "schema_version": 2,
+  "sections": [
+    {
+      "hash": "22ebcef4aced39ecac32dcd95412b5c0f0a0015c",
+      "heading": "3D Printing Part Orientation: How it Affects Strength, Accuracy, and Surface Finish",
+      "level": "h1",
+      "text": "3D Printing Part Orientation: How it Affects Strength, Accuracy, and Surface Finish By Protolabs Tech Tips October 4, 2022 3D Printing Part Orientation: How it Affects Strength, Accuracy, and Surface Finish By Protolabs"
+    },
+    {
+      "hash": "fa854b76f3d860967e6414ba3e5197aa00ef4e80",
+      "heading": "3D-printed Part Orientation for Strength",
+      "level": "h3",
+      "text": "3D-printed Part Orientation for Strength Let’s first look at a quick illustration that explains the general implications of 3d printing layer buildup and external part forces on parts. When tension forces are normal, or perpendicular, to the layers, part weakness tends to occur. When tension forces are parallel, or in line with the layers, the part is stronger. When forces are normal to the layers, the part is generally able to accommodate more compression than if forces are in line with the layers. Two takeaways apply: Print in an orientation so that layers align with the axis where tension forces are highest and Print in an orientation so that layers intersect the axis where compression forces are highest In the theoretical case of the pencil, a horizontal build orientation will likely work to account for the tension and bending forces the pencil will encounter when in use. Note that these guidelines always apply to Fused Deposition Modeling, (FDM) parts. SLA parts exhibit much less anisotropy than FDM parts because layers are chemically bonded, and the resolution achieved with SLA is much higher than with FDM. However, thermoset materials may require some additional thought aro..."
+    },
+    {
+      "hash": "374ae9348e8d312c03da643dfb60abc6e1c8fcd3",
+      "heading": "Orienting to Avoid Differential Shrink",
+      "level": "h3",
+      "text": "Orienting to Avoid Differential Shrink In general, the more unequal distribution of material there is in a part, the more prone it is to fall victim to a phenomenon known as differential shrink. Certain part geometries and sizes are inherently more likely to shrink because they don’t include adequate support from the preceding layers of material. To illustrate this, think of a capital letter “H.” When the crossbar section appears layer-by-layer in the middle, it tends to pull the supporting legs inward, causing the part to bow near the bottom. To prevent differential shrink, there are a couple of options. Often, we build SLA parts on an angle to reduce the surface area, and thus the overall stress encountered for each layer. This also helps increase part dimensionality and tolerancing accuracy. In addition, we build parts lying down so that each layer formed is the same surface area as the layer beneath it, and there are no large cross-sectional swings. When dimension critical or high-resolution part features are required, we advise that parts are oriented to position those features on the up facing surface of the part. Keep in mind that building parts on an angle can result in pa..."
+    },
+    {
+      "hash": "58dc7d55b0252ea0b43f987a846c60432b94e179",
+      "heading": "Orienting to Achieve Desired Surface Finish",
+      "level": "h3",
+      "text": "Orienting to Achieve Desired Surface Finish If it’s important for your part to have a cosmetic finish for use in a tradeshow or on display, we will tend to build the part flat and not at an angle. Any critical features should face up, as the top surfaces will be smooth and more prone to dimensional accuracy. On the other hand, if your part is built facing down, support structures that need to be removed and blasted would eliminate any glossy effect. The glossy effect is shown on the “H” that was built lying flat. The “H” built at an angle highlights layer lines and the visual effects they can have on text. As a rule of thumb, our team may choose a different orientation to provide you with the best quality part. One important thing to keep in mind is that if you don’t specify a desired part orientation (horizontal vs. vertical), we will automatically choose the orientation to meet the fastest possible build time. Letting us know what aspects are most vital to your 3D-printed parts helps us determine how best to orient your part during the build process. Overall, the biggest takeaway is that if you have a particular need for a 3D-printed part, whether it's critical features, cost co..."
+    }
+  ],
+  "sitemap_lastmod": "2026-04-14T10:54:00+00:00",
+  "status": 200,
+  "structure_hash": "104ba366af40270cdf891dc210728eb774c32f75",
+  "text_excerpt": "Tech Tips October 4, 2022 3D Printing Part Orientation: How it Affects Strength, Accuracy, and Surface Finish By Protolabs It may seem like a no-brainer to opt for the orientation that offers the minimum z-height, and thus the quickest build time. But, orienting solely for z-height may not always make the most sense in terms of your part requirements. There are a few other technical factors that come into play when thinking about part orientation for 3D printing. When you think about part orientation for 3D printing—specifically stereolithography (SLA)—think of a pencil. What would it take to 3D-print this pencil layer-by-layer either horizontally or vertically? Doing it horizontally would take less time, because it’s flatter when lying on its side, and printing it vertically would take substantially longer, because it’s standing tall and requires more drawn layers stacked sequentially one on top of another. Printing it horizontally would also require more support structures compared to printing the pencil vertically, and those would require additional time to remove to achieve a finished part. So, your orientation selection could come down to strength requirements or surface fini...",
+  "text_hash": "10b96a95f883cd234ecf10deafd081e8bd0a843d",
+  "title": "3D Printing Part Orientation: Why it Matters",
+  "url": "https://www.protolabs.com/resources/blog/considerations-for-3d-printed-part-orientation"
+}

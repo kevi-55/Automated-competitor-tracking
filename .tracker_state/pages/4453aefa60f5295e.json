@@ -1,54 +1,17 @@
 {
-  "canonical": "https://sybridge.com/overmolding-overview/",
+  "canonical": "https://sybridge.com/overmolding-overview",
   "category": "page",
   "competitor": "SyBridge",
   "ctas": [
     {
-      "href": "https://sybridge.com/contact/",
-      "text": "Contact"
-    },
-    {
-      "href": "https://sybridge.com/contact/locations/",
-      "text": "Locations"
-    },
-    {
-      "href": "https://sybridge.com/contact/locations/#usa",
-      "text": "United States"
-    },
-    {
-      "href": "https://sybridge.com/contact/locations/#mexico",
-      "text": "Mexico"
-    },
-    {
-      "href": "https://sybridge.com/contact/locations/#canada",
-      "text": "Canada"
-    },
-    {
-      "href": "https://sybridge.com/contact/locations/#europe",
-      "text": "Europe"
-    },
-    {
-      "href": "https://sybridge.com/contact/locations/#asia",
-      "text": "Asia"
-    },
-    {
-      "href": "https://sybridge.com/contact/",
-      "text": "Start the Conversation"
-    },
-    {
-      "href": "/contact/",
+      "href": "https://sybridge.com/contact",
       "text": "contact"
-    },
-    {
-      "href": "https://sybridge.com/topics/industry-trends/",
-      "text": "Industry Trends"
-    },
-    {
-      "href": "https://sybridge.com/contact/",
-      "text": "Contact Us"
     }
   ],
-  "fetched_at": "2026-08-17T02:35:27+00:00",
+  "discovered_via": "sitemap",
+  "fetched_at": "2026-08-17T03:54:07+00:00",
+  "final_url": "https://sybridge.com/overmolding-overview",
+  "first_seen_at": "2026-08-17T03:54:07+00:00",
   "h1": "An Overview of Overmolding",
   "headings": [
     {
@@ -74,29 +37,9 @@
     {
       "level": "h2",
       "text": "Getting started with overmolding"
-    },
-    {
-      "level": "h3",
-      "text": "Related articles"
-    },
-    {
-      "level": "h2",
-      "text": "Six Process Control Variables That are Vital to Your Additive Manufacturing Success"
-    },
-    {
-      "level": "h2",
-      "text": "Why is Uniform Wall Thickness Important?"
-    },
-    {
-      "level": "h2",
-      "text": "An Overview of Polypropylene Fillers"
     }
   ],
   "images": [
-    {
-      "alt": "Sybridge",
-      "src": "https://sybridge.com/wp-content/uploads/2025/11/logo-1.svg"
-    },
     {
       "alt": "",
       "src": "data:image/svg+xml,%3Csvg%20xmlns=%22http://www.w3.org/2000/svg%22%20viewBox=%220%200%20210%20140%22%3E%3C/svg%3E"
@@ -108,80 +51,57 @@
     {
       "alt": "toothbrushes",
       "src": "data:image/svg+xml,%3Csvg%20xmlns=%22http://www.w3.org/2000/svg%22%20viewBox=%220%200%20300%20200%22%3E%3C/svg%3E"
-    },
-    {
-      "alt": "Sybridge Technologies",
-      "src": "data:image/svg+xml,%3Csvg%20xmlns=%22http://www.w3.org/2000/svg%22%20viewBox=%220%200%20210%20140%22%3E%3C/svg%3E"
     }
   ],
   "meta_description": "Overmolding is a multi-shot injection molding process that produces a single product from two or more different thermoplastics.",
+  "modified_at": "2024-01-19T00:46:38+00:00",
+  "monitored_text": "An Overview of Overmolding Published on February 18, 2020 Originally published on fastradius.com on February 18, 2020 What is overmolding? Overmolding is a multi-shot injection molding process that produces a single product from two or more different thermoplastics. The first “shot” is called the substrate, which is typically the more rigid of the two materials being used and is designed to accept the subsequent shots, or overmolds. A variety of thermoplastics can be used for the overmold, but they’re usually softer and more flexible than the substrate. The overmold material may be mixed with colorants, foaming agents, and other additives to achieve the desired effect upon completion. Overmolding enables the unification of the substrate material with the overmold material in a fraction of the time that it takes to join two or more parts together in a secondary operation on an assembly line. First, the substrate is injection molded out of a more rigid plastic. It is then placed into an overmolding tool or an overmold cavity within the same tool. Next, the molten overmolding material is injected into, onto, or around the substrate part. After the overmolding material cools, the substrate and overmold are chemically and/or mechanically bonded. Quickly — often within 30 to 60 seconds—a strong, durable part built from two or more complementary plastics is completed. Overmolding is advantageous for manufacturers seeking to build consistently strong, durable, multi-material parts. Building one unified part from multiple bonded parts — instead of using an adhesive to bind separate parts — renders the part less likely to separate over time and improves the overall function and cosmetics of the part itself. Overmolding can also be used to make products like water-tight connector cables that comply with IP certifications. Materials for overmolding The materials used during the overmolding process must be chemically and/or thermally compatible. Metal substrates can be used with any plastic overmold, but when overmolding plastic with plastic, it’s possible to encounter compatibility issues. If the substrate and overmold are not made of compatible materials, the resulting product may be deformed or have poor bonding performance. If the substrate and overmold are not chemically compatible, mechanical bonding features can be designed into the part. Common overmolding materials include: PEI (Polyetherimide) ABS (Acrylonitrile Butadiene Styrene) PEEK (Polyetheretherketone) PMMA (Polymethyl methacrylate) HDPE (High-density polyethylene) There are dozens of possible material combinations to choose from, but don’t feel the need to go it alone. Material manufacturers generally provide a compatibility chart for overmolding materials. It’s best to double-check these parameters and consult a resin specialist before committing to a material. When to use overmolding It’s important to consider the unique requirements of the overmolding process while designing parts. The substrate’s wall thickness, for example, will determine how well the overmold material flows in, on, or around it. Additionally, due to the high temperature differential between the overmold material and the substrate, inconsistent wall thickness will lead to warping, increase in flash, or even incomplete fills. The best way to combat this risk is to ensure that wall thicknesses for both the substrate and the overmold are even and consistent from the get-go. While overmolding is a highly versatile manufacturing method, there are a number of situations in which it may make sense to use a different process. Overmolding is best for producing a large number of identical parts at speed. For those interested in manufacturing a small number of niche products, the upfront costs of overmolding may not be worth it in the long run. With overmolding, tooling expenses can be much higher compared to standard injection molding. This cost comes from the extra material needed to make both the substrate and overmolded tools and the precision needed for part alignment during the overmolding process. Insert molding is a similar process that offers the benefits of overmolding on a smaller scale. During insert molding, molten plastic surrounds an insert, producing a single, strong component with the added benefits of improved material properties from the metal insert itself. This process is more cost-effective than overmolding when producing complex parts in smaller quantities. The two most common insert types are threaded inserts and compression limiters, but there are many other types. The use of inserts like these allow for more complex and high performance assemblies to be designed. A manufacturing partner can help you decide if overmolding is right for your next project. Common applications for overmolding Overmolding may be an effective means by which to cut assembly time and create aesthetically pleasing multicolor parts using different kinds of materials. Overmolding is commonly used to create ergonomic grips for scissors, tools, and other products that need to be tightened or loosened by human hands. Overmold design has use cases in a variety of industries, including medical equipment, automotive trim, military equipment, electronics, and housewares. Getting started with overmolding From rubberized grips on toothbrush handles to waterproof seals on cable connectors, overmolding is a versatile manufacturing method that combines strength and speed. In as little as a minute, this cost-effective process produces a strong, unified part of reliable quality. If this overview of overmolding has piqued your interest, contact the manufacturing experts at SyBridge today. Our team can walk you through the many different kinds of additive and traditional manufacturing processes and help you choose the option best-suited for your vision.",
+  "published_at": "2020-02-18T21:18:00+00:00",
   "requested_url": "https://sybridge.com/overmolding-overview",
+  "schema_version": 2,
   "sections": [
     {
-      "hash": "00c30d563ee4e291fbe8ce47d7193687e6d9133a",
+      "hash": "0a13ec1b69763deaac0a036d4b30dd8e9be2f173",
       "heading": "An Overview of Overmolding",
       "level": "h1",
-      "text": "An Overview of Overmolding Published on February 18, 2020 Originally published on fastradius.com on February 18, 2020 What is overmolding? Overmolding is a multi-shot injection molding process that produces a single product from two or more different thermoplastics. The first “shot” is called the substrate, which is typically the more rigid of the two materials being used and is designed to accept the subsequent shots, or overmolds. A variety of thermoplastics can be used for the overmold, but they’re usually softer and more flexible than the substrate. The overmold material may be mixed with colorants, foaming agents, and other additives to achieve the desired effect upon completion. Overm..."
+      "text": "An Overview of Overmolding Published on February 18, 2020 Originally published on fastradius.com on February 18, 2020"
     },
     {
-      "hash": "00c30d563ee4e291fbe8ce47d7193687e6d9133a",
+      "hash": "2a20f86844f85f47c4c7ca21f36ac17cf2407915",
       "heading": "What is overmolding?",
       "level": "h2",
-      "text": "An Overview of Overmolding Published on February 18, 2020 Originally published on fastradius.com on February 18, 2020 What is overmolding? Overmolding is a multi-shot injection molding process that produces a single product from two or more different thermoplastics. The first “shot” is called the substrate, which is typically the more rigid of the two materials being used and is designed to accept the subsequent shots, or overmolds. A variety of thermoplastics can be used for the overmold, but they’re usually softer and more flexible than the substrate. The overmold material may be mixed with colorants, foaming agents, and other additives to achieve the desired effect upon completion. Overm..."
+      "text": "What is overmolding? Overmolding is a multi-shot injection molding process that produces a single product from two or more different thermoplastics. The first “shot” is called the substrate, which is typically the more rigid of the two materials being used and is designed to accept the subsequent shots, or overmolds. A variety of thermoplastics can be used for the overmold, but they’re usually softer and more flexible than the substrate. The overmold material may be mixed with colorants, foaming agents, and other additives to achieve the desired effect upon completion. Overmolding enables the unification of the substrate material with the overmold material in a fraction of the time that it takes to join two or more parts together in a secondary operation on an assembly line. First, the substrate is injection molded out of a more rigid plastic. It is then placed into an overmolding tool or an overmold cavity within the same tool. Next, the molten overmolding material is injected into, onto, or around the substrate part. After the overmolding material cools, the substrate and overmold are chemically and/or mechanically bonded. Quickly — often within 30 to 60 seconds—a strong, durabl..."
     },
     {
-      "hash": "00c30d563ee4e291fbe8ce47d7193687e6d9133a",
+      "hash": "6b6a6fe1582428cefcb98ce14708a2d43da60946",
       "heading": "Materials for overmolding",
       "level": "h2",
-      "text": "An Overview of Overmolding Published on February 18, 2020 Originally published on fastradius.com on February 18, 2020 What is overmolding? Overmolding is a multi-shot injection molding process that produces a single product from two or more different thermoplastics. The first “shot” is called the substrate, which is typically the more rigid of the two materials being used and is designed to accept the subsequent shots, or overmolds. A variety of thermoplastics can be used for the overmold, but they’re usually softer and more flexible than the substrate. The overmold material may be mixed with colorants, foaming agents, and other additives to achieve the desired effect upon completion. Overm..."
+      "text": "Materials for overmolding The materials used during the overmolding process must be chemically and/or thermally compatible. Metal substrates can be used with any plastic overmold, but when overmolding plastic with plastic, it’s possible to encounter compatibility issues. If the substrate and overmold are not made of compatible materials, the resulting product may be deformed or have poor bonding performance. If the substrate and overmold are not chemically compatible, mechanical bonding features can be designed into the part. Common overmolding materials include: PEI (Polyetherimide) ABS (Acrylonitrile Butadiene Styrene) PEEK (Polyetheretherketone) PMMA (Polymethyl methacrylate) HDPE (High-density polyethylene) There are dozens of possible material combinations to choose from, but don’t feel the need to go it alone. Material manufacturers generally provide a compatibility chart for overmolding materials. It’s best to double-check these parameters and consult a resin specialist before committing to a material."
     },
     {
-      "hash": "00c30d563ee4e291fbe8ce47d7193687e6d9133a",
+      "hash": "23f72f33939f00f5b49a2fa35d229c258425dff7",
       "heading": "When to use overmolding",
       "level": "h2",
-      "text": "An Overview of Overmolding Published on February 18, 2020 Originally published on fastradius.com on February 18, 2020 What is overmolding? Overmolding is a multi-shot injection molding process that produces a single product from two or more different thermoplastics. The first “shot” is called the substrate, which is typically the more rigid of the two materials being used and is designed to accept the subsequent shots, or overmolds. A variety of thermoplastics can be used for the overmold, but they’re usually softer and more flexible than the substrate. The overmold material may be mixed with colorants, foaming agents, and other additives to achieve the desired effect upon completion. Overm..."
+      "text": "When to use overmolding It’s important to consider the unique requirements of the overmolding process while designing parts. The substrate’s wall thickness, for example, will determine how well the overmold material flows in, on, or around it. Additionally, due to the high temperature differential between the overmold material and the substrate, inconsistent wall thickness will lead to warping, increase in flash, or even incomplete fills. The best way to combat this risk is to ensure that wall thicknesses for both the substrate and the overmold are even and consistent from the get-go. While overmolding is a highly versatile manufacturing method, there are a number of situations in which it may make sense to use a different process. Overmolding is best for producing a large number of identical parts at speed. For those interested in manufacturing a small number of niche products, the upfront costs of overmolding may not be worth it in the long run. With overmolding, tooling expenses can be much higher compared to standard injection molding. This cost comes from the extra material needed to make both the substrate and overmolded tools and the precision needed for part alignment duri..."
     },
     {
-      "hash": "00c30d563ee4e291fbe8ce47d7193687e6d9133a",
+      "hash": "01cdc24982ec2f9a30ad22699d4ef4b5d056e096",
       "heading": "Common applications for overmolding",
       "level": "h2",
-      "text": "An Overview of Overmolding Published on February 18, 2020 Originally published on fastradius.com on February 18, 2020 What is overmolding? Overmolding is a multi-shot injection molding process that produces a single product from two or more different thermoplastics. The first “shot” is called the substrate, which is typically the more rigid of the two materials being used and is designed to accept the subsequent shots, or overmolds. A variety of thermoplastics can be used for the overmold, but they’re usually softer and more flexible than the substrate. The overmold material may be mixed with colorants, foaming agents, and other additives to achieve the desired effect upon completion. Overm..."
+      "text": "Common applications for overmolding Overmolding may be an effective means by which to cut assembly time and create aesthetically pleasing multicolor parts using different kinds of materials. Overmolding is commonly used to create ergonomic grips for scissors, tools, and other products that need to be tightened or loosened by human hands. Overmold design has use cases in a variety of industries, including medical equipment, automotive trim, military equipment, electronics, and housewares."
     },
     {
-      "hash": "00c30d563ee4e291fbe8ce47d7193687e6d9133a",
+      "hash": "52791199fc411262e96d770cb1841e6932377c4b",
       "heading": "Getting started with overmolding",
       "level": "h2",
-      "text": "An Overview of Overmolding Published on February 18, 2020 Originally published on fastradius.com on February 18, 2020 What is overmolding? Overmolding is a multi-shot injection molding process that produces a single product from two or more different thermoplastics. The first “shot” is called the substrate, which is typically the more rigid of the two materials being used and is designed to accept the subsequent shots, or overmolds. A variety of thermoplastics can be used for the overmold, but they’re usually softer and more flexible than the substrate. The overmold material may be mixed with colorants, foaming agents, and other additives to achieve the desired effect upon completion. Overm..."
-    },
-    {
-      "hash": "a4977d2ee2c1f3bca2f5848506e7fd665cbfc5ee",
-      "heading": "Related articles",
-      "level": "h3",
-      "text": "Related articles"
-    },
-    {
-      "hash": "8ca17ce87da7058270b799ee3ad13b796c0a7d2c",
-      "heading": "Six Process Control Variables That are Vital to Your Additive Manufacturing Success",
-      "level": "h2",
-      "text": "Six Process Control Variables That are Vital to Your Additive Manufacturing Success"
-    },
-    {
-      "hash": "7997ac10ab3b53ae3542a4c602183ddf53c0af94",
-      "heading": "Why is Uniform Wall Thickness Important?",
-      "level": "h2",
-      "text": "Why is Uniform Wall Thickness Important?"
-    },
-    {
-      "hash": "ed8e407216461cc7d4560134e8457146c2ca1085",
-      "heading": "An Overview of Polypropylene Fillers",
-      "level": "h2",
-      "text": "An Overview of Polypropylene Fillers"
+      "text": "Getting started with overmolding From rubberized grips on toothbrush handles to waterproof seals on cable connectors, overmolding is a versatile manufacturing method that combines strength and speed. In as little as a minute, this cost-effective process produces a strong, unified part of reliable quality. If this overview of overmolding has piqued your interest, contact the manufacturing experts at SyBridge today. Our team can walk you through the many different kinds of additive and traditional manufacturing processes and help you choose the option best-suited for your vision."
     }
   ],
+  "sitemap_lastmod": "2024-01-19T00:46:38+00:00",
   "status": 200,
-  "structure_hash": "0da0b59368e4c229d8cafc0375b38fde8982ef56",
-  "text_excerpt": "An Overview of Overmolding - SyBridge Technologies about us About us overview About us overview Our Story Sybridge Advantage Sustainability Press Room Careers Injection mold tooling Injection molding tooling overview Injection molding tooling overview Design & Engineering Pre-Production Tooling Production Tooling Mold Validation Mold Maintenance SPECIALTY MANUFACTURING Specialty Manufacturing OVERVIEW Specialty Manufacturing Overview 3D Printing Quick-Turn Production Markets Served Markets Served Overview Markets Served Overview Healthcare Packaging Consumer Mobility Industrial More+ More Overview Blog Contact Locations United States Mexico Canada Europe Asia Start the Conversation Home > Resources > An Overview of Overmolding An Overview of Overmolding Published on February 18, 2020 Originally published on fastradius.com on February 18, 2020 What is overmolding? Overmolding is a multi-shot injection molding process that produces a single product from two or more different thermoplastics. The first “shot” is called the substrate, which is typically the more rigid of the two materials being used and is designed to accept the subsequent shots, or overmolds. A variety of thermoplasti...",
-  "text_hash": "6a3d2ca696a7ff9137ce577a28f1b633a97b0acb",
+  "structure_hash": "89666324f27206c74dbec688ab0f508ce161302d",
+  "text_excerpt": "An Overview of Overmolding Published on February 18, 2020 Originally published on fastradius.com on February 18, 2020 What is overmolding? Overmolding is a multi-shot injection molding process that produces a single product from two or more different thermoplastics. The first “shot” is called the substrate, which is typically the more rigid of the two materials being used and is designed to accept the subsequent shots, or overmolds. A variety of thermoplastics can be used for the overmold, but they’re usually softer and more flexible than the substrate. The overmold material may be mixed with colorants, foaming agents, and other additives to achieve the desired effect upon completion. Overmolding enables the unification of the substrate material with the overmold material in a fraction of the time that it takes to join two or more parts together in a secondary operation on an assembly line. First, the substrate is injection molded out of a more rigid plastic. It is then placed into an overmolding tool or an overmold cavity within the same tool. Next, the molten overmolding material is injected into, onto, or around the substrate part. After the overmolding material cools, the subs...",
+  "text_hash": "00c30d563ee4e291fbe8ce47d7193687e6d9133a",
   "title": "An Overview of Overmolding - SyBridge Technologies",
   "url": "https://sybridge.com/overmolding-overview"
 }

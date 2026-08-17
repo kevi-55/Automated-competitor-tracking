@@ -1,0 +1,183 @@
+{
+  "canonical": "https://www.hubs.com/knowledge-base/resin-vs-filament-3d-printing",
+  "category": "content",
+  "competitor": "Hubs",
+  "ctas": [
+    {
+      "href": "https://www.hubs.com/manufacture?technology=cnc-machining",
+      "text": "upload your CAD file"
+    },
+    {
+      "href": "https://www.hubs.com/contact",
+      "text": "contact us"
+    }
+  ],
+  "discovered_via": "sitemap",
+  "fetched_at": "2026-08-17T03:41:52+00:00",
+  "final_url": "https://www.hubs.com/knowledge-base/resin-vs-filament-3d-printing",
+  "first_seen_at": "2026-08-17T03:41:52+00:00",
+  "h1": "",
+  "headings": [
+    {
+      "level": "h2",
+      "text": "What is filament 3D printing"
+    },
+    {
+      "level": "h3",
+      "text": "Pros and cons of filament printing"
+    },
+    {
+      "level": "h2",
+      "text": "What is resin 3D printing?"
+    },
+    {
+      "level": "h3",
+      "text": "Pros and cons of resin printing"
+    },
+    {
+      "level": "h2",
+      "text": "The big differences between resin and filament"
+    },
+    {
+      "level": "h3",
+      "text": "Price difference"
+    },
+    {
+      "level": "h3",
+      "text": "The strength of the prints"
+    },
+    {
+      "level": "h3",
+      "text": "Faster way to print"
+    },
+    {
+      "level": "h2",
+      "text": "Frequently asked questions about resin and filament printing"
+    },
+    {
+      "level": "h2",
+      "text": "Frequently asked questions"
+    },
+    {
+      "level": "h3",
+      "text": "Is resin or filament printing better for a beginner?"
+    },
+    {
+      "level": "h3",
+      "text": "Does resin last longer than filament?"
+    },
+    {
+      "level": "h3",
+      "text": "Is resin more expensive than filament?"
+    },
+    {
+      "level": "h3",
+      "text": "Is 3D printing toxic?"
+    }
+  ],
+  "images": [
+    {
+      "alt": "CNC machining, 3D printing and sheet metal fabrication parts",
+      "src": "/images/trans.gif"
+    }
+  ],
+  "meta_description": "Discover the biggest differences between resin printers versus filament 3D printers. How do both systems work? Learn about both methods.",
+  "modified_at": "",
+  "monitored_text": "The curing method dictates the final trade-off: the rugged durability of filament versus the high-resolution precision of resin. While filament is the industrial standard for large-scale functional prototypes using materials like ABS or nylon, it is limited by nozzle diameter and visible layer lines. Resin printers prioritize dimensional accuracy and airtight seals, reaching micron-level resolutions that eliminate the staircase effect. Design requirements must balance the thermal resistance of filament against the intricate surface fidelity of resin. What is filament 3D printing Filament 3D printing works by melting a plastic string (filament) and pushing it through a hot nozzle. The printer moves the nozzle to draw one layer at a time on a flat plate, similar to a computer-controlled glue gun. Each layer cools and sticks to the one below it until the object is finished. To prepare a design for the printer, engineers use ‘slicer-software’ like UltiMaker Cura or PrusaSlicer. This software translates the 3D model into simple coordinates that tell the printer exactly where to move and how much plastic to melt. Pros and cons of filament printing Filament printing is the most cost-effective 3D printing method. It offers a wide range of durable, engineering-grade plastics like ABS, Nylon, and PETG. Its primary benefits include high impact resistance, the ability to produce large-scale components quickly, and minimal post-processing requirements compared to other technologies. However, the process has notable drawbacks, such as visible layer lines and lower dimensional accuracy. Fixed nozzle sizes prevent filament printers from matching the fine detail, smooth finish, or airtight seals of resin-based components. What is resin 3D printing? Resin printing and VAT photopolymerization uses UV light to harden liquid plastic layer by layer. The printer has a tank filled with liquid resin and a build plate that moves up and down. A light source<dynamic-value> a laser or a digital screen, shines through the bottom of the tank to solidify specific areas of the liquid. This chemical process creates very smooth components with fine details that are nearly impossible to see with the naked eye. To prepare these components, engineers use ‘slicer-software’, specifically designed for resin, such as CHITUBOX or Formlabs PreForm. This software handles the placement of thin supports and calculates the exact light exposure needed for each layer. This translates the 3D design into a series of images that the printer projects to cure the liquid into a solid object. Pros and cons of resin printing Resin printing offers superior surface quality and dimensional accuracy. This makes it ideal for intricate prototypes or dental and jewelry applications. Because the liquid resin cures as a single solid piece, components are naturally airtight and exhibit a professional and injection-molded appearance. However, the process is generally slower and more expensive than filament printing due to higher material costs. Post-processing is also more intensive, as components must be washed in solvent and cured under extra UV light to reach full strength. The big differences between resin and filament The choice between resin and filament depends on the balance of structural strength versus surface detail. Filament printing is the industrial standard for durable and large-scale components that must withstand mechanical stress or heat. Filament printing utilizes affordable and solid plastics that are easy to handle and require little cleanup. Resin printing is the superior choice for high-precision components that need a smooth, injection-molded look. While resin components offer better accuracy and airtight seals, they are generally more brittle and require a multi-step cleaning and curing process. Engineers usually select filament for strong components and tools but use resin printing for detailed models and jewelry. Price difference Filament printing is generally the most budget-friendly option for both the machine and the materials. A standard spool of plastic filament is inexpensive and produces many components with very little waste. Resin printing tends to cost more because the liquid resin itself is pricier and requires extra supplies like specialized cleaning alcohol. While filament printing is the go-to method for keeping costs low on large projects, resin is an investment in high-end detail and a professional finish. The strength of the prints Filament prints are generally much stronger and more durable than resin components. Because filament uses real engineering plastics , it can handle impact, heat, and mechanical stress without breaking. Resin components are known for their detail but tend to be brittle and can snap if dropped or pulled too hard. While new \"tough\" resins exist, filament remains the better choice for functional components that need to last under pressure. Faster way to print Filament printing is typically faster for producing large, simple components, because the nozzle deposits material exactly where it is needed. However, print times increase significantly as the design becomes more complex or voluminous. Resin printers can cure a whole layer at once, making them faster when printing many small items together. This makes resin the more efficient choice for printing multiple small, detailed models simultaneously. To find the most efficient lead time for your specific design, upload your CAD file for an immediate comparison of speed and cost. Do you have other questions? Don’t hesitate to contact us . Frequently asked questions about resin and filament printing Choosing the right 3D printing technology depends on your specific design goals and material requirements. These common questions help to clarify which process is best for your next project. Subscribe Get the latest manufacturing news delivered to your mailbox. Sign up for our newsletter Sign me up Please enter a valid email address. Leave this field empty Thanks! You're now subscribed to our newsletter. Frequently asked questions Is resin or filament printing better for a beginner? Filament printing is usually the better choice for beginners, because it is much cleaner and easier to set up. You simply load a spool of plastic and start printing. Resin requires handling liquid chemicals and a multi-step cleaning process. Filament machines are also more forgiving if you make a mistake with your settings Does resin last longer than filament? Filament typically lasts longer in real-world conditions because it uses stable plastics such as PETG or ABS that handle sunlight and heat well. Resin components can become very brittle over time, especially if they stay in the sun, which causes them to crack or break. For components that need to last for years, filament is the more reliable option. Is resin more expensive than filament? Yes, resin printing is generally more expensive due to the cost of the liquid and the extra supplies needed. A standard bottle of resin costs more than a similar amount of filament. You also have to buy filters, gloves, and cleaning alcohol. Filament is the most budget-friendly way to create both small models and large objects. Is 3D printing toxic? Filament printing is generally safe, though some materials like ABS can release unpleasant fumes that require a ventilated room. Resin is more demanding because the liquid is a skin irritant and the fumes are much stronger, so you must always wear gloves and work in a well-ventilated space. Once both types of printing options are fully cured and finished, they are safe to handle.",
+  "published_at": "",
+  "requested_url": "https://www.hubs.com/knowledge-base/resin-vs-filament-3d-printing",
+  "schema_version": 2,
+  "sections": [
+    {
+      "hash": "669ce8d08a5aa3c33b4262f2c7d9d178410b35d4",
+      "heading": "What is filament 3D printing",
+      "level": "h2",
+      "text": "What is filament 3D printing Filament 3D printing works by melting a plastic string (filament) and pushing it through a hot nozzle. The printer moves the nozzle to draw one layer at a time on a flat plate, similar to a computer-controlled glue gun. Each layer cools and sticks to the one below it until the object is finished. To prepare a design for the printer, engineers use ‘slicer-software’ like UltiMaker Cura or PrusaSlicer. This software translates the 3D model into simple coordinates that tell the printer exactly where to move and how much plastic to melt."
+    },
+    {
+      "hash": "4ffd671aeee853219a78bdff1e65565cd349a622",
+      "heading": "Pros and cons of filament printing",
+      "level": "h3",
+      "text": "Pros and cons of filament printing Filament printing is the most cost-effective 3D printing method. It offers a wide range of durable, engineering-grade plastics like ABS, Nylon, and PETG. Its primary benefits include high impact resistance, the ability to produce large-scale components quickly, and minimal post-processing requirements compared to other technologies. However, the process has notable drawbacks, such as visible layer lines and lower dimensional accuracy. Fixed nozzle sizes prevent filament printers from matching the fine detail, smooth finish, or airtight seals of resin-based components."
+    },
+    {
+      "hash": "9e696028c7030faddb4d3a55046a2a802ce97760",
+      "heading": "What is resin 3D printing?",
+      "level": "h2",
+      "text": "What is resin 3D printing? Resin printing and VAT photopolymerization uses UV light to harden liquid plastic layer by layer. The printer has a tank filled with liquid resin and a build plate that moves up and down. A light source<dynamic-value> a laser or a digital screen, shines through the bottom of the tank to solidify specific areas of the liquid. This chemical process creates very smooth components with fine details that are nearly impossible to see with the naked eye. To prepare these components, engineers use ‘slicer-software’, specifically designed for resin, such as CHITUBOX or Formlabs PreForm. This software handles the placement of thin supports and calculates the exact light exposure needed for each layer. This translates the 3D design into a series of images that the printer projects to cure the liquid into a solid object."
+    },
+    {
+      "hash": "a882913048ac7e1e8c0848e00211f62cd2429bcc",
+      "heading": "Pros and cons of resin printing",
+      "level": "h3",
+      "text": "Pros and cons of resin printing Resin printing offers superior surface quality and dimensional accuracy. This makes it ideal for intricate prototypes or dental and jewelry applications. Because the liquid resin cures as a single solid piece, components are naturally airtight and exhibit a professional and injection-molded appearance. However, the process is generally slower and more expensive than filament printing due to higher material costs. Post-processing is also more intensive, as components must be washed in solvent and cured under extra UV light to reach full strength."
+    },
+    {
+      "hash": "0002a1712e8d9cab6de5caeadba59a512ba6d34e",
+      "heading": "The big differences between resin and filament",
+      "level": "h2",
+      "text": "The big differences between resin and filament The choice between resin and filament depends on the balance of structural strength versus surface detail. Filament printing is the industrial standard for durable and large-scale components that must withstand mechanical stress or heat. Filament printing utilizes affordable and solid plastics that are easy to handle and require little cleanup. Resin printing is the superior choice for high-precision components that need a smooth, injection-molded look. While resin components offer better accuracy and airtight seals, they are generally more brittle and require a multi-step cleaning and curing process. Engineers usually select filament for strong components and tools but use resin printing for detailed models and jewelry."
+    },
+    {
+      "hash": "618f766d561bb1d74cf508a6324b19c928403ab6",
+      "heading": "Price difference",
+      "level": "h3",
+      "text": "Price difference Filament printing is generally the most budget-friendly option for both the machine and the materials. A standard spool of plastic filament is inexpensive and produces many components with very little waste. Resin printing tends to cost more because the liquid resin itself is pricier and requires extra supplies like specialized cleaning alcohol. While filament printing is the go-to method for keeping costs low on large projects, resin is an investment in high-end detail and a professional finish."
+    },
+    {
+      "hash": "73b1ae5deabd5dfff58eb6846a3ff079e1cc0aad",
+      "heading": "The strength of the prints",
+      "level": "h3",
+      "text": "The strength of the prints Filament prints are generally much stronger and more durable than resin components. Because filament uses real engineering plastics , it can handle impact, heat, and mechanical stress without breaking. Resin components are known for their detail but tend to be brittle and can snap if dropped or pulled too hard. While new \"tough\" resins exist, filament remains the better choice for functional components that need to last under pressure."
+    },
+    {
+      "hash": "8f05b424775f51347f4aa7240749c3cc7c5b658e",
+      "heading": "Faster way to print",
+      "level": "h3",
+      "text": "Faster way to print Filament printing is typically faster for producing large, simple components, because the nozzle deposits material exactly where it is needed. However, print times increase significantly as the design becomes more complex or voluminous. Resin printers can cure a whole layer at once, making them faster when printing many small items together. This makes resin the more efficient choice for printing multiple small, detailed models simultaneously. To find the most efficient lead time for your specific design, upload your CAD file for an immediate comparison of speed and cost. Do you have other questions? Don’t hesitate to contact us ."
+    },
+    {
+      "hash": "248b861cc96ba95ec12a086d094ba6424c345e0c",
+      "heading": "Frequently asked questions about resin and filament printing",
+      "level": "h2",
+      "text": "Frequently asked questions about resin and filament printing Choosing the right 3D printing technology depends on your specific design goals and material requirements. These common questions help to clarify which process is best for your next project."
+    },
+    {
+      "hash": "02842b08377539be654ab1179cf41e1d947c4424",
+      "heading": "Frequently asked questions",
+      "level": "h2",
+      "text": "Frequently asked questions Frequently asked questions"
+    },
+    {
+      "hash": "ca0434be6e0891aa8a296cde08245f8a53578fc2",
+      "heading": "Is resin or filament printing better for a beginner?",
+      "level": "h3",
+      "text": "Is resin or filament printing better for a beginner? Filament printing is usually the better choice for beginners, because it is much cleaner and easier to set up. You simply load a spool of plastic and start printing. Resin requires handling liquid chemicals and a multi-step cleaning process. Filament machines are also more forgiving if you make a mistake with your settings"
+    },
+    {
+      "hash": "f1b2bf20a09ac3f028ea189e0eed3c8edcfb8f89",
+      "heading": "Does resin last longer than filament?",
+      "level": "h3",
+      "text": "Does resin last longer than filament? Filament typically lasts longer in real-world conditions because it uses stable plastics such as PETG or ABS that handle sunlight and heat well. Resin components can become very brittle over time, especially if they stay in the sun, which causes them to crack or break. For components that need to last for years, filament is the more reliable option."
+    },
+    {
+      "hash": "a30f4369c29fcca1d0fb91414df7b95dfdc9175c",
+      "heading": "Is resin more expensive than filament?",
+      "level": "h3",
+      "text": "Is resin more expensive than filament? Yes, resin printing is generally more expensive due to the cost of the liquid and the extra supplies needed. A standard bottle of resin costs more than a similar amount of filament. You also have to buy filters, gloves, and cleaning alcohol. Filament is the most budget-friendly way to create both small models and large objects."
+    },
+    {
+      "hash": "3f72c703312e168c1893971ffee026c0ab5faf39",
+      "heading": "Is 3D printing toxic?",
+      "level": "h3",
+      "text": "Is 3D printing toxic? Filament printing is generally safe, though some materials like ABS can release unpleasant fumes that require a ventilated room. Resin is more demanding because the liquid is a skin irritant and the fumes are much stronger, so you must always wear gloves and work in a well-ventilated space. Once both types of printing options are fully cured and finished, they are safe to handle."
+    }
+  ],
+  "sitemap_lastmod": "2026-06-24T11:13:18+00:00",
+  "status": 200,
+  "structure_hash": "bd7e3729207c91bb24e68e54e8faa58d66ed23ad",
+  "text_excerpt": "The curing method dictates the final trade-off: the rugged durability of filament versus the high-resolution precision of resin. While filament is the industrial standard for large-scale functional prototypes using materials like ABS or nylon, it is limited by nozzle diameter and visible layer lines. Resin printers prioritize dimensional accuracy and airtight seals, reaching micron-level resolutions that eliminate the staircase effect. Design requirements must balance the thermal resistance of filament against the intricate surface fidelity of resin. What is filament 3D printing Filament 3D printing works by melting a plastic string (filament) and pushing it through a hot nozzle. The printer moves the nozzle to draw one layer at a time on a flat plate, similar to a computer-controlled glue gun. Each layer cools and sticks to the one below it until the object is finished. To prepare a design for the printer, engineers use ‘slicer-software’ like UltiMaker Cura or PrusaSlicer. This software translates the 3D model into simple coordinates that tell the printer exactly where to move and how much plastic to melt. Pros and cons of filament printing Filament printing is the most cost-effe...",
+  "text_hash": "394e2e9ce599e37175cd6c77c67f5b29ff2c41fe",
+  "title": "Resin versus filament 3D printer | Protolabs Network",
+  "url": "https://www.hubs.com/knowledge-base/resin-vs-filament-3d-printing"
+}

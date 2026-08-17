@@ -4,7 +4,7 @@
   "competitor": "PCBWay",
   "ctas": [
     {
-      "href": "/orderonline.aspx",
+      "href": "https://www.pcbway.com/orderonline.aspx",
       "text": "PCB Instant Quote"
     },
     {
@@ -12,35 +12,38 @@
       "text": "Sign Up"
     },
     {
-      "href": "/project/shareproject/?order=1",
+      "href": "https://www.pcbway.com/project/shareproject?order=1",
       "text": "By Source Files"
     },
     {
-      "href": "/project/shareproject/?order=1",
+      "href": "https://www.pcbway.com/project/shareproject?order=1",
       "text": "View all source files projects"
     },
     {
-      "href": "/project/shareproject/?order=1",
+      "href": "https://www.pcbway.com/project/shareproject?order=1",
       "text": "Source Files"
     },
     {
-      "href": "/blog/club-publish.html",
+      "href": "https://www.pcbway.com/blog/club-publish.html",
       "text": "Submit for Publication"
     },
     {
-      "href": "/blog/Activities/Submit_for_Publication___Now_I_Write_Articles_in_PCBWay.html",
+      "href": "https://www.pcbway.com/blog/Activities/Submit_for_Publication___Now_I_Write_Articles_in_PCBWay.html",
       "text": "Write for PCBWay"
     },
     {
-      "href": "/blog/?tag=PCB industry",
+      "href": "https://www.pcbway.com/blog?tag=PCB+industry",
       "text": "PCB industry"
     },
     {
-      "href": "/contact.html",
+      "href": "https://www.pcbway.com/contact.html",
       "text": "Contact us"
     }
   ],
-  "fetched_at": "2026-08-17T02:33:38+00:00",
+  "discovered_via": "links",
+  "fetched_at": "2026-08-17T03:51:48+00:00",
+  "final_url": "https://www.pcbway.com/blog/PCB_Design_Layout/Problem_in_KiCad_footprints_that_behave_as_locked_when_they_are_not_7301aa02.html",
+  "first_seen_at": "2026-08-17T03:51:48+00:00",
   "h1": "Problem in KiCad footprints that behave as locked when they are not.",
   "headings": [
     {
@@ -79,13 +82,17 @@
     }
   ],
   "meta_description": "",
+  "modified_at": "",
+  "monitored_text": "PCBWay Community Search title or content Search PCBWay PCB Instant Quote CNC | 3D Printing Login Sign Up More Notifications No notifications. My Profile My projects My Likes My Deals My Goods for Bazaar Settings Sign Out Projects Categories DIY Electronics Arduino Hardware Audio Computers & USB Breakout Board Projects Home Automation LED Displays & Matrices IoT Robotics View all categories By Source Files Onju Voice - AI assistant replacement to Google Nest Mini by @justLV LogicAnalyzer V6.0 DIY 1kW Open Source MPPT Solar Charge Controller Tad Boy Color SummerCart64 - a fully open source N64 flashcart kv4p HT v1.7b QuinLED-Dig-Uno Arduino RC engine sound & light controller with inertia simulation for ESP32 Bike Fingerprint - PCB Solar Powered WiFi Weather Station V2.0 Frog Boy Color SIDKick pico 0.2 (SID 6581/8580-replacement for C64/C128) View all source files projects Featured Projects Onju Voice - AI assistant replacement to Google Nest Mini by @justLV LogicAnalyzer V6.0 DIY 1kW Open Source MPPT Solar Charge Controller Featured Source Files Video View all projects Questions Sponsorships Feedback Blog Store PCB Design Contest - 2026 KiCad PCB Design Contest - 8th Project Design Contest - 7th Project Design Contest - KiCad Design Contest - 6th Project Design Contest - 5th PCB Design Contest - 4th PCB Design Contest - Raspberry Pi Pico Contest - PCB Design Tutorial - 3rd PCB Design Contest - I CAN SOLDER Kit Contest - 2nd PCB Design Contest - 1st PCB Design Contest Add questions Create a project Please verify your email address so that you can enjoy our more comprehensive services. Verify Now Blog > Problem in KiCad footprints that behave as locked when they are not. Problem in KiCad footprints that behave as locked when they are not. by: William Harter Jul 18,2026 <dynamic-value> <dynamic-value> Posted in PCB Design & Layout PCB layout KiCAD Locked Will Not Unlock Footprint Summary： In KiCad, some footprints may behave to be locked even when they are not Problem In KiCad, some footprints behave as locked even when they are not. For example, when moving a grouped set of footprints on a PCB, most of the footprints move as expected, but one or two may remain in place. Even after confirming that the footprints are unlocked and selected, they still may not move or be removable. Workaround 1. Save the file in the PCB Editor. 2. Open the Schematic Editor. 3. Delete the affected component from the schematic. 4. Select Tools > Update PCB from Schematic. The component should be removed from the PCB. 5. Switch back to the Schematic Editor and use Undo to restore the component. 6. Select Tools > Update PCB from Schematic again. The component should be added back to the PCB and should now behave normally. Enter the year of your birth and check your Chinese Zodiac. Join us Wanna be a dedicated PCBWay writer? We definately look forward to having you with us. Submit for Publication Become Our Writer Leave a Comment ( 0 ) Share to: Previous：Surface Mount vs Through Hole Assembly: How to Choose the Right PCB Assembly Method Next：USB Interface Hardware Design Guide: From Pin Functions to PCB Layout Best Practices Related articles How to Design an H-Bridge Motor Driver: Circuit & PCB Layout Guide The Complete Guide to Mixed-Signal PCB Layout Design Problem in KiCad footprints that behave as locked when they are not. Circuit Symbols Explained: A Complete Guide to Electronic Symbols and Schematic Symbols in PCB Design Comments ( 0 ) Log in to post comments. Upload photo You can only upload 5 files in total. Each file cannot exceed 2MB. Supports JPG, JPEG, GIF, PNG, BMP 0 / 10000 It looks like you have not written anything. Please add a comment and try again. You can upload up to 5 images! Image size should not exceed 2MB! File format not supported! Post Comment View More Write for PCBWay HOT TAG PCB Printed Circuit Board PCB design PCB Board PCB layout Circuit Board Printed Circuit Boards PCB Design Tutorial PCB industry pcb manufacturing KiCad pcbway Categories Select a Category 3D Printing Activities CNC Machining Engineering Technical Flexible PCB HDI PCB Help Center Injection Molding News PCB Assembly PCB Basic Information PCB Design & Layout PCB Design Tutorial PCB Layout Software PCB Manufacturing Information PCBWay Store Rigid-Flex PCB Sheet Metal Technology IF YOU MISSED IT 1 Complete PCB Design Guidelines: Layout, Routing and Manufacturing Best Practices 2 How to Design an H-Bridge Motor Driver: Circuit & PCB Layout Guide 3 The Complete Guide to Mixed-Signal PCB Layout Design 4 Guide to Selecting and Placing RF Components in RF PCB Layout 5 Bypass vs Decoupling Capacitors: How to Choose and Place Capacitors on a PCB 6 Capacitor Voltage Ratings for PCB Design: Selection Guide and Best Practices 7 Rigid-Flex PCB Layout Design Guidelines: Best Practices for Reliable PCB Layout 8 USB Interface Hardware Design Guide: From Pin Functions to PCB Layout Best Practices 9 Problem in KiCad footprints that behave as locked when they are not. The PCB Way that recognize the talent and effort of the best ELECTRONIC designers in the World. © COPYRIGHT 2019 About us Contact us Follow us on Share to Facebook Share to Twitter Share to Reddit Share to Linkedin Back to top",
+  "published_at": "2026-07-18T00:00:00+00:00",
   "requested_url": "https://www.pcbway.com/blog/PCB_Design_Layout/Problem_in_KiCad_footprints_that_behave_as_locked_when_they_are_not_7301aa02.html",
+  "schema_version": 2,
   "sections": [
     {
-      "hash": "bb626fe10f04ba9df49b797dc0a14ec7d6a85ce0",
+      "hash": "a2b8854c51e60f32f150f16f576251be89df3884",
       "heading": "Problem in KiCad footprints that behave as locked when they are not.",
       "level": "h1",
-      "text": "Blog > Problem in KiCad footprints that behave as locked when they are not. Problem in KiCad footprints that behave as locked when they are not. by: William Harter Jul 18,2026 1299 Views 0 Comments Posted in PCB Design & Layout PCB layout KiCAD Locked Will Not Unlock Footprint Summary： In KiCad, some footprints may behave to be locked even when they are not Problem In KiCad, some footprints behave as locked even when they are not. For example, when moving a grouped set of footprints on a PCB, most of the footprints move as expected, but one or two may remain in place. Even after confirming that the footprints are unlocked and selected, they still may not move or be removable. Workaround 1...."
+      "text": "Problem in KiCad footprints that behave as locked when they are not. by: William Harter Jul 18,2026 <dynamic-value> <dynamic-value> Posted in PCB Design & Layout PCB layout KiCAD Locked Will Not Unlock Footprint Summary： In KiCad, some footprints may behave to be locked even when they are not Problem In KiCad, some footprints behave as locked even when they are not. For example, when moving a grouped set of footprints on a PCB, most of the footprints move as expected, but one or two may remain in place. Even after confirming that the footprints are unlocked and selected, they still may not move or be removable. Workaround 1. Save the file in the PCB Editor. 2. Open the Schematic Editor. 3. Delete the affected component from the schematic. 4. Select Tools > Update PCB from Schematic. The component should be removed from the PCB. 5. Switch back to the Schematic Editor and use Undo to restore the component. 6. Select Tools > Update PCB from Schematic again. The component should be added back to the PCB and should now behave normally. Enter the year of your birth and check your Chinese Zodiac. Join us Wanna be a dedicated PCBWay writer? We definately look forward to having you with us..."
     },
     {
       "hash": "c3634c71e5b6daeff91448da592cbc5e5441918d",
@@ -94,10 +101,11 @@
       "text": "Related articles How to Design an H-Bridge Motor Driver: Circuit & PCB Layout Guide The Complete Guide to Mixed-Signal PCB Layout Design Problem in KiCad footprints that behave as locked when they are not. Circuit Symbols Explained: A Complete Guide to Electronic Symbols and Schematic Symbols in PCB Design"
     }
   ],
+  "sitemap_lastmod": "",
   "status": 200,
-  "structure_hash": "7336b2b54d2c73f26587e54fe90120a2f87a4444",
-  "text_excerpt": "Problem in KiCad footprints that behave as locked when they are not. - PCB Design & Layout - PCBway PCBWay Community Search title or content Search PCBWay PCB Instant Quote CNC | 3D Printing Login Sign Up More Notifications No notifications. My Profile My projects My Likes My Deals My Goods for Bazaar Settings Sign Out Projects Categories DIY Electronics Arduino Hardware Audio Computers & USB Breakout Board Projects Home Automation LED Displays & Matrices IoT Robotics View all categories By Source Files Onju Voice - AI assistant replacement to Google Nest Mini by @justLV LogicAnalyzer V6.0 DIY 1kW Open Source MPPT Solar Charge Controller Tad Boy Color SummerCart64 - a fully open source N64 flashcart kv4p HT v1.7b QuinLED-Dig-Uno Arduino RC engine sound & light controller with inertia simulation for ESP32 Bike Fingerprint - PCB Solar Powered WiFi Weather Station V2.0 Frog Boy Color SIDKick pico 0.2 (SID 6581/8580-replacement for C64/C128) View all source files projects Featured Projects Onju Voice - AI assistant replacement to Google Nest Mini by @justLV LogicAnalyzer V6.0 DIY 1kW Open Source MPPT Solar Charge Controller Featured Source Files Video View all projects Questions Spons...",
-  "text_hash": "870e250751b18da4dbfa74b3dfa4ade13dd082fa",
+  "structure_hash": "3ee710568cdcdbaf202e29a32452b846bc1e1a7c",
+  "text_excerpt": "PCBWay Community Search title or content Search PCBWay PCB Instant Quote CNC | 3D Printing Login Sign Up More Notifications No notifications. My Profile My projects My Likes My Deals My Goods for Bazaar Settings Sign Out Projects Categories DIY Electronics Arduino Hardware Audio Computers & USB Breakout Board Projects Home Automation LED Displays & Matrices IoT Robotics View all categories By Source Files Onju Voice - AI assistant replacement to Google Nest Mini by @justLV LogicAnalyzer V6.0 DIY 1kW Open Source MPPT Solar Charge Controller Tad Boy Color SummerCart64 - a fully open source N64 flashcart kv4p HT v1.7b QuinLED-Dig-Uno Arduino RC engine sound & light controller with inertia simulation for ESP32 Bike Fingerprint - PCB Solar Powered WiFi Weather Station V2.0 Frog Boy Color SIDKick pico 0.2 (SID 6581/8580-replacement for C64/C128) View all source files projects Featured Projects Onju Voice - AI assistant replacement to Google Nest Mini by @justLV LogicAnalyzer V6.0 DIY 1kW Open Source MPPT Solar Charge Controller Featured Source Files Video View all projects Questions Sponsorships Feedback Blog Store PCB Design Contest - 2026 KiCad PCB Design Contest - 8th Project Design...",
+  "text_hash": "64eac22d896c8c15f943d9679c96cf13ad785b98",
   "title": "Problem in KiCad footprints that behave as locked when they are not. - PCB Design & Layout - PCBway",
   "url": "https://www.pcbway.com/blog/PCB_Design_Layout/Problem_in_KiCad_footprints_that_behave_as_locked_when_they_are_not_7301aa02.html"
 }

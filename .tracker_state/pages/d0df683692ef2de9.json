@@ -1,0 +1,132 @@
+{
+  "canonical": "https://www.protolabs.com/resources/design-tips/improving-part-design-with-uniform-wall-thickness",
+  "category": "content",
+  "competitor": "Protolabs",
+  "ctas": [],
+  "discovered_via": "sitemap",
+  "fetched_at": "2026-08-17T03:48:46+00:00",
+  "final_url": "https://www.protolabs.com/resources/design-tips/improving-part-design-with-uniform-wall-thickness",
+  "first_seen_at": "2026-08-17T03:48:46+00:00",
+  "h1": "Injection Molding Wall Thickness Guidelines",
+  "headings": [
+    {
+      "level": "h1",
+      "text": "Injection Molding Wall Thickness Guidelines"
+    },
+    {
+      "level": "h2",
+      "text": "Achieve consistent walls and features with slight adjustments to geometry and materials"
+    },
+    {
+      "level": "h3",
+      "text": "Choose Materials with Wall Thickness in Mind"
+    },
+    {
+      "level": "h3",
+      "text": "Plastic Wall Thickness Chart"
+    },
+    {
+      "level": "h3",
+      "text": "Clever Tweaks Can Help Strengthen Walls"
+    },
+    {
+      "level": "h3",
+      "text": "Design for Manufacturability Offers Feedback"
+    },
+    {
+      "level": "h2",
+      "text": "Frequently Asked Questions"
+    }
+  ],
+  "images": [
+    {
+      "alt": "Recommended wall thickness in injection molding design",
+      "src": "/media/xabptyjj/im_wall-thickness-guidelines.jpg?width=570&height=308&v=1d9fa8c2f123c70"
+    },
+    {
+      "alt": "cover of injection molding guide",
+      "src": "/media/epthady0/blog-_-dt-pdf-cta-293x200_definitive-im-guide.png?width=293&height=200&v=1d87b42aa39c3c0"
+    },
+    {
+      "alt": "blue design cube",
+      "src": "/media/wcvaefvc/blog-_-dt-fulfillment-cta-design-cube-240x180.png?width=240&height=180&v=1d87a84eb82f6d0"
+    },
+    {
+      "alt": "Injection Molding Guide for Plastic Parts",
+      "src": "/media/1022565/rapid-prototyping-injection-molding-570x308.jpg?width=115&height=115&v=1d720b134b498b0"
+    },
+    {
+      "alt": "Product designers build strength into parts using support features such as ribs and gussets.*",
+      "src": "/media/ujdlkp5l/im_design-stronger-parts_fillets.jpg?width=115&height=115&v=1da00ffdbb5b4b0"
+    },
+    {
+      "alt": "Example mold flow analysis for injection molded part",
+      "src": "/media/jgzdvgea/mold-flow-2-1.jpg?width=115&height=115&v=1d8434c65ff3830"
+    },
+    {
+      "alt": "Recommended wall thickness in injection molding design",
+      "src": "/media/1015990/proper-wall-thickness-injection-molding-plastics-parts-570x308.jpg?width=115&height=115&v=1d487fccce49db0"
+    },
+    {
+      "alt": "Injection Molding Mold",
+      "src": "/media/dsvajgvu/im_sec_ops_mold_text_laser.jpg?width=115&height=115&v=1dc02c2f85a9830"
+    }
+  ],
+  "meta_description": "Learn how small changes to injection molding design such as wall thickness or material choice can lead to more durable parts that are free of cosmetic defects.",
+  "modified_at": "",
+  "monitored_text": "Injection Molding Wall Thickness Guidelines Achieve consistent walls and features with slight adjustments to geometry and materials Take a look at an injection-molded toothbrush holder, a plastic gas can, or the silverware tray in the kitchen cabinet. Notice how the walls of these household items are all relatively uniform? This is one of the fundamental rules of plastic injection molding, and ignoring it can lead to sink, warp, and inaccurate or non-functional parts. Yet the functional requirements of consumer, medical, aerospace, and industrial products often leave designers little consideration for the material flow and fill properties of plastic, both of which are at least partially determined by wall thickness. To achieve uniform wall thickness, let’s start with the basics: Proper wall thickness will reduce the risk of cosmetic defects in plastic parts. Walls in any plastic-molded part should be no less than 40 to 60 percent that of adjacent walls, and all should fit within recommended thickness ranges for the selected material. Part geometries such as long unsupported spans, sharp internal corners, and poorly designed bosses (not the person in the corner office who signs paychecks), should be avoided, regardless of wall thickness. Use ribs for strengthening tall walls where needed. Sharp external corners are fine, but placing a radius on inside corners—part design permitting—makes them stronger and alleviates the stress that creates warp. Bosses should follow molding design guideline rules of properly designed walls of 40-60 percent of the surrounding area to avoid sink. Finally, follow recommendations on draft angles—1 degree of draft per 1 inch of cavity depth is a good rule of thumb—and keep draft consistent throughout the workpiece to prevent internal stresses that lead to warp and curl. Choose Materials with Wall Thickness in Mind One of the biggest considerations with wall thickness is which material to use for your project. With literally hundreds of materials to choose from, deciding on the right one can be challenging. You can view available resins grouped by family with recommended wall thickness ranges along with detailed information on material properties, tensile and impact strength, and maximum operating temperatures online. More information can also be found at our materials page . Plastic Wall Thickness Chart Material Recommended Wall Thickness ABS 0.045 in. - 0.140 in. Acetal 0.030 in. - 0.120 in. Acrylic 0.025 in. - 0.500 in. Liquid crystal polymer 0.030 in. - 0.120 in. Long-fiber reinforced plastics 0.075 in. - 1.000 in. Nylon 0.030 in. - 0.115 in. Polycarbonate 0.040 in. - 0.150 in. Polyester 0.025 in. - 0.125 in. Polyethylene 0.030 in. - 0.200 in. Polyphenylene sulfide 0.020 in. - 0.180 in. Polypropylene 0.025 in. - 0.150 in. Polystyrene 0.035 in. - 0.150 in. Polyurethane 0.080 in. - 0.750 i n. Start by looking for which attributes are most important to the finished product: Does it need chemical or ultraviolet light (UV) resistance? Will the plastic be subjected to direct flame, or extreme temperatures? How strong must the part be, and will it need to flex under load? If color is important, can the plastic be painted, or colorant added to the resin before injection? What about opacity? Some plastics have good optical properties, others not so much Will the product be used in an electromagnetic environment? While all of these factors are being weighed, refer back to the website’s section on wall thickness. Obviously, materials only make good candidates if they can be molded to the dimensions and geometry needed for your project, while still meeting their engineering requirements. Once you’re close to selecting a material, give one of our customer service engineers a call. They can either advise you directly, or put you in touch with an expert at one of our material suppliers. For example, nylon 6/6 flows well, is good for thin-walled parts, and has excellent impact resistance, but you might have rejected it because of its average strength and lack of resistance to heat. Adding glass-fiber filler to the resin not only makes the nylon much stronger, but far more heat resistant. Glass also reduces the chance of sink in thick sections, but may lead to warp in thin areas, depending on material flow during the molding process. In some cases, you might be directed to a completely different material family: Polycarbonate is a common material used in designing optical components, but acrylic is often a better choice on thick parts, as it’s less likely to experience sink, voids, bubbles, and poor part detail. Optical-grade liquid silicone rubber (LSR) offers superior light transmission and product clarity, and allows designers to break the rules of thick and thin, even with very fine part features. A styrene-like material known as K-Resin is often a good substitute for ABS or polycarbonate in large structural components. Liquid crystal polymer (LCP) is another glass-filled material that’s strong but has the ability to “go thin” when needed. Again, there are hundreds of materials and thousands of ways to adjust, blend, or fine-tune them to produce the desired results. Clever Tweaks Can Help Strengthen Walls Even if the right combination of material attributes can’t be found, don’t despair. Some clever edits to part geometry go a long way to alleviate internal stress and potential weakness produced by less than optimal wall thickness. Parts shaped like dumbbells or sewing bobbins are perfect candidates for coring, which eliminates large cross-sections of material similar to removing wedge-shaped slices of an apple, but the strong core is left in place. This is a great way to avoid sink, reduce material usage and make parts lighter but just as strong (possibly stronger). And parts like box lids that have tall, thin walls can be reinforced with gussets, so long as the relative wall thickness of the supporting material follows the 40 to 60 percent rules mentioned previously. This also eliminates the chance of shadowing, which occurs when one section of the part cools down faster than others. Sign up for our free Design Cube , which is a physical aid that demonstrates the importance of wall thickness and several other design considerations for injection molding. Design for Manufacturability Offers Feedback Once you receive your part quote, be sure to review the accompanying design for manufacturability (DFM) analysis, which provides feedback to improve the moldability of your part. Overly thick or thin areas will be color-coded based on nominal wall thickness, along with recommendations on changes to draft angles. Parting lines, ejector and gate locations, undercuts, side-actions, and the need for hand-loaded inserts are displayed as well. If deemed necessary, a flow analysis can be performed, to analyze pressure points around gate areas, and to identify potential knit lines. As always, feel free to contact us at 877-479-3680 or [email protected] if questions or concerns emerge. Frequently Asked Questions Why is uniform wall thickness important in injection molding? expand_less expand_more Non-uniform walls drive sink, warp, internal stress, and dimensional inaccuracy. Keeping walls consistent improves flow/fill, cooling, cosmetics, and overall part performance. What are the core design rules to maintain uniformity? expand_less expand_more Aim for uniform walls; where features intersect, keep secondary features (ribs/boss walls) at about 40–60% of the adjacent wall to avoid sink. Use ribs to stiffen tall walls instead of thickening them. Add inside corner radii to reduce stress; sharp internal corners promote warp. Apply consistent draft (about 1° per 1 in. of cavity depth) to limit ejection-induced stress and curl. How should I choose materials with wall thickness in mind? expand_less expand_more Different resins have recommended wall ranges and flow behaviors. Examples: ABS ~0.045–0.140 in; PC ~0.040–0.150 in; PP ~0.025–0.150 in (see the page’s chart for more). Nylon 6/6 flows well for thin walls; glass fiber can boost strength/heat resistance and reduce sink but may increase warp in thin areas. For thick, optical parts, acrylic often outperforms PC; optical LSR allows very thick sections with clarity; LCP can “go thin” while maintaining strength. How can I fix problematic thick or tall sections without sacrificing strength? expand_less expand_more Core out bulky areas to cut mass, minimize sink, and reduce cooling imbalance. Add gussets to reinforce tall, thin walls—keep gusset thickness within the 40–60% guideline to prevent sink and “shadowing.” What help does Protolabs provide to validate wall thickness and moldability? expand_less expand_more Every quote includes free DFM with color-coded thin/thick areas relative to nominal, draft suggestions, and visibility to parting lines, gate/ejector locations, undercuts, and side-actions. Optional flow analysis can flag pressure hotspots and knit lines. If you have any issues getting your guide, click here to download . Guide to Injection Molding This guide walks you through everything from quoting, design analysis, and shipment to best practices that ensure your model is optimized for molding. United States of America Afghanistan Åland Islands Albania Algeria American Samoa Andorra Angola Anguilla Antarctica Antigua and Barbuda Argentina Armenia Aruba Australia Austria Azerbaijan Bahamas Bahrain Bangladesh Barbados Belarus Belgium Belize Benin Bermuda Bhutan Bolivia, Plurinational State of Bonaire, Sint Eustatius and Saba Bosnia and Herzegovina Botswana Bouvet Island Brazil British Indian Ocean Territory Brunei Darussalam Bulgaria Burkina Faso Burundi Cambodia Cameroon Canada Cape Verde Cayman Islands Central African Republic Chad Chile China Christmas Island Cocos (Keeling) Islands Colombia Comoros Congo Congo, the Democratic Republic of the Cook Islands Costa Rica Côte d'Ivoire Croatia Cuba Curaçao Cyprus Czech Republic Denmark Djibouti Dominica Dominican Republic Ecuador Egypt El Salvador Equatorial Guinea Eritrea Estonia Ethiopia Falkland Islands (Malvinas) Faroe Islands Fiji Finland France French Guiana French Polynesia French Southern Territories Gabon Gambia Georgia Germany Ghana Gibraltar Greece Greenland Grenada Guadeloupe Guam Guatemala Guernsey Guinea Guinea-Bissau Guyana Haiti Heard Island and McDonald Islands Holy See (Vatican City State) Honduras Hong Kong Hungary Iceland India Indonesia Iran, Islamic Republic of Iraq Ireland Isle of Man Israel Italy Jamaica Japan Jersey Jordan Kazakhstan Kenya Kiribati Korea, Democratic People's Republic of Korea, Republic of Kuwait Kyrgyzstan Lao People's Democratic Republic Latvia Lebanon Lesotho Liberia Libya Liechtenstein Lithuania Luxembourg Macao Macedonia, the Former Yugoslav Republic of Madagascar Malawi Malaysia Maldives Mali Malta Marshall Islands Martinique Mauritania Mauritius Mayotte Mexico Micronesia, Federated States of Moldova, Republic of Monaco Mongolia Montenegro Montserrat Morocco Mozambique Myanmar Namibia Nauru Nepal Netherlands New Caledonia New Zealand Nicaragua Niger Nigeria Niue Norfolk Island Northern Mariana Islands Norway Oman Pakistan Palau Palestine, State of Panama Papua New Guinea Paraguay Peru Philippines Pitcairn Poland Portugal Puerto Rico Qatar Réunion Romania Russian Federation Rwanda Saint Barthélemy Saint Helena, Ascension and Tristan da Cunha Saint Kitts and Nevis Saint Lucia Saint Martin (French part) Saint Pierre and Miquelon Saint Vincent and the Grenadines Samoa San Marino Sao Tome and Principe Saudi Arabia Senegal Serbia Seychelles Sierra Leone Singapore Sint Maarten (Dutch part) Slovakia Slovenia Solomon Islands Somalia South Africa South Georgia and the South Sandwich Islands South Sudan Spain Sri Lanka Sudan SuriName Svalbard and Jan Mayen Swaziland Sweden Switzerland Syrian Arab Republic Taiwan, Province of China Tajikistan Tanzania, United Republic of Thailand Timor-Leste Togo Tokelau Tonga Trinidad and Tobago Tunisia Turkey Turkmenistan Turks and Caicos Islands Tuvalu Uganda Ukraine United Arab Emirates United Kingdom United States Minor Outlying Islands Uruguay Uzbekistan Vanuatu Venezuela, Bolivarian Republic of Viet Nam Virgin Islands, British Virgin Islands, U.S. Wallis and Futuna Western Sahara Yemen Zambia Zimbabwe I agree to receive email messages containing service updates and Design Tips from Protolabs and its affiliates Download Guide Get a Free Design Cube You Might Also Like... Beginner's Guide to Injection Molding Design Stronger Molded Parts How to Use Mold Flow Analysis Injection Molding for Parts with Thin Walls Design for Moldability Toolkit",
+  "published_at": "",
+  "requested_url": "https://www.protolabs.com/resources/design-tips/improving-part-design-with-uniform-wall-thickness",
+  "schema_version": 2,
+  "sections": [
+    {
+      "hash": "865ee06bbb1eb1f068ea73517095051629abaf83",
+      "heading": "Injection Molding Wall Thickness Guidelines",
+      "level": "h1",
+      "text": "Injection Molding Wall Thickness Guidelines"
+    },
+    {
+      "hash": "2eeaff14c9bea19194b8e4b4c73ee167af84449d",
+      "heading": "Achieve consistent walls and features with slight adjustments to geometry and materials",
+      "level": "h2",
+      "text": "Achieve consistent walls and features with slight adjustments to geometry and materials"
+    },
+    {
+      "hash": "b3677f40a4ce8f61fd5b42964e8352cc660fe465",
+      "heading": "Choose Materials with Wall Thickness in Mind",
+      "level": "h3",
+      "text": "Choose Materials with Wall Thickness in Mind One of the biggest considerations with wall thickness is which material to use for your project. With literally hundreds of materials to choose from, deciding on the right one can be challenging. You can view available resins grouped by family with recommended wall thickness ranges along with detailed information on material properties, tensile and impact strength, and maximum operating temperatures online. More information can also be found at our materials page ."
+    },
+    {
+      "hash": "dd3f24bd848aaf12be29d2793e9603cdfd7c4a1a",
+      "heading": "Plastic Wall Thickness Chart",
+      "level": "h3",
+      "text": "Plastic Wall Thickness Chart Material Recommended Wall Thickness ABS 0.045 in. - 0.140 in. Acetal 0.030 in. - 0.120 in. Acrylic 0.025 in. - 0.500 in. Liquid crystal polymer 0.030 in. - 0.120 in. Long-fiber reinforced plastics 0.075 in. - 1.000 in. Nylon 0.030 in. - 0.115 in. Polycarbonate 0.040 in. - 0.150 in. Polyester 0.025 in. - 0.125 in. Polyethylene 0.030 in. - 0.200 in. Polyphenylene sulfide 0.020 in. - 0.180 in. Polypropylene 0.025 in. - 0.150 in. Polystyrene 0.035 in. - 0.150 in. Polyurethane 0.080 in. - 0.750 i n."
+    },
+    {
+      "hash": "03e7c720992962d4810514e5508b88e766b1c35d",
+      "heading": "Clever Tweaks Can Help Strengthen Walls",
+      "level": "h3",
+      "text": "Clever Tweaks Can Help Strengthen Walls Even if the right combination of material attributes can’t be found, don’t despair. Some clever edits to part geometry go a long way to alleviate internal stress and potential weakness produced by less than optimal wall thickness. Parts shaped like dumbbells or sewing bobbins are perfect candidates for coring, which eliminates large cross-sections of material similar to removing wedge-shaped slices of an apple, but the strong core is left in place. This is a great way to avoid sink, reduce material usage and make parts lighter but just as strong (possibly stronger). And parts like box lids that have tall, thin walls can be reinforced with gussets, so long as the relative wall thickness of the supporting material follows the 40 to 60 percent rules mentioned previously. This also eliminates the chance of shadowing, which occurs when one section of the part cools down faster than others. Sign up for our free Design Cube , which is a physical aid that demonstrates the importance of wall thickness and several other design considerations for injection molding."
+    },
+    {
+      "hash": "2ce0159a63f0935e6434892c00accd9c57d32cdc",
+      "heading": "Design for Manufacturability Offers Feedback",
+      "level": "h3",
+      "text": "Design for Manufacturability Offers Feedback Once you receive your part quote, be sure to review the accompanying design for manufacturability (DFM) analysis, which provides feedback to improve the moldability of your part. Overly thick or thin areas will be color-coded based on nominal wall thickness, along with recommendations on changes to draft angles. Parting lines, ejector and gate locations, undercuts, side-actions, and the need for hand-loaded inserts are displayed as well. If deemed necessary, a flow analysis can be performed, to analyze pressure points around gate areas, and to identify potential knit lines. As always, feel free to contact us at 877-479-3680 or [email protected] if questions or concerns emerge."
+    },
+    {
+      "hash": "e35c0ce8e2f588e59c655f7030744167d43fca8b",
+      "heading": "Frequently Asked Questions",
+      "level": "h2",
+      "text": "Frequently Asked Questions Why is uniform wall thickness important in injection molding? expand_less expand_more Non-uniform walls drive sink, warp, internal stress, and dimensional inaccuracy. Keeping walls consistent improves flow/fill, cooling, cosmetics, and overall part performance. What are the core design rules to maintain uniformity? expand_less expand_more Aim for uniform walls; where features intersect, keep secondary features (ribs/boss walls) at about 40–60% of the adjacent wall to avoid sink. Use ribs to stiffen tall walls instead of thickening them. Add inside corner radii to reduce stress; sharp internal corners promote warp. Apply consistent draft (about 1° per 1 in. of cavity depth) to limit ejection-induced stress and curl. How should I choose materials with wall thickness in mind? expand_less expand_more Different resins have recommended wall ranges and flow behaviors. Examples: ABS ~0.045–0.140 in; PC ~0.040–0.150 in; PP ~0.025–0.150 in (see the page’s chart for more). Nylon 6/6 flows well for thin walls; glass fiber can boost strength/heat resistance and reduce sink but may increase warp in thin areas. For thick, optical parts, acrylic often outperforms PC; op..."
+    }
+  ],
+  "sitemap_lastmod": "2026-05-06T17:02:00+00:00",
+  "status": 200,
+  "structure_hash": "31d9a035072ddfb81cfed9a0f4ec5517c7f4bfcd",
+  "text_excerpt": "Injection Molding Wall Thickness Guidelines Achieve consistent walls and features with slight adjustments to geometry and materials Take a look at an injection-molded toothbrush holder, a plastic gas can, or the silverware tray in the kitchen cabinet. Notice how the walls of these household items are all relatively uniform? This is one of the fundamental rules of plastic injection molding, and ignoring it can lead to sink, warp, and inaccurate or non-functional parts. Yet the functional requirements of consumer, medical, aerospace, and industrial products often leave designers little consideration for the material flow and fill properties of plastic, both of which are at least partially determined by wall thickness. To achieve uniform wall thickness, let’s start with the basics: Proper wall thickness will reduce the risk of cosmetic defects in plastic parts. Walls in any plastic-molded part should be no less than 40 to 60 percent that of adjacent walls, and all should fit within recommended thickness ranges for the selected material. Part geometries such as long unsupported spans, sharp internal corners, and poorly designed bosses (not the person in the corner office who signs pay...",
+  "text_hash": "c9f16382dff0131e00aaa31b10053ce89e9571b6",
+  "title": "Injection Molding Wall Thickness Guidelines",
+  "url": "https://www.protolabs.com/resources/design-tips/improving-part-design-with-uniform-wall-thickness"
+}

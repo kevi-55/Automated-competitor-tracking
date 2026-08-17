@@ -1,0 +1,190 @@
+{
+  "canonical": "https://www.hubs.com/knowledge-base/draft-angle",
+  "category": "content",
+  "competitor": "Hubs",
+  "ctas": [],
+  "discovered_via": "sitemap",
+  "fetched_at": "2026-08-17T03:42:02+00:00",
+  "final_url": "https://www.hubs.com/knowledge-base/draft-angle",
+  "first_seen_at": "2026-08-17T03:42:02+00:00",
+  "h1": "",
+  "headings": [
+    {
+      "level": "h2",
+      "text": "What is a draft angle?"
+    },
+    {
+      "level": "h2",
+      "text": "Why are draft angles essential for injection molding?"
+    },
+    {
+      "level": "h3",
+      "text": "So, why is it essential to add draft angles to your design?"
+    },
+    {
+      "level": "h2",
+      "text": "How do you design better draft angles?"
+    },
+    {
+      "level": "h3",
+      "text": "Deep pockets and cavities"
+    },
+    {
+      "level": "h3",
+      "text": "Part texture"
+    },
+    {
+      "level": "h2",
+      "text": "What are the best injection molding materials for draft angles?"
+    },
+    {
+      "level": "h2",
+      "text": "What are Protolabs Network's top tips and tricks for designing draft angles?"
+    },
+    {
+      "level": "h2",
+      "text": "Frequently asked questions"
+    },
+    {
+      "level": "h3",
+      "text": "How do you calculate draft angles for injection molding?"
+    },
+    {
+      "level": "h3",
+      "text": "How many degrees should my draft angles be?"
+    },
+    {
+      "level": "h3",
+      "text": "When should you add draft angles in the design process?"
+    },
+    {
+      "level": "h3",
+      "text": "How does draft angle design affect surface finish?"
+    },
+    {
+      "level": "h3",
+      "text": "How do you design draft angles for optimal manufacturability?"
+    }
+  ],
+  "images": [
+    {
+      "alt": "draft angle definition",
+      "src": "/images/trans.gif"
+    },
+    {
+      "alt": "draft angles manufacture",
+      "src": "/images/trans.gif"
+    },
+    {
+      "alt": "material shrinkage injection molding",
+      "src": "/images/trans.gif"
+    },
+    {
+      "alt": "injection molding scratch marks",
+      "src": "/images/trans.gif"
+    },
+    {
+      "alt": "CNC machining, 3D printing and sheet metal fabrication parts",
+      "src": "/images/trans.gif"
+    }
+  ],
+  "meta_description": "Why is it important to design draft angles for injection molding custom parts? This article covers why draft angles are essential and how to design them better to get the most out of your injection molding designs.",
+  "modified_at": "",
+  "monitored_text": "Designing draft angles for injection molding can be a hassle. As designers and engineers, we like to work with straight, perpendicular models that are easy and intuitive to read, measure and modify. However, when it comes time to actually manufacture components via injection molding, your designs will have to fit the process itself. That means designing in draft angles to be able to eject the parts from the mold. If you don’t design your parts with the right amount of drafting, you’ll be compromising your part’s functionality, fit and cosmetic quality. What is a draft angle? A draft angle is a taper applied to the vertical walls of the injection-molded component to assist with releasing the part from the mold. Draft angles are a required feature of injection-molded custom parts. A functional part for injection molding has to have draft angles that face both the cavity and core sides. This will reduce the risk of damage to the parts and ensure that they can be ejected from the machine. As the molten plastic flows into the closed die and fills the cavity, the material shrinks inside the mold upon cooling and as a result grips the core. Why are draft angles essential for injection molding? Without any taper, not only will the part come out scratched, but also the mold will endure unwanted wear and tear. This will in turn shorten the life of the tool. On top of all of this, you may not be able to eject the part in this case, meaning you’ll have to grind production to a halt to manually peel the part out of the mold. What’s also important is to overcome the vacuum forces by letting air in between the metal and the plastic for the part to release properly. Adding an adequate draft angle ensures that warpage upon ejection is prevented while maintaining a decent cosmetic finish. Scratch marks often occur on parts when you design inadequate draft angles. With injection molding, you also have to deal with the inherent tradeoff between the ejection mechanism and the cooling system - they both compete for real estate within the core. If your part is easy to release by design, you make it easier to eject the part, giving more real estate to the cooling system. Therefore, instead of having numerous pins or sleeves to push the part out of the core - you leave a lot of room for cooling channels that significantly cut down your cycle time. As a result, you get a more competitive per unit price for your project, which is enormously beneficial once you reach high production volumes. Handy reminder On average, 70% of the cycle time during injection molding goes to cooling. So, why is it essential to add draft angles to your design? Minimizes the warping to your geometry Increases the tool life of the mold Improves the surface finish on your plastic parts Cuts down costs by reducing the cooling time How do you design better draft angles? There’s no universal formula that can tell you exactly how to implement draft angles implement in your design, but there are some factors for you to consider: Deep pockets and cavities Deep pockets and cavities need a steeper draft angle to assist in overcoming the vacuum and the friction forces as the part is pushed out from the core. Hub's pro tip Part texture The texture of the part dictates the minimum draft. A smoother surface, such as a mirror finish, is easy to push out and to cut down on scrap rates. For light textures, a 1-5 degree draft is appropriate. Complex textures like leather or snakeskin introduce micro-undercuts and demand a 5-12+ degree draft. Protolabs Network's pro tip What are the best injection molding materials for draft angles? The more the plastic thermally shrinks, the larger the draft must be. In addition - strong, brittle and abrasive materials naturally require a larger taper than those that are soft, ductile or self-lubricating. Nylon , for instance, is very forgiving and does not necessarily need a draft angle, although a standard 2-degree taper is always recommended. Material Minimum draft angle* Recommended draft angle Nylon 0 1 Polyethylene 0.5 1.5 PVC 0.5 1.5 PP 1 2 PC 1.5 2 *Assuming perfect conditions What are Protolabs Network's top tips and tricks for designing draft angles? Draft angles may not be your favorite feature to design, but it’s worth the hassle. Designing them correctly is key to obtaining a competitive cost and potentially shortening the lead time. Here are a few advanced tips for designing the best draft angles for your custom parts: Integrate the draft into your design early. If you want to prototype the part with 3D printing, make sure it already contains the draft to avoid having to repeat your design work. Draft both the cavity and the core sides of your part. The core (inside surfaces) requires a slightly larger draft due to the shrinkage direction of the material. All vertical faces need to have a draft. These include ribs and gussets, bosses and stand-off features. The larger the draft angle, the better. Even a 0.5-degree angle (the absolute minimum for most materials) is better than no draft angle at all. Be mindful of the reference face you draft from and whether the draft impacts the functionality or fit of mating parts. The location of the parting line is not always obvious. Be sure to consult your supplier early on in the process to deliver the end design on time. Draft the features that would require a side-action (side cavities and bosses). For a more detailed guide on how to design features for injection molding, we have just the guide for you . Want to learn more about designing custom parts for injection molding? Download our design guide today Subscribe Get the latest manufacturing news delivered to your mailbox. Sign up for our newsletter Sign me up Please enter a valid email address. Leave this field empty Thanks! You're now subscribed to our newsletter. Frequently asked questions How do you calculate draft angles for injection molding? In general, the recommendation is to add a minimum of 1 degree of draft per inch (2.54 cm) of mold cavity depth. Other factors will affect how you calculate your draft angles aside from depth, so you can add up to two degrees per inch, but it’s not necessary. How many degrees should my draft angles be? While applying 1 to 2 degrees of draft per inch of cavity depth is a good standard to follow, certain angles are better for specific situations. For instance, we advise applying 0.5 degrees on every vertical face of your components. For light textures (PM-T1), 3 degrees of draft is required, while 5 or more degrees of draft is mandatory for heavy textures (PM-T2). When should you add draft angles in the design process? Adding draft angles to 3D printing and CNC machining designs isn’t required, so it’s common to forget drafts when prototyping (or at other earlier design stages). With 3D printing and CNC machining, you simply don’t have to worry about ejecting parts from a mold. We recommend designing your parts with draft angles early on so that when it comes time to start injection molding larger quantities of parts, you won't have to redesign the components to accommodate the molding process. How does draft angle design affect surface finish? Adding the right draft angles is essential for avoiding scratches on your parts. Thermoplastics shrink when cooling in a mold, which creates enough tension to prevent clean and easy part ejection. Without the right draft angles, your part will get scratches from tension within the mold and from taking it out after cooling. How do you design draft angles for optimal manufacturability? Following our guidelines will definitely help improve your design for manufacturability. If you have further questions or want expert DfM advice, don’t hesitate to contact us at networksales@protolabs.com .",
+  "published_at": "",
+  "requested_url": "https://www.hubs.com/knowledge-base/draft-angle",
+  "schema_version": 2,
+  "sections": [
+    {
+      "hash": "84744ead1105bb8775cb7daeaf97a47876c29aeb",
+      "heading": "What is a draft angle?",
+      "level": "h2",
+      "text": "What is a draft angle? A draft angle is a taper applied to the vertical walls of the injection-molded component to assist with releasing the part from the mold. Draft angles are a required feature of injection-molded custom parts. A functional part for injection molding has to have draft angles that face both the cavity and core sides. This will reduce the risk of damage to the parts and ensure that they can be ejected from the machine. As the molten plastic flows into the closed die and fills the cavity, the material shrinks inside the mold upon cooling and as a result grips the core."
+    },
+    {
+      "hash": "ddc643af15534e4f65833aa8596f463fb8733ab9",
+      "heading": "Why are draft angles essential for injection molding?",
+      "level": "h2",
+      "text": "Why are draft angles essential for injection molding? Why are draft angles essential for injection molding?"
+    },
+    {
+      "hash": "9e65a32898d17cc32bb82c9b32b483650ff854f9",
+      "heading": "So, why is it essential to add draft angles to your design?",
+      "level": "h3",
+      "text": "So, why is it essential to add draft angles to your design? Minimizes the warping to your geometry Increases the tool life of the mold Improves the surface finish on your plastic parts Cuts down costs by reducing the cooling time"
+    },
+    {
+      "hash": "d08273220ed7ebbd779e7cf1df7dd5caef30a1d7",
+      "heading": "How do you design better draft angles?",
+      "level": "h2",
+      "text": "How do you design better draft angles? There’s no universal formula that can tell you exactly how to implement draft angles implement in your design, but there are some factors for you to consider:"
+    },
+    {
+      "hash": "1dbcfc5b6ebd2883fa463bf3158d0b1d2091419c",
+      "heading": "Deep pockets and cavities",
+      "level": "h3",
+      "text": "Deep pockets and cavities Deep pockets and cavities need a steeper draft angle to assist in overcoming the vacuum and the friction forces as the part is pushed out from the core."
+    },
+    {
+      "hash": "b6d37ad04c2c884f862d96c853081d2ed9e198cf",
+      "heading": "Part texture",
+      "level": "h3",
+      "text": "Part texture The texture of the part dictates the minimum draft. A smoother surface, such as a mirror finish, is easy to push out and to cut down on scrap rates. For light textures, a 1-5 degree draft is appropriate. Complex textures like leather or snakeskin introduce micro-undercuts and demand a 5-12+ degree draft."
+    },
+    {
+      "hash": "f15aacb3f64c95a07a944e5dd0d4073211981be3",
+      "heading": "What are the best injection molding materials for draft angles?",
+      "level": "h2",
+      "text": "What are the best injection molding materials for draft angles? The more the plastic thermally shrinks, the larger the draft must be. In addition - strong, brittle and abrasive materials naturally require a larger taper than those that are soft, ductile or self-lubricating. Nylon , for instance, is very forgiving and does not necessarily need a draft angle, although a standard 2-degree taper is always recommended."
+    },
+    {
+      "hash": "f398f4f6b17ef54cc2089b8e6ae568ee9d6312dc",
+      "heading": "What are Protolabs Network's top tips and tricks for designing draft angles?",
+      "level": "h2",
+      "text": "What are Protolabs Network's top tips and tricks for designing draft angles? Draft angles may not be your favorite feature to design, but it’s worth the hassle. Designing them correctly is key to obtaining a competitive cost and potentially shortening the lead time. Here are a few advanced tips for designing the best draft angles for your custom parts: Integrate the draft into your design early. If you want to prototype the part with 3D printing, make sure it already contains the draft to avoid having to repeat your design work. Draft both the cavity and the core sides of your part. The core (inside surfaces) requires a slightly larger draft due to the shrinkage direction of the material. All vertical faces need to have a draft. These include ribs and gussets, bosses and stand-off features. The larger the draft angle, the better. Even a 0.5-degree angle (the absolute minimum for most materials) is better than no draft angle at all. Be mindful of the reference face you draft from and whether the draft impacts the functionality or fit of mating parts. The location of the parting line is not always obvious. Be sure to consult your supplier early on in the process to deliver the end d..."
+    },
+    {
+      "hash": "02842b08377539be654ab1179cf41e1d947c4424",
+      "heading": "Frequently asked questions",
+      "level": "h2",
+      "text": "Frequently asked questions Frequently asked questions"
+    },
+    {
+      "hash": "eb5ab73db76f76486a86b5fc6dd5a0ba77edde0a",
+      "heading": "How do you calculate draft angles for injection molding?",
+      "level": "h3",
+      "text": "How do you calculate draft angles for injection molding? In general, the recommendation is to add a minimum of 1 degree of draft per inch (2.54 cm) of mold cavity depth. Other factors will affect how you calculate your draft angles aside from depth, so you can add up to two degrees per inch, but it’s not necessary."
+    },
+    {
+      "hash": "1197e09eedb25368d85758a9686256efba81a6fe",
+      "heading": "How many degrees should my draft angles be?",
+      "level": "h3",
+      "text": "How many degrees should my draft angles be? While applying 1 to 2 degrees of draft per inch of cavity depth is a good standard to follow, certain angles are better for specific situations. For instance, we advise applying 0.5 degrees on every vertical face of your components. For light textures (PM-T1), 3 degrees of draft is required, while 5 or more degrees of draft is mandatory for heavy textures (PM-T2)."
+    },
+    {
+      "hash": "6e17b298ae24cda64c209ec5ce2abf1ab5e0c663",
+      "heading": "When should you add draft angles in the design process?",
+      "level": "h3",
+      "text": "When should you add draft angles in the design process? Adding draft angles to 3D printing and CNC machining designs isn’t required, so it’s common to forget drafts when prototyping (or at other earlier design stages). With 3D printing and CNC machining, you simply don’t have to worry about ejecting parts from a mold. We recommend designing your parts with draft angles early on so that when it comes time to start injection molding larger quantities of parts, you won't have to redesign the components to accommodate the molding process."
+    },
+    {
+      "hash": "c3b9024b9b6bc465d096e1dbe0fdc72b8b3ee86b",
+      "heading": "How does draft angle design affect surface finish?",
+      "level": "h3",
+      "text": "How does draft angle design affect surface finish? Adding the right draft angles is essential for avoiding scratches on your parts. Thermoplastics shrink when cooling in a mold, which creates enough tension to prevent clean and easy part ejection. Without the right draft angles, your part will get scratches from tension within the mold and from taking it out after cooling."
+    },
+    {
+      "hash": "1cbdbc1be91899f0c3ee472287e1f64b99a2c97d",
+      "heading": "How do you design draft angles for optimal manufacturability?",
+      "level": "h3",
+      "text": "How do you design draft angles for optimal manufacturability? Following our guidelines will definitely help improve your design for manufacturability. If you have further questions or want expert DfM advice, don’t hesitate to contact us at networksales@protolabs.com ."
+    }
+  ],
+  "sitemap_lastmod": "2026-06-04T09:32:02+00:00",
+  "status": 200,
+  "structure_hash": "ec042a8d302906029d5bd768e295209d715f2e53",
+  "text_excerpt": "Designing draft angles for injection molding can be a hassle. As designers and engineers, we like to work with straight, perpendicular models that are easy and intuitive to read, measure and modify. However, when it comes time to actually manufacture components via injection molding, your designs will have to fit the process itself. That means designing in draft angles to be able to eject the parts from the mold. If you don’t design your parts with the right amount of drafting, you’ll be compromising your part’s functionality, fit and cosmetic quality. What is a draft angle? A draft angle is a taper applied to the vertical walls of the injection-molded component to assist with releasing the part from the mold. Draft angles are a required feature of injection-molded custom parts. A functional part for injection molding has to have draft angles that face both the cavity and core sides. This will reduce the risk of damage to the parts and ensure that they can be ejected from the machine. As the molten plastic flows into the closed die and fills the cavity, the material shrinks inside the mold upon cooling and as a result grips the core. Why are draft angles essential for injection mo...",
+  "text_hash": "e25432f06927249f09869fb0eba1272b901b6a67",
+  "title": "Why is draft angle design essential for injection molding? | Protolabs Network",
+  "url": "https://www.hubs.com/knowledge-base/draft-angle"
+}

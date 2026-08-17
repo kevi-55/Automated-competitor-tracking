@@ -1,0 +1,211 @@
+{
+  "canonical": "https://www.xometry.com/resources/machining/best-practices-for-tool-calibration",
+  "category": "content",
+  "competitor": "Xometry",
+  "ctas": [
+    {
+      "href": "https://www.xometry.com/authors/dean-mcclements",
+      "text": "Dean McClements"
+    },
+    {
+      "href": "https://www.xometry.com/resources/design-guides/design-guide-cnc-machining",
+      "text": "Download for Free"
+    },
+    {
+      "href": "https://www.xometry.com/testdrive",
+      "text": "Launch Demo"
+    },
+    {
+      "href": "https://www.xometry.com/quoting/home",
+      "text": "Upload Your Design"
+    },
+    {
+      "href": "https://www.xometry.com/authors/dean-mcclements",
+      "text": "Read more articles by Dean McClements"
+    }
+  ],
+  "discovered_via": "feed",
+  "fetched_at": "2026-08-17T03:44:38+00:00",
+  "final_url": "https://www.xometry.com/resources/machining/best-practices-for-tool-calibration",
+  "first_seen_at": "2026-08-17T03:44:38+00:00",
+  "h1": "Best Practices for Tool Calibration",
+  "headings": [
+    {
+      "level": "h1",
+      "text": "Best Practices for Tool Calibration"
+    },
+    {
+      "level": "h2",
+      "text": "Measurement Traceability"
+    },
+    {
+      "level": "h2",
+      "text": "Tool Identification"
+    },
+    {
+      "level": "h3",
+      "text": "Calibration Label"
+    },
+    {
+      "level": "h3",
+      "text": "Calibrate Prior to Use Label"
+    },
+    {
+      "level": "h3",
+      "text": "Not Calibrated Label"
+    },
+    {
+      "level": "h3",
+      "text": "Do not use Label"
+    },
+    {
+      "level": "h3",
+      "text": "For Reference Only/Calibration Not Required"
+    },
+    {
+      "level": "h2",
+      "text": "Calibration Register"
+    },
+    {
+      "level": "h2",
+      "text": "Calibration Procedures"
+    },
+    {
+      "level": "h3",
+      "text": "In-house Calibration"
+    },
+    {
+      "level": "h3",
+      "text": "3rd-Party Laboratories"
+    },
+    {
+      "level": "h2",
+      "text": "Calibration Records"
+    },
+    {
+      "level": "h2",
+      "text": "Calibration Intervals"
+    }
+  ],
+  "images": [
+    {
+      "alt": "Dean McClements",
+      "src": "https://images.prismic.io/xometry-marketing/ZqpnZB5LeNNTxq-V_dean-mcclements.jpg?auto=format%2Ccompress&rect=0%2C0%2C800%2C800&w=88&h=88&fit=crop"
+    },
+    {
+      "alt": "Tool Calibration",
+      "src": "https://images.prismic.io/xometry-marketing/81cb90d9-216f-42d6-971a-3176c0617c0f_20210618-Best-Practices-Tool-Calibration-blog.jpg?auto=format%2Ccompress&rect=173%2C0%2C445%2C445&..."
+    },
+    {
+      "alt": "CNC Machining Design Guide cover",
+      "src": "/_next/image/?url=https%3A%2F%2Fimages.prismic.io%2Fxometry-marketing%2FaAlI9vIqRLdaBisC_cnc-machining-design-guide.png%3Fauto%3Dformat%2Ccompress&w=384&q=75"
+    },
+    {
+      "alt": "",
+      "src": "https://images.prismic.io/xometry-marketing/aeksPsBOoF08xOhg_x-pipe.png?auto=format,compress"
+    },
+    {
+      "alt": "Picture of Dean McClements",
+      "src": "https://images.prismic.io/xometry-marketing/ZqpnZB5LeNNTxq-V_dean-mcclements.jpg?auto=format%2Ccompress&rect=0%2C0%2C800%2C800&w=192&h=192&fit=crop"
+    }
+  ],
+  "meta_description": "Tool calibration is important to ensure accurate and reliable measurements in support of product quality. Here’s a look at some best practices on how to proactively calibrate tools instead of waiting until a tool is out of tolerance.",
+  "modified_at": "2026-07-22T18:50:33+00:00",
+  "monitored_text": "Resources / Machining Design / Best Practices for Tool Calibration Best Practices for Tool Calibration Written by Dean McClements 6 min read Published June 18, 2021 Updated July 22, 2026 Tool calibration is important to ensure accurate and reliable measurements in support of product quality. Here’s a look at some best practices on how to proactively calibrate tools instead of waiting until a tool is out of tolerance. Tool calibration is important to ensure tools produce accurate and reliable measurements in support of product quality. The calibration process adjusts out-of-specification tools back to their original performance accuracy. Best practice for tool calibration aims to proactively calibrate tools instead of waiting until a tool no longer produces accurate and reliable measurements, and to ensure measurement traceability. Measurement Traceability ISO 9001:2015 requires organizations that wish to obtain and maintain certification to have measuring tools calibrated. To comply, a system must be developed that: Identifies tools that require calibration Identifies when tools have to be calibrated Defines how to calibrate each tool Records the calibration results Has calibration information readily available Such a system consists of the following sections: Tool identification Calibration register Calibration procedures Calibration records Calibration intervals Tool Identification Each tool should have a unique identification number. This number is used to identify the tool in the calibration register, on technical drawings where a specific tool is required, and as a reference when recording measurement results. A tool’s calibration status is identified using labels. Each label is unique and sufficiently different from the others so that users can clearly identify a tool’s calibration status. The labels are: Calibration Calibrate prior to use Not calibrated Do not use Calibration Label The Calibration label is used when a tool has been calibrated and is still within its calibration window. The label is normally green and should clearly display the following information: Date of calibration Calibration record number Calibration due date Calibration employee signature Calibrate Prior to Use Label The Calibrate Prior to Use label is used on tools for which the accuracy of their measurements should be checked before every use. If a tool’s accuracy is checked using a specific gauge, the gauge should have a Calibration label. These labels can be any color as long as they can be clearly differentiated from other labels. Not Calibrated Label The Not Calibrated label is used on tools whose measurements are monitored by calibrating tools. Thus, the tool producing the measurement does not have to be calibrated as its measurement results are monitored by a separate tool that is calibrated. These labels can be any color as long as they can be clearly differentiated from other labels. Do not use Label The Do Not Use label is used for tools that are not calibrated and are not fit for use. This includes tools that are fully functioning but have yet to be calibrated. These labels should be ‘red’ to visually warn users that the tool is not fit for use. For Reference Only/Calibration Not Required The For Reference Only labels are one of the most common you'll find in a shop, especially ISO 9001 certified shops. For Reference Only tools cannot be used for any first or final inspections. All personal tools should be marked this way to avoid confusion with properly calibrated tools. They should also be kept in a separate location to prevent accidental use when inspecting outgoing parts being sent to a customer. Design Guide: CNC Machining Download our guide for CNC manufacturability recommendations to optimize your designs, reduce machining time, and lower your costs. Download for Free Calibration Register The calibration register, also referred to as the Master List , is a list that includes all the tools that require calibration. It must be comprehensive and should contain the following information: Tool Name Tool Number Tool Manufacturer Name Tool Location (which department uses it, or the site it is used at) Calibration Date Last day of current calibration Calibration Interval Calibration Procedure Callout Calibration Record Number Standard to use to calibrate the tool Calibration Procedures There is no defined set of rules to determine whether a tool should be calibrated in-house or by a 3rd-party laboratory. Factors like the complexity of the tool, the in-house availability of calibration equipment, and the availability of skilled staff should be considered. In-house Calibration Transfer standards are used for the in-house calibration of tools. It can be a reference thermometer for ovens; gauge blocks for dimensional calibrations of tools such as calipers, rulers, and tapes; etc. The transfer standards are calibrated by a 3rd-party laboratory. If in-house calibration is performed, a clearly defined procedure that details the calibration process must be available for each tool. These procedures should be regularly audited as part of quality management audits. 3rd-Party Laboratories 3rd-party laboratories used for tool calibration must be ISO/IEC 17025 certified. These laboratories issue calibration certificates for tools that are compliant with the relevant calibration standard(s). While the layout of calibration certificates issued by different laboratories will likely look different, they should all contain the same basic information: Date and time (and possibly humidity) at the time of calibration The physical condition of the tool at the time of receipt The physical condition of the tool at the time of return Traceability results Standard(s) used during calibration Take a Tour of Instant Quoting Engine® Get a live demo of Xometry's best-in-class Instant Quoting Engine Launch Demo Calibration Records Irrespective of whether a tool is calibrated in-house or by a 3rd-party laboratory, calibration records must be available for each tool. They provide historical data that can be used to refine future calibration intervals. Calibration records should contain the following, keeping in mind that not all should be listed in the same order: Tool Number Tool Name Tool Manufacturer Name Tool Location (which department uses it, or the site it is used at) Calibration Interval Calibration Procedure Callout Standard to use to calibrate the tool (for in-house calibration) Calibration Certificate (for 3rd-party calibration) Calibration Date Next Calibration Due Date Calibration Data Calibration Results Calibration Requirements Calibrator’s Name and Signature Humidity Temperature Calibration Results - Accept/Reject Calibration Intervals There is no generic set of rules or universal standard that defines calibration frequency. The best practice is to start with a conservative interval driven primarily by the impact of an out-of-specification product, or the impact of out-of-specification processes on employee safety. Tool manufacturers may provide tool calibration interval recommendations. The frequency of use, the environment in which the tool is used, the calibration history of similar tools, and the purpose of the measurement results can also be used to determine calibration intervals. Table 1 can be used as a guide to define calibration intervals: Calibration Intervals Use Frequency Calibration Interval Use Frequency Daily Calibration Interval 3 Months Use Frequency Every Other Day Calibration Interval 6 Months Use Frequency Once Weekly Calibration Interval 12 Months Use Frequency Once Monthly Calibration Interval 24 Months Use Frequency Once Yearly Calibration Interval 36 Months Table 1: Sample of a Calibration-Intervals Plan Closely monitoring a tool’s calibration history will give a better understanding of its performance and whether calibration intervals should be increased or reduced. Tool calibration is critical to product quality. Proactively performing tool calibration against a predefined calibration schedule will ensure that tools are always in a condition whereby the measurements they produce are accurate and reliable. In the long run, the cost of bad quality, and the potential damage to your organization’s reputation, far outweigh the cost of calibration. Start Your Instant Quote STEP · STP · SLDPRT · STL · DXF · IPT · X_T · X_B · 3DXML · CATPART · PRT · SAT · 3MF · JT Upload Your Design All uploads are secure and confidential Dean McClements Dean McClements is a B.Eng Honors graduate in Mechanical Engineering with over two decades of experience in the manufacturing industry. His professional journey includes significant roles at leading companies such as Caterpillar, Autodesk, Collins Aerospace, and Hyster-Yale, where he developed a deep understanding of engineering processes and innovations. Read more articles by Dean McClements Start Your Instant Quote STEP · STP · SLDPRT · STL · DXF · IPT · X_T · X_B · 3DXML · CATPART · PRT · SAT · 3MF · JT Upload Your Design All uploads are secure and confidential Recent Stories Data Center Cooling: Cooling Systems, Methods, and Best Practices August 13, 2026 24 min read Cloud Data Center: Definition and Model August 13, 2026 42 min read Edge Data Center: Definition and Architecture August 13, 2026 20 min read",
+  "published_at": "2021-06-18T14:01:50+00:00",
+  "requested_url": "https://www.xometry.com/resources/machining/best-practices-for-tool-calibration",
+  "schema_version": 2,
+  "sections": [
+    {
+      "hash": "6d3000754fcf35ef27f2c1682381136e1abb25fc",
+      "heading": "Best Practices for Tool Calibration",
+      "level": "h1",
+      "text": "Best Practices for Tool Calibration Best Practices for Tool Calibration"
+    },
+    {
+      "hash": "ef94307398eb5745c80dd0314eaf78cdc5ba3fac",
+      "heading": "Measurement Traceability",
+      "level": "h2",
+      "text": "Measurement Traceability ISO 9001:2015 requires organizations that wish to obtain and maintain certification to have measuring tools calibrated. To comply, a system must be developed that: Identifies tools that require calibration Identifies when tools have to be calibrated Defines how to calibrate each tool Records the calibration results Has calibration information readily available Such a system consists of the following sections: Tool identification Calibration register Calibration procedures Calibration records Calibration intervals"
+    },
+    {
+      "hash": "eeb7a02208c63def239c9c9ab5a4f0c1adb7a400",
+      "heading": "Tool Identification",
+      "level": "h2",
+      "text": "Tool Identification Each tool should have a unique identification number. This number is used to identify the tool in the calibration register, on technical drawings where a specific tool is required, and as a reference when recording measurement results. A tool’s calibration status is identified using labels. Each label is unique and sufficiently different from the others so that users can clearly identify a tool’s calibration status. The labels are: Calibration Calibrate prior to use Not calibrated Do not use Calibration Label The Calibration label is used when a tool has been calibrated and is still within its calibration window. The label is normally green and should clearly display the following information: Date of calibration Calibration record number Calibration due date Calibration employee signature Calibrate Prior to Use Label The Calibrate Prior to Use label is used on tools for which the accuracy of their measurements should be checked before every use. If a tool’s accuracy is checked using a specific gauge, the gauge should have a Calibration label. These labels can be any color as long as they can be clearly differentiated from other labels. Not Calibrated Label The..."
+    },
+    {
+      "hash": "72ae422c22989259df0a5097c82cac5026662242",
+      "heading": "Calibration Label",
+      "level": "h3",
+      "text": "Calibration Label The Calibration label is used when a tool has been calibrated and is still within its calibration window. The label is normally green and should clearly display the following information: Date of calibration Calibration record number Calibration due date Calibration employee signature"
+    },
+    {
+      "hash": "9b04e88f6fee7a28eb56163f7138c4cdf07fdc55",
+      "heading": "Calibrate Prior to Use Label",
+      "level": "h3",
+      "text": "Calibrate Prior to Use Label The Calibrate Prior to Use label is used on tools for which the accuracy of their measurements should be checked before every use. If a tool’s accuracy is checked using a specific gauge, the gauge should have a Calibration label. These labels can be any color as long as they can be clearly differentiated from other labels."
+    },
+    {
+      "hash": "414ecd1ee97973c4e8cee63a4d0844b271514d3a",
+      "heading": "Not Calibrated Label",
+      "level": "h3",
+      "text": "Not Calibrated Label The Not Calibrated label is used on tools whose measurements are monitored by calibrating tools. Thus, the tool producing the measurement does not have to be calibrated as its measurement results are monitored by a separate tool that is calibrated. These labels can be any color as long as they can be clearly differentiated from other labels."
+    },
+    {
+      "hash": "272b28f22428f07d2bb2925e528cd636199e1420",
+      "heading": "Do not use Label",
+      "level": "h3",
+      "text": "Do not use Label The Do Not Use label is used for tools that are not calibrated and are not fit for use. This includes tools that are fully functioning but have yet to be calibrated. These labels should be ‘red’ to visually warn users that the tool is not fit for use."
+    },
+    {
+      "hash": "ba2a007762b0a1287bfa7db3589e1e1124315e42",
+      "heading": "For Reference Only/Calibration Not Required",
+      "level": "h3",
+      "text": "For Reference Only/Calibration Not Required The For Reference Only labels are one of the most common you'll find in a shop, especially ISO 9001 certified shops. For Reference Only tools cannot be used for any first or final inspections. All personal tools should be marked this way to avoid confusion with properly calibrated tools. They should also be kept in a separate location to prevent accidental use when inspecting outgoing parts being sent to a customer."
+    },
+    {
+      "hash": "e4ca63c272ee5263bee60077b322fc387e3ec465",
+      "heading": "Calibration Register",
+      "level": "h2",
+      "text": "Calibration Register The calibration register, also referred to as the Master List , is a list that includes all the tools that require calibration. It must be comprehensive and should contain the following information: Tool Name Tool Number Tool Manufacturer Name Tool Location (which department uses it, or the site it is used at) Calibration Date Last day of current calibration Calibration Interval Calibration Procedure Callout Calibration Record Number Standard to use to calibrate the tool"
+    },
+    {
+      "hash": "47d7855a6454760e25e33571c1dfa63cda163d16",
+      "heading": "Calibration Procedures",
+      "level": "h2",
+      "text": "Calibration Procedures There is no defined set of rules to determine whether a tool should be calibrated in-house or by a 3rd-party laboratory. Factors like the complexity of the tool, the in-house availability of calibration equipment, and the availability of skilled staff should be considered. In-house Calibration Transfer standards are used for the in-house calibration of tools. It can be a reference thermometer for ovens; gauge blocks for dimensional calibrations of tools such as calipers, rulers, and tapes; etc. The transfer standards are calibrated by a 3rd-party laboratory. If in-house calibration is performed, a clearly defined procedure that details the calibration process must be available for each tool. These procedures should be regularly audited as part of quality management audits. 3rd-Party Laboratories 3rd-party laboratories used for tool calibration must be ISO/IEC 17025 certified. These laboratories issue calibration certificates for tools that are compliant with the relevant calibration standard(s). While the layout of calibration certificates issued by different laboratories will likely look different, they should all contain the same basic information: Date an..."
+    },
+    {
+      "hash": "44ad9bc80b98922b04dc37ac1ec79e315ab95fcb",
+      "heading": "In-house Calibration",
+      "level": "h3",
+      "text": "In-house Calibration Transfer standards are used for the in-house calibration of tools. It can be a reference thermometer for ovens; gauge blocks for dimensional calibrations of tools such as calipers, rulers, and tapes; etc. The transfer standards are calibrated by a 3rd-party laboratory. If in-house calibration is performed, a clearly defined procedure that details the calibration process must be available for each tool. These procedures should be regularly audited as part of quality management audits."
+    },
+    {
+      "hash": "f7d860c6a9ec11f663ef2e92c4d8a6f84392496b",
+      "heading": "3rd-Party Laboratories",
+      "level": "h3",
+      "text": "3rd-Party Laboratories 3rd-party laboratories used for tool calibration must be ISO/IEC 17025 certified. These laboratories issue calibration certificates for tools that are compliant with the relevant calibration standard(s). While the layout of calibration certificates issued by different laboratories will likely look different, they should all contain the same basic information: Date and time (and possibly humidity) at the time of calibration The physical condition of the tool at the time of receipt The physical condition of the tool at the time of return Traceability results Standard(s) used during calibration"
+    },
+    {
+      "hash": "83e86ba5a43ba0edb9f4579d43dc1f184af104c2",
+      "heading": "Calibration Records",
+      "level": "h2",
+      "text": "Calibration Records Irrespective of whether a tool is calibrated in-house or by a 3rd-party laboratory, calibration records must be available for each tool. They provide historical data that can be used to refine future calibration intervals. Calibration records should contain the following, keeping in mind that not all should be listed in the same order: Tool Number Tool Name Tool Manufacturer Name Tool Location (which department uses it, or the site it is used at) Calibration Interval Calibration Procedure Callout Standard to use to calibrate the tool (for in-house calibration) Calibration Certificate (for 3rd-party calibration) Calibration Date Next Calibration Due Date Calibration Data Calibration Results Calibration Requirements Calibrator’s Name and Signature Humidity Temperature Calibration Results - Accept/Reject"
+    },
+    {
+      "hash": "1601aa65fcbd74a638aafb7ac9a510804a05ac0f",
+      "heading": "Calibration Intervals",
+      "level": "h2",
+      "text": "Calibration Intervals There is no generic set of rules or universal standard that defines calibration frequency. The best practice is to start with a conservative interval driven primarily by the impact of an out-of-specification product, or the impact of out-of-specification processes on employee safety. Tool manufacturers may provide tool calibration interval recommendations. The frequency of use, the environment in which the tool is used, the calibration history of similar tools, and the purpose of the measurement results can also be used to determine calibration intervals. Table 1 can be used as a guide to define calibration intervals:"
+    }
+  ],
+  "sitemap_lastmod": "",
+  "status": 200,
+  "structure_hash": "0771e3b0cbe39904a9f801e33456f52cdc199a95",
+  "text_excerpt": "Resources / Machining Design / Best Practices for Tool Calibration Best Practices for Tool Calibration Written by Dean McClements 6 min read Published June 18, 2021 Updated July 22, 2026 Tool calibration is important to ensure accurate and reliable measurements in support of product quality. Here’s a look at some best practices on how to proactively calibrate tools instead of waiting until a tool is out of tolerance. Tool calibration is important to ensure tools produce accurate and reliable measurements in support of product quality. The calibration process adjusts out-of-specification tools back to their original performance accuracy. Best practice for tool calibration aims to proactively calibrate tools instead of waiting until a tool no longer produces accurate and reliable measurements, and to ensure measurement traceability. Measurement Traceability ISO 9001:2015 requires organizations that wish to obtain and maintain certification to have measuring tools calibrated. To comply, a system must be developed that: Identifies tools that require calibration Identifies when tools have to be calibrated Defines how to calibrate each tool Records the calibration results Has calibratio...",
+  "text_hash": "a5f01faec2f582f472f408e8b878bdc901619ee0",
+  "title": "Best Practices for Tool Calibration | Xometry",
+  "url": "https://www.xometry.com/resources/machining/best-practices-for-tool-calibration"
+}

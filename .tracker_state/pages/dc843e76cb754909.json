@@ -1,50 +1,17 @@
 {
-  "canonical": "https://sybridge.com/why-3d-printing-layer-height-matter/",
+  "canonical": "https://sybridge.com/why-3d-printing-layer-height-matter",
   "category": "page",
   "competitor": "SyBridge",
   "ctas": [
     {
-      "href": "https://sybridge.com/contact/",
-      "text": "Contact"
-    },
-    {
-      "href": "https://sybridge.com/contact/locations/",
-      "text": "Locations"
-    },
-    {
-      "href": "https://sybridge.com/contact/locations/#usa",
-      "text": "United States"
-    },
-    {
-      "href": "https://sybridge.com/contact/locations/#mexico",
-      "text": "Mexico"
-    },
-    {
-      "href": "https://sybridge.com/contact/locations/#canada",
-      "text": "Canada"
-    },
-    {
-      "href": "https://sybridge.com/contact/locations/#europe",
-      "text": "Europe"
-    },
-    {
-      "href": "https://sybridge.com/contact/locations/#asia",
-      "text": "Asia"
-    },
-    {
-      "href": "https://sybridge.com/contact/",
-      "text": "Start the Conversation"
-    },
-    {
-      "href": "/contact/",
+      "href": "https://sybridge.com/contact",
       "text": "Contact us"
-    },
-    {
-      "href": "https://sybridge.com/contact/",
-      "text": "Contact Us"
     }
   ],
-  "fetched_at": "2026-08-17T02:35:29+00:00",
+  "discovered_via": "sitemap",
+  "fetched_at": "2026-08-17T03:54:12+00:00",
+  "final_url": "https://sybridge.com/why-3d-printing-layer-height-matter",
+  "first_seen_at": "2026-08-17T03:54:12+00:00",
   "h1": "Why Does 3D Printing Layer Height Matter?",
   "headings": [
     {
@@ -62,29 +29,9 @@
     {
       "level": "h2",
       "text": "Reach New Heights With SyBridge"
-    },
-    {
-      "level": "h3",
-      "text": "Related articles"
-    },
-    {
-      "level": "h2",
-      "text": "Know Your Materials: EPU"
-    },
-    {
-      "level": "h2",
-      "text": "SyBridge Completes Acquisition of the Assets of Toolplas Systems México"
-    },
-    {
-      "level": "h2",
-      "text": "SyBridge Technologies Acquires Advantage Engineering Inc."
     }
   ],
   "images": [
-    {
-      "alt": "Sybridge",
-      "src": "https://sybridge.com/wp-content/uploads/2025/11/logo-1.svg"
-    },
     {
       "alt": "",
       "src": "data:image/svg+xml,%3Csvg%20xmlns=%22http://www.w3.org/2000/svg%22%20viewBox=%220%200%20210%20140%22%3E%3C/svg%3E"
@@ -92,68 +39,45 @@
     {
       "alt": "",
       "src": "https://sybridge.com/wp-content/uploads/2023/05/Black-3d-printed-part.jpg"
-    },
-    {
-      "alt": "Sybridge Technologies",
-      "src": "data:image/svg+xml,%3Csvg%20xmlns=%22http://www.w3.org/2000/svg%22%20viewBox=%220%200%20210%20140%22%3E%3C/svg%3E"
     }
   ],
   "meta_description": "",
+  "modified_at": "2023-07-18T15:22:58+00:00",
+  "monitored_text": "Why Does 3D Printing Layer Height Matter? Published on November 8, 2021 Previously published on fastradius.com on November 8, 2021 During the Fused Deposition Modeling (FDM) 3D-printing process, the 3D printer reads the digital file, divides the object into slices, and extrudes molten plastic material through a nozzle layer by layer to form the final part. The process seems straightforward, but there are many factors that can affect the quality of your final print, from your chosen material to the features on your design. The height of each individual layer in your part can also have a huge impact on the final product. Let’s explore this in greater detail. 3D Printer Layer Height 101 Layer height is a measurement of how much material the printer’s nozzle extrudes for each layer of your part. It’s measured in microns or millimeters, can be adjusted through a slicer program, and varies from project to project. Just as the number of pixels determines a television’s resolution, a print’s layer height determines its resolution. Lower layer heights require more layers to achieve the same height, which increases the part’s quality and smoothness. Unfortunately, it also increases its print time, which correlates with an increase in cost. Taller 3D-printing layers take less time to print, which makes your part less expensive to print, but the trade-off is that parts will have a lower resolution. If your design is artistic, highly detailed, or must be incredibly precise, choose a lower layer height. Likewise, opt for a lower layer height if your part has holes, angles, or curved surfaces — otherwise, it may develop noticeable steps due to the layered nature of 3D printing. 3D printing with smaller layer heights can also help if your design has overhangs, as layers will overlap more. However, be wary of using thin layers below 0.1mm, as these increase printing time and the possibility of imperfections while offering diminishing returns concerning your part’s visible quality. On the other hand, if you need to print a part quickly, keep costs low, or are prioritizing function over aesthetics, you’ll want to use a larger nozzle and a taller layer height. A taller layer height means your printer has fewer layers to print to achieve the same volume, which speeds up the printing process and gives you a fully functional product at a lower cost. However, your part will also have fewer details and lower quality. The good news is that you can always sand, paint, or dip your product in an acetone bath to improve its appearance. In addition to considering your desired balance of function and aesthetics, you will need to take into account the type of FDM 3D printer your part is being produced on when deciding which layer height to use. If your layer height is too low for the printer nozzle’s diameter, it will struggle to push out the filament, but if it’s too high the layers won’t stick together. A good rule of thumb is to keep your layer height between 25% and 75% of the printer nozzle’s diameter. Key Considerations for 3D Printer Layer Height When deciding your layer height, you’ll want to think about the specific 3D printing process you’re using because some printers have smaller minimum layer heights. When printing a part via FDM, layer heights typically range from 0.05mm to 0.4mm, with 0.2mm being the most common. How do you decide whether to print on the higher or lower end of an acceptable range? The answer depends on your part’s design and purpose. You’ll want to ask yourself: How detailed is my component and how precise does it need to be? Does my part have holes, curves, or angled surfaces? How fast does my print time need to be? How strong does my component need to be? Does it matter if the surface is smooth? Will I be post-processing this component? Is my part’s aesthetics or functionality more important? What is my target cost-per-part? Once you’ve answered these questions, you can find a layer height that offers the balance of resolution and speed that your part requires. Reach New Heights With SyBridge Your layer height can affect print time, quality, cost, strength, and more, so choosing an appropriate layer height is essential. If you’re unsure which layer height is best for your project, consider working with a trusted manufacturing partner. When you work with SyBridge, you’ll gain access to an experienced team that can help you select the right layer height for your project to ensure a fast and high-quality print. Contact us today to get started on your next project.",
+  "published_at": "2021-11-08T18:39:00+00:00",
   "requested_url": "https://sybridge.com/why-3d-printing-layer-height-matter",
+  "schema_version": 2,
   "sections": [
     {
-      "hash": "7ad36ffb679be78bf70ddaaace54aeae0c242202",
+      "hash": "85186ae151773572fa30ec94933daa0ffbfa169e",
       "heading": "Why Does 3D Printing Layer Height Matter?",
       "level": "h1",
-      "text": "Why Does 3D Printing Layer Height Matter? Published on November 8, 2021 Previously published on fastradius.com on November 8, 2021 During the Fused Deposition Modeling (FDM) 3D-printing process, the 3D printer reads the digital file, divides the object into slices, and extrudes molten plastic material through a nozzle layer by layer to form the final part. The process seems straightforward, but there are many factors that can affect the quality of your final print, from your chosen material to the features on your design. The height of each individual layer in your part can also have a huge impact on the final product. Let’s explore this in greater detail. 3D Printer Layer Height 101 Layer..."
+      "text": "Why Does 3D Printing Layer Height Matter? Published on November 8, 2021 Previously published on fastradius.com on November 8, 2021 During the Fused Deposition Modeling (FDM) 3D-printing process, the 3D printer reads the digital file, divides the object into slices, and extrudes molten plastic material through a nozzle layer by layer to form the final part. The process seems straightforward, but there are many factors that can affect the quality of your final print, from your chosen material to the features on your design. The height of each individual layer in your part can also have a huge impact on the final product. Let’s explore this in greater detail."
     },
     {
-      "hash": "7ad36ffb679be78bf70ddaaace54aeae0c242202",
+      "hash": "3f2fb8779c9d6fea1d6f3f7b3e0a32dd0fa8a8ac",
       "heading": "3D Printer Layer Height 101",
       "level": "h2",
-      "text": "Why Does 3D Printing Layer Height Matter? Published on November 8, 2021 Previously published on fastradius.com on November 8, 2021 During the Fused Deposition Modeling (FDM) 3D-printing process, the 3D printer reads the digital file, divides the object into slices, and extrudes molten plastic material through a nozzle layer by layer to form the final part. The process seems straightforward, but there are many factors that can affect the quality of your final print, from your chosen material to the features on your design. The height of each individual layer in your part can also have a huge impact on the final product. Let’s explore this in greater detail. 3D Printer Layer Height 101 Layer..."
+      "text": "3D Printer Layer Height 101 Layer height is a measurement of how much material the printer’s nozzle extrudes for each layer of your part. It’s measured in microns or millimeters, can be adjusted through a slicer program, and varies from project to project. Just as the number of pixels determines a television’s resolution, a print’s layer height determines its resolution. Lower layer heights require more layers to achieve the same height, which increases the part’s quality and smoothness. Unfortunately, it also increases its print time, which correlates with an increase in cost. Taller 3D-printing layers take less time to print, which makes your part less expensive to print, but the trade-off is that parts will have a lower resolution. If your design is artistic, highly detailed, or must be incredibly precise, choose a lower layer height. Likewise, opt for a lower layer height if your part has holes, angles, or curved surfaces — otherwise, it may develop noticeable steps due to the layered nature of 3D printing. 3D printing with smaller layer heights can also help if your design has overhangs, as layers will overlap more. However, be wary of using thin layers below 0.1mm, as these..."
     },
     {
-      "hash": "7ad36ffb679be78bf70ddaaace54aeae0c242202",
+      "hash": "5f075041f6f94a81570f5df9d2850222ecb868bd",
       "heading": "Key Considerations for 3D Printer Layer Height",
       "level": "h2",
-      "text": "Why Does 3D Printing Layer Height Matter? Published on November 8, 2021 Previously published on fastradius.com on November 8, 2021 During the Fused Deposition Modeling (FDM) 3D-printing process, the 3D printer reads the digital file, divides the object into slices, and extrudes molten plastic material through a nozzle layer by layer to form the final part. The process seems straightforward, but there are many factors that can affect the quality of your final print, from your chosen material to the features on your design. The height of each individual layer in your part can also have a huge impact on the final product. Let’s explore this in greater detail. 3D Printer Layer Height 101 Layer..."
+      "text": "Key Considerations for 3D Printer Layer Height When deciding your layer height, you’ll want to think about the specific 3D printing process you’re using because some printers have smaller minimum layer heights. When printing a part via FDM, layer heights typically range from 0.05mm to 0.4mm, with 0.2mm being the most common. How do you decide whether to print on the higher or lower end of an acceptable range? The answer depends on your part’s design and purpose. You’ll want to ask yourself: How detailed is my component and how precise does it need to be? Does my part have holes, curves, or angled surfaces? How fast does my print time need to be? How strong does my component need to be? Does it matter if the surface is smooth? Will I be post-processing this component? Is my part’s aesthetics or functionality more important? What is my target cost-per-part? Once you’ve answered these questions, you can find a layer height that offers the balance of resolution and speed that your part requires."
     },
     {
-      "hash": "7ad36ffb679be78bf70ddaaace54aeae0c242202",
+      "hash": "339df33b099763e2953633dee0b93c32c2e86351",
       "heading": "Reach New Heights With SyBridge",
       "level": "h2",
-      "text": "Why Does 3D Printing Layer Height Matter? Published on November 8, 2021 Previously published on fastradius.com on November 8, 2021 During the Fused Deposition Modeling (FDM) 3D-printing process, the 3D printer reads the digital file, divides the object into slices, and extrudes molten plastic material through a nozzle layer by layer to form the final part. The process seems straightforward, but there are many factors that can affect the quality of your final print, from your chosen material to the features on your design. The height of each individual layer in your part can also have a huge impact on the final product. Let’s explore this in greater detail. 3D Printer Layer Height 101 Layer..."
-    },
-    {
-      "hash": "a4977d2ee2c1f3bca2f5848506e7fd665cbfc5ee",
-      "heading": "Related articles",
-      "level": "h3",
-      "text": "Related articles"
-    },
-    {
-      "hash": "9250778fbf886591068641d6648162f8af000a99",
-      "heading": "Know Your Materials: EPU",
-      "level": "h2",
-      "text": "Know Your Materials: EPU"
-    },
-    {
-      "hash": "6d06efe3dd9cbc9fd2ae99c29b5a464eca3303c9",
-      "heading": "SyBridge Completes Acquisition of the Assets of Toolplas Systems México",
-      "level": "h2",
-      "text": "SyBridge Completes Acquisition of the Assets of Toolplas Systems México"
-    },
-    {
-      "hash": "20cd9b228eb1c558045440337da4cfd3d590a11d",
-      "heading": "SyBridge Technologies Acquires Advantage Engineering Inc.",
-      "level": "h2",
-      "text": "SyBridge Technologies Acquires Advantage Engineering Inc."
+      "text": "Reach New Heights With SyBridge Your layer height can affect print time, quality, cost, strength, and more, so choosing an appropriate layer height is essential. If you’re unsure which layer height is best for your project, consider working with a trusted manufacturing partner. When you work with SyBridge, you’ll gain access to an experienced team that can help you select the right layer height for your project to ensure a fast and high-quality print. Contact us today to get started on your next project."
     }
   ],
+  "sitemap_lastmod": "2023-07-18T15:22:58+00:00",
   "status": 200,
-  "structure_hash": "823a7cc9271ee7b16e2fa25ed2088fafb55e9860",
-  "text_excerpt": "Why Does 3D Printing Layer Height Matter? - SyBridge Technologies about us About us overview About us overview Our Story Sybridge Advantage Sustainability Press Room Careers Injection mold tooling Injection molding tooling overview Injection molding tooling overview Design & Engineering Pre-Production Tooling Production Tooling Mold Validation Mold Maintenance SPECIALTY MANUFACTURING Specialty Manufacturing OVERVIEW Specialty Manufacturing Overview 3D Printing Quick-Turn Production Markets Served Markets Served Overview Markets Served Overview Healthcare Packaging Consumer Mobility Industrial More+ More Overview Blog Contact Locations United States Mexico Canada Europe Asia Start the Conversation Home > Resources > Why Does 3D Printing Layer Height Matter? Why Does 3D Printing Layer Height Matter? Published on November 8, 2021 Previously published on fastradius.com on November 8, 2021 During the Fused Deposition Modeling (FDM) 3D-printing process, the 3D printer reads the digital file, divides the object into slices, and extrudes molten plastic material through a nozzle layer by layer to form the final part. The process seems straightforward, but there are many factors that can af...",
-  "text_hash": "bab04e2508a24dd426168af6fd4a9e18c891234b",
+  "structure_hash": "6c28a15f82587b1fc502621df93355fdc3a6df2c",
+  "text_excerpt": "Why Does 3D Printing Layer Height Matter? Published on November 8, 2021 Previously published on fastradius.com on November 8, 2021 During the Fused Deposition Modeling (FDM) 3D-printing process, the 3D printer reads the digital file, divides the object into slices, and extrudes molten plastic material through a nozzle layer by layer to form the final part. The process seems straightforward, but there are many factors that can affect the quality of your final print, from your chosen material to the features on your design. The height of each individual layer in your part can also have a huge impact on the final product. Let’s explore this in greater detail. 3D Printer Layer Height 101 Layer height is a measurement of how much material the printer’s nozzle extrudes for each layer of your part. It’s measured in microns or millimeters, can be adjusted through a slicer program, and varies from project to project. Just as the number of pixels determines a television’s resolution, a print’s layer height determines its resolution. Lower layer heights require more layers to achieve the same height, which increases the part’s quality and smoothness. Unfortunately, it also increases its prin...",
+  "text_hash": "7ad36ffb679be78bf70ddaaace54aeae0c242202",
   "title": "Why Does 3D Printing Layer Height Matter? - SyBridge Technologies",
   "url": "https://sybridge.com/why-3d-printing-layer-height-matter"
 }

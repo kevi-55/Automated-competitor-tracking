@@ -1,0 +1,112 @@
+{
+  "canonical": "https://www.protolabs.com/resources/design-tips/create-production-parts-with-carbon-3d-printing",
+  "category": "content",
+  "competitor": "Protolabs",
+  "ctas": [],
+  "discovered_via": "sitemap",
+  "fetched_at": "2026-08-17T03:49:13+00:00",
+  "final_url": "https://www.protolabs.com/resources/design-tips/create-production-parts-with-carbon-3d-printing",
+  "first_seen_at": "2026-08-17T03:49:13+00:00",
+  "h1": "Create Production Parts with Carbon 3D Printing",
+  "headings": [
+    {
+      "level": "h1",
+      "text": "Create Production Parts with Carbon 3D Printing"
+    },
+    {
+      "level": "h2",
+      "text": "Tips on how to design for Carbon’s additive manufacturing technology, and how Carbon stacks up against stereolithography and Multi Jet Fusion 3D printing"
+    },
+    {
+      "level": "h3",
+      "text": "Designing for Carbon’s 3D Printing Technology"
+    },
+    {
+      "level": "h3",
+      "text": "Carbon DLS vs. Stereolithography"
+    },
+    {
+      "level": "h3",
+      "text": "Carbon DLS vs. Multi Jet Fusion"
+    },
+    {
+      "level": "h3",
+      "text": "Applications for Carbon DLP 3D Printing Technology"
+    },
+    {
+      "level": "h3",
+      "text": "3D Printing Toolkit"
+    }
+  ],
+  "images": [
+    {
+      "alt": "diagram of carbon dls 3d printing process",
+      "src": "/media/1kpiupuy/76_3dp_create-production-parts-with-carbon.jpg?width=570&height=308&v=1da55202034da20"
+    },
+    {
+      "alt": "Animation comparing Carbon and SLA 3D printing speed",
+      "src": "/media/1018454/pl-dt-october-2019-570x308-02.gif?width=570&height=308&v=1d57838f6c1dee0"
+    },
+    {
+      "alt": "Computer with digital part",
+      "src": "/media/q1lpvwk1/3dp-digital.png?width=670&height=360&v=1d97835f71fda80"
+    }
+  ],
+  "meta_description": "Get tips on how to design for Carbon, and do a deep dive into how this 3D printing technology stacks up against stereolithography and Multi Jet Fusion.",
+  "modified_at": "",
+  "monitored_text": "Create Production Parts with Carbon 3D Printing Tips on how to design for Carbon’s additive manufacturing technology, and how Carbon stacks up against stereolithography and Multi Jet Fusion 3D printing Digital light synthesis (DLS) is the signature technology of digital manufacturing company Carbon . It allows for the rapid 3D printing of plastic parts in production-grade materials. DLS technology uses light to set the 3D shape of printed parts, then parts undergo a thermal-curing process that brings them to their final material properties. By combining these processes, Carbon’s additive manufacturing technology is able to blend the speed and design freedom of light-curing 3D printing processes with superior plastic material properties typically not possible with 3D printing. Build platform (1), UV curable resin (2), dead zone (3), oxygen permeable window (4), projector (5). Designing for Carbon’s 3D Printing Technology Many of the same tactics used to mitigate warping in injection molding apply to 3D printing as well. Maintaining uniform wall thicknesses, adding radii to interior corners, and building support ribs all help with the dimensional stability of Carbon parts and lessen part warpage. Carbon’s technology excels at lattice-type geometries, but struggles with large cross sections caused by bulky, thick parts. Avoid thick walls and ideally stay under 0.1 in. (2.54mm) wall thickness. Try hollowing parts, adding lattices or honeycombs, or adding holes to remove material unnecessary to the functionality of the part. Surfaces 45 degrees and steeper from the draw plane typically do not require supports. Marching walls up and over at 45 degrees instead of hard 90-degree angles will typically make a part build more accurately and require less supports. Once again, adding a radius to internal and external corners often mitigates or even removes the need for supports on many parts. Along these lines, here are important size and design considerations when using Carbon: US Metric Maximum Dimensions 7.4 in x 4.6 in. x 12.8 in. 187.96mm x 116.84mm x 325.12mm Layer Thickness 0.004 in. 0.100mm Minimum Feature Size Structural Wall Thickness 0.100 in. 2.5mm Supported Walls (Ribs, Bosses, etc.) 0.040 in. 1.0mm Positive Features 0.020 in. 0.5mm Negative Features and Holes 0.025 in. 0.6mm SLA uses a laser to cure individual part geometry patterns while DLS images entire layers at a time resulting in an accelerated build process. Carbon DLS vs. Stereolithography Carbon’s technology is a “vat photopolymerization” 3D printing process, which places it in the same technology family as stereolithography (SLA) . Fundamentally, this means it builds parts by curing liquid photopolymers into a solid by selectively exposing them to light. That said, Carbon differs from SLA in a number of ways: Carbon emits light via a digital light projection (DLP) chip similar to how a projector casts an image on a screen. This is in contrast to how SLA draws features, which is at a single point of space at a time with a laser. The implications of this are that Carbon can print much faster (just as you can stamp an image faster than you can draw it) but this does come with a tradeoff for accuracy and surface finish. Carbon technology essentially builds “upside down” in relation to conventional SLA. To facilitate this, Carbon emits the light used for curing through a clear pane at the bottom of the resin vat. Once again, this is a tradeoff. Building this way allows Carbon to build faster but it also requires stronger supports. There are other systems that print parts “upside down” like Carbon, but Carbon has a unique twist in that the pane the light passes through is also oxygen permeable. This is important because the liquid photopolymer will not cure into a solid if it is saturated with oxygen. Normally systems like this need to physically pull the parts off this pane as they are effectively glued to each layer, but Carbon is able to do so without being so rough on the parts. The oxygen prevents the resin immediately off the glass from curing, allowing the part to raise off without having to physically rip from the pane on every layer. This enhancement not only significantly improves the print speed but also reduces the supports required. Historically, vat photopolymerization materials were not known for their durability nor longevity. Since the technology fundamentally creates parts with light, the materials were naturally light-sensitive. Parts made via SLA are typically sensitive enough to UV light that they may discolor in just a few hours of exposure to sunlight. However, Carbon found a singular solution to this problem. The technology’s unique resins combine aspects of not just photopolymers but also two-part urethanes. This means Carbon parts require a thermal cycle after they are built to reach their final properties, but makes them much more durable. Finally, in terms of usage, Carbon parts can be used for both functional prototypes and end-use production parts. Typically SLA parts are cheaper and more accurate for rapid prototyping, but Carbon offers additional material properties that SLA does not. Carbon materials are much more durable, UV resistant, and chemical resistant than SLA materials. If the prototypes see demanding environments, then Carbon may be the best option. Carbon DLS vs. Multi Jet Fusion Both Carbon and Multi Jet Fusion (MJF) are well suited for functional prototypes and low-volume production, so when should you use one or the other? Here are some elements to consider: Materials. The materials offered by the two technologies are quite different. MJF prints parts in a general-purpose nylon 12 or in a glass-filled nylon 12. These nylon materials are both moderately stiff and flexible, and have impressive impact resistance. At Protolabs, we offer two Carbon materials—rigid polyurethane and flexible polyurethane. The rigid polyurethane is similar to MJF’s material in stiffness, but offers superior flexibility. The flexible polyurethane is less stiff but offers tremendous flexibility and is similar to molded polypropylene in its material properties. Holes, slots, channels. Though the minimum feature size of both technologies is similar (at about 0.020 in. or 0.5mm), Carbon is much better at forming “negative spaces” like holes, slots, and channels. This is because of the powder used in MJF, and the media is difficult or impossible to remove from small gaps. If the part design has several holes or complex channels, it is likely a better fit for Carbon. Part size. At Protolabs, MJF can produce larger parts than Carbon. If the part is larger than 7.4 in. (187.96mm), it may be necessary to print it via MJF because it may be too large for the Carbon platform. Applications for Carbon DLP 3D Printing Technology Carbon is one of the best technologies available for 3D printing plastic parts for low-volume production. Non-bulky parts with moderate-to-high complexity are typically good candidates for this technology. Though critical features can be “dialed-in” for improved tolerances, Carbon has looser tolerances than injection molding so the candidate parts should not require overly tight tolerances. Carbon is frequently used for intricate designs that are challenging to mold and durable 3D-printed components for end-use applications. Some recent high-profile products that Carbon has produced include its work with Adidas and its AlphaEdge 4D running shoe, a Riddell football helmet, and a high-performance bike saddle for cyclists . Carbon parts also are used regularly in medical and dental industries. 3D Printing Toolkit Get in-depth design advice to optimize 3D-printed parts. Designing with additive manufacturing in mind can accelerate production time and reduce overall cost. Check Out The Toolkit",
+  "published_at": "",
+  "requested_url": "https://www.protolabs.com/resources/design-tips/create-production-parts-with-carbon-3d-printing",
+  "schema_version": 2,
+  "sections": [
+    {
+      "hash": "2471dd84421567736c8b4c7b89219bd777b0aece",
+      "heading": "Create Production Parts with Carbon 3D Printing",
+      "level": "h1",
+      "text": "Create Production Parts with Carbon 3D Printing"
+    },
+    {
+      "hash": "0460585d816efeb3eeee1d4de8462db00932695e",
+      "heading": "Tips on how to design for Carbon’s additive manufacturing technology, and how Carbon stacks up against stereolithography and Multi Jet Fusion 3D printing",
+      "level": "h2",
+      "text": "Tips on how to design for Carbon’s additive manufacturing technology, and how Carbon stacks up against stereolithography and Multi Jet Fusion 3D printing"
+    },
+    {
+      "hash": "b3301c48c997b6221b8c01179056004bdedb275a",
+      "heading": "Designing for Carbon’s 3D Printing Technology",
+      "level": "h3",
+      "text": "Designing for Carbon’s 3D Printing Technology Many of the same tactics used to mitigate warping in injection molding apply to 3D printing as well. Maintaining uniform wall thicknesses, adding radii to interior corners, and building support ribs all help with the dimensional stability of Carbon parts and lessen part warpage. Carbon’s technology excels at lattice-type geometries, but struggles with large cross sections caused by bulky, thick parts. Avoid thick walls and ideally stay under 0.1 in. (2.54mm) wall thickness. Try hollowing parts, adding lattices or honeycombs, or adding holes to remove material unnecessary to the functionality of the part. Surfaces 45 degrees and steeper from the draw plane typically do not require supports. Marching walls up and over at 45 degrees instead of hard 90-degree angles will typically make a part build more accurately and require less supports. Once again, adding a radius to internal and external corners often mitigates or even removes the need for supports on many parts. Along these lines, here are important size and design considerations when using Carbon:"
+    },
+    {
+      "hash": "9e67c25ed212ffc7773de16a49bc0a1e33227c37",
+      "heading": "Carbon DLS vs. Stereolithography",
+      "level": "h3",
+      "text": "Carbon DLS vs. Stereolithography Carbon’s technology is a “vat photopolymerization” 3D printing process, which places it in the same technology family as stereolithography (SLA) . Fundamentally, this means it builds parts by curing liquid photopolymers into a solid by selectively exposing them to light. That said, Carbon differs from SLA in a number of ways: Carbon emits light via a digital light projection (DLP) chip similar to how a projector casts an image on a screen. This is in contrast to how SLA draws features, which is at a single point of space at a time with a laser. The implications of this are that Carbon can print much faster (just as you can stamp an image faster than you can draw it) but this does come with a tradeoff for accuracy and surface finish. Carbon technology essentially builds “upside down” in relation to conventional SLA. To facilitate this, Carbon emits the light used for curing through a clear pane at the bottom of the resin vat. Once again, this is a tradeoff. Building this way allows Carbon to build faster but it also requires stronger supports. There are other systems that print parts “upside down” like Carbon, but Carbon has a unique twist in that t..."
+    },
+    {
+      "hash": "148b1acedad618a7d616842f5dd7e21955114bf0",
+      "heading": "Carbon DLS vs. Multi Jet Fusion",
+      "level": "h3",
+      "text": "Carbon DLS vs. Multi Jet Fusion Both Carbon and Multi Jet Fusion (MJF) are well suited for functional prototypes and low-volume production, so when should you use one or the other? Here are some elements to consider: Materials. The materials offered by the two technologies are quite different. MJF prints parts in a general-purpose nylon 12 or in a glass-filled nylon 12. These nylon materials are both moderately stiff and flexible, and have impressive impact resistance. At Protolabs, we offer two Carbon materials—rigid polyurethane and flexible polyurethane. The rigid polyurethane is similar to MJF’s material in stiffness, but offers superior flexibility. The flexible polyurethane is less stiff but offers tremendous flexibility and is similar to molded polypropylene in its material properties. Holes, slots, channels. Though the minimum feature size of both technologies is similar (at about 0.020 in. or 0.5mm), Carbon is much better at forming “negative spaces” like holes, slots, and channels. This is because of the powder used in MJF, and the media is difficult or impossible to remove from small gaps. If the part design has several holes or complex channels, it is likely a better f..."
+    },
+    {
+      "hash": "54184dbe7899217475e0b376fd251dbb8f27cd3e",
+      "heading": "Applications for Carbon DLP 3D Printing Technology",
+      "level": "h3",
+      "text": "Applications for Carbon DLP 3D Printing Technology Carbon is one of the best technologies available for 3D printing plastic parts for low-volume production. Non-bulky parts with moderate-to-high complexity are typically good candidates for this technology. Though critical features can be “dialed-in” for improved tolerances, Carbon has looser tolerances than injection molding so the candidate parts should not require overly tight tolerances. Carbon is frequently used for intricate designs that are challenging to mold and durable 3D-printed components for end-use applications. Some recent high-profile products that Carbon has produced include its work with Adidas and its AlphaEdge 4D running shoe, a Riddell football helmet, and a high-performance bike saddle for cyclists . Carbon parts also are used regularly in medical and dental industries."
+    },
+    {
+      "hash": "43ed170be5129d265e1cafb033c51cb1c365ddf5",
+      "heading": "3D Printing Toolkit",
+      "level": "h3",
+      "text": "3D Printing Toolkit Get in-depth design advice to optimize 3D-printed parts. Designing with additive manufacturing in mind can accelerate production time and reduce overall cost. Check Out The Toolkit"
+    }
+  ],
+  "sitemap_lastmod": "2025-07-11T19:45:00+00:00",
+  "status": 200,
+  "structure_hash": "1a6352f92883322c732476171cee973863118f49",
+  "text_excerpt": "Create Production Parts with Carbon 3D Printing Tips on how to design for Carbon’s additive manufacturing technology, and how Carbon stacks up against stereolithography and Multi Jet Fusion 3D printing Digital light synthesis (DLS) is the signature technology of digital manufacturing company Carbon . It allows for the rapid 3D printing of plastic parts in production-grade materials. DLS technology uses light to set the 3D shape of printed parts, then parts undergo a thermal-curing process that brings them to their final material properties. By combining these processes, Carbon’s additive manufacturing technology is able to blend the speed and design freedom of light-curing 3D printing processes with superior plastic material properties typically not possible with 3D printing. Build platform (1), UV curable resin (2), dead zone (3), oxygen permeable window (4), projector (5). Designing for Carbon’s 3D Printing Technology Many of the same tactics used to mitigate warping in injection molding apply to 3D printing as well. Maintaining uniform wall thicknesses, adding radii to interior corners, and building support ribs all help with the dimensional stability of Carbon parts and lessen...",
+  "text_hash": "c5cdd1a2e06f54d23aa04851f1ae0e21569aea9a",
+  "title": "Create Production Parts with Carbon 3D Printing",
+  "url": "https://www.protolabs.com/resources/design-tips/create-production-parts-with-carbon-3d-printing"
+}

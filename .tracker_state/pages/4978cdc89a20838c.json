@@ -1,0 +1,142 @@
+{
+  "canonical": "https://www.hubs.com/knowledge-base/types-of-cnc-machines",
+  "category": "content",
+  "competitor": "Hubs",
+  "ctas": [],
+  "discovered_via": "sitemap",
+  "fetched_at": "2026-08-17T03:42:14+00:00",
+  "final_url": "https://www.hubs.com/knowledge-base/types-of-cnc-machines",
+  "first_seen_at": "2026-08-17T03:42:14+00:00",
+  "h1": "",
+  "headings": [
+    {
+      "level": "h2",
+      "text": "Types of CNC machines by motion: mills, lathes and routers"
+    },
+    {
+      "level": "h2",
+      "text": "Vertical versus horizontal setups: choosing the right footprint"
+    },
+    {
+      "level": "h2",
+      "text": "Turning centers and Swiss machines: fast parts and tight tolerances"
+    },
+    {
+      "level": "h2",
+      "text": "Laser, plasma, and waterjet cutters: beyond metal chips"
+    },
+    {
+      "level": "h2",
+      "text": "EDM options: wire and sinker for tricky geometries"
+    },
+    {
+      "level": "h2",
+      "text": "Types of CNC machines for automation: multi-axis and robots"
+    },
+    {
+      "level": "h2",
+      "text": "Frequently asked questions"
+    },
+    {
+      "level": "h3",
+      "text": "When should I move from 3-axis to 5-axis?"
+    },
+    {
+      "level": "h3",
+      "text": "Is a CNC router a real CNC machine?"
+    },
+    {
+      "level": "h3",
+      "text": "What is the main advantage of Swiss machining?"
+    }
+  ],
+  "images": [
+    {
+      "alt": "CNC machining in action",
+      "src": "/images/trans.gif"
+    },
+    {
+      "alt": "CNC milling 5-axis",
+      "src": "/images/trans.gif"
+    },
+    {
+      "alt": "CNC machining, 3D printing and sheet metal fabrication parts",
+      "src": "/images/trans.gif"
+    }
+  ],
+  "meta_description": "These are the different types of CNC machines we work with. Read a practical overview of our machines and our extensive processing methods.",
+  "modified_at": "",
+  "monitored_text": "Computer Numerical Control (CNC) is the global standard for precision manufacturing. It uses pre-programmed software to fully automate the movement of machine tools such as mills and lathes. By converting digital designs directly into exact physical coordinates, CNC machines eliminate human error and enable the production of complex components with tight tolerances. Types of CNC machines by motion: mills, lathes and routers CNC machines are categorized by their method of material removal. Mills use rotating tools to cut a stationary workpiece along three axes (X, Y, and Z), making them ideal for complex shapes and pockets. In contrast, lathes rotate the workpiece itself against a stationary tool to achieve perfect cylindrical symmetry for parts such as shafts or bolts. For large-scale projects involving softer materials such as plastics or aluminum, routers are the standard. They operate at higher speeds with larger work envelopes, prioritizing rapid processing over the rigidity of a mill. Vertical versus horizontal setups: choosing the right footprint Selecting the right configuration is a strategic decision based on production volume and part complexity. Vertical Machining Centers (VMCs) are the industry standard for general-purpose work. They are more affordable, easier to set up, and use gravity to help secure the workpiece against the table. The use of heavy materials helps when you work with VMCs. By contrast, Horizontal Machining Centers (HMCs) are engineered for high-volume, 24/7 production. The horizontal orientation allows gravity to naturally pull chips away from the cutting zone. This prevents re-cutting and tool wear, while integrated pallet changers enable the machine to run continuously with minimal downtime. Turning centers and Swiss machines: fast parts and tight tolerances CNC turning is divided into two categories based on part geometry and required stability. Standard turning is used for rigid parts held in a chuck, where the tool moves along a rotating workpiece. For high-precision small parts, especially those that are long and slender, Swiss-type lathes are the standard. These machines use a guide sleeve to support the material directly at the cutting point. This eliminates deflection and allows for sub-micron tolerances on intricate components like medical pins. Laser, plasma, and waterjet cutters: beyond metal chips Beyond traditional chip-making, laser, plasma, and waterjet cutters form the category of 2D-plus machining. These systems use concentrated thermal or mechanical energy to cut profiles from flat sheets with extreme speed. While these are primarily 2D processes, they are termed ‘2D-plus’. This is because they can handle varying thicknesses and, in advanced configurations, tilt the cutting head for beveled edges or countersinks. Laser cutting offers the highest precision for thin to medium materials, while plasma excels at rapid, heavy-duty cutting of thick conductive metals. For materials that are heat-sensitive or extremely thick, waterjet cutting is the standard. It uses a high-pressure stream of water and is abrasive to erode material without creating a heat-affected zone. EDM options: wire and sinker for tricky geometries For materials that are too hard for traditional cutting tools, our Electrical Discharge Machining (EDM) provides a solution by using electrical sparks to erode the material. Wire EDM acts like a high-precision ‘cheese cutter’, using a thin, energized wire to slice through thick plates. It is the standard for complex gears and extrusion dies. When a project requires a specific cavity rather than a through-cut, Sinker (or RAM) EDM is used. By using a custom-shaped electrode to burn a negative image into the workpiece, it creates deep blind holes and sharp internal corners that are physically impossible to reach with a rotating milling tool. Types of CNC machines for automation: multi-axis and robots Nowadays, the industry standard has shifted toward maximizing spindle uptime through advanced automation and hybrid configurations. 5-axis machining has redefined the ‘one-and-done’ manufacturing approach, allowing a machine to access five sides of a part in a single setup. By rotating the part or the cutting head, this process eliminates the need for multiple manual re-fixtures. It reduces lead times and human error while ensuring perfect alignment between features. To support this efficiency, Cobot Integration has become a staple on the shop floor. These collaborative robots handle the repetitive task of part loading and unloading. This is known as ‘machine tending’. It enables ‘lights-out manufacturing’ where production continues autonomously overnight. This trend is further accelerated by the rise of hybrids, which combine the rotating workpiece of a lathe with the live tooling of a mill. These machines blur the traditional lines between categories. This allows for complex and multi-featured components to be completed entirely on a single platform. Subscribe Get the latest manufacturing news delivered to your mailbox. Sign up for our newsletter Sign me up Please enter a valid email address. Leave this field empty Thanks! You're now subscribed to our newsletter. Frequently asked questions When should I move from 3-axis to 5-axis? The shift to 5-axis machining is typically driven by part complexity and the need for precision. With 5-axis machining, you can finish a part in one go, even if it needs to be cut on multiple sides. This eliminates the need for multiple manual setups. This not only slashes lead times but also removes the risk of alignment errors that occur when a part is re-fixtured. If your part has complex organic shapes or deep cavities that a standard 3-axis mill cannot reach without extra-long and unstable tooling - 5-axis is the professional standard. Is a CNC router a real CNC machine? While less rigid than a vertical machining center, a CNC router is a high-speed precision tool designed for a specific work envelope. It uses the same G-code logic and digital control as any industrial mill. In modern production, routers are the standard for the rapid processing of large-format sheets and oversized components in softer materials such as plastics, wood, and aluminum, where high spindle speeds are more critical compared to raw cutting force. Because of this, routers are less suitable for hard steel types. What is the main advantage of Swiss machining? The primary advantage of Swiss-type machining is its unrivalled stability for long and slender parts. By using a guide sleeve to support the workpiece directly at the cutting point, the machine eliminates material deflection. This allows you to achieve sub-micron tolerances on intricate components (such as medical implants or delicate electronics) that would be physically impossible to turn accurately on a standard lathe due to vibration and bending.",
+  "published_at": "",
+  "requested_url": "https://www.hubs.com/knowledge-base/types-of-cnc-machines",
+  "schema_version": 2,
+  "sections": [
+    {
+      "hash": "430cdf46ea686bff55535728c9b3bddeaa1a1c28",
+      "heading": "Types of CNC machines by motion: mills, lathes and routers",
+      "level": "h2",
+      "text": "Types of CNC machines by motion: mills, lathes and routers CNC machines are categorized by their method of material removal. Mills use rotating tools to cut a stationary workpiece along three axes (X, Y, and Z), making them ideal for complex shapes and pockets. In contrast, lathes rotate the workpiece itself against a stationary tool to achieve perfect cylindrical symmetry for parts such as shafts or bolts. For large-scale projects involving softer materials such as plastics or aluminum, routers are the standard. They operate at higher speeds with larger work envelopes, prioritizing rapid processing over the rigidity of a mill."
+    },
+    {
+      "hash": "9bda45422273afc25f610ff9ebf1b1f64ca2eafb",
+      "heading": "Vertical versus horizontal setups: choosing the right footprint",
+      "level": "h2",
+      "text": "Vertical versus horizontal setups: choosing the right footprint Selecting the right configuration is a strategic decision based on production volume and part complexity. Vertical Machining Centers (VMCs) are the industry standard for general-purpose work. They are more affordable, easier to set up, and use gravity to help secure the workpiece against the table. The use of heavy materials helps when you work with VMCs. By contrast, Horizontal Machining Centers (HMCs) are engineered for high-volume, 24/7 production. The horizontal orientation allows gravity to naturally pull chips away from the cutting zone. This prevents re-cutting and tool wear, while integrated pallet changers enable the machine to run continuously with minimal downtime."
+    },
+    {
+      "hash": "02b35f1f0edca87353bfec3707d79c556832b300",
+      "heading": "Turning centers and Swiss machines: fast parts and tight tolerances",
+      "level": "h2",
+      "text": "Turning centers and Swiss machines: fast parts and tight tolerances CNC turning is divided into two categories based on part geometry and required stability. Standard turning is used for rigid parts held in a chuck, where the tool moves along a rotating workpiece. For high-precision small parts, especially those that are long and slender, Swiss-type lathes are the standard. These machines use a guide sleeve to support the material directly at the cutting point. This eliminates deflection and allows for sub-micron tolerances on intricate components like medical pins."
+    },
+    {
+      "hash": "49d213a6bcb73aa02929a29b53772978f2c9fae3",
+      "heading": "Laser, plasma, and waterjet cutters: beyond metal chips",
+      "level": "h2",
+      "text": "Laser, plasma, and waterjet cutters: beyond metal chips Beyond traditional chip-making, laser, plasma, and waterjet cutters form the category of 2D-plus machining. These systems use concentrated thermal or mechanical energy to cut profiles from flat sheets with extreme speed. While these are primarily 2D processes, they are termed ‘2D-plus’. This is because they can handle varying thicknesses and, in advanced configurations, tilt the cutting head for beveled edges or countersinks. Laser cutting offers the highest precision for thin to medium materials, while plasma excels at rapid, heavy-duty cutting of thick conductive metals. For materials that are heat-sensitive or extremely thick, waterjet cutting is the standard. It uses a high-pressure stream of water and is abrasive to erode material without creating a heat-affected zone."
+    },
+    {
+      "hash": "c1b2d2c4faa3e1477548ed3c9876b9713e3e7874",
+      "heading": "EDM options: wire and sinker for tricky geometries",
+      "level": "h2",
+      "text": "EDM options: wire and sinker for tricky geometries For materials that are too hard for traditional cutting tools, our Electrical Discharge Machining (EDM) provides a solution by using electrical sparks to erode the material. Wire EDM acts like a high-precision ‘cheese cutter’, using a thin, energized wire to slice through thick plates. It is the standard for complex gears and extrusion dies. When a project requires a specific cavity rather than a through-cut, Sinker (or RAM) EDM is used. By using a custom-shaped electrode to burn a negative image into the workpiece, it creates deep blind holes and sharp internal corners that are physically impossible to reach with a rotating milling tool."
+    },
+    {
+      "hash": "fed155b159b9fcb5a68d3dfdc24e3981d8a4b224",
+      "heading": "Types of CNC machines for automation: multi-axis and robots",
+      "level": "h2",
+      "text": "Types of CNC machines for automation: multi-axis and robots Nowadays, the industry standard has shifted toward maximizing spindle uptime through advanced automation and hybrid configurations. 5-axis machining has redefined the ‘one-and-done’ manufacturing approach, allowing a machine to access five sides of a part in a single setup. By rotating the part or the cutting head, this process eliminates the need for multiple manual re-fixtures. It reduces lead times and human error while ensuring perfect alignment between features. To support this efficiency, Cobot Integration has become a staple on the shop floor. These collaborative robots handle the repetitive task of part loading and unloading. This is known as ‘machine tending’. It enables ‘lights-out manufacturing’ where production continues autonomously overnight. This trend is further accelerated by the rise of hybrids, which combine the rotating workpiece of a lathe with the live tooling of a mill. These machines blur the traditional lines between categories. This allows for complex and multi-featured components to be completed entirely on a single platform."
+    },
+    {
+      "hash": "02842b08377539be654ab1179cf41e1d947c4424",
+      "heading": "Frequently asked questions",
+      "level": "h2",
+      "text": "Frequently asked questions Frequently asked questions"
+    },
+    {
+      "hash": "f92748eb423ec44400ca1731b5432fd69b650a24",
+      "heading": "When should I move from 3-axis to 5-axis?",
+      "level": "h3",
+      "text": "When should I move from 3-axis to 5-axis? The shift to 5-axis machining is typically driven by part complexity and the need for precision. With 5-axis machining, you can finish a part in one go, even if it needs to be cut on multiple sides. This eliminates the need for multiple manual setups. This not only slashes lead times but also removes the risk of alignment errors that occur when a part is re-fixtured. If your part has complex organic shapes or deep cavities that a standard 3-axis mill cannot reach without extra-long and unstable tooling - 5-axis is the professional standard."
+    },
+    {
+      "hash": "a4bcfffe66f005c3bcafecb681a7a410d15183a3",
+      "heading": "Is a CNC router a real CNC machine?",
+      "level": "h3",
+      "text": "Is a CNC router a real CNC machine? While less rigid than a vertical machining center, a CNC router is a high-speed precision tool designed for a specific work envelope. It uses the same G-code logic and digital control as any industrial mill. In modern production, routers are the standard for the rapid processing of large-format sheets and oversized components in softer materials such as plastics, wood, and aluminum, where high spindle speeds are more critical compared to raw cutting force. Because of this, routers are less suitable for hard steel types."
+    },
+    {
+      "hash": "4e049da9fd5babf33ca9d46d4468d05578a5ae4f",
+      "heading": "What is the main advantage of Swiss machining?",
+      "level": "h3",
+      "text": "What is the main advantage of Swiss machining? The primary advantage of Swiss-type machining is its unrivalled stability for long and slender parts. By using a guide sleeve to support the workpiece directly at the cutting point, the machine eliminates material deflection. This allows you to achieve sub-micron tolerances on intricate components (such as medical implants or delicate electronics) that would be physically impossible to turn accurately on a standard lathe due to vibration and bending."
+    }
+  ],
+  "sitemap_lastmod": "2026-05-29T09:50:57+00:00",
+  "status": 200,
+  "structure_hash": "c0c558969a5ee5cd004ab1ecdf7c7df8d94721b7",
+  "text_excerpt": "Computer Numerical Control (CNC) is the global standard for precision manufacturing. It uses pre-programmed software to fully automate the movement of machine tools such as mills and lathes. By converting digital designs directly into exact physical coordinates, CNC machines eliminate human error and enable the production of complex components with tight tolerances. Types of CNC machines by motion: mills, lathes and routers CNC machines are categorized by their method of material removal. Mills use rotating tools to cut a stationary workpiece along three axes (X, Y, and Z), making them ideal for complex shapes and pockets. In contrast, lathes rotate the workpiece itself against a stationary tool to achieve perfect cylindrical symmetry for parts such as shafts or bolts. For large-scale projects involving softer materials such as plastics or aluminum, routers are the standard. They operate at higher speeds with larger work envelopes, prioritizing rapid processing over the rigidity of a mill. Vertical versus horizontal setups: choosing the right footprint Selecting the right configuration is a strategic decision based on production volume and part complexity. Vertical Machining Cente...",
+  "text_hash": "d6b9730730a1072f374e134625b5b63e255970f6",
+  "title": "Types of CNC machines: A practical overview | Protolabs Network",
+  "url": "https://www.hubs.com/knowledge-base/types-of-cnc-machines"
+}

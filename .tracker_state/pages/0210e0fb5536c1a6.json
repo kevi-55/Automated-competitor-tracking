@@ -1,0 +1,123 @@
+{
+  "canonical": "https://www.hubs.com/knowledge-base/petg-vs-abs",
+  "category": "content",
+  "competitor": "Hubs",
+  "ctas": [
+    {
+      "href": "https://www.hubs.com/manufacture?technology=cnc-machining",
+      "text": "upload your CAD file"
+    },
+    {
+      "href": "https://www.hubs.com/contact",
+      "text": "Contact us"
+    }
+  ],
+  "discovered_via": "sitemap",
+  "fetched_at": "2026-08-17T03:41:53+00:00",
+  "final_url": "https://www.hubs.com/knowledge-base/petg-vs-abs",
+  "first_seen_at": "2026-08-17T03:41:53+00:00",
+  "h1": "",
+  "headings": [
+    {
+      "level": "h2",
+      "text": "Mechanical properties: strength and impact resistance"
+    },
+    {
+      "level": "h2",
+      "text": "Performance under different temperatures"
+    },
+    {
+      "level": "h2",
+      "text": "The printability of ABS compared to PETG"
+    },
+    {
+      "level": "h2",
+      "text": "Environmental durability of PETG and ABS"
+    },
+    {
+      "level": "h2",
+      "text": "The differences post-processing"
+    },
+    {
+      "level": "h2",
+      "text": "The safety considerations"
+    },
+    {
+      "level": "h2",
+      "text": "Main differences between ABS and PETG"
+    },
+    {
+      "level": "h2",
+      "text": "Alternatives to ABS and PETG"
+    }
+  ],
+  "images": [
+    {
+      "alt": "CNC machining, 3D printing and sheet metal fabrication parts",
+      "src": "/images/trans.gif"
+    }
+  ],
+  "meta_description": "Discover all the advantages and disadvantages of PETG versus ABS. Ask our experts for personalized advice or upload your CAD file.",
+  "modified_at": "",
+  "monitored_text": "ABS remains the traditional engineering standard for durability, offering high-impact resistance and thermal stability for hardware that has to survive in harsh environments or high temperatures. However, PETG has emerged as a preferred alternative for many functional applications as it provides similar mechanical strength with significantly better ease of use. ABS requires a heated chamber to prevent warping, whereas PETG offers similar strength and better chemical resistance with much easier printing conditions. Mechanical properties: strength and impact resistance Mechanical strength in 3D printing is defined by how a component handles specific stress. PETG has higher tensile strength, which means it can support heavier and constant loads without deforming or breaking. By contrast, ABS offers superior impact resistance as its molecular structure absorbs sudden kinetic energy more effectively. PETG may shatter upon impact, while ABS absorbs shocks and stays intact. Choosing the right material is a direct trade-off between resisting constant tension or enduring abrupt impacts. Performance under different temperatures Thermal stability is one of the clearest dividing lines between these two materials. ABS has a significantly higher Heat Deflection Temperature (HDT), typically around 90°C to 100°C. This allows it to maintain its structural integrity in high-heat environments, such as car interiors or industrial enclosures. On the other hand, PETG begins to soften at roughly 70°C to 75°C. While PETG is sufficient for most indoor or handheld applications, it risks deforming or sagging if exposed to boiling water or direct sunlight. Engineers should select ABS for any component that must withstand sustained thermal stress, without losing its shape. The printability of ABS compared to PETG The ‘difficulty curve’ of these materials is largely defined by their thermal behavior and surface interactions during the printing process. ABS is notoriously difficult to master because its high shrink rate requires a strictly controlled, heated enclosure to prevent warping or layer splitting. Without a consistent ambient temperature, large ABS builds often pull away from the build plate as they cool. By contrast, PETG is highly accessible for open-frame printers due to its minimal shrinkage and excellent layer bonding. However, PETG presents a unique risk: its adhesion is so aggressive that it can physically fuse to glass or PEI surfaces. You must therefore apply a glue stick to create a protective layer, as PETG can bond so strongly to glass that it tears pieces out of the plate during the removal of the plate. Environmental durability of PETG and ABS For outdoor and chemical performance, PETG is the superior choice for long-term exposure as it is naturally UV resistant. It retains its structural integrity and color without becoming brittle after prolonged sun exposure. PETG also exhibits excellent chemical resistance, standing up well to alcohols, acids, and common cleaning agents. On the other hand, ABS degrades when it is exposed to UV light, which leads to surface cracking and eventual mechanical failure. It remains highly sensitive to chemical contact and can be easily damaged or even completely dissolved by solvents like acetone. This is often used for smoothing but poses a risk in industrial environments with chemical exposure. The differences post-processing Despite its sensitivity to chemicals, ABS offers a unique post-processing advantage through acetone vapor smoothing. By exposing the component to acetone fumes, the outer surface slightly melts and fuses, completely removing layer lines and creating a glossy, professional finish that mimics injection molding. This makes ABS the ideal choice for aesthetic prototypes or consumer-facing hardware. However, PETG is notoriously difficult to post-process. Its ‘waxy’ surface resistance makes it much harder to sand down or paint effectively, also because of its low surface energy. Because coatings often struggle to bond with the material, PETG is better suited for raw functional components, where the original surface finish is acceptable and additional refinement is unnecessary. The safety considerations Safety and air quality are critical considerations when working with these materials. ABS is notably more hazardous during production, as it emits toxic Volatile Organic Compounds (VOCs) and strong, unpleasant odors that can cause headaches or respiratory irritation. However, after production, ABS is safe to use. To manage these health risks, ABS requires a dedicated ventilation system or a high-quality HEPA filtration unit to capture harmful airborne particles. PETG is the superior alternative as it is virtually odorless and produces far fewer harmful emissions during the printing process. This makes PETG safe for use in shared environments where professional-grade extraction systems are not available. Main differences between ABS and PETG The choice between ABS and PETG ultimately depends on whether your priority lies in thermal resilience or environmental versatility. ABS remains the industrial legacy choice for components that must survive high-heat environments or require a smooth, injection-molded finish through acetone smoothing. However, ABS’ high shrink rate and toxic emissions make it a high-maintenance material that demands specialized hardware. PETG has emerged as the modern standard for general-purpose functional builds, offering superior UV and chemical resistance with a much easier and more office-friendly printing process. While it lacks the heat deflection and post-processing flexibility of ABS, PETG provides a more accessible and reliable path for creating durable, structural components on almost any FDM machine. Alternatives to ABS and PETG Beyond ABS and PETG, ASA is the ideal upgrade for outdoor use, offering ABS-like strength with superior UV resistance. For simpler projects, Tough PLA provides a rigid, easy-to-print alternative, while Glass-Filled Nylon (PA-GF) reinforced filaments offer maximum stiffness for high-stress components. To find the ideal material for your project, upload your CAD file to our Instant Quoting Engine for an immediate comparison of costs, lead times, and mechanical properties. Contact us for expert advice on material performance and design optimization. Subscribe Get the latest manufacturing news delivered to your mailbox. Sign up for our newsletter Sign me up Please enter a valid email address. Leave this field empty Thanks! You're now subscribed to our newsletter.",
+  "published_at": "",
+  "requested_url": "https://www.hubs.com/knowledge-base/petg-vs-abs",
+  "schema_version": 2,
+  "sections": [
+    {
+      "hash": "f5a502db60b958d73ef319bc5a8d231ee117b664",
+      "heading": "Mechanical properties: strength and impact resistance",
+      "level": "h2",
+      "text": "Mechanical properties: strength and impact resistance Mechanical strength in 3D printing is defined by how a component handles specific stress. PETG has higher tensile strength, which means it can support heavier and constant loads without deforming or breaking. By contrast, ABS offers superior impact resistance as its molecular structure absorbs sudden kinetic energy more effectively. PETG may shatter upon impact, while ABS absorbs shocks and stays intact. Choosing the right material is a direct trade-off between resisting constant tension or enduring abrupt impacts."
+    },
+    {
+      "hash": "aee7be77cc2ea3a83bbc55f7f00a4c16c5c32dce",
+      "heading": "Performance under different temperatures",
+      "level": "h2",
+      "text": "Performance under different temperatures Thermal stability is one of the clearest dividing lines between these two materials. ABS has a significantly higher Heat Deflection Temperature (HDT), typically around 90°C to 100°C. This allows it to maintain its structural integrity in high-heat environments, such as car interiors or industrial enclosures. On the other hand, PETG begins to soften at roughly 70°C to 75°C. While PETG is sufficient for most indoor or handheld applications, it risks deforming or sagging if exposed to boiling water or direct sunlight. Engineers should select ABS for any component that must withstand sustained thermal stress, without losing its shape."
+    },
+    {
+      "hash": "3f3fbb7a297e8f48a1ce722bc5f1544a09404e4d",
+      "heading": "The printability of ABS compared to PETG",
+      "level": "h2",
+      "text": "The printability of ABS compared to PETG The ‘difficulty curve’ of these materials is largely defined by their thermal behavior and surface interactions during the printing process. ABS is notoriously difficult to master because its high shrink rate requires a strictly controlled, heated enclosure to prevent warping or layer splitting. Without a consistent ambient temperature, large ABS builds often pull away from the build plate as they cool. By contrast, PETG is highly accessible for open-frame printers due to its minimal shrinkage and excellent layer bonding. However, PETG presents a unique risk: its adhesion is so aggressive that it can physically fuse to glass or PEI surfaces. You must therefore apply a glue stick to create a protective layer, as PETG can bond so strongly to glass that it tears pieces out of the plate during the removal of the plate."
+    },
+    {
+      "hash": "0f5b9df23ca771611977766b255c5d5dee780e3e",
+      "heading": "Environmental durability of PETG and ABS",
+      "level": "h2",
+      "text": "Environmental durability of PETG and ABS For outdoor and chemical performance, PETG is the superior choice for long-term exposure as it is naturally UV resistant. It retains its structural integrity and color without becoming brittle after prolonged sun exposure. PETG also exhibits excellent chemical resistance, standing up well to alcohols, acids, and common cleaning agents. On the other hand, ABS degrades when it is exposed to UV light, which leads to surface cracking and eventual mechanical failure. It remains highly sensitive to chemical contact and can be easily damaged or even completely dissolved by solvents like acetone. This is often used for smoothing but poses a risk in industrial environments with chemical exposure."
+    },
+    {
+      "hash": "70854c19f51cd78d80598f0a7843b1bf5f95a0c0",
+      "heading": "The differences post-processing",
+      "level": "h2",
+      "text": "The differences post-processing Despite its sensitivity to chemicals, ABS offers a unique post-processing advantage through acetone vapor smoothing. By exposing the component to acetone fumes, the outer surface slightly melts and fuses, completely removing layer lines and creating a glossy, professional finish that mimics injection molding. This makes ABS the ideal choice for aesthetic prototypes or consumer-facing hardware. However, PETG is notoriously difficult to post-process. Its ‘waxy’ surface resistance makes it much harder to sand down or paint effectively, also because of its low surface energy. Because coatings often struggle to bond with the material, PETG is better suited for raw functional components, where the original surface finish is acceptable and additional refinement is unnecessary."
+    },
+    {
+      "hash": "29f8d87bb49243b84b4b54ce7f5eceeaec79b5a4",
+      "heading": "The safety considerations",
+      "level": "h2",
+      "text": "The safety considerations Safety and air quality are critical considerations when working with these materials. ABS is notably more hazardous during production, as it emits toxic Volatile Organic Compounds (VOCs) and strong, unpleasant odors that can cause headaches or respiratory irritation. However, after production, ABS is safe to use. To manage these health risks, ABS requires a dedicated ventilation system or a high-quality HEPA filtration unit to capture harmful airborne particles. PETG is the superior alternative as it is virtually odorless and produces far fewer harmful emissions during the printing process. This makes PETG safe for use in shared environments where professional-grade extraction systems are not available."
+    },
+    {
+      "hash": "747ac3e0343648c21dfd26596542846fdfe2ec91",
+      "heading": "Main differences between ABS and PETG",
+      "level": "h2",
+      "text": "Main differences between ABS and PETG The choice between ABS and PETG ultimately depends on whether your priority lies in thermal resilience or environmental versatility. ABS remains the industrial legacy choice for components that must survive high-heat environments or require a smooth, injection-molded finish through acetone smoothing. However, ABS’ high shrink rate and toxic emissions make it a high-maintenance material that demands specialized hardware. PETG has emerged as the modern standard for general-purpose functional builds, offering superior UV and chemical resistance with a much easier and more office-friendly printing process. While it lacks the heat deflection and post-processing flexibility of ABS, PETG provides a more accessible and reliable path for creating durable, structural components on almost any FDM machine."
+    },
+    {
+      "hash": "009873bb0928bd70b43ff42f076d84d2a4f25a27",
+      "heading": "Alternatives to ABS and PETG",
+      "level": "h2",
+      "text": "Alternatives to ABS and PETG Beyond ABS and PETG, ASA is the ideal upgrade for outdoor use, offering ABS-like strength with superior UV resistance. For simpler projects, Tough PLA provides a rigid, easy-to-print alternative, while Glass-Filled Nylon (PA-GF) reinforced filaments offer maximum stiffness for high-stress components. To find the ideal material for your project, upload your CAD file to our Instant Quoting Engine for an immediate comparison of costs, lead times, and mechanical properties. Contact us for expert advice on material performance and design optimization."
+    }
+  ],
+  "sitemap_lastmod": "2026-06-24T11:09:41+00:00",
+  "status": 200,
+  "structure_hash": "c67bbb42c2d5a29f9fc770d619edb1e02527284a",
+  "text_excerpt": "ABS remains the traditional engineering standard for durability, offering high-impact resistance and thermal stability for hardware that has to survive in harsh environments or high temperatures. However, PETG has emerged as a preferred alternative for many functional applications as it provides similar mechanical strength with significantly better ease of use. ABS requires a heated chamber to prevent warping, whereas PETG offers similar strength and better chemical resistance with much easier printing conditions. Mechanical properties: strength and impact resistance Mechanical strength in 3D printing is defined by how a component handles specific stress. PETG has higher tensile strength, which means it can support heavier and constant loads without deforming or breaking. By contrast, ABS offers superior impact resistance as its molecular structure absorbs sudden kinetic energy more effectively. PETG may shatter upon impact, while ABS absorbs shocks and stays intact. Choosing the right material is a direct trade-off between resisting constant tension or enduring abrupt impacts. Performance under different temperatures Thermal stability is one of the clearest dividing lines between...",
+  "text_hash": "3acc432dc5c875e84f3cbb3d15fca0ba41f66d36",
+  "title": "ABS versus PETG: a detailed comparison | Protolabs Network",
+  "url": "https://www.hubs.com/knowledge-base/petg-vs-abs"
+}

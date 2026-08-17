@@ -1,0 +1,126 @@
+{
+  "canonical": "https://jlccnc.com/help/article/iso-2768-tolerance-standards-for-cnc-machining",
+  "category": "content",
+  "competitor": "JLC CNC",
+  "ctas": [],
+  "discovered_via": "sitemap",
+  "fetched_at": "2026-08-17T03:50:17+00:00",
+  "final_url": "https://jlccnc.com/help/article/iso-2768-tolerance-standards-for-cnc-machining",
+  "first_seen_at": "2026-08-17T03:50:17+00:00",
+  "h1": "ISO 2768 Tolerance Standards for CNC Machining",
+  "headings": [
+    {
+      "level": "h1",
+      "text": "ISO 2768 Tolerance Standards for CNC Machining"
+    },
+    {
+      "level": "h3",
+      "text": "Introduction"
+    },
+    {
+      "level": "h3",
+      "text": "ISO 2768 - 1: Linear and Angular Dimensions"
+    },
+    {
+      "level": "h3",
+      "text": "ISO 2768 - 2: General Tolerances for features"
+    },
+    {
+      "level": "h3",
+      "text": "General tolerances in the drawing"
+    },
+    {
+      "level": "h3",
+      "text": "Conclusion"
+    }
+  ],
+  "images": [
+    {
+      "alt": "",
+      "src": "/cnc-platform/img/help_search.18c576a.svg"
+    },
+    {
+      "alt": "",
+      "src": "https://jlcpcb.com//msgCustomerMessage/downloadMessageFile?fileUploadAccessId=1b972d1db5e34b2c9f7324b348971d0c"
+    },
+    {
+      "alt": "",
+      "src": "https://jlcpcb.com//msgCustomerMessage/downloadMessageFile?fileUploadAccessId=1e699cb07dfa48a8bf2c65fb03fc54e7"
+    },
+    {
+      "alt": "",
+      "src": "https://jlcpcb.com//msgCustomerMessage/downloadMessageFile?fileUploadAccessId=1297e6c3572c46a2a615cd310a4b6ae1"
+    },
+    {
+      "alt": "",
+      "src": "https://jlcpcb.com//msgCustomerMessage/downloadMessageFile?fileUploadAccessId=486cf03d07f243b3a3e4205972331b62"
+    },
+    {
+      "alt": "",
+      "src": "https://jlcpcb.com//msgCustomerMessage/downloadMessageFile?fileUploadAccessId=37a9d128f99442838293246f48ebf4d3"
+    },
+    {
+      "alt": "",
+      "src": "https://jlcpcb.com//msgCustomerMessage/downloadMessageFile?fileUploadAccessId=ec1f13eaeeb5424aac37997fd6c1afb8"
+    },
+    {
+      "alt": "",
+      "src": "https://jlcpcb.com//msgCustomerMessage/downloadMessageFile?fileUploadAccessId=753621cdb58243bc8ffc9b692b20d2bc"
+    },
+    {
+      "alt": "",
+      "src": "https://jlcpcb.com//msgCustomerMessage/downloadMessageFile?fileUploadAccessId=1d80cb594da745dbbed367d8d326bd44"
+    }
+  ],
+  "meta_description": "ISO 2768 Tolerance Standards for CNC Machining",
+  "modified_at": "",
+  "monitored_text": "Help Center Help Center CNC Machining Design ISO 2768 Tolerance Standards for CNC Machining Help Center Ordering CNC Machining Ordering Sheet Metal Ordering CNC Machining Materials Aluminum CNC Machining Copper CNC Machining Plastic CNC Machining Stainless Steel CNC Machining Steel Alloy CNC Machining Sheet Metal Materials Aluminum Stainless Steel Alloy Steel CNC Machining Tutorials CNC Machining Design CNC Machining Knowledge Sheet Metal Tutorials Sheet Metal Design CNC Machine Basic Knowledge 5-Axis CNC Machine Privacy&Policies Coupon Policy Shipping Policies Policies ISO 2768 Tolerance Standards for CNC Machining Last updated on Jun 14, 2025 Introduction ISO 2768 is widely used in various industries, including CNC machining, to ensure consistent interpretation and application of tolerances. It is also available as a DIN standard in Germany. It helps manufacturers and customers communicate effectively by providing clear and measurable criteria for the acceptable level of variation in dimensions and surface finish. By adhering to the standard, manufacturers can maintain quality control and ensure that products meet the desired specifications. It consists of two parts: ISO 2768-1 and ISO 2768-2. ISO 2768-1 specifies general tolerances for linear and angular dimensions of workpieces. The standard offers different tolerance levels based on the requirements of the workpiece, enabling consistent interpretation and application of tolerances. ISO 2768-2 focuses on surface roughness requirements. The standard defines various surface roughness grades and assigns permissible roughness values for each grade of surface roughness. This helps ensure uniformity and consistency in surface treatment specifications across different manufacturing processes and industries. ISO 2768 - 1: Linear and Angular Dimensions ISO 2768-1 aims to simplify drawing indications and provides general tolerances categorized into four tolerance classes: fine (f), medium (m), coarse (c), and very coarse (v). It covers dimensions such as external sizes, internal sizes, step sizes, diameters, radii, distances, external radii, and chamfer heights for broken edges. Based on your machining capabilities and design requirements, you can select the most suitable tolerance class from the following tolerance table, which corresponds to the 4 class precision levels. Table 1.1 Linear Dimensions For nominal sizes below 0.5 mm, the deviations shall be indicated adjacent to the relevant nominal size(s). Table 1.2 External Radii and Chamfer Heights For nominal sizes below 0.5 mm, the deviations shall be indicated adjacent to the relevant nominal size(s). Table 1.3 Angular Dimensions ISO 2768 - 2: General Tolerances for features ISO 2768-2 intends to simplify drawings and provides general tolerances categorized into three tolerance classes: H, K, and L. This part of the standard focuses on general geometrical tolerance ranges, including flatness and straightness, cylindricity, and circularity. Similar to ISO 2768 Part 1, ISO 2768 Part 2 also provides nominal ranges and deviations. However, the difference lies in the way we define and specify those deviations. Table 2.1 provides the general tolerances for straightness and flatness. To determine the appropriate table value, the length of the relevant line is considered for straightness tolerances, while for flatness tolerances, the larger side length of the surface or the diameter of the circular surface is taken into account. The general tolerance for roundness is equal to the numerical value of the diameter tolerance. However, it must never exceed the value specified in Table 2.1 for the concentricity tolerance. The general tolerance for roundness for cylindricity is not specified. The general tolerance for parallelism is equal to the numerical value of the dimensional tolerance or the flatness or straightness tolerance, whichever is larger. Table 2.1 – General Tolerances on Straightness and Flatness The general tolerances for perpendicularity are provided in Table 2.2. The longer of the two legs forming the right angle is used as the reference element. If the form elements have the same nominal dimension, either one can be used as the reference element. Table 2.2 – General Tolerances on Perpendicularity The general tolerances for symmetry are established in Table 2.3. The longer of the two form elements is considered as the reference element. If the form elements have the same nominal dimension, either one can be used as the reference element. Table 2.3 – General Tolerances on Symmetry The general tolerance for coaxiality is not specified. In extreme cases, the coaxiality deviation can be as large as the values indicated in Table 2.4 for concentricity because the roundness deviation consists of both coaxial and circularity deviations. The general tolerances for runout (circular runout, total runout, and any rotational surfaces) are specified in Table 4. When determining the reference element for general tolerances of runout, the bearing locations are considered if they are marked as such. Otherwise, for runout, the longer of the two form elements is taken as the reference element. If both form elements have the same nominal dimension, either one can be used as the reference element. Table 2.4 – General Tolerances on Circular Run-Out General tolerances in the drawing If the general tolerances according to ISO 2768 apply in conjunction with the general tolerances according to ISO 2768-1, then the following entries are to be made in or next to the drawing title block: a) ISO 2768 b) the tolerance class according to ISO 2768-1; c) the tolerance class according to this part of ISO 2768. Example: ISO 2768 - mK In this case, the general tolerances for angular dimensions according to ISO 2768-1 do not apply to unregistered 90° angles, since ISO 2768-2 specifies general tolerances for squareness. If the general tolerances for dimensions (tolerance class m) do not apply, the corresponding code letter is omitted. Example: ISO 2768-K In cases where the envelope condition E is to apply to 'all individual dimension elements ', the letter E becomes the general designation.\" Example: ISO 2768 - mK-E Conclusion ISO 2768 encompasses essential geometric features and tolerances widely employed in the manufacturing industry. It establishes tolerance values that aid in streamlining the design and production processes. However, it's important to note that there are additional standards within the field of Geometric Dimensioning and Tolerancing (GD&T), like ASME Y14.5 standard. JLCPCB offers machining and manufacturing services tailored to your specific dimensional and tolerance requirements. Our team of online supporting engineers is readily available to assist you with any technical queries, ensuring seamless implementation of your innovative ideas.",
+  "published_at": "2025-06-14T00:00:00+00:00",
+  "requested_url": "http://jlccnc.com/help/article/ISO-2768-Tolerance-Standards-for-CNC-Machining",
+  "schema_version": 2,
+  "sections": [
+    {
+      "hash": "fb709dfaa009d7db36aefbad8b5a9f2ad2d65dee",
+      "heading": "ISO 2768 Tolerance Standards for CNC Machining",
+      "level": "h1",
+      "text": "ISO 2768 Tolerance Standards for CNC Machining Last updated on Jun 14, 2025 Introduction ISO 2768 is widely used in various industries, including CNC machining, to ensure consistent interpretation and application of tolerances. It is also available as a DIN standard in Germany. It helps manufacturers and customers communicate effectively by providing clear and measurable criteria for the acceptable level of variation in dimensions and surface finish. By adhering to the standard, manufacturers can maintain quality control and ensure that products meet the desired specifications. It consists of two parts: ISO 2768-1 and ISO 2768-2. ISO 2768-1 specifies general tolerances for linear and angular dimensions of workpieces. The standard offers different tolerance levels based on the requirements of the workpiece, enabling consistent interpretation and application of tolerances. ISO 2768-2 focuses on surface roughness requirements. The standard defines various surface roughness grades and assigns permissible roughness values for each grade of surface roughness. This helps ensure uniformity and consistency in surface treatment specifications across different manufacturing processes and ind..."
+    },
+    {
+      "hash": "0381ff0c59e9cff02e74d66b4a33fac5eda39418",
+      "heading": "Introduction",
+      "level": "h3",
+      "text": "Introduction ISO 2768 is widely used in various industries, including CNC machining, to ensure consistent interpretation and application of tolerances. It is also available as a DIN standard in Germany. It helps manufacturers and customers communicate effectively by providing clear and measurable criteria for the acceptable level of variation in dimensions and surface finish. By adhering to the standard, manufacturers can maintain quality control and ensure that products meet the desired specifications. It consists of two parts: ISO 2768-1 and ISO 2768-2. ISO 2768-1 specifies general tolerances for linear and angular dimensions of workpieces. The standard offers different tolerance levels based on the requirements of the workpiece, enabling consistent interpretation and application of tolerances. ISO 2768-2 focuses on surface roughness requirements. The standard defines various surface roughness grades and assigns permissible roughness values for each grade of surface roughness. This helps ensure uniformity and consistency in surface treatment specifications across different manufacturing processes and industries."
+    },
+    {
+      "hash": "1e23228adf0fd5eec35224b3a7c4fd4a6fad421f",
+      "heading": "ISO 2768 - 1: Linear and Angular Dimensions",
+      "level": "h3",
+      "text": "ISO 2768 - 1: Linear and Angular Dimensions ISO 2768-1 aims to simplify drawing indications and provides general tolerances categorized into four tolerance classes: fine (f), medium (m), coarse (c), and very coarse (v). It covers dimensions such as external sizes, internal sizes, step sizes, diameters, radii, distances, external radii, and chamfer heights for broken edges. Based on your machining capabilities and design requirements, you can select the most suitable tolerance class from the following tolerance table, which corresponds to the 4 class precision levels. Table 1.1 Linear Dimensions For nominal sizes below 0.5 mm, the deviations shall be indicated adjacent to the relevant nominal size(s)."
+    },
+    {
+      "hash": "758bee5ce92fcaf142c9b4497b93178d674b170d",
+      "heading": "ISO 2768 - 2: General Tolerances for features",
+      "level": "h3",
+      "text": "ISO 2768 - 2: General Tolerances for features ISO 2768-2 intends to simplify drawings and provides general tolerances categorized into three tolerance classes: H, K, and L. This part of the standard focuses on general geometrical tolerance ranges, including flatness and straightness, cylindricity, and circularity. Similar to ISO 2768 Part 1, ISO 2768 Part 2 also provides nominal ranges and deviations. However, the difference lies in the way we define and specify those deviations. Table 2.1 provides the general tolerances for straightness and flatness. To determine the appropriate table value, the length of the relevant line is considered for straightness tolerances, while for flatness tolerances, the larger side length of the surface or the diameter of the circular surface is taken into account. The general tolerance for roundness is equal to the numerical value of the diameter tolerance. However, it must never exceed the value specified in Table 2.1 for the concentricity tolerance. The general tolerance for roundness for cylindricity is not specified. The general tolerance for parallelism is equal to the numerical value of the dimensional tolerance or the flatness or straightness..."
+    },
+    {
+      "hash": "69ea4ca4e87e2a6aa7651bded13aafaeb924e182",
+      "heading": "General tolerances in the drawing",
+      "level": "h3",
+      "text": "General tolerances in the drawing If the general tolerances according to ISO 2768 apply in conjunction with the general tolerances according to ISO 2768-1, then the following entries are to be made in or next to the drawing title block: a) ISO 2768 b) the tolerance class according to ISO 2768-1; c) the tolerance class according to this part of ISO 2768. Example: ISO 2768 - mK In this case, the general tolerances for angular dimensions according to ISO 2768-1 do not apply to unregistered 90° angles, since ISO 2768-2 specifies general tolerances for squareness. If the general tolerances for dimensions (tolerance class m) do not apply, the corresponding code letter is omitted."
+    },
+    {
+      "hash": "0d01852198d2220e6734c75dc35590b7d8ecb250",
+      "heading": "Conclusion",
+      "level": "h3",
+      "text": "Conclusion ISO 2768 encompasses essential geometric features and tolerances widely employed in the manufacturing industry. It establishes tolerance values that aid in streamlining the design and production processes. However, it's important to note that there are additional standards within the field of Geometric Dimensioning and Tolerancing (GD&T), like ASME Y14.5 standard. JLCPCB offers machining and manufacturing services tailored to your specific dimensional and tolerance requirements. Our team of online supporting engineers is readily available to assist you with any technical queries, ensuring seamless implementation of your innovative ideas."
+    }
+  ],
+  "sitemap_lastmod": "2026-08-14T00:00:00+00:00",
+  "status": 200,
+  "structure_hash": "0bd7280ffd588b7a3928fbb1d56a343819a51052",
+  "text_excerpt": "Help Center Help Center CNC Machining Design ISO 2768 Tolerance Standards for CNC Machining Help Center Ordering CNC Machining Ordering Sheet Metal Ordering CNC Machining Materials Aluminum CNC Machining Copper CNC Machining Plastic CNC Machining Stainless Steel CNC Machining Steel Alloy CNC Machining Sheet Metal Materials Aluminum Stainless Steel Alloy Steel CNC Machining Tutorials CNC Machining Design CNC Machining Knowledge Sheet Metal Tutorials Sheet Metal Design CNC Machine Basic Knowledge 5-Axis CNC Machine Privacy&Policies Coupon Policy Shipping Policies Policies ISO 2768 Tolerance Standards for CNC Machining Last updated on Jun 14, 2025 Introduction ISO 2768 is widely used in various industries, including CNC machining, to ensure consistent interpretation and application of tolerances. It is also available as a DIN standard in Germany. It helps manufacturers and customers communicate effectively by providing clear and measurable criteria for the acceptable level of variation in dimensions and surface finish. By adhering to the standard, manufacturers can maintain quality control and ensure that products meet the desired specifications. It consists of two parts: ISO 2768-1...",
+  "text_hash": "3353b2d0d2626c5297f9fc4020342b96f65725bc",
+  "title": "ISO 2768 Tolerance Standards for CNC Machining",
+  "url": "https://jlccnc.com/help/article/iso-2768-tolerance-standards-for-cnc-machining"
+}

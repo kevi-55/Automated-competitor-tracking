@@ -1,0 +1,275 @@
+{
+  "canonical": "https://www.hubs.com/knowledge-base/what-is-cnc-milling",
+  "category": "content",
+  "competitor": "Hubs",
+  "ctas": [
+    {
+      "href": "https://www.hubs.com/manufacture",
+      "text": "Upload your design for a free, instant quote"
+    },
+    {
+      "href": "https://www.hubs.com/production-orders",
+      "text": "production"
+    },
+    {
+      "href": "https://www.hubs.com/manufacture",
+      "text": "Free, instant quotes are available"
+    }
+  ],
+  "discovered_via": "sitemap",
+  "fetched_at": "2026-08-17T03:42:05+00:00",
+  "final_url": "https://www.hubs.com/knowledge-base/what-is-cnc-milling",
+  "first_seen_at": "2026-08-17T03:42:05+00:00",
+  "h1": "",
+  "headings": [
+    {
+      "level": "h2",
+      "text": "How do CNC milling machines work?"
+    },
+    {
+      "level": "h3",
+      "text": "Step 1: Create a CAD model"
+    },
+    {
+      "level": "h3",
+      "text": "Step 2: Convert CAD model for CNC machine"
+    },
+    {
+      "level": "h3",
+      "text": "Step 3: Set-up up the CNC milling machine"
+    },
+    {
+      "level": "h3",
+      "text": "Step 4: Begin the milling process"
+    },
+    {
+      "level": "h2",
+      "text": "What’s the difference between CNC milling and CNC turning?"
+    },
+    {
+      "level": "h2",
+      "text": "What are 3-, 4- and 5-axis milling machines?"
+    },
+    {
+      "level": "h2",
+      "text": "What kinds of parts can you make with CNC milling machines?"
+    },
+    {
+      "level": "h2",
+      "text": "How do you design parts for CNC milling?"
+    },
+    {
+      "level": "h2",
+      "text": "Which tool or design works best for which material?"
+    },
+    {
+      "level": "h2",
+      "text": "Are there software tricks that engineers should know to design for manufacturability?"
+    },
+    {
+      "level": "h2",
+      "text": "How do you get the most out of CNC milling with Protolabs Network?"
+    },
+    {
+      "level": "h2",
+      "text": "Frequently asked questions"
+    },
+    {
+      "level": "h3",
+      "text": "What materials does CNC milling use?"
+    },
+    {
+      "level": "h3",
+      "text": "What are the ideal applications for aluminum?"
+    },
+    {
+      "level": "h3",
+      "text": "What are the best alternatives for aluminum?"
+    },
+    {
+      "level": "h3",
+      "text": "Is CNC machining the same as milling?"
+    },
+    {
+      "level": "h3",
+      "text": "Is CNC milling expensive?"
+    },
+    {
+      "level": "h3",
+      "text": "What are common uses for CNC milling?"
+    },
+    {
+      "level": "h3",
+      "text": "What are some common mills used in manufacturing?"
+    },
+    {
+      "level": "h3",
+      "text": "What is a CNC milling machine?"
+    },
+    {
+      "level": "h3",
+      "text": "What is a CNC milling machine used for?"
+    }
+  ],
+  "images": [
+    {
+      "alt": "",
+      "src": "/images/trans.gif"
+    },
+    {
+      "alt": "cnc-5-axis machine",
+      "src": "/images/trans.gif"
+    },
+    {
+      "alt": "CNC machining, 3D printing and sheet metal fabrication parts",
+      "src": "/images/trans.gif"
+    }
+  ],
+  "meta_description": "CNC milling is a subtractive manufacturing process used by engineers to source precision parts through outsourced CNC machining. This article explains how CNC milling machines work, what kinds of parts can be produced with milling, and design guidelines that help optimize parts for manufacturability.",
+  "modified_at": "",
+  "monitored_text": "CNC milling combines a computer numerical control system with a rotating multi-point cutting tool, or milling cutter. In this process, the workpiece is mounted on a machine bed, and material is removed from a solid block to create the final geometry. CNC milling is used to produce parts from materials such as glass, metal, plastic, wood, and other specialized materials. This guide outlines how CNC milling machines operate, reviews common types of CNC milling machines, and provides design advice to get the most from outsourced CNC manufacturing. Did you know we offer local sourcing for CNC machining? Upload your design for a free, instant quote How do CNC milling machines work? At a high level, CNC milling follows a four-step process. Step 1: Create a CAD model Machinists use CAD software such as Autodesk Fusion 360 to create a CAD model of a specific component. Step 2: Convert CAD model for CNC machine The CAD model is imported into CAM software. The output is a set of digital instructions, or G-code, that defines toolpaths, positions, and speeds to machine the component. Step 3: Set-up up the CNC milling machine The workpiece or material block is secured on the machine bed and aligned using metrology tools or touch probes. The spindle tooling is installed, and all setup steps for the milling machine are completed. Step 4: Begin the milling process The program is loaded and the CNC cycle starts. Specialized cutting tools rotate at the programmed spindle speed to remove material from the workpiece until the geometry matches the desired component. What’s the difference between CNC milling and CNC turning? Both CNC milling and CNC turning use computer numerical control, but the processes differ. CNC turning produces cylindrical or conical surfaces. The workpiece rotates on a lathe to perform cutting, drilling, turning, and threading. A single point turning tool stays in contact with the workpiece throughout the operation. CNC milling generates flat surfaces using a milling machine. A rotating multi-point cutting tool removes material, and cutting is intermittent with multiple steps. What are 3-, 4- and 5-axis milling machines? 3-axis milling machines move the cutting tool along the X, Y, and Z axes to remove material. This method is common due to lower start-up costs and is used for simple parts with straightforward geometry. A 4-axis milling machine adds a rotary axis, often the A-axis, which rotates the workpiece for cutting around a cylinder or along part sides. It includes all 3-axis capabilities with added rotation. A 5-axis milling machine provides movement along the three linear axes plus rotation and tilt for a total of five axes. This setup produces complex geometries such as aerospace components, titanium parts, medical devices, and gas equipment parts. It reduces the need for multiple setups and supports single-step machining for higher productivity. What kinds of parts can you make with CNC milling machines? CNC milling machines produce complex designs with very tight tolerances. It is one of the most accurate manufacturing methods available. Examples include: Aerospace components such as landing gear components and fuselage structures Automotive components such as control panels, axles, and molds Consumer electronics components such as enclosures Medical components such as surgical instruments and orthotics Oil and gas machine parts such as valves, rods, pins Prototyping and modeling Sculptures Furniture Woodworking CNC milling machines can cut a wide range of materials, including aluminum bronze, copper , ceramics, plywood, various types of steel , stone, wood, zinc, and other engineering materials. This makes the process suitable for prototypes in product development. Accurate and quick adjustments are possible until the final design is achieved. While flexible, there are limits related to axis movement, prototype size, and tool size. Most machines have shape and size constraints. Large CNC machines can create prototypes up to 105 feet by 21 feet. The smallest machines are limited to movement of up to 9 inches along the X axis, 5.125 inches along the Y axis, and 6.5 inches along the Z axis. Due to shape limitations, some machines may have issues drilling square-edged holes. How do you design parts for CNC milling? There are many design factors to consider when creating parts for CNC milling. In general, recommendations from our in-house mechanical engineers include: Minimize setups: Fewer setups reduce cycle time and cost, improving efficiency in outsourced CNC manufacturing. Internal corner radii: Internal corner radii should be at least one quarter of the cut depth and preferably around one half of the cut depth, or as large as the design allows, for cost savings. Minimize pocket depth where possible, and use drilled holes instead of milling internal shapes. Thin walls and thin sections: Thin sections can deflect and warp under machining forces, even in soft metals. Where function allows, thicker sections increase throughput, reduce cost, and improve surface finish. Part size: Small features require small, fragile tools that run slower and increase cost. Where function permits, larger features improve manufacturability. Standardization: Standard thread sizes, standard corner radii, standard materials, and standard tolerances reduce cost and lead time across suppliers. Which tool or design works best for which material? Materials for CNC machining generally fall into three groups: plastics, soft metals, and hard metals. Soft metals and some hard metals hold tight tolerances and are relatively straightforward to machine. When a material moves outside the optimal hardness range and becomes too hard or too soft, it can respond unpredictably during manufacturing and cutting accuracy is reduced. As a result, certain alloys are used more often and considered industry standards. Aluminum 6061-T6 and various mild steels are popular because they are easy to machine and offer well-balanced properties. Are there software tricks that engineers should know to design for manufacturability? CAD tools align well with parts that are simple to manufacture in outsourced CNC machining. For example, Hole Wizard generates standard-sized holes. Basic features created with Extrude or Revolve typically machine more predictably than complex Loft or Sweep surfaces. Parts modeled with simpler features are generally easier to mass produce than those with complex surfaces. If a complex feature is not required, a simpler approach often lowers cost and reduces quality risks. How do you get the most out of CNC milling with Protolabs Network? There are many ways to reduce cost and shorten lead time for CNC milling. In general, much of the benefit comes from designing simple and standard parts. Designs that use simple features and standard-sized tooling tend to yield consistent results. Complexity is acceptable when necessary, but it increases lead time and cost. A simple part with relatively tight tolerances or one complex feature can be manageable in aluminum, while the same geometry in plastic may be difficult for volume production . In summary, designs that remain simple and standard where possible are preferred. Complex features or specialized materials may be required at certain stages, but they make milling more intensive. Protolabs Network offers a global network of 3-axis, 3+2-axis, and full 5-axis milling centers that manufacture accurate, high-quality parts. Free, instant quotes are available . Subscribe Get the latest manufacturing news delivered to your mailbox. Sign up for our newsletter Sign me up Please enter a valid email address. Leave this field empty Thanks! You're now subscribed to our newsletter. Frequently asked questions What materials does CNC milling use? Materials for CNC milling fall into three categories: plastics, soft metals, and hard metals. Common options include aluminum, bronze, copper, ceramics, plywood, steel, stone, wood, and zinc. In outsourced CNC manufacturing, engineers typically choose materials that are easy to machine and have balanced properties. What are the ideal applications for aluminum? Aluminum is well suited to CNC milling because it chips easily and resists corrosion. Typical applications include aircraft fittings, architectural hardware, medical components, gears, and shafts. What are the best alternatives for aluminum? Steel and stainless steel are common alternatives for CNC machining . They offer higher strength and temperature resistance and machine reliably. Is CNC machining the same as milling? CNC milling is one type of CNC machining. The workpiece is mounted on the machine bed and a rotating multi-point cutter removes material to create precise parts. Is CNC milling expensive? There are ways you can reduce the cost of CNC milling. If you design simple parts and utilize standard-sized tooling, you can increase the chances of successfully producing a component with minimal costs. Other CNC machining design tips include adding internal corner radii to the parts, avoiding thin walls and sections of a part and opting for bigger features instead of smaller ones. What are common uses for CNC milling? CNC milling is one of the most accurate manufacturing techniques which makes it ideal to create complex designs. It can be used to create products such as aerospace components, furniture, medical components, prototypes, titanium pieces, and woodworking. What are some common mills used in manufacturing? The most common mills used in manufacturing are CNC lasers, CNC lathes, CNC mills, CNC plasma cutters, and CNC routers. The CNC machine of your choice will depend on your preferred process and the type of product you want to build. What is a CNC milling machine? CNC milling is a precise manufacturing method for creating complex designs with tight tolerances. Common applications include aerospace components, medical components, prototypes, titanium components, furniture elements, and woodworking parts. What is a CNC milling machine used for? Common CNC equipment used in manufacturing includes CNC mills, CNC lathes, CNC routers, CNC laser cutters, and CNC plasma cutters. The choice depends on the process and the part to be produced.",
+  "published_at": "",
+  "requested_url": "https://www.hubs.com/knowledge-base/what-is-cnc-milling",
+  "schema_version": 2,
+  "sections": [
+    {
+      "hash": "fbadc1845b225bdb401bf57296341731f32da5c1",
+      "heading": "How do CNC milling machines work?",
+      "level": "h2",
+      "text": "How do CNC milling machines work? At a high level, CNC milling follows a four-step process."
+    },
+    {
+      "hash": "8c91ac4c184e5a2c1b064559c9eb052572365a83",
+      "heading": "Step 1: Create a CAD model",
+      "level": "h3",
+      "text": "Step 1: Create a CAD model Machinists use CAD software such as Autodesk Fusion 360 to create a CAD model of a specific component."
+    },
+    {
+      "hash": "b37c68affd112c196ecbc95360b31e5d9a985660",
+      "heading": "Step 2: Convert CAD model for CNC machine",
+      "level": "h3",
+      "text": "Step 2: Convert CAD model for CNC machine The CAD model is imported into CAM software. The output is a set of digital instructions, or G-code, that defines toolpaths, positions, and speeds to machine the component."
+    },
+    {
+      "hash": "3d617c25012d1a791d1967ebc15357099726db60",
+      "heading": "Step 3: Set-up up the CNC milling machine",
+      "level": "h3",
+      "text": "Step 3: Set-up up the CNC milling machine The workpiece or material block is secured on the machine bed and aligned using metrology tools or touch probes. The spindle tooling is installed, and all setup steps for the milling machine are completed."
+    },
+    {
+      "hash": "007c0b6578ae36caa805955c432df2e8080685e5",
+      "heading": "Step 4: Begin the milling process",
+      "level": "h3",
+      "text": "Step 4: Begin the milling process The program is loaded and the CNC cycle starts. Specialized cutting tools rotate at the programmed spindle speed to remove material from the workpiece until the geometry matches the desired component."
+    },
+    {
+      "hash": "523144540a048d3bcb13c1902bef142a7bdbda75",
+      "heading": "What’s the difference between CNC milling and CNC turning?",
+      "level": "h2",
+      "text": "What’s the difference between CNC milling and CNC turning? Both CNC milling and CNC turning use computer numerical control, but the processes differ. CNC turning produces cylindrical or conical surfaces. The workpiece rotates on a lathe to perform cutting, drilling, turning, and threading. A single point turning tool stays in contact with the workpiece throughout the operation. CNC milling generates flat surfaces using a milling machine. A rotating multi-point cutting tool removes material, and cutting is intermittent with multiple steps."
+    },
+    {
+      "hash": "0ccce2271c61778f64145619e17a9b8984620b7d",
+      "heading": "What are 3-, 4- and 5-axis milling machines?",
+      "level": "h2",
+      "text": "What are 3-, 4- and 5-axis milling machines? 3-axis milling machines move the cutting tool along the X, Y, and Z axes to remove material. This method is common due to lower start-up costs and is used for simple parts with straightforward geometry. A 4-axis milling machine adds a rotary axis, often the A-axis, which rotates the workpiece for cutting around a cylinder or along part sides. It includes all 3-axis capabilities with added rotation."
+    },
+    {
+      "hash": "70b3528199fd823859fc754c21f5b23fe8eb6fda",
+      "heading": "What kinds of parts can you make with CNC milling machines?",
+      "level": "h2",
+      "text": "What kinds of parts can you make with CNC milling machines? CNC milling machines produce complex designs with very tight tolerances. It is one of the most accurate manufacturing methods available. Examples include: Aerospace components such as landing gear components and fuselage structures Automotive components such as control panels, axles, and molds Consumer electronics components such as enclosures Medical components such as surgical instruments and orthotics Oil and gas machine parts such as valves, rods, pins Prototyping and modeling Sculptures Furniture Woodworking CNC milling machines can cut a wide range of materials, including aluminum bronze, copper , ceramics, plywood, various types of steel , stone, wood, zinc, and other engineering materials. This makes the process suitable for prototypes in product development. Accurate and quick adjustments are possible until the final design is achieved."
+    },
+    {
+      "hash": "1b66a37d1563abb8939b9476415001a67f0ae647",
+      "heading": "How do you design parts for CNC milling?",
+      "level": "h2",
+      "text": "How do you design parts for CNC milling? There are many design factors to consider when creating parts for CNC milling. In general, recommendations from our in-house mechanical engineers include: Minimize setups: Fewer setups reduce cycle time and cost, improving efficiency in outsourced CNC manufacturing. Internal corner radii: Internal corner radii should be at least one quarter of the cut depth and preferably around one half of the cut depth, or as large as the design allows, for cost savings. Minimize pocket depth where possible, and use drilled holes instead of milling internal shapes. Thin walls and thin sections: Thin sections can deflect and warp under machining forces, even in soft metals. Where function allows, thicker sections increase throughput, reduce cost, and improve surface finish. Part size: Small features require small, fragile tools that run slower and increase cost. Where function permits, larger features improve manufacturability. Standardization: Standard thread sizes, standard corner radii, standard materials, and standard tolerances reduce cost and lead time across suppliers."
+    },
+    {
+      "hash": "50a3ecc02589e2cf9ea9b467e069170d5f693b88",
+      "heading": "Which tool or design works best for which material?",
+      "level": "h2",
+      "text": "Which tool or design works best for which material? Materials for CNC machining generally fall into three groups: plastics, soft metals, and hard metals. Soft metals and some hard metals hold tight tolerances and are relatively straightforward to machine. When a material moves outside the optimal hardness range and becomes too hard or too soft, it can respond unpredictably during manufacturing and cutting accuracy is reduced. As a result, certain alloys are used more often and considered industry standards. Aluminum 6061-T6 and various mild steels are popular because they are easy to machine and offer well-balanced properties."
+    },
+    {
+      "hash": "87251c6ff5ac8f03a1b273c8c6000b182c2e1909",
+      "heading": "Are there software tricks that engineers should know to design for manufacturability?",
+      "level": "h2",
+      "text": "Are there software tricks that engineers should know to design for manufacturability? CAD tools align well with parts that are simple to manufacture in outsourced CNC machining. For example, Hole Wizard generates standard-sized holes. Basic features created with Extrude or Revolve typically machine more predictably than complex Loft or Sweep surfaces. Parts modeled with simpler features are generally easier to mass produce than those with complex surfaces. If a complex feature is not required, a simpler approach often lowers cost and reduces quality risks."
+    },
+    {
+      "hash": "550a296d15633d9f41f9ff90932bf26918de6f1e",
+      "heading": "How do you get the most out of CNC milling with Protolabs Network?",
+      "level": "h2",
+      "text": "How do you get the most out of CNC milling with Protolabs Network? There are many ways to reduce cost and shorten lead time for CNC milling. In general, much of the benefit comes from designing simple and standard parts. Designs that use simple features and standard-sized tooling tend to yield consistent results. Complexity is acceptable when necessary, but it increases lead time and cost. A simple part with relatively tight tolerances or one complex feature can be manageable in aluminum, while the same geometry in plastic may be difficult for volume production . In summary, designs that remain simple and standard where possible are preferred. Complex features or specialized materials may be required at certain stages, but they make milling more intensive. Protolabs Network offers a global network of 3-axis, 3+2-axis, and full 5-axis milling centers that manufacture accurate, high-quality parts. Free, instant quotes are available ."
+    },
+    {
+      "hash": "02842b08377539be654ab1179cf41e1d947c4424",
+      "heading": "Frequently asked questions",
+      "level": "h2",
+      "text": "Frequently asked questions Frequently asked questions"
+    },
+    {
+      "hash": "e495e7a4273cc4ac8c52f0814999e124f7459c77",
+      "heading": "What materials does CNC milling use?",
+      "level": "h3",
+      "text": "What materials does CNC milling use? Materials for CNC milling fall into three categories: plastics, soft metals, and hard metals. Common options include aluminum, bronze, copper, ceramics, plywood, steel, stone, wood, and zinc. In outsourced CNC manufacturing, engineers typically choose materials that are easy to machine and have balanced properties."
+    },
+    {
+      "hash": "52996944b47916dae5485c4e49eff00c159121c5",
+      "heading": "What are the ideal applications for aluminum?",
+      "level": "h3",
+      "text": "What are the ideal applications for aluminum? Aluminum is well suited to CNC milling because it chips easily and resists corrosion. Typical applications include aircraft fittings, architectural hardware, medical components, gears, and shafts."
+    },
+    {
+      "hash": "6ec2a30dc8f44cab7bc1dbdbfe753eb52066fa6a",
+      "heading": "What are the best alternatives for aluminum?",
+      "level": "h3",
+      "text": "What are the best alternatives for aluminum? Steel and stainless steel are common alternatives for CNC machining . They offer higher strength and temperature resistance and machine reliably."
+    },
+    {
+      "hash": "3667656a48ab284c54c3f5e24afd33ef500d20bc",
+      "heading": "Is CNC machining the same as milling?",
+      "level": "h3",
+      "text": "Is CNC machining the same as milling? CNC milling is one type of CNC machining. The workpiece is mounted on the machine bed and a rotating multi-point cutter removes material to create precise parts."
+    },
+    {
+      "hash": "57682e11079ca4d7bf407bd1cf5229fb6d9ccaa3",
+      "heading": "Is CNC milling expensive?",
+      "level": "h3",
+      "text": "Is CNC milling expensive? There are ways you can reduce the cost of CNC milling. If you design simple parts and utilize standard-sized tooling, you can increase the chances of successfully producing a component with minimal costs. Other CNC machining design tips include adding internal corner radii to the parts, avoiding thin walls and sections of a part and opting for bigger features instead of smaller ones."
+    },
+    {
+      "hash": "a7f4d736a15b31d0dbad67c54202bf67768e1d63",
+      "heading": "What are common uses for CNC milling?",
+      "level": "h3",
+      "text": "What are common uses for CNC milling? CNC milling is one of the most accurate manufacturing techniques which makes it ideal to create complex designs. It can be used to create products such as aerospace components, furniture, medical components, prototypes, titanium pieces, and woodworking."
+    },
+    {
+      "hash": "4b240f20496290dfa0ab507a5664f49961f1a84e",
+      "heading": "What are some common mills used in manufacturing?",
+      "level": "h3",
+      "text": "What are some common mills used in manufacturing? The most common mills used in manufacturing are CNC lasers, CNC lathes, CNC mills, CNC plasma cutters, and CNC routers. The CNC machine of your choice will depend on your preferred process and the type of product you want to build."
+    },
+    {
+      "hash": "89bf1447b419cd3bb1be795bccb5e1d26535a61e",
+      "heading": "What is a CNC milling machine?",
+      "level": "h3",
+      "text": "What is a CNC milling machine? CNC milling is a precise manufacturing method for creating complex designs with tight tolerances. Common applications include aerospace components, medical components, prototypes, titanium components, furniture elements, and woodworking parts."
+    },
+    {
+      "hash": "af21a93352566f1020d4064850c2b06bd27ef1e3",
+      "heading": "What is a CNC milling machine used for?",
+      "level": "h3",
+      "text": "What is a CNC milling machine used for? Common CNC equipment used in manufacturing includes CNC mills, CNC lathes, CNC routers, CNC laser cutters, and CNC plasma cutters. The choice depends on the process and the part to be produced."
+    }
+  ],
+  "sitemap_lastmod": "2026-06-04T09:13:35+00:00",
+  "status": 200,
+  "structure_hash": "b41b4ba49bacfe7078a7fb1f53092a409b063cef",
+  "text_excerpt": "CNC milling combines a computer numerical control system with a rotating multi-point cutting tool, or milling cutter. In this process, the workpiece is mounted on a machine bed, and material is removed from a solid block to create the final geometry. CNC milling is used to produce parts from materials such as glass, metal, plastic, wood, and other specialized materials. This guide outlines how CNC milling machines operate, reviews common types of CNC milling machines, and provides design advice to get the most from outsourced CNC manufacturing. Did you know we offer local sourcing for CNC machining? Upload your design for a free, instant quote How do CNC milling machines work? At a high level, CNC milling follows a four-step process. Step 1: Create a CAD model Machinists use CAD software such as Autodesk Fusion 360 to create a CAD model of a specific component. Step 2: Convert CAD model for CNC machine The CAD model is imported into CAM software. The output is a set of digital instructions, or G-code, that defines toolpaths, positions, and speeds to machine the component. Step 3: Set-up up the CNC milling machine The workpiece or material block is secured on the machine bed and al...",
+  "text_hash": "5e97d49ea3dc993380c29d7d64151c0d7ec9e245",
+  "title": "What is CNC milling? | Protolabs Network",
+  "url": "https://www.hubs.com/knowledge-base/what-is-cnc-milling"
+}

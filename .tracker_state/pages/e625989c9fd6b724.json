@@ -1,0 +1,138 @@
+{
+  "canonical": "https://www.protolabs.com/resources/blog/3d-printing-vs-casting-for-metal-parts",
+  "category": "content",
+  "competitor": "Protolabs",
+  "ctas": [],
+  "discovered_via": "sitemap",
+  "fetched_at": "2026-08-17T03:49:08+00:00",
+  "final_url": "https://www.protolabs.com/resources/blog/3d-printing-vs-casting-for-metal-parts",
+  "first_seen_at": "2026-08-17T03:49:08+00:00",
+  "h1": "Metal 3D Printing vs. Traditional Casting: Comparing Benefits and Use Cases",
+  "headings": [
+    {
+      "level": "h1",
+      "text": "Metal 3D Printing vs. Traditional Casting: Comparing Benefits and Use Cases"
+    },
+    {
+      "level": "h2",
+      "text": "The Basics of Metal 3D Printing and Traditional Casting"
+    },
+    {
+      "level": "h2",
+      "text": "Part Geometries for Casting and Metal 3D Printing"
+    },
+    {
+      "level": "h2",
+      "text": "Quantity Considerations for Casting vs. Metal 3D Printing"
+    },
+    {
+      "level": "h2",
+      "text": "Lead Times for Casting vs. Metal 3D Printing"
+    },
+    {
+      "level": "h2",
+      "text": "Applications for Metal 3D Printed Parts vs. Cast Parts"
+    },
+    {
+      "level": "h2",
+      "text": "Quick Comparison"
+    },
+    {
+      "level": "h2",
+      "text": "Conclusion"
+    }
+  ],
+  "images": [
+    {
+      "alt": "",
+      "src": "/media/jpbjaltj/chloe_vollaro.jpg?width=200&height=200&v=1daa1fd5a081d50"
+    },
+    {
+      "alt": "",
+      "src": "/media/vm0oozyg/dmls_process_2016_04_hr-600x400-bf06395.jpg"
+    },
+    {
+      "alt": "",
+      "src": "/media/jffjh14c/dmls-process.jpg"
+    },
+    {
+      "alt": "",
+      "src": "/media/e1shw1bo/dmls_800x533.jpg"
+    },
+    {
+      "alt": "Direct Metal Laser Sintering",
+      "src": "/media/1017355/dmls-parts-570x312.jpg?width=115&height=115&v=1d50ca8eda01cb0"
+    },
+    {
+      "alt": "Metal 3D parts",
+      "src": "/media/gawbpnuf/dmls-platform.jpg?width=115&height=115&v=1da8b29a79faaf0"
+    },
+    {
+      "alt": "CNC and 3D printed parts",
+      "src": "/media/0osnvejx/comparison-thumb.jpg?width=115&height=115&v=1d9c547c77c43e0"
+    }
+  ],
+  "meta_description": "The differences between casting and DMLS are quite stark, so depending on your application it might be an easy choice regarding which works best for you. Three overarching factors will drive your decision: part design, quantities, and lead times.",
+  "modified_at": "",
+  "monitored_text": "3D Printing January 7, 2025 Metal 3D Printing vs. Traditional Casting: Comparing Benefits and Use Cases By Chloe Vollaro Metal 3D printing vs. traditional casting is a classic battle of ancient and modern technologies. There are multiple additive manufacturing processes for metal 3D printing : directed energy deposition, or DED, binder jetting, and direct metal laser sintering, or DMLS, which we will concentrate on for this comparison. The differences between casting and DMLS are quite stark, so depending on your application it might be an easy choice regarding which works best for you. Three overarching factors will drive your decision: part design, quantities, and lead times. The Basics of Metal 3D Printing and Traditional Casting First, here’s a baseline look at how the two processes work. With casting, liquid metal (or plastic) is poured into a mold containing a cavity that reflects the shape of your final part. Over time, the material cools and solidifies. Once the part has hardened, the mold is removed and the part—the casting—is available for any finishing options you may require. It’s a rather long process, so be prepared to wait for your parts. More about that later. In comparison, metal 3D printing builds your part layer-by-layer from a vat of powdered metal. Once the layer is complete, the build drops down into the vat and a new layer of metal powder recoats the surface for the next pass. It uses powerful lasers to melt and grow the part. While it takes a while to build parts—especially large parts—the parts are as rugged as those that are cast, achieving nearly 100% density. The DMLS Printing Process Part Geometries for Casting and Metal 3D Printing Three design-focused issues define some of the differences between the two manufacturing methods: part complexity, accuracy, and part size. Part Complexity If your part has simple geometries and doesn’t require additional finishing, you can use casting and (eventually) simply remove the part from the mold. However, parts with complex geometries and intricate design with smaller features are likely best 3D printed. The overarching reason for this is that, with casting, it is difficult to get liquid materials to flow through small features built into molds, yielding incomplete parts. Meanwhile, 3D printing excels at building out small features, followed by remedial work after the print to remove support structures necessary to start the build. Both processes require designs with uniform wall thicknesses and radii. Parts with these design qualities will cool more consistently with less shrinkage, have higher dimensional accuracy, and have enhanced mechanical properties. Consistent wall thickness also leads to more efficient use of materials, which can lead to cost savings. Accuracy Metal 3D printing’s ability to permit small features makes it a better choice for detailed part design. Casting can produce parts with small tolerances and a nice surface finish. However, casted parts with complex assembles often need to be made in pieces and brazed together. This extra step opens the door to possible inaccuracies and inconsistencies from the joining process. These parts are also subject to shrinkage as they cool, adding to the imprecision. Casting accuracy is also affected by the material itself, and the temperature of the material being poured into the mold. Using a digital additive manufacturer gives you the bonus of getting design for manufacturing (DFM) feedback on your CAD model at time of submission. The automated process provides instantaneous feedback on your part and offers a “first pass” at determining if the part is feasible for metal 3D printing. It also serves to remind you that just because something can be 3D-printed in metal, it doesn’t mean you should. Part Size Although our biggest metal printers can manufacture parts as large as 31.5 in. x 15.7 in. x 19.7 in. (400mm x 800mm x 500mm), casting might be a more viable option for larger parts. That said, new printers and metal printing technologies are emerging every year that push the boundaries of that limitation. Quantity Considerations for Casting vs. Metal 3D Printing Metal 3D printing excels at manufacturing low-volume, end-use parts. It does take time to print large parts, but simultaneously printing smaller parts in one batch can speed production times. Since there is no tooling required, validation runs can take place on a much faster timeline. Casting is the typical go-to if you need parts at production levels, but if you only need a small run of parts, it doesn’t make much sense to go through the time and expense to create a mold (and wait for foundry availability). Many parts 3D-printed in one batch Lead Times for Casting vs. Metal 3D Printing Need a part now? In this situation, casting certainly is not the best solution, especially at lower volumes. It can take more than a year to get parts cast due to capacity issues at foundries and the time it takes to create a mold. This is true even if you have an existing mold to work with. With casting, if you’ve accidentally lost or damaged your mold or need to tweak the design, you’re back at square one. Printed metal parts can be yours in days. Larger parts could take a considerable amount of printing time, but timing is still likely to beat a cast part. Applications for Metal 3D Printed Parts vs. Cast Parts Often, casting is used to produce very large parts used for transportation (railway, marine, etc.), construction, machinery, and some consumer goods. The parts tend to be larger and often thicker. Some examples include engine blocks, bridge components, marine propellers, and turbine blades. These typically do not require a lot of detail work, so casting is ideal. While metal 3D printing can be used to make large parts (as noted above), it excels at rendering complex geometries, prototyping in production-grade materials, creating functional end-use parts, and even allows you to combine parts that otherwise would have required assembly. Generally, it can provide smaller parts than casting much faster if no mold is available, even if the parts have quite a lot of detail. Quick Comparison Here's an at-a-glance comparison of the two manufacturing methods: Characteristic Casting Metal 3D Printing Lead Times Extremely long (potentially more than one year), even if you have an existing mold Just days for modest-sized parts Production Availability Limited number of foundries, and they are booked well in advance Additional printer capacity possible, and technologies are improving Part Changes Your tool will likely outlive your need for it Design changes to printed parts can be made and uploaded instantly Start-up Cost Molds are expensive to produce Zero Piece-Part Cost High at low-quantities, but lower as quantity increases Lower (does not need tooling), but drops less significantly at high quantities Material Choice Larger choices Limited, but growing, list that currently includes most primary choice metals Conclusion While additive manufacturers can always add additional capacity and the technology improves all the time, the number of foundries, especially here in the United States, is stagnant, according to a recent issue of Additive Manufacturing. Adding foundries is quite an operation, and for most companies and investors, too expensive and time-consuming. Interestingly, some companies are using both technologies. Metal molds can be manufactured via 3D printing and then used for casting, though you must ensure that the design works for a casting environment. If you have any questions about what process is best to use for your design and situation, contact one of our applications engineers at [email protected] or 877-479-3680. You Might Also Like... Metal 3D Printing Metal 3D Printing Materials: What to Know 3D Printing vs. CNC Machining Tagged: Design Considerations",
+  "published_at": "",
+  "requested_url": "https://www.protolabs.com/resources/blog/3d-printing-vs-casting-for-metal-parts",
+  "schema_version": 2,
+  "sections": [
+    {
+      "hash": "3c6ff84846cc1f63535164bd644f193b56033975",
+      "heading": "Metal 3D Printing vs. Traditional Casting: Comparing Benefits and Use Cases",
+      "level": "h1",
+      "text": "Metal 3D Printing vs. Traditional Casting: Comparing Benefits and Use Cases By Chloe Vollaro 3D Printing January 7, 2025 Metal 3D Printing vs. Traditional Casting: Comparing Benefits and Use Cases By Chloe Vollaro"
+    },
+    {
+      "hash": "61be20afdfca09514d74960f428990625051cf72",
+      "heading": "The Basics of Metal 3D Printing and Traditional Casting",
+      "level": "h2",
+      "text": "The Basics of Metal 3D Printing and Traditional Casting First, here’s a baseline look at how the two processes work. With casting, liquid metal (or plastic) is poured into a mold containing a cavity that reflects the shape of your final part. Over time, the material cools and solidifies. Once the part has hardened, the mold is removed and the part—the casting—is available for any finishing options you may require. It’s a rather long process, so be prepared to wait for your parts. More about that later. In comparison, metal 3D printing builds your part layer-by-layer from a vat of powdered metal. Once the layer is complete, the build drops down into the vat and a new layer of metal powder recoats the surface for the next pass. It uses powerful lasers to melt and grow the part. While it takes a while to build parts—especially large parts—the parts are as rugged as those that are cast, achieving nearly 100% density. The DMLS Printing Process"
+    },
+    {
+      "hash": "ee8af1860a12092cdd3f2116fa83f3d0a85c63b3",
+      "heading": "Part Geometries for Casting and Metal 3D Printing",
+      "level": "h2",
+      "text": "Part Geometries for Casting and Metal 3D Printing Three design-focused issues define some of the differences between the two manufacturing methods: part complexity, accuracy, and part size. Part Complexity If your part has simple geometries and doesn’t require additional finishing, you can use casting and (eventually) simply remove the part from the mold. However, parts with complex geometries and intricate design with smaller features are likely best 3D printed. The overarching reason for this is that, with casting, it is difficult to get liquid materials to flow through small features built into molds, yielding incomplete parts. Meanwhile, 3D printing excels at building out small features, followed by remedial work after the print to remove support structures necessary to start the build. Both processes require designs with uniform wall thicknesses and radii. Parts with these design qualities will cool more consistently with less shrinkage, have higher dimensional accuracy, and have enhanced mechanical properties. Consistent wall thickness also leads to more efficient use of materials, which can lead to cost savings. Accuracy Metal 3D printing’s ability to permit small features..."
+    },
+    {
+      "hash": "e136c2cf7d7119942f6610a82315c7a70013f71c",
+      "heading": "Quantity Considerations for Casting vs. Metal 3D Printing",
+      "level": "h2",
+      "text": "Quantity Considerations for Casting vs. Metal 3D Printing Metal 3D printing excels at manufacturing low-volume, end-use parts. It does take time to print large parts, but simultaneously printing smaller parts in one batch can speed production times. Since there is no tooling required, validation runs can take place on a much faster timeline. Casting is the typical go-to if you need parts at production levels, but if you only need a small run of parts, it doesn’t make much sense to go through the time and expense to create a mold (and wait for foundry availability). Many parts 3D-printed in one batch"
+    },
+    {
+      "hash": "5006513fa16f6995dc53bc2e0d82debb538c9987",
+      "heading": "Lead Times for Casting vs. Metal 3D Printing",
+      "level": "h2",
+      "text": "Lead Times for Casting vs. Metal 3D Printing Need a part now? In this situation, casting certainly is not the best solution, especially at lower volumes. It can take more than a year to get parts cast due to capacity issues at foundries and the time it takes to create a mold. This is true even if you have an existing mold to work with. With casting, if you’ve accidentally lost or damaged your mold or need to tweak the design, you’re back at square one. Printed metal parts can be yours in days. Larger parts could take a considerable amount of printing time, but timing is still likely to beat a cast part."
+    },
+    {
+      "hash": "bcbecb607bf43003bbc09f7f854f8b9cef1ffb98",
+      "heading": "Applications for Metal 3D Printed Parts vs. Cast Parts",
+      "level": "h2",
+      "text": "Applications for Metal 3D Printed Parts vs. Cast Parts Often, casting is used to produce very large parts used for transportation (railway, marine, etc.), construction, machinery, and some consumer goods. The parts tend to be larger and often thicker. Some examples include engine blocks, bridge components, marine propellers, and turbine blades. These typically do not require a lot of detail work, so casting is ideal. While metal 3D printing can be used to make large parts (as noted above), it excels at rendering complex geometries, prototyping in production-grade materials, creating functional end-use parts, and even allows you to combine parts that otherwise would have required assembly. Generally, it can provide smaller parts than casting much faster if no mold is available, even if the parts have quite a lot of detail."
+    },
+    {
+      "hash": "9caf0e015f4dc28028448e8a78bfa13107b90bf9",
+      "heading": "Quick Comparison",
+      "level": "h2",
+      "text": "Quick Comparison Here's an at-a-glance comparison of the two manufacturing methods: Characteristic Casting Metal 3D Printing Lead Times Extremely long (potentially more than one year), even if you have an existing mold Just days for modest-sized parts Production Availability Limited number of foundries, and they are booked well in advance Additional printer capacity possible, and technologies are improving Part Changes Your tool will likely outlive your need for it Design changes to printed parts can be made and uploaded instantly Start-up Cost Molds are expensive to produce Zero Piece-Part Cost High at low-quantities, but lower as quantity increases Lower (does not need tooling), but drops less significantly at high quantities Material Choice Larger choices Limited, but growing, list that currently includes most primary choice metals"
+    },
+    {
+      "hash": "065564c391b7e5a1b02170ccbe0b8c29efa2f697",
+      "heading": "Conclusion",
+      "level": "h2",
+      "text": "Conclusion While additive manufacturers can always add additional capacity and the technology improves all the time, the number of foundries, especially here in the United States, is stagnant, according to a recent issue of Additive Manufacturing. Adding foundries is quite an operation, and for most companies and investors, too expensive and time-consuming. Interestingly, some companies are using both technologies. Metal molds can be manufactured via 3D printing and then used for casting, though you must ensure that the design works for a casting environment. If you have any questions about what process is best to use for your design and situation, contact one of our applications engineers at [email protected] or 877-479-3680."
+    }
+  ],
+  "sitemap_lastmod": "2025-09-02T14:56:00+00:00",
+  "status": 200,
+  "structure_hash": "a30695e9852f979a5807c09708a775dd08b598bb",
+  "text_excerpt": "3D Printing January 7, 2025 Metal 3D Printing vs. Traditional Casting: Comparing Benefits and Use Cases By Chloe Vollaro Metal 3D printing vs. traditional casting is a classic battle of ancient and modern technologies. There are multiple additive manufacturing processes for metal 3D printing : directed energy deposition, or DED, binder jetting, and direct metal laser sintering, or DMLS, which we will concentrate on for this comparison. The differences between casting and DMLS are quite stark, so depending on your application it might be an easy choice regarding which works best for you. Three overarching factors will drive your decision: part design, quantities, and lead times. The Basics of Metal 3D Printing and Traditional Casting First, here’s a baseline look at how the two processes work. With casting, liquid metal (or plastic) is poured into a mold containing a cavity that reflects the shape of your final part. Over time, the material cools and solidifies. Once the part has hardened, the mold is removed and the part—the casting—is available for any finishing options you may require. It’s a rather long process, so be prepared to wait for your parts. More about that later. In c...",
+  "text_hash": "e5f5553a3c64e2d701cc80e2c219bfb6607301ab",
+  "title": "Metal 3D Printing Compared to Traditional Casting",
+  "url": "https://www.protolabs.com/resources/blog/3d-printing-vs-casting-for-metal-parts"
+}

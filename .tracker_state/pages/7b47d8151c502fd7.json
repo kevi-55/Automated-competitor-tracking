@@ -1,62 +1,21 @@
 {
-  "canonical": "https://www.emachineshop.com/comparing-cnc-quotes-tolerances-finishing/",
+  "canonical": "https://www.emachineshop.com/comparing-cnc-quotes-tolerances-finishing",
   "category": "pricing",
   "competitor": "eMachineShop",
   "ctas": [
     {
-      "href": "https://www.emachineshop.com/quote/",
-      "text": "Quote"
-    },
-    {
-      "href": "https://www.emachineshop.com/contact/",
-      "text": "Contact"
-    },
-    {
-      "href": "/quote/",
-      "text": "MANUAL QUOTE"
-    },
-    {
-      "href": "https://www.emachineshop.com/quote/",
+      "href": "https://www.emachineshop.com/quote",
       "text": "Upload your drawing"
     },
     {
-      "href": "https://www.emachineshop.com/quote/",
+      "href": "https://www.emachineshop.com/quote",
       "text": "REQUEST A QUOTE"
-    },
-    {
-      "href": "/contact/",
-      "text": "Contact"
-    },
-    {
-      "href": "https://quote.emachineshop.com/",
-      "text": "Instant Quote"
-    },
-    {
-      "href": "/quote/",
-      "text": "Manual Quote Request"
-    },
-    {
-      "href": "/order-status/",
-      "text": "Order Status"
-    },
-    {
-      "href": "/reorder-parts/",
-      "text": "Re-Order Parts"
-    },
-    {
-      "href": "https://www.emachineshop.com/quote/",
-      "text": "×"
-    },
-    {
-      "href": "https://www.emachineshop.com/terms-and-order-policies/",
-      "text": "Terms of Use and Order Policies"
-    },
-    {
-      "href": "/terms-and-order-policies/",
-      "text": "Terms"
     }
   ],
-  "fetched_at": "2026-08-17T02:34:12+00:00",
+  "discovered_via": "feed",
+  "fetched_at": "2026-08-17T03:52:33+00:00",
+  "final_url": "https://www.emachineshop.com/comparing-cnc-quotes-tolerances-finishing",
+  "first_seen_at": "2026-08-17T03:52:33+00:00",
   "h1": "Comparing CNC Quotes? Here’s What Tolerance and Finishing Line Items Actually Mean",
   "headings": [
     {
@@ -82,92 +41,95 @@
     {
       "level": "h2",
       "text": "Frequently Asked Questions"
-    },
-    {
-      "level": "h3",
-      "text": "Contact Information"
     }
   ],
   "images": [
-    {
-      "alt": "eMachineShop",
-      "src": "https://www.emachineshop.com/wp-content/uploads/block_logo3.png"
-    },
     {
       "alt": "Checking machining tolerance of a custom aluminum CNC part using a digital caliper",
       "src": "https://www.emachineshop.com/wp-content/uploads/cnc-quote-tolerances-inspection.jpg"
     },
     {
-      "alt": "Facebook logo",
-      "src": "https://www.emachineshop.com/wp-content/uploads/icons/facebook.png"
+      "alt": "facebook sharing button",
+      "src": "https://platform-cdn.sharethis.com/img/facebook.svg"
     },
     {
-      "alt": "Youtube logo",
-      "src": "https://www.emachineshop.com/wp-content/uploads/icons/youtube.png"
+      "alt": "twitter sharing button",
+      "src": "https://platform-cdn.sharethis.com/img/twitter.svg"
     },
     {
-      "alt": "Instagram logo",
-      "src": "https://www.emachineshop.com/wp-content/uploads/icons/instagram.png"
+      "alt": "email sharing button",
+      "src": "https://platform-cdn.sharethis.com/img/email.svg"
     },
     {
-      "alt": "Linkedin logo",
-      "src": "https://www.emachineshop.com/wp-content/uploads/icons/linkedin.png"
+      "alt": "whatsapp sharing button",
+      "src": "https://platform-cdn.sharethis.com/img/whatsapp.svg"
     },
     {
-      "alt": "X logo",
-      "src": "https://www.emachineshop.com/wp-content/uploads/icons/x.png"
+      "alt": "linkedin sharing button",
+      "src": "https://platform-cdn.sharethis.com/img/linkedin.svg"
+    },
+    {
+      "alt": "messenger sharing button",
+      "src": "https://platform-cdn.sharethis.com/img/messenger.svg"
+    },
+    {
+      "alt": "blogger sharing button",
+      "src": "https://platform-cdn.sharethis.com/img/blogger.svg"
+    },
+    {
+      "alt": "pinterest sharing button",
+      "src": "https://platform-cdn.sharethis.com/img/pinterest.svg"
     }
   ],
   "meta_description": "Learn how tolerance defaults and standard finishing line items affect your CNC quotes. Understand 2D vs 3D tolerances, deburring, and Ra 125 surface roughness.",
+  "modified_at": "2026-08-05T19:22:52+00:00",
+  "monitored_text": "Comparing CNC Quotes? Here’s What Tolerance and Finishing Line Items Actually Mean by James Wright | Aug 5, 2026 « Back to all posts Two quotes for the same part can differ by a real margin and both be “correct” — because they’re not always quoting the same thing. Tolerance defaults vary by process, and a “standard finish” isn’t a fixed baseline across shops. Knowing what each term actually buys you is the difference between comparing apples to apples and picking the cheaper number without knowing why it’s cheaper. Quick Summary 2D (sheet) parts default to ±0.01″ tolerance; 3D (machined) parts default to ±0.005″ — a real difference tied to the process, not the shop. At eMachineShop, detab and deburring are included in the job price, no extra charge — this includes whatever incidental brushing is needed to bring the part to 125 µin Ra or below. The dedicated Brushing finish — a distinct, uniform directional-grain finish — is a separate option with its own charge if you select it explicitly in the CAD software . That’s different from the incidental smoothing already included in standard processing. Some shops charge separately for detab, deburring, and hitting a controlled roughness value. eMachineShop bundles the first three into the standard price by default. If a part genuinely doesn’t need 125 Ra or better, the way to lower the price is to explicitly request as-cut — no detab, no deburring. What’s the Difference Between 2D Tolerance and Mill Tolerance? 2D parts — sheet metal cut by laser, waterjet, or plasma — default to ±0.01″ unless a print specifies otherwise. 3D parts, machined on a mill or lathe, default to a tighter ±0.005″. This isn’t arbitrary: a cutting process moving through sheet stock has more inherent variation at the edge than a rotating tool removing material in a controlled cut, so the achievable baseline tolerance differs by process before a shop even factors in equipment or skill. This matters directly for quote comparison. If one quote assumes ±0.01″ and another assumes ±0.005″ without either being stated explicitly, they’re not quotes for the same part — they’re quotes for two different implicit specifications, and the tighter one should reasonably cost more. Always check what tolerance a quote is actually built around before comparing the number at the bottom. What Does “Standard Finish” Actually Include? At eMachineShop, detab (separating the part from the stock it was cut from) and deburring (removing the sharp edge left behind) are included in every job’s price — no separate charge. That includes whatever incidental brushing is needed as part of deburring to bring the part to 125 µin Ra or below . Deburring and edge-finishing processes like these have been standard shop practice for as long as machining itself has been documented as a trade — this isn’t a new or exotic step, just one that’s easy to gloss over on a quote. This matters more for some parts than others. Milled parts often land under 125 Ra just from the cutting process itself — a mill making a controlled pass through solid stock tends to leave a smoother surface than an edge cut by laser, waterjet, or plasma through sheet material. 2D (sheet-cut) parts are the ones that typically don’t get there on their own — as-cut sheet edges commonly sit well above 125 Ra, and getting under that threshold takes the deburring step that’s already included standard. Worth distinguishing clearly: the dedicated Brushing finish — a separate, selectable option in eMachineShop’s CAD software that produces a uniform directional-grain surface — is not the same thing as the incidental brushing folded into standard deburring, and it carries its own additional charge if selected. If you don’t explicitly choose it, you’re not paying for it, and your part still gets the included detab-and-deburr processing regardless. This is worth knowing specifically because surface roughness, commonly measured as Ra , is exactly the kind of spec that can quietly turn into a separate charge elsewhere. A quote that only covers cutting with no deburring included, and prices a controlled roughness value as an add-on, is quoting something different from a quote where deburring to 125 Ra or better is already part of the standard price. Comparing the bottom-line numbers without accounting for that difference isn’t really comparing the same part. How Do You Get a Lower Price If You Don’t Need 125 Ra? Ask for it explicitly. If a part is genuinely fine as-cut — an internal bracket nobody sees or handles, a component where a rough edge won’t affect fit or safety — request as-cut with no detab and no deburring . Skipping these steps entirely is a real, legitimate way to reduce cost on a part that doesn’t need them, but it has to be specified; it’s not the default you’ll get by leaving the finish field blank. The tradeoff is straightforward: as-cut parts may still be attached to tabs from the stock sheet and will have sharp or rough edges from the cutting process, with no controlled roughness value at all. That’s a fine tradeoff for the right part. It’s the wrong one for anything that gets handled, needs to look clean, or has a mating surface where an untouched cut edge could cause a fit or seal problem. Frequently Asked Questions Does every part really come out at 125 Ra or below by default? Yes — detab and deburring, including whatever incidental brushing is needed, are included in the standard job price. If a part needs a tighter roughness spec than 125 Ra, that’s worth calling out explicitly since it goes beyond the standard. Why does this matter more for 2D parts than milled parts? Because milled (3D) parts often land under 125 Ra just from the machining process itself, while 2D sheet-cut parts typically don’t — as-cut edges from laser, waterjet, or plasma commonly sit above that threshold and need the included deburring step to get under it. Is the Brushing finish the same as the brushing included in standard deburring? No — the dedicated Brushing finish is a distinct, selectable option that produces a uniform directional-grain surface, and it has its own additional charge. The incidental brushing that’s part of standard deburring is included at no extra cost and isn’t the same finish. Does tighter 2D tolerance ever match 3D machining tolerance? It can, on some features, but expect it to push the part toward a milling process instead of sheet cutting, since ±0.01″ is the realistic baseline for cut-sheet processes. A print calling for ±0.005″ on a nominally “2D” part is effectively asking for machined-part precision. Does requesting as-cut mean sacrificing quality? Not if the part doesn’t need the roughness or edge condition that standard processing provides. It’s an informed cost tradeoff, not a shortcut — the part just won’t have tabs removed or edges deburred. Have a part where standard finishing is more than you need? Upload your drawing and specify as-cut in your finish requirements — or check our RFQ tolerance defaults if you’re comparing quotes and want to confirm what’s actually being priced. Written by James Wright , eMachineShop REQUEST A QUOTE Share this post in Social Media",
+  "published_at": "2026-08-05T18:56:25+00:00",
   "requested_url": "https://www.emachineshop.com/comparing-cnc-quotes-tolerances-finishing",
+  "schema_version": 2,
   "sections": [
     {
-      "hash": "f0bd417deb7f38ba169a87cfb86932de92e1c86d",
+      "hash": "7c1453d3b778b5512884f34bf880b3d5ff7f902e",
       "heading": "Comparing CNC Quotes? Here’s What Tolerance and Finishing Line Items Actually Mean",
       "level": "h1",
-      "text": "Comparing CNC Quotes? Here’s What Tolerance and Finishing Line Items Actually Mean by James Wright | Aug 5, 2026 « Back to all posts Two quotes for the same part can differ by a real margin and both be “correct” — because they’re not always quoting the same thing. Tolerance defaults vary by process, and a “standard finish” isn’t a fixed baseline across shops. Knowing what each term actually buys you is the difference between comparing apples to apples and picking the cheaper number without knowing why it’s cheaper. Quick Summary 2D (sheet) parts default to ±0.01″ tolerance; 3D (machined) parts default to ±0.005″ — a real difference tied to the process, not the shop. At eMachineShop, detab a..."
+      "text": "Comparing CNC Quotes? Here’s What Tolerance and Finishing Line Items Actually Mean by James Wright | Aug 5, 2026 « Back to all posts"
     },
     {
-      "hash": "f0bd417deb7f38ba169a87cfb86932de92e1c86d",
+      "hash": "ac4140df6a1ca53caba1e73ce2c1abb369a06b83",
       "heading": "Quick Summary",
       "level": "h3",
-      "text": "Comparing CNC Quotes? Here’s What Tolerance and Finishing Line Items Actually Mean by James Wright | Aug 5, 2026 « Back to all posts Two quotes for the same part can differ by a real margin and both be “correct” — because they’re not always quoting the same thing. Tolerance defaults vary by process, and a “standard finish” isn’t a fixed baseline across shops. Knowing what each term actually buys you is the difference between comparing apples to apples and picking the cheaper number without knowing why it’s cheaper. Quick Summary 2D (sheet) parts default to ±0.01″ tolerance; 3D (machined) parts default to ±0.005″ — a real difference tied to the process, not the shop. At eMachineShop, detab a..."
+      "text": "Quick Summary 2D (sheet) parts default to ±0.01″ tolerance; 3D (machined) parts default to ±0.005″ — a real difference tied to the process, not the shop. At eMachineShop, detab and deburring are included in the job price, no extra charge — this includes whatever incidental brushing is needed to bring the part to 125 µin Ra or below. The dedicated Brushing finish — a distinct, uniform directional-grain finish — is a separate option with its own charge if you select it explicitly in the CAD software . That’s different from the incidental smoothing already included in standard processing. Some shops charge separately for detab, deburring, and hitting a controlled roughness value. eMachineShop bundles the first three into the standard price by default. If a part genuinely doesn’t need 125 Ra or better, the way to lower the price is to explicitly request as-cut — no detab, no deburring."
     },
     {
-      "hash": "f0bd417deb7f38ba169a87cfb86932de92e1c86d",
+      "hash": "5614e40bffa9dd599632022a507aa8fffae4761f",
       "heading": "What’s the Difference Between 2D Tolerance and Mill Tolerance?",
       "level": "h2",
-      "text": "Comparing CNC Quotes? Here’s What Tolerance and Finishing Line Items Actually Mean by James Wright | Aug 5, 2026 « Back to all posts Two quotes for the same part can differ by a real margin and both be “correct” — because they’re not always quoting the same thing. Tolerance defaults vary by process, and a “standard finish” isn’t a fixed baseline across shops. Knowing what each term actually buys you is the difference between comparing apples to apples and picking the cheaper number without knowing why it’s cheaper. Quick Summary 2D (sheet) parts default to ±0.01″ tolerance; 3D (machined) parts default to ±0.005″ — a real difference tied to the process, not the shop. At eMachineShop, detab a..."
+      "text": "What’s the Difference Between 2D Tolerance and Mill Tolerance? 2D parts — sheet metal cut by laser, waterjet, or plasma — default to ±0.01″ unless a print specifies otherwise. 3D parts, machined on a mill or lathe, default to a tighter ±0.005″. This isn’t arbitrary: a cutting process moving through sheet stock has more inherent variation at the edge than a rotating tool removing material in a controlled cut, so the achievable baseline tolerance differs by process before a shop even factors in equipment or skill. This matters directly for quote comparison. If one quote assumes ±0.01″ and another assumes ±0.005″ without either being stated explicitly, they’re not quotes for the same part — they’re quotes for two different implicit specifications, and the tighter one should reasonably cost more. Always check what tolerance a quote is actually built around before comparing the number at the bottom."
     },
     {
-      "hash": "f0bd417deb7f38ba169a87cfb86932de92e1c86d",
+      "hash": "592f97c9c91153dc15e9c944d26fbe27c54048ef",
       "heading": "What Does “Standard Finish” Actually Include?",
       "level": "h2",
-      "text": "Comparing CNC Quotes? Here’s What Tolerance and Finishing Line Items Actually Mean by James Wright | Aug 5, 2026 « Back to all posts Two quotes for the same part can differ by a real margin and both be “correct” — because they’re not always quoting the same thing. Tolerance defaults vary by process, and a “standard finish” isn’t a fixed baseline across shops. Knowing what each term actually buys you is the difference between comparing apples to apples and picking the cheaper number without knowing why it’s cheaper. Quick Summary 2D (sheet) parts default to ±0.01″ tolerance; 3D (machined) parts default to ±0.005″ — a real difference tied to the process, not the shop. At eMachineShop, detab a..."
+      "text": "What Does “Standard Finish” Actually Include? At eMachineShop, detab (separating the part from the stock it was cut from) and deburring (removing the sharp edge left behind) are included in every job’s price — no separate charge. That includes whatever incidental brushing is needed as part of deburring to bring the part to 125 µin Ra or below . Deburring and edge-finishing processes like these have been standard shop practice for as long as machining itself has been documented as a trade — this isn’t a new or exotic step, just one that’s easy to gloss over on a quote. This matters more for some parts than others. Milled parts often land under 125 Ra just from the cutting process itself — a mill making a controlled pass through solid stock tends to leave a smoother surface than an edge cut by laser, waterjet, or plasma through sheet material. 2D (sheet-cut) parts are the ones that typically don’t get there on their own — as-cut sheet edges commonly sit well above 125 Ra, and getting under that threshold takes the deburring step that’s already included standard. Worth distinguishing clearly: the dedicated Brushing finish — a separate, selectable option in eMachineShop’s CAD software..."
     },
     {
-      "hash": "f0bd417deb7f38ba169a87cfb86932de92e1c86d",
+      "hash": "31955413b24c98a0316632b48688af642a7ff357",
       "heading": "How Do You Get a Lower Price If You Don’t Need 125 Ra?",
       "level": "h2",
-      "text": "Comparing CNC Quotes? Here’s What Tolerance and Finishing Line Items Actually Mean by James Wright | Aug 5, 2026 « Back to all posts Two quotes for the same part can differ by a real margin and both be “correct” — because they’re not always quoting the same thing. Tolerance defaults vary by process, and a “standard finish” isn’t a fixed baseline across shops. Knowing what each term actually buys you is the difference between comparing apples to apples and picking the cheaper number without knowing why it’s cheaper. Quick Summary 2D (sheet) parts default to ±0.01″ tolerance; 3D (machined) parts default to ±0.005″ — a real difference tied to the process, not the shop. At eMachineShop, detab a..."
+      "text": "How Do You Get a Lower Price If You Don’t Need 125 Ra? Ask for it explicitly. If a part is genuinely fine as-cut — an internal bracket nobody sees or handles, a component where a rough edge won’t affect fit or safety — request as-cut with no detab and no deburring . Skipping these steps entirely is a real, legitimate way to reduce cost on a part that doesn’t need them, but it has to be specified; it’s not the default you’ll get by leaving the finish field blank. The tradeoff is straightforward: as-cut parts may still be attached to tabs from the stock sheet and will have sharp or rough edges from the cutting process, with no controlled roughness value at all. That’s a fine tradeoff for the right part. It’s the wrong one for anything that gets handled, needs to look clean, or has a mating surface where an untouched cut edge could cause a fit or seal problem."
     },
     {
-      "hash": "f0bd417deb7f38ba169a87cfb86932de92e1c86d",
+      "hash": "250ceea8ab689f69b61e981d0760c32ae4dccda2",
       "heading": "Frequently Asked Questions",
       "level": "h2",
-      "text": "Comparing CNC Quotes? Here’s What Tolerance and Finishing Line Items Actually Mean by James Wright | Aug 5, 2026 « Back to all posts Two quotes for the same part can differ by a real margin and both be “correct” — because they’re not always quoting the same thing. Tolerance defaults vary by process, and a “standard finish” isn’t a fixed baseline across shops. Knowing what each term actually buys you is the difference between comparing apples to apples and picking the cheaper number without knowing why it’s cheaper. Quick Summary 2D (sheet) parts default to ±0.01″ tolerance; 3D (machined) parts default to ±0.005″ — a real difference tied to the process, not the shop. At eMachineShop, detab a..."
-    },
-    {
-      "hash": "517748dbb675d36f8d98577b7f64a529643aa996",
-      "heading": "Contact Information",
-      "level": "h3",
-      "text": "× Contact Information You will also receive a copy of your quote via email. Name: Email: I agree to the Terms of Use and Order Policies"
+      "text": "Frequently Asked Questions Does every part really come out at 125 Ra or below by default? Yes — detab and deburring, including whatever incidental brushing is needed, are included in the standard job price. If a part needs a tighter roughness spec than 125 Ra, that’s worth calling out explicitly since it goes beyond the standard. Why does this matter more for 2D parts than milled parts? Because milled (3D) parts often land under 125 Ra just from the machining process itself, while 2D sheet-cut parts typically don’t — as-cut edges from laser, waterjet, or plasma commonly sit above that threshold and need the included deburring step to get under it. Is the Brushing finish the same as the brushing included in standard deburring? No — the dedicated Brushing finish is a distinct, selectable option that produces a uniform directional-grain surface, and it has its own additional charge. The incidental brushing that’s part of standard deburring is included at no extra cost and isn’t the same finish. Does tighter 2D tolerance ever match 3D machining tolerance? It can, on some features, but expect it to push the part toward a milling process instead of sheet cutting, since ±0.01″ is the rea..."
     }
   ],
+  "sitemap_lastmod": "2026-08-05T19:22:52+00:00",
   "status": 200,
-  "structure_hash": "38bd1769c7373c7051ab815c0bb571c780edcedf",
-  "text_excerpt": "Comparing CNC Quotes: Tolerances & Finishing Line Items Explained About Our Company Testimonials Resources Quality Assurance FAQ Blog Crowd Funding Manufacturing CNC Machining Waterjet Cutting Laser Cutting Injection Molding 3D Printing Materials Finishes Sample Parts Software FREE CAD Help Index Video Guides Part Library Quote Contact Select Page MANUAL QUOTE GET FREE CAD ITAR Registered | JCP Certified | U.S.-Based Manufacturing Comparing CNC Quotes? Here’s What Tolerance and Finishing Line Items Actually Mean by James Wright | Aug 5, 2026 « Back to all posts Two quotes for the same part can differ by a real margin and both be “correct” — because they’re not always quoting the same thing. Tolerance defaults vary by process, and a “standard finish” isn’t a fixed baseline across shops. Knowing what each term actually buys you is the difference between comparing apples to apples and picking the cheaper number without knowing why it’s cheaper. Quick Summary 2D (sheet) parts default to ±0.01″ tolerance; 3D (machined) parts default to ±0.005″ — a real difference tied to the process, not the shop. At eMachineShop, detab and deburring are included in the job price, no extra charge — thi...",
-  "text_hash": "4b5b3858bc86c3f3b3f109bcebea4cf0ca12ae68",
+  "structure_hash": "02e1abc6a728fa0e6b652fc8dc0e25243277f268",
+  "text_excerpt": "Comparing CNC Quotes? Here’s What Tolerance and Finishing Line Items Actually Mean by James Wright | Aug 5, 2026 « Back to all posts Two quotes for the same part can differ by a real margin and both be “correct” — because they’re not always quoting the same thing. Tolerance defaults vary by process, and a “standard finish” isn’t a fixed baseline across shops. Knowing what each term actually buys you is the difference between comparing apples to apples and picking the cheaper number without knowing why it’s cheaper. Quick Summary 2D (sheet) parts default to ±0.01″ tolerance; 3D (machined) parts default to ±0.005″ — a real difference tied to the process, not the shop. At eMachineShop, detab and deburring are included in the job price, no extra charge — this includes whatever incidental brushing is needed to bring the part to 125 µin Ra or below. The dedicated Brushing finish — a distinct, uniform directional-grain finish — is a separate option with its own charge if you select it explicitly in the CAD software . That’s different from the incidental smoothing already included in standard processing. Some shops charge separately for detab, deburring, and hitting a controlled roughness...",
+  "text_hash": "f0bd417deb7f38ba169a87cfb86932de92e1c86d",
   "title": "Comparing CNC Quotes: Tolerances & Finishing Line Items Explained",
   "url": "https://www.emachineshop.com/comparing-cnc-quotes-tolerances-finishing"
 }

@@ -1,0 +1,197 @@
+{
+  "canonical": "https://www.hubs.com/knowledge-base/what-is-under-extrusion-in-3d-printing",
+  "category": "content",
+  "competitor": "Hubs",
+  "ctas": [
+    {
+      "href": "https://www.hubs.com/production-orders",
+      "text": "3D printer"
+    },
+    {
+      "href": "https://www.hubs.com/3d-printing/sla-dlp?technology=3d-printing&process=fdm",
+      "text": "Upload your design"
+    }
+  ],
+  "discovered_via": "sitemap",
+  "fetched_at": "2026-08-17T03:42:40+00:00",
+  "final_url": "https://www.hubs.com/knowledge-base/what-is-under-extrusion-in-3d-printing",
+  "first_seen_at": "2026-08-17T03:42:40+00:00",
+  "h1": "",
+  "headings": [
+    {
+      "level": "h2",
+      "text": "What causes under-extrusion?"
+    },
+    {
+      "level": "h2",
+      "text": "How to diagnose under-extrusion"
+    },
+    {
+      "level": "h2",
+      "text": "Hardware fixes for under-extrusion"
+    },
+    {
+      "level": "h2",
+      "text": "Under-extrusion and material selection"
+    },
+    {
+      "level": "h2",
+      "text": "Design considerations to avoid under-extrusion"
+    },
+    {
+      "level": "h2",
+      "text": "Impact of under-extrusion on part quality"
+    },
+    {
+      "level": "h2",
+      "text": "Troubleshooting checklist"
+    },
+    {
+      "level": "h2",
+      "text": "Alternatives to desktop FDM"
+    },
+    {
+      "level": "h2",
+      "text": "Get a quote"
+    },
+    {
+      "level": "h2",
+      "text": "Frequently asked questions"
+    },
+    {
+      "level": "h3",
+      "text": "How do I know if I have under-extrusion?"
+    },
+    {
+      "level": "h3",
+      "text": "Can filament quality cause under-extrusion?"
+    },
+    {
+      "level": "h3",
+      "text": "What’s the fastest fix?"
+    },
+    {
+      "level": "h3",
+      "text": "What’s the difference between under-extrusion and a clogged nozzle?"
+    },
+    {
+      "level": "h3",
+      "text": "Can under-extrusion happen mid-print?"
+    }
+  ],
+  "images": [
+    {
+      "alt": "Automation has enormous potential to assist with 3D printing at the design stage",
+      "src": "/images/trans.gif"
+    },
+    {
+      "alt": "CNC machining, 3D printing and sheet metal fabrication parts",
+      "src": "/images/trans.gif"
+    }
+  ],
+  "meta_description": "Learn what under-extrusion in 3D printing is, why it happens, how to fix it, and how to avoid it in future prints.",
+  "modified_at": "",
+  "monitored_text": "Under-extrusion is when your 3D printer isn’t pushing out enough filament to form solid, accurate layers. You’ll notice thin walls, gaps between lines, or weak parts. It’s one of the most common issues in FDM printing , but luckily it’s also one of the easiest to troubleshoot. What causes under-extrusion? Under-extrusion comes from mechanical, thermal, or material issues that block smooth filament flow. Often it’s a mix of factors working together. Clogged or worn nozzle: Partial blockages cut down flow. Wrong flow rate setting: If the slicer isn’t calibrated, you’ll get less material than expected. Temperature too low: Filament won’t melt and flow properly. Moisture in filament: Wet filament bubbles and feeds unevenly. Extruder slipping: Weak tension or a worn drive gear reduces grip. Heat creep: Heat moving up the hotend softens filament too early, jamming the path. PLA is especially prone. Inconsistent filament: Diameter changes force the extruder to push too much or too little. Even 1.80 mm vs. 1.75 mm creates problems. Print speed too high: Printing faster than the hotend can melt causes gaps mid-layer. Bowden tube issues: Long tubes add friction and flex, while loose or worn couplers let the tube slip during retractions. How to diagnose under-extrusion To spot under-extrusion, it helps to understand how FDM 3D printing works and what signs to look for. When your prints appear weak, first check if the problem is consistent or random. Consistent issues usually point to hardware, while random ones often come from filament or slicer settings. Here’s a simple checklist: Print a small calibration cube or single-wall test. Look closely under good light. Gaps, thin spots, or see-through areas mean under-extrusion. Measure filament diameter with calipers at different points on the spool. If it varies by more than ±0.05 mm, the filament quality is suspect. Measure the wall thickness of your test print and compare it to what the slicer intended. Big differences confirm an extrusion problem. Watch the printer during the first layer. Clicking or skipping means the extruder is struggling. Grinding sounds mean the drive gear is chewing the filament without moving it. Check the nozzle for partial clogs that can restrict flow. Make sure extrusion multiplier settings in the slicer are right for your material and printer. Confirm the nozzle and bed are reaching the right temperatures. Check the filament for moisture or diameter inconsistencies that can cause uneven feeding. Hardware fixes for under-extrusion If the problem is hardware, here’s what you can try: Replace or clean the nozzle: Remove clogs and replace worn tips. Add a silicone sock: Keeps nozzle temperature more stable. Improve cooling: Upgrade the heatsink fan or heat break. Set correct extruder tension: Ensure the drive gear grips filament without grinding. Upgrade to a geared drive: More torque equals more reliable extrusion. Reduce Bowden tube length: Shorter paths mean smoother extrusion. Secure couplers: Loose fittings can create gaps in the filament path. Use quality spools and holders: Prevent tangling and snags. If you don't want to deal with calibration, nozzle wear, or moisture issues yourself, you can consider using Protolabs Network for FDM printing . This is an easy way to avoid the trial and error and get consistent, fully dense parts every time. Under-extrusion and material selection Different 3D printing materials have different extrusion quirks. Matching your settings to the material solves a lot of under-extrusion problems before they start. Material Requirement PLA Very sensitive to heat creep and needs strong cooling PETG Requires higher nozzle temperatures and slower cooling ABS / Nylon Prefer heated chambers to prevent warping TPU Prints best with slow speeds and constrained filament paths Fiber-filled Need hardened nozzles and careful tuning to avoid clogging For a detailed breakdown of material properties and optimal settings, check out our guide to FDM filaments . Design considerations to avoid under-extrusion If you design with your printer’s strengths in mind, you avoid features that push it past its limits and risk under-extrusion. Wall thickness: Aim for at least two nozzle widths (0.8 mm with a 0.4 mm nozzle). Going thinner makes any extrusion issues a lot more obvious. Overhangs: Keep angles under 45° or add supports. Printing into thin air shows under-extrusion right away as drooping or sagging. Fine details: Don’t design features smaller than your nozzle diameter. For really intricate shapes, SLA printing is the better option. Layer height: Stay within 25–75% of your nozzle size. Extra-thin layers need perfect flow and are usually the first to fail when extrusion is uneven. See our guide on layer height impact for settings that work. Shell and infill: Pick shell and infill parameters that balance strength with material use. Adding more perimeters often hides small under-extrusion better than relying only on sparse infill. You’ll find more tips in our article on how to design parts for FDM 3D printing . Impact of under-extrusion on part quality Under-extrusion can affect the look of a part but, more importantly, it can weaken its structure in fundamental ways. Lower strength and stiffness: Gaps between lines mean the layers don’t stick together properly, so parts can break under much lighter loads. Porosity: Air pockets inside the print make parts brittle and unsuitable for holding liquids or pressure. Even cosmetic pieces end up looking unfinished. Fragile details: Thin walls, small holes, and fine features are the first to fail when extrusion is uneven. A part might look okay overall, but key details won’t hold up in use. Troubleshooting checklist When you see under-extrusion, work through this list systematically: Symptom Likely cause Quick fix Gaps in walls Nozzle clog, low flow rate Clean nozzle, raise flow rate 2–5% Weak, brittle parts Temperature too low, wet filament Increase temp 5–10°C, dry filament at 40–60°C for 4–6 hours Grinding noises from extruder Poor extruder tension, slipping gear Adjust tension, check drive gear for wear Inconsistent extrusion Moisture or inconsistent filament diameter Use dry, quality filament; verify diameter with calipers Missing layers Retraction too high, clogged nozzle Shorten retraction, clean/replace nozzle Print speed bottleneck Hotend can’t melt fast enough Reduce print speed 25% or increase nozzle temp Mid-print failure Heat creep causing jams Upgrade cooling, improve heat break, check heatsink fan False temperature readings Failing heater or thermistor Verify temps with an infrared thermometer Alternatives to desktop FDM If under-extrusion is an ongoing problem, you might consider switching to a different additive manufacturing technology. These processes offer greater consistency, accuracy, and material performance compared to desktop FDM. Options include: Industrial FDM : Provides tighter process control, larger build volumes, and higher reliability than desktop FDM, which makes it ideal for functional prototypes and production parts . MJF and SLS : Excellent for producing nylon parts with consistent density and mechanical strength. SLA : Ideal for resin parts that require fine detail, smooth surfaces, and high accuracy. DMLS : Offered by Protolabs Europe , this service is best suited for end-use metal components that need durability and precision. These industrial AM processes eliminate extrusion-related issues, giving you reliable, production-quality parts every time. Get a quote Ready to print without the hassle? Upload your design and get an instant FDM quote through Protolabs Network. Subscribe Get the latest manufacturing news delivered to your mailbox. Sign up for our newsletter Sign me up Please enter a valid email address. Leave this field empty Thanks! You're now subscribed to our newsletter. Frequently asked questions How do I know if I have under-extrusion? Look for gaps in walls, missing layers, or rough, weak surfaces. Can filament quality cause under-extrusion? Yes. Cheap or inconsistent filament diameters often feed poorly. What’s the fastest fix? Raise your print temperature slightly or check for a nozzle clog. What’s the difference between under-extrusion and a clogged nozzle? Under-extrusion is the symptom—not enough plastic coming out. A clogged nozzle is just one of several possible causes. Can under-extrusion happen mid-print? Yes. Heat creep, filament tangles, or a developing clog can trigger it partway through, showing up as a sudden drop in print quality at a certain layer.",
+  "published_at": "",
+  "requested_url": "https://www.hubs.com/knowledge-base/what-is-under-extrusion-in-3d-printing",
+  "schema_version": 2,
+  "sections": [
+    {
+      "hash": "7f7b4a70702d99eecbf09d8b31edd021ac906c64",
+      "heading": "What causes under-extrusion?",
+      "level": "h2",
+      "text": "What causes under-extrusion? Under-extrusion comes from mechanical, thermal, or material issues that block smooth filament flow. Often it’s a mix of factors working together. Clogged or worn nozzle: Partial blockages cut down flow. Wrong flow rate setting: If the slicer isn’t calibrated, you’ll get less material than expected. Temperature too low: Filament won’t melt and flow properly. Moisture in filament: Wet filament bubbles and feeds unevenly. Extruder slipping: Weak tension or a worn drive gear reduces grip. Heat creep: Heat moving up the hotend softens filament too early, jamming the path. PLA is especially prone. Inconsistent filament: Diameter changes force the extruder to push too much or too little. Even 1.80 mm vs. 1.75 mm creates problems. Print speed too high: Printing faster than the hotend can melt causes gaps mid-layer. Bowden tube issues: Long tubes add friction and flex, while loose or worn couplers let the tube slip during retractions."
+    },
+    {
+      "hash": "81cbdce6cfbb9cd188df308ab61ce9c57ea6a66d",
+      "heading": "How to diagnose under-extrusion",
+      "level": "h2",
+      "text": "How to diagnose under-extrusion To spot under-extrusion, it helps to understand how FDM 3D printing works and what signs to look for. When your prints appear weak, first check if the problem is consistent or random. Consistent issues usually point to hardware, while random ones often come from filament or slicer settings. Here’s a simple checklist: Print a small calibration cube or single-wall test. Look closely under good light. Gaps, thin spots, or see-through areas mean under-extrusion. Measure filament diameter with calipers at different points on the spool. If it varies by more than ±0.05 mm, the filament quality is suspect. Measure the wall thickness of your test print and compare it to what the slicer intended. Big differences confirm an extrusion problem. Watch the printer during the first layer. Clicking or skipping means the extruder is struggling. Grinding sounds mean the drive gear is chewing the filament without moving it. Check the nozzle for partial clogs that can restrict flow. Make sure extrusion multiplier settings in the slicer are right for your material and printer. Confirm the nozzle and bed are reaching the right temperatures. Check the filament for moisture..."
+    },
+    {
+      "hash": "32e7b55f34e1b051021088a62b28170e9d395dd0",
+      "heading": "Hardware fixes for under-extrusion",
+      "level": "h2",
+      "text": "Hardware fixes for under-extrusion If the problem is hardware, here’s what you can try: Replace or clean the nozzle: Remove clogs and replace worn tips. Add a silicone sock: Keeps nozzle temperature more stable. Improve cooling: Upgrade the heatsink fan or heat break. Set correct extruder tension: Ensure the drive gear grips filament without grinding. Upgrade to a geared drive: More torque equals more reliable extrusion. Reduce Bowden tube length: Shorter paths mean smoother extrusion. Secure couplers: Loose fittings can create gaps in the filament path. Use quality spools and holders: Prevent tangling and snags. If you don't want to deal with calibration, nozzle wear, or moisture issues yourself, you can consider using Protolabs Network for FDM printing . This is an easy way to avoid the trial and error and get consistent, fully dense parts every time."
+    },
+    {
+      "hash": "2e161e960dd84b42fe972e96e8c01064cf1aa800",
+      "heading": "Under-extrusion and material selection",
+      "level": "h2",
+      "text": "Under-extrusion and material selection Different 3D printing materials have different extrusion quirks. Matching your settings to the material solves a lot of under-extrusion problems before they start."
+    },
+    {
+      "hash": "2fb1881c7719ae3a79a14d9457a17852dd2e9a67",
+      "heading": "Design considerations to avoid under-extrusion",
+      "level": "h2",
+      "text": "Design considerations to avoid under-extrusion If you design with your printer’s strengths in mind, you avoid features that push it past its limits and risk under-extrusion. Wall thickness: Aim for at least two nozzle widths (0.8 mm with a 0.4 mm nozzle). Going thinner makes any extrusion issues a lot more obvious. Overhangs: Keep angles under 45° or add supports. Printing into thin air shows under-extrusion right away as drooping or sagging. Fine details: Don’t design features smaller than your nozzle diameter. For really intricate shapes, SLA printing is the better option. Layer height: Stay within 25–75% of your nozzle size. Extra-thin layers need perfect flow and are usually the first to fail when extrusion is uneven. See our guide on layer height impact for settings that work. Shell and infill: Pick shell and infill parameters that balance strength with material use. Adding more perimeters often hides small under-extrusion better than relying only on sparse infill. You’ll find more tips in our article on how to design parts for FDM 3D printing ."
+    },
+    {
+      "hash": "ec64673206304fc0c3910bcc5889bcb1695e9ad1",
+      "heading": "Impact of under-extrusion on part quality",
+      "level": "h2",
+      "text": "Impact of under-extrusion on part quality Under-extrusion can affect the look of a part but, more importantly, it can weaken its structure in fundamental ways. Lower strength and stiffness: Gaps between lines mean the layers don’t stick together properly, so parts can break under much lighter loads. Porosity: Air pockets inside the print make parts brittle and unsuitable for holding liquids or pressure. Even cosmetic pieces end up looking unfinished. Fragile details: Thin walls, small holes, and fine features are the first to fail when extrusion is uneven. A part might look okay overall, but key details won’t hold up in use."
+    },
+    {
+      "hash": "218affd62462a4d32e4b21898c9d1f1edccf9526",
+      "heading": "Troubleshooting checklist",
+      "level": "h2",
+      "text": "Troubleshooting checklist When you see under-extrusion, work through this list systematically:"
+    },
+    {
+      "hash": "6569c50d6fe58bdb884f0295aaf4420e43e4ed09",
+      "heading": "Alternatives to desktop FDM",
+      "level": "h2",
+      "text": "Alternatives to desktop FDM If under-extrusion is an ongoing problem, you might consider switching to a different additive manufacturing technology. These processes offer greater consistency, accuracy, and material performance compared to desktop FDM. Options include: Industrial FDM : Provides tighter process control, larger build volumes, and higher reliability than desktop FDM, which makes it ideal for functional prototypes and production parts . MJF and SLS : Excellent for producing nylon parts with consistent density and mechanical strength. SLA : Ideal for resin parts that require fine detail, smooth surfaces, and high accuracy. DMLS : Offered by Protolabs Europe , this service is best suited for end-use metal components that need durability and precision. These industrial AM processes eliminate extrusion-related issues, giving you reliable, production-quality parts every time."
+    },
+    {
+      "hash": "26109dcce9193a53695f4a41b3b44bfc306a6d05",
+      "heading": "Get a quote",
+      "level": "h2",
+      "text": "Get a quote Ready to print without the hassle? Upload your design and get an instant FDM quote through Protolabs Network."
+    },
+    {
+      "hash": "02842b08377539be654ab1179cf41e1d947c4424",
+      "heading": "Frequently asked questions",
+      "level": "h2",
+      "text": "Frequently asked questions Frequently asked questions"
+    },
+    {
+      "hash": "fad081d1b73ca0b645d51bcdeb1f4370f807eba0",
+      "heading": "How do I know if I have under-extrusion?",
+      "level": "h3",
+      "text": "How do I know if I have under-extrusion? Look for gaps in walls, missing layers, or rough, weak surfaces."
+    },
+    {
+      "hash": "245558d1f8cb83f3c826caabaab86351b407eaea",
+      "heading": "Can filament quality cause under-extrusion?",
+      "level": "h3",
+      "text": "Can filament quality cause under-extrusion? Yes. Cheap or inconsistent filament diameters often feed poorly."
+    },
+    {
+      "hash": "b9e37263123594b38c486e446db1709fe53ffd1a",
+      "heading": "What’s the fastest fix?",
+      "level": "h3",
+      "text": "What’s the fastest fix? Raise your print temperature slightly or check for a nozzle clog."
+    },
+    {
+      "hash": "0c1e67eadcc5cd86ec28f21ecaf0aafcc6edab5b",
+      "heading": "What’s the difference between under-extrusion and a clogged nozzle?",
+      "level": "h3",
+      "text": "What’s the difference between under-extrusion and a clogged nozzle? Under-extrusion is the symptom—not enough plastic coming out. A clogged nozzle is just one of several possible causes."
+    },
+    {
+      "hash": "44a1a5620c3a345dd248a82b1dabffdd9e15c35d",
+      "heading": "Can under-extrusion happen mid-print?",
+      "level": "h3",
+      "text": "Can under-extrusion happen mid-print? Yes. Heat creep, filament tangles, or a developing clog can trigger it partway through, showing up as a sudden drop in print quality at a certain layer."
+    }
+  ],
+  "sitemap_lastmod": "2025-10-14T12:52:10+00:00",
+  "status": 200,
+  "structure_hash": "12a1a5c27a3ad4279c2bed5c4d5fc5fcbbe18d82",
+  "text_excerpt": "Under-extrusion is when your 3D printer isn’t pushing out enough filament to form solid, accurate layers. You’ll notice thin walls, gaps between lines, or weak parts. It’s one of the most common issues in FDM printing , but luckily it’s also one of the easiest to troubleshoot. What causes under-extrusion? Under-extrusion comes from mechanical, thermal, or material issues that block smooth filament flow. Often it’s a mix of factors working together. Clogged or worn nozzle: Partial blockages cut down flow. Wrong flow rate setting: If the slicer isn’t calibrated, you’ll get less material than expected. Temperature too low: Filament won’t melt and flow properly. Moisture in filament: Wet filament bubbles and feeds unevenly. Extruder slipping: Weak tension or a worn drive gear reduces grip. Heat creep: Heat moving up the hotend softens filament too early, jamming the path. PLA is especially prone. Inconsistent filament: Diameter changes force the extruder to push too much or too little. Even 1.80 mm vs. 1.75 mm creates problems. Print speed too high: Printing faster than the hotend can melt causes gaps mid-layer. Bowden tube issues: Long tubes add friction and flex, while loose or worn...",
+  "text_hash": "c217b0599b71b295cf295abcf27e066fd34b485d",
+  "title": "What is under-extrusion in 3D printing? | Protolabs Network",
+  "url": "https://www.hubs.com/knowledge-base/what-is-under-extrusion-in-3d-printing"
+}

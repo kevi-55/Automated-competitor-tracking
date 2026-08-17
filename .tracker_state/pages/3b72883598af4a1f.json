@@ -1,0 +1,207 @@
+{
+  "canonical": "https://www.hubs.com/knowledge-base/benefits-of-chromate-conversion-coating-for-custom-parts",
+  "category": "content",
+  "competitor": "Hubs",
+  "ctas": [
+    {
+      "href": "https://www.hubs.com/manufacture?technology=cnc-machining",
+      "text": "uploaded your part"
+    },
+    {
+      "href": "https://www.hubs.com/manufacture?technology=cnc-machining",
+      "text": "Get an instant quote"
+    }
+  ],
+  "discovered_via": "sitemap",
+  "fetched_at": "2026-08-17T03:42:50+00:00",
+  "final_url": "https://www.hubs.com/knowledge-base/benefits-of-chromate-conversion-coating-for-custom-parts",
+  "first_seen_at": "2026-08-17T03:42:50+00:00",
+  "h1": "",
+  "headings": [
+    {
+      "level": "h2",
+      "text": "What is chromate conversion coating?"
+    },
+    {
+      "level": "h2",
+      "text": "Here’s how it works:"
+    },
+    {
+      "level": "h2",
+      "text": "Technical standards and specifications"
+    },
+    {
+      "level": "h2",
+      "text": "Design considerations for CNC parts"
+    },
+    {
+      "level": "h3",
+      "text": "How to specify chromate conversion coating on Protolabs Network"
+    },
+    {
+      "level": "h2",
+      "text": "Advantages of chromate conversion coating"
+    },
+    {
+      "level": "h2",
+      "text": "Disadvantages of chromate conversion coating"
+    },
+    {
+      "level": "h2",
+      "text": "Chromate vs. other finishes"
+    },
+    {
+      "level": "h2",
+      "text": "Applications by industry"
+    },
+    {
+      "level": "h2",
+      "text": "Selecting the right surface finish"
+    },
+    {
+      "level": "h2",
+      "text": "Frequently asked questions"
+    },
+    {
+      "level": "h3",
+      "text": "Is chromate conversion coating RoHS‑compliant?"
+    },
+    {
+      "level": "h3",
+      "text": "Will it move my dimensions?"
+    },
+    {
+      "level": "h3",
+      "text": "Can I coat steel or magnesium?"
+    },
+    {
+      "level": "h3",
+      "text": "How long does it last on the shelf?"
+    },
+    {
+      "level": "h3",
+      "text": "How much does chromate conversion coating cost?"
+    }
+  ],
+  "images": [
+    {
+      "alt": "Chromate-conversion",
+      "src": "/images/trans.gif"
+    },
+    {
+      "alt": "CNC machining, 3D printing and sheet metal fabrication parts",
+      "src": "/images/trans.gif"
+    }
+  ],
+  "meta_description": "When you need corrosion protection, tight tolerances, and reliable conductivity, chromate conversion coating, often known by its brand name, Alodine, delivers. This guide explains what it is, when it outperforms anodizing, and how to get the results you want.",
+  "modified_at": "",
+  "monitored_text": "What is chromate conversion coating? Chromate conversion coating is a super-thin chemical layer that passivates aluminum and other light alloys—chemically stabilizing them to reduce reactivity and prevent corrosion. It goes by several names: \"chromate conversion coating\" is the formal technical term, \"chem-film\" refers to the chemical film it creates, and \"Alodine\" and “Surtec 650” are widely used brand names for specific chemistries. All terms are often used interchangeably in the industry. The finish creates a thin, protective layer on the surface of the part without significantly changing its dimensions. Because it doesn’t build up like paint or powder coat, it’s a good option for tight-tolerance parts. One of the key features is that the resulting coating is extremely thin (typically around 0.00001 to 0.0001 inches or 0.25 to 2.5 µm) and electrically conductive—especially important in electronics enclosures, chassis grounds, or components that will be assembled with fasteners and gaskets. This guide covers the nuts and bolts of the process, how the different specs stack up, and a few quick DFM tips you can drop straight into your CAD notes or technical drawing. How the process works The chem-film process follows three straightforward steps—clean, dip, rinse. Here’s how it works: Surface prep : Parts go through a cleaning and deoxidizing bath to expose fresh metal for the chromate layer. Dip or spray : Now the cleaned parts are ready for their second bath, which is loaded with either hexavalent chromium (Type I) or its greener cousin, trivalent chromium (Type II). The chemicals react in seconds, building a gel-like layer that bonds to the surface. Rinse and dry : A quick rinse stops the reaction. No baking or forced curing required—parts air-dry, and the coating continues to set over the next 24 hours. Color is the quick tell: Protolabs Network only uses chromates free of hexavalent chromium (the RoHS-friendly option). Technical standards and specifications Chromate conversion coatings are covered by several overlapping standards worldwide. Key standards : While MIL-DTL-5541 is common in the U.S., ISO 8081 is widely recognized across Europe and Asia, and similar standards exist regionally in countries like China (GB/T 26266) and Japan (JIS H 8681). Type I vs Type II : Type I uses hexavalent chromium for maximum corrosion protection. Type II swaps in trivalent chemistry so parts meet RoHS and REACH rules. Class 1A vs Class 3 : Class 1A builds a slightly thicker layer for more corrosion resistance, while Class 3 keeps the film thinner to maintain electrical conductivity. The Protolabs Network chromate conversion service only uses RoHS-compliant chromate conversion coating. If you have any special requirements, you can just add them to your technical drawing when you upload your CAD model. Design considerations for CNC parts Even a film this thin can cause issues if it's overlooked during CAD work. Keep these points in mind: Check your gaps : Working with less than 0.025 mm of clearance? Even a thin coating plus its tolerance stack-up could squeeze your fit. Plan your ground points : If you need bare metal for an EMI gasket or ground lug, be sure to call it out in a 2D drawing or flag it in your technical drawing when you upload your CAD to Protolabs Network. Torque tweaks : Chem-film tends to slip more than bare aluminum. If preload matters in your assembly, run a quick torque test or consider switching up your fastener strategy. Mask intentionally : Threads, bearing seats, and press‑fits often require raw metal. Masking isn’t applied by default. If you want specific areas left uncoated, you’ll need to call it out. Set inspection expectations : If corrosion resistance or conductivity is critical, make sure your inspection requirements reflect that. Include notes on no-coat zones or post-coating tolerances where needed. Want more DFM guidelines? Browse the CNC knowledge base or the CNC machining design guide . How to specify chromate conversion coating on Protolabs Network Once you’ve uploaded your part , select “Chromate Conversion Coating” or “Bead Blasted + Chromate Conversion Coating” from the surface finish menu. If you have masking, tight-tolerance features, or no-coat zones, include a technical drawing that calls it out. Chromate is only supported for aluminum parts. If you’re not sure whether it’s right for your application, the Protolabs Network application engineers can help: network-sales@protolabs.com. Keep in mind that chromate conversion coating is considered non-cosmetic by default. If visual consistency is important, you can request a cosmetic review when combining finishes like bead blasting with chem-film. Advantages of chromate conversion coating Chromate conversion coating packs a lot of value into an ultra‑thin layer—great for when you need to avoid corrosion and maintain conductivity. Corrosion protection without adding thickness. Chromate conversion coating is a go-to when you need resistance to oxidation but can’t afford dimensional change. Electrical conductivity. Class 3 coatings are great for grounding, shielding, or mounting. Tight tolerance compatibility. It’s one of the few finishes that can be applied without eating up your clearance budget. Paint and adhesive adhesion. Chem-film acts as a primer layer, improving bond strength when used under paint or adhesives. Simple, low-temp process. No heat, no distortion—works well for precision machined parts. Cost-effective. Has a minimal impact on your price tag and can be delivered with a quick turnaround. Disadvantages of chromate conversion coating No finish is perfect. Keep the following limitations in mind: The coating is soft and can scratch easily. Hexavalent formulas face increasing regulatory restrictions. The film can pick up fingerprints before it fully cures, so careful handling is required. Chromate vs. other finishes Picking a finish is usually a trade‑study. Here’s a snapshot of how chem‑film stacks up against the usual suspects: Property Chromate conversion Type II clear anodize Hard‑coat anodize Powder coat Thickness ≤ 0.5 µm For clear: minimum 10 μm (average). Minimum 8 μm (local) For black and color: minimum 15 μm (average). Minimum 12 μm (local) 35–50 µm 50–150 µm (ideally around 60-80 µm) Dimensional impact Almost none Low Moderate–High High Corrosion protection Good (up to 336 h salt‑spray) Good Excellent Excellent Conductive? Yes (Class 3: <5 mΩ) No No No Wear resistance Low Moderate High Moderate Color range Clear Clear Dark grey Huge palette RoHS‑friendly Type II ✔ ✔ ✔ ✔ Typical applications Grounding, EMI shielding Cosmetic aluminum parts Moving parts, high wear Consumer enclosures Cost $ $$ $$$ $$ Bottom line: Need conductivity and zero dimensional change? Go chromate. Require abrasion resistance or a vivid color? Opt for anodizing or powder coat. Applications by industry From jetliners to smart‑home hubs, chem‑film shows up wherever metal parts must stay light, rust‑free, and conductive. Aerospace manufacturing : Control housings, fuel‑system manifolds, and bonding jumpers lean on Class 3 chem‑film to save weight but keep that crucial ground path. Electronics manufacturing : EMI/RFI shielding cans and chassis use Type II, Class 3 coatings so signals stay clean while the chassis resists oxidation. Automotive manufacturing : EV battery trays and lightweight brackets use trivalent chem‑film for corrosion protection without impacting grounding studs. Robotics & automation : Gearbox covers and sensor mounts often get chem‑film before a powder topcoat so paint sticks and conductive pads stay bare. Selecting the right surface finish Ask yourself two quick questions about what you need out of your surface finish : Do I need the part to carry current? Yes → chromate or conductive anodize. No → broaden the field to anodize, powder, or plating. Is wear or looks the top priority? If wear or color is king, anodize or powder coat likely beat chem‑film. For a deeper comparison table spanning every common metal finish, check out our article on the different types of surface finishes for CNC machining . Need corrosion protection without adding bulk? Request a free, instant quote and upload your CAD for real‑time pricing on your CNC part. Get an instant quote Subscribe Get the latest manufacturing news delivered to your mailbox. Sign up for our newsletter Sign me up Please enter a valid email address. Leave this field empty Thanks! You're now subscribed to our newsletter. Frequently asked questions Is chromate conversion coating RoHS‑compliant? Only the trivalent Type II formulas pass RoHS. Hex‑chrome (Type I) is still allowed under some aerospace exemptions. Protolabs Network only uses hexavalent-chromium–free, RoHS-compliant chromate conversion coating. Will it move my dimensions? It adds less than 0.00002 in. (0.5 µm)—usually a non‑issue. Still, mask critical bores and threads just in case. Can I coat steel or magnesium? Technically possible with specialized chemistries, but less common. Chromate is typically used on aluminum. For steel, it’s more often applied over a zinc-plated base. Aluminum is the only metal you can coat on Protolabs Network. How long does it last on the shelf? Class 1A parts stored dry below 30 °C should avoid rust for up to two years. Conductive Class 3 parts should be assembled within six months. How much does chromate conversion coating cost? It is one of the most affordable finishes out there, though masking and testing will bump small‑batch costs.",
+  "published_at": "",
+  "requested_url": "https://www.hubs.com/knowledge-base/benefits-of-chromate-conversion-coating-for-custom-parts",
+  "schema_version": 2,
+  "sections": [
+    {
+      "hash": "206ac45c07044c6cefaea33670a6d68f9deeae42",
+      "heading": "What is chromate conversion coating?",
+      "level": "h2",
+      "text": "What is chromate conversion coating? Chromate conversion coating is a super-thin chemical layer that passivates aluminum and other light alloys—chemically stabilizing them to reduce reactivity and prevent corrosion. It goes by several names: \"chromate conversion coating\" is the formal technical term, \"chem-film\" refers to the chemical film it creates, and \"Alodine\" and “Surtec 650” are widely used brand names for specific chemistries. All terms are often used interchangeably in the industry. The finish creates a thin, protective layer on the surface of the part without significantly changing its dimensions. Because it doesn’t build up like paint or powder coat, it’s a good option for tight-tolerance parts. One of the key features is that the resulting coating is extremely thin (typically around 0.00001 to 0.0001 inches or 0.25 to 2.5 µm) and electrically conductive—especially important in electronics enclosures, chassis grounds, or components that will be assembled with fasteners and gaskets. This guide covers the nuts and bolts of the process, how the different specs stack up, and a few quick DFM tips you can drop straight into your CAD notes or technical drawing. How the process..."
+    },
+    {
+      "hash": "147bf1e505d8be5219e907073004f02a2f1c1b7b",
+      "heading": "Here’s how it works:",
+      "level": "h2",
+      "text": "Here’s how it works: Surface prep : Parts go through a cleaning and deoxidizing bath to expose fresh metal for the chromate layer. Dip or spray : Now the cleaned parts are ready for their second bath, which is loaded with either hexavalent chromium (Type I) or its greener cousin, trivalent chromium (Type II). The chemicals react in seconds, building a gel-like layer that bonds to the surface. Rinse and dry : A quick rinse stops the reaction. No baking or forced curing required—parts air-dry, and the coating continues to set over the next 24 hours. Color is the quick tell: Protolabs Network only uses chromates free of hexavalent chromium (the RoHS-friendly option)."
+    },
+    {
+      "hash": "26f4fd4c30902b554dfd4863575f0bc9af914736",
+      "heading": "Technical standards and specifications",
+      "level": "h2",
+      "text": "Technical standards and specifications Chromate conversion coatings are covered by several overlapping standards worldwide. Key standards : While MIL-DTL-5541 is common in the U.S., ISO 8081 is widely recognized across Europe and Asia, and similar standards exist regionally in countries like China (GB/T 26266) and Japan (JIS H 8681). Type I vs Type II : Type I uses hexavalent chromium for maximum corrosion protection. Type II swaps in trivalent chemistry so parts meet RoHS and REACH rules. Class 1A vs Class 3 : Class 1A builds a slightly thicker layer for more corrosion resistance, while Class 3 keeps the film thinner to maintain electrical conductivity. The Protolabs Network chromate conversion service only uses RoHS-compliant chromate conversion coating. If you have any special requirements, you can just add them to your technical drawing when you upload your CAD model."
+    },
+    {
+      "hash": "33f2da5ebde091cc592ce0d7cc6c5de6dd58c43c",
+      "heading": "Design considerations for CNC parts",
+      "level": "h2",
+      "text": "Design considerations for CNC parts Even a film this thin can cause issues if it's overlooked during CAD work. Keep these points in mind: Check your gaps : Working with less than 0.025 mm of clearance? Even a thin coating plus its tolerance stack-up could squeeze your fit. Plan your ground points : If you need bare metal for an EMI gasket or ground lug, be sure to call it out in a 2D drawing or flag it in your technical drawing when you upload your CAD to Protolabs Network. Torque tweaks : Chem-film tends to slip more than bare aluminum. If preload matters in your assembly, run a quick torque test or consider switching up your fastener strategy. Mask intentionally : Threads, bearing seats, and press‑fits often require raw metal. Masking isn’t applied by default. If you want specific areas left uncoated, you’ll need to call it out. Set inspection expectations : If corrosion resistance or conductivity is critical, make sure your inspection requirements reflect that. Include notes on no-coat zones or post-coating tolerances where needed. Want more DFM guidelines? Browse the CNC knowledge base or the CNC machining design guide ."
+    },
+    {
+      "hash": "a922a424925576e64c0d881aa3dfa294c4f2a414",
+      "heading": "How to specify chromate conversion coating on Protolabs Network",
+      "level": "h3",
+      "text": "How to specify chromate conversion coating on Protolabs Network Once you’ve uploaded your part , select “Chromate Conversion Coating” or “Bead Blasted + Chromate Conversion Coating” from the surface finish menu. If you have masking, tight-tolerance features, or no-coat zones, include a technical drawing that calls it out. Chromate is only supported for aluminum parts. If you’re not sure whether it’s right for your application, the Protolabs Network application engineers can help: network-sales@protolabs.com. Keep in mind that chromate conversion coating is considered non-cosmetic by default. If visual consistency is important, you can request a cosmetic review when combining finishes like bead blasting with chem-film."
+    },
+    {
+      "hash": "53b72e1bd5eb2b0466e88e0004a09bd4840d64ad",
+      "heading": "Advantages of chromate conversion coating",
+      "level": "h2",
+      "text": "Advantages of chromate conversion coating Chromate conversion coating packs a lot of value into an ultra‑thin layer—great for when you need to avoid corrosion and maintain conductivity. Corrosion protection without adding thickness. Chromate conversion coating is a go-to when you need resistance to oxidation but can’t afford dimensional change. Electrical conductivity. Class 3 coatings are great for grounding, shielding, or mounting. Tight tolerance compatibility. It’s one of the few finishes that can be applied without eating up your clearance budget. Paint and adhesive adhesion. Chem-film acts as a primer layer, improving bond strength when used under paint or adhesives. Simple, low-temp process. No heat, no distortion—works well for precision machined parts. Cost-effective. Has a minimal impact on your price tag and can be delivered with a quick turnaround."
+    },
+    {
+      "hash": "82bda72e9ce10a4c6b781ab8971cfa16c4b44bdb",
+      "heading": "Disadvantages of chromate conversion coating",
+      "level": "h2",
+      "text": "Disadvantages of chromate conversion coating No finish is perfect. Keep the following limitations in mind: The coating is soft and can scratch easily. Hexavalent formulas face increasing regulatory restrictions. The film can pick up fingerprints before it fully cures, so careful handling is required."
+    },
+    {
+      "hash": "e780c8bfd08fcb2bd8e0989e5bd163787dbc042d",
+      "heading": "Chromate vs. other finishes",
+      "level": "h2",
+      "text": "Chromate vs. other finishes Picking a finish is usually a trade‑study. Here’s a snapshot of how chem‑film stacks up against the usual suspects:"
+    },
+    {
+      "hash": "98ef2259e0574cd1bb17a778809119111c43cc45",
+      "heading": "Applications by industry",
+      "level": "h2",
+      "text": "Applications by industry From jetliners to smart‑home hubs, chem‑film shows up wherever metal parts must stay light, rust‑free, and conductive. Aerospace manufacturing : Control housings, fuel‑system manifolds, and bonding jumpers lean on Class 3 chem‑film to save weight but keep that crucial ground path. Electronics manufacturing : EMI/RFI shielding cans and chassis use Type II, Class 3 coatings so signals stay clean while the chassis resists oxidation. Automotive manufacturing : EV battery trays and lightweight brackets use trivalent chem‑film for corrosion protection without impacting grounding studs. Robotics & automation : Gearbox covers and sensor mounts often get chem‑film before a powder topcoat so paint sticks and conductive pads stay bare."
+    },
+    {
+      "hash": "9e25260da9211206f5343658242ca21dd3b56e20",
+      "heading": "Selecting the right surface finish",
+      "level": "h2",
+      "text": "Selecting the right surface finish Ask yourself two quick questions about what you need out of your surface finish : Do I need the part to carry current? Yes → chromate or conductive anodize. No → broaden the field to anodize, powder, or plating. Is wear or looks the top priority? If wear or color is king, anodize or powder coat likely beat chem‑film. For a deeper comparison table spanning every common metal finish, check out our article on the different types of surface finishes for CNC machining ."
+    },
+    {
+      "hash": "02842b08377539be654ab1179cf41e1d947c4424",
+      "heading": "Frequently asked questions",
+      "level": "h2",
+      "text": "Frequently asked questions Frequently asked questions"
+    },
+    {
+      "hash": "f4e27adca2bba4097644fd210752405730251b94",
+      "heading": "Is chromate conversion coating RoHS‑compliant?",
+      "level": "h3",
+      "text": "Is chromate conversion coating RoHS‑compliant? Only the trivalent Type II formulas pass RoHS. Hex‑chrome (Type I) is still allowed under some aerospace exemptions. Protolabs Network only uses hexavalent-chromium–free, RoHS-compliant chromate conversion coating."
+    },
+    {
+      "hash": "38e282141a8fabeecd9f9a3d11ecd99c57f18381",
+      "heading": "Will it move my dimensions?",
+      "level": "h3",
+      "text": "Will it move my dimensions? It adds less than 0.00002 in. (0.5 µm)—usually a non‑issue. Still, mask critical bores and threads just in case."
+    },
+    {
+      "hash": "f0bcd2cc6f67f7ad9ff99d9bde40eae66020c2c5",
+      "heading": "Can I coat steel or magnesium?",
+      "level": "h3",
+      "text": "Can I coat steel or magnesium? Technically possible with specialized chemistries, but less common. Chromate is typically used on aluminum. For steel, it’s more often applied over a zinc-plated base. Aluminum is the only metal you can coat on Protolabs Network."
+    },
+    {
+      "hash": "eb9c1ae6575e799e9ab289f1754b9559077e061a",
+      "heading": "How long does it last on the shelf?",
+      "level": "h3",
+      "text": "How long does it last on the shelf? Class 1A parts stored dry below 30 °C should avoid rust for up to two years. Conductive Class 3 parts should be assembled within six months."
+    },
+    {
+      "hash": "1046c48966617c11d28e4dd4e5179f9d4308f36b",
+      "heading": "How much does chromate conversion coating cost?",
+      "level": "h3",
+      "text": "How much does chromate conversion coating cost? It is one of the most affordable finishes out there, though masking and testing will bump small‑batch costs."
+    }
+  ],
+  "sitemap_lastmod": "2025-07-22T14:13:39+00:00",
+  "status": 200,
+  "structure_hash": "efcc2505d3d06b196c2c3aa1cb7673ab5bc17efb",
+  "text_excerpt": "What is chromate conversion coating? Chromate conversion coating is a super-thin chemical layer that passivates aluminum and other light alloys—chemically stabilizing them to reduce reactivity and prevent corrosion. It goes by several names: \"chromate conversion coating\" is the formal technical term, \"chem-film\" refers to the chemical film it creates, and \"Alodine\" and “Surtec 650” are widely used brand names for specific chemistries. All terms are often used interchangeably in the industry. The finish creates a thin, protective layer on the surface of the part without significantly changing its dimensions. Because it doesn’t build up like paint or powder coat, it’s a good option for tight-tolerance parts. One of the key features is that the resulting coating is extremely thin (typically around 0.00001 to 0.0001 inches or 0.25 to 2.5 µm) and electrically conductive—especially important in electronics enclosures, chassis grounds, or components that will be assembled with fasteners and gaskets. This guide covers the nuts and bolts of the process, how the different specs stack up, and a few quick DFM tips you can drop straight into your CAD notes or technical drawing. How the process...",
+  "text_hash": "bb6cac00584c1a4e8a6ce5b815f527b48da77ff1",
+  "title": "Benefits of chromate conversion coating for custom parts | Protolabs Network",
+  "url": "https://www.hubs.com/knowledge-base/benefits-of-chromate-conversion-coating-for-custom-parts"
+}

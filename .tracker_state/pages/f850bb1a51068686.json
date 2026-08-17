@@ -1,0 +1,333 @@
+{
+  "canonical": "https://www.protolabs.com/resources/blog/mjf-vs-fdm-3d-printing",
+  "category": "content",
+  "competitor": "Protolabs",
+  "ctas": [
+    {
+      "href": "https://www.protolabs.com/ecom/get-a-quote",
+      "text": "Get a Quote"
+    }
+  ],
+  "discovered_via": "sitemap",
+  "fetched_at": "2026-08-17T03:48:43+00:00",
+  "final_url": "https://www.protolabs.com/resources/blog/mjf-vs-fdm-3d-printing",
+  "first_seen_at": "2026-08-17T03:48:43+00:00",
+  "h1": "MJF vs. FDM 3D Printing",
+  "headings": [
+    {
+      "level": "h1",
+      "text": "MJF vs. FDM 3D Printing"
+    },
+    {
+      "level": "h2",
+      "text": "How MJF and FDM Work"
+    },
+    {
+      "level": "h3",
+      "text": "Multi Jet Fusion (MJF)"
+    },
+    {
+      "level": "h3",
+      "text": "Industrial FDM"
+    },
+    {
+      "level": "h2",
+      "text": "Material Options"
+    },
+    {
+      "level": "h3",
+      "text": "MJF Materials"
+    },
+    {
+      "level": "h3",
+      "text": "FDM Materials"
+    },
+    {
+      "level": "h2",
+      "text": "Mechanical Performance"
+    },
+    {
+      "level": "h3",
+      "text": "MJF Strength and Isotropy"
+    },
+    {
+      "level": "h3",
+      "text": "FDM Strength Considerations"
+    },
+    {
+      "level": "h2",
+      "text": "Surface Finish and Appearance"
+    },
+    {
+      "level": "h3",
+      "text": "MJF Surface Finish"
+    },
+    {
+      "level": "h3",
+      "text": "FDM Surface Finish"
+    },
+    {
+      "level": "h2",
+      "text": "Design Freedom and Complexity"
+    },
+    {
+      "level": "h2",
+      "text": "Advantages of MJF"
+    },
+    {
+      "level": "h2",
+      "text": "Advantages of FDM"
+    },
+    {
+      "level": "h2",
+      "text": "Dimensional Accuracy"
+    },
+    {
+      "level": "h2",
+      "text": "Cost Considerations"
+    },
+    {
+      "level": "h3",
+      "text": "When MJF Is Typically More Economical"
+    },
+    {
+      "level": "h3",
+      "text": "When FDM May Be More Economical"
+    },
+    {
+      "level": "h2",
+      "text": "MJF vs. FDM: Which process should you choose?"
+    },
+    {
+      "level": "h2",
+      "text": "Moving From Prototype to Production"
+    },
+    {
+      "level": "h2",
+      "text": "Frequently Asked Questions"
+    },
+    {
+      "level": "h3",
+      "text": "Is MJF stronger than FDM?"
+    },
+    {
+      "level": "h3",
+      "text": "When should I choose MJF over FDM?"
+    },
+    {
+      "level": "h3",
+      "text": "Is MJF or FDM more cost-effective?"
+    },
+    {
+      "level": "h2",
+      "text": "Start a 3D Printing Project"
+    }
+  ],
+  "images": [
+    {
+      "alt": "",
+      "src": "/media/cr2hluvo/protolabs-mark-dark.jpg?width=200&height=200&v=1dbe9bffb5af870"
+    },
+    {
+      "alt": "",
+      "src": "/media/rgynxd4b/pl_3dp_mjf_crop.jpg?width=1370&v=1dc11b054a83ba0"
+    },
+    {
+      "alt": "",
+      "src": "/media/dlcbgguz/mjf-standard.jpg"
+    },
+    {
+      "alt": "black multi jet fusion parts",
+      "src": "/media/1011059/pl-mjf-black-900x400.jpg?width=115&height=115&v=1d8530e98b75970"
+    },
+    {
+      "alt": "FDM 3D-Printed Parts",
+      "src": "/media/lzkisptr/dsc03498-1200x800-5b2df79-3-1.jpg?width=115&height=115&v=1dc0bbebc763ef0"
+    },
+    {
+      "alt": "3D printed parts",
+      "src": "/media/1014236/dmls-prototype-part-for-university-of-minnesota-570x308.jpg?width=115&height=115&v=1d3d281976ca410"
+    },
+    {
+      "alt": "production 3d printing parts",
+      "src": "/media/ly3lahjz/3dp_cerakote_production_03_hr-260x170-3092b8e.png?width=115&height=115&v=1dcc1147c497d90"
+    }
+  ],
+  "meta_description": "Compare MJF and industrial FDM for strength, accuracy, surface finish, and cost to choose the best process for your application.",
+  "modified_at": "",
+  "monitored_text": "3d printing June 22, 2026 MJF vs. FDM 3D Printing By Protolabs When selecting a plastic additive manufacturing process, engineers often compare Multi Jet Fusion (MJF) and fused deposition modeling (FDM). Both technologies produce durable thermoplastic parts without tooling, but they differ significantly in mechanical performance, feature resolution, surface quality, throughput, and cost. Understanding those differences early in product development can help you avoid unnecessary design compromises and identify the most efficient path from prototype to production. At Protolabs, both technologies support rapid iteration and functional testing. However, each process is optimized for different applications and manufacturing requirements. How MJF and FDM Work MJF and FDM both build parts layer by layer, but the underlying processes are fundamentally different. Multi Jet Fusion (MJF) MJF uses an inkjet array to selectively deposit fusing and detailing agents onto a powder bed of nylon material. Infrared energy then fuses the selected regions. After each layer is completed, a new layer of powder is spread and the process repeats. Because the surrounding powder supports the part during printing, MJF does not require dedicated support structures. This allows for complex geometries, internal channels, lattices, and nested assemblies. Learn more about MJF 3D printing . Industrial FDM Industrial FDM builds parts by extruding heated thermoplastic filament through a nozzle. Material is deposited layer by layer until the part is complete. Depending on geometry, support structures may be required and removed after printing. FDM supports a wide range of engineering-grade thermoplastics, including ABS, polycarbonate, Ultem™ and carbon-fiber-filled materials. This makes it attractive for applications requiring specific thermal, chemical, or flame-retardant properties. Learn more about FDM 3D printing . Material Options Material selection is often one of the first considerations when evaluating additive manufacturing technologies. MJF Materials MJF is primarily associated with nylon-based materials, including: PA 12 PA 11 Glass-filled nylon options Flame-retardant nylon grades These materials offer an excellent balance of strength, toughness, fatigue resistance, and dimensional stability. FDM Materials Industrial FDM offers a broader material portfolio, including: ABS ASA Polycarbonate (PC) PC-ABS Ultem 9085 Ultem 1010 Carbon-fiber-reinforced thermoplastics If your application requires high heat resistance, aerospace compliance, flame retardancy, or specific chemical resistance, FDM may provide more material flexibility. Mechanical Performance For many engineers, mechanical performance is the deciding factor. MJF Strength and Isotropy One of the key advantages of MJF is its ability to produce parts with more uniform mechanical properties. Because the material is fused throughout each layer within the powder bed, MJF parts exhibit greater isotropy than FDM parts, where material is deposited as individual extruded roads. This results in more consistent strength across multiple axes, improved impact resistance, and better fatigue performance under repeated loading conditions. MJF parts are also less susceptible to layer separation, which can be a concern for load-bearing components manufactured with some additive processes. As a result, MJF is often selected for functional prototypes and end-use components that require reliable mechanical performance, including housings, brackets, clips, snap-fit assemblies, and other parts subjected to regular stress during operation. FDM Strength Considerations FDM parts can achieve excellent strength, particularly when using high-performance materials. However, strength varies depending on build orientation because bonding between layers is typically weaker than strength within a layer. Engineers often need to carefully consider print orientation when designing FDM parts to optimize structural performance. Surface Finish and Appearance Surface quality can significantly influence both functionality and customer perception. MJF Surface Finish MJF produces a relatively uniform matte finish with fine feature detail and minimal visible layer lines. Benefits include: Improved cosmetic appearance Better feature resolution Easier post-processing More consistent surfaces across complex geometries MJF parts are frequently used for customer-facing prototypes and production components where appearance matters. FDM Surface Finish FDM parts typically display visible layer lines and extrusion paths. While post-processing can improve appearance, as-printed surfaces are generally rougher than MJF. For purely functional applications, this may not be a concern. For presentation models or consumer-facing components, additional finishing steps may be required. Design Freedom and Complexity Both technologies support geometries that would be difficult or impossible with traditional manufacturing methods, but MJF typically offers greater design freedom. Advantages of MJF MJF offers significant design freedom because the surrounding powder supports parts throughout the build process. This eliminates the need for dedicated support structures and allows engineers to create complex internal channels, lattice structures, organic shapes, intricate undercuts, and even moving assemblies in a single build. MJF also supports efficient production because multiple parts can be densely nested within the build chamber, helping maximize throughput and reduce cost per part. Advantages of FDM Industrial FDM is often a strong choice for larger components, straightforward geometries, and low-volume functional prototypes. It is also well suited for applications that require specialized engineering thermoplastics, including high-temperature, flame-retardant, or chemically resistant materials. While support structures can introduce some design constraints and post-processing requirements, FDM remains a versatile and reliable solution for many engineering and manufacturing applications. Dimensional Accuracy Both MJF and FDM are capable of producing parts with production-quality tolerances, but they achieve dimensional accuracy in different ways. MJF generally delivers higher feature resolution, greater dimensional consistency, and more accurate reproduction of small features and fine details. These characteristics make it particularly well suited for parts with intricate geometries or tight tolerance requirements. FDM can also achieve excellent accuracy, particularly on larger features and simpler geometries. However, dimensional variation may be influenced by factors such as thermal shrinkage, support removal, and the layer-by-layer deposition process. For applications that require precise small features or highly consistent dimensions across production runs, MJF often provides a measurable advantage. Cost Considerations Cost depends on part size, geometry, quantity, and material requirements. When MJF Is Typically More Economical MJF often becomes the more cost-effective choice as part quantities increase or geometries become more complex. Because parts can be efficiently nested throughout the build chamber, manufacturers can maximize machine utilization and reduce cost per part. MJF is particularly advantageous for low- to mid-volume production runs where consistent quality, minimal post-processing, and efficient batch production help offset initial manufacturing costs. For complex components that would require extensive support structures or finishing operations with other technologies, MJF can deliver additional cost savings. When FDM May Be More Economical Industrial FDM can offer a cost advantage for larger parts, very low production quantities, and applications that require specialized engineering thermoplastics. It is also frequently used during the early stages of product development when engineers need functional prototypes quickly and economically. For simple geometries and one-off builds, FDM often provides a lower overall manufacturing cost, making it a practical choice for design validation, fit-and-function testing, and low-volume production needs. MJF vs. FDM: Which process should you choose? Choose MJF when you need: Strong, isotropic mechanical properties High-quality surface finish Fine feature detail Complex geometries Production-ready nylon parts Choose FDM when you need: Specialized thermoplastic materials High-temperature performance Flame-retardant materials Large part sizes Cost-effective functional prototypes Moving From Prototype to Production For many product development teams, MJF serves as a bridge between prototyping and full-scale manufacturing. Its combination of repeatable quality, mechanical performance, and production scalability makes it well suited for low-volume production and bridge manufacturing. FDM continues to be a valuable tool for concept validation, fixture development, manufacturing aids, and applications requiring specialized materials. The best choice ultimately depends on your performance requirements, material needs, geometry complexity, production volume, and budget. Frequently Asked Questions Is MJF stronger than FDM? expand_less expand_more In many applications, MJF parts offer more consistent mechanical properties because the material is fused throughout the powder bed rather than deposited as individual extruded layers. This results in greater isotropy, improved impact resistance, and better fatigue performance. However, industrial FDM can achieve excellent strength when using high-performance materials such as polycarbonate or Ultem™, particularly when parts are properly oriented during the build process. When should I choose MJF over FDM? expand_less expand_more MJF is often the preferred choice for complex geometries, functional prototypes, end-use parts, and low- to mid-volume production runs. It delivers excellent surface finish, fine feature resolution, and consistent mechanical performance. FDM may be a better fit when your application requires specialized engineering thermoplastics, larger part sizes, or lower quantities where material selection is the primary design consideration. Is MJF or FDM more cost-effective? expand_less expand_more The most cost-effective process depends on part geometry, quantity, material requirements, and size. MJF typically becomes more economical for production quantities and complex parts because multiple components can be nested efficiently within a single build. FDM is often more cost-effective for large parts, one-off prototypes, and applications that require specialty thermoplastics. Comparing quotes for both processes can help determine the best option for your specific application. Start a 3D Printing Project Upload a CAD file for instant pricing and lead times. Get a Quote You Might Also Like... Multi Jet Fusion Fused Deposition Modeling Industrial 3D Printing for Production Parts Production Tagged: 3d printing, additive manufacturing, plastic, product development, manufacturing",
+  "published_at": "",
+  "requested_url": "https://www.protolabs.com/resources/blog/mjf-vs-fdm-3d-printing",
+  "schema_version": 2,
+  "sections": [
+    {
+      "hash": "aa0d59fa5f03c0a08806550672eda94ead263d44",
+      "heading": "MJF vs. FDM 3D Printing",
+      "level": "h1",
+      "text": "MJF vs. FDM 3D Printing By Protolabs 3d printing June 22, 2026 MJF vs. FDM 3D Printing By Protolabs"
+    },
+    {
+      "hash": "4eb299a267f2253ace31fddf5bf245afbf3bbd9c",
+      "heading": "How MJF and FDM Work",
+      "level": "h2",
+      "text": "How MJF and FDM Work How MJF and FDM Work"
+    },
+    {
+      "hash": "a136a080d1e64a04a0f0cadfdcb36976306ce819",
+      "heading": "Multi Jet Fusion (MJF)",
+      "level": "h3",
+      "text": "Multi Jet Fusion (MJF) Multi Jet Fusion (MJF)"
+    },
+    {
+      "hash": "5e09c4cdf670a370da1e5838a28e4854b81c34f6",
+      "heading": "Industrial FDM",
+      "level": "h3",
+      "text": "Industrial FDM Industrial FDM"
+    },
+    {
+      "hash": "0d031da069de68c7953f130be29d8cc87f379923",
+      "heading": "Material Options",
+      "level": "h2",
+      "text": "Material Options Material Options"
+    },
+    {
+      "hash": "9da9fe36de23eb1a20625c0363d5dfa1e61da7da",
+      "heading": "MJF Materials",
+      "level": "h3",
+      "text": "MJF Materials MJF Materials"
+    },
+    {
+      "hash": "67c156c78198f4d7492783b014850872aa5c6f31",
+      "heading": "FDM Materials",
+      "level": "h3",
+      "text": "FDM Materials FDM Materials"
+    },
+    {
+      "hash": "06f05542efeba15e52defe518a93245b71969873",
+      "heading": "Mechanical Performance",
+      "level": "h2",
+      "text": "Mechanical Performance Mechanical Performance"
+    },
+    {
+      "hash": "5d5cab008df3e01821c5f1c5229a4fd1e78610ad",
+      "heading": "MJF Strength and Isotropy",
+      "level": "h3",
+      "text": "MJF Strength and Isotropy MJF Strength and Isotropy"
+    },
+    {
+      "hash": "b4829d691cbbc907369a1112e1b43895819abb1b",
+      "heading": "FDM Strength Considerations",
+      "level": "h3",
+      "text": "FDM Strength Considerations FDM Strength Considerations"
+    },
+    {
+      "hash": "693d9ca9edbab23bf4503ebe54dee6f888297d9a",
+      "heading": "Surface Finish and Appearance",
+      "level": "h2",
+      "text": "Surface Finish and Appearance Surface Finish and Appearance"
+    },
+    {
+      "hash": "b3ae75dcbbf3932040e3cdb24e6c40b856eb6bd1",
+      "heading": "MJF Surface Finish",
+      "level": "h3",
+      "text": "MJF Surface Finish MJF Surface Finish"
+    },
+    {
+      "hash": "5f378a72f1ee6e54243f43217279c057527fffda",
+      "heading": "FDM Surface Finish",
+      "level": "h3",
+      "text": "FDM Surface Finish FDM Surface Finish"
+    },
+    {
+      "hash": "eda6b163290da80a2c58d3c71a4ca47491a1b549",
+      "heading": "Design Freedom and Complexity",
+      "level": "h2",
+      "text": "Design Freedom and Complexity Design Freedom and Complexity"
+    },
+    {
+      "hash": "60031e039120f7d8fe3bab1f46eade1ed607f7c1",
+      "heading": "Advantages of MJF",
+      "level": "h2",
+      "text": "Advantages of MJF Advantages of MJF"
+    },
+    {
+      "hash": "9fed57ad80890bbc05376676fba013ea10b086b3",
+      "heading": "Advantages of FDM",
+      "level": "h2",
+      "text": "Advantages of FDM Advantages of FDM"
+    },
+    {
+      "hash": "0c87d3ab25ba5b6c43b4f9d8b11e7f61483c4d37",
+      "heading": "Dimensional Accuracy",
+      "level": "h2",
+      "text": "Dimensional Accuracy Dimensional Accuracy"
+    },
+    {
+      "hash": "947c61d691fecf8790ab5355fb51eb0c06c036ee",
+      "heading": "Cost Considerations",
+      "level": "h2",
+      "text": "Cost Considerations Cost Considerations"
+    },
+    {
+      "hash": "871e057de8b208bf0ba0d74f6eb8dd84138a4fc1",
+      "heading": "When MJF Is Typically More Economical",
+      "level": "h3",
+      "text": "When MJF Is Typically More Economical When MJF Is Typically More Economical"
+    },
+    {
+      "hash": "18ac2d1933346f95d8ed389941c35fa91208e4c9",
+      "heading": "When FDM May Be More Economical",
+      "level": "h3",
+      "text": "When FDM May Be More Economical When FDM May Be More Economical"
+    },
+    {
+      "hash": "959f629c16074130445e308db9f9b9b476c2cdf2",
+      "heading": "MJF vs. FDM: Which process should you choose?",
+      "level": "h2",
+      "text": "MJF vs. FDM: Which process should you choose? MJF vs. FDM: Which process should you choose?"
+    },
+    {
+      "hash": "d8ecd1fe442feca6e73834323d211fb9c3087ad1",
+      "heading": "Moving From Prototype to Production",
+      "level": "h2",
+      "text": "Moving From Prototype to Production Moving From Prototype to Production"
+    },
+    {
+      "hash": "0742f22a8e89ffda2dfb4b8ecfea9b0f588a29ce",
+      "heading": "Frequently Asked Questions",
+      "level": "h2",
+      "text": "Frequently Asked Questions Is MJF stronger than FDM? expand_less expand_more In many applications, MJF parts offer more consistent mechanical properties because the material is fused throughout the powder bed rather than deposited as individual extruded layers. This results in greater isotropy, improved impact resistance, and better fatigue performance. However, industrial FDM can achieve excellent strength when using high-performance materials such as polycarbonate or Ultem™, particularly when parts are properly oriented during the build process. When should I choose MJF over FDM? expand_less expand_more MJF is often the preferred choice for complex geometries, functional prototypes, end-use parts, and low- to mid-volume production runs. It delivers excellent surface finish, fine feature resolution, and consistent mechanical performance. FDM may be a better fit when your application requires specialized engineering thermoplastics, larger part sizes, or lower quantities where material selection is the primary design consideration. Is MJF or FDM more cost-effective? expand_less expand_more The most cost-effective process depends on part geometry, quantity, material requirements, an..."
+    },
+    {
+      "hash": "9f764440c22182de690b8238fb7eba6a243bdb41",
+      "heading": "Is MJF stronger than FDM?",
+      "level": "h3",
+      "text": "Is MJF stronger than FDM? expand_less expand_more"
+    },
+    {
+      "hash": "93a1faac8cb6950243097a082683dfa1f855b477",
+      "heading": "When should I choose MJF over FDM?",
+      "level": "h3",
+      "text": "When should I choose MJF over FDM? expand_less expand_more"
+    },
+    {
+      "hash": "cd8ad34e5c7c51e8213774e67431ce1f6966f7cc",
+      "heading": "Is MJF or FDM more cost-effective?",
+      "level": "h3",
+      "text": "Is MJF or FDM more cost-effective? expand_less expand_more"
+    },
+    {
+      "hash": "5309eccf40aa9abfadaa84858d1b6222031b76b8",
+      "heading": "Start a 3D Printing Project",
+      "level": "h2",
+      "text": "Start a 3D Printing Project Upload a CAD file for instant pricing and lead times. Get a Quote"
+    }
+  ],
+  "sitemap_lastmod": "2026-06-22T12:34:00+00:00",
+  "status": 200,
+  "structure_hash": "956721c379310215e9614cb85f56aa6534d6ef6c",
+  "text_excerpt": "3d printing June 22, 2026 MJF vs. FDM 3D Printing By Protolabs When selecting a plastic additive manufacturing process, engineers often compare Multi Jet Fusion (MJF) and fused deposition modeling (FDM). Both technologies produce durable thermoplastic parts without tooling, but they differ significantly in mechanical performance, feature resolution, surface quality, throughput, and cost. Understanding those differences early in product development can help you avoid unnecessary design compromises and identify the most efficient path from prototype to production. At Protolabs, both technologies support rapid iteration and functional testing. However, each process is optimized for different applications and manufacturing requirements. How MJF and FDM Work MJF and FDM both build parts layer by layer, but the underlying processes are fundamentally different. Multi Jet Fusion (MJF) MJF uses an inkjet array to selectively deposit fusing and detailing agents onto a powder bed of nylon material. Infrared energy then fuses the selected regions. After each layer is completed, a new layer of powder is spread and the process repeats. Because the surrounding powder supports the part during pri...",
+  "text_hash": "ba34af635d1e7396749fe14339bd7e15faa6c882",
+  "title": "MJF vs. FDM 3D Printing: Choosing the Right Manufacturing Process",
+  "url": "https://www.protolabs.com/resources/blog/mjf-vs-fdm-3d-printing"
+}

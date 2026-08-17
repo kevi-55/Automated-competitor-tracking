@@ -1,0 +1,207 @@
+{
+  "canonical": "https://www.hubs.com/knowledge-base/shear-modulus",
+  "category": "content",
+  "competitor": "Hubs",
+  "ctas": [
+    {
+      "href": "https://www.hubs.com/manufacture?technology=cnc-machining",
+      "text": "Upload your CAD file"
+    },
+    {
+      "href": "https://www.hubs.com/contact",
+      "text": "Contact"
+    }
+  ],
+  "discovered_via": "sitemap",
+  "fetched_at": "2026-08-17T03:41:56+00:00",
+  "final_url": "https://www.hubs.com/knowledge-base/shear-modulus",
+  "first_seen_at": "2026-08-17T03:41:56+00:00",
+  "h1": "",
+  "headings": [
+    {
+      "level": "h2",
+      "text": "What is shear modulus?"
+    },
+    {
+      "level": "h2",
+      "text": "High versus low shear modulus values"
+    },
+    {
+      "level": "h3",
+      "text": "Typical material values table"
+    },
+    {
+      "level": "h2",
+      "text": "Practical applications: structural steel"
+    },
+    {
+      "level": "h2",
+      "text": "How is shear modulus determined?"
+    },
+    {
+      "level": "h2",
+      "text": "Get started"
+    },
+    {
+      "level": "h2",
+      "text": "Frequently asked questions"
+    },
+    {
+      "level": "h3",
+      "text": "What is shear modulus?"
+    },
+    {
+      "level": "h3",
+      "text": "What is the difference between shear modulus and Young's modulus?"
+    },
+    {
+      "level": "h3",
+      "text": "Why is shear modulus important in engineering?"
+    },
+    {
+      "level": "h3",
+      "text": "What are typical shear modulus values for common materials?"
+    },
+    {
+      "level": "h3",
+      "text": "How is shear modulus measured?"
+    },
+    {
+      "level": "h3",
+      "text": "What does a high shear modulus indicate?"
+    },
+    {
+      "level": "h3",
+      "text": "What does a low shear modulus indicate?"
+    },
+    {
+      "level": "h3",
+      "text": "How does shear modulus affect CNC-machined parts?"
+    },
+    {
+      "level": "h3",
+      "text": "Is shear modulus related to Poisson's ratio?"
+    },
+    {
+      "level": "h3",
+      "text": "Which industries rely heavily on shear modulus calculations?"
+    }
+  ],
+  "images": [
+    {
+      "alt": "CNC machining, 3D printing and sheet metal fabrication parts",
+      "src": "/images/trans.gif"
+    }
+  ],
+  "meta_description": "Compare G values for steel, aluminum, and polymers, and see how torsion testing ensures part integrity. Upload your CAD-file easily.",
+  "modified_at": "",
+  "monitored_text": "Shear modulus, (often referred to as ‘ G ’), measures a material's rigidity by calculating the ratio of shear stress to shear strain. It is often paired with Young’s modulus (E), named after physicist Thomas Young, who defined how materials resist stretching or compression (axial loading). While Young’s modulus tells you how much a beam will shorten under a heavy load, shear modulus tells you how much that same beam will twist or deform when parallel forces are applied. For any structural engineer, shear modulus is the most important constant for determining torsional stiffness and overall shape stability. What is shear modulus? In material science, the ratio of force per unit area (shear stress) to edge displacement (shear strain) defines shear modulus (G). While Hooke’s Law originally focused on 1D linear elasticity, Augustin-Louis Cauchy’s 19th-century derivations expanded this into a 3D framework for solid materials. This ratio is essential for calculating how an object resists deforming under parallel loads. For engineers, understanding this stress-to-displacement relationship is key to predicting structural deflection and ensuring high-precision manufacturing tolerances. The difference between shear and Young’s modulus Young’s modulus (E) measures a material's resistance to axial loading (stretching or compression), while shear modulus (G) quantifies its resistance to shape deformation or twisting. For isotropic materials, these values are mathematically linked through Poisson’s ratio (ν) using the formula: G = E / [2(1 + ν)] This relationship allows engineers to calculate torsional rigidity based on tensile data. This is important for predicting part deflection during high-precision CNC machining . High versus low shear modulus values With a shear modulus (G) of approximately 520 GPa, diamond represents the upper limit of structural rigidity. In stark contrast, most engineering polymers exhibit G values between 0.1 and 2 GPa. This massive discrepancy highlights why diamond is the ultimate material for industrial cutting tools. In contrast, polymers are selected for their flexibility and impact absorption. A high shear modulus directly translates to extreme hardness and resistance to deformation. While a polymer’s molecular chains can easily slide or rotate under stress, diamond’s dense, three-dimensional carbon lattice remains nearly immovable. In precision manufacturing, these high values maintain tool geometry and edge sharpness under extreme high-speed machining conditions. Typical material values table The table below compares common industrial materials. While diamond represents the upper limit of rigidity, materials used in daily CNC machining and product design vary significantly in their resistance to deformation. Material Shear Modulus ( G ) Typical Application Steel 77 GPa High-stress structural parts Aluminum 28 GPa Lightweight aerospace components Rubber 0.0003 GPa Seals and vibration dampening These values demonstrate why steel is the standard for rigid assemblies, while aluminum offers a balanced stiffness-to-weight ratio. Rubber’s low G value makes it ideal for applications requiring maximum flexibility and shape deformation. Practical applications: structural steel In high-rise construction, structural steel (G ≈ 77 GPa) is essential for maintaining a building's shape under lateral stress. While a skyscraper's weight creates axial pressure, wind loading generates powerful twisting forces, that threaten to deform the entire frame. Because steel has a high shear modulus, it effectively resists these torsional loads, preventing the structure from swaying excessively or buckling. By calculating the ratio of wind-induced stress to the resulting edge displacement, engineers ensure that even the tallest buildings remain rigid and safe during extreme weather conditions. How is shear modulus determined? Shear modulus (G) is determined by measuring a material's resistance to twisting forces through standardized torsion testing. By applying a known torque (T) to a specimen and recording the resulting angle of twist (θ), engineers calculate the ratio of shear stress to shear strain. For polymers, methods such as ASTM D2236 use rotational oscillations to determine the complex shear modulus. Static torsion tests are used to map the stress-strain curve for metallic rods and wires. Choosing the right material with the correct shear modulus is critical for the structural integrity of high-performance parts. At Protolabs Network, our AI-driven platform provides instant DFM feedback on your CAD files, helping you evaluate material properties and tolerances before production begins. Get started Upload your CAD file to get an instant quote and technical analysis for your next project. Contact our engineering team for technical support on your next project. Subscribe Get the latest manufacturing news delivered to your mailbox. Sign up for our newsletter Sign me up Please enter a valid email address. Leave this field empty Thanks! You're now subscribed to our newsletter. Frequently asked questions What is shear modulus? Shear modulus (G) measures a material's resistance to deformation when subjected to shear forces. It describes how much a material will twist or change shape when parallel forces are applied. What is the difference between shear modulus and Young's modulus? Young's modulus measures resistance to stretching or compression, while shear modulus measures resistance to twisting or shear deformation. Both properties describe material stiffness but under different loading conditions. Why is shear modulus important in engineering? Engineers use shear modulus to calculate torsional stiffness, predict deflection, and ensure structural stability in components subjected to twisting forces. It is particularly important for shafts, beams, and structural assemblies. What are typical shear modulus values for common materials? Steel has a shear modulus of approximately 77 GPa, while aluminum has a value of around 28 GPa. In contrast, rubber has a shear modulus of just 0.0003 GPa. These differences explain why steel and aluminum are used in rigid structural applications, while rubber is valued for its flexibility and vibration-damping properties. How is shear modulus measured? Shear modulus is typically determined through torsion testing, where a known torque is applied to a specimen and the resulting angle of twist is measured. What does a high shear modulus indicate? A high shear modulus indicates that a material strongly resists shape changes and twisting forces. Materials with high G values are generally stiffer and more dimensionally stable under load. What does a low shear modulus indicate? A low shear modulus indicates that a material deforms more easily under shear stress. Elastomers and rubbers typically have low G values, making them suitable for vibration isolation and sealing applications. How does shear modulus affect CNC-machined parts? Materials with a higher shear modulus tend to maintain tighter tolerances and experience less deformation during machining and service. This can improve dimensional accuracy and overall part performance. Is shear modulus related to Poisson's ratio? Yes. For isotropic materials, shear modulus, Young's modulus, and Poisson's ratio are mathematically related. Engineers often use this relationship to estimate one property when the others are known. Which industries rely heavily on shear modulus calculations? Industries such as construction, aerospace, automotive, energy, and precision manufacturing use shear modulus calculations to design components that can safely withstand torsional and shear loads.",
+  "published_at": "",
+  "requested_url": "https://www.hubs.com/knowledge-base/shear-modulus",
+  "schema_version": 2,
+  "sections": [
+    {
+      "hash": "1478cdfea732d893c1dc4008c62ed7e3f6f86ede",
+      "heading": "What is shear modulus?",
+      "level": "h2",
+      "text": "What is shear modulus? In material science, the ratio of force per unit area (shear stress) to edge displacement (shear strain) defines shear modulus (G). While Hooke’s Law originally focused on 1D linear elasticity, Augustin-Louis Cauchy’s 19th-century derivations expanded this into a 3D framework for solid materials. This ratio is essential for calculating how an object resists deforming under parallel loads. For engineers, understanding this stress-to-displacement relationship is key to predicting structural deflection and ensuring high-precision manufacturing tolerances. The difference between shear and Young’s modulus Young’s modulus (E) measures a material's resistance to axial loading (stretching or compression), while shear modulus (G) quantifies its resistance to shape deformation or twisting. For isotropic materials, these values are mathematically linked through Poisson’s ratio (ν) using the formula: G = E / [2(1 + ν)] This relationship allows engineers to calculate torsional rigidity based on tensile data. This is important for predicting part deflection during high-precision CNC machining ."
+    },
+    {
+      "hash": "a95f63e784c7a800fd593df051eec18aa3107af1",
+      "heading": "High versus low shear modulus values",
+      "level": "h2",
+      "text": "High versus low shear modulus values With a shear modulus (G) of approximately 520 GPa, diamond represents the upper limit of structural rigidity. In stark contrast, most engineering polymers exhibit G values between 0.1 and 2 GPa. This massive discrepancy highlights why diamond is the ultimate material for industrial cutting tools. In contrast, polymers are selected for their flexibility and impact absorption. A high shear modulus directly translates to extreme hardness and resistance to deformation. While a polymer’s molecular chains can easily slide or rotate under stress, diamond’s dense, three-dimensional carbon lattice remains nearly immovable. In precision manufacturing, these high values maintain tool geometry and edge sharpness under extreme high-speed machining conditions."
+    },
+    {
+      "hash": "66a3bbc166b468481c1a9929aa50bf27694453ba",
+      "heading": "Typical material values table",
+      "level": "h3",
+      "text": "Typical material values table The table below compares common industrial materials. While diamond represents the upper limit of rigidity, materials used in daily CNC machining and product design vary significantly in their resistance to deformation."
+    },
+    {
+      "hash": "efe75c686b608982e40791002de65113ad4ebe39",
+      "heading": "Practical applications: structural steel",
+      "level": "h2",
+      "text": "Practical applications: structural steel In high-rise construction, structural steel (G ≈ 77 GPa) is essential for maintaining a building's shape under lateral stress. While a skyscraper's weight creates axial pressure, wind loading generates powerful twisting forces, that threaten to deform the entire frame. Because steel has a high shear modulus, it effectively resists these torsional loads, preventing the structure from swaying excessively or buckling. By calculating the ratio of wind-induced stress to the resulting edge displacement, engineers ensure that even the tallest buildings remain rigid and safe during extreme weather conditions."
+    },
+    {
+      "hash": "b446fc0e9e8f6ecb6d5df89d87dd35200f36e6a2",
+      "heading": "How is shear modulus determined?",
+      "level": "h2",
+      "text": "How is shear modulus determined? Shear modulus (G) is determined by measuring a material's resistance to twisting forces through standardized torsion testing. By applying a known torque (T) to a specimen and recording the resulting angle of twist (θ), engineers calculate the ratio of shear stress to shear strain. For polymers, methods such as ASTM D2236 use rotational oscillations to determine the complex shear modulus. Static torsion tests are used to map the stress-strain curve for metallic rods and wires. Choosing the right material with the correct shear modulus is critical for the structural integrity of high-performance parts. At Protolabs Network, our AI-driven platform provides instant DFM feedback on your CAD files, helping you evaluate material properties and tolerances before production begins."
+    },
+    {
+      "hash": "8daa9322519182e0f2a2a1831b98c2f654c715d2",
+      "heading": "Get started",
+      "level": "h2",
+      "text": "Get started Upload your CAD file to get an instant quote and technical analysis for your next project. Contact our engineering team for technical support on your next project."
+    },
+    {
+      "hash": "02842b08377539be654ab1179cf41e1d947c4424",
+      "heading": "Frequently asked questions",
+      "level": "h2",
+      "text": "Frequently asked questions Frequently asked questions"
+    },
+    {
+      "hash": "3e4afd8324cd715f38c52fa875d17017ff569d39",
+      "heading": "What is the difference between shear modulus and Young's modulus?",
+      "level": "h3",
+      "text": "What is the difference between shear modulus and Young's modulus? Young's modulus measures resistance to stretching or compression, while shear modulus measures resistance to twisting or shear deformation. Both properties describe material stiffness but under different loading conditions."
+    },
+    {
+      "hash": "f2d0f36e748ab9f1a8f540104b418ed9b3619a98",
+      "heading": "Why is shear modulus important in engineering?",
+      "level": "h3",
+      "text": "Why is shear modulus important in engineering? Engineers use shear modulus to calculate torsional stiffness, predict deflection, and ensure structural stability in components subjected to twisting forces. It is particularly important for shafts, beams, and structural assemblies."
+    },
+    {
+      "hash": "6b5362cc3d43905cfd413b48f5bf923fe4b7761a",
+      "heading": "What are typical shear modulus values for common materials?",
+      "level": "h3",
+      "text": "What are typical shear modulus values for common materials? Steel has a shear modulus of approximately 77 GPa, while aluminum has a value of around 28 GPa. In contrast, rubber has a shear modulus of just 0.0003 GPa. These differences explain why steel and aluminum are used in rigid structural applications, while rubber is valued for its flexibility and vibration-damping properties."
+    },
+    {
+      "hash": "84c84d22b577bb99355f2833e6ec070286b6562c",
+      "heading": "How is shear modulus measured?",
+      "level": "h3",
+      "text": "How is shear modulus measured? Shear modulus is typically determined through torsion testing, where a known torque is applied to a specimen and the resulting angle of twist is measured."
+    },
+    {
+      "hash": "e563ceccde4e1f46bcf5b3af2b10a7ffff53750b",
+      "heading": "What does a high shear modulus indicate?",
+      "level": "h3",
+      "text": "What does a high shear modulus indicate? A high shear modulus indicates that a material strongly resists shape changes and twisting forces. Materials with high G values are generally stiffer and more dimensionally stable under load."
+    },
+    {
+      "hash": "cd98fb290014410c06e605ece75b66781b1823f9",
+      "heading": "What does a low shear modulus indicate?",
+      "level": "h3",
+      "text": "What does a low shear modulus indicate? A low shear modulus indicates that a material deforms more easily under shear stress. Elastomers and rubbers typically have low G values, making them suitable for vibration isolation and sealing applications."
+    },
+    {
+      "hash": "f1cb013587156565957baefd0a54631f43b27c15",
+      "heading": "How does shear modulus affect CNC-machined parts?",
+      "level": "h3",
+      "text": "How does shear modulus affect CNC-machined parts? Materials with a higher shear modulus tend to maintain tighter tolerances and experience less deformation during machining and service. This can improve dimensional accuracy and overall part performance."
+    },
+    {
+      "hash": "2a6250cb983eac0dd9eaa6b7bc464490ff6c228a",
+      "heading": "Is shear modulus related to Poisson's ratio?",
+      "level": "h3",
+      "text": "Is shear modulus related to Poisson's ratio? Yes. For isotropic materials, shear modulus, Young's modulus, and Poisson's ratio are mathematically related. Engineers often use this relationship to estimate one property when the others are known."
+    },
+    {
+      "hash": "c55a19c1d07bdd675c64f431c0743bea8a11ec01",
+      "heading": "Which industries rely heavily on shear modulus calculations?",
+      "level": "h3",
+      "text": "Which industries rely heavily on shear modulus calculations? Industries such as construction, aerospace, automotive, energy, and precision manufacturing use shear modulus calculations to design components that can safely withstand torsional and shear loads."
+    }
+  ],
+  "sitemap_lastmod": "2026-06-22T13:44:35+00:00",
+  "status": 200,
+  "structure_hash": "5d8741c8d5746700a53715e7fb90dcdef47a4c66",
+  "text_excerpt": "Shear modulus, (often referred to as ‘ G ’), measures a material's rigidity by calculating the ratio of shear stress to shear strain. It is often paired with Young’s modulus (E), named after physicist Thomas Young, who defined how materials resist stretching or compression (axial loading). While Young’s modulus tells you how much a beam will shorten under a heavy load, shear modulus tells you how much that same beam will twist or deform when parallel forces are applied. For any structural engineer, shear modulus is the most important constant for determining torsional stiffness and overall shape stability. What is shear modulus? In material science, the ratio of force per unit area (shear stress) to edge displacement (shear strain) defines shear modulus (G). While Hooke’s Law originally focused on 1D linear elasticity, Augustin-Louis Cauchy’s 19th-century derivations expanded this into a 3D framework for solid materials. This ratio is essential for calculating how an object resists deforming under parallel loads. For engineers, understanding this stress-to-displacement relationship is key to predicting structural deflection and ensuring high-precision manufacturing tolerances. The...",
+  "text_hash": "36a1d439ab424a73caf18e4d4c90c61481292052",
+  "title": "Shear Modulus: Definition, formulae, and material values | Protolabs Network",
+  "url": "https://www.hubs.com/knowledge-base/shear-modulus"
+}

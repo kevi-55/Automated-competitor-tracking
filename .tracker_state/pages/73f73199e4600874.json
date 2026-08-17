@@ -4,7 +4,7 @@
   "competitor": "PCBWay",
   "ctas": [
     {
-      "href": "/orderonline.aspx",
+      "href": "https://www.pcbway.com/orderonline.aspx",
       "text": "PCB Instant Quote"
     },
     {
@@ -12,43 +12,46 @@
       "text": "Sign Up"
     },
     {
-      "href": "/project/shareproject/?order=1",
+      "href": "https://www.pcbway.com/project/shareproject?order=1",
       "text": "By Source Files"
     },
     {
-      "href": "/project/shareproject/?order=1",
+      "href": "https://www.pcbway.com/project/shareproject?order=1",
       "text": "View all source files projects"
     },
     {
-      "href": "/project/shareproject/?order=1",
+      "href": "https://www.pcbway.com/project/shareproject?order=1",
       "text": "Source Files"
     },
     {
-      "href": "/blog/club-publish.html",
+      "href": "https://www.pcbway.com/blog/club-publish.html",
       "text": "Submit for Publication"
     },
     {
-      "href": "/blog/Engineering_Technical/Stage_1_Frequency_Controlled_Atomic_State_Demonstrator_fdd319ac.html",
+      "href": "https://www.pcbway.com/blog/Engineering_Technical/Stage_1_Frequency_Controlled_Atomic_State_Demonstrator_fdd319ac.html",
       "text": "Next：Stage 1: Frequency-Controlled Atomic-State Demonstrator"
     },
     {
-      "href": "/blog/Activities/Submit_for_Publication___Now_I_Write_Articles_in_PCBWay.html",
+      "href": "https://www.pcbway.com/blog/Activities/Submit_for_Publication___Now_I_Write_Articles_in_PCBWay.html",
       "text": "Write for PCBWay"
     },
     {
-      "href": "/blog/?tag=PCB industry",
+      "href": "https://www.pcbway.com/blog?tag=PCB+industry",
       "text": "PCB industry"
     },
     {
-      "href": "/blog/Engineering_Technical/Stage_1_Frequency_Controlled_Atomic_State_Demonstrator_fdd319ac.html",
+      "href": "https://www.pcbway.com/blog/Engineering_Technical/Stage_1_Frequency_Controlled_Atomic_State_Demonstrator_fdd319ac.html",
       "text": "Stage 1: Frequency-Controlled Atomic-State Demonstrator"
     },
     {
-      "href": "/contact.html",
+      "href": "https://www.pcbway.com/contact.html",
       "text": "Contact us"
     }
   ],
-  "fetched_at": "2026-08-17T02:33:36+00:00",
+  "discovered_via": "links",
+  "fetched_at": "2026-08-17T03:51:43+00:00",
+  "final_url": "https://www.pcbway.com/blog/Engineering_Technical/Stage_2_Reaction_Feasibility_and_Energy_Control_Simulator_1e0d8646.html",
+  "first_seen_at": "2026-08-17T03:51:43+00:00",
   "h1": "Stage 2: Reaction Feasibility and Energy-Control Simulator",
   "headings": [
     {
@@ -87,13 +90,17 @@
     }
   ],
   "meta_description": "",
+  "modified_at": "",
+  "monitored_text": "PCBWay Community Search title or content Search PCBWay PCB Instant Quote CNC | 3D Printing Login Sign Up More Notifications No notifications. My Profile My projects My Likes My Deals My Goods for Bazaar Settings Sign Out Projects Categories DIY Electronics Arduino Hardware Audio Computers & USB Breakout Board Projects Home Automation LED Displays & Matrices IoT Robotics View all categories By Source Files Onju Voice - AI assistant replacement to Google Nest Mini by @justLV LogicAnalyzer V6.0 DIY 1kW Open Source MPPT Solar Charge Controller Tad Boy Color SummerCart64 - a fully open source N64 flashcart kv4p HT v1.7b QuinLED-Dig-Uno Arduino RC engine sound & light controller with inertia simulation for ESP32 Bike Fingerprint - PCB Solar Powered WiFi Weather Station V2.0 Frog Boy Color SIDKick pico 0.2 (SID 6581/8580-replacement for C64/C128) View all source files projects Featured Projects Onju Voice - AI assistant replacement to Google Nest Mini by @justLV LogicAnalyzer V6.0 DIY 1kW Open Source MPPT Solar Charge Controller Featured Source Files Video View all projects Questions Sponsorships Feedback Blog Store PCB Design Contest - 2026 KiCad PCB Design Contest - 8th Project Design Contest - 7th Project Design Contest - KiCad Design Contest - 6th Project Design Contest - 5th PCB Design Contest - 4th PCB Design Contest - Raspberry Pi Pico Contest - PCB Design Tutorial - 3rd PCB Design Contest - I CAN SOLDER Kit Contest - 2nd PCB Design Contest - 1st PCB Design Contest Add questions Create a project Please verify your email address so that you can enjoy our more comprehensive services. Verify Now Blog > Stage 2: Reaction Feasibility and Energy-Control Simulator Stage 2: Reaction Feasibility and Energy-Control Simulator by: Engineer Aug 07,2026 <dynamic-value> <dynamic-value> Posted in Engineering Technical Simulation Nuclear Physics Isotopes Scientific Computing Energy Summary： Stage 2 is a software-first feasibility system for a chosen isotope. It combines periodic-table and isotope data, target selection, projectile energy, conservation laws, reaction thresholds, cross-sections, expected detector counts, energy balance, uncertainty, and safety requirements. It produces a preregistered experiment proposal rather than operating high-energy hardware. Stage 2 converts a desired isotope into a complete testable reaction proposal before any high-energy equipment is considered. Inputs include the desired element and isotope, candidate target or feedstock, projectile type, energy spectrum, flux, geometry, exposure time, and detector configuration. The simulator first checks energy, momentum, charge, angular momentum, and relevant particle accounting. A reaction that fails a conservation test is rejected. For an allowed reaction, the expected detected events are estimated from: N_detected = luminosity × cross-section × time × detector efficiency. The model also calculates competing reaction channels, background counts, uncertainty, thermal load, activation risk, cooling demand, shielding class, total operating power, recoverable energy, and net external power. Required modules: - Periodic-table and isotope database. - Reaction-network engine. - Conservation-law checker. - Threshold and cross-section model. - Detector and background model. - Monte Carlo uncertainty analysis. - Energy and safety ledger. - Versioned evidence record. Gate 2 passes only when the proposal contains a balanced reaction, defensible cross-section, detectable predicted yield, complete detector signatures, control runs, and a qualified-facility safety plan. The deliverable is a preregistered experiment package stating what outcome confirms the hypothesis and what outcome rejects or constrains it. Enter the year of your birth and check your Chinese Zodiac. Join us Wanna be a dedicated PCBWay writer? We definately look forward to having you with us. Submit for Publication Become Our Writer Leave a Comment ( 0 ) Share to: Previous：Stage 3: Licensed-Facility Reaction and Verification Platform Next：Stage 1: Frequency-Controlled Atomic-State Demonstrator Related articles Stage 2: Reaction Feasibility and Energy-Control Simulator Comments ( 0 ) Log in to post comments. Upload photo You can only upload 5 files in total. Each file cannot exceed 2MB. Supports JPG, JPEG, GIF, PNG, BMP 0 / 10000 It looks like you have not written anything. Please add a comment and try again. You can upload up to 5 images! Image size should not exceed 2MB! File format not supported! Post Comment View More Write for PCBWay HOT TAG PCB Printed Circuit Board PCB design PCB Board PCB layout Circuit Board Printed Circuit Boards PCB Design Tutorial PCB industry pcb manufacturing KiCad pcbway Categories Select a Category 3D Printing Activities CNC Machining Engineering Technical Flexible PCB HDI PCB Help Center Injection Molding News PCB Assembly PCB Basic Information PCB Design & Layout PCB Design Tutorial PCB Layout Software PCB Manufacturing Information PCBWay Store Rigid-Flex PCB Sheet Metal Technology IF YOU MISSED IT 1 How to generate Gerber files from Eagle 2 Stage 1: Frequency-Controlled Atomic-State Demonstrator 3 Stage 2: Reaction Feasibility and Energy-Control Simulator 4 Stage 3: Licensed-Facility Reaction and Verification Platform 5 Combining Logic Gates and Diode Logic Gates 6 Magnos - A Journey Towards Voltage Amplification, Part 3 (220V Lightbulbs from USB) 7 Magnos - A Journey Towards Voltage Amplification, Part 2 (DC and AC) 8 Magnos - A Journey Towards Voltage Amplification, Part 1 (The Mystery of Physics) 9 Detailed Explanation of the Principle Diagrams of Eight Switch-Mode Power Supply The PCB Way that recognize the talent and effort of the best ELECTRONIC designers in the World. © COPYRIGHT 2019 About us Contact us Follow us on Share to Facebook Share to Twitter Share to Reddit Share to Linkedin Back to top",
+  "published_at": "2026-08-07T00:00:00+00:00",
   "requested_url": "https://www.pcbway.com/blog/Engineering_Technical/Stage_2_Reaction_Feasibility_and_Energy_Control_Simulator_1e0d8646.html",
+  "schema_version": 2,
   "sections": [
     {
-      "hash": "733025a6c72ff4e922a4a824f046e47e63cc863d",
+      "hash": "2493b78b8210ee860606c42e315a5a55b52cc6ff",
       "heading": "Stage 2: Reaction Feasibility and Energy-Control Simulator",
       "level": "h1",
-      "text": "Blog > Stage 2: Reaction Feasibility and Energy-Control Simulator Stage 2: Reaction Feasibility and Energy-Control Simulator by: Engineer Aug 07,2026 559 Views 0 Comments Posted in Engineering Technical Simulation Nuclear Physics Isotopes Scientific Computing Energy Summary： Stage 2 is a software-first feasibility system for a chosen isotope. It combines periodic-table and isotope data, target selection, projectile energy, conservation laws, reaction thresholds, cross-sections, expected detector counts, energy balance, uncertainty, and safety requirements. It produces a preregistered experiment proposal rather than operating high-energy hardware. Stage 2 converts a desired isotope into a co..."
+      "text": "Stage 2: Reaction Feasibility and Energy-Control Simulator by: Engineer Aug 07,2026 <dynamic-value> <dynamic-value> Posted in Engineering Technical Simulation Nuclear Physics Isotopes Scientific Computing Energy Summary： Stage 2 is a software-first feasibility system for a chosen isotope. It combines periodic-table and isotope data, target selection, projectile energy, conservation laws, reaction thresholds, cross-sections, expected detector counts, energy balance, uncertainty, and safety requirements. It produces a preregistered experiment proposal rather than operating high-energy hardware. Stage 2 converts a desired isotope into a complete testable reaction proposal before any high-energy equipment is considered. Inputs include the desired element and isotope, candidate target or feedstock, projectile type, energy spectrum, flux, geometry, exposure time, and detector configuration. The simulator first checks energy, momentum, charge, angular momentum, and relevant particle accounting. A reaction that fails a conservation test is rejected. For an allowed reaction, the expected detected events are estimated from: N_detected = luminosity × cross-section × time × detector efficienc..."
     },
     {
       "hash": "e1fc16faa572449bd2b14da975e0620b18c97b01",
@@ -102,10 +109,11 @@
       "text": "Related articles Stage 2: Reaction Feasibility and Energy-Control Simulator"
     }
   ],
+  "sitemap_lastmod": "",
   "status": 200,
-  "structure_hash": "0ab3b9cd4f7d24826f8b037f05a2cdc8de45afc1",
-  "text_excerpt": "Stage 2: Reaction Feasibility and Energy-Control Simulator - Engineering Technical - PCBway PCBWay Community Search title or content Search PCBWay PCB Instant Quote CNC | 3D Printing Login Sign Up More Notifications No notifications. My Profile My projects My Likes My Deals My Goods for Bazaar Settings Sign Out Projects Categories DIY Electronics Arduino Hardware Audio Computers & USB Breakout Board Projects Home Automation LED Displays & Matrices IoT Robotics View all categories By Source Files Onju Voice - AI assistant replacement to Google Nest Mini by @justLV LogicAnalyzer V6.0 DIY 1kW Open Source MPPT Solar Charge Controller Tad Boy Color SummerCart64 - a fully open source N64 flashcart kv4p HT v1.7b QuinLED-Dig-Uno Arduino RC engine sound & light controller with inertia simulation for ESP32 Bike Fingerprint - PCB Solar Powered WiFi Weather Station V2.0 Frog Boy Color SIDKick pico 0.2 (SID 6581/8580-replacement for C64/C128) View all source files projects Featured Projects Onju Voice - AI assistant replacement to Google Nest Mini by @justLV LogicAnalyzer V6.0 DIY 1kW Open Source MPPT Solar Charge Controller Featured Source Files Video View all projects Questions Sponsorships...",
-  "text_hash": "ecb6885be470bc9978a93def249e894d4a6e30d2",
+  "structure_hash": "486516f786f11cb33a06a053292d818a3f84c9cd",
+  "text_excerpt": "PCBWay Community Search title or content Search PCBWay PCB Instant Quote CNC | 3D Printing Login Sign Up More Notifications No notifications. My Profile My projects My Likes My Deals My Goods for Bazaar Settings Sign Out Projects Categories DIY Electronics Arduino Hardware Audio Computers & USB Breakout Board Projects Home Automation LED Displays & Matrices IoT Robotics View all categories By Source Files Onju Voice - AI assistant replacement to Google Nest Mini by @justLV LogicAnalyzer V6.0 DIY 1kW Open Source MPPT Solar Charge Controller Tad Boy Color SummerCart64 - a fully open source N64 flashcart kv4p HT v1.7b QuinLED-Dig-Uno Arduino RC engine sound & light controller with inertia simulation for ESP32 Bike Fingerprint - PCB Solar Powered WiFi Weather Station V2.0 Frog Boy Color SIDKick pico 0.2 (SID 6581/8580-replacement for C64/C128) View all source files projects Featured Projects Onju Voice - AI assistant replacement to Google Nest Mini by @justLV LogicAnalyzer V6.0 DIY 1kW Open Source MPPT Solar Charge Controller Featured Source Files Video View all projects Questions Sponsorships Feedback Blog Store PCB Design Contest - 2026 KiCad PCB Design Contest - 8th Project Design...",
+  "text_hash": "a0e6e33c973d6130537eb2d407f028c286c6ba7b",
   "title": "Stage 2: Reaction Feasibility and Energy-Control Simulator - Engineering Technical - PCBway",
   "url": "https://www.pcbway.com/blog/Engineering_Technical/Stage_2_Reaction_Feasibility_and_Energy_Control_Simulator_1e0d8646.html"
 }

@@ -1,0 +1,141 @@
+{
+  "canonical": "https://jlccnc.com/help/article/cnc-machining-design-guideline",
+  "category": "content",
+  "competitor": "JLC CNC",
+  "ctas": [
+    {
+      "href": "https://jlccnc.com/cnc-machining-quote?from=cncqq",
+      "text": "get free online quote"
+    }
+  ],
+  "discovered_via": "sitemap",
+  "fetched_at": "2026-08-17T03:50:17+00:00",
+  "final_url": "https://jlccnc.com/help/article/cnc-machining-design-guideline",
+  "first_seen_at": "2026-08-17T03:50:17+00:00",
+  "h1": "CNC Machining Design Guideline",
+  "headings": [
+    {
+      "level": "h1",
+      "text": "CNC Machining Design Guideline"
+    },
+    {
+      "level": "h2",
+      "text": "Avoiding small internal corners"
+    },
+    {
+      "level": "h2",
+      "text": "Dimensioning threaded holes"
+    },
+    {
+      "level": "h2",
+      "text": "Depth of cavities"
+    },
+    {
+      "level": "h2",
+      "text": "Thin walls"
+    },
+    {
+      "level": "h2",
+      "text": "Tolerances"
+    },
+    {
+      "level": "h2",
+      "text": "2D Drawings"
+    }
+  ],
+  "images": [
+    {
+      "alt": "",
+      "src": "/cnc-platform/img/help_search.18c576a.svg"
+    },
+    {
+      "alt": "",
+      "src": "https://jlcpcb.com//msgCustomerMessage/downloadMessageFile?fileUploadAccessId=2c7e1b232e1a4944a1842651c9de20ba"
+    },
+    {
+      "alt": "",
+      "src": "https://jlcpcb.com//msgCustomerMessage/downloadMessageFile?fileUploadAccessId=d90b75e5c10949f69f68e1461fb40d6a"
+    },
+    {
+      "alt": "",
+      "src": "https://jlcpcb.com//msgCustomerMessage/downloadMessageFile?fileUploadAccessId=80d3d2289d204c998b42c350d9a82ddf"
+    },
+    {
+      "alt": "",
+      "src": "https://jlcpcb.com//msgCustomerMessage/downloadMessageFile?fileUploadAccessId=73639e843f9e44a385cab2022f95e049"
+    },
+    {
+      "alt": "",
+      "src": "https://jlcpcb.com//msgCustomerMessage/downloadMessageFile?fileUploadAccessId=a42877612b4a4dd5b9e02085ad12a628"
+    },
+    {
+      "alt": "",
+      "src": "https://jlcpcb.com//msgCustomerMessage/downloadMessageFile?fileUploadAccessId=1a13164da8db49389ac755021a63cb17"
+    },
+    {
+      "alt": "",
+      "src": "https://jlcpcb.com//msgCustomerMessage/downloadMessageFile?fileUploadAccessId=cc895796a82f4a7e8291bb80ffccfb61"
+    },
+    {
+      "alt": "",
+      "src": "https://jlcpcb.com//msgCustomerMessage/downloadMessageFile?fileUploadAccessId=692d9cce84d742b1ba89d7a854568538"
+    }
+  ],
+  "meta_description": "This article focuses on cutting tools, such as end mills and drills, typically feature a cylindrical shank, various tip shapes, and limited cutting length to provide a detailed CNC Design Guide",
+  "modified_at": "",
+  "monitored_text": "Help Center Help Center CNC Machining Design CNC Machining Design Guideline Help Center Ordering CNC Machining Ordering Sheet Metal Ordering CNC Machining Materials Aluminum CNC Machining Copper CNC Machining Plastic CNC Machining Stainless Steel CNC Machining Steel Alloy CNC Machining Sheet Metal Materials Aluminum Stainless Steel Alloy Steel CNC Machining Tutorials CNC Machining Design CNC Machining Knowledge Sheet Metal Tutorials Sheet Metal Design CNC Machine Basic Knowledge 5-Axis CNC Machine Privacy&Policies Coupon Policy Shipping Policies Policies CNC Machining Design Guideline Last updated on Aug 20, 2025 CNC machining involves the precise removal of material from a solid block using high-speed rotating cutting tools to achieve desired shapes. The cutting tool plays a crucial role in this process as it directly interacts with the workpiece, eliminating excess material to obtain the final part. Standard CNC cutting tools, such as end mills and drills, typically feature a cylindrical shank, various tip shapes, and limited cutting length. These characteristics make it challenging to create deep, narrow holes and complex overhangs. To help you save costs by avoiding expensive CNC operations, we have compiled some common design techniques in this article. Avoiding small internal corners Due to the cylindrical shape of CNC milling tools, it is difficult to achieve perfectly sharp internal corners. It is necessary to implement thinner tools for smaller corners, resulting in longer machining times and increased fragility, ultimately raising costs. Therefore, it is advisable to maximize the radius of internal corners. In the absence of specific instructions, sharp internal corners will be machined according to the values shown in the below table based on the corner depth. Assuming the diameter of the cutting tool is D and the maximum depth of the internal cavity is H, with the minimum internal radius denoted as R, the formula is given as R=(H/10)+0.5 and D=H/5 (unit is in mm). For example, if the internal cavity depth is 30 (mm), the minimum internal radius that can be machined is R 3.5 (mm) with (30/10)+0.5 (mm), and the corresponding cutting tool diameter is 6 (mm) with 30/5 (mm). Currently, we can achieve a minimum internal radius of R 0.5 (mm) with a depth of ≤3 (mm). Smaller internal radii require smaller cutting tools, which can result in higher machining costs. Max. corner length and min. internal R for different tool diameters Number Tool Diameter Length(mm) Maximum Length(mm) Minimum R(mm) 1 ⌀ 2.0 8 10 1.5 2 ⌀ 3.0 12 15 2 3 ⌀ 4.0 15 20 2.5 4 ⌀ 6.0 25 30 3.5 5 ⌀ 8.0 35 40 4.5 6 ⌀ 10.0 45 50 5.5 7 ⌀ 12.0 55 60 6.5 8 ⌀ 16.0 75 80 8.5 9 ⌀ 20.0 95 100 10.5 10 ⌀ 25.0 120 125 13 11 ⌀ 32.0 155 160 17 12 ⌀ 50.0 240 250 27 13 ⌀ 63.0 305 315 35 Note: Higher lengths are possible with tool holder extensions (not recommended). If you need to retain sharp corners on the workpiece, please provide a 2D drawing with specific annotations. We offer two options for achieving this: 1. Spark erosion for corner cleaning: This process involves using a CNC machine to create copper electrodes, which are then used in a spark erosion machine to remove material and achieve sharp corners. Please note that this method incurs higher costs. 2. Modifying the workpiece structure with R-angles: By incorporating rounded corners (R-angles) directly into the design, we can machine the workpiece using CNC without the need for additional processes. This approach generally results in lower costs. In the case where both sides of the workpiece have through holes, we can use an online cutting machine to perform corner cutting. However, please be aware that this method may involve higher costs. Dimensioning threaded holes 1. To ensure your design intention is clearly understood, we recommend designing threads according to standard major and minor diameters, and fully describing the thread parameters in your order. If manufacturing matching threads (e.g. screw and nut), combine them into a single order so they can be checked by our engineers. 2. Each engineer draws the base drill diameter of the 3D thread differently. For example, the standard diameter of the base hole for M3×0.5 is ⌀ 2.5 (see figure below). In the programming, we drill directly according to the ⌀ 2.5 base hole diameter, then use an automatic tapping machine to tap the thread. If the base hole is drawn as ⌀ 3, it will be too large for thread tapping (some can be remedied with thread inserts). 3. For non-standard threads, it is necessary for the customer to provide physical samples for confirmation. 4. Strong thread connections occur in the first few threads and often do not require very long thread lengths. Long thread holes may require special tools, result in longer processing time, and incur additional costs. The thread length is recommended not to exceed three times of the hole diameter. When the threaded hole is a blind hole, it is recommended to leave an unthreaded length of at least half the hole diameter at the end of the hole. Depth of cavities Deep cavities can be very costly to machines, because a large amount of material needs to be removed, which takes a very long time. The cutting length of CNC tools is limited, and the best machining effect is achieved when the cutting depth reaches 2-3 times its diameter. For example, a ⌀ 12-milling cutter can safely produce a cavity up to 25mm deep. Cutting deeper cavities (5 times or more the diameter of the tool) can cause problems such as tool deflection, difficulty in chip removal, and tool breakage, and therefore require special tools or multi-axis CNC systems. In addition, when cutting cavities, the tool must be tilted to the correct cutting depth, and a smooth entry requires enough space. The cost can be minimized by limiting the depth of all cavities to five times their length (i.e. the maximum size on the XY plane). Thin walls Thin walls in a part require multiple passes at low cutting depths, which can easily lead to vibration, deformation, and breakage. Therefore, thin walls are difficult to machine accurately and take longer to produce.The recommended wall thickness of metal parts should be 0.8 mm (absolute minimum 0.5 mm), and 1.5 mm (absolute minimum 1 mm) for plastic parts. Tolerances Smaller tolerances cost more because they take longer to produce and inspect.If no tolerance is provided, parts will be made with standard tolerance (±0.1mm or higher). For other tolerance requirements, a 2D drawing annotated with tolerances must be provided. 2D Drawings Some aspects of a design might be best conveyed through a 2D drawing. Having requirements clearly specified such as tolerances, surface roughness, assembly between different parts, critical areas, and quality requirements can help our engineers choose the most appropriate manufacturing process and potentially lower the cost of the part. Threaded holes should be annotated with the thread parameters and depth. Our review engineers will cross-check any 2D drawings against the 3D model and consult you if there are any discrepancies. If you are ready to make your CAD files to be machined, get free online quote now!",
+  "published_at": "2025-08-20T00:00:00+00:00",
+  "requested_url": "http://jlccnc.com/help/article/CNC-Machining-Design-Guideline",
+  "schema_version": 2,
+  "sections": [
+    {
+      "hash": "a6fa63a281445d19eea30c33fba34d5d6a39a14b",
+      "heading": "CNC Machining Design Guideline",
+      "level": "h1",
+      "text": "CNC Machining Design Guideline Last updated on Aug 20, 2025 CNC machining involves the precise removal of material from a solid block using high-speed rotating cutting tools to achieve desired shapes. The cutting tool plays a crucial role in this process as it directly interacts with the workpiece, eliminating excess material to obtain the final part. Standard CNC cutting tools, such as end mills and drills, typically feature a cylindrical shank, various tip shapes, and limited cutting length. These characteristics make it challenging to create deep, narrow holes and complex overhangs. To help you save costs by avoiding expensive CNC operations, we have compiled some common design techniques in this article. Avoiding small internal corners Due to the cylindrical shape of CNC milling tools, it is difficult to achieve perfectly sharp internal corners. It is necessary to implement thinner tools for smaller corners, resulting in longer machining times and increased fragility, ultimately raising costs. Therefore, it is advisable to maximize the radius of internal corners. In the absence of specific instructions, sharp internal corners will be machined according to the values shown in t..."
+    },
+    {
+      "hash": "94a9922cf5a8ba2eec833286a44830078f5bf9d8",
+      "heading": "Avoiding small internal corners",
+      "level": "h2",
+      "text": "Avoiding small internal corners Due to the cylindrical shape of CNC milling tools, it is difficult to achieve perfectly sharp internal corners. It is necessary to implement thinner tools for smaller corners, resulting in longer machining times and increased fragility, ultimately raising costs. Therefore, it is advisable to maximize the radius of internal corners. In the absence of specific instructions, sharp internal corners will be machined according to the values shown in the below table based on the corner depth. Assuming the diameter of the cutting tool is D and the maximum depth of the internal cavity is H, with the minimum internal radius denoted as R, the formula is given as R=(H/10)+0.5 and D=H/5 (unit is in mm). For example, if the internal cavity depth is 30 (mm), the minimum internal radius that can be machined is R 3.5 (mm) with (30/10)+0.5 (mm), and the corresponding cutting tool diameter is 6 (mm) with 30/5 (mm). Currently, we can achieve a minimum internal radius of R 0.5 (mm) with a depth of ≤3 (mm). Smaller internal radii require smaller cutting tools, which can result in higher machining costs. Max. corner length and min. internal R for different tool diameters..."
+    },
+    {
+      "hash": "fe7d3a71f6bc6f49e3d2d15628dd91815b6f1713",
+      "heading": "Dimensioning threaded holes",
+      "level": "h2",
+      "text": "Dimensioning threaded holes 1. To ensure your design intention is clearly understood, we recommend designing threads according to standard major and minor diameters, and fully describing the thread parameters in your order. If manufacturing matching threads (e.g. screw and nut), combine them into a single order so they can be checked by our engineers. 2. Each engineer draws the base drill diameter of the 3D thread differently. For example, the standard diameter of the base hole for M3×0.5 is ⌀ 2.5 (see figure below). In the programming, we drill directly according to the ⌀ 2.5 base hole diameter, then use an automatic tapping machine to tap the thread. If the base hole is drawn as ⌀ 3, it will be too large for thread tapping (some can be remedied with thread inserts). 3. For non-standard threads, it is necessary for the customer to provide physical samples for confirmation. 4. Strong thread connections occur in the first few threads and often do not require very long thread lengths. Long thread holes may require special tools, result in longer processing time, and incur additional costs. The thread length is recommended not to exceed three times of the hole diameter. When the thre..."
+    },
+    {
+      "hash": "f325672829e1141d0fc239c704c51d04558e640d",
+      "heading": "Depth of cavities",
+      "level": "h2",
+      "text": "Depth of cavities Deep cavities can be very costly to machines, because a large amount of material needs to be removed, which takes a very long time. The cutting length of CNC tools is limited, and the best machining effect is achieved when the cutting depth reaches 2-3 times its diameter. For example, a ⌀ 12-milling cutter can safely produce a cavity up to 25mm deep. Cutting deeper cavities (5 times or more the diameter of the tool) can cause problems such as tool deflection, difficulty in chip removal, and tool breakage, and therefore require special tools or multi-axis CNC systems. In addition, when cutting cavities, the tool must be tilted to the correct cutting depth, and a smooth entry requires enough space. The cost can be minimized by limiting the depth of all cavities to five times their length (i.e. the maximum size on the XY plane)."
+    },
+    {
+      "hash": "aaa890f899aae53688955bb8bc9cd3c544b60a5d",
+      "heading": "Thin walls",
+      "level": "h2",
+      "text": "Thin walls Thin walls in a part require multiple passes at low cutting depths, which can easily lead to vibration, deformation, and breakage. Therefore, thin walls are difficult to machine accurately and take longer to produce.The recommended wall thickness of metal parts should be 0.8 mm (absolute minimum 0.5 mm), and 1.5 mm (absolute minimum 1 mm) for plastic parts."
+    },
+    {
+      "hash": "c5f661ec5d74bea91a3121b4adbe2dadcd30ae82",
+      "heading": "Tolerances",
+      "level": "h2",
+      "text": "Tolerances Smaller tolerances cost more because they take longer to produce and inspect.If no tolerance is provided, parts will be made with standard tolerance (±0.1mm or higher). For other tolerance requirements, a 2D drawing annotated with tolerances must be provided."
+    },
+    {
+      "hash": "bc825779749b1468a587a324a2442ee004455e42",
+      "heading": "2D Drawings",
+      "level": "h2",
+      "text": "2D Drawings Some aspects of a design might be best conveyed through a 2D drawing. Having requirements clearly specified such as tolerances, surface roughness, assembly between different parts, critical areas, and quality requirements can help our engineers choose the most appropriate manufacturing process and potentially lower the cost of the part. Threaded holes should be annotated with the thread parameters and depth. Our review engineers will cross-check any 2D drawings against the 3D model and consult you if there are any discrepancies. If you are ready to make your CAD files to be machined, get free online quote now!"
+    }
+  ],
+  "sitemap_lastmod": "2026-08-14T00:00:00+00:00",
+  "status": 200,
+  "structure_hash": "c225b0f80e28b26c7452acb49a7087704008eb94",
+  "text_excerpt": "Help Center Help Center CNC Machining Design CNC Machining Design Guideline Help Center Ordering CNC Machining Ordering Sheet Metal Ordering CNC Machining Materials Aluminum CNC Machining Copper CNC Machining Plastic CNC Machining Stainless Steel CNC Machining Steel Alloy CNC Machining Sheet Metal Materials Aluminum Stainless Steel Alloy Steel CNC Machining Tutorials CNC Machining Design CNC Machining Knowledge Sheet Metal Tutorials Sheet Metal Design CNC Machine Basic Knowledge 5-Axis CNC Machine Privacy&Policies Coupon Policy Shipping Policies Policies CNC Machining Design Guideline Last updated on Aug 20, 2025 CNC machining involves the precise removal of material from a solid block using high-speed rotating cutting tools to achieve desired shapes. The cutting tool plays a crucial role in this process as it directly interacts with the workpiece, eliminating excess material to obtain the final part. Standard CNC cutting tools, such as end mills and drills, typically feature a cylindrical shank, various tip shapes, and limited cutting length. These characteristics make it challenging to create deep, narrow holes and complex overhangs. To help you save costs by avoiding expensive...",
+  "text_hash": "e43fbffc45861f099c9fc007ca4c90d0d7a3b948",
+  "title": "CNC Machining Design Guideline",
+  "url": "https://jlccnc.com/help/article/cnc-machining-design-guideline"
+}

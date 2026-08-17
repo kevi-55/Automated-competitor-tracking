@@ -1,0 +1,235 @@
+{
+  "canonical": "https://www.hubs.com/knowledge-base/pla-vs-abs-whats-difference",
+  "category": "content",
+  "competitor": "Hubs",
+  "ctas": [
+    {
+      "href": "https://www.hubs.com/manufacture",
+      "text": "Upload your CAD file to the Quote Builder"
+    },
+    {
+      "href": "https://www.hubs.com/knowledge-base/post-processing-fdm-printed-parts",
+      "text": "Learn more"
+    },
+    {
+      "href": "https://www.hubs.com/manufacture?technology=cnc-machining",
+      "text": "Upload your design"
+    }
+  ],
+  "discovered_via": "sitemap",
+  "fetched_at": "2026-08-17T03:41:41+00:00",
+  "final_url": "https://www.hubs.com/knowledge-base/pla-vs-abs-whats-difference",
+  "first_seen_at": "2026-08-17T03:41:41+00:00",
+  "h1": "",
+  "headings": [
+    {
+      "level": "h2",
+      "text": "What is PLA? Printing with polylactic acid"
+    },
+    {
+      "level": "h2",
+      "text": "What is ABS? Printing with acrylonitrile butadiene styrene"
+    },
+    {
+      "level": "h2",
+      "text": "What’s the difference between PLA and ABS?"
+    },
+    {
+      "level": "h2",
+      "text": "What is the part accuracy of PLA and ABS?"
+    },
+    {
+      "level": "h2",
+      "text": "How strong are PLA and ABS parts?"
+    },
+    {
+      "level": "h2",
+      "text": "How fast can you print with PLA and ABS?"
+    },
+    {
+      "level": "h2",
+      "text": "Surface finishes and post-processing for PLA and ABS"
+    },
+    {
+      "level": "h2",
+      "text": "How heat resistant are PLA and ABS?"
+    },
+    {
+      "level": "h2",
+      "text": "Are PLA and ABS biodegradable?"
+    },
+    {
+      "level": "h2",
+      "text": "Get started"
+    },
+    {
+      "level": "h2",
+      "text": "Frequently asked questions"
+    },
+    {
+      "level": "h3",
+      "text": "When should you use PLA?"
+    },
+    {
+      "level": "h3",
+      "text": "When should you use ABS?"
+    },
+    {
+      "level": "h3",
+      "text": "How strong are PLA and ABS?"
+    },
+    {
+      "level": "h3",
+      "text": "Are PLA and ABS flexible?"
+    },
+    {
+      "level": "h3",
+      "text": "How long do PLA and ABS last?"
+    },
+    {
+      "level": "h3",
+      "text": "Which one is better for outdoor use?"
+    },
+    {
+      "level": "h3",
+      "text": "Can I use PLA for food-related parts?"
+    }
+  ],
+  "images": [
+    {
+      "alt": "",
+      "src": "/images/trans.gif"
+    },
+    {
+      "alt": "A 100 micron ABS print with Acetone treatment (Left), a 100 micron ABS print (middle) and a 200 micron ABS print (right...",
+      "src": "/images/trans.gif"
+    },
+    {
+      "alt": "CNC machining, 3D printing and sheet metal fabrication parts",
+      "src": "/images/trans.gif"
+    }
+  ],
+  "meta_description": "When 3D printing with PLA and ABS, be aware of the differences between the materials. We break down the variations.",
+  "modified_at": "",
+  "monitored_text": "PLA and ABS are the two of the most common materials for prototyping FDM 3D printing (along with PETG ). Both are thermoplastics, which means the filament softens when heated and returns to a solid when cooled. FDM printers melt and extrude PLA or ABS through a nozzle to build parts layer by layer. While both are used for FDM , they have key differences that make each better suited to specific applications. This article covers the main differences engineers should consider. Check out our video here for an explanation of the difference between PLA and ABS filaments. Want to compare pricing for PLA and ABS? Upload your CAD file to the Quote Builder What is PLA? Printing with polylactic acid PLA (polylactic acid) is a thermoplastic derived from renewable sources such as cornstarch or sugar cane. Biodegradable under certain conditions, PLA is a widely used bioplastic for applications ranging from plastic cups to medical implants. For FDM 3D printing, PLA is cost efficient and delivers good surface quality. This material is easy to print and has higher stiffness than ABS and materials like nylon, but does not handle high temperatures or significant stress well. PLA can be stronger than ABS and some nylon grades, but it offers limited heat and chemical resistance. What is ABS? Printing with acrylonitrile butadiene styrene ABS (acrylonitrile butadiene styrene) is a common thermoplastic used in FDM 3D printing and is widely used in injection molding. Typical applications include toys such as LEGO bricks, housings for electronics, automotive components, and household appliances. ABS is tough and impact resistant with mechanical properties that generally exceed PLA while being lighter and more durable. The tradeoff is more challenging printability and higher processing temperatures. ABS deflects heat more effectively than PLA, but it does not have high heat resistance. What’s the difference between PLA and ABS? PLA and ABS differ significantly in tensile strength, density, and typical applications. While mechanical properties are important, the 'printability' of a material often proves more critical for quick prototypes than its actual tensile strength. ABS is notorious for a high shrink rate, which frequently leads to warped corners, whereas PLA remains dimensionally stable during the cooling process. The table below compares the key material properties of PLA and ABS filaments Properties * ABS PLA Tensile Strength ** 27 MPa 37 MPa Elongation 3.5–50% 6% Flexural modulus 2.1–7.6 GPa 4 GPa Density 1.0–1.4 g/cm³ 1.3 g/cm³ Melting point 200°C 173°C Glass transition temperature 105°C 60°C Warping risk High (prone to shrinkage) Low (dimensionally stable) Biodegradable No Yes (under correct conditions) Spool Price *** $21.99 USD $22.99 USD Common Products LEGO, electronic housings Cups, plastic bags, cutlery Choosing between PLA and ABS depends on your application, durability requirements, and desired finish. Our online 3D printing service gives you access to a wide range of materials and technologies for rapid prototyping and production parts. What is the part accuracy of PLA and ABS? Dimensional accuracy in FDM depends on machine calibration, process control, and part geometry. PLA and ABS typically achieve about 0.8 mm feature resolution, with minimum feature sizes around 1.2 mm. For connecting or interlocking parts, a typical guideline is 0.5 mm clearance and a minimum wall thickness of 1 to 2 mm to maintain strength across walls. Because PLA prints at lower temperatures, it is generally easier to process with less risk of warping when cooled correctly. PLA also supports sharper corners and finer features than ABS. Want to improve your 3D printing design skills? Download our free 3D printing design rules poster How strong are PLA and ABS parts? PLA and ABS have similar tensile strengths, meaning both can handle comparable loads before breaking. In fact, PLA can often withstand slightly higher loads before snapping which makes it a strong material in terms of pure strength. However, strength alone doesn’t tell the full story. A key difference lies in toughness, the ability of a material to deform without breaking. ABS is significantly tougher than PLA, meaning it can bend and absorb impact before failing, while PLA is more brittle and tends to snap under stress. This distinction is critical for functional design. For parts that need flexibility or repeated stress, such as clips, snap-fits, or enclosures, ABS is typically the better choice. PLA, on the other hand, is well-suited for rapid prototyping where visual accuracy and ease of printing are more important than mechanical performance. In general, PLA is a good option for low-load applications that are not exposed to high temperatures or UV radiation. ABS on the other hand is better suited for more demanding environments, as it offers improved durability and resistance to physical strain. How fast can you print with PLA and ABS? PLA and ABS generally print at similar speeds, so machine speed settings often remain unchanged when switching between these materials. For PLA, 60 mm per second is a common baseline. Some setups with print speeds above 150 mm per second are reported in some setups. ABS typically runs at the same speed range, with 40 to 60 mm per second which provides more consistent results. Surface finishes and post-processing for PLA and ABS FDM parts have visible layer lines regardless of material. PLA often yields a glossier finish, while ABS tends to appear more matte. Acetone vapor smoothing is commonly used to give ABS a glossy finish. Sanding and secondary machining are viable for ABS, and PLA can also be sanded and machined with additional care. For parts where cosmetic quality is critical, SLA 3D printing is often selected. Want to explore all the options for FDM post-processing? Learn more How heat resistant are PLA and ABS? For higher-temperature applications, ABS is generally preferred over PLA. ABS has a glass transition temperature of around 105°C, while PLA is much lower at approximately 60°C. As PLA approaches this temperature, it begins to lose structural integrity and can soften, droop, or deform, especially under load. A simple way to understand this is the ‘hot car test’. If a part is left inside a parked car on a warm day, temperatures can easily exceed 60°C. In these conditions, PLA parts are very likely to warp or fail, while ABS parts will remain stable. Because of this, PLA is not suitable for outdoor use, high-temperature environments, or applications such as engine bays. ABS, on the other hand, is better suited for functional parts that need to maintain their shape under heat and mechanical stress. Are PLA and ABS biodegradable? A common misconception is that PLA is as eco-friendly as an apple core, but its biodegradability requires specific industrial context. It will not break down in a backyard compost pile or if left in nature. Instead, it requires controlled industrial composting conditions. This involves maintaining temperatures above 60°C and specific humidity levels that are only achievable in professional facilities. In these specialized environments, PLA can decompose in about 50 days, but without these, they can remain for decades. ABS is not biodegradable in any environment. However, it is a thermoplastic that is recyclable through appropriate industrial waste streams. Regardless of the material choice, if your project involves food-related applications, you must confirm safety with the filament supplier. Not all filaments are food-safe due to the additives and pigments used during manufacturing. Get started Ready to choose between PLA and ABS for your 3D printed part? Upload your design for a free, instant quote with material recommendations and DFM feedback. Subscribe Get the latest manufacturing news delivered to your mailbox. Sign up for our newsletter Sign me up Please enter a valid email address. Leave this field empty Thanks! You're now subscribed to our newsletter. Frequently asked questions When should you use PLA? PLA is a strong choice when high-quality aesthetics are required. Its lower printing temperature supports finer details and a consistent surface finish, making it suitable for visual prototypes and parts that are not exposed to elevated temperatures or high loads. When should you use ABS? ABS is best suited for applications that require strength, ductility, machinability, and thermal stability. Its durability makes it a good option for prototyping, low-stress end-use components, and other practical applications. ABS is more prone to warping than PLA. How strong are PLA and ABS? PLA and ABS have similar tensile strength. Engineers often select ABS for its improved ductility. ABS typically offers higher flexural strength and greater elongation at break than PLA. Are PLA and ABS flexible? PLA and ABS are not flexible filament materials like TPU . ABS is generally less brittle and more impact resistant than PLA. How long do PLA and ABS last? PLA and ABS parts can last for decades when they are not used in heavy load bearing applications. Which one is better for outdoor use? ABS is generally better suited for outdoor use than PLA: PLA for indoor prototypes or short-term ABS for more durable, functional parts exposed to outdoor conditions (with UV protection if needed) Can I use PLA for food-related parts? PLA can be food-safe in theory, but most filaments and FDM prints are not suitable for direct food contact. Additives, printer contamination, and porous layer lines can trap bacteria. For food use, only use certified food-safe materials and coatings, and limit PLA to indirect or short-term applications.",
+  "published_at": "",
+  "requested_url": "https://www.hubs.com/knowledge-base/pla-vs-abs-whats-difference",
+  "schema_version": 2,
+  "sections": [
+    {
+      "hash": "42153f6c11e8e4ad923331fdfffc17d022bd2e5b",
+      "heading": "What is PLA? Printing with polylactic acid",
+      "level": "h2",
+      "text": "What is PLA? Printing with polylactic acid PLA (polylactic acid) is a thermoplastic derived from renewable sources such as cornstarch or sugar cane. Biodegradable under certain conditions, PLA is a widely used bioplastic for applications ranging from plastic cups to medical implants. For FDM 3D printing, PLA is cost efficient and delivers good surface quality. This material is easy to print and has higher stiffness than ABS and materials like nylon, but does not handle high temperatures or significant stress well. PLA can be stronger than ABS and some nylon grades, but it offers limited heat and chemical resistance."
+    },
+    {
+      "hash": "403b2ce458e3552881c6fe90a6ce43ab17482d2a",
+      "heading": "What is ABS? Printing with acrylonitrile butadiene styrene",
+      "level": "h2",
+      "text": "What is ABS? Printing with acrylonitrile butadiene styrene ABS (acrylonitrile butadiene styrene) is a common thermoplastic used in FDM 3D printing and is widely used in injection molding. Typical applications include toys such as LEGO bricks, housings for electronics, automotive components, and household appliances. ABS is tough and impact resistant with mechanical properties that generally exceed PLA while being lighter and more durable. The tradeoff is more challenging printability and higher processing temperatures. ABS deflects heat more effectively than PLA, but it does not have high heat resistance."
+    },
+    {
+      "hash": "7f1ff42ad1580a29c96fb0458ae828d7aff629fc",
+      "heading": "What’s the difference between PLA and ABS?",
+      "level": "h2",
+      "text": "What’s the difference between PLA and ABS? PLA and ABS differ significantly in tensile strength, density, and typical applications. While mechanical properties are important, the 'printability' of a material often proves more critical for quick prototypes than its actual tensile strength. ABS is notorious for a high shrink rate, which frequently leads to warped corners, whereas PLA remains dimensionally stable during the cooling process. The table below compares the key material properties of PLA and ABS filaments"
+    },
+    {
+      "hash": "551df60f879b8e89fac62744186c896088d7bb54",
+      "heading": "What is the part accuracy of PLA and ABS?",
+      "level": "h2",
+      "text": "What is the part accuracy of PLA and ABS? Dimensional accuracy in FDM depends on machine calibration, process control, and part geometry. PLA and ABS typically achieve about 0.8 mm feature resolution, with minimum feature sizes around 1.2 mm. For connecting or interlocking parts, a typical guideline is 0.5 mm clearance and a minimum wall thickness of 1 to 2 mm to maintain strength across walls. Because PLA prints at lower temperatures, it is generally easier to process with less risk of warping when cooled correctly. PLA also supports sharper corners and finer features than ABS."
+    },
+    {
+      "hash": "1fbf510b0483a92bf0aefbb5428fa9a4428ef85a",
+      "heading": "How strong are PLA and ABS parts?",
+      "level": "h2",
+      "text": "How strong are PLA and ABS parts? PLA and ABS have similar tensile strengths, meaning both can handle comparable loads before breaking. In fact, PLA can often withstand slightly higher loads before snapping which makes it a strong material in terms of pure strength. However, strength alone doesn’t tell the full story. A key difference lies in toughness, the ability of a material to deform without breaking. ABS is significantly tougher than PLA, meaning it can bend and absorb impact before failing, while PLA is more brittle and tends to snap under stress. This distinction is critical for functional design. For parts that need flexibility or repeated stress, such as clips, snap-fits, or enclosures, ABS is typically the better choice. PLA, on the other hand, is well-suited for rapid prototyping where visual accuracy and ease of printing are more important than mechanical performance. In general, PLA is a good option for low-load applications that are not exposed to high temperatures or UV radiation. ABS on the other hand is better suited for more demanding environments, as it offers improved durability and resistance to physical strain."
+    },
+    {
+      "hash": "b48fc2de7da7e12dde2b3d07cb6582f02fc0d428",
+      "heading": "How fast can you print with PLA and ABS?",
+      "level": "h2",
+      "text": "How fast can you print with PLA and ABS? PLA and ABS generally print at similar speeds, so machine speed settings often remain unchanged when switching between these materials. For PLA, 60 mm per second is a common baseline. Some setups with print speeds above 150 mm per second are reported in some setups. ABS typically runs at the same speed range, with 40 to 60 mm per second which provides more consistent results."
+    },
+    {
+      "hash": "5f56c07ceff83bb8d541cfe5f1fc065d81096f63",
+      "heading": "Surface finishes and post-processing for PLA and ABS",
+      "level": "h2",
+      "text": "Surface finishes and post-processing for PLA and ABS FDM parts have visible layer lines regardless of material. PLA often yields a glossier finish, while ABS tends to appear more matte. Acetone vapor smoothing is commonly used to give ABS a glossy finish. Sanding and secondary machining are viable for ABS, and PLA can also be sanded and machined with additional care. For parts where cosmetic quality is critical, SLA 3D printing is often selected."
+    },
+    {
+      "hash": "b20e341fbd2a32eac1dccc6369fa173b9ebcdf9d",
+      "heading": "How heat resistant are PLA and ABS?",
+      "level": "h2",
+      "text": "How heat resistant are PLA and ABS? For higher-temperature applications, ABS is generally preferred over PLA. ABS has a glass transition temperature of around 105°C, while PLA is much lower at approximately 60°C. As PLA approaches this temperature, it begins to lose structural integrity and can soften, droop, or deform, especially under load. A simple way to understand this is the ‘hot car test’. If a part is left inside a parked car on a warm day, temperatures can easily exceed 60°C. In these conditions, PLA parts are very likely to warp or fail, while ABS parts will remain stable. Because of this, PLA is not suitable for outdoor use, high-temperature environments, or applications such as engine bays. ABS, on the other hand, is better suited for functional parts that need to maintain their shape under heat and mechanical stress."
+    },
+    {
+      "hash": "6c8c3fb1057e81a6d8de0d4b80dddd92fc8d5eeb",
+      "heading": "Are PLA and ABS biodegradable?",
+      "level": "h2",
+      "text": "Are PLA and ABS biodegradable? A common misconception is that PLA is as eco-friendly as an apple core, but its biodegradability requires specific industrial context. It will not break down in a backyard compost pile or if left in nature. Instead, it requires controlled industrial composting conditions. This involves maintaining temperatures above 60°C and specific humidity levels that are only achievable in professional facilities. In these specialized environments, PLA can decompose in about 50 days, but without these, they can remain for decades. ABS is not biodegradable in any environment. However, it is a thermoplastic that is recyclable through appropriate industrial waste streams. Regardless of the material choice, if your project involves food-related applications, you must confirm safety with the filament supplier. Not all filaments are food-safe due to the additives and pigments used during manufacturing."
+    },
+    {
+      "hash": "2472262fed1ae4d1473438f97eab89133e157350",
+      "heading": "Get started",
+      "level": "h2",
+      "text": "Get started Ready to choose between PLA and ABS for your 3D printed part? Upload your design for a free, instant quote with material recommendations and DFM feedback."
+    },
+    {
+      "hash": "02842b08377539be654ab1179cf41e1d947c4424",
+      "heading": "Frequently asked questions",
+      "level": "h2",
+      "text": "Frequently asked questions Frequently asked questions"
+    },
+    {
+      "hash": "162c1c0a5213b9b62680c8cfd9605fbbb8028c48",
+      "heading": "When should you use PLA?",
+      "level": "h3",
+      "text": "When should you use PLA? PLA is a strong choice when high-quality aesthetics are required. Its lower printing temperature supports finer details and a consistent surface finish, making it suitable for visual prototypes and parts that are not exposed to elevated temperatures or high loads."
+    },
+    {
+      "hash": "9323deeb6cb4d04956ef3f257fb384af3395e780",
+      "heading": "When should you use ABS?",
+      "level": "h3",
+      "text": "When should you use ABS? ABS is best suited for applications that require strength, ductility, machinability, and thermal stability. Its durability makes it a good option for prototyping, low-stress end-use components, and other practical applications. ABS is more prone to warping than PLA."
+    },
+    {
+      "hash": "8d9fbc3b020596e60d6ef2cc76dd74d3c9adc5fa",
+      "heading": "How strong are PLA and ABS?",
+      "level": "h3",
+      "text": "How strong are PLA and ABS? PLA and ABS have similar tensile strength. Engineers often select ABS for its improved ductility. ABS typically offers higher flexural strength and greater elongation at break than PLA."
+    },
+    {
+      "hash": "8185fbf1cf4f1544ce29b2dfd364dc81996d9697",
+      "heading": "Are PLA and ABS flexible?",
+      "level": "h3",
+      "text": "Are PLA and ABS flexible? PLA and ABS are not flexible filament materials like TPU . ABS is generally less brittle and more impact resistant than PLA."
+    },
+    {
+      "hash": "4022445fd46258ce0c2f465e44ed4961e5867ab0",
+      "heading": "How long do PLA and ABS last?",
+      "level": "h3",
+      "text": "How long do PLA and ABS last? PLA and ABS parts can last for decades when they are not used in heavy load bearing applications."
+    },
+    {
+      "hash": "1481bc1048790d655764bdc690df58cb1ed3e566",
+      "heading": "Which one is better for outdoor use?",
+      "level": "h3",
+      "text": "Which one is better for outdoor use? ABS is generally better suited for outdoor use than PLA: PLA for indoor prototypes or short-term ABS for more durable, functional parts exposed to outdoor conditions (with UV protection if needed)"
+    },
+    {
+      "hash": "f03a4b1606ff20af98de7897b510c6451e734a16",
+      "heading": "Can I use PLA for food-related parts?",
+      "level": "h3",
+      "text": "Can I use PLA for food-related parts? PLA can be food-safe in theory, but most filaments and FDM prints are not suitable for direct food contact. Additives, printer contamination, and porous layer lines can trap bacteria. For food use, only use certified food-safe materials and coatings, and limit PLA to indirect or short-term applications."
+    }
+  ],
+  "sitemap_lastmod": "2026-08-14T05:51:53+00:00",
+  "status": 200,
+  "structure_hash": "7fe7e9bd4974f9188ebd46c3303cbe6a33775143",
+  "text_excerpt": "PLA and ABS are the two of the most common materials for prototyping FDM 3D printing (along with PETG ). Both are thermoplastics, which means the filament softens when heated and returns to a solid when cooled. FDM printers melt and extrude PLA or ABS through a nozzle to build parts layer by layer. While both are used for FDM , they have key differences that make each better suited to specific applications. This article covers the main differences engineers should consider. Check out our video here for an explanation of the difference between PLA and ABS filaments. Want to compare pricing for PLA and ABS? Upload your CAD file to the Quote Builder What is PLA? Printing with polylactic acid PLA (polylactic acid) is a thermoplastic derived from renewable sources such as cornstarch or sugar cane. Biodegradable under certain conditions, PLA is a widely used bioplastic for applications ranging from plastic cups to medical implants. For FDM 3D printing, PLA is cost efficient and delivers good surface quality. This material is easy to print and has higher stiffness than ABS and materials like nylon, but does not handle high temperatures or significant stress well. PLA can be stronger than...",
+  "text_hash": "d36b717fccd1669f1ec8737c41f3a6b872f70559",
+  "title": "3D printing with PLA versus ABS: What's the difference? | Protolabs Network",
+  "url": "https://www.hubs.com/knowledge-base/pla-vs-abs-whats-difference"
+}

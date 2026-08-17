@@ -4,7 +4,7 @@
   "competitor": "PCBWay",
   "ctas": [
     {
-      "href": "/orderonline.aspx",
+      "href": "https://www.pcbway.com/orderonline.aspx",
       "text": "PCB Instant Quote"
     },
     {
@@ -12,35 +12,38 @@
       "text": "Sign Up"
     },
     {
-      "href": "/project/shareproject/?order=1",
+      "href": "https://www.pcbway.com/project/shareproject?order=1",
       "text": "By Source Files"
     },
     {
-      "href": "/project/shareproject/?order=1",
+      "href": "https://www.pcbway.com/project/shareproject?order=1",
       "text": "View all source files projects"
     },
     {
-      "href": "/project/shareproject/?order=1",
+      "href": "https://www.pcbway.com/project/shareproject?order=1",
       "text": "Source Files"
     },
     {
-      "href": "/blog/club-publish.html",
+      "href": "https://www.pcbway.com/blog/club-publish.html",
       "text": "Submit for Publication"
     },
     {
-      "href": "/blog/Activities/Submit_for_Publication___Now_I_Write_Articles_in_PCBWay.html",
+      "href": "https://www.pcbway.com/blog/Activities/Submit_for_Publication___Now_I_Write_Articles_in_PCBWay.html",
       "text": "Write for PCBWay"
     },
     {
-      "href": "/blog/?tag=PCB industry",
+      "href": "https://www.pcbway.com/blog?tag=PCB+industry",
       "text": "PCB industry"
     },
     {
-      "href": "/contact.html",
+      "href": "https://www.pcbway.com/contact.html",
       "text": "Contact us"
     }
   ],
-  "fetched_at": "2026-08-17T02:33:35+00:00",
+  "discovered_via": "links",
+  "fetched_at": "2026-08-17T03:51:51+00:00",
+  "final_url": "https://www.pcbway.com/blog/PCB_Design_Tutorial/How_to_generate_Gerber_files_from_CircuitMaker_2_2_1_6_a4572588.html",
+  "first_seen_at": "2026-08-17T03:51:51+00:00",
   "h1": "How to generate Gerber files from CircuitMaker 2.2.1.6?",
   "headings": [
     {
@@ -143,13 +146,17 @@
     }
   ],
   "meta_description": "",
+  "modified_at": "",
+  "monitored_text": "PCBWay Community Search title or content Search PCBWay PCB Instant Quote CNC | 3D Printing Login Sign Up More Notifications No notifications. My Profile My projects My Likes My Deals My Goods for Bazaar Settings Sign Out Projects Categories DIY Electronics Arduino Hardware Audio Computers & USB Breakout Board Projects Home Automation LED Displays & Matrices IoT Robotics View all categories By Source Files Onju Voice - AI assistant replacement to Google Nest Mini by @justLV LogicAnalyzer V6.0 DIY 1kW Open Source MPPT Solar Charge Controller Tad Boy Color SummerCart64 - a fully open source N64 flashcart kv4p HT v1.7b QuinLED-Dig-Uno Arduino RC engine sound & light controller with inertia simulation for ESP32 Bike Fingerprint - PCB Solar Powered WiFi Weather Station V2.0 Frog Boy Color SIDKick pico 0.2 (SID 6581/8580-replacement for C64/C128) View all source files projects Featured Projects Onju Voice - AI assistant replacement to Google Nest Mini by @justLV LogicAnalyzer V6.0 DIY 1kW Open Source MPPT Solar Charge Controller Featured Source Files Video View all projects Questions Sponsorships Feedback Blog Store PCB Design Contest - 2026 KiCad PCB Design Contest - 8th Project Design Contest - 7th Project Design Contest - KiCad Design Contest - 6th Project Design Contest - 5th PCB Design Contest - 4th PCB Design Contest - Raspberry Pi Pico Contest - PCB Design Tutorial - 3rd PCB Design Contest - I CAN SOLDER Kit Contest - 2nd PCB Design Contest - 1st PCB Design Contest Add questions Create a project Please verify your email address so that you can enjoy our more comprehensive services. Verify Now Blog > How to generate Gerber files from CircuitMaker 2.2.1.6? How to generate Gerber files from CircuitMaker 2.2.1.6? by: Mia Jun 27,2024 <dynamic-value> <dynamic-value> Posted in PCB Design Tutorial CircuitMaker Gerber PCB This guide is about how to export Gerber file from CircuitMaker 2.2.1.6. Step 1 : Open the PCB design file first, and then open the \"Project\" menu and click \"Generate outputs\", as shown below. Step 2 : After clicking, the dialog box shown below will appear. Check the boxes next to Gerber Files and NC Drill Files. Step 3 : Click the \"Configure\" link next to \"Gerber Files\". In the dialog that opens, configure the following options in the \"General\" tab: Use the 2:3 format, as the milling precision is 1mm. It's fine to use a higher format if you prefer. And it does not matter whether you choose inches or millimeters as the unit. Remember the settings you choose here, as you will need to use the same settings when configuring your NC Drill file. Step 4 : In the \"Layer\" tab, select as shown below and do not check any boxes in the right panel. Step 5 : In the \"Advanced\" tab (skip \"Drill Drawing\" and \"Apertures\"), configure the following options: \"Film Size\" and \"Aperture Matching Tolerance\" can keep the default settings without changing. Uncheck all options in \"other\" (such as G54, optimize change location commands, etc.). Select \"Separate file per layer\" in Batch Mode for generating Gerber files. For advanced settings, such as leading/trailing zeroes, vector/raster, and absolute/relative, just use the same settings when configuring the NC Drill settings. Step 6 : Click \"OK\" to return to the \"Generate output files\" dialog box, and then click the \"Configure\" link next to \"NC Drill Files\". Configuring the following settings in the \"NC Drill Setup\" dialog box. Step 7 : Click \"OK\" and then close \"NC Drill Setup\" dialog box. Step 8 : Click \"Generate\" in the \"Generate Output Files\" dialog box. Step 9 : A dialog box shown as below will pop up after clicking \"Generate\", select \"Save and Commit changes\". Step 10 : Click \"OK\" in the \"Save to Saver\" dialog box poped up. Step 11 : Click the \"Release\" button in the \"Generate output files\" dialog box, which will save the generated files to the cloud. Step 12 : A window called \"Confirm Release\" will appear,write \"Release Note\" as needed and click \"OK\". A new window will show: Project has been released successfully, open in Web Browser. Step 13 : Click \"open in Web Browser\" which will open the published files in the web browser. Click \"Show Files\" to display the files and then click the download icon to download the Gerber and drill files. Enter the year of your birth and check your Chinese Zodiac. Join us Wanna be a dedicated PCBWay writer? We definately look forward to having you with us. Submit for Publication Become Our Writer Leave a Comment ( 0 ) Share to: Previous：Differences between thermoplastic and thermoset plastic materials Next：Reasons for shrinkage of injection molded parts Related articles Learn basics with Arduino! Controlling servo using joystick with Arduino Uno R3. For robotic arms, RC Cars, pets and gimbals. PCB Flying Probe Test: Principles, Advantages, and Applications Solution for Copper Base Discoloration After High-Temperature Furnace: OSP Treatment Advanced 8-CH RC Transmitter and Receiver using stm32f103 and Nrf24l01 Comments ( 0 ) Log in to post comments. Upload photo You can only upload 5 files in total. Each file cannot exceed 2MB. Supports JPG, JPEG, GIF, PNG, BMP 0 / 10000 It looks like you have not written anything. Please add a comment and try again. You can upload up to 5 images! Image size should not exceed 2MB! File format not supported! Post Comment View More Write for PCBWay HOT TAG PCB Printed Circuit Board PCB design PCB Board PCB layout Circuit Board Printed Circuit Boards PCB Design Tutorial PCB industry pcb manufacturing KiCad pcbway Categories Select a Category 3D Printing Activities CNC Machining Engineering Technical Flexible PCB HDI PCB Help Center Injection Molding News PCB Assembly PCB Basic Information PCB Design & Layout PCB Design Tutorial PCB Layout Software PCB Manufacturing Information PCBWay Store Rigid-Flex PCB Sheet Metal Technology IF YOU MISSED IT 1 Introduction to Current Divider 2 How to generate Gerber files from CircuitMaker 2.2.1.6? 3 How to Export Gerber Files in DesignSpark PCB V11.0.0? 4 How to add a Board Outline to Gerber Plots in DesignSpark PCB V11.0.0? 5 How to Generate Centroid File from DesignSpark PCB V11.0.0? 6 How to Generate Gerber Files in Fusion 360? 7 How to Generate a Pick and Place File in .csv Format from Fusion 360? 8 How to Set Shortcut Key in Cadence Allegro PCB Editor? 9 How to Create a SMD footprint using the Allegro PCB Editor? The PCB Way that recognize the talent and effort of the best ELECTRONIC designers in the World. © COPYRIGHT 2019 About us Contact us Follow us on Share to Facebook Share to Twitter Share to Reddit Share to Linkedin Back to top",
+  "published_at": "2024-06-27T00:00:00+00:00",
   "requested_url": "https://www.pcbway.com/blog/PCB_Design_Tutorial/How_to_generate_Gerber_files_from_CircuitMaker_2_2_1_6_a4572588.html",
+  "schema_version": 2,
   "sections": [
     {
-      "hash": "b01d31074bbbe5d1e4f5648ccd917045f3baf1a5",
+      "hash": "2b8614c7a12346d9f76f52d428bf74aa8439018a",
       "heading": "How to generate Gerber files from CircuitMaker 2.2.1.6?",
       "level": "h1",
-      "text": "Blog > How to generate Gerber files from CircuitMaker 2.2.1.6? How to generate Gerber files from CircuitMaker 2.2.1.6? by: Mia Jun 27,2024 8538 Views 0 Comments Posted in PCB Design Tutorial CircuitMaker Gerber PCB This guide is about how to export Gerber file from CircuitMaker 2.2.1.6. Step 1 : Open the PCB design file first, and then open the \"Project\" menu and click \"Generate outputs\", as shown below. Step 2 : After clicking, the dialog box shown below will appear. Check the boxes next to Gerber Files and NC Drill Files. Step 3 : Click the \"Configure\" link next to \"Gerber Files\". In the dialog that opens, configure the following options in the \"General\" tab: Use the 2:3 format, as the mi..."
+      "text": "How to generate Gerber files from CircuitMaker 2.2.1.6? by: Mia Jun 27,2024 <dynamic-value> <dynamic-value> Posted in PCB Design Tutorial CircuitMaker Gerber PCB This guide is about how to export Gerber file from CircuitMaker 2.2.1.6. Step 1 : Open the PCB design file first, and then open the \"Project\" menu and click \"Generate outputs\", as shown below. Step 2 : After clicking, the dialog box shown below will appear. Check the boxes next to Gerber Files and NC Drill Files. Step 3 : Click the \"Configure\" link next to \"Gerber Files\". In the dialog that opens, configure the following options in the \"General\" tab: Use the 2:3 format, as the milling precision is 1mm. It's fine to use a higher format if you prefer. And it does not matter whether you choose inches or millimeters as the unit. Remember the settings you choose here, as you will need to use the same settings when configuring your NC Drill file. Step 4 : In the \"Layer\" tab, select as shown below and do not check any boxes in the right panel. Step 5 : In the \"Advanced\" tab (skip \"Drill Drawing\" and \"Apertures\"), configure the following options: \"Film Size\" and \"Aperture Matching Tolerance\" can keep the default settings without..."
     },
     {
       "hash": "7e8ab7f99af167c49af9b0a29ac2e29c86a21180",
@@ -158,10 +165,11 @@
       "text": "Related articles Learn basics with Arduino! Controlling servo using joystick with Arduino Uno R3. For robotic arms, RC Cars, pets and gimbals. PCB Flying Probe Test: Principles, Advantages, and Applications Solution for Copper Base Discoloration After High-Temperature Furnace: OSP Treatment Advanced 8-CH RC Transmitter and Receiver using stm32f103 and Nrf24l01"
     }
   ],
+  "sitemap_lastmod": "",
   "status": 200,
-  "structure_hash": "4b8478e73804c0c4caa747c772acba7afe48c975",
-  "text_excerpt": "How to generate Gerber files from CircuitMaker 2.2.1.6? - PCB Design Tutorial - PCBway PCBWay Community Search title or content Search PCBWay PCB Instant Quote CNC | 3D Printing Login Sign Up More Notifications No notifications. My Profile My projects My Likes My Deals My Goods for Bazaar Settings Sign Out Projects Categories DIY Electronics Arduino Hardware Audio Computers & USB Breakout Board Projects Home Automation LED Displays & Matrices IoT Robotics View all categories By Source Files Onju Voice - AI assistant replacement to Google Nest Mini by @justLV LogicAnalyzer V6.0 DIY 1kW Open Source MPPT Solar Charge Controller Tad Boy Color SummerCart64 - a fully open source N64 flashcart kv4p HT v1.7b QuinLED-Dig-Uno Arduino RC engine sound & light controller with inertia simulation for ESP32 Bike Fingerprint - PCB Solar Powered WiFi Weather Station V2.0 Frog Boy Color SIDKick pico 0.2 (SID 6581/8580-replacement for C64/C128) View all source files projects Featured Projects Onju Voice - AI assistant replacement to Google Nest Mini by @justLV LogicAnalyzer V6.0 DIY 1kW Open Source MPPT Solar Charge Controller Featured Source Files Video View all projects Questions Sponsorships Feedb...",
-  "text_hash": "7d8524bdd3ed24b94e8d03a410a1613a74066c92",
+  "structure_hash": "0f4d15cc78954820aa708f5121b04fa26f9f8ab3",
+  "text_excerpt": "PCBWay Community Search title or content Search PCBWay PCB Instant Quote CNC | 3D Printing Login Sign Up More Notifications No notifications. My Profile My projects My Likes My Deals My Goods for Bazaar Settings Sign Out Projects Categories DIY Electronics Arduino Hardware Audio Computers & USB Breakout Board Projects Home Automation LED Displays & Matrices IoT Robotics View all categories By Source Files Onju Voice - AI assistant replacement to Google Nest Mini by @justLV LogicAnalyzer V6.0 DIY 1kW Open Source MPPT Solar Charge Controller Tad Boy Color SummerCart64 - a fully open source N64 flashcart kv4p HT v1.7b QuinLED-Dig-Uno Arduino RC engine sound & light controller with inertia simulation for ESP32 Bike Fingerprint - PCB Solar Powered WiFi Weather Station V2.0 Frog Boy Color SIDKick pico 0.2 (SID 6581/8580-replacement for C64/C128) View all source files projects Featured Projects Onju Voice - AI assistant replacement to Google Nest Mini by @justLV LogicAnalyzer V6.0 DIY 1kW Open Source MPPT Solar Charge Controller Featured Source Files Video View all projects Questions Sponsorships Feedback Blog Store PCB Design Contest - 2026 KiCad PCB Design Contest - 8th Project Design...",
+  "text_hash": "54267da061baf86099689a4c8532050dfaa4c604",
   "title": "How to generate Gerber files from CircuitMaker 2.2.1.6? - PCB Design Tutorial - PCBway",
   "url": "https://www.pcbway.com/blog/PCB_Design_Tutorial/How_to_generate_Gerber_files_from_CircuitMaker_2_2_1_6_a4572588.html"
 }

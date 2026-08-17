@@ -1,50 +1,17 @@
 {
-  "canonical": "https://sybridge.com/material-compatibility-multi-material-injection-molding/",
+  "canonical": "https://sybridge.com/material-compatibility-multi-material-injection-molding",
   "category": "page",
   "competitor": "SyBridge",
   "ctas": [
     {
-      "href": "https://sybridge.com/contact/",
-      "text": "Contact"
-    },
-    {
-      "href": "https://sybridge.com/contact/locations/",
-      "text": "Locations"
-    },
-    {
-      "href": "https://sybridge.com/contact/locations/#usa",
-      "text": "United States"
-    },
-    {
-      "href": "https://sybridge.com/contact/locations/#mexico",
-      "text": "Mexico"
-    },
-    {
-      "href": "https://sybridge.com/contact/locations/#canada",
-      "text": "Canada"
-    },
-    {
-      "href": "https://sybridge.com/contact/locations/#europe",
-      "text": "Europe"
-    },
-    {
-      "href": "https://sybridge.com/contact/locations/#asia",
-      "text": "Asia"
-    },
-    {
-      "href": "https://sybridge.com/contact/",
-      "text": "Start the Conversation"
-    },
-    {
-      "href": "/contact/",
+      "href": "https://sybridge.com/contact",
       "text": "contact"
-    },
-    {
-      "href": "https://sybridge.com/contact/",
-      "text": "Contact Us"
     }
   ],
-  "fetched_at": "2026-08-17T02:35:34+00:00",
+  "discovered_via": "sitemap",
+  "fetched_at": "2026-08-17T03:54:08+00:00",
+  "final_url": "https://sybridge.com/material-compatibility-multi-material-injection-molding",
+  "first_seen_at": "2026-08-17T03:54:08+00:00",
   "h1": "What You Need To Know About Material Compatibility For Multi-Material Injection Molding",
   "headings": [
     {
@@ -62,29 +29,9 @@
     {
       "level": "h2",
       "text": "Master injection mold material selection with SyBridge"
-    },
-    {
-      "level": "h3",
-      "text": "Related articles"
-    },
-    {
-      "level": "h2",
-      "text": "SyBridge Technologies Acquires Calframax Technologies"
-    },
-    {
-      "level": "h2",
-      "text": "Two-Shot Molding vs. Overmolding: What You Need to Know"
-    },
-    {
-      "level": "h2",
-      "text": "Urethane Casting vs. Injection Molding — A DFM Guide"
     }
   ],
   "images": [
-    {
-      "alt": "Sybridge",
-      "src": "https://sybridge.com/wp-content/uploads/2025/11/logo-1.svg"
-    },
     {
       "alt": "",
       "src": "data:image/svg+xml,%3Csvg%20xmlns=%22http://www.w3.org/2000/svg%22%20viewBox=%220%200%20210%20140%22%3E%3C/svg%3E"
@@ -96,68 +43,45 @@
     {
       "alt": "plastic parts",
       "src": "data:image/svg+xml,%3Csvg%20xmlns=%22http://www.w3.org/2000/svg%22%20viewBox=%220%200%201000%20563%22%3E%3C/svg%3E"
-    },
-    {
-      "alt": "Sybridge Technologies",
-      "src": "data:image/svg+xml,%3Csvg%20xmlns=%22http://www.w3.org/2000/svg%22%20viewBox=%220%200%20210%20140%22%3E%3C/svg%3E"
     }
   ],
   "meta_description": "Multi-material injection molding is a process in which two or more different materials are bonded to form a single plastic part.",
+  "modified_at": "2023-11-20T17:50:27+00:00",
+  "monitored_text": "What You Need To Know About Material Compatibility For Multi-Material Injection Molding Published on November 24, 2021 Originally published on fastradius.com on November 24, 2021 Multi-material injection molding is an umbrella term referring to any injection molding process in which two or more different materials are bonded to form a single plastic part. The most common types of multi-material injection molding are overmolding and two-shot injection molding. Overmolding is a process that forms a unified product from two or more different thermoplastics . During this process, an engineer molds a substrate out of the rigid overmold material and then places the substrate in an overmold cavity in a separate tool. Then, the molten overmold material is ejected into, onto, or around the substrate. As the thermoplastics cool, the materials become either chemically or mechanically bonded — which gives the end product a high degree of strength and durability. While this drives up the overhead cost of a tool, it can save you a fortune down the line by eliminating the need for an assembly process, thus cutting labor and resource costs. You can achieve many of the same properties using two-shot injection molding, also known as double-shot injection molding. The difference between overmolding and two-shot molding is that the former is done using two tools while the latter is done using one tool. During two-shot injection molding, the first material is injected into a mold to create the substrate, which is then transferred into the other chamber of the mold by an end of arm tool after it solidifies and cools. After that, the mold opens and the side with the substrate rotates 180° to meet the other mold chamber. Once the substrate is in place, the injection molding nozzle injects the second material into the cavity, bonding it with the substrate. From an overhead perspective, two-shot injection molding is more expensive to design and build, but it’s faster and better-suited for high-volume production runs than overmolding. Overmolding requires manual labor since someone has to physically remove the first part of the mold and place it in the second mold, which is only economical for smaller production sizes. Since the materials involved in overmolding and two-shot injection molding must be bonded together, the plastics must be compatible with one another. Material compatibility, which has its roots in chemical compatibility, is a measure of how stable a material is when it comes into contact with another material. If two materials come in contact with one another and cause a chemical reaction, they’re incompatible and cannot be used together in multi-material injection molding. For materials that are not chemically compatible, a positive fastening feature or mechanical bond is typically recommended. This joins the two materials together without a chemical bond. Here’s what you need to know about choosing injection molding thermoset materials based on material compatibility, and negotiating other factors like friction, wear, and adhesion: Key considerations for injection mold material selection When it comes to multi-material injection molding, accidentally mixing two incompatible materials can be catastrophic. At best, you might notice an awful smell permeating the production room floor. At worst, your injection molding machine barrel might explode into pieces. To avoid adverse outcomes, engineers and product teams must choose resins carefully and ensure there are no contraindications. As a general rule, the following common injection molding materials should never be used together: Acetal with PVC or CPVC Ionomer with acetal, PVC, or CPVC TPV with acetal, PVC, or CPVC If you’re using the same machine barrel and screw to process two resins — even resins that shouldn’t react with one another — be sure to disassemble and thoroughly clean all machinery before you resume processing. Even the smallest traces of injection molding thermoset materials can cause a reaction. How friction, adhesion, and wear impact multi-material injection molding Tribology is the study of friction and wear that occurs between two surfaces moving against each other, primarily concerning snap-fit clips or interlocking parts. To reduce friction and improve the performance of your end part, you must consider the tribological performance of your prospective materials in addition to their compatibility. For example, a wear-resistant polymer like HDPE or a smooth material like acetal would be good candidates for a snap-fit clip because these materials are smooth enough to avoid snags on rougher patches and are highly wear-resistant. To further reduce wear, engineers should consider using metal inserts instead of plastic during the two-shot injection molding process. Material compatibility is less of a concern with metal inserts — you just have to make sure that a solid mechanical bond will be created when the plastic is injected over and around the insert, which requires designing a positive fastening feature. Bronze and brass are affordable options, but they’re prone to wear over time. To account for friction and wear, take the time to understand tribology and think about how well your prospective materials will hold up over time. Even though overmolding and two-shot injection molding chemically or mechanically bond two materials together, you can still encounter problems with adhesion, particularly with TPE . TPE is a common injection molding material but in some cases does not adhere well to the substrate, which can cause peeling, curling, fraying, or the delamination of material layers. If your design requires the use of TPE, you can improve adhesion by making sure the molten plastic overlay isn’t too thin. If the overlay is less than 1/16-inch thick, the material might cool too quickly to adhere to the substrate properly. Similar problems will occur if the length-to-thickness ratio isn’t proportional. You can also improve adhesion, no matter the elastomer used, by trying these tips: Design an abrupt transition between the substrate and the overlay to avoid thinning Use a shutoff to create a hard stop for the molten material and eliminate curling or potential tear points Ensure adequate venting in the tool to prevent air from getting trapped in the cavity during overmolding Keep inserts and substrates clean, which helps them form better bonds Preheat inserts to improve adhesion strength Master injection mold material selection with SyBridge Multi-material injection molding is an excellent manufacturing process for building durable parts that won’t separate over time. However, you can’t use just any two thermoplastics for the two-shot injection molding process. Two-shot molding material compatibility and factors like adhesion, friction, and wear introduce additional layers of complexity to material selection. A seasoned manufacturing partner like SyBridge can demystify the entire process, simplify material selection, optimize part designs, and speed production. If you have more questions about material compatibility for overmolding or two-shot injection molding, contact the designers at SyBridge today. Our design team has years of experience helping product teams choose the right material for their next project. Let’s make something incredible together.",
+  "published_at": "2021-11-25T02:57:00+00:00",
   "requested_url": "https://sybridge.com/material-compatibility-multi-material-injection-molding",
+  "schema_version": 2,
   "sections": [
     {
-      "hash": "ead1151fa2e8638c25f4fe003e0d2e00e0c29a08",
+      "hash": "b59b85982b4c1ad3d7cf7f079ba3ed284a0ba77a",
       "heading": "What You Need To Know About Material Compatibility For Multi-Material Injection Molding",
       "level": "h1",
-      "text": "What You Need To Know About Material Compatibility For Multi-Material Injection Molding Published on November 24, 2021 Originally published on fastradius.com on November 24, 2021 Multi-material injection molding is an umbrella term referring to any injection molding process in which two or more different materials are bonded to form a single plastic part. The most common types of multi-material injection molding are overmolding and two-shot injection molding. Overmolding is a process that forms a unified product from two or more different thermoplastics . During this process, an engineer molds a substrate out of the rigid overmold material and then places the substrate in an overmold cavity..."
+      "text": "What You Need To Know About Material Compatibility For Multi-Material Injection Molding Published on November 24, 2021 Originally published on fastradius.com on November 24, 2021 Multi-material injection molding is an umbrella term referring to any injection molding process in which two or more different materials are bonded to form a single plastic part. The most common types of multi-material injection molding are overmolding and two-shot injection molding. Overmolding is a process that forms a unified product from two or more different thermoplastics . During this process, an engineer molds a substrate out of the rigid overmold material and then places the substrate in an overmold cavity in a separate tool. Then, the molten overmold material is ejected into, onto, or around the substrate. As the thermoplastics cool, the materials become either chemically or mechanically bonded — which gives the end product a high degree of strength and durability. While this drives up the overhead cost of a tool, it can save you a fortune down the line by eliminating the need for an assembly process, thus cutting labor and resource costs. You can achieve many of the same properties using two-sh..."
     },
     {
-      "hash": "ead1151fa2e8638c25f4fe003e0d2e00e0c29a08",
+      "hash": "edd60da88633bbd513c90bd529dd404a3e230ae3",
       "heading": "Key considerations for injection mold material selection",
       "level": "h2",
-      "text": "What You Need To Know About Material Compatibility For Multi-Material Injection Molding Published on November 24, 2021 Originally published on fastradius.com on November 24, 2021 Multi-material injection molding is an umbrella term referring to any injection molding process in which two or more different materials are bonded to form a single plastic part. The most common types of multi-material injection molding are overmolding and two-shot injection molding. Overmolding is a process that forms a unified product from two or more different thermoplastics . During this process, an engineer molds a substrate out of the rigid overmold material and then places the substrate in an overmold cavity..."
+      "text": "Key considerations for injection mold material selection When it comes to multi-material injection molding, accidentally mixing two incompatible materials can be catastrophic. At best, you might notice an awful smell permeating the production room floor. At worst, your injection molding machine barrel might explode into pieces. To avoid adverse outcomes, engineers and product teams must choose resins carefully and ensure there are no contraindications. As a general rule, the following common injection molding materials should never be used together: Acetal with PVC or CPVC Ionomer with acetal, PVC, or CPVC TPV with acetal, PVC, or CPVC If you’re using the same machine barrel and screw to process two resins — even resins that shouldn’t react with one another — be sure to disassemble and thoroughly clean all machinery before you resume processing. Even the smallest traces of injection molding thermoset materials can cause a reaction."
     },
     {
-      "hash": "ead1151fa2e8638c25f4fe003e0d2e00e0c29a08",
+      "hash": "df2d8ed087db678ef0c15b4b0bda32b249a135ec",
       "heading": "How friction, adhesion, and wear impact multi-material injection molding",
       "level": "h2",
-      "text": "What You Need To Know About Material Compatibility For Multi-Material Injection Molding Published on November 24, 2021 Originally published on fastradius.com on November 24, 2021 Multi-material injection molding is an umbrella term referring to any injection molding process in which two or more different materials are bonded to form a single plastic part. The most common types of multi-material injection molding are overmolding and two-shot injection molding. Overmolding is a process that forms a unified product from two or more different thermoplastics . During this process, an engineer molds a substrate out of the rigid overmold material and then places the substrate in an overmold cavity..."
+      "text": "How friction, adhesion, and wear impact multi-material injection molding Tribology is the study of friction and wear that occurs between two surfaces moving against each other, primarily concerning snap-fit clips or interlocking parts. To reduce friction and improve the performance of your end part, you must consider the tribological performance of your prospective materials in addition to their compatibility. For example, a wear-resistant polymer like HDPE or a smooth material like acetal would be good candidates for a snap-fit clip because these materials are smooth enough to avoid snags on rougher patches and are highly wear-resistant. To further reduce wear, engineers should consider using metal inserts instead of plastic during the two-shot injection molding process. Material compatibility is less of a concern with metal inserts — you just have to make sure that a solid mechanical bond will be created when the plastic is injected over and around the insert, which requires designing a positive fastening feature. Bronze and brass are affordable options, but they’re prone to wear over time. To account for friction and wear, take the time to understand tribology and think about h..."
     },
     {
-      "hash": "ead1151fa2e8638c25f4fe003e0d2e00e0c29a08",
+      "hash": "15ea295acd8b5d1325d69aa9109869368445c632",
       "heading": "Master injection mold material selection with SyBridge",
       "level": "h2",
-      "text": "What You Need To Know About Material Compatibility For Multi-Material Injection Molding Published on November 24, 2021 Originally published on fastradius.com on November 24, 2021 Multi-material injection molding is an umbrella term referring to any injection molding process in which two or more different materials are bonded to form a single plastic part. The most common types of multi-material injection molding are overmolding and two-shot injection molding. Overmolding is a process that forms a unified product from two or more different thermoplastics . During this process, an engineer molds a substrate out of the rigid overmold material and then places the substrate in an overmold cavity..."
-    },
-    {
-      "hash": "a4977d2ee2c1f3bca2f5848506e7fd665cbfc5ee",
-      "heading": "Related articles",
-      "level": "h3",
-      "text": "Related articles"
-    },
-    {
-      "hash": "33058b4c8473db8fd895e0521901d61688932c9c",
-      "heading": "SyBridge Technologies Acquires Calframax Technologies",
-      "level": "h2",
-      "text": "SyBridge Technologies Acquires Calframax Technologies"
-    },
-    {
-      "hash": "644367b2fa50cbf24945bc74d2df2c6fb063c237",
-      "heading": "Two-Shot Molding vs. Overmolding: What You Need to Know",
-      "level": "h2",
-      "text": "Two-Shot Molding vs. Overmolding: What You Need to Know"
-    },
-    {
-      "hash": "a60278731be2ee9bf9f10adff1c6feda45220a61",
-      "heading": "Urethane Casting vs. Injection Molding — A DFM Guide",
-      "level": "h2",
-      "text": "Urethane Casting vs. Injection Molding — A DFM Guide"
+      "text": "Master injection mold material selection with SyBridge Multi-material injection molding is an excellent manufacturing process for building durable parts that won’t separate over time. However, you can’t use just any two thermoplastics for the two-shot injection molding process. Two-shot molding material compatibility and factors like adhesion, friction, and wear introduce additional layers of complexity to material selection. A seasoned manufacturing partner like SyBridge can demystify the entire process, simplify material selection, optimize part designs, and speed production. If you have more questions about material compatibility for overmolding or two-shot injection molding, contact the designers at SyBridge today. Our design team has years of experience helping product teams choose the right material for their next project. Let’s make something incredible together."
     }
   ],
+  "sitemap_lastmod": "2023-11-20T17:50:27+00:00",
   "status": 200,
-  "structure_hash": "6f6eb5ec643e16648e9195d8038643ee37465a9a",
-  "text_excerpt": "What You Need To Know About Material Compatibility For Multi-Material Injection Molding - SyBridge Technologies about us About us overview About us overview Our Story Sybridge Advantage Sustainability Press Room Careers Injection mold tooling Injection molding tooling overview Injection molding tooling overview Design & Engineering Pre-Production Tooling Production Tooling Mold Validation Mold Maintenance SPECIALTY MANUFACTURING Specialty Manufacturing OVERVIEW Specialty Manufacturing Overview 3D Printing Quick-Turn Production Markets Served Markets Served Overview Markets Served Overview Healthcare Packaging Consumer Mobility Industrial More+ More Overview Blog Contact Locations United States Mexico Canada Europe Asia Start the Conversation Home > Resources > What You Need To Know About Material Compatibility For Multi-Material Injection Molding What You Need To Know About Material Compatibility For Multi-Material Injection Molding Published on November 24, 2021 Originally published on fastradius.com on November 24, 2021 Multi-material injection molding is an umbrella term referring to any injection molding process in which two or more different materials are bonded to form a sin...",
-  "text_hash": "df7efd4692857b8285239650000b23f2f8934786",
+  "structure_hash": "1dac2768df0b1db7a00f994d1521426376998c02",
+  "text_excerpt": "What You Need To Know About Material Compatibility For Multi-Material Injection Molding Published on November 24, 2021 Originally published on fastradius.com on November 24, 2021 Multi-material injection molding is an umbrella term referring to any injection molding process in which two or more different materials are bonded to form a single plastic part. The most common types of multi-material injection molding are overmolding and two-shot injection molding. Overmolding is a process that forms a unified product from two or more different thermoplastics . During this process, an engineer molds a substrate out of the rigid overmold material and then places the substrate in an overmold cavity in a separate tool. Then, the molten overmold material is ejected into, onto, or around the substrate. As the thermoplastics cool, the materials become either chemically or mechanically bonded — which gives the end product a high degree of strength and durability. While this drives up the overhead cost of a tool, it can save you a fortune down the line by eliminating the need for an assembly process, thus cutting labor and resource costs. You can achieve many of the same properties using two-sh...",
+  "text_hash": "ead1151fa2e8638c25f4fe003e0d2e00e0c29a08",
   "title": "What You Need To Know About Material Compatibility For Multi-Material Injection Molding - SyBridge Technologies",
   "url": "https://sybridge.com/material-compatibility-multi-material-injection-molding"
 }

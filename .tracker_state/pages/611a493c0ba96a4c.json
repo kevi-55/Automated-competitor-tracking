@@ -1,0 +1,99 @@
+{
+  "canonical": "https://www.protolabs.com/resources/design-tips/conquering-undercut-design-issues-with-side-actions-inserts-and-shut-offs",
+  "category": "content",
+  "competitor": "Protolabs",
+  "ctas": [],
+  "discovered_via": "sitemap",
+  "fetched_at": "2026-08-17T03:48:51+00:00",
+  "final_url": "https://www.protolabs.com/resources/design-tips/conquering-undercut-design-issues-with-side-actions-inserts-and-shut-offs",
+  "first_seen_at": "2026-08-17T03:48:51+00:00",
+  "h1": "Conquering Undercut Design Issues with Side-actions, Inserts, and Shut-offs",
+  "headings": [
+    {
+      "level": "h1",
+      "text": "Conquering Undercut Design Issues with Side-actions, Inserts, and Shut-offs"
+    },
+    {
+      "level": "h2",
+      "text": "What to do when the design analysis in your manufacturing quote raises undercut red flags"
+    },
+    {
+      "level": "h3",
+      "text": "Required Change: Undercut"
+    },
+    {
+      "level": "h3",
+      "text": "Advisory: Side-Pull Used"
+    },
+    {
+      "level": "h3",
+      "text": "Advisory: Mold Inserts Used"
+    },
+    {
+      "level": "h3",
+      "text": "Pick-out Cams to the Rescue"
+    },
+    {
+      "level": "h3",
+      "text": "Don’t Forget the Draft"
+    }
+  ],
+  "images": [],
+  "meta_description": "Side-actions, inserts, and shut-offs are three methods that can come to your rescue during the design phases in order to create undercuts in your molded parts.",
+  "modified_at": "",
+  "monitored_text": "Conquering Undercut Design Issues with Side-actions, Inserts, and Shut-offs What to do when the design analysis in your manufacturing quote raises undercut red flags In the world of plastic injection-molded parts, undercuts are everywhere: from recessed lips on smartphone cases to latching tabs on ketchup bottle caps and the hole that runs lengthwise through a door hinge. Each would be impossible to create without a feature known in the manufacturing industry as an undercut. But often, CAD models uploaded to our quoting system receive advisories related to undercuts that require changes in the part design. This design tip can help you quickly and efficiently navigate some of those advisories and also help with some other issues that might come up when working with undercuts. One problem is that undercuts interfere with part ejection. When the mold opens at the end of the molding cycle, a part should release easily, but instead it can get caught on the section of metal that forms the undercut. That stops production while the operator attempts to free the part, possibly damaging it, the mold, or both. The second problem is that undercuts can’t be milled in standard 3-axis milling, because the overhanging feature blocks the endmill from removing material underneath it. The good news? Several techniques exist to avoid this situation. Granted, they may drive up tooling costs slightly, but it’s a small price to pay for added functionality. So, what are the advisories we see pop up most often? Here we go… Required Change: Undercut We are unable to produce these undercuts within our current process. Faces shown in RED have undercut portions. BLUE lines (if any) indicate undercut regions. There are many solutions to resolving undercut features in your part geometry, from re-designing part features to ensure proper orientation in the mold, designing in clear cam or insert-formed geometry, or even eliminating the undercut completely. One possible solution is to turn the part sideways. Sometimes, a simple reorientation of the part as it sits within the mold cavity is enough to solve the problem. Instead of orienting the channel, hole, or groove perpendicular to the mold opening, turning the part so that those features run parallel—in other words, pointing towards the B-side—is one easy fix. Of course, this may create challenges in other areas or make the part un-moldable, so take a good look at the design for manufacturability (DFM) analysis after uploading your part design for a quote and reach out to one of our applications engineers for help, if needed. However, when re-orientation isn’t possible, don’t worry, you still have other options. Advisory: Side-Pull Used A side-pull will be used to accomplish molding of your part. Solid arrows and faces with corresponding colors indicate undercut features that will be formed by using side-pull(s). Often, a mechanical component called a side-pull, side-action, or cam can be used to resolve your undercut features. Side-actions are used to create features like hooks, clips, and holes in injection-molded parts. As the name implies, these devices slide into place from the side—in the X and Y axes—as the mold closes, shutting off certain sections of the mold to generate the desired feature. When complete, the mold opens, activating a cam that retracts the side-action(s) from the workpiece. A mold can contain multiple side actions if there is enough space for them to fit in the mold base, and they can move in any direction in the X/Y plane if Z is the pull direction for the mold. The beauty of this approach, obviously, is that the process is automatic, speeding the production cycle while eliminating the manual hand-loading charges. However, this advantage is offset somewhat by the mold’s greater complexity, so you should do a cost analysis, especially on lower production quantities. Our automated quoting tool can help determine the most cost-effective approach or call us to discuss other available options. Advisory: Mold Inserts Used An insert will be used to accomplish molding of your part. Colored faces with small chevron patterns indicate undercut features that will be formed using pick-outs, mold inserts, or stripper plates. A parting line may be visible at insert splits. Another common technique for forming many undercuts is a hand-loaded insert, aka pick-out insert. Used in situations where a side-action cam is impractical (more on these shortly), a hand-loaded insert is nothing more than a machined piece of metal that an operator loads into the mold at the beginning of each molding cycle. The metal obstructs the flow of molten material, thus creating a window, hole, lip, or other type of undercut in the part. When done, the insert is “picked out” of the part and reused. Once again, a few rules apply—since it's a human handling the insert, it should be at least 0.5 in. (12.7mm) across in either direction and no larger than 6 in. (152.4mm), or so. Multiple inserts are possible, but each should be situated in an easily accessible location—preferably somewhere near the parting line—and, if feasible, some method of retention should be used to prevent “float” as the plastic flows around it. Essentially, this means that the pick-out should be on the B-side of the mold, or have its footprint connect to the parting line. And because this is a manual operation, a small per-piece upcharge will be applied for handling. Pick-out Cams to the Rescue Here are a few other things to think about when designing parts with undercuts. Because we specialize in prototype and low-volume plastic injection molding, we do not offer some of the more advanced features found in traditional production molds, which cost exponentially more. Our side-actions are limited to X-Y (perpendicular) movement—there's no opportunity for angled side-actions or shut-offs. Nor do we currently offer lifters , which are similar to side-actions but engage the part from the inside, then pull away before the mold opens. Instead, we use a different type of side-action known as a pick-out cam—think of it as a pick-out insert that sits on a sliding track, which slides into position manually but is much faster than a hand-loaded insert. It's also important to note that the size and positioning of any undercut depends on a number of factors, including how far it sits from the parting line, the amount of draft, part size and geometry, and the material’s pliability. Very rigid plastics like polycarbonate (PC) will be less forgiving. Don’t Forget the Draft As any designer of molded parts knows, draft angles are a big deal. Insufficient or improperly oriented draft—what we refer to as “bad” draft—can act as an undercut, preventing part ejection and impeding the molding process. We recommend at least 0.5 degrees on all vertical faces, although more is generally preferred, especially on very tall surfaces or if the mold surfaces are textured. In certain situations, draft can even be used to avoid side-actions and hand-loaded inserts—consider a box-like part with a window or slot partway up one side. Increase the draft sufficiently and the part will have enough room to slide away from the core and its undercut-generating geometry as the mold opens.",
+  "published_at": "",
+  "requested_url": "https://www.protolabs.com/resources/design-tips/conquering-undercut-design-issues-with-side-actions-inserts-and-shut-offs",
+  "schema_version": 2,
+  "sections": [
+    {
+      "hash": "43b7ceab2fae7cd07ff5490d7ca790596cf36593",
+      "heading": "Conquering Undercut Design Issues with Side-actions, Inserts, and Shut-offs",
+      "level": "h1",
+      "text": "Conquering Undercut Design Issues with Side-actions, Inserts, and Shut-offs"
+    },
+    {
+      "hash": "d24389264cb7ba83bc633852f641632cd8664ecf",
+      "heading": "What to do when the design analysis in your manufacturing quote raises undercut red flags",
+      "level": "h2",
+      "text": "What to do when the design analysis in your manufacturing quote raises undercut red flags"
+    },
+    {
+      "hash": "886f074cce2335e94acf264fdd55732dc8152333",
+      "heading": "Required Change: Undercut",
+      "level": "h3",
+      "text": "Required Change: Undercut We are unable to produce these undercuts within our current process. Faces shown in RED have undercut portions. BLUE lines (if any) indicate undercut regions."
+    },
+    {
+      "hash": "187dd1ac4d8632a12f2d8cee78601691a25ed720",
+      "heading": "Advisory: Side-Pull Used",
+      "level": "h3",
+      "text": "Advisory: Side-Pull Used A side-pull will be used to accomplish molding of your part. Solid arrows and faces with corresponding colors indicate undercut features that will be formed by using side-pull(s)."
+    },
+    {
+      "hash": "20e75f471e1a6ff885c8d4090eccd46526eb822a",
+      "heading": "Advisory: Mold Inserts Used",
+      "level": "h3",
+      "text": "Advisory: Mold Inserts Used An insert will be used to accomplish molding of your part. Colored faces with small chevron patterns indicate undercut features that will be formed using pick-outs, mold inserts, or stripper plates. A parting line may be visible at insert splits."
+    },
+    {
+      "hash": "87f544641eefaf4eaa16bb6bd76ae0fdbdf53221",
+      "heading": "Pick-out Cams to the Rescue",
+      "level": "h3",
+      "text": "Pick-out Cams to the Rescue Pick-out Cams to the Rescue"
+    },
+    {
+      "hash": "9c1c97d481718ee5af001b0d4a126539ab1d016a",
+      "heading": "Don’t Forget the Draft",
+      "level": "h3",
+      "text": "Don’t Forget the Draft Don’t Forget the Draft"
+    }
+  ],
+  "sitemap_lastmod": "2026-04-14T10:06:00+00:00",
+  "status": 200,
+  "structure_hash": "f4843fea5a43da58e3e9b5ddc9720cd7f4da5e8f",
+  "text_excerpt": "Conquering Undercut Design Issues with Side-actions, Inserts, and Shut-offs What to do when the design analysis in your manufacturing quote raises undercut red flags In the world of plastic injection-molded parts, undercuts are everywhere: from recessed lips on smartphone cases to latching tabs on ketchup bottle caps and the hole that runs lengthwise through a door hinge. Each would be impossible to create without a feature known in the manufacturing industry as an undercut. But often, CAD models uploaded to our quoting system receive advisories related to undercuts that require changes in the part design. This design tip can help you quickly and efficiently navigate some of those advisories and also help with some other issues that might come up when working with undercuts. One problem is that undercuts interfere with part ejection. When the mold opens at the end of the molding cycle, a part should release easily, but instead it can get caught on the section of metal that forms the undercut. That stops production while the operator attempts to free the part, possibly damaging it, the mold, or both. The second problem is that undercuts can’t be milled in standard 3-axis milling, b...",
+  "text_hash": "bc060edff74f71962d916bca311a0dff59024a63",
+  "title": "Managing Undercut Design Advisories",
+  "url": "https://www.protolabs.com/resources/design-tips/conquering-undercut-design-issues-with-side-actions-inserts-and-shut-offs"
+}

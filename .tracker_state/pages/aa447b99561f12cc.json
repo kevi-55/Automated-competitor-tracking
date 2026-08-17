@@ -1,0 +1,167 @@
+{
+  "canonical": "https://www.protolabs.com/resources/design-tips/threading-considerations-for-cnc-machining",
+  "category": "content",
+  "competitor": "Protolabs",
+  "ctas": [
+    {
+      "href": "https://tryit.protolabs.com/samplequote/cncmachining-us?lang=en-US",
+      "text": "sample quote"
+    }
+  ],
+  "discovered_via": "sitemap",
+  "fetched_at": "2026-08-17T03:48:58+00:00",
+  "final_url": "https://www.protolabs.com/resources/design-tips/threading-considerations-for-cnc-machining",
+  "first_seen_at": "2026-08-17T03:48:58+00:00",
+  "h1": "How to Design Threads for CNC Machining",
+  "headings": [
+    {
+      "level": "h1",
+      "text": "How to Design Threads for CNC Machining"
+    },
+    {
+      "level": "h2",
+      "text": "Practical tips to adding threaded features on CNC machined parts"
+    },
+    {
+      "level": "h3",
+      "text": "External vs. Internal Threading"
+    },
+    {
+      "level": "h3",
+      "text": "Thread Pitch"
+    },
+    {
+      "level": "h3",
+      "text": "Where Can I Place a Thread?"
+    },
+    {
+      "level": "h3",
+      "text": "Internal Threads"
+    },
+    {
+      "level": "h3",
+      "text": "External Threads"
+    },
+    {
+      "level": "h3",
+      "text": "How to Incorporate Threading Into Your Quotes"
+    },
+    {
+      "level": "h3",
+      "text": "Inserts: Alternatives to Threading"
+    },
+    {
+      "level": "h3",
+      "text": "Tying Threads Together"
+    }
+  ],
+  "images": [
+    {
+      "alt": "Threading holes using machining",
+      "src": "/media/2pmow5g0/cnc_threading-considerations_radial-vs-axial-holes.jpg?width=570&height=308&v=1da08ba304c58a0"
+    },
+    {
+      "alt": "Threading by CNC machining",
+      "src": "/media/rvzeeh5w/cnc_threading-considerations_maximum-thread-depth.jpg?width=570&height=308&v=1da08ba301a7330"
+    },
+    {
+      "alt": "Turned metal part, external threads",
+      "src": "/media/5322/pldt-sep15-threading-short-draft1-410x331.jpg?width=285&height=154&v=1d26761e3c62cf0"
+    },
+    {
+      "alt": "CAD model of machining design",
+      "src": "/media/5321/pldt0915_img4.jpg?width=285&height=154&v=1d26761e3ae3820"
+    },
+    {
+      "alt": "",
+      "src": "/media/1020621/cnc-cta.jpg?width=573&height=398&v=1d87fcea9652bc0"
+    },
+    {
+      "alt": "illustration of cnc machining threaded holes",
+      "src": "/media/1016281/cnc-wp-570x308-stainless-steel.jpg?width=115&height=115&v=1d4af4b1d7371a0"
+    },
+    {
+      "alt": "threaded holes guidelines icon",
+      "src": "/media/1012886/threaded-holes-page-bucket-image-standardholes-570x308.jpg?width=115&height=115&v=1d3a64e6cc11750"
+    },
+    {
+      "alt": "CNC turned part",
+      "src": "/media/6302/pldt0317_image2.png?width=115&height=115&v=1d2911107bd8c60"
+    }
+  ],
+  "meta_description": "Learn more about designing threaded features in your CNC machined parts, and how to display these features in CAD programs and in Protolabs’ quoting system.",
+  "modified_at": "",
+  "monitored_text": "How to Design Threads for CNC Machining Practical tips to adding threaded features on CNC machined parts Incorporating threads in your parts can sometimes be the ultimate undoing of your assemblies. There are a lot of design rules and the precision needed to manufacture threads is substantial. Beyond that, these features require a bit of extra thought and care to ensure that they work as designed. Get them right and the assembly could last for years. Done wrong and you’re in for a world of hurt. External vs. Internal Threading This is pretty basic, but important. An easy way to remember this difference is that you'll find external threading on screws and bolts—it’s external to the hardware. Internal threads reside inside the main part. They accept, and lock in, screw and bolt threads. You’ll find more details on external and internal threading later in this design tip. This illustration shows three different types of holes that are possible on turned parts. Thread Pitch When we talk about threads on bolts and screws, it’s not a one-size-fits-all kind of scenario. In addition to metric threads, there are three primary kinds of imperial measure threads that are part of the Unified Thread Series. UNC (coarse pitch): 20 threads per inch (tpi) UNF (fine pitch): 28 tpi UNEF (extra fine pitch): 32 tpi For example, if you want to incorporate a #4-40 screw, you know that a #4 screw—which has a thread diameter of 0.11 in. (2.794mm) has 40 threads per inch, meaning extra fine pitch. The good news is that when you use our system to assign a particular type of screw to a hole, the desired thread pitch comes along for the ride. Less worries are always good, right? Where Can I Place a Thread? Really, a thread can be placed almost anywhere that makes sense for the turned or milled part and your assembly’s needs. As long as the area in which the thread will go is accessible to our equipment, you’re good to go, but if there are obstructions, our design analysis software will let you know that threading is impossible in that location, but it’s always a good idea to follow our guidelines to keep you on track. Even though it seems like there aren’t a lot of placement restrictions when it comes to threading, the depth of an internal thread is important to consider. If the thread depth exceeds the maximum depth for the tooling, we may have to drill through from both sides of the hole in order to complete the process. When that happens, it’s important to know that your threads will not be continuous from one end to the other, but there are options we’ll go over in the next section. With turned parts, there are three types of holes you can use to accommodate internal threads: On-axis: holes that go straight through the center of a turned part, starting at one end Axial: holes that start at one end of a part, but don’t go perfectly through the center Radial: holes that pierce through the exterior arc of a turned part Three methods of approaching maximum thread depths. Internal Threads Internal threads are machined using a single-lip threading tool—not a traditional threading tap. On parts with internal-hole features in need of threading, the actual threads need to be removed from your CAD model, leaving only the pilot diameter. Our design analysis software recognizes a hole for threading if: it falls within the diameter range for the desired thread and, is on one of the three cardinal axes for milling or, is perpendicular to the axis of revolution for turning Protolabs supports right-hand threaded holes on machined parts for UNC and UNF threads ranging from a #2 and up to 1/2 in. metric threads are also available, ranging from M2 to M12. Location and method of manufacturing may limit some threads from becoming eligible. In machining internal threaded holes, a hole may be be longer than what our threading tools are able to reach. In this case, you have a few options depending on your needs: With a long through hole that exceeds the maximum reach, select the hole from the side that you anticipate the screw to be started from (see image 1 in three-panel illustration above). If your screw is required to pass the entire way through the part, you would also have to pass a tap through the hole (in a secondary process) to complete it. You can also select both sides of the feature to be threaded (see image 2 in illustration above) but notice the maximum thread depths as they overlap with each other in the hole. This raises concern with threading the features from both sides, because you risk cross-threading and a screw may not pass all the way through the part cleanly. As long as the threads don't intersect (see image 3), selecting threads from both sides is typically fine. A finished piece with external threads that has been turned on a lathe (see External Threads section below). One important consideration has to do with the various diameters involved with creating threads. There are three measures you have to think about: the major (wide) thread, minor (narrow) thread, and the diameter of the pilot hole, into which your threaded feature will go. If your designs instruct your manufacturer to mill out a pilot hole that’s the same diameter as the major (wider) thread, the hardware you use will never fit properly in the hole. It would just drop in, and in a moment that will truly bum you out, the screw is likely to spin around endlessly in the hole. There would be nothing for its thread to grab onto. At that point, your only choice would be to use larger hardware, which might not be functionally acceptable or consistent with your design. Save yourself some trouble: Make sure that any threaded feature’s pilot hole reflects the minor diameter of your thread. Most CAD programs have built-in wizards to help with this process. The CAD model illustrates an as-milled view of an external thread with resulting radii highlighted in yellow. This would be for milled parts only. External Threads The great thing about external threads on turned parts is that the thread can extend the length of the part, as long as your parts qualify for turning. We use a custom threading tool with a selection of thread sizes, depths, and placements within the part geometry. However, our advanced turning process offers external threads on the centerline of the part, and live tooling that allows threading of internal holes, as long as they follow similar guidelines as milling. We offer external threading for on-axis, axial, and radial holes. Milling external threads is done in two stages. The first set of threads go halfway around your turned part, followed by thread milling on the other side. The two sides meet along the centerline of your part. This process works well for 1/2-inch threads, but we do advise chasing the threads to remove excess material or smooth out mismatches in threading. Smaller external threads such as a #6-32 are much more difficult to produce with a ball or flat end mill as a larger radius would be left in the root of the thread because the pitch is too tight. You need to chase the threads with a thread cutting die in order to remove the remaining material. On many parts, a 0.008 in. (0.2032mm) to 0.016 in. (0.4064mm) radius would be left. Just like internal threads, external thread design requires that the thread be removed from the CAD model in order for our software to recognize it. Additionally, please model your external threads for milling; don't model them for turning. After you receive your quote for turning, you will have the ability to select the appropriate thread size. How to Incorporate Threading Into Your Quotes In our quoting system—adding threaded features is pretty simple. Our software recognizes holes that could potentially include threading and then asks you what kind of threaded hardware you want to use there. This sample quote shows you how easy it is to add threaded elements to your parts, once you have figured out design specs. As a potential convenient timesaver, you will have the option to give all holes in your CAD the same threading treatment in UNC, UNF, or metric, or you can choose to select each individually. A quick heads-up: Doing a bulk assignment could give you threads where you weren’t expecting them. Selecting both internal and external threads on part features is easy in our system. On the Thread Assignment tab of your quote, you will notice a fully interactive model that allows you to select which threaded features are available. Each eligible feature is highlighted, and you can manually select threads. If a thread you want isn't available, you may need to double-check the diameter of your features to make sure they are within the guidelines for threading. Note that while reviewing our threading charts, you can toggle between milled and turned options within each tab to review the availability of threads for each method of manufacturing. All threads need to be selected and saved before proceeding with an order. If you change your manufacturing process or material at any point, please check the Thread Assignment tab again as selections could change. Many CAD packages allow you to display threaded features in a few different ways including tap drill, cosmetic thread, or by the major diameter of the thread. We suggest selecting the pilot diameter as long as it is designed at approximately 75% of the thread diameter. The CAD file should then be submitted in a file format other than .STL; we discourage uploading .STL file formats for machined parts because our software is unable to recognize features like pilot holes in that format. You should use a neutral file format such as .IGES or .STEP, if possible. On milled parts that require external threads, you must design the threads on your part as this would then be in our standard milling procedure that uses ball and flat end mills. As stated earlier, this wouldn’t be the preferred method for producing threads as you may be required to perform a secondary process of chasing a cutting die over the threads to ensure the parts can be assembled correctly. On turned parts, external threading improves greatly because the part is spinning on center and a sharp single-lip threading tool can produce a quality thread. The design of an external turned thread is similar to that of the internal hole. Remember that you must remove the threads so our software can digitally view the outside diameter to determine the type of thread needed. If you have any issues getting your guide, click here to download . CNC Machining Design Guide In this guide to CNC machining, you'll learn how to create efficient, manufacturable metal and plastic parts for prototyping and production. United States of America Afghanistan Åland Islands Albania Algeria American Samoa Andorra Angola Anguilla Antarctica Antigua and Barbuda Argentina Armenia Aruba Australia Austria Azerbaijan Bahamas Bahrain Bangladesh Barbados Belarus Belgium Belize Benin Bermuda Bhutan Bolivia, Plurinational State of Bonaire, Sint Eustatius and Saba Bosnia and Herzegovina Botswana Bouvet Island Brazil British Indian Ocean Territory Brunei Darussalam Bulgaria Burkina Faso Burundi Cambodia Cameroon Canada Cape Verde Cayman Islands Central African Republic Chad Chile China Christmas Island Cocos (Keeling) Islands Colombia Comoros Congo Congo, the Democratic Republic of the Cook Islands Costa Rica Côte d'Ivoire Croatia Cuba Curaçao Cyprus Czech Republic Denmark Djibouti Dominica Dominican Republic Ecuador Egypt El Salvador Equatorial Guinea Eritrea Estonia Ethiopia Falkland Islands (Malvinas) Faroe Islands Fiji Finland France French Guiana French Polynesia French Southern Territories Gabon Gambia Georgia Germany Ghana Gibraltar Greece Greenland Grenada Guadeloupe Guam Guatemala Guernsey Guinea Guinea-Bissau Guyana Haiti Heard Island and McDonald Islands Holy See (Vatican City State) Honduras Hong Kong Hungary Iceland India Indonesia Iran, Islamic Republic of Iraq Ireland Isle of Man Israel Italy Jamaica Japan Jersey Jordan Kazakhstan Kenya Kiribati Korea, Democratic People's Republic of Korea, Republic of Kuwait Kyrgyzstan Lao People's Democratic Republic Latvia Lebanon Lesotho Liberia Libya Liechtenstein Lithuania Luxembourg Macao Macedonia, the Former Yugoslav Republic of Madagascar Malawi Malaysia Maldives Mali Malta Marshall Islands Martinique Mauritania Mauritius Mayotte Mexico Micronesia, Federated States of Moldova, Republic of Monaco Mongolia Montenegro Montserrat Morocco Mozambique Myanmar Namibia Nauru Nepal Netherlands New Caledonia New Zealand Nicaragua Niger Nigeria Niue Norfolk Island Northern Mariana Islands Norway Oman Pakistan Palau Palestine, State of Panama Papua New Guinea Paraguay Peru Philippines Pitcairn Poland Portugal Puerto Rico Qatar Réunion Romania Russian Federation Rwanda Saint Barthélemy Saint Helena, Ascension and Tristan da Cunha Saint Kitts and Nevis Saint Lucia Saint Martin (French part) Saint Pierre and Miquelon Saint Vincent and the Grenadines Samoa San Marino Sao Tome and Principe Saudi Arabia Senegal Serbia Seychelles Sierra Leone Singapore Sint Maarten (Dutch part) Slovakia Slovenia Solomon Islands Somalia South Africa South Georgia and the South Sandwich Islands South Sudan Spain Sri Lanka Sudan SuriName Svalbard and Jan Mayen Swaziland Sweden Switzerland Syrian Arab Republic Taiwan, Province of China Tajikistan Tanzania, United Republic of Thailand Timor-Leste Togo Tokelau Tonga Trinidad and Tobago Tunisia Turkey Turkmenistan Turks and Caicos Islands Tuvalu Uganda Ukraine United Arab Emirates United Kingdom United States Minor Outlying Islands Uruguay Uzbekistan Vanuatu Venezuela, Bolivarian Republic of Viet Nam Virgin Islands, British Virgin Islands, U.S. Wallis and Futuna Western Sahara Yemen Zambia Zimbabwe Download I agree to receive email messages containing service updates and Design Tips from Protolabs and its affiliates Inserts: Alternatives to Threading For most metal parts, threading is a great way to achieve a strong bond between elements of your assembly. But sometimes that’s not enough, especially with parts made from weaker materials, such as plastics and aluminum. That’s where inserts come in handy. For example, if you’re working with plastic parts, an important thing to remember is that their threads inevitably will wear out much more quickly than those on metal parts. The solution? Consider incorporating special coil inserts in plastic parts to ensure longer part life. These rugged little disks allow you to get strong threading, even on weaker material. Essentially, you’ll design a hole in the desired location, and you can add the inserts to your parts later. There’s a fair amount of flexibility as coil inserts are available with both UNC and UNF threads ranging from a #2 to 1/2 in., and metric from M2 to M12. We will mill out the hole to your specification and prep it to receive your insert. Protolabs is optimized for HeliCoil brand inserts and we recognize standard sizes and lengths. Tying Threads Together Protolabs offers threaded features for milled parts in plastic and metal, and threaded features on turned parts are only available in metal materials at this time. We can accommodate UNC, UNF, and metric threads along with coil inserts (but do not supply or install the coil inserts). If you have any remaining questions on threading, feel free to contact an applications engineer at [email protected] or 877-479-3680. Threading for Injection Molding While screw threads were really designed for metal parts, we see examples in molded parts every day. Designing threads for molded parts requires some changes to your design strategy to ensure that these softer materials can still offer usably strong threads. Our design tip on molded threads covers the subject to help you get past the hurdles. You Might Also Like... What is CNC Machining? Standard Threading Guidelines Designing for CNC Machining",
+  "published_at": "",
+  "requested_url": "https://www.protolabs.com/resources/design-tips/threading-considerations-for-cnc-machining",
+  "schema_version": 2,
+  "sections": [
+    {
+      "hash": "ecce10f4c8de924c10c9b191bf6168311f6353cf",
+      "heading": "How to Design Threads for CNC Machining",
+      "level": "h1",
+      "text": "How to Design Threads for CNC Machining"
+    },
+    {
+      "hash": "aa23e2a03ac35ba5afe5eec557c203fd40aa6e35",
+      "heading": "Practical tips to adding threaded features on CNC machined parts",
+      "level": "h2",
+      "text": "Practical tips to adding threaded features on CNC machined parts"
+    },
+    {
+      "hash": "48780c9e004ee9cf3462dc8e25673686d28f200f",
+      "heading": "External vs. Internal Threading",
+      "level": "h3",
+      "text": "External vs. Internal Threading This is pretty basic, but important. An easy way to remember this difference is that you'll find external threading on screws and bolts—it’s external to the hardware. Internal threads reside inside the main part. They accept, and lock in, screw and bolt threads. You’ll find more details on external and internal threading later in this design tip."
+    },
+    {
+      "hash": "4b382f5be8837b703b0014c5c1d84b4f42a81a84",
+      "heading": "Thread Pitch",
+      "level": "h3",
+      "text": "Thread Pitch When we talk about threads on bolts and screws, it’s not a one-size-fits-all kind of scenario. In addition to metric threads, there are three primary kinds of imperial measure threads that are part of the Unified Thread Series. UNC (coarse pitch): 20 threads per inch (tpi) UNF (fine pitch): 28 tpi UNEF (extra fine pitch): 32 tpi For example, if you want to incorporate a #4-40 screw, you know that a #4 screw—which has a thread diameter of 0.11 in. (2.794mm) has 40 threads per inch, meaning extra fine pitch. The good news is that when you use our system to assign a particular type of screw to a hole, the desired thread pitch comes along for the ride. Less worries are always good, right?"
+    },
+    {
+      "hash": "030e45c2a94c17fb664a4a91a20245d1fd9daa3b",
+      "heading": "Where Can I Place a Thread?",
+      "level": "h3",
+      "text": "Where Can I Place a Thread? Really, a thread can be placed almost anywhere that makes sense for the turned or milled part and your assembly’s needs. As long as the area in which the thread will go is accessible to our equipment, you’re good to go, but if there are obstructions, our design analysis software will let you know that threading is impossible in that location, but it’s always a good idea to follow our guidelines to keep you on track. Even though it seems like there aren’t a lot of placement restrictions when it comes to threading, the depth of an internal thread is important to consider. If the thread depth exceeds the maximum depth for the tooling, we may have to drill through from both sides of the hole in order to complete the process. When that happens, it’s important to know that your threads will not be continuous from one end to the other, but there are options we’ll go over in the next section. With turned parts, there are three types of holes you can use to accommodate internal threads: On-axis: holes that go straight through the center of a turned part, starting at one end Axial: holes that start at one end of a part, but don’t go perfectly through the center R..."
+    },
+    {
+      "hash": "4345d24b73e5e729d90394a97c16031337b147f9",
+      "heading": "Internal Threads",
+      "level": "h3",
+      "text": "Internal Threads Internal threads are machined using a single-lip threading tool—not a traditional threading tap. On parts with internal-hole features in need of threading, the actual threads need to be removed from your CAD model, leaving only the pilot diameter. Our design analysis software recognizes a hole for threading if: it falls within the diameter range for the desired thread and, is on one of the three cardinal axes for milling or, is perpendicular to the axis of revolution for turning Protolabs supports right-hand threaded holes on machined parts for UNC and UNF threads ranging from a #2 and up to 1/2 in. metric threads are also available, ranging from M2 to M12. Location and method of manufacturing may limit some threads from becoming eligible. In machining internal threaded holes, a hole may be be longer than what our threading tools are able to reach. In this case, you have a few options depending on your needs: With a long through hole that exceeds the maximum reach, select the hole from the side that you anticipate the screw to be started from (see image 1 in three-panel illustration above). If your screw is required to pass the entire way through the part, you wou..."
+    },
+    {
+      "hash": "df7a7e54a8447bb9267a6521198ede405af4880d",
+      "heading": "External Threads",
+      "level": "h3",
+      "text": "External Threads The great thing about external threads on turned parts is that the thread can extend the length of the part, as long as your parts qualify for turning. We use a custom threading tool with a selection of thread sizes, depths, and placements within the part geometry. However, our advanced turning process offers external threads on the centerline of the part, and live tooling that allows threading of internal holes, as long as they follow similar guidelines as milling. We offer external threading for on-axis, axial, and radial holes. Milling external threads is done in two stages. The first set of threads go halfway around your turned part, followed by thread milling on the other side. The two sides meet along the centerline of your part. This process works well for 1/2-inch threads, but we do advise chasing the threads to remove excess material or smooth out mismatches in threading. Smaller external threads such as a #6-32 are much more difficult to produce with a ball or flat end mill as a larger radius would be left in the root of the thread because the pitch is too tight. You need to chase the threads with a thread cutting die in order to remove the remaining mat..."
+    },
+    {
+      "hash": "3e0bd48d01f89386ff03852b8116e67da509be44",
+      "heading": "How to Incorporate Threading Into Your Quotes",
+      "level": "h3",
+      "text": "How to Incorporate Threading Into Your Quotes In our quoting system—adding threaded features is pretty simple. Our software recognizes holes that could potentially include threading and then asks you what kind of threaded hardware you want to use there. This sample quote shows you how easy it is to add threaded elements to your parts, once you have figured out design specs. As a potential convenient timesaver, you will have the option to give all holes in your CAD the same threading treatment in UNC, UNF, or metric, or you can choose to select each individually. A quick heads-up: Doing a bulk assignment could give you threads where you weren’t expecting them. Selecting both internal and external threads on part features is easy in our system. On the Thread Assignment tab of your quote, you will notice a fully interactive model that allows you to select which threaded features are available. Each eligible feature is highlighted, and you can manually select threads. If a thread you want isn't available, you may need to double-check the diameter of your features to make sure they are within the guidelines for threading. Note that while reviewing our threading charts, you can toggle b..."
+    },
+    {
+      "hash": "6c9a514ba08574723543c32462e7176438397997",
+      "heading": "Inserts: Alternatives to Threading",
+      "level": "h3",
+      "text": "Inserts: Alternatives to Threading For most metal parts, threading is a great way to achieve a strong bond between elements of your assembly. But sometimes that’s not enough, especially with parts made from weaker materials, such as plastics and aluminum. That’s where inserts come in handy. For example, if you’re working with plastic parts, an important thing to remember is that their threads inevitably will wear out much more quickly than those on metal parts. The solution? Consider incorporating special coil inserts in plastic parts to ensure longer part life. These rugged little disks allow you to get strong threading, even on weaker material. Essentially, you’ll design a hole in the desired location, and you can add the inserts to your parts later. There’s a fair amount of flexibility as coil inserts are available with both UNC and UNF threads ranging from a #2 to 1/2 in., and metric from M2 to M12. We will mill out the hole to your specification and prep it to receive your insert. Protolabs is optimized for HeliCoil brand inserts and we recognize standard sizes and lengths."
+    },
+    {
+      "hash": "fd95da450d3928dd9c7f26805a62fb47395f93d9",
+      "heading": "Tying Threads Together",
+      "level": "h3",
+      "text": "Tying Threads Together Protolabs offers threaded features for milled parts in plastic and metal, and threaded features on turned parts are only available in metal materials at this time. We can accommodate UNC, UNF, and metric threads along with coil inserts (but do not supply or install the coil inserts). If you have any remaining questions on threading, feel free to contact an applications engineer at [email protected] or 877-479-3680."
+    }
+  ],
+  "sitemap_lastmod": "2026-03-17T15:15:00+00:00",
+  "status": 200,
+  "structure_hash": "0608dd4488166827b6484cc0816b9d05f1140472",
+  "text_excerpt": "How to Design Threads for CNC Machining Practical tips to adding threaded features on CNC machined parts Incorporating threads in your parts can sometimes be the ultimate undoing of your assemblies. There are a lot of design rules and the precision needed to manufacture threads is substantial. Beyond that, these features require a bit of extra thought and care to ensure that they work as designed. Get them right and the assembly could last for years. Done wrong and you’re in for a world of hurt. External vs. Internal Threading This is pretty basic, but important. An easy way to remember this difference is that you'll find external threading on screws and bolts—it’s external to the hardware. Internal threads reside inside the main part. They accept, and lock in, screw and bolt threads. You’ll find more details on external and internal threading later in this design tip. This illustration shows three different types of holes that are possible on turned parts. Thread Pitch When we talk about threads on bolts and screws, it’s not a one-size-fits-all kind of scenario. In addition to metric threads, there are three primary kinds of imperial measure threads that are part of the Unified T...",
+  "text_hash": "5fd6fa5b14e54d589bdba611bde7b9a6c8970e98",
+  "title": "A Guide to Adding Threading to CNC Machined Parts",
+  "url": "https://www.protolabs.com/resources/design-tips/threading-considerations-for-cnc-machining"
+}

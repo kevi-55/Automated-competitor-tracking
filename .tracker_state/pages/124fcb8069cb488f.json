@@ -4,7 +4,7 @@
   "competitor": "PCBWay",
   "ctas": [
     {
-      "href": "/orderonline.aspx",
+      "href": "https://www.pcbway.com/orderonline.aspx",
       "text": "PCB Instant Quote"
     },
     {
@@ -12,35 +12,38 @@
       "text": "Sign Up"
     },
     {
-      "href": "/project/shareproject/?order=1",
+      "href": "https://www.pcbway.com/project/shareproject?order=1",
       "text": "By Source Files"
     },
     {
-      "href": "/project/shareproject/?order=1",
+      "href": "https://www.pcbway.com/project/shareproject?order=1",
       "text": "View all source files projects"
     },
     {
-      "href": "/project/shareproject/?order=1",
+      "href": "https://www.pcbway.com/project/shareproject?order=1",
       "text": "Source Files"
     },
     {
-      "href": "/blog/club-publish.html",
+      "href": "https://www.pcbway.com/blog/club-publish.html",
       "text": "Submit for Publication"
     },
     {
-      "href": "/blog/Activities/Submit_for_Publication___Now_I_Write_Articles_in_PCBWay.html",
+      "href": "https://www.pcbway.com/blog/Activities/Submit_for_Publication___Now_I_Write_Articles_in_PCBWay.html",
       "text": "Write for PCBWay"
     },
     {
-      "href": "/blog/?tag=PCB industry",
+      "href": "https://www.pcbway.com/blog?tag=PCB+industry",
       "text": "PCB industry"
     },
     {
-      "href": "/contact.html",
+      "href": "https://www.pcbway.com/contact.html",
       "text": "Contact us"
     }
   ],
-  "fetched_at": "2026-08-17T02:33:35+00:00",
+  "discovered_via": "links",
+  "fetched_at": "2026-08-17T03:51:51+00:00",
+  "final_url": "https://www.pcbway.com/blog/PCB_Design_Tutorial/How_to_Set_Shortcut_Key_in_Cadence_Allegro_PCB_Editor_b81efb49.html",
+  "first_seen_at": "2026-08-17T03:51:51+00:00",
   "h1": "How to Set Shortcut Key in Cadence Allegro PCB Editor?",
   "headings": [
     {
@@ -123,31 +126,35 @@
     }
   ],
   "meta_description": "",
+  "modified_at": "",
+  "monitored_text": "PCBWay Community Search title or content Search PCBWay PCB Instant Quote CNC | 3D Printing Login Sign Up More Notifications No notifications. My Profile My projects My Likes My Deals My Goods for Bazaar Settings Sign Out Projects Categories DIY Electronics Arduino Hardware Audio Computers & USB Breakout Board Projects Home Automation LED Displays & Matrices IoT Robotics View all categories By Source Files Onju Voice - AI assistant replacement to Google Nest Mini by @justLV LogicAnalyzer V6.0 DIY 1kW Open Source MPPT Solar Charge Controller Tad Boy Color SummerCart64 - a fully open source N64 flashcart kv4p HT v1.7b QuinLED-Dig-Uno Arduino RC engine sound & light controller with inertia simulation for ESP32 Bike Fingerprint - PCB Solar Powered WiFi Weather Station V2.0 Frog Boy Color SIDKick pico 0.2 (SID 6581/8580-replacement for C64/C128) View all source files projects Featured Projects Onju Voice - AI assistant replacement to Google Nest Mini by @justLV LogicAnalyzer V6.0 DIY 1kW Open Source MPPT Solar Charge Controller Featured Source Files Video View all projects Questions Sponsorships Feedback Blog Store PCB Design Contest - 2026 KiCad PCB Design Contest - 8th Project Design Contest - 7th Project Design Contest - KiCad Design Contest - 6th Project Design Contest - 5th PCB Design Contest - 4th PCB Design Contest - Raspberry Pi Pico Contest - PCB Design Tutorial - 3rd PCB Design Contest - I CAN SOLDER Kit Contest - 2nd PCB Design Contest - 1st PCB Design Contest Add questions Create a project Please verify your email address so that you can enjoy our more comprehensive services. Verify Now Blog > How to Set Shortcut Key in Cadence Allegro PCB Editor? How to Set Shortcut Key in Cadence Allegro PCB Editor? by: Mia Sep 25,2023 <dynamic-value> <dynamic-value> Posted in PCB Design Tutorial shortcut key Allegro PCB Editor Setting shortcut key in Allegro can significantly improve work efficiency and lower body burden. In this article, we will introduce the three methods to set shortcut key: Directly defined in the Allegro PCB Editor command window; By modifying the user variable env file; Define strokes as shortcut keys. Directly Defined in the Allegro PCB Editor Command Window This kind of shortcut key can only be used in the present design and will be invalid if restarting the software. The command format is as follows: alias F2 add connect funckey a add connect For example, set the shortcut key for routing command. As shown in the figure below, enter alias F2 add connect in the command window, and press Enter to use it. There are two ways that allow us to check which commands can be set as shortcut keys: 1.Directly enter alias or funckey in the command window, and press Enter to pop up the shortcut key dialog box, as shown below: 2.View it by executing the Tools->Utilities->Keyboard Commands command, as shown below: By Modifying the User Variable env File There are two modes for this: alias and funckey. If you use alias to define letters, you will need to enter the letter and press Enter for the shortcut to take effect. It is recommended not to define letters and instead use something like Fn or Del for quicker access. The funckey command can be used to define individual shortcut key, and it is more powerful than alias. Anything that can be defined with alias can also be defined with funckey. Funckey definitions are case-sensitive. For example, funckey C 'dbdoctor' assigns dbdoctor to the uppercase C, while funckey c 'copy' assigns copy to the lowercase c. Funckey can also define two letters. For example, when we move the device and align the structure, select the center of the positioning hole, and set it as follows: funckey sa \"prepopup;pop dyn_option_select 'Snap pick to@:@Arc/Circle Center'\", which is quite convenient. env File Path Taking my computer as an example, in D:\\Cadence\\SPB_Data\\pcbenv, open the env file with Notepad and you can add your own shortcut. Note: Please back up the env file before modifying it. Open the env file with Notepad, as shown in the picture below. In the red box are several of my customized shortcut keys. Users can define shortcut keys according to their own operating habits. Define Strokes as Shortcut Keys Create allegro stroke. Execute Tools->Utilities->Stroke Editor command. After that, a window like the one below will pop up. You can use the right mouse button to draw the strokes you want to define in the blank area of the window and enter the content for the command, as shown in the figure below. In my case, I drew a line with the right mouse button and set the command as oops. After setting it up, if we want to perform the oops operation in the future, we can simply draw a line with the right mouse button. Make sure the stroke is activated. Setup->User Preferences Editor>UI>input Check the no_dragpopup option, otherwise, you need to hold down the Ctrl key to take effect. Enter the year of your birth and check your Chinese Zodiac. Join us Wanna be a dedicated PCBWay writer? We definately look forward to having you with us. Submit for Publication Become Our Writer Leave a Comment ( 0 ) Share to: Previous：PCBWay Holiday Schedule of National Day 2023 Next：How to Distinguish between Active Crystal Oscillator and Passive Crystal Oscillator? Related articles How to Set Shortcut Key in Cadence Allegro PCB Editor? How to Create a SMD footprint using the Allegro PCB Editor? How to Create a Through-hole pad using the Allegro Padstack Editor? How to Create a SMD pad using the Allegro Padstack Editor? Comments ( 0 ) Log in to post comments. Upload photo You can only upload 5 files in total. Each file cannot exceed 2MB. Supports JPG, JPEG, GIF, PNG, BMP 0 / 10000 It looks like you have not written anything. Please add a comment and try again. You can upload up to 5 images! Image size should not exceed 2MB! File format not supported! Post Comment View More Write for PCBWay HOT TAG PCB Printed Circuit Board PCB design PCB Board PCB layout Circuit Board Printed Circuit Boards PCB Design Tutorial PCB industry pcb manufacturing KiCad pcbway Categories Select a Category 3D Printing Activities CNC Machining Engineering Technical Flexible PCB HDI PCB Help Center Injection Molding News PCB Assembly PCB Basic Information PCB Design & Layout PCB Design Tutorial PCB Layout Software PCB Manufacturing Information PCBWay Store Rigid-Flex PCB Sheet Metal Technology IF YOU MISSED IT 1 Introduction to Current Divider 2 How to generate Gerber files from CircuitMaker 2.2.1.6? 3 How to Export Gerber Files in DesignSpark PCB V11.0.0? 4 How to add a Board Outline to Gerber Plots in DesignSpark PCB V11.0.0? 5 How to Generate Centroid File from DesignSpark PCB V11.0.0? 6 How to Generate Gerber Files in Fusion 360? 7 How to Generate a Pick and Place File in .csv Format from Fusion 360? 8 How to Set Shortcut Key in Cadence Allegro PCB Editor? 9 How to Create a SMD footprint using the Allegro PCB Editor? The PCB Way that recognize the talent and effort of the best ELECTRONIC designers in the World. © COPYRIGHT 2019 About us Contact us Follow us on Share to Facebook Share to Twitter Share to Reddit Share to Linkedin Back to top",
+  "published_at": "2023-09-25T00:00:00+00:00",
   "requested_url": "https://www.pcbway.com/blog/PCB_Design_Tutorial/How_to_Set_Shortcut_Key_in_Cadence_Allegro_PCB_Editor_b81efb49.html",
+  "schema_version": 2,
   "sections": [
     {
-      "hash": "4c8b9a63d2469db068417643ee01e8177439713e",
+      "hash": "462254eb17466d51fa2150c1ae8b22062b3315c0",
       "heading": "How to Set Shortcut Key in Cadence Allegro PCB Editor?",
       "level": "h1",
-      "text": "Blog > How to Set Shortcut Key in Cadence Allegro PCB Editor? How to Set Shortcut Key in Cadence Allegro PCB Editor? by: Mia Sep 25,2023 19748 Views 0 Comments Posted in PCB Design Tutorial shortcut key Allegro PCB Editor Setting shortcut key in Allegro can significantly improve work efficiency and lower body burden. In this article, we will introduce the three methods to set shortcut key: Directly defined in the Allegro PCB Editor command window; By modifying the user variable env file; Define strokes as shortcut keys. Directly Defined in the Allegro PCB Editor Command Window This kind of shortcut key can only be used in the present design and will be invalid if restarting the software. Th..."
+      "text": "How to Set Shortcut Key in Cadence Allegro PCB Editor? by: Mia Sep 25,2023 <dynamic-value> <dynamic-value> Posted in PCB Design Tutorial shortcut key Allegro PCB Editor Setting shortcut key in Allegro can significantly improve work efficiency and lower body burden. In this article, we will introduce the three methods to set shortcut key: Directly defined in the Allegro PCB Editor command window; By modifying the user variable env file; Define strokes as shortcut keys. Directly Defined in the Allegro PCB Editor Command Window This kind of shortcut key can only be used in the present design and will be invalid if restarting the software. The command format is as follows: alias F2 add connect funckey a add connect For example, set the shortcut key for routing command. As shown in the figure below, enter alias F2 add connect in the command window, and press Enter to use it. There are two ways that allow us to check which commands can be set as shortcut keys: 1.Directly enter alias or funckey in the command window, and press Enter to pop up the shortcut key dialog box, as shown below: 2.View it by executing the Tools->Utilities->Keyboard Commands command, as shown below: By Modifying t..."
     },
     {
-      "hash": "11b7e1b154828c4802fb0f011a88b172a33066a1",
+      "hash": "ae075c4e956a19384bec2f337075ae6ca2e7f31c",
       "heading": "Directly Defined in the Allegro PCB Editor Command Window",
       "level": "h3",
-      "text": "Setting shortcut key in Allegro can significantly improve work efficiency and lower body burden. In this article, we will introduce the three methods to set shortcut key: Directly defined in the Allegro PCB Editor command window; By modifying the user variable env file; Define strokes as shortcut keys. Directly Defined in the Allegro PCB Editor Command Window This kind of shortcut key can only be used in the present design and will be invalid if restarting the software. The command format is as follows: alias F2 add connect funckey a add connect For example, set the shortcut key for routing command. As shown in the figure below, enter alias F2 add connect in the command window, and press En..."
+      "text": "Directly Defined in the Allegro PCB Editor Command Window This kind of shortcut key can only be used in the present design and will be invalid if restarting the software. The command format is as follows: alias F2 add connect funckey a add connect For example, set the shortcut key for routing command. As shown in the figure below, enter alias F2 add connect in the command window, and press Enter to use it. There are two ways that allow us to check which commands can be set as shortcut keys: 1.Directly enter alias or funckey in the command window, and press Enter to pop up the shortcut key dialog box, as shown below:"
     },
     {
-      "hash": "11b7e1b154828c4802fb0f011a88b172a33066a1",
+      "hash": "c048d5e56ef561e00c084e2392fbb05f2fd7b9cd",
       "heading": "By Modifying the User Variable env File",
       "level": "h3",
-      "text": "Setting shortcut key in Allegro can significantly improve work efficiency and lower body burden. In this article, we will introduce the three methods to set shortcut key: Directly defined in the Allegro PCB Editor command window; By modifying the user variable env file; Define strokes as shortcut keys. Directly Defined in the Allegro PCB Editor Command Window This kind of shortcut key can only be used in the present design and will be invalid if restarting the software. The command format is as follows: alias F2 add connect funckey a add connect For example, set the shortcut key for routing command. As shown in the figure below, enter alias F2 add connect in the command window, and press En..."
+      "text": "By Modifying the User Variable env File There are two modes for this: alias and funckey. If you use alias to define letters, you will need to enter the letter and press Enter for the shortcut to take effect. It is recommended not to define letters and instead use something like Fn or Del for quicker access. The funckey command can be used to define individual shortcut key, and it is more powerful than alias. Anything that can be defined with alias can also be defined with funckey. Funckey definitions are case-sensitive. For example, funckey C 'dbdoctor' assigns dbdoctor to the uppercase C, while funckey c 'copy' assigns copy to the lowercase c. Funckey can also define two letters. For example, when we move the device and align the structure, select the center of the positioning hole, and set it as follows: funckey sa \"prepopup;pop dyn_option_select 'Snap pick to@:@Arc/Circle Center'\", which is quite convenient. env File Path Taking my computer as an example, in D:\\Cadence\\SPB_Data\\pcbenv, open the env file with Notepad and you can add your own shortcut."
     },
     {
-      "hash": "11b7e1b154828c4802fb0f011a88b172a33066a1",
+      "hash": "609bfb48e6d6a39465b292f6bf3af003a3ed6b5c",
       "heading": "Define Strokes as Shortcut Keys",
       "level": "h3",
-      "text": "Setting shortcut key in Allegro can significantly improve work efficiency and lower body burden. In this article, we will introduce the three methods to set shortcut key: Directly defined in the Allegro PCB Editor command window; By modifying the user variable env file; Define strokes as shortcut keys. Directly Defined in the Allegro PCB Editor Command Window This kind of shortcut key can only be used in the present design and will be invalid if restarting the software. The command format is as follows: alias F2 add connect funckey a add connect For example, set the shortcut key for routing command. As shown in the figure below, enter alias F2 add connect in the command window, and press En..."
+      "text": "Define Strokes as Shortcut Keys Create allegro stroke. Execute Tools->Utilities->Stroke Editor command. After that, a window like the one below will pop up. You can use the right mouse button to draw the strokes you want to define in the blank area of the window and enter the content for the command, as shown in the figure below. In my case, I drew a line with the right mouse button and set the command as oops. After setting it up, if we want to perform the oops operation in the future, we can simply draw a line with the right mouse button. Make sure the stroke is activated. Setup->User Preferences Editor>UI>input Check the no_dragpopup option, otherwise, you need to hold down the Ctrl key to take effect."
     },
     {
       "hash": "aa73019a7f95ffdff7c4377d8d22cc4f1e978149",
@@ -156,10 +163,11 @@
       "text": "Related articles How to Set Shortcut Key in Cadence Allegro PCB Editor? How to Create a SMD footprint using the Allegro PCB Editor? How to Create a Through-hole pad using the Allegro Padstack Editor? How to Create a SMD pad using the Allegro Padstack Editor?"
     }
   ],
+  "sitemap_lastmod": "",
   "status": 200,
-  "structure_hash": "971ec059eff2169f2f12d48afad7ff092d40e99c",
-  "text_excerpt": "How to Set Shortcut Key in Cadence Allegro PCB Editor? - PCB Design Tutorial - PCBway PCBWay Community Search title or content Search PCBWay PCB Instant Quote CNC | 3D Printing Login Sign Up More Notifications No notifications. My Profile My projects My Likes My Deals My Goods for Bazaar Settings Sign Out Projects Categories DIY Electronics Arduino Hardware Audio Computers & USB Breakout Board Projects Home Automation LED Displays & Matrices IoT Robotics View all categories By Source Files Onju Voice - AI assistant replacement to Google Nest Mini by @justLV LogicAnalyzer V6.0 DIY 1kW Open Source MPPT Solar Charge Controller Tad Boy Color SummerCart64 - a fully open source N64 flashcart kv4p HT v1.7b QuinLED-Dig-Uno Arduino RC engine sound & light controller with inertia simulation for ESP32 Bike Fingerprint - PCB Solar Powered WiFi Weather Station V2.0 Frog Boy Color SIDKick pico 0.2 (SID 6581/8580-replacement for C64/C128) View all source files projects Featured Projects Onju Voice - AI assistant replacement to Google Nest Mini by @justLV LogicAnalyzer V6.0 DIY 1kW Open Source MPPT Solar Charge Controller Featured Source Files Video View all projects Questions Sponsorships Feedba...",
-  "text_hash": "f90a361c57da7bc6deaa30b1317c036872f571a7",
+  "structure_hash": "90e42ab6f56241f6f02a3f29ca27217776553862",
+  "text_excerpt": "PCBWay Community Search title or content Search PCBWay PCB Instant Quote CNC | 3D Printing Login Sign Up More Notifications No notifications. My Profile My projects My Likes My Deals My Goods for Bazaar Settings Sign Out Projects Categories DIY Electronics Arduino Hardware Audio Computers & USB Breakout Board Projects Home Automation LED Displays & Matrices IoT Robotics View all categories By Source Files Onju Voice - AI assistant replacement to Google Nest Mini by @justLV LogicAnalyzer V6.0 DIY 1kW Open Source MPPT Solar Charge Controller Tad Boy Color SummerCart64 - a fully open source N64 flashcart kv4p HT v1.7b QuinLED-Dig-Uno Arduino RC engine sound & light controller with inertia simulation for ESP32 Bike Fingerprint - PCB Solar Powered WiFi Weather Station V2.0 Frog Boy Color SIDKick pico 0.2 (SID 6581/8580-replacement for C64/C128) View all source files projects Featured Projects Onju Voice - AI assistant replacement to Google Nest Mini by @justLV LogicAnalyzer V6.0 DIY 1kW Open Source MPPT Solar Charge Controller Featured Source Files Video View all projects Questions Sponsorships Feedback Blog Store PCB Design Contest - 2026 KiCad PCB Design Contest - 8th Project Design...",
+  "text_hash": "3963315995e7d1ebc4c6d5b2834ecbb687f8d454",
   "title": "How to Set Shortcut Key in Cadence Allegro PCB Editor? - PCB Design Tutorial - PCBway",
   "url": "https://www.pcbway.com/blog/PCB_Design_Tutorial/How_to_Set_Shortcut_Key_in_Cadence_Allegro_PCB_Editor_b81efb49.html"
 }

@@ -1,0 +1,223 @@
+{
+  "canonical": "https://www.hubs.com/knowledge-base/brittleness-in-materials-design-tips-for-reliable-parts",
+  "category": "content",
+  "competitor": "Hubs",
+  "ctas": [
+    {
+      "href": "https://www.hubs.com/manufacture",
+      "text": "Upload your CAD file"
+    }
+  ],
+  "discovered_via": "sitemap",
+  "fetched_at": "2026-08-17T03:42:32+00:00",
+  "final_url": "https://www.hubs.com/knowledge-base/brittleness-in-materials-design-tips-for-reliable-parts",
+  "first_seen_at": "2026-08-17T03:42:32+00:00",
+  "h1": "",
+  "headings": [
+    {
+      "level": "h2",
+      "text": "What brittleness means in engineering"
+    },
+    {
+      "level": "h3",
+      "text": "Brittle vs. ductile"
+    },
+    {
+      "level": "h2",
+      "text": "Why brittleness matters in design"
+    },
+    {
+      "level": "h2",
+      "text": "Factors that increase brittleness"
+    },
+    {
+      "level": "h2",
+      "text": "How brittleness is measured"
+    },
+    {
+      "level": "h2",
+      "text": "Design tips to prevent brittle failure"
+    },
+    {
+      "level": "h2",
+      "text": "Material selection guidelines"
+    },
+    {
+      "level": "h3",
+      "text": "Material selection decision table"
+    },
+    {
+      "level": "h2",
+      "text": "Manufacturing and post-processing considerations"
+    },
+    {
+      "level": "h2",
+      "text": "Testing and inspection"
+    },
+    {
+      "level": "h2",
+      "text": "More resources for engineers"
+    },
+    {
+      "level": "h2",
+      "text": "Get started with your next project"
+    },
+    {
+      "level": "h2",
+      "text": "Frequently asked questions"
+    },
+    {
+      "level": "h3",
+      "text": "What makes a material brittle?"
+    },
+    {
+      "level": "h3",
+      "text": "Can ductile materials become brittle?"
+    },
+    {
+      "level": "h3",
+      "text": "What’s the difference between brittle and ductile fracture?"
+    },
+    {
+      "level": "h3",
+      "text": "What are common brittle engineering materials?"
+    },
+    {
+      "level": "h3",
+      "text": "Can brittle materials be used safely in structures?"
+    }
+  ],
+  "images": [
+    {
+      "alt": "cBP7QEo3TbeFr32Zmf7U_cnc milling - Aluminium 7075.jpg",
+      "src": "/images/trans.gif"
+    },
+    {
+      "alt": "CNC machining, 3D printing and sheet metal fabrication parts",
+      "src": "/images/trans.gif"
+    }
+  ],
+  "meta_description": "Brittle failures can turn a well-designed part into a liability. Find out how to select materials and design features that prevent sudden, catastrophic cracks.",
+  "modified_at": "",
+  "monitored_text": "Learn how to choose materials and design features so your custom parts won't crack when it counts. Engineers designing safety-critical components know the worst cracks are the ones you don't see coming. Brittleness describes a material’s tendency to fracture suddenly under stress with little plastic deformation, rather than bending first. That makes brittle materials a bigger risk when cracks are hard to spot or failure needs to be predictable. In this guide, we'll cover what brittleness means in engineering, what increases it, how it's measured, and practical design and manufacturing steps that help prevent the bitter cost of brittle failure. What brittleness means in engineering For engineers, brittleness shows up as low toughness and low tolerance for flaws. A part can stay rigid under load until a small crack—often starting at a notch, hole, or sharp corner—grows quickly and the part snaps. Instead of bending or giving visual cues, brittle materials crack and break cleanly. Think of bending a paperclip (ductile) versus snapping chalk (brittle). Brittle vs. ductile Behavior Brittle materials Ductile materials What you see first Sudden failure with little warning Gradual deformation before failure Energy absorbed before failure Low High Typical fracture surface Clean and flat Rough and stretched/deformed Common examples Glass, ceramics, cast iron Aluminum, copper, many steels For more on material behavior, see understanding material stress vs. strain . Why brittleness matters in design ​Brittle failures happen without warning. In safety-critical parts, that can be catastrophic. Even in everyday products, brittle cracking drives scrap and warranty issues. The tricky part is that brittle materials are often notch-sensitive, so small features like holes, threads, tight radii, or a scratch can become crack starters. Risk also increases under impact loading and at low temperatures, when toughness can drop fast. That’s why brittle-prone designs usually need smoother geometry, better surface control, and more validation than a similar ductile part. Factors that increase brittleness Even if a datasheet says a material is “brittle” or “not brittle,” how brittle your actual part behaves depends on context. Many materials become more brittle, or more crack-prone, depending on conditions, geometry, and surface quality. Temperature: Many materials lose toughness in the cold, and some plastics get brittle with heat, UV, or aging. See our heat-resistant plastics guide . Strain rate: A part that bends under a slow load may crack under impact. Microstructure: Grain size, heat treatment, and internal defects can increase crack risk. Environment: Corrosion, hydrogen exposure, and stress-corrosion can embrittle materials over time. Surface condition: Scratches, machining marks, porosity, and sharp tool marks create stress concentrations. For brittle-prone materials, surface finishing goes beyond cosmetic and can be both structural and critical. How brittleness is measured There isn’t one single “brittleness number.” Engineers usually estimate brittle-failure risk by looking at toughness (how well a material resists cracking) and ductility (how much it can deform before it breaks), using standardized tests. Impact testing (Charpy and Izod): Measures how much energy a notched sample absorbs before it fractures in a fast strike. Lower energy usually means a higher risk of brittle failure, especially under impact or at low temperatures. Fracture toughness (K_IC or K_c): Measures how hard it is for an existing crack to grow, usually reported in MPa·√m. K_IC is the stricter plane-strain value. K_c is used when those conditions aren’t met. Higher values mean cracks spread less easily, which helps when small flaws are unavoidable. Tensile test metrics: Elongation (percent increase in length) and reduction of area (percent decrease in cross-section) are quick indicators of ductility. Lower values usually mean less stretching before fracture (more brittle in tension). Test What it measures What can suggest brittleness What to look for Charpy/Izod impact Energy absorption on impact <20 J typical Test at service temperature, watch for a sharp drop in the cold. Fracture toughness (K_IC or K_c) Crack propagation resistance (MPa·√m) <20 MPa√m typical Best when flaws are expected, helps predict whether a crack will propagate. Tensile elongation Plastic deformation before failure <5% typical Single digits are a red flag, compare the same standard and gauge length. Reduction of area Cross-sectional narrowing (necking) at fracture <10% typical Use with elongation, low plus low usually means limited ductility. *There isn’t a universal “brittle” cutoff for these tests. Compare like-for-like data (same standard, specimen geometry/thickness, temperature, and processing condition), and prioritize test results at your part’s service temperature. For more information, check our collection of articles on manufacturing standards and technical data. Design tips to prevent brittle failure Good part design can reduce brittle failure risk, even when you’re using materials that have some brittleness. The goal is to lower stress concentrations, limit shock loads, and make cracks easier to catch before they become a real problem. Minimize stress concentrations: Add fillets, ease section changes, and keep holes/cutouts out of high-stress zones. A 3 mm inside radius is a common starting point. Manage impact and shock: Avoid long cantilevers, spread loads, and add ribs or local thickness where needed. Control assembly loads: Set torque and fits, and be careful with press and interference fits. Design for temperature: Check cold performance, and increase safety factors if toughness drops. Plan for inspection: Keep critical areas accessible, especially notches, holes, and threads. Add redundancy when needed: Use multiple load paths for safety-critical designs. Understanding different load types helps too. Learn more about shear stress and shear load to design joints that work with your material's properties. Material selection guidelines Material choice is your first line of defense against brittle failure. Start with the failure mode you can’t live with, then pick materials (and design margins) that steer you away from it. Material selection decision table If your part has… Prioritize… Materials to consider Watch out for… Safety-critical failure modes Toughness, ductility, crack tolerance (K_IC or K_c) Stainless steel 304/316 , aluminum 6061/7075 Notch sensitivity, small flaws you can’t fully avoid Impact or shock loading Impact strength (Charpy/Izod), ductility Polycarbonate , ABS , Nylon Room-temp data that hides cold-weather brittleness Lots of holes, threads, tight radii Toughness, ductility, surface-finish tolerance Aluminum , Nylon , stainless steel Sharp transitions and machining marks that start cracks Corrosive or hydrogen risk Environmental resistance, stable toughness over time Stainless steel 316 Stress-corrosion cracking, hydrogen embrittlement in some steels Mostly compression, low tension Stiffness, strength in compression Cast iron, ceramics, hardened steel Hidden tension from assembly, bending, or misalignment High temperature or wear priority Temperature capability, hardness, wear resistance PEEK , hardened tool steel, ceramics Trading toughness for hardness, validate with real tests For detailed material comparisons, see our CNC machining materials guide. Manufacturing and post-processing considerations Manufacturing choices can raise—or reduce—crack risk. The usual culprits are vibration, heat, and surface damage. CNC machining : Support thin features, avoid chatter, and protect high-stress surfaces. 3D printing : Keep weak directions out of tension. For layer-based processes ( FDM , SLA ), tune bonding/cure; for powder-bed ( SLS , MJF ), watch porosity and thin walls. Injection molding : Watch knit lines, sharp corners, and gate location. Keep stress down with even walls and solid packing/cooling. Sheet metal fabrication : Use generous bend radii, mind grain direction, avoid notches at cutouts, and deburr edges. Heat treatment : Hardening can reduce toughness. Specify hardness, then temper and stress-relieve as needed. Surface finishing services : Use polishing , bead blasting , anodizing , or powder coating as needed, and confirm whether a finish could affect fatigue performance for your part. Testing and inspection For safety-critical parts, impact loads, cold conditions, or notch-heavy designs, it’s smart to plan on testing. If you’re sourcing parts through Protolabs Network, inspection is typically part of the process. The Protolabs Network Standard defines how we implement quality assurance , and many orders also receive an additional quality control review. Non-destructive testing (NDT): Visual inspection, dye penetrant, magnetic particle, ultrasonic testing, and radiography/X-ray. Destructive testing: Impact and tensile testing (elongation and reduction of area), plus metallography to confirm microstructure or heat treatment. More resources for engineers Understanding shear stress and shear load Understanding material stress vs. strain What is bulk modulus? Get started with your next project Need materials that won't crack when it counts? Upload your CAD file to get an instant quote on parts that can handle the pressure. Subscribe Get the latest manufacturing news delivered to your mailbox. Sign up for our newsletter Sign me up Please enter a valid email address. Leave this field empty Thanks! You're now subscribed to our newsletter. Frequently asked questions What makes a material brittle? A material is brittle when it can’t deform much before cracking, so it fractures with little warning. Can ductile materials become brittle? Yes, many materials lose toughness in the cold, under impact loading, or after environmental damage like corrosion or hydrogen exposure. What’s the difference between brittle and ductile fracture? Brittle fractures are fast and fairly flat, while ductile fractures show visible deformation and a rough, torn surface. What are common brittle engineering materials? Glass, ceramics, cast iron, and hardened tool steels are common examples, and some plastics also get brittle in the cold or after UV/heat aging. Can brittle materials be used safely in structures? Often, yes—if the design keeps them mostly in compression, avoids stress concentrations, and you validate the part with appropriate safety factors, testing, and inspection (per your relevant codes/standards).",
+  "published_at": "",
+  "requested_url": "https://www.hubs.com/knowledge-base/brittleness-in-materials-design-tips-for-reliable-parts",
+  "schema_version": 2,
+  "sections": [
+    {
+      "hash": "9d97906826ffacecb8accfca3a35cb7ddfaef68d",
+      "heading": "What brittleness means in engineering",
+      "level": "h2",
+      "text": "What brittleness means in engineering For engineers, brittleness shows up as low toughness and low tolerance for flaws. A part can stay rigid under load until a small crack—often starting at a notch, hole, or sharp corner—grows quickly and the part snaps. Instead of bending or giving visual cues, brittle materials crack and break cleanly. Think of bending a paperclip (ductile) versus snapping chalk (brittle)."
+    },
+    {
+      "hash": "e1ba7f8c0a2dea874c512a2d732fe874cff5a169",
+      "heading": "Brittle vs. ductile",
+      "level": "h3",
+      "text": "Brittle vs. ductile"
+    },
+    {
+      "hash": "32960d4f9504cf54bd368b90d315248cee02ee23",
+      "heading": "Why brittleness matters in design",
+      "level": "h2",
+      "text": "Why brittleness matters in design ​Brittle failures happen without warning. In safety-critical parts, that can be catastrophic. Even in everyday products, brittle cracking drives scrap and warranty issues. The tricky part is that brittle materials are often notch-sensitive, so small features like holes, threads, tight radii, or a scratch can become crack starters. Risk also increases under impact loading and at low temperatures, when toughness can drop fast. That’s why brittle-prone designs usually need smoother geometry, better surface control, and more validation than a similar ductile part."
+    },
+    {
+      "hash": "c2eb06ba3e6efd4432f3117a950861a6d78f16f3",
+      "heading": "Factors that increase brittleness",
+      "level": "h2",
+      "text": "Factors that increase brittleness Even if a datasheet says a material is “brittle” or “not brittle,” how brittle your actual part behaves depends on context. Many materials become more brittle, or more crack-prone, depending on conditions, geometry, and surface quality. Temperature: Many materials lose toughness in the cold, and some plastics get brittle with heat, UV, or aging. See our heat-resistant plastics guide . Strain rate: A part that bends under a slow load may crack under impact. Microstructure: Grain size, heat treatment, and internal defects can increase crack risk. Environment: Corrosion, hydrogen exposure, and stress-corrosion can embrittle materials over time. Surface condition: Scratches, machining marks, porosity, and sharp tool marks create stress concentrations. For brittle-prone materials, surface finishing goes beyond cosmetic and can be both structural and critical."
+    },
+    {
+      "hash": "e97933be1c94ce6f1ef14218384031916ad8ff50",
+      "heading": "How brittleness is measured",
+      "level": "h2",
+      "text": "How brittleness is measured There isn’t one single “brittleness number.” Engineers usually estimate brittle-failure risk by looking at toughness (how well a material resists cracking) and ductility (how much it can deform before it breaks), using standardized tests. Impact testing (Charpy and Izod): Measures how much energy a notched sample absorbs before it fractures in a fast strike. Lower energy usually means a higher risk of brittle failure, especially under impact or at low temperatures. Fracture toughness (K_IC or K_c): Measures how hard it is for an existing crack to grow, usually reported in MPa·√m. K_IC is the stricter plane-strain value. K_c is used when those conditions aren’t met. Higher values mean cracks spread less easily, which helps when small flaws are unavoidable. Tensile test metrics: Elongation (percent increase in length) and reduction of area (percent decrease in cross-section) are quick indicators of ductility. Lower values usually mean less stretching before fracture (more brittle in tension)."
+    },
+    {
+      "hash": "6eb4c1ce1e64269a8723e37a9f6e351cd14ffb6d",
+      "heading": "Design tips to prevent brittle failure",
+      "level": "h2",
+      "text": "Design tips to prevent brittle failure Good part design can reduce brittle failure risk, even when you’re using materials that have some brittleness. The goal is to lower stress concentrations, limit shock loads, and make cracks easier to catch before they become a real problem. Minimize stress concentrations: Add fillets, ease section changes, and keep holes/cutouts out of high-stress zones. A 3 mm inside radius is a common starting point. Manage impact and shock: Avoid long cantilevers, spread loads, and add ribs or local thickness where needed. Control assembly loads: Set torque and fits, and be careful with press and interference fits. Design for temperature: Check cold performance, and increase safety factors if toughness drops. Plan for inspection: Keep critical areas accessible, especially notches, holes, and threads. Add redundancy when needed: Use multiple load paths for safety-critical designs. Understanding different load types helps too. Learn more about shear stress and shear load to design joints that work with your material's properties."
+    },
+    {
+      "hash": "69be65d65aa6e38b26de0901266513270c89d514",
+      "heading": "Material selection guidelines",
+      "level": "h2",
+      "text": "Material selection guidelines Material choice is your first line of defense against brittle failure. Start with the failure mode you can’t live with, then pick materials (and design margins) that steer you away from it."
+    },
+    {
+      "hash": "2d338302545345b690402742dd050d7e7e01d81f",
+      "heading": "Material selection decision table",
+      "level": "h3",
+      "text": "Material selection decision table"
+    },
+    {
+      "hash": "c11c95435af0127c0f00b1b132a8ae9b0187fe94",
+      "heading": "Manufacturing and post-processing considerations",
+      "level": "h2",
+      "text": "Manufacturing and post-processing considerations Manufacturing choices can raise—or reduce—crack risk. The usual culprits are vibration, heat, and surface damage. CNC machining : Support thin features, avoid chatter, and protect high-stress surfaces. 3D printing : Keep weak directions out of tension. For layer-based processes ( FDM , SLA ), tune bonding/cure; for powder-bed ( SLS , MJF ), watch porosity and thin walls. Injection molding : Watch knit lines, sharp corners, and gate location. Keep stress down with even walls and solid packing/cooling. Sheet metal fabrication : Use generous bend radii, mind grain direction, avoid notches at cutouts, and deburr edges. Heat treatment : Hardening can reduce toughness. Specify hardness, then temper and stress-relieve as needed. Surface finishing services : Use polishing , bead blasting , anodizing , or powder coating as needed, and confirm whether a finish could affect fatigue performance for your part."
+    },
+    {
+      "hash": "59ec274f8eb0b9e03a17c78023fb3403ff6ccbaf",
+      "heading": "Testing and inspection",
+      "level": "h2",
+      "text": "Testing and inspection For safety-critical parts, impact loads, cold conditions, or notch-heavy designs, it’s smart to plan on testing. If you’re sourcing parts through Protolabs Network, inspection is typically part of the process. The Protolabs Network Standard defines how we implement quality assurance , and many orders also receive an additional quality control review. Non-destructive testing (NDT): Visual inspection, dye penetrant, magnetic particle, ultrasonic testing, and radiography/X-ray. Destructive testing: Impact and tensile testing (elongation and reduction of area), plus metallography to confirm microstructure or heat treatment."
+    },
+    {
+      "hash": "a474533cfa354f1a1d75fd4048fc5c02732413ee",
+      "heading": "More resources for engineers",
+      "level": "h2",
+      "text": "More resources for engineers Understanding shear stress and shear load Understanding material stress vs. strain What is bulk modulus?"
+    },
+    {
+      "hash": "f0219f8cc26837000f7b5e7abe1967097ba6c250",
+      "heading": "Get started with your next project",
+      "level": "h2",
+      "text": "Get started with your next project Need materials that won't crack when it counts? Upload your CAD file to get an instant quote on parts that can handle the pressure."
+    },
+    {
+      "hash": "02842b08377539be654ab1179cf41e1d947c4424",
+      "heading": "Frequently asked questions",
+      "level": "h2",
+      "text": "Frequently asked questions Frequently asked questions"
+    },
+    {
+      "hash": "1df9bb0c759dff287dee7cee64eab077817cb0c5",
+      "heading": "What makes a material brittle?",
+      "level": "h3",
+      "text": "What makes a material brittle? A material is brittle when it can’t deform much before cracking, so it fractures with little warning."
+    },
+    {
+      "hash": "2ed145010525e9bb048c572a2e888cf66726df53",
+      "heading": "Can ductile materials become brittle?",
+      "level": "h3",
+      "text": "Can ductile materials become brittle? Yes, many materials lose toughness in the cold, under impact loading, or after environmental damage like corrosion or hydrogen exposure."
+    },
+    {
+      "hash": "b1f0edcad0df9d741b249ddc543e2d1f1808c8aa",
+      "heading": "What’s the difference between brittle and ductile fracture?",
+      "level": "h3",
+      "text": "What’s the difference between brittle and ductile fracture? Brittle fractures are fast and fairly flat, while ductile fractures show visible deformation and a rough, torn surface."
+    },
+    {
+      "hash": "c41ec7ac08dcb11106cfea7f7a99b53cadb5711e",
+      "heading": "What are common brittle engineering materials?",
+      "level": "h3",
+      "text": "What are common brittle engineering materials? Glass, ceramics, cast iron, and hardened tool steels are common examples, and some plastics also get brittle in the cold or after UV/heat aging."
+    },
+    {
+      "hash": "67a0fbf41ed26fb9e233a4c4cbfbec625b5979ed",
+      "heading": "Can brittle materials be used safely in structures?",
+      "level": "h3",
+      "text": "Can brittle materials be used safely in structures? Often, yes—if the design keeps them mostly in compression, avoids stress concentrations, and you validate the part with appropriate safety factors, testing, and inspection (per your relevant codes/standards)."
+    }
+  ],
+  "sitemap_lastmod": "2026-02-23T14:30:18+00:00",
+  "status": 200,
+  "structure_hash": "528423a31c173afea5a1a37f886d1781b996a6ee",
+  "text_excerpt": "Learn how to choose materials and design features so your custom parts won't crack when it counts. Engineers designing safety-critical components know the worst cracks are the ones you don't see coming. Brittleness describes a material’s tendency to fracture suddenly under stress with little plastic deformation, rather than bending first. That makes brittle materials a bigger risk when cracks are hard to spot or failure needs to be predictable. In this guide, we'll cover what brittleness means in engineering, what increases it, how it's measured, and practical design and manufacturing steps that help prevent the bitter cost of brittle failure. What brittleness means in engineering For engineers, brittleness shows up as low toughness and low tolerance for flaws. A part can stay rigid under load until a small crack—often starting at a notch, hole, or sharp corner—grows quickly and the part snaps. Instead of bending or giving visual cues, brittle materials crack and break cleanly. Think of bending a paperclip (ductile) versus snapping chalk (brittle). Brittle vs. ductile Behavior Brittle materials Ductile materials What you see first Sudden failure with little warning Gradual deforma...",
+  "text_hash": "c09b8e4b32731d1570e9308c9643dc247fbf9a88",
+  "title": "Brittleness in materials: design tips for reliable parts | Protolabs Network",
+  "url": "https://www.hubs.com/knowledge-base/brittleness-in-materials-design-tips-for-reliable-parts"
+}

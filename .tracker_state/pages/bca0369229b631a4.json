@@ -1,0 +1,129 @@
+{
+  "canonical": "https://www.protolabs.com/resources/blog/working-with-sheet-metal-tolerances",
+  "category": "content",
+  "competitor": "Protolabs",
+  "ctas": [
+    {
+      "href": "https://www.protolabs.com/ecom/get-a-quote",
+      "text": "Upload a Part"
+    }
+  ],
+  "discovered_via": "sitemap",
+  "fetched_at": "2026-08-17T03:48:50+00:00",
+  "final_url": "https://www.protolabs.com/resources/blog/working-with-sheet-metal-tolerances",
+  "first_seen_at": "2026-08-17T03:48:50+00:00",
+  "h1": "Working with Sheet Metal Tolerances",
+  "headings": [
+    {
+      "level": "h1",
+      "text": "Working with Sheet Metal Tolerances"
+    },
+    {
+      "level": "h3",
+      "text": "Sheet Metal Fabrication vs. Machining vs. 3D Printing"
+    },
+    {
+      "level": "h3",
+      "text": "Protolabs Sheet Metal Tolerances"
+    },
+    {
+      "level": "h3",
+      "text": "The Stacking Struggle"
+    },
+    {
+      "level": "h3",
+      "text": "Tolerance Takeaways"
+    }
+  ],
+  "images": [
+    {
+      "alt": "",
+      "src": "/images/Protolabs-mark-dark.jpg"
+    },
+    {
+      "alt": "Tolerance graph",
+      "src": "/media/titkk2cn/tolerances_figure1-sm.jpg"
+    },
+    {
+      "alt": "",
+      "src": "/media/iizl0rlz/tolerances_figure2-sm.jpg"
+    },
+    {
+      "alt": "Green lid",
+      "src": "/media/r0vhnvw1/tolerance-example-lidded.jpg?width=450&height=450&v=1d8dc9cdfa45f50"
+    },
+    {
+      "alt": "tolerance example unlidded",
+      "src": "/media/kzon1fyk/tolerance-example-unlidded.jpg?width=600&height=400&v=1d8dc9d70aea6e0"
+    },
+    {
+      "alt": "sheet metal design guide",
+      "src": "/media/qqip0hud/blog-_-dt-pdf-cta-293x200_sm-essentials-guide.png?width=293&height=200&v=1d87b42a97a9270"
+    },
+    {
+      "alt": "z frame design aid",
+      "src": "/media/3zymeum0/blog-_-dt-fulfillment-cta-z-frame-240x180.png?width=240&height=180&v=1d87a84eb2a7690"
+    },
+    {
+      "alt": "hardware on sheet metal material",
+      "src": "/media/1018125/pl-dt-september-900x400-featcontentrotator.png?width=115&height=115&v=1d55ce295a3c540"
+    },
+    {
+      "alt": "hardware on sheet metal material",
+      "src": "/media/jlhnt5ip/sm_integrating-hardware.jpg?width=115&height=115&v=1da22a6e7e2d8d0"
+    },
+    {
+      "alt": "Sheet Metal Bend Basics",
+      "src": "/media/4ojgqmaf/sm_understanding-sheet-metal-bending_setbacks-and-bend-allowances.jpg?width=115&height=115&v=1d9fa8c2ffebf50"
+    },
+    {
+      "alt": "sheet metal quoting image",
+      "src": "/media/l24cnoo0/blog-_-dt-quoting-cta-400x310_sm-400x310-1.png?width=400&height=310&v=1d87b43e47aada0"
+    }
+  ],
+  "meta_description": "Precision in sheet metal parts is possible, but it takes knowing some important design guidelines to get the parts you want. Fundamental to that is understanding tolerance.",
+  "modified_at": "",
+  "monitored_text": "Tech Tips October 12, 2022 Working with Sheet Metal Tolerances By Protolabs When choosing a manufacturer for your sheet metal parts, the term tolerance often comes up. Everyone wants their parts to be exact replicas of their models, but in truth, there always has to be some wiggle room in the definition of perfection. That variation is what we all call tolerance. Even though the term is used all the time, the reality of manufacturing tolerances can get quite complicated depending on the process in question. This post will compare machining, 3D printing, and sheet metal processes and how they affect achievable tolerances. Sheet Metal Fabrication vs. Machining vs. 3D Printing Machining and 3D printing are highly precise manufacturing methods, accurately removing or adding (respectively) material to produce a final geometry. Sheet metal is a slightly less precise method of manufacturing that relies on the cutting, bending, and stretching of thin sheets of metal to produce a final geometry. The looser tolerances achieved by the sheet metal method are a product of the highly variable processes used to achieve a geometry. Machining provides the most understood frame of reference for manufacturing tolerances. We often see machining tolerance blocks on sheet metal prints<dynamic-value> this one on the right. In engineering school, they teach that ±0.005 in. (0.127mm) for three significant figures is the baseline tolerance. This is possible because there is one machine creating features irrespective of features already created. It doesn’t matter if you drilled a hole in one place, the next hole position and size will be determined solely by the machine making the cut. 3D printing is also a precise manufacturing method though the actual level of precision is determined by materials and processes used. Keep in mind<dynamic-value> machining, 3D printing creates features on a part regardless of the features that came before it. It will continue to add material to the necessary places and maintain a high level of precision (assuming your design properly supports the part during manufacturing). Here at Protolabs, 3D printing tolerances vary from ± 0.002 in. to ± 0.012 in. (± 0.051mm to 0.305mm). Unless otherwise stated: .XX ±0.01 .XXX ±0.005 .XXXX ±0.0005 Angles ± 0.5* In a sense, sheet metal walks a line between manufacturing and artisan goods. We bend and stretch material to achieve a final geometry. We are not adding and removing metal with a single highly precise machine. In fact, sheet metal manufacturing requires almost a dozen machines, depending on the features required. Even the most basic formed part requires a cutting machine and a bending machine, each with its own tolerances and limitations. Protolabs Sheet Metal Tolerances We break out tolerances into two categories. Tolerances on one surface Tolerances across multiple surfaces Tolerances on one surface are much tighter than those across multiple surfaces. When looking at a single surface, most of the features are created using one machine, a laser or punch<dynamic-value> machining and 3D printing, this allows us to hold tighter tolerances. Its when we introduce bends to the geometry that things get a little less clear. Tolerances on One Surface Refer to the table below for standard tolerances for each marked section of the part. Feature Reference Tolerance +/- Edge to Edge A 0.005 in. (0.13mm) Edge to Hole B 0.005 in. (0.13mm) Hole to Hole C 0.005 in. (0.13mm) Hole to Hardware* D 0.010 in. (0.25mm) Edge to Hardware* E 0.010 in. (0.25mm) Hardware to Hardware* F 0.015 in. (0.38mm) Bend to Hole G 0.015 in. (0.38mm) Bend to Hardware* H 0.015 in. (0.38mm) Bend to Edge I 0.010 in. (0.25mm) Bend to Bend J 0.015 in. (0.38mm) * Hardware is considered to be studs, nuts, standoffs, or other self-fastening product. Tolerances on Multiple Surfaces Refer to the table below for standard tolerances for each marked section of the part. Feature Reference Tolerance +/- Bend to Bend A 0.015 in. (0.38mm) Bend to Bend B 0.030 in. (0.76mm)* Edge to Hole C 0.015 in. (0.38mm) Bend to Hole D 0.030 in. (0.76mm)* Bend to Hole E 0.030 in. (0.76mm)* Hole to Formed Feature F 0.010 in. (0.25mm) Hole to Formed Feature G 0.030 in. (0.76mm)* Edge to Formed Feature H 0.010 in. (0.25mm) Edge to Formed Feature I 0.030 in. (0.76mm) Hole to Hole J 0.020 in. (50mm)* Edge to Edge K 0.030 (.76mm) * Edge to Bend L 0.030 (.76mm) * * Non-cumulative. A sheet metal box with a basic lid may look simple in design, but there are nuances to consider to ensure a proper fit. The Stacking Struggle Let’s use this box and lid as a sheet metal tolerances case study. This will allow us to analyze the implications of sheet metal manufacturing on achievable tolerances. This assembly is deceiving in its simplicity. As we take a deep dive into the design, take a look at the nuances involved in designing good sheet metal parts. First, take a look at the green lid. This part has four flanges formed up from the center section. This center section has four holes used to mount the lid to the pink box below it. These four holes are cut by a laser and their position and size is tightly controlled by a computer-controlled process. These holes will be located precisely and free from the impact of the surrounding bend angle and linear tolerances. With the sheet metal lid removed, additional features are revealed that help create a well-designed box with lid. The situation is slightly different for the holes in our pink box. Unlike the holes on the lid, which are all on the same surface, the holes on the box are on four different surfaces each separated by four bends. Crossing the four bends, measuring hole-to-hole, gives us a linear tolerance of ±0.030 in. (±0.762mm) and a stacking angular tolerance of 1° per bend. This means the location of these holes is not nearly as tightly controlled as on the lid. It’s critical to keep this in mind when you are designing sheet metal components. So, what can you do to overcome this? You could open the holes in the lid to allow for misalignment of mounting holes or use a floating hardware in the box which allows for misalignment between the lid and the box. Combine both approaches and you have effectively trivialized the stacking tolerances seen in the box. You end up with a functional assembly that mates reliably and will wow your customer with your sheet metal design prowess. Tolerance Takeaways We manufacture precision sheet metal components. However, precision is not the same across all manufacturing methods. A designer cannot expect to hold machining-like tolerances in their sheet metal part. If you understand this, and are thoughtful about design guidelines and your approach to sheet metal, you too can achieve great things with your parts. If you have any issues getting your guide, click here to download . Sheet Metal Design Guide Download this guide to explore the processes involved in creating sheet metal parts along with how to design common features and select the right material. United States of America Afghanistan Åland Islands Albania Algeria American Samoa Andorra Angola Anguilla Antarctica Antigua and Barbuda Argentina Armenia Aruba Australia Austria Azerbaijan Bahamas Bahrain Bangladesh Barbados Belarus Belgium Belize Benin Bermuda Bhutan Bolivia, Plurinational State of Bonaire, Sint Eustatius and Saba Bosnia and Herzegovina Botswana Bouvet Island Brazil British Indian Ocean Territory Brunei Darussalam Bulgaria Burkina Faso Burundi Cambodia Cameroon Canada Cape Verde Cayman Islands Central African Republic Chad Chile China Christmas Island Cocos (Keeling) Islands Colombia Comoros Congo Congo, the Democratic Republic of the Cook Islands Costa Rica Côte d'Ivoire Croatia Cuba Curaçao Cyprus Czech Republic Denmark Djibouti Dominica Dominican Republic Ecuador Egypt El Salvador Equatorial Guinea Eritrea Estonia Ethiopia Falkland Islands (Malvinas) Faroe Islands Fiji Finland France French Guiana French Polynesia French Southern Territories Gabon Gambia Georgia Germany Ghana Gibraltar Greece Greenland Grenada Guadeloupe Guam Guatemala Guernsey Guinea Guinea-Bissau Guyana Haiti Heard Island and McDonald Islands Holy See (Vatican City State) Honduras Hong Kong Hungary Iceland India Indonesia Iran, Islamic Republic of Iraq Ireland Isle of Man Israel Italy Jamaica Japan Jersey Jordan Kazakhstan Kenya Kiribati Korea, Democratic People's Republic of Korea, Republic of Kuwait Kyrgyzstan Lao People's Democratic Republic Latvia Lebanon Lesotho Liberia Libya Liechtenstein Lithuania Luxembourg Macao Macedonia, the Former Yugoslav Republic of Madagascar Malawi Malaysia Maldives Mali Malta Marshall Islands Martinique Mauritania Mauritius Mayotte Mexico Micronesia, Federated States of Moldova, Republic of Monaco Mongolia Montenegro Montserrat Morocco Mozambique Myanmar Namibia Nauru Nepal Netherlands New Caledonia New Zealand Nicaragua Niger Nigeria Niue Norfolk Island Northern Mariana Islands Norway Oman Pakistan Palau Palestine, State of Panama Papua New Guinea Paraguay Peru Philippines Pitcairn Poland Portugal Puerto Rico Qatar Réunion Romania Russian Federation Rwanda Saint Barthélemy Saint Helena, Ascension and Tristan da Cunha Saint Kitts and Nevis Saint Lucia Saint Martin (French part) Saint Pierre and Miquelon Saint Vincent and the Grenadines Samoa San Marino Sao Tome and Principe Saudi Arabia Senegal Serbia Seychelles Sierra Leone Singapore Sint Maarten (Dutch part) Slovakia Slovenia Solomon Islands Somalia South Africa South Georgia and the South Sandwich Islands South Sudan Spain Sri Lanka Sudan SuriName Svalbard and Jan Mayen Swaziland Sweden Switzerland Syrian Arab Republic Taiwan, Province of China Tajikistan Tanzania, United Republic of Thailand Timor-Leste Togo Tokelau Tonga Trinidad and Tobago Tunisia Turkey Turkmenistan Turks and Caicos Islands Tuvalu Uganda Ukraine United Arab Emirates United Kingdom United States Minor Outlying Islands Uruguay Uzbekistan Vanuatu Venezuela, Bolivarian Republic of Viet Nam Virgin Islands, British Virgin Islands, U.S. Wallis and Futuna Western Sahara Yemen Zambia Zimbabwe I agree to receive email messages containing service updates and Design Tips from Protolabs and its affiliates Download Get FREE Z Frame You Might Also Like... 8 Rules for Converting Solid 3D Designs to Flat Sheet Metal How to Efficiently Integrate Hardware into Sheet Metal Part Design Understanding Sheet Metal Bending: Bend Radius, K-Factor, and More Need custom sheet metal parts? Get an online quote today. Upload a Part Tagged: sheet metal fabrication, tolerances, quality control",
+  "published_at": "",
+  "requested_url": "https://www.protolabs.com/resources/blog/working-with-sheet-metal-tolerances",
+  "schema_version": 2,
+  "sections": [
+    {
+      "hash": "d8926d695181d076ee325fd54d31fe18559d0cd9",
+      "heading": "Working with Sheet Metal Tolerances",
+      "level": "h1",
+      "text": "Working with Sheet Metal Tolerances By Protolabs Tech Tips October 12, 2022 Working with Sheet Metal Tolerances By Protolabs"
+    },
+    {
+      "hash": "e33663c22d7b09800daf6baa6d959cee8b28c554",
+      "heading": "Sheet Metal Fabrication vs. Machining vs. 3D Printing",
+      "level": "h3",
+      "text": "Sheet Metal Fabrication vs. Machining vs. 3D Printing Machining and 3D printing are highly precise manufacturing methods, accurately removing or adding (respectively) material to produce a final geometry. Sheet metal is a slightly less precise method of manufacturing that relies on the cutting, bending, and stretching of thin sheets of metal to produce a final geometry. The looser tolerances achieved by the sheet metal method are a product of the highly variable processes used to achieve a geometry."
+    },
+    {
+      "hash": "79ecfe1f4d90fa5e8985c735ab0358cbcf4a5782",
+      "heading": "Protolabs Sheet Metal Tolerances",
+      "level": "h3",
+      "text": "Protolabs Sheet Metal Tolerances We break out tolerances into two categories. Tolerances on one surface Tolerances across multiple surfaces Tolerances on one surface are much tighter than those across multiple surfaces. When looking at a single surface, most of the features are created using one machine, a laser or punch<dynamic-value> machining and 3D printing, this allows us to hold tighter tolerances. Its when we introduce bends to the geometry that things get a little less clear."
+    },
+    {
+      "hash": "af267a467f5d434536794e991da3fd2bb8fad285",
+      "heading": "The Stacking Struggle",
+      "level": "h3",
+      "text": "The Stacking Struggle Let’s use this box and lid as a sheet metal tolerances case study. This will allow us to analyze the implications of sheet metal manufacturing on achievable tolerances. This assembly is deceiving in its simplicity. As we take a deep dive into the design, take a look at the nuances involved in designing good sheet metal parts. First, take a look at the green lid. This part has four flanges formed up from the center section. This center section has four holes used to mount the lid to the pink box below it. These four holes are cut by a laser and their position and size is tightly controlled by a computer-controlled process. These holes will be located precisely and free from the impact of the surrounding bend angle and linear tolerances."
+    },
+    {
+      "hash": "a125a24e793ccfc6c0a17b92792e30bcac7faa18",
+      "heading": "Tolerance Takeaways",
+      "level": "h3",
+      "text": "Tolerance Takeaways We manufacture precision sheet metal components. However, precision is not the same across all manufacturing methods. A designer cannot expect to hold machining-like tolerances in their sheet metal part. If you understand this, and are thoughtful about design guidelines and your approach to sheet metal, you too can achieve great things with your parts."
+    }
+  ],
+  "sitemap_lastmod": "2026-04-14T10:36:00+00:00",
+  "status": 200,
+  "structure_hash": "d0516e3848bb5ddda094b70f1adb0aed814b4dbd",
+  "text_excerpt": "Tech Tips October 12, 2022 Working with Sheet Metal Tolerances By Protolabs When choosing a manufacturer for your sheet metal parts, the term tolerance often comes up. Everyone wants their parts to be exact replicas of their models, but in truth, there always has to be some wiggle room in the definition of perfection. That variation is what we all call tolerance. Even though the term is used all the time, the reality of manufacturing tolerances can get quite complicated depending on the process in question. This post will compare machining, 3D printing, and sheet metal processes and how they affect achievable tolerances. Sheet Metal Fabrication vs. Machining vs. 3D Printing Machining and 3D printing are highly precise manufacturing methods, accurately removing or adding (respectively) material to produce a final geometry. Sheet metal is a slightly less precise method of manufacturing that relies on the cutting, bending, and stretching of thin sheets of metal to produce a final geometry. The looser tolerances achieved by the sheet metal method are a product of the highly variable processes used to achieve a geometry. Machining provides the most understood frame of reference for man...",
+  "text_hash": "f0a88db7c5481bdbcbc6302111754cf06185179f",
+  "title": "Working with Sheet Metal Tolerances",
+  "url": "https://www.protolabs.com/resources/blog/working-with-sheet-metal-tolerances"
+}

@@ -1,0 +1,173 @@
+{
+  "canonical": "https://www.hubs.com/knowledge-base/strongest-3d-printer-filament",
+  "category": "content",
+  "competitor": "Hubs",
+  "ctas": [
+    {
+      "href": "https://www.hubs.com/manufacture?technology=3d-printing&process=fdm",
+      "text": "Upload your CAD"
+    }
+  ],
+  "discovered_via": "sitemap",
+  "fetched_at": "2026-08-17T03:42:24+00:00",
+  "final_url": "https://www.hubs.com/knowledge-base/strongest-3d-printer-filament",
+  "first_seen_at": "2026-08-17T03:42:24+00:00",
+  "h1": "",
+  "headings": [
+    {
+      "level": "h2",
+      "text": "Types of FDM filaments"
+    },
+    {
+      "level": "h3",
+      "text": "Top filaments for home and professional use"
+    },
+    {
+      "level": "h3",
+      "text": "Advanced industrial filaments: PEEK and PEKK"
+    },
+    {
+      "level": "h2",
+      "text": "Comparing strength: FDM vs. SLA vs. SLS"
+    },
+    {
+      "level": "h2",
+      "text": "Strength vs. toughness: the PLA vs. ABS debate"
+    },
+    {
+      "level": "h2",
+      "text": "Essential factors influencing part strength"
+    },
+    {
+      "level": "h3",
+      "text": "Post-processing for extra durability"
+    },
+    {
+      "level": "h2",
+      "text": "Selection guide: which filament is right for you?"
+    },
+    {
+      "level": "h2",
+      "text": "Get started"
+    },
+    {
+      "level": "h2",
+      "text": "Frequently asked questions"
+    },
+    {
+      "level": "h3",
+      "text": "What is the strongest 3D printer filament?"
+    },
+    {
+      "level": "h3",
+      "text": "Is PLA stronger than ABS?"
+    },
+    {
+      "level": "h3",
+      "text": "Do strong filaments need a special printer?"
+    }
+  ],
+  "images": [
+    {
+      "alt": "3DP 101 - A Material Jetting 3D printer in action",
+      "src": "/images/trans.gif"
+    },
+    {
+      "alt": "CNC machining, 3D printing and sheet metal fabrication parts",
+      "src": "/images/trans.gif"
+    }
+  ],
+  "meta_description": "Discover the strongest 3D printer filament options for FDM printing, from polycarbonate and nylon to carbon fiber-filled materials, PEEK and PEKK.",
+  "modified_at": "",
+  "monitored_text": "Ask five engineers which 3D printing filament is strongest and you'll likely get five different answers, because “strength” means different things depending on the part and the load it needs to bear. Tensile strength refers to a material’s resistance to pulling forces, which is critical for parts under tension or carrying loads. PLA and PLA+ are common choices here, offering a solid strength-to-weight ratio for structural parts. Impact resistance is a material's ability to absorb shocks without cracking. Polycarbonate stands out for tougher applications where parts may face sudden or repeated impacts. Stiffness describes how well a material resists deformation under load. Carbon fiber-filled filaments like Onyx are ideal for parts that need to hold their shape under pressure. This guide breaks down the strongest filaments for fused deposition modeling (FDM) , then compares them with stereolithography (SLA) and selective laser sintering (SLS) to show where each process fits. Types of FDM filaments FDM covers a range of machines, from simpler desktop systems to industrial setups with much tighter process control. Those machine differences shape which filaments can be used and what kinds of strength they are best at delivering. Broadly, they fall into three categories: Prototyping FDM: PLA , PETG and ABS for everyday prototypes and simple functional parts. Industrial FDM : Onyx , ULTEM 9085 and ULTEM 1010 for more demanding performance and tighter process control. High-temperature FDM: PEEK and PEKK for extreme heat and chemical resistance, with much more demanding print requirements. Top filaments for home and professional use For home users, the strongest options are usually the filaments that can deliver useful strength without making printability unmanageable. For professional use, the range opens up to tougher and stiffer materials that need more controlled print conditions. Across both, the strongest filaments tend to fall into three groups: polycarbonate for impact resistance, nylon for toughness and wear resistance and carbon fiber-filled filaments for stiffness. Polycarbonate (PC): the impact leader Transparent and built to take a hit, polycarbonate is in the same family of plastic used in bulletproof glass and riot shields, which gives you a sense of its impact toughness. In FDM printing, PC is a strong choice for parts that need to handle knocks, drops or repeated stress. The trade-off is printability. PC needs nozzle temperatures in the 260–310°C range and an enclosed build chamber to manage warping. With the right setup, it works well for housings, snap-fit assemblies and protective covers. Nylon and carbon fiber reinforced filaments Nylon works well for parts that need abrasion resistance, chemical tolerance and a balance of stiffness and flexibility. It is often used for gears, bushings, clips and other parts that see repeated wear. Carbon fiber-filled nylons are stiffer and less flexible. That makes materials like Markforged Onyx ideal for lightweight, rigid parts such as drone frames, custom tooling and automotive brackets. Advanced industrial filaments: PEEK and PEKK When parts need metal-replacement performance, polyetheretherketone (PEEK) and polyetherketoneketone (PEKK) sit at the top of the polymer ladder. They combine strong mechanical properties with high heat resistance and chemical stability, which is why they are used in aerospace , medical and other advanced industrial applications . The challenge is processing. PEEK and PEKK typically need nozzle temperatures of 360–420°C depending on the grade, along with heated chambers and tightly controlled build conditions. If your part needs to handle harsh environments, aggressive chemicals or sustained heat, these are still worth considering alongside other materials for high-temperature applications . Comparing strength: FDM vs. SLA vs. SLS The process you print with shapes part strength just as much as the material you choose. FDM builds parts by stacking melted lines of plastic. This layered structure creates anisotropy, meaning that parts are weaker along the Z-axis (perpendicular to layers) than in the XY plane. SLA cures liquid resin with a laser, while SLS uses a laser to fuse powder. Both produce parts that are much closer to isotropic, with strength that is more consistent across directions. Process Isotropy Typical UTS range (MPa) Best for FDM Anisotropic 30–81 Functional prototypes, tooling, large parts SLA Near-isotropic 38–69* High-detail parts, smooth surfaces, stiff assemblies SLS Near-isotropic 41–50 End-use parts, batch production, moving assemblies *Post-cured For parts loaded in a single known direction, FDM can match or beat SLA and SLS when the print is oriented correctly. For parts with complex, multi-axis loads, the near-isotropic behavior of SLA and SLS is a real advantage. Strength vs. toughness: the PLA vs. ABS debate One of the most common misconceptions in desktop 3D printing is that ABS is stronger than PLA across the board, but this isn’t actually the case. PLA tends to have higher tensile strength and stiffness, which makes it a better fit for parts under steady, static loads. ABS is tougher, so it handles impact and repeated knocks better without shattering. This is the core difference between strength and brittleness in materials . PLA: Higher tensile strength and stiffness → Better for rigid, dimensionally stable parts such as brackets, housings or jigs that sit under steady loads. ABS: Greater toughness and impact resistance → Better for functional parts such as enclosures, clips or automotive-style components that may be dropped, flexed or handled roughly in use. Essential factors influencing part strength Even the strongest filament can underperform if the part is not designed and printed with load conditions in mind. Beyond material choice, several print parameters and 3D printing design optimizations can impact final load capacity. Infill density : Higher infill can increase load capacity, especially in parts that need enhanced compressive or bending strength. Wall count (perimeters): Wall thickness often has a grater effect on real-world strength than infill alone. Print orientation : In FDM, orientation affects how forces travel across or along the layer lines, which can significantly change final part strength. Layer height : Layer height can affect layer adhesion, but it usually has less impact than orientation or wall structure. Post-processing for extra durability Post-processing can also improve performance. Annealing, or heat treating, can reduce residual stress and improve dimensional stability. In PLA, it can also increase crystallinity, which boosts heat resistance and can also improve stiffness. In ABS, the benefit is more about stress relief than crystallization, since it is an amorphous polymer. Annealed parts can still shrink or warp slightly, so it works best on simpler shapes. Other surface finishing services can also improve the final performance, feel or appearance of a printed part, depending on the application. Selection guide: which filament is right for you? A quick way to narrow the field is to match the filament choice to your skill level and the demands of the application. Beginners: PLA+ and PETG are the easiest starting points for reliable printing and everyday functional parts. PLA+ is stiffer and easier to print, while PETG offers better flexibility and chemical resistance. Check out PLA vs. PETG for a full comparison. Advanced users: PC and nylon, including Markforged Onyx , are better when parts need more toughness, heat resistance or long-term durability. Extreme conditions: PEEK and PEKK are the next grade when parts require exceptional heat and chemical resistance, but they also demand much tighter process control. Values are representative and may vary by material grade and print settings. Onyx value is tensile stress at break. Get started Need help finding a filament that can stand up to your part’s performance needs? Upload your CAD for an instant quote, or check out our FDM materials to compare options. Subscribe Get the latest manufacturing news delivered to your mailbox. Sign up for our newsletter Sign me up Please enter a valid email address. Leave this field empty Thanks! You're now subscribed to our newsletter. Frequently asked questions What is the strongest 3D printer filament? There is no single answer, because the strongest filament depends on the type of strength you need. PEEK leads for high-end tensile and thermal performance, polycarbonate excels at impact resistance and carbon fiber-filled materials stand out for stiffness. Is PLA stronger than ABS? PLA is usually stronger in tensile terms and stiffer, while ABS is tougher and better at absorbing shocks. Do strong filaments need a special printer? In many cases, yes. Polycarbonate and nylon need higher print temperatures than PLA, while PEEK or PEKK require specialized industrial systems capable of nozzle temperatures above 400°C.",
+  "published_at": "",
+  "requested_url": "https://www.hubs.com/knowledge-base/strongest-3d-printer-filament",
+  "schema_version": 2,
+  "sections": [
+    {
+      "hash": "2d842cfddfd74b438dc355bddf2652977adf6be4",
+      "heading": "Types of FDM filaments",
+      "level": "h2",
+      "text": "Types of FDM filaments FDM covers a range of machines, from simpler desktop systems to industrial setups with much tighter process control. Those machine differences shape which filaments can be used and what kinds of strength they are best at delivering. Broadly, they fall into three categories: Prototyping FDM: PLA , PETG and ABS for everyday prototypes and simple functional parts. Industrial FDM : Onyx , ULTEM 9085 and ULTEM 1010 for more demanding performance and tighter process control. High-temperature FDM: PEEK and PEKK for extreme heat and chemical resistance, with much more demanding print requirements."
+    },
+    {
+      "hash": "fdfbfb8da754545c28ee606c1107736ae056cb6a",
+      "heading": "Top filaments for home and professional use",
+      "level": "h3",
+      "text": "Top filaments for home and professional use For home users, the strongest options are usually the filaments that can deliver useful strength without making printability unmanageable. For professional use, the range opens up to tougher and stiffer materials that need more controlled print conditions. Across both, the strongest filaments tend to fall into three groups: polycarbonate for impact resistance, nylon for toughness and wear resistance and carbon fiber-filled filaments for stiffness. Polycarbonate (PC): the impact leader Transparent and built to take a hit, polycarbonate is in the same family of plastic used in bulletproof glass and riot shields, which gives you a sense of its impact toughness. In FDM printing, PC is a strong choice for parts that need to handle knocks, drops or repeated stress. The trade-off is printability. PC needs nozzle temperatures in the 260–310°C range and an enclosed build chamber to manage warping. With the right setup, it works well for housings, snap-fit assemblies and protective covers. Nylon and carbon fiber reinforced filaments Nylon works well for parts that need abrasion resistance, chemical tolerance and a balance of stiffness and flexibil..."
+    },
+    {
+      "hash": "10feb8160732e8028931a2baee39b28857eefdf4",
+      "heading": "Advanced industrial filaments: PEEK and PEKK",
+      "level": "h3",
+      "text": "Advanced industrial filaments: PEEK and PEKK When parts need metal-replacement performance, polyetheretherketone (PEEK) and polyetherketoneketone (PEKK) sit at the top of the polymer ladder. They combine strong mechanical properties with high heat resistance and chemical stability, which is why they are used in aerospace , medical and other advanced industrial applications . The challenge is processing. PEEK and PEKK typically need nozzle temperatures of 360–420°C depending on the grade, along with heated chambers and tightly controlled build conditions. If your part needs to handle harsh environments, aggressive chemicals or sustained heat, these are still worth considering alongside other materials for high-temperature applications ."
+    },
+    {
+      "hash": "deb148ab763854175c9cf9f6f09feaf7cfd40c98",
+      "heading": "Comparing strength: FDM vs. SLA vs. SLS",
+      "level": "h2",
+      "text": "Comparing strength: FDM vs. SLA vs. SLS The process you print with shapes part strength just as much as the material you choose. FDM builds parts by stacking melted lines of plastic. This layered structure creates anisotropy, meaning that parts are weaker along the Z-axis (perpendicular to layers) than in the XY plane. SLA cures liquid resin with a laser, while SLS uses a laser to fuse powder. Both produce parts that are much closer to isotropic, with strength that is more consistent across directions."
+    },
+    {
+      "hash": "ba1c5132a865834355730996f105fe8a68fc52ee",
+      "heading": "Strength vs. toughness: the PLA vs. ABS debate",
+      "level": "h2",
+      "text": "Strength vs. toughness: the PLA vs. ABS debate One of the most common misconceptions in desktop 3D printing is that ABS is stronger than PLA across the board, but this isn’t actually the case. PLA tends to have higher tensile strength and stiffness, which makes it a better fit for parts under steady, static loads. ABS is tougher, so it handles impact and repeated knocks better without shattering. This is the core difference between strength and brittleness in materials . PLA: Higher tensile strength and stiffness → Better for rigid, dimensionally stable parts such as brackets, housings or jigs that sit under steady loads. ABS: Greater toughness and impact resistance → Better for functional parts such as enclosures, clips or automotive-style components that may be dropped, flexed or handled roughly in use."
+    },
+    {
+      "hash": "5034d0a7f96505530899c77d616d883d2d81e872",
+      "heading": "Essential factors influencing part strength",
+      "level": "h2",
+      "text": "Essential factors influencing part strength Even the strongest filament can underperform if the part is not designed and printed with load conditions in mind. Beyond material choice, several print parameters and 3D printing design optimizations can impact final load capacity. Infill density : Higher infill can increase load capacity, especially in parts that need enhanced compressive or bending strength. Wall count (perimeters): Wall thickness often has a grater effect on real-world strength than infill alone. Print orientation : In FDM, orientation affects how forces travel across or along the layer lines, which can significantly change final part strength. Layer height : Layer height can affect layer adhesion, but it usually has less impact than orientation or wall structure."
+    },
+    {
+      "hash": "2494f82e990e791de473efb4a70627a8883ad3d9",
+      "heading": "Post-processing for extra durability",
+      "level": "h3",
+      "text": "Post-processing for extra durability Post-processing can also improve performance. Annealing, or heat treating, can reduce residual stress and improve dimensional stability. In PLA, it can also increase crystallinity, which boosts heat resistance and can also improve stiffness. In ABS, the benefit is more about stress relief than crystallization, since it is an amorphous polymer. Annealed parts can still shrink or warp slightly, so it works best on simpler shapes. Other surface finishing services can also improve the final performance, feel or appearance of a printed part, depending on the application."
+    },
+    {
+      "hash": "889c37d4f08d8aed748150933166e1b08aab8b24",
+      "heading": "Selection guide: which filament is right for you?",
+      "level": "h2",
+      "text": "Selection guide: which filament is right for you? A quick way to narrow the field is to match the filament choice to your skill level and the demands of the application. Beginners: PLA+ and PETG are the easiest starting points for reliable printing and everyday functional parts. PLA+ is stiffer and easier to print, while PETG offers better flexibility and chemical resistance. Check out PLA vs. PETG for a full comparison. Advanced users: PC and nylon, including Markforged Onyx , are better when parts need more toughness, heat resistance or long-term durability. Extreme conditions: PEEK and PEKK are the next grade when parts require exceptional heat and chemical resistance, but they also demand much tighter process control."
+    },
+    {
+      "hash": "a256dd6f12bf9ab46bfe356f345da34d08bb14a6",
+      "heading": "Get started",
+      "level": "h2",
+      "text": "Get started Need help finding a filament that can stand up to your part’s performance needs? Upload your CAD for an instant quote, or check out our FDM materials to compare options."
+    },
+    {
+      "hash": "02842b08377539be654ab1179cf41e1d947c4424",
+      "heading": "Frequently asked questions",
+      "level": "h2",
+      "text": "Frequently asked questions Frequently asked questions"
+    },
+    {
+      "hash": "755058cbfd37060b59b6af7a6b924084835ac5df",
+      "heading": "What is the strongest 3D printer filament?",
+      "level": "h3",
+      "text": "What is the strongest 3D printer filament? There is no single answer, because the strongest filament depends on the type of strength you need. PEEK leads for high-end tensile and thermal performance, polycarbonate excels at impact resistance and carbon fiber-filled materials stand out for stiffness."
+    },
+    {
+      "hash": "9d19ffe719a743b6d7a2940facce86448c7535d0",
+      "heading": "Is PLA stronger than ABS?",
+      "level": "h3",
+      "text": "Is PLA stronger than ABS? PLA is usually stronger in tensile terms and stiffer, while ABS is tougher and better at absorbing shocks."
+    },
+    {
+      "hash": "9c8fb6344c2e49d79e2c3947a34940ab77a32ea7",
+      "heading": "Do strong filaments need a special printer?",
+      "level": "h3",
+      "text": "Do strong filaments need a special printer? In many cases, yes. Polycarbonate and nylon need higher print temperatures than PLA, while PEEK or PEKK require specialized industrial systems capable of nozzle temperatures above 400°C."
+    }
+  ],
+  "sitemap_lastmod": "2026-05-04T11:12:19+00:00",
+  "status": 200,
+  "structure_hash": "df5e0af3cf435e729fe1484e7cd1d9bde0f2b48a",
+  "text_excerpt": "Ask five engineers which 3D printing filament is strongest and you'll likely get five different answers, because “strength” means different things depending on the part and the load it needs to bear. Tensile strength refers to a material’s resistance to pulling forces, which is critical for parts under tension or carrying loads. PLA and PLA+ are common choices here, offering a solid strength-to-weight ratio for structural parts. Impact resistance is a material's ability to absorb shocks without cracking. Polycarbonate stands out for tougher applications where parts may face sudden or repeated impacts. Stiffness describes how well a material resists deformation under load. Carbon fiber-filled filaments like Onyx are ideal for parts that need to hold their shape under pressure. This guide breaks down the strongest filaments for fused deposition modeling (FDM) , then compares them with stereolithography (SLA) and selective laser sintering (SLS) to show where each process fits. Types of FDM filaments FDM covers a range of machines, from simpler desktop systems to industrial setups with much tighter process control. Those machine differences shape which filaments can be used and what k...",
+  "text_hash": "bf28c2d00bbfcc7eb56e7205958109c100ce8fbf",
+  "title": "The strongest 3D printer filament | Protolabs Network",
+  "url": "https://www.hubs.com/knowledge-base/strongest-3d-printer-filament"
+}

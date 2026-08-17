@@ -1,0 +1,201 @@
+{
+  "canonical": "https://www.hubs.com/knowledge-base/what-is-cnc-turning",
+  "category": "content",
+  "competitor": "Hubs",
+  "ctas": [
+    {
+      "href": "https://www.hubs.com/quality-assurance",
+      "text": "consult standards for recommended tolerances"
+    },
+    {
+      "href": "https://www.hubs.com/manufacture?technology=cnc-machining",
+      "text": "Upload your design"
+    }
+  ],
+  "discovered_via": "sitemap",
+  "fetched_at": "2026-08-17T03:41:55+00:00",
+  "final_url": "https://www.hubs.com/knowledge-base/what-is-cnc-turning",
+  "first_seen_at": "2026-08-17T03:41:55+00:00",
+  "h1": "",
+  "headings": [
+    {
+      "level": "h2",
+      "text": "The fundamentals of the turning manufacturing process"
+    },
+    {
+      "level": "h2",
+      "text": "What is the difference between CNC turning and CNC milling?"
+    },
+    {
+      "level": "h2",
+      "text": "What is the difference between CNC turning and CNC milling?"
+    },
+    {
+      "level": "h2",
+      "text": "How do CNC turning machines work?"
+    },
+    {
+      "level": "h2",
+      "text": "What kind of parts can you make with CNC turning machines?"
+    },
+    {
+      "level": "h2",
+      "text": "How do you design parts for CNC turning?"
+    },
+    {
+      "level": "h2",
+      "text": "Material-specific tooling and strategies"
+    },
+    {
+      "level": "h2",
+      "text": "Selecting high-performance materials for turned parts"
+    },
+    {
+      "level": "h2",
+      "text": "Sanding and post-processing turned components"
+    },
+    {
+      "level": "h2",
+      "text": "Get started"
+    },
+    {
+      "level": "h2",
+      "text": "Frequently asked questions"
+    },
+    {
+      "level": "h3",
+      "text": "What materials can be used in CNC turning?"
+    },
+    {
+      "level": "h3",
+      "text": "What are the advantages of CNC turning?"
+    },
+    {
+      "level": "h3",
+      "text": "What are the typical applications of CNC turning?"
+    },
+    {
+      "level": "h3",
+      "text": "How long does a typical CNC turning process take?"
+    },
+    {
+      "level": "h3",
+      "text": "Is CNC turning suitable for prototypes or large-scale production?"
+    }
+  ],
+  "images": [
+    {
+      "alt": "CNC lathe machine in action.",
+      "src": "/images/trans.gif"
+    },
+    {
+      "alt": "CNC machining, 3D printing and sheet metal fabrication parts",
+      "src": "/images/trans.gif"
+    }
+  ],
+  "meta_description": "Optimize your turning manufacturing process. From material selection to design for rotation, get expert insights for high-quality CNC parts.",
+  "modified_at": "",
+  "monitored_text": "The fundamentals of the turning manufacturing process At its core, the turning manufacturing process relies on a simple yet powerful mechanical contrast: the workpiece rotates at high speeds while a stationary cutting tool moves linearly alongside its surface. This setup is governed by the principle of rigidity. To achieve micron-level precision, the machine must maintain extreme structural stability to resist the cutting forces that attempt to deflect the tool. The success of the operation often hinges on the material's shear modulus and its ability to resist deformation when the tool's edge slices through the surface. A high-rigidity setup ensures that these forces remain controlled, preventing vibrations (chatter) which could ruin the surface finish or dimensional accuracy of the cylindrical part. What is the difference between CNC turning and CNC milling? In the CNC turning process, the workpiece spins around an axis and the machine tool moves in a linear action. This enables cylindrical parts to be produced, as well as operations such as cutting, drilling, turning and threading. It also uses an SPTT or a single-point turning tool which is in direct contact with the workpiece throughout the operation. Conversely, in CNC milling , the cutting tool spins around an axis and the workpiece moves linearly, which generates a flat surface, typically used to machine rectangular shapes. Unlike turning, the milling process relies on intermittent cutting and multiple machine steps. What is the difference between CNC turning and CNC milling? In the CNC turning process, the workpiece spins around an axis and the machine tool moves in a linear action. This enables cylindrical parts to be produced, as well as operations such as cutting, drilling, turning and threading. It also uses an SPTT or a single-point turning tool which is in direct contact with the workpiece throughout the operation. Conversely, in CNC milling , the cutting tool spins around an axis and the workpiece moves linearly, which generates a flat surface, typically used to machine rectangular shapes. Unlike turning, the milling process relies on intermittent cutting and multiple machine steps. Feature CNC Turning CNC Milling Motion Workpiece rotates; tool is stationary. Tool rotates; workpiece moves linearly. Primary Shape Cylindrical or round profiles. Flat, rectangular, or complex 3D shapes. Tool Type Single-point turning tool (SPTT). Multi-point cutting tools (end mills, drills). Contact Continuous contact with workpiece. Intermittent cutting action. Best For Shafts, bolts, valves, and bushings. Enclosures, brackets, and engine blocks. How do CNC turning machines work? The transformation of raw stock into a finished component through CNC turning is a synchronized process of mechanical stability and digital precision. It begins with the workpiece setup, where the raw material is securely mounted into the machine’s chuck or collet. This connection is essential as it must hold the material completely centered while it rotates at high speeds, providing the rigid foundation necessary for micron-level accuracy. The tool selection and CNC programming phase works in tandem with the physical setup. Engineers select specific cutting tools, such as grooving, threading, or drilling tools, and load these into the machine’s turret. Concurrently, the digital design is translated into a CNC program. This code acts as the machine's ‘brain’, containing precise instructions for every tool movement, spindle speed, and feed rate required to execute the design. The process culminates in the machining operations. As the spindle spins the workpiece, the machine executes the programmed paths, moving the stationary cutting tools along their respective axes. With surgical precision, the tools shave away excess material, gradually revealing the final dimensions and features of the part. This automated cycle continues until the raw material is fully transformed into a high-fidelity, finished component. What kind of parts can you make with CNC turning machines? CNC turning machines are versatile tools capable of producing a wide range of parts with varying complexities. Here are some examples of parts that can be made using CNC turning: Shafts and axels: CNC turning is ideal for producing long, cylindrical parts used in various industries, including automotive and aerospace . Fasteners: Screws, bolts, and nuts, produced with CNC turning, are essential for components used in assemblies across industries for joining and securing parts. Valves and valve components: CNC turning allows for the creation of valve bodies, stems, seats, and intricate components used in fluid control systems. Bushings and bearings: Precision-made bushings and bearings are vital in mechanical assemblies, as these reduce friction and support smooth rotational movement. Beyond producing parts from raw stock, CNC turning is often used as a secondary operation. Engineers frequently use it to finish 3D-printed or cast metal components, adding the tight tolerances and smooth surface finishes that additive manufacturing and casting processes cannot achieve on their own. How do you design parts for CNC turning? Designing for CNC turning requires a ‘rotational mindset’. Since the process centers on a spinning workpiece, the most efficient designs prioritize simplified, cylindrical geometries. To ensure high-quality results, you should focus on creating parts that allow for easy tool access, avoiding complex internal features that increase machining time. Success begins with the right foundation. Common materials for CNC turning include metals (such as aluminium, steel, and brass), and certain plastics , each requiring a specific approach to maintain structural integrity. To prevent the part from deflecting or vibrating under the pressure of the cutting tool, it’s vital to minimize overhangs and thin sections. High-precision results also depend on clear specifications. You should always consult standards for recommended tolerances based on the functional requirements of your part. By designing for standard tool sizes and balancing durability with machinability, you ensure a smooth, cost-effective manufacturing cycle that translates perfectly from CAD to a finished component. Material-specific tooling and strategies In the turning manufacturing process, the choice of tools and designs depends on the specific material being machined. Different materials have unique properties that influence tool selection and cutting strategies. Generally, you will choose between carbide and high-speed steel (HSS) tools. Carbide is the industry standard for its hardness and heat resistance, allowing for faster production, while HSS offers the toughness needed for interrupted cuts or older machinery. Here are a few common materials used in CNC turning and the recommended tools and designs for each. Aluminium : When machining aluminum, it is recommended to use carbide or HSS inserts with sharp cutting edges. Plan to use lighter cuts, higher cutting speeds, and the use of coolant or lubrication to prevent chip adhesion. Low/medium carbon steel: When machining low to medium carbon steel, you should use carbide inserts with a tougher grade and a positive rake angle. Additionally, use sturdy toolholders, adequate coolant and lubrication, and a slower cutting speed compared to aluminum. Stainless steel : For stainless steel, it is recommended to use carbide inserts with high-temperature resistance and low friction coatings. The process also works best with lower cutting speeds, controlled feed rates, and efficient coolant and lubrication to manage heat buildup. Brass and copper : When machining brass and copper, use carbide or HSS tools with sharp edges and polished surfaces. Additionally, you will need adequate coolant and lubrication to prevent work hardening, lighter cuts, and controlled chip formation. Plastics : Machining plastics such as acrylic or Nylon requires solid carbide or HSS tools with sharp edges. You should also use lower cutting speeds, reduced feed rates, and coolant or lubrication to prevent melting or chip sticking. Exotic alloys: For machining exotic alloys such as titanium , specialized carbide inserts or ceramic inserts designed for high-temperature resistance are recommended. Be sure to use a rigorous coolant or lubrication system, slower cutting speeds, and a strong, rigid tooling setup. Material Class Recommended Tooling Cutting Speed Key Strategy Aluminium Carbide / HSS (Sharp) High Use coolant to prevent chip adhesion. Carbon Steel Carbide (Tough grade) Moderate Positive rake angle and sturdy toolholders. Stainless Steel Carbide (Heat resistant) Low Controlled feed rates to manage heat. Brass & Copper Carbide / HSS (Polished) Moderate Sharp edges to prevent work hardening. Plastics Solid Carbide / HSS Low Reduced feed rates to avoid melting. Exotic Alloys Ceramic / Special Carbide Very Low Maximum rigidity and high-pressure coolant. Selecting high-performance materials for turned parts When selecting a material, engineers must balance strength and the ability to withstand an applied load with toughness - which is the material's ability to absorb energy before failing. For many functional load-bearing parts, high-performance polymers like PEEK are replacing traditional metals. PEEK offers an exceptional strength-to-weight ratio and excellent chemical resistance, making it a popular choice for medical and aerospace components. However, for applications exposed to high cyclic loads or severe impact conditions, traditional materials such as 4140 steel and Grade 5 titanium are often preferred due to their superior fracture toughness and long-term durability. Sanding and post-processing turned components While a CNC lathe can produce excellent surface finishes, certain applications require an injection-molded quality. For plastic turned parts, you can achieve this by applying a progressive 5-step sanding guide. Start with a 150-grit abrasive to remove the initial tool marks, then step through 400, 600, and 1000 grit using wet sanding techniques to manage heat. Finishing with a 2000-grit polish and a buffing compound will transform a machined surface into a high-gloss, optically clear, or perfectly smooth finish, suitable for consumer-facing products or high-precision seals. Get started Ready to optimize your part for CNC turning? Upload your design for a free, instant quote with material recommendations and DFM feedback. Subscribe Get the latest manufacturing news delivered to your mailbox. Sign up for our newsletter Sign me up Please enter a valid email address. Leave this field empty Thanks! You're now subscribed to our newsletter. Frequently asked questions What materials can be used in CNC turning? CNC turning can work with a variety of materials, including metals such as aluminum, steel, brass, and titanium, as well as plastics such as acrylic, nylon, and polycarbonate. What are the advantages of CNC turning? CNC turning offers benefits such as high precision, repeatability, versatility for complex shapes, shorter production cycles, as well as the ability to work with both small and large quantities of parts. What are the typical applications of CNC turning? CNC turning is commonly used in industries such as automotive, aerospace, electronics, medical devices, and general manufacturing for producing parts such as shafts, bushings, connectors, valves, and fasteners. How long does a typical CNC turning process take? The time required for CNC turning depends on factors such as the complexity of the part, material type, tolerances, and the machining operations involved, but it can range from minutes to hours. For time-sensitive projects, select the local manufacturing option with lead times from 5 days. Is CNC turning suitable for prototypes or large-scale production? CNC turning is suitable for both prototypes and large-scale production. It offers cost-effective production for large quantities, while also allowing for efficient machining of prototypes with quick setup and programming adjustments.",
+  "published_at": "",
+  "requested_url": "https://www.hubs.com/knowledge-base/what-is-cnc-turning",
+  "schema_version": 2,
+  "sections": [
+    {
+      "hash": "902fb185273608fec9c1faf3fab82ae583734641",
+      "heading": "The fundamentals of the turning manufacturing process",
+      "level": "h2",
+      "text": "The fundamentals of the turning manufacturing process At its core, the turning manufacturing process relies on a simple yet powerful mechanical contrast: the workpiece rotates at high speeds while a stationary cutting tool moves linearly alongside its surface. This setup is governed by the principle of rigidity. To achieve micron-level precision, the machine must maintain extreme structural stability to resist the cutting forces that attempt to deflect the tool. The success of the operation often hinges on the material's shear modulus and its ability to resist deformation when the tool's edge slices through the surface. A high-rigidity setup ensures that these forces remain controlled, preventing vibrations (chatter) which could ruin the surface finish or dimensional accuracy of the cylindrical part."
+    },
+    {
+      "hash": "53aab035811c03911f7a5ad5904b9e743e1e743d",
+      "heading": "What is the difference between CNC turning and CNC milling?",
+      "level": "h2",
+      "text": "What is the difference between CNC turning and CNC milling? In the CNC turning process, the workpiece spins around an axis and the machine tool moves in a linear action. This enables cylindrical parts to be produced, as well as operations such as cutting, drilling, turning and threading. It also uses an SPTT or a single-point turning tool which is in direct contact with the workpiece throughout the operation. Conversely, in CNC milling , the cutting tool spins around an axis and the workpiece moves linearly, which generates a flat surface, typically used to machine rectangular shapes. Unlike turning, the milling process relies on intermittent cutting and multiple machine steps."
+    },
+    {
+      "hash": "da1c335f258b1e6444e96d78cace65e9213d454b",
+      "heading": "How do CNC turning machines work?",
+      "level": "h2",
+      "text": "How do CNC turning machines work? The transformation of raw stock into a finished component through CNC turning is a synchronized process of mechanical stability and digital precision. It begins with the workpiece setup, where the raw material is securely mounted into the machine’s chuck or collet. This connection is essential as it must hold the material completely centered while it rotates at high speeds, providing the rigid foundation necessary for micron-level accuracy. The tool selection and CNC programming phase works in tandem with the physical setup. Engineers select specific cutting tools, such as grooving, threading, or drilling tools, and load these into the machine’s turret. Concurrently, the digital design is translated into a CNC program. This code acts as the machine's ‘brain’, containing precise instructions for every tool movement, spindle speed, and feed rate required to execute the design. The process culminates in the machining operations. As the spindle spins the workpiece, the machine executes the programmed paths, moving the stationary cutting tools along their respective axes. With surgical precision, the tools shave away excess material, gradually revealin..."
+    },
+    {
+      "hash": "a5669cdab6614fad40c79fd22902b447af5fbf8f",
+      "heading": "What kind of parts can you make with CNC turning machines?",
+      "level": "h2",
+      "text": "What kind of parts can you make with CNC turning machines? CNC turning machines are versatile tools capable of producing a wide range of parts with varying complexities. Here are some examples of parts that can be made using CNC turning: Shafts and axels: CNC turning is ideal for producing long, cylindrical parts used in various industries, including automotive and aerospace . Fasteners: Screws, bolts, and nuts, produced with CNC turning, are essential for components used in assemblies across industries for joining and securing parts. Valves and valve components: CNC turning allows for the creation of valve bodies, stems, seats, and intricate components used in fluid control systems. Bushings and bearings: Precision-made bushings and bearings are vital in mechanical assemblies, as these reduce friction and support smooth rotational movement. Beyond producing parts from raw stock, CNC turning is often used as a secondary operation. Engineers frequently use it to finish 3D-printed or cast metal components, adding the tight tolerances and smooth surface finishes that additive manufacturing and casting processes cannot achieve on their own."
+    },
+    {
+      "hash": "fe4b82701e36a933b80a6ffa7222f551194422ad",
+      "heading": "How do you design parts for CNC turning?",
+      "level": "h2",
+      "text": "How do you design parts for CNC turning? Designing for CNC turning requires a ‘rotational mindset’. Since the process centers on a spinning workpiece, the most efficient designs prioritize simplified, cylindrical geometries. To ensure high-quality results, you should focus on creating parts that allow for easy tool access, avoiding complex internal features that increase machining time. Success begins with the right foundation. Common materials for CNC turning include metals (such as aluminium, steel, and brass), and certain plastics , each requiring a specific approach to maintain structural integrity. To prevent the part from deflecting or vibrating under the pressure of the cutting tool, it’s vital to minimize overhangs and thin sections. High-precision results also depend on clear specifications. You should always consult standards for recommended tolerances based on the functional requirements of your part. By designing for standard tool sizes and balancing durability with machinability, you ensure a smooth, cost-effective manufacturing cycle that translates perfectly from CAD to a finished component."
+    },
+    {
+      "hash": "de60fdd7a9a283be1158747ac0cd1c2c3bcb823a",
+      "heading": "Material-specific tooling and strategies",
+      "level": "h2",
+      "text": "Material-specific tooling and strategies In the turning manufacturing process, the choice of tools and designs depends on the specific material being machined. Different materials have unique properties that influence tool selection and cutting strategies. Generally, you will choose between carbide and high-speed steel (HSS) tools. Carbide is the industry standard for its hardness and heat resistance, allowing for faster production, while HSS offers the toughness needed for interrupted cuts or older machinery. Here are a few common materials used in CNC turning and the recommended tools and designs for each. Aluminium : When machining aluminum, it is recommended to use carbide or HSS inserts with sharp cutting edges. Plan to use lighter cuts, higher cutting speeds, and the use of coolant or lubrication to prevent chip adhesion. Low/medium carbon steel: When machining low to medium carbon steel, you should use carbide inserts with a tougher grade and a positive rake angle. Additionally, use sturdy toolholders, adequate coolant and lubrication, and a slower cutting speed compared to aluminum. Stainless steel : For stainless steel, it is recommended to use carbide inserts with high-t..."
+    },
+    {
+      "hash": "81d7fae19bf6e65c2674d2c31d463116cbb9a83b",
+      "heading": "Selecting high-performance materials for turned parts",
+      "level": "h2",
+      "text": "Selecting high-performance materials for turned parts When selecting a material, engineers must balance strength and the ability to withstand an applied load with toughness - which is the material's ability to absorb energy before failing. For many functional load-bearing parts, high-performance polymers like PEEK are replacing traditional metals. PEEK offers an exceptional strength-to-weight ratio and excellent chemical resistance, making it a popular choice for medical and aerospace components. However, for applications exposed to high cyclic loads or severe impact conditions, traditional materials such as 4140 steel and Grade 5 titanium are often preferred due to their superior fracture toughness and long-term durability."
+    },
+    {
+      "hash": "381af2179af6188136a458c3baa8093e2f972481",
+      "heading": "Sanding and post-processing turned components",
+      "level": "h2",
+      "text": "Sanding and post-processing turned components While a CNC lathe can produce excellent surface finishes, certain applications require an injection-molded quality. For plastic turned parts, you can achieve this by applying a progressive 5-step sanding guide. Start with a 150-grit abrasive to remove the initial tool marks, then step through 400, 600, and 1000 grit using wet sanding techniques to manage heat. Finishing with a 2000-grit polish and a buffing compound will transform a machined surface into a high-gloss, optically clear, or perfectly smooth finish, suitable for consumer-facing products or high-precision seals."
+    },
+    {
+      "hash": "a0e8785e4b9af601c209af0ba04f6cb21e833813",
+      "heading": "Get started",
+      "level": "h2",
+      "text": "Get started Ready to optimize your part for CNC turning? Upload your design for a free, instant quote with material recommendations and DFM feedback."
+    },
+    {
+      "hash": "02842b08377539be654ab1179cf41e1d947c4424",
+      "heading": "Frequently asked questions",
+      "level": "h2",
+      "text": "Frequently asked questions Frequently asked questions"
+    },
+    {
+      "hash": "0b8960e6703e15c34baea27c2fcefa054e1117d1",
+      "heading": "What materials can be used in CNC turning?",
+      "level": "h3",
+      "text": "What materials can be used in CNC turning? CNC turning can work with a variety of materials, including metals such as aluminum, steel, brass, and titanium, as well as plastics such as acrylic, nylon, and polycarbonate."
+    },
+    {
+      "hash": "0f2c9b77d175545dd208b8fffd3f6579117041f1",
+      "heading": "What are the advantages of CNC turning?",
+      "level": "h3",
+      "text": "What are the advantages of CNC turning? CNC turning offers benefits such as high precision, repeatability, versatility for complex shapes, shorter production cycles, as well as the ability to work with both small and large quantities of parts."
+    },
+    {
+      "hash": "a41c9358e1dfb80e54041b5a38c5f69842aa23b5",
+      "heading": "What are the typical applications of CNC turning?",
+      "level": "h3",
+      "text": "What are the typical applications of CNC turning? CNC turning is commonly used in industries such as automotive, aerospace, electronics, medical devices, and general manufacturing for producing parts such as shafts, bushings, connectors, valves, and fasteners."
+    },
+    {
+      "hash": "49de67073a8331c14d3429d3242cc67b093bb2a0",
+      "heading": "How long does a typical CNC turning process take?",
+      "level": "h3",
+      "text": "How long does a typical CNC turning process take? The time required for CNC turning depends on factors such as the complexity of the part, material type, tolerances, and the machining operations involved, but it can range from minutes to hours. For time-sensitive projects, select the local manufacturing option with lead times from 5 days."
+    },
+    {
+      "hash": "5540a42df4e4de38fe59e1edcea643f0ef6c6d38",
+      "heading": "Is CNC turning suitable for prototypes or large-scale production?",
+      "level": "h3",
+      "text": "Is CNC turning suitable for prototypes or large-scale production? CNC turning is suitable for both prototypes and large-scale production. It offers cost-effective production for large quantities, while also allowing for efficient machining of prototypes with quick setup and programming adjustments."
+    }
+  ],
+  "sitemap_lastmod": "2026-06-22T14:07:48+00:00",
+  "status": 200,
+  "structure_hash": "0222a4abf4731590813c6e9d5147b8a7f30d50de",
+  "text_excerpt": "The fundamentals of the turning manufacturing process At its core, the turning manufacturing process relies on a simple yet powerful mechanical contrast: the workpiece rotates at high speeds while a stationary cutting tool moves linearly alongside its surface. This setup is governed by the principle of rigidity. To achieve micron-level precision, the machine must maintain extreme structural stability to resist the cutting forces that attempt to deflect the tool. The success of the operation often hinges on the material's shear modulus and its ability to resist deformation when the tool's edge slices through the surface. A high-rigidity setup ensures that these forces remain controlled, preventing vibrations (chatter) which could ruin the surface finish or dimensional accuracy of the cylindrical part. What is the difference between CNC turning and CNC milling? In the CNC turning process, the workpiece spins around an axis and the machine tool moves in a linear action. This enables cylindrical parts to be produced, as well as operations such as cutting, drilling, turning and threading. It also uses an SPTT or a single-point turning tool which is in direct contact with the workpiece...",
+  "text_hash": "69adc2778685a5b82a14f39641b06fd74c204b4d",
+  "title": "What is CNC turning: Definition, process, and design tips | Protolabs Network",
+  "url": "https://www.hubs.com/knowledge-base/what-is-cnc-turning"
+}

@@ -1,0 +1,383 @@
+{
+  "canonical": "https://www.hubs.com/knowledge-base/material-ductility",
+  "category": "content",
+  "competitor": "Hubs",
+  "ctas": [
+    {
+      "href": "https://www.hubs.com/manufacture",
+      "text": "Upload your design"
+    }
+  ],
+  "discovered_via": "sitemap",
+  "fetched_at": "2026-08-17T03:42:30+00:00",
+  "final_url": "https://www.hubs.com/knowledge-base/material-ductility",
+  "first_seen_at": "2026-08-17T03:42:30+00:00",
+  "h1": "",
+  "headings": [
+    {
+      "level": "h2",
+      "text": "Key takeaways"
+    },
+    {
+      "level": "h2",
+      "text": "What is ductility in materials?"
+    },
+    {
+      "level": "h3",
+      "text": "How to calculate ductility"
+    },
+    {
+      "level": "h2",
+      "text": "Factors that affect material ductility"
+    },
+    {
+      "level": "h2",
+      "text": "Temperature effects"
+    },
+    {
+      "level": "h2",
+      "text": "Material composition and microstructure"
+    },
+    {
+      "level": "h2",
+      "text": "Grain size"
+    },
+    {
+      "level": "h2",
+      "text": "Crystal structure"
+    },
+    {
+      "level": "h2",
+      "text": "Strain rate and loading conditions"
+    },
+    {
+      "level": "h2",
+      "text": "Examples of high and low ductility materials"
+    },
+    {
+      "level": "h2",
+      "text": "High ductility materials"
+    },
+    {
+      "level": "h2",
+      "text": "Low ductility materials"
+    },
+    {
+      "level": "h2",
+      "text": "Most to least ductile materials"
+    },
+    {
+      "level": "h2",
+      "text": "Ductility in engineering and part design"
+    },
+    {
+      "level": "h2",
+      "text": "Ductility vs. toughness"
+    },
+    {
+      "level": "h2",
+      "text": "Designing for plastic deformation"
+    },
+    {
+      "level": "h2",
+      "text": "Applications that rely on ductility"
+    },
+    {
+      "level": "h3",
+      "text": "Electrical wiring"
+    },
+    {
+      "level": "h3",
+      "text": "Metal forming"
+    },
+    {
+      "level": "h3",
+      "text": "Structural engineering"
+    },
+    {
+      "level": "h3",
+      "text": "Additive manufacturing"
+    },
+    {
+      "level": "h2",
+      "text": "Why ductility matters in material selection"
+    },
+    {
+      "level": "h2",
+      "text": "Get started"
+    },
+    {
+      "level": "h2",
+      "text": "Frequently asked questions"
+    },
+    {
+      "level": "h3",
+      "text": "What is the ductile-to-brittle transition temperature (DBTT)?"
+    },
+    {
+      "level": "h3",
+      "text": "What factors affect ductility?"
+    },
+    {
+      "level": "h3",
+      "text": "How does temperature affect ductility?"
+    },
+    {
+      "level": "h3",
+      "text": "How does grain size affect ductility?"
+    },
+    {
+      "level": "h3",
+      "text": "Which materials have low ductility?"
+    },
+    {
+      "level": "h3",
+      "text": "What is the difference between ductility and toughness?"
+    },
+    {
+      "level": "h3",
+      "text": "Can ductility be increased or controlled?"
+    },
+    {
+      "level": "h3",
+      "text": "Why do metals generally have higher ductility than ceramics?"
+    },
+    {
+      "level": "h3",
+      "text": "How does ductility affect part design?"
+    },
+    {
+      "level": "h3",
+      "text": "What is necking in ductile materials?"
+    }
+  ],
+  "images": [
+    {
+      "alt": "",
+      "src": "/images/trans.gif"
+    },
+    {
+      "alt": "CNC machining, 3D printing and sheet metal fabrication parts",
+      "src": "/images/trans.gif"
+    }
+  ],
+  "meta_description": "Learn what ductility means, how it affects material deformation, and why it matters when selecting materials and designing reliable parts.",
+  "modified_at": "",
+  "monitored_text": "Key takeaways Ductility describes how much a material can deform under tensile stress before fracturing. Highly ductile materials can stretch or bend significantly, while brittle materials fracture with little deformation. Ductility is influenced by factors such as temperature , microstructure, grain size, crystal structure, and strain rate. Understanding ductility helps engineers to design parts that deform safely rather than failing suddenly. Ductility is a fundamental mechanical property that describes how much a material can stretch or deform under tensile stress before it breaks. Materials with high ductility can undergo substantial plastic deformation before fracture, whereas materials with low ductility fracture after only limited deformation. Material ductility influences how materials deform during forming processes and how they respond to loads in real-world applications. Highly ductile materials can bend or stretch without breaking, whereas brittle materials fracture more easily. One notable example of a ductile material is copper wire, as it can be drawn into long thin strands without breaking. By contrast, materials such as glass or ceramics fracture with very little deformation. What is ductility in materials? Ductility refers to the ability of a material to undergo permanent plastic deformation before fracturing when subjected to tensile stress. This property allows many metals to be formed into useful shapes through manufacturing processes. Ductility is commonly measured using a tensile test, where a material specimen is pulled until it fractures. Engineers typically quantify material ductility using two values: Percent elongation: how much the material length increases before fracture Reduction of area: how much the cross-section shrinks at the fracture point Higher values generally indicate greater ductility. During a tensile test, ductile materials typically exhibit necking, where the cross-section of the specimen begins to locally reduce before fracture. This localized plastic deformation is an indicator of ductile behavior. How to calculate ductility Percent elongation = (Lf - L0) / L0 × 100 L0 = original length of the specimen Lf = final length after fracture Factors that affect material ductility Important factors that influence material ductility include temperature, material composition, microstructure, grain size, crystal structure, and loading conditions. Understanding these variables helps engineers predict how materials will behave during manufacturing and in service. Temperature effects Temperature has a strong influence on ductility, particularly in metals. In general: Higher temperatures increase ductility, as atoms can move more easily within the material’s crystal lattice. Lower temperatures reduce ductility, making fracture more likely. A key concept in materials engineering is the ductile-to-brittle transition temperature (DBTT). This is the temperature at which a material changes from behaving in a ductile manner to behaving in a brittle manner. Below the DBTT, materials can fracture suddenly with very little plastic deformation. Above this temperature, they tend to deform more before fracturing. The ductile-to-brittle transition temperature is often determined using impact tests such as the Charpy impact test, which measures how much energy a material can absorb during fracture. The ductile-to-brittle transition is particularly important for body-centered cubic (BCC) metals, such as certain steels. Engineers must account for this effect when designing structures used in cold environments, such as pipelines, ships, or bridges. Material composition and microstructure The chemical composition and internal microstructure of a material also affect its ductility. Adding alloying elements or impurities can change the microstructure of a metal, which in turn affects how it deforms. Impurities may introduce defects or inclusions in the material that act as stress concentrators, which can promote crack initiation and reduce ductility. Alloying elements may also modify grain size, crystal structure, and mechanical strength. In many cases, increasing strength through alloying reduces ductility, meaning engineers must carefully balance these properties. These effects are closely related to dislocation motion within the crystal lattice. Plastic deformation occurs when dislocations move through the material. Factors that restrict dislocation movement typically increase strength but reduce ductility. Manufacturing processes such as heat treatment are commonly used to adjust these properties. Learn more in our guide to heat treatments and tempers . Grain size Grain size also plays an important role in determining material ductility. Materials with smaller grains contain a larger number of grain boundaries. These grain boundaries can hinder the movement of dislocations, increasing strength and hardness but often reducing ductility. Materials with larger grains tend to have fewer grain boundaries, allowing dislocations to move more easily. As a result, larger grain sizes generally increase ductility but reduce strength. Engineers often control grain size through heat treatment and thermomechanical processing to achieve the desired balance between strength and ductility. Crystal structure The crystal structure of a material strongly influences its ductility. Different crystal structures provide different numbers of slip systems, which are the mechanisms that allow atomic layers to move relative to one another during plastic deformation. For instance: Face-centered cubic (FCC) metals such as aluminum and copper tend to be highly ductile because they have many active slip systems. FCC metals typically have 12 independent slip systems, allowing dislocations to move easily in multiple directions. Body-centered cubic (BCC) metals, including some steels, can be less ductile and may show ductile-to-brittle transitions. Hexagonal close-packed (HCP) metals, such as magnesium, typically have fewer slip systems and therefore lower ductility. Strain rate and loading conditions The rate at which stress is applied to a material also affects its ductility. Slow loading rates tend to allow materials to deform more before fracturing. High strain rates, such as during impacts or sudden loads, may reduce ductility and cause brittle failure. At very high strain rates, there may be insufficient time for dislocations to move and accommodate plastic deformation, which causes materials to be more brittle. This is particularly relevant in applications where parts experience dynamic loads, vibration, or impacts. Examples of high and low ductility materials Different materials exhibit different levels of ductility. Metals generally exhibit higher ductility because metallic bonding allows atomic planes to slide past each other without immediately causing fracture. High ductility materials Common examples of ductile materials include: Copper Aluminum Gold Low-carbon steels These materials can undergo significant plastic deformation before breaking. Because of their high ductility, they are commonly used in forming processes such as wire drawing or sheet metal forming. Low ductility materials Materials with low ductility are more brittle and fracture with little deformation. Examples of these include: Cast iron Glass Ceramics Some hardened steels Although these materials may have high strength or hardness, they cannot tolerate large tensile deformations before failure. Most to least ductile materials Material Relative ductility Crystal structure Notes Gold Very high FCC Extremely ductile Copper Very high FCC Used for wiring Aluminum High FCC Good formability Low-carbon steel Moderate–high BCC Structural use Magnesium Low–moderate HCP Limited ductility Cast iron Low — Brittle under tension Ceramics Very low — Minimal deformation Glass Extremely low — Highly brittle Ductility in engineering and part design In engineering design, ductility is valuable as ductile materials typically deform before failing, which provides a visible warning before catastrophic fracture occurs. This behavior improves safety in structures and mechanical systems. Ductility also influences manufacturing processes. Materials with high ductility are easier to shape using processes such as sheet metal forming, bending, and drawing because they can deform without cracking. When selecting materials for manufacturing, engineers evaluate properties such as strength, hardness, toughness, and ductility. Our guide to selecting the right materials for CNC machining explains how these properties influence material selection. Ductility vs. toughness Although these are related concepts, ductility and toughness are different material properties. Ductility describes how much a material can deform before breaking, while toughness describes how much energy a material can absorb before fracturing. Many engineering materials aim to balance these properties so that components can both deform and absorb energy without sudden failure. Ductility is also often compared with malleability, which describes a material’s ability to deform under compressive stress. Learn more about this in our guide to malleability explained . Designing for plastic deformation In some engineering applications, components are intentionally designed to undergo controlled plastic deformation as opposed to brittle failure. This approach improves safety and reliability in systems where sudden failure could be dangerous. Examples include: Automotive crumple zones, which deform during collisions to absorb impact energy Structural beams designed to bend under overload Pressure vessels that deform before rupture Selecting materials with the right amount of ductility allows engineers to design components that deform predictably instead of fracturing suddenly. Applications that rely on ductility Many industries rely on materials with adequate ductility. Electrical wiring Copper and aluminum are widely used for electrical wiring because their high ductility allows them to be drawn into thin wires without breaking. Metal forming Manufacturing processes such as sheet metal forming require materials with enough ductility to change shape without cracking. Learn more about sheet metal fabrication in our design guide . Structural engineering In structures such as bridges and buildings, materials with adequate ductility can absorb stress and deformation instead of failing suddenly. Additive manufacturing Material ductility can also affect performance in 3D-printed parts. For example, ABS is often chosen for functional prints because it offers greater ductility than PLA. Learn more in our comparison of PLA vs ABS for 3D printing. Why ductility matters in material selection When selecting materials for engineering or manufacturing applications, ductility is an important consideration alongside strength, hardness, and toughness. Materials with appropriate ductility can: Prevent sudden fracture Enable forming and shaping processes Improve safety in structural components Increase durability under real-world loads Understanding material ductility helps engineers, designers, and manufacturers to select materials that perform reliably across both manufacturing processes and real-world applications. Get started Ready to select a material with the right ductility for your part? Upload your design for a free, instant quote with material recommendations and DFM feedback. Subscribe Get the latest manufacturing news delivered to your mailbox. Sign up for our newsletter Sign me up Please enter a valid email address. Leave this field empty Thanks! You're now subscribed to our newsletter. Frequently asked questions What is the ductile-to-brittle transition temperature (DBTT)? The ductile-to-brittle transition temperature (DBTT) is the temperature at which a material changes from ductile behavior to brittle behavior. Below the DBTT, materials fracture with little plastic deformation. Above it, they deform more before breaking. This is especially important for materials like steel used in cold environments. What factors affect ductility? Several factors influence material ductility, including: Temperature Material composition and alloying elements Grain size and microstructure Crystal structure Strain rate and loading conditions These factors affect how easily dislocations move, which controls plastic deformation. How does temperature affect ductility? Temperature significantly impacts ductility: Higher temperatures increase ductility by allowing atoms to move more easily Lower temperatures reduce ductility and increase the likelihood of brittle fracture Some materials also exhibit a ductile-to-brittle transition at low temperatures. How does grain size affect ductility? Grain size affects how easily a material can deform: Larger grains generally increase ductility because dislocations can move more freely Smaller grains increase strength but often reduce ductility due to more grain boundaries Engineers adjust grain size through heat treatment and processing. Which materials have low ductility? Materials with low ductility tend to fracture with little deformation. Examples include: Cast iron Ceramics Glass Some hardened steels These materials are often strong but brittle under tensile stress. What is the difference between ductility and toughness? Ductility measures how much a material can deform before breaking Toughness measures how much energy a material can absorb before fracture On a stress–strain curve, ductility relates to the amount of plastic strain, while toughness corresponds to the area under the curve. Can ductility be increased or controlled? Yes, ductility can be adjusted through: Heat treatment Alloying Controlling grain size Thermomechanical processing However, increasing ductility often reduces strength, so engineers must balance these properties. Why do metals generally have higher ductility than ceramics? Metals have higher ductility because of metallic bonding, which allows atomic layers to slide past each other without causing immediate fracture. Ceramics, by contrast, have strong directional bonds that limit atomic movement, making them more brittle. How does ductility affect part design? Ductility allows engineers to design parts that deform predictably instead of failing suddenly. This is especially important in safety-critical applications such as: Automotive structures Pressure vessels Structural components Designing for ductility improves reliability and reduces failure risk. What is necking in ductile materials? Necking is a localized reduction in a cross-sectional area that occurs during a tensile test before fracture. It is a key indicator of ductile behavior and shows that the material is undergoing significant plastic deformation before failure.",
+  "published_at": "",
+  "requested_url": "https://www.hubs.com/knowledge-base/material-ductility",
+  "schema_version": 2,
+  "sections": [
+    {
+      "hash": "32c495be8ab67691592006a3c4706e37c63840a3",
+      "heading": "Key takeaways",
+      "level": "h2",
+      "text": "Key takeaways Ductility describes how much a material can deform under tensile stress before fracturing. Highly ductile materials can stretch or bend significantly, while brittle materials fracture with little deformation. Ductility is influenced by factors such as temperature , microstructure, grain size, crystal structure, and strain rate. Understanding ductility helps engineers to design parts that deform safely rather than failing suddenly. Ductility is a fundamental mechanical property that describes how much a material can stretch or deform under tensile stress before it breaks. Materials with high ductility can undergo substantial plastic deformation before fracture, whereas materials with low ductility fracture after only limited deformation. Material ductility influences how materials deform during forming processes and how they respond to loads in real-world applications. Highly ductile materials can bend or stretch without breaking, whereas brittle materials fracture more easily. One notable example of a ductile material is copper wire, as it can be drawn into long thin strands without breaking. By contrast, materials such as glass or ceramics fracture with very little..."
+    },
+    {
+      "hash": "7439c6401e91622b24af6ce6105efd8ffda62603",
+      "heading": "What is ductility in materials?",
+      "level": "h2",
+      "text": "What is ductility in materials? Ductility refers to the ability of a material to undergo permanent plastic deformation before fracturing when subjected to tensile stress. This property allows many metals to be formed into useful shapes through manufacturing processes. Ductility is commonly measured using a tensile test, where a material specimen is pulled until it fractures. Engineers typically quantify material ductility using two values: Percent elongation: how much the material length increases before fracture Reduction of area: how much the cross-section shrinks at the fracture point Higher values generally indicate greater ductility. During a tensile test, ductile materials typically exhibit necking, where the cross-section of the specimen begins to locally reduce before fracture. This localized plastic deformation is an indicator of ductile behavior."
+    },
+    {
+      "hash": "ab7f68be58960a69e295233cac45c57270793865",
+      "heading": "How to calculate ductility",
+      "level": "h3",
+      "text": "How to calculate ductility Percent elongation = (Lf - L0) / L0 × 100 L0 = original length of the specimen Lf = final length after fracture"
+    },
+    {
+      "hash": "44f5afce24414e1a7a2124b20923fc61d1ca7b69",
+      "heading": "Factors that affect material ductility",
+      "level": "h2",
+      "text": "Factors that affect material ductility Important factors that influence material ductility include temperature, material composition, microstructure, grain size, crystal structure, and loading conditions. Understanding these variables helps engineers predict how materials will behave during manufacturing and in service."
+    },
+    {
+      "hash": "163ded92d2410ab53272c3a28e6db504159c2064",
+      "heading": "Temperature effects",
+      "level": "h2",
+      "text": "Temperature effects Temperature has a strong influence on ductility, particularly in metals. In general: Higher temperatures increase ductility, as atoms can move more easily within the material’s crystal lattice. Lower temperatures reduce ductility, making fracture more likely. A key concept in materials engineering is the ductile-to-brittle transition temperature (DBTT). This is the temperature at which a material changes from behaving in a ductile manner to behaving in a brittle manner. Below the DBTT, materials can fracture suddenly with very little plastic deformation. Above this temperature, they tend to deform more before fracturing. The ductile-to-brittle transition temperature is often determined using impact tests such as the Charpy impact test, which measures how much energy a material can absorb during fracture. The ductile-to-brittle transition is particularly important for body-centered cubic (BCC) metals, such as certain steels. Engineers must account for this effect when designing structures used in cold environments, such as pipelines, ships, or bridges."
+    },
+    {
+      "hash": "def62c9d55720114303c4766c1c9a700e6dd8e10",
+      "heading": "Material composition and microstructure",
+      "level": "h2",
+      "text": "Material composition and microstructure The chemical composition and internal microstructure of a material also affect its ductility. Adding alloying elements or impurities can change the microstructure of a metal, which in turn affects how it deforms. Impurities may introduce defects or inclusions in the material that act as stress concentrators, which can promote crack initiation and reduce ductility. Alloying elements may also modify grain size, crystal structure, and mechanical strength. In many cases, increasing strength through alloying reduces ductility, meaning engineers must carefully balance these properties. These effects are closely related to dislocation motion within the crystal lattice. Plastic deformation occurs when dislocations move through the material. Factors that restrict dislocation movement typically increase strength but reduce ductility. Manufacturing processes such as heat treatment are commonly used to adjust these properties. Learn more in our guide to heat treatments and tempers ."
+    },
+    {
+      "hash": "23c9c88f87c25c8620c17b908e22be30373cdc9f",
+      "heading": "Grain size",
+      "level": "h2",
+      "text": "Grain size Grain size also plays an important role in determining material ductility. Materials with smaller grains contain a larger number of grain boundaries. These grain boundaries can hinder the movement of dislocations, increasing strength and hardness but often reducing ductility. Materials with larger grains tend to have fewer grain boundaries, allowing dislocations to move more easily. As a result, larger grain sizes generally increase ductility but reduce strength. Engineers often control grain size through heat treatment and thermomechanical processing to achieve the desired balance between strength and ductility."
+    },
+    {
+      "hash": "13760f6c620a8f9ce8bf23180b74f4677ca85526",
+      "heading": "Crystal structure",
+      "level": "h2",
+      "text": "Crystal structure The crystal structure of a material strongly influences its ductility. Different crystal structures provide different numbers of slip systems, which are the mechanisms that allow atomic layers to move relative to one another during plastic deformation. For instance: Face-centered cubic (FCC) metals such as aluminum and copper tend to be highly ductile because they have many active slip systems. FCC metals typically have 12 independent slip systems, allowing dislocations to move easily in multiple directions. Body-centered cubic (BCC) metals, including some steels, can be less ductile and may show ductile-to-brittle transitions. Hexagonal close-packed (HCP) metals, such as magnesium, typically have fewer slip systems and therefore lower ductility."
+    },
+    {
+      "hash": "e7bea4eede749e77d14240c8a464d08ef0ead5a8",
+      "heading": "Strain rate and loading conditions",
+      "level": "h2",
+      "text": "Strain rate and loading conditions The rate at which stress is applied to a material also affects its ductility. Slow loading rates tend to allow materials to deform more before fracturing. High strain rates, such as during impacts or sudden loads, may reduce ductility and cause brittle failure. At very high strain rates, there may be insufficient time for dislocations to move and accommodate plastic deformation, which causes materials to be more brittle. This is particularly relevant in applications where parts experience dynamic loads, vibration, or impacts."
+    },
+    {
+      "hash": "4084d80afa96e85937467a9e143f5b6849148d2f",
+      "heading": "Examples of high and low ductility materials",
+      "level": "h2",
+      "text": "Examples of high and low ductility materials Different materials exhibit different levels of ductility. Metals generally exhibit higher ductility because metallic bonding allows atomic planes to slide past each other without immediately causing fracture."
+    },
+    {
+      "hash": "816219476c805318b11fdcb7230faae9cc673f0f",
+      "heading": "High ductility materials",
+      "level": "h2",
+      "text": "High ductility materials Common examples of ductile materials include: Copper Aluminum Gold Low-carbon steels These materials can undergo significant plastic deformation before breaking. Because of their high ductility, they are commonly used in forming processes such as wire drawing or sheet metal forming."
+    },
+    {
+      "hash": "f20bcea85cf07a136f2d954b5ff28df0245f622d",
+      "heading": "Low ductility materials",
+      "level": "h2",
+      "text": "Low ductility materials Materials with low ductility are more brittle and fracture with little deformation. Examples of these include: Cast iron Glass Ceramics Some hardened steels Although these materials may have high strength or hardness, they cannot tolerate large tensile deformations before failure."
+    },
+    {
+      "hash": "a072d6b15afcfcb50efdd1de1b5a799c8ad25dbf",
+      "heading": "Most to least ductile materials",
+      "level": "h2",
+      "text": "Most to least ductile materials"
+    },
+    {
+      "hash": "e984859987a2f3ce5520bd7278593ef4f6836af5",
+      "heading": "Ductility in engineering and part design",
+      "level": "h2",
+      "text": "Ductility in engineering and part design In engineering design, ductility is valuable as ductile materials typically deform before failing, which provides a visible warning before catastrophic fracture occurs. This behavior improves safety in structures and mechanical systems. Ductility also influences manufacturing processes. Materials with high ductility are easier to shape using processes such as sheet metal forming, bending, and drawing because they can deform without cracking. When selecting materials for manufacturing, engineers evaluate properties such as strength, hardness, toughness, and ductility. Our guide to selecting the right materials for CNC machining explains how these properties influence material selection."
+    },
+    {
+      "hash": "a8301437f238d40fdd1526a74c98931e7c8c2125",
+      "heading": "Ductility vs. toughness",
+      "level": "h2",
+      "text": "Ductility vs. toughness Although these are related concepts, ductility and toughness are different material properties. Ductility describes how much a material can deform before breaking, while toughness describes how much energy a material can absorb before fracturing. Many engineering materials aim to balance these properties so that components can both deform and absorb energy without sudden failure. Ductility is also often compared with malleability, which describes a material’s ability to deform under compressive stress. Learn more about this in our guide to malleability explained ."
+    },
+    {
+      "hash": "e9c4fb94effb7ca87aecd18d1a77d0de356292e6",
+      "heading": "Designing for plastic deformation",
+      "level": "h2",
+      "text": "Designing for plastic deformation In some engineering applications, components are intentionally designed to undergo controlled plastic deformation as opposed to brittle failure. This approach improves safety and reliability in systems where sudden failure could be dangerous. Examples include: Automotive crumple zones, which deform during collisions to absorb impact energy Structural beams designed to bend under overload Pressure vessels that deform before rupture Selecting materials with the right amount of ductility allows engineers to design components that deform predictably instead of fracturing suddenly."
+    },
+    {
+      "hash": "e85a4d4f455cc855423102e0b7f0cbdcc09c5718",
+      "heading": "Applications that rely on ductility",
+      "level": "h2",
+      "text": "Applications that rely on ductility Many industries rely on materials with adequate ductility."
+    },
+    {
+      "hash": "07c2e7d7f0c0e3fd961c30993b59e683ab8d6382",
+      "heading": "Electrical wiring",
+      "level": "h3",
+      "text": "Electrical wiring Copper and aluminum are widely used for electrical wiring because their high ductility allows them to be drawn into thin wires without breaking."
+    },
+    {
+      "hash": "b13a1c79551c07d61cb30cf8768f9e25f3797015",
+      "heading": "Metal forming",
+      "level": "h3",
+      "text": "Metal forming Manufacturing processes such as sheet metal forming require materials with enough ductility to change shape without cracking. Learn more about sheet metal fabrication in our design guide ."
+    },
+    {
+      "hash": "a9406c4cc631c9085593fd15c6d0209b2d5b2dbe",
+      "heading": "Structural engineering",
+      "level": "h3",
+      "text": "Structural engineering In structures such as bridges and buildings, materials with adequate ductility can absorb stress and deformation instead of failing suddenly."
+    },
+    {
+      "hash": "10acad7c16f3c186313258417113b61267ab3cd3",
+      "heading": "Additive manufacturing",
+      "level": "h3",
+      "text": "Additive manufacturing Material ductility can also affect performance in 3D-printed parts. For example, ABS is often chosen for functional prints because it offers greater ductility than PLA. Learn more in our comparison of PLA vs ABS for 3D printing."
+    },
+    {
+      "hash": "d4a87a08f921ec2858287f0d977b2a4c4afae4a9",
+      "heading": "Why ductility matters in material selection",
+      "level": "h2",
+      "text": "Why ductility matters in material selection When selecting materials for engineering or manufacturing applications, ductility is an important consideration alongside strength, hardness, and toughness. Materials with appropriate ductility can: Prevent sudden fracture Enable forming and shaping processes Improve safety in structural components Increase durability under real-world loads Understanding material ductility helps engineers, designers, and manufacturers to select materials that perform reliably across both manufacturing processes and real-world applications."
+    },
+    {
+      "hash": "696ca294553371743dfa62a2a8f4d56deb9928ef",
+      "heading": "Get started",
+      "level": "h2",
+      "text": "Get started Ready to select a material with the right ductility for your part? Upload your design for a free, instant quote with material recommendations and DFM feedback."
+    },
+    {
+      "hash": "02842b08377539be654ab1179cf41e1d947c4424",
+      "heading": "Frequently asked questions",
+      "level": "h2",
+      "text": "Frequently asked questions Frequently asked questions"
+    },
+    {
+      "hash": "b93a7bb78a869224b0b159e42ee9db29ba50a3f3",
+      "heading": "What is the ductile-to-brittle transition temperature (DBTT)?",
+      "level": "h3",
+      "text": "What is the ductile-to-brittle transition temperature (DBTT)? The ductile-to-brittle transition temperature (DBTT) is the temperature at which a material changes from ductile behavior to brittle behavior. Below the DBTT, materials fracture with little plastic deformation. Above it, they deform more before breaking. This is especially important for materials like steel used in cold environments."
+    },
+    {
+      "hash": "94e07579c319ccc7b82683c509b520b2ae1f34dc",
+      "heading": "What factors affect ductility?",
+      "level": "h3",
+      "text": "What factors affect ductility? Several factors influence material ductility, including: Temperature Material composition and alloying elements Grain size and microstructure Crystal structure Strain rate and loading conditions These factors affect how easily dislocations move, which controls plastic deformation."
+    },
+    {
+      "hash": "e3d7be93da55d5b3c9e1f8de67814f1e1cf8c6c2",
+      "heading": "How does temperature affect ductility?",
+      "level": "h3",
+      "text": "How does temperature affect ductility? Temperature significantly impacts ductility: Higher temperatures increase ductility by allowing atoms to move more easily Lower temperatures reduce ductility and increase the likelihood of brittle fracture Some materials also exhibit a ductile-to-brittle transition at low temperatures."
+    },
+    {
+      "hash": "01787b367bf1b6f0a4d00b8f51dd2a780a89bf07",
+      "heading": "How does grain size affect ductility?",
+      "level": "h3",
+      "text": "How does grain size affect ductility? Grain size affects how easily a material can deform: Larger grains generally increase ductility because dislocations can move more freely Smaller grains increase strength but often reduce ductility due to more grain boundaries Engineers adjust grain size through heat treatment and processing."
+    },
+    {
+      "hash": "7421a15a1b12b93ad59d306cd372589cc1232df2",
+      "heading": "Which materials have low ductility?",
+      "level": "h3",
+      "text": "Which materials have low ductility? Materials with low ductility tend to fracture with little deformation. Examples include: Cast iron Ceramics Glass Some hardened steels These materials are often strong but brittle under tensile stress."
+    },
+    {
+      "hash": "197a1b5356136a8b671d99fd1d1a1e38c97fd259",
+      "heading": "What is the difference between ductility and toughness?",
+      "level": "h3",
+      "text": "What is the difference between ductility and toughness? Ductility measures how much a material can deform before breaking Toughness measures how much energy a material can absorb before fracture On a stress–strain curve, ductility relates to the amount of plastic strain, while toughness corresponds to the area under the curve."
+    },
+    {
+      "hash": "981ace45173a9f2ce2bcad37abb27bf8dce3201b",
+      "heading": "Can ductility be increased or controlled?",
+      "level": "h3",
+      "text": "Can ductility be increased or controlled? Yes, ductility can be adjusted through: Heat treatment Alloying Controlling grain size Thermomechanical processing However, increasing ductility often reduces strength, so engineers must balance these properties."
+    },
+    {
+      "hash": "451332640b306eb29ad07613eb4aba5ebd5eb0a2",
+      "heading": "Why do metals generally have higher ductility than ceramics?",
+      "level": "h3",
+      "text": "Why do metals generally have higher ductility than ceramics? Metals have higher ductility because of metallic bonding, which allows atomic layers to slide past each other without causing immediate fracture. Ceramics, by contrast, have strong directional bonds that limit atomic movement, making them more brittle."
+    },
+    {
+      "hash": "9efff50c93eff613e7d5822e65f42d06dd3541f2",
+      "heading": "How does ductility affect part design?",
+      "level": "h3",
+      "text": "How does ductility affect part design? Ductility allows engineers to design parts that deform predictably instead of failing suddenly. This is especially important in safety-critical applications such as: Automotive structures Pressure vessels Structural components Designing for ductility improves reliability and reduces failure risk."
+    },
+    {
+      "hash": "0adf7915dfce8c58ac129843ecd3a338a944a5d8",
+      "heading": "What is necking in ductile materials?",
+      "level": "h3",
+      "text": "What is necking in ductile materials? Necking is a localized reduction in a cross-sectional area that occurs during a tensile test before fracture. It is a key indicator of ductile behavior and shows that the material is undergoing significant plastic deformation before failure."
+    }
+  ],
+  "sitemap_lastmod": "2026-04-02T09:24:11+00:00",
+  "status": 200,
+  "structure_hash": "c5d2f3c2019b8b870352d12c676ba43959ea06af",
+  "text_excerpt": "Key takeaways Ductility describes how much a material can deform under tensile stress before fracturing. Highly ductile materials can stretch or bend significantly, while brittle materials fracture with little deformation. Ductility is influenced by factors such as temperature , microstructure, grain size, crystal structure, and strain rate. Understanding ductility helps engineers to design parts that deform safely rather than failing suddenly. Ductility is a fundamental mechanical property that describes how much a material can stretch or deform under tensile stress before it breaks. Materials with high ductility can undergo substantial plastic deformation before fracture, whereas materials with low ductility fracture after only limited deformation. Material ductility influences how materials deform during forming processes and how they respond to loads in real-world applications. Highly ductile materials can bend or stretch without breaking, whereas brittle materials fracture more easily. One notable example of a ductile material is copper wire, as it can be drawn into long thin strands without breaking. By contrast, materials such as glass or ceramics fracture with very little...",
+  "text_hash": "e0e7f44d88502c9ea7e573f8ef78591f748e8485",
+  "title": "Material ductility | Protolabs Network",
+  "url": "https://www.hubs.com/knowledge-base/material-ductility"
+}

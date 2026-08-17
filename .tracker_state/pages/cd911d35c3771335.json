@@ -1,0 +1,127 @@
+{
+  "canonical": "https://www.protolabs.com/resources/blog/avoiding-sheet-metal-hardware-headaches",
+  "category": "content",
+  "competitor": "Protolabs",
+  "ctas": [
+    {
+      "href": "https://www.protolabs.com/ecom/get-a-quote",
+      "text": "Upload a Part"
+    }
+  ],
+  "discovered_via": "sitemap",
+  "fetched_at": "2026-08-17T03:48:51+00:00",
+  "final_url": "https://www.protolabs.com/resources/blog/avoiding-sheet-metal-hardware-headaches",
+  "first_seen_at": "2026-08-17T03:48:51+00:00",
+  "h1": "Avoiding Sheet Metal Hardware Headaches",
+  "headings": [
+    {
+      "level": "h1",
+      "text": "Avoiding Sheet Metal Hardware Headaches"
+    },
+    {
+      "level": "h3",
+      "text": "Incorporating Fasteners into Sheet Metal Parts"
+    },
+    {
+      "level": "h3",
+      "text": "The Special Case for Aluminum"
+    },
+    {
+      "level": "h3",
+      "text": "Dealing with Stainless Steel Fastener Supplies"
+    },
+    {
+      "level": "h3",
+      "text": "Hardware Installation Headaches"
+    },
+    {
+      "level": "h3",
+      "text": "Hardware, Installation, and Limitations"
+    }
+  ],
+  "images": [
+    {
+      "alt": "",
+      "src": "/images/Protolabs-mark-dark.jpg"
+    },
+    {
+      "alt": "Sheet metal parts",
+      "src": "/media/zntp1kxy/hardware-proximity.jpg"
+    },
+    {
+      "alt": "sheet metal design guide",
+      "src": "/media/qqip0hud/blog-_-dt-pdf-cta-293x200_sm-essentials-guide.png?width=293&height=200&v=1d87b42a97a9270"
+    },
+    {
+      "alt": "z frame design aid",
+      "src": "/media/3zymeum0/blog-_-dt-fulfillment-cta-z-frame-240x180.png?width=240&height=180&v=1d87a84eb2a7690"
+    },
+    {
+      "alt": "gaming console casing manufactured with sheet metal process",
+      "src": "/media/31jluksw/sm_7-ways-to-improve-parts_material-thickness.jpg?width=115&height=115&v=1da08d9fb538090"
+    },
+    {
+      "alt": "Plating and Other Finishing Considerations for CNC Machining and Sheet Metal",
+      "src": "/media/1021948/anodizing-900-400.jpg?width=115&height=115&v=1d6ea8aaab54080"
+    },
+    {
+      "alt": "hardware on sheet metal material",
+      "src": "/media/jlhnt5ip/sm_integrating-hardware.jpg?width=115&height=115&v=1da22a6e7e2d8d0"
+    },
+    {
+      "alt": "sheet metal quoting image",
+      "src": "/media/l24cnoo0/blog-_-dt-quoting-cta-400x310_sm-400x310-1.png?width=400&height=310&v=1d87b43e47aada0"
+    }
+  ],
+  "meta_description": "Incorporate hardware in sheet metal parts without difficulty",
+  "modified_at": "",
+  "monitored_text": "Tech Tips December 14, 2022 Avoiding Sheet Metal Hardware Headaches By Protolabs When you regularly design sheet metal parts inevitably you will have a need for permanently installed fasteners. For the purposes of this article, when we say fastener, we are specifically referring to the class of fasteners called clinch fasteners . Working with them can streamline your assembly, save you money, and make your designs more efficient. However, you may suffer some hardware headaches along the way. We want to save you from some of those hardware headaches to reduce iterations and help you come to a workable design sooner. Incorporating Fasteners into Sheet Metal Parts Why does the relationship between the fastener and material matter? Because of the way clinch fasteners are installed. When a fastener is pressed into the sheet, the material of that sheet flows around the material of the fastener to lock it in place. Video courtesy of PennEngineering. When you’re designing your part, take into consideration the hardness of the material you are working with. Generally steel sheets will accept hardened steel hardware (PEM’s default hardware material) Stainless steel will require hardened stainless hardware and aluminum can accept most hardware types though there are some special considerations specifically for aluminum. The Special Case for Aluminum On paper, aluminum seems like the easiest material to add hardware to, and in some respects it is. Technically, aluminum sheets can receive aluminum, steel, or stainless-steel hardware. That said, you may be surprised to see a deviation on your quote to use stainless or aluminum hardware when you have specified steel. Steel and aluminum have a galvanic relationship, which means when they contact each other one of the dissimilar metals will corrode at an alarming rate. This is made much worse when moisture, condensation, or immersion are introduced. Moreover, steel is not compatible with any aluminum plating, limiting the installation options and risking damage to the plating during hardware installation. Stainless steel is more inert than alloy steel and is less prone to galvanic corrosion. It can even be chromated, but not anodized. For these two reasons, we are likely to recommend stainless steel or aluminum hardware for aluminum parts. To save yourself time in iteration and quoting, plan to use stainless or aluminum hardware for your aluminum parts. Dealing with Stainless Steel Fastener Supplies Stainless steel parts require hardened stainless hardware (For PEM hardware, the type-code will have a 4 or P, for example: SP-M4-2 or BSO4-832-6) not to be confused with standard stainless hardware. For PEM hardware, the type-code will have an added S, example: BSOS-832-6 or FHS-M3-8. The challenge here is availability. Much of the time the hardened stainless hardware is not available, either out of stock or not manufactured at all. Hardware types like tie downs (TD) right angle fasteners (RA) and SNAP TOP fasteners (SSC) are not available in hardened stainless at all. Hardware types like panel fasteners have extreme limitations in availability. Many are a custom order with a minimum buy of at least 5,000 pieces. When you are designing a stainless steel part, check the inventory availability on PEM’s website . When it comes to panel fasteners, we have one solid workaround available: flare-In fasteners. These are not clinch fasteners as the sheet material does not flow to hold the screw in place. Instead, these are placed under a countersunk hole, and a sleeve on the hardware is flared into the countersink, locking the hardware in place. Video courtesy of PennEngineering. Hardware Installation Headaches Once the right hardware is chosen, it’s time to think about where you are going to put it. There is a lot to consider here: How your components fit, whether it can be installed in the location you’re planning for, how close it is to other features and how that hardware is secured. It’s not as straightforward as modeling at the right size hole and dropping it into your assembly file. If you want to get it right, planning for these factors will make a difference in your iteration rate and quote accuracy. Hardware Proximity - We know from the video above that the material flows into the hardware to create the clinching action. If the hardware is too near an edge, hole, or cutout this flowing action will not occur, instead the material will bulge, flowing away from the hardware instead of securing it in the sheet. This value is found on PEM’s website, expressed as Min. Distance C/L to edge. Following this minimum distance will help ensure your hardware is securely clinched to the sheet. Proximity to an edge, hole, or cutout isn’t the only proximity headache to be aware of. Hardware near bends, form features or other pieces of hardware are equally problematic. Hardware near bends must be far enough from the bend to allow the form tooling to get around it, or there must be ample access to the hardware to squeeze it in after forming. Typically, the installation punch has a head of 0.5 in. (12.7mm) diameter. That should serve as your minimum proximity value, but in cases like near-bend proximity, a bit more space may be necessary. Think about your project systemically and consider what it’s going to take to manufacture the part. Consider design for manufacturing (DFM) when designing clinch fasteners into your part to reduce cost, shorten iteration time, and ensure a quality part comes from your manufacturer. Here are two parts with almost the same design: but one is good, and one is bad. The one of the left doesn't leave enough space close to the edges. A bit of vibration or a nasty jostle could cause that edge to break. The one on the right, though, offers plenty of space, making it more likely to survive manufacturing and last a long time. Tack Welding Hardware - We have come across a common misconception about clinch fasteners: The idea that if you can’t find an exact clinch fastener to fit your part geometry, material, or thickness, you can just tack weld the hardware you want and it will perform as intended. Unfortunately, that’s not the case. Weld nuts and studs are designed and attached differently than clinch fasteners. They are made of different material and are designed to withstand the extreme heat that welding produces. This is not true of clinch fasteners. They are not designed to take that kind of heat and are not tested as welded fasteners. There is no guarantee that the fasteners will stay in place or perform as intended. Don’t be surprised to see a deviation away from this practice and note that it’s not an option that we offer. Hardware, Installation, and Limitations Reducing cost and shortening iteration time is the name of the game. Working with clinch nuts may come with some headaches. We have discussed ways you can avoid those headaches and by extension reduce cost and revision time. Understanding hardware, the constraints around installation and some best practices around manufacturing will make your relationship with clinch fasteners a fruitful one. Don’t forget that PEM’s website has loads of information about specific hardware as well as the installation processes. They also have the all-important inventory look up tool, that will tell you whether the hardware you want to use is even available off the shelf. Our team is always available to help you use the right hardware for your parts so you complete your projects quickly, at a competitive cost, and done right the first time. If you have any issues getting your guide, click here to download . Sheet Metal Design Guide Download this guide to explore the processes involved in creating sheet metal parts along with how to design common features and select the right material. United States of America Afghanistan Åland Islands Albania Algeria American Samoa Andorra Angola Anguilla Antarctica Antigua and Barbuda Argentina Armenia Aruba Australia Austria Azerbaijan Bahamas Bahrain Bangladesh Barbados Belarus Belgium Belize Benin Bermuda Bhutan Bolivia, Plurinational State of Bonaire, Sint Eustatius and Saba Bosnia and Herzegovina Botswana Bouvet Island Brazil British Indian Ocean Territory Brunei Darussalam Bulgaria Burkina Faso Burundi Cambodia Cameroon Canada Cape Verde Cayman Islands Central African Republic Chad Chile China Christmas Island Cocos (Keeling) Islands Colombia Comoros Congo Congo, the Democratic Republic of the Cook Islands Costa Rica Côte d'Ivoire Croatia Cuba Curaçao Cyprus Czech Republic Denmark Djibouti Dominica Dominican Republic Ecuador Egypt El Salvador Equatorial Guinea Eritrea Estonia Ethiopia Falkland Islands (Malvinas) Faroe Islands Fiji Finland France French Guiana French Polynesia French Southern Territories Gabon Gambia Georgia Germany Ghana Gibraltar Greece Greenland Grenada Guadeloupe Guam Guatemala Guernsey Guinea Guinea-Bissau Guyana Haiti Heard Island and McDonald Islands Holy See (Vatican City State) Honduras Hong Kong Hungary Iceland India Indonesia Iran, Islamic Republic of Iraq Ireland Isle of Man Israel Italy Jamaica Japan Jersey Jordan Kazakhstan Kenya Kiribati Korea, Democratic People's Republic of Korea, Republic of Kuwait Kyrgyzstan Lao People's Democratic Republic Latvia Lebanon Lesotho Liberia Libya Liechtenstein Lithuania Luxembourg Macao Macedonia, the Former Yugoslav Republic of Madagascar Malawi Malaysia Maldives Mali Malta Marshall Islands Martinique Mauritania Mauritius Mayotte Mexico Micronesia, Federated States of Moldova, Republic of Monaco Mongolia Montenegro Montserrat Morocco Mozambique Myanmar Namibia Nauru Nepal Netherlands New Caledonia New Zealand Nicaragua Niger Nigeria Niue Norfolk Island Northern Mariana Islands Norway Oman Pakistan Palau Palestine, State of Panama Papua New Guinea Paraguay Peru Philippines Pitcairn Poland Portugal Puerto Rico Qatar Réunion Romania Russian Federation Rwanda Saint Barthélemy Saint Helena, Ascension and Tristan da Cunha Saint Kitts and Nevis Saint Lucia Saint Martin (French part) Saint Pierre and Miquelon Saint Vincent and the Grenadines Samoa San Marino Sao Tome and Principe Saudi Arabia Senegal Serbia Seychelles Sierra Leone Singapore Sint Maarten (Dutch part) Slovakia Slovenia Solomon Islands Somalia South Africa South Georgia and the South Sandwich Islands South Sudan Spain Sri Lanka Sudan SuriName Svalbard and Jan Mayen Swaziland Sweden Switzerland Syrian Arab Republic Taiwan, Province of China Tajikistan Tanzania, United Republic of Thailand Timor-Leste Togo Tokelau Tonga Trinidad and Tobago Tunisia Turkey Turkmenistan Turks and Caicos Islands Tuvalu Uganda Ukraine United Arab Emirates United Kingdom United States Minor Outlying Islands Uruguay Uzbekistan Vanuatu Venezuela, Bolivarian Republic of Viet Nam Virgin Islands, British Virgin Islands, U.S. Wallis and Futuna Western Sahara Yemen Zambia Zimbabwe I agree to receive email messages containing service updates and Design Tips from Protolabs and its affiliates Download Get FREE Z Frame You Might Also Like... 7 Ways to Improve Sheet Metal Parts Plating and Other Finishing Considerations for CNC Machining and Sheet Metal How to Efficiently Integrate Hardware into Sheet Metal Part Design Need custom sheet metal parts? Get an online quote today. Upload a Part Tagged: sheet metal fabrication, hardware, PEM",
+  "published_at": "",
+  "requested_url": "https://www.protolabs.com/resources/blog/avoiding-sheet-metal-hardware-headaches",
+  "schema_version": 2,
+  "sections": [
+    {
+      "hash": "35189d00bb89be0dd32e1d2c044c6824557b7d6d",
+      "heading": "Avoiding Sheet Metal Hardware Headaches",
+      "level": "h1",
+      "text": "Avoiding Sheet Metal Hardware Headaches By Protolabs Tech Tips December 14, 2022 Avoiding Sheet Metal Hardware Headaches By Protolabs"
+    },
+    {
+      "hash": "cb3ed1a7e8dd7cd62caf2695805216bf4b683b3a",
+      "heading": "Incorporating Fasteners into Sheet Metal Parts",
+      "level": "h3",
+      "text": "Incorporating Fasteners into Sheet Metal Parts Why does the relationship between the fastener and material matter? Because of the way clinch fasteners are installed. When a fastener is pressed into the sheet, the material of that sheet flows around the material of the fastener to lock it in place. Video courtesy of PennEngineering."
+    },
+    {
+      "hash": "76055bdae2bdedb63e8c060da28f09cf4d1fd8f9",
+      "heading": "The Special Case for Aluminum",
+      "level": "h3",
+      "text": "The Special Case for Aluminum On paper, aluminum seems like the easiest material to add hardware to, and in some respects it is. Technically, aluminum sheets can receive aluminum, steel, or stainless-steel hardware. That said, you may be surprised to see a deviation on your quote to use stainless or aluminum hardware when you have specified steel. Steel and aluminum have a galvanic relationship, which means when they contact each other one of the dissimilar metals will corrode at an alarming rate. This is made much worse when moisture, condensation, or immersion are introduced. Moreover, steel is not compatible with any aluminum plating, limiting the installation options and risking damage to the plating during hardware installation. Stainless steel is more inert than alloy steel and is less prone to galvanic corrosion. It can even be chromated, but not anodized. For these two reasons, we are likely to recommend stainless steel or aluminum hardware for aluminum parts. To save yourself time in iteration and quoting, plan to use stainless or aluminum hardware for your aluminum parts."
+    },
+    {
+      "hash": "95ffe59cd98461b27b691816ff85b30692ee5078",
+      "heading": "Dealing with Stainless Steel Fastener Supplies",
+      "level": "h3",
+      "text": "Dealing with Stainless Steel Fastener Supplies Stainless steel parts require hardened stainless hardware (For PEM hardware, the type-code will have a 4 or P, for example: SP-M4-2 or BSO4-832-6) not to be confused with standard stainless hardware. For PEM hardware, the type-code will have an added S, example: BSOS-832-6 or FHS-M3-8. The challenge here is availability. Much of the time the hardened stainless hardware is not available, either out of stock or not manufactured at all. Hardware types like tie downs (TD) right angle fasteners (RA) and SNAP TOP fasteners (SSC) are not available in hardened stainless at all. Hardware types like panel fasteners have extreme limitations in availability. Many are a custom order with a minimum buy of at least 5,000 pieces. When you are designing a stainless steel part, check the inventory availability on PEM’s website . When it comes to panel fasteners, we have one solid workaround available: flare-In fasteners. These are not clinch fasteners as the sheet material does not flow to hold the screw in place. Instead, these are placed under a countersunk hole, and a sleeve on the hardware is flared into the countersink, locking the hardware in pla..."
+    },
+    {
+      "hash": "5340b1b00cf6790bce9075e78e2deadee77d122d",
+      "heading": "Hardware Installation Headaches",
+      "level": "h3",
+      "text": "Hardware Installation Headaches Once the right hardware is chosen, it’s time to think about where you are going to put it. There is a lot to consider here: How your components fit, whether it can be installed in the location you’re planning for, how close it is to other features and how that hardware is secured. It’s not as straightforward as modeling at the right size hole and dropping it into your assembly file. If you want to get it right, planning for these factors will make a difference in your iteration rate and quote accuracy. Hardware Proximity - We know from the video above that the material flows into the hardware to create the clinching action. If the hardware is too near an edge, hole, or cutout this flowing action will not occur, instead the material will bulge, flowing away from the hardware instead of securing it in the sheet. This value is found on PEM’s website, expressed as Min. Distance C/L to edge. Following this minimum distance will help ensure your hardware is securely clinched to the sheet. Proximity to an edge, hole, or cutout isn’t the only proximity headache to be aware of. Hardware near bends, form features or other pieces of hardware are equally proble..."
+    },
+    {
+      "hash": "e1125323a929e2a271e25085864adcd71ccb1fc4",
+      "heading": "Hardware, Installation, and Limitations",
+      "level": "h3",
+      "text": "Hardware, Installation, and Limitations Reducing cost and shortening iteration time is the name of the game. Working with clinch nuts may come with some headaches. We have discussed ways you can avoid those headaches and by extension reduce cost and revision time. Understanding hardware, the constraints around installation and some best practices around manufacturing will make your relationship with clinch fasteners a fruitful one. Don’t forget that PEM’s website has loads of information about specific hardware as well as the installation processes. They also have the all-important inventory look up tool, that will tell you whether the hardware you want to use is even available off the shelf. Our team is always available to help you use the right hardware for your parts so you complete your projects quickly, at a competitive cost, and done right the first time."
+    }
+  ],
+  "sitemap_lastmod": "2026-04-14T10:30:00+00:00",
+  "status": 200,
+  "structure_hash": "bbcdddd3e25ce8d6f7de10a0e830750eefeb6556",
+  "text_excerpt": "Tech Tips December 14, 2022 Avoiding Sheet Metal Hardware Headaches By Protolabs When you regularly design sheet metal parts inevitably you will have a need for permanently installed fasteners. For the purposes of this article, when we say fastener, we are specifically referring to the class of fasteners called clinch fasteners . Working with them can streamline your assembly, save you money, and make your designs more efficient. However, you may suffer some hardware headaches along the way. We want to save you from some of those hardware headaches to reduce iterations and help you come to a workable design sooner. Incorporating Fasteners into Sheet Metal Parts Why does the relationship between the fastener and material matter? Because of the way clinch fasteners are installed. When a fastener is pressed into the sheet, the material of that sheet flows around the material of the fastener to lock it in place. Video courtesy of PennEngineering. When you’re designing your part, take into consideration the hardness of the material you are working with. Generally steel sheets will accept hardened steel hardware (PEM’s default hardware material) Stainless steel will require hardened sta...",
+  "text_hash": "39feeaec064745b373dc4c35daebedc9983f1388",
+  "title": "Avoiding Sheet Metal Hardware Headaches",
+  "url": "https://www.protolabs.com/resources/blog/avoiding-sheet-metal-hardware-headaches"
+}

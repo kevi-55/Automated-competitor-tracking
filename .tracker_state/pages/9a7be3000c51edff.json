@@ -1,0 +1,136 @@
+{
+  "canonical": "https://www.protolabs.com/resources/design-tips/combining-rigid-and-flexible-materials-with-polyjet-overmolding",
+  "category": "content",
+  "competitor": "Protolabs",
+  "ctas": [],
+  "discovered_via": "sitemap",
+  "fetched_at": "2026-08-17T03:49:08+00:00",
+  "final_url": "https://www.protolabs.com/resources/design-tips/combining-rigid-and-flexible-materials-with-polyjet-overmolding",
+  "first_seen_at": "2026-08-17T03:49:08+00:00",
+  "h1": "Combining Rigid and Flexible Materials with PolyJet Overmolding",
+  "headings": [
+    {
+      "level": "h1",
+      "text": "Combining Rigid and Flexible Materials with PolyJet Overmolding"
+    },
+    {
+      "level": "h2",
+      "text": "What is an Overmold?"
+    },
+    {
+      "level": "h2",
+      "text": "Why PolyJet?"
+    },
+    {
+      "level": "h2",
+      "text": "Material Options"
+    },
+    {
+      "level": "h2",
+      "text": "Configuring Your PolyJet Overmold Quote: Set Up the CAD Model"
+    },
+    {
+      "level": "h2",
+      "text": "Configuring Your PolyJet Overmold Quote: Set Up the Quote"
+    },
+    {
+      "level": "h2",
+      "text": "Additional Resources"
+    }
+  ],
+  "images": [
+    {
+      "alt": "Toothbrush",
+      "src": "/media/lffgq2t4/screenshot-1-blog.jpg?width=570&height=308&v=1d9cea090fe89b0"
+    },
+    {
+      "alt": "Part illustration",
+      "src": "/media/aokhe45a/screenshot-2-blog.jpg"
+    },
+    {
+      "alt": "Part illustration",
+      "src": "/media/xdfpeyz5/screenshot-3-blog.jpg"
+    },
+    {
+      "alt": "Part illustration",
+      "src": "/media/kranz5ml/screenshot-4.jpg"
+    },
+    {
+      "alt": "Part illustration",
+      "src": "/media/m2hfpouo/screenshot-5.jpg"
+    },
+    {
+      "alt": "Part illustration",
+      "src": "/media/eb0o4zjo/screenshot-6.jpg"
+    },
+    {
+      "alt": "Part illustration",
+      "src": "/media/sr4ahupo/screenshot-7.jpg"
+    },
+    {
+      "alt": "Part illustration",
+      "src": "/media/x04hh02b/screenshot-8-blog.jpg"
+    },
+    {
+      "alt": "cover of 3d printing definitive guide",
+      "src": "/media/j2gajqid/3dp-definitive-guide-cover-293x200.png?width=293&height=200&v=1d8da3afc7ae360"
+    }
+  ],
+  "meta_description": "You think of overmolding as something done when manufacturing injection molded parts, but you can do the same thing with PolyJet 3D printing. Find out how!",
+  "modified_at": "",
+  "monitored_text": "Combining Rigid and Flexible Materials with PolyJet Overmolding Create unique, complex geometries with overmolds by leveraging PolyJet 3D printing What is an Overmold? What do you do when you need a part made from two or more materials at the same time. Most commonly, these parts have a rigid section and a flexible section. The rigid section is called the substrate and the flexible section is called the overmold. A common example of an overmold/overmolded part is your toothbrush! The white, rigid part is the substrate, and the blue, flexible part is the overmold. Why PolyJet? Polyjet is the only 3D printing technology we offer that can produce prototypes of overmolded parts. PolyJet works by dividing the part into voxels, or 3D pixels. It then assigns a material and durometer to each voxel. The machine is loaded with both rigid and flexible material. As the print head moves across the bed, it deposits droplets of material. For 30 Shore A parts, it deposits only flexible resin; for rigid parts, it deposits only rigid resin. For any hardness, or durometer, in between, the print head deposits a mixture of flexible and rigid droplets in a ratio appropriate to the desired hardness. The image below shows what a voxel of 60 Shore A material looks like. Each dot represents a droplet of resin. The white, or primary material, is rigid, and the black, or secondary material, is flexible. The droplets of resin are then instantly cured by a UV lamp. Because the PolyJet machine can pick and choose what material it deposits where, it’s uniquely able to use multiple durometers and colors on the same part. Most commonly, this takes the form of a rigid substrate with a flexible overmold, but it could also be two flexible materials or two rigid materials. Material Options Below are the material options for PolyJet. The three available colors are black, white, and clear. For each material there is a range of durometers, or hardness. All materials fall under the Shore A hardness scale and range from 30 to 95. The durometer scale isn’t hard to figure out: the higher the number, the more rigid the material. Color Black, White, Clear Durometer 30A, 40A, 50A, 60A, 70A, 85A, 95A, Rigid Note: The softest durometer available for White is 50A. When choosing color and durometer, there are some limitations on what combinations we can build. The table below shows the available combinations. Each row represents an available machine configuration. This example part, featuring a Rigid White body with 50A Black buttons would utilize Option 4. However, you would not be able to select a Rigid Black body with 50A White buttons because we don’t have a machine set up with Rigid Black and Flex White. If you’ve accidentally chosen a configuration, we’re not able to accommodate, we’ll let you know and let you choose an alternative before we start building anything. Option 1 Rigid White Rigid Clear Flex Clear Flex White Option 2 Rigid Black Rigid Clear Flex Clear Option 3 Rigid Clear Rigid Black Flex Black Option 4 Rigid White Rigid Black Flex Black Configuring Your PolyJet Overmold Quote: Set Up the CAD Model PolyJet overmold quote requests are a bit different than quoting for any other type of 3D printing. First, we need a .STEP or .STP file of the assembly. In that file, the substrate and the overmold must each have their own solid body. This way, the machine will know what material goes where. Each solid body will be assigned a color and durometer, more on that later. We also require that the file represent the part as you’d like to have it printed. The below image on the left would not work, because it would result in the three buttons being built separate from the main housing. The file on the right is correct because the buttons are in the location in which we want them to build. Finally, we also want the various bodies to mate line-on-line. This means there is no gap between the two bodies. If there is a gap, the machine will try to put support matrix between the two bodies. Since the support matrix is designed to be removed, its inclusion makes it easier for the two bodies to separate once the part has built. We also don’t want the bodies to overlap. If the bodies overlap, the machine will try to draw twice in the same area which can cause the build to crash. Configuring Your PolyJet Overmold Quote: Set Up the Quote Now that you’ve got your file ready, it’s time to upload! Once the file’s been uploaded, select “Digital OverMold” from the material drop down. In addition to material selection, we’ll also need to know the color and durometer for each body in the file. Use the Special Instructions area to provide this information. If you have a formal drawing, that’s great, but even a simple screenshot with arrows will work for us. We prefer a visual indication of color and durometer because it minimizes the opportunity for miscommunication; a picture speaks 1000 words. Below is an example of how to communicate color and durometer. Lastly, submit your quote for review by clicking the orange “Request for Quote” button. This sends the quote to our team for review. We’ll review the requested material combination and analyze the parts for any other build concerns. Once we’re done, you’ll get an email notifying you that your quote is complete. Additional Resources If you need further assistance, you can reach a member of our applications engineering department in a number of ways: Talk to your account manager about setting up a design review. Set up a design review with an applications engineer directly using the link in the manufacturing analysis. Email [email protected] . Call 877-479-3680. If you have any issues getting your guide, click here to download . Definitive Guide to 3D Printing Our comprehensive guide navigates the entire additive manufacturing process—from prototyping to production. United States of America Afghanistan Åland Islands Albania Algeria American Samoa Andorra Angola Anguilla Antarctica Antigua and Barbuda Argentina Armenia Aruba Australia Austria Azerbaijan Bahamas Bahrain Bangladesh Barbados Belarus Belgium Belize Benin Bermuda Bhutan Bolivia, Plurinational State of Bonaire, Sint Eustatius and Saba Bosnia and Herzegovina Botswana Bouvet Island Brazil British Indian Ocean Territory Brunei Darussalam Bulgaria Burkina Faso Burundi Cambodia Cameroon Canada Cape Verde Cayman Islands Central African Republic Chad Chile China Christmas Island Cocos (Keeling) Islands Colombia Comoros Congo Congo, the Democratic Republic of the Cook Islands Costa Rica Côte d'Ivoire Croatia Cuba Curaçao Cyprus Czech Republic Denmark Djibouti Dominica Dominican Republic Ecuador Egypt El Salvador Equatorial Guinea Eritrea Estonia Ethiopia Falkland Islands (Malvinas) Faroe Islands Fiji Finland France French Guiana French Polynesia French Southern Territories Gabon Gambia Georgia Germany Ghana Gibraltar Greece Greenland Grenada Guadeloupe Guam Guatemala Guernsey Guinea Guinea-Bissau Guyana Haiti Heard Island and McDonald Islands Holy See (Vatican City State) Honduras Hong Kong Hungary Iceland India Indonesia Iran, Islamic Republic of Iraq Ireland Isle of Man Israel Italy Jamaica Japan Jersey Jordan Kazakhstan Kenya Kiribati Korea, Democratic People's Republic of Korea, Republic of Kuwait Kyrgyzstan Lao People's Democratic Republic Latvia Lebanon Lesotho Liberia Libya Liechtenstein Lithuania Luxembourg Macao Macedonia, the Former Yugoslav Republic of Madagascar Malawi Malaysia Maldives Mali Malta Marshall Islands Martinique Mauritania Mauritius Mayotte Mexico Micronesia, Federated States of Moldova, Republic of Monaco Mongolia Montenegro Montserrat Morocco Mozambique Myanmar Namibia Nauru Nepal Netherlands New Caledonia New Zealand Nicaragua Niger Nigeria Niue Norfolk Island Northern Mariana Islands Norway Oman Pakistan Palau Palestine, State of Panama Papua New Guinea Paraguay Peru Philippines Pitcairn Poland Portugal Puerto Rico Qatar Réunion Romania Russian Federation Rwanda Saint Barthélemy Saint Helena, Ascension and Tristan da Cunha Saint Kitts and Nevis Saint Lucia Saint Martin (French part) Saint Pierre and Miquelon Saint Vincent and the Grenadines Samoa San Marino Sao Tome and Principe Saudi Arabia Senegal Serbia Seychelles Sierra Leone Singapore Sint Maarten (Dutch part) Slovakia Slovenia Solomon Islands Somalia South Africa South Georgia and the South Sandwich Islands South Sudan Spain Sri Lanka Sudan SuriName Svalbard and Jan Mayen Swaziland Sweden Switzerland Syrian Arab Republic Taiwan, Province of China Tajikistan Tanzania, United Republic of Thailand Timor-Leste Togo Tokelau Tonga Trinidad and Tobago Tunisia Turkey Turkmenistan Turks and Caicos Islands Tuvalu Uganda Ukraine United Arab Emirates United Kingdom United States Minor Outlying Islands Uruguay Uzbekistan Vanuatu Venezuela, Bolivarian Republic of Viet Nam Virgin Islands, British Virgin Islands, U.S. Wallis and Futuna Western Sahara Yemen Zambia Zimbabwe I agree to receive email messages containing service updates and Design Tips from Protolabs and its affiliates Download Guide",
+  "published_at": "",
+  "requested_url": "https://www.protolabs.com/resources/design-tips/combining-rigid-and-flexible-materials-with-polyjet-overmolding",
+  "schema_version": 2,
+  "sections": [
+    {
+      "hash": "c7e2365727c0f814fc111efabcc42d92ab607f98",
+      "heading": "Combining Rigid and Flexible Materials with PolyJet Overmolding",
+      "level": "h1",
+      "text": "Combining Rigid and Flexible Materials with PolyJet Overmolding Create unique, complex geometries with overmolds by leveraging PolyJet 3D printing"
+    },
+    {
+      "hash": "7766453cd56316390202df1366c53fa18e87181e",
+      "heading": "What is an Overmold?",
+      "level": "h2",
+      "text": "What is an Overmold? What do you do when you need a part made from two or more materials at the same time. Most commonly, these parts have a rigid section and a flexible section. The rigid section is called the substrate and the flexible section is called the overmold. A common example of an overmold/overmolded part is your toothbrush! The white, rigid part is the substrate, and the blue, flexible part is the overmold."
+    },
+    {
+      "hash": "1a5d9e335dc6faa696973c64ac2b9e99cdf9321d",
+      "heading": "Why PolyJet?",
+      "level": "h2",
+      "text": "Why PolyJet? Polyjet is the only 3D printing technology we offer that can produce prototypes of overmolded parts. PolyJet works by dividing the part into voxels, or 3D pixels. It then assigns a material and durometer to each voxel. The machine is loaded with both rigid and flexible material. As the print head moves across the bed, it deposits droplets of material. For 30 Shore A parts, it deposits only flexible resin; for rigid parts, it deposits only rigid resin. For any hardness, or durometer, in between, the print head deposits a mixture of flexible and rigid droplets in a ratio appropriate to the desired hardness. The image below shows what a voxel of 60 Shore A material looks like. Each dot represents a droplet of resin. The white, or primary material, is rigid, and the black, or secondary material, is flexible. The droplets of resin are then instantly cured by a UV lamp."
+    },
+    {
+      "hash": "2ac69e54e52dfec966b4eb8ca34c4a00def73a88",
+      "heading": "Material Options",
+      "level": "h2",
+      "text": "Material Options Below are the material options for PolyJet. The three available colors are black, white, and clear. For each material there is a range of durometers, or hardness. All materials fall under the Shore A hardness scale and range from 30 to 95. The durometer scale isn’t hard to figure out: the higher the number, the more rigid the material."
+    },
+    {
+      "hash": "5023f8ff43a948fdd9a7cd57dd08789197c2a5fa",
+      "heading": "Configuring Your PolyJet Overmold Quote: Set Up the CAD Model",
+      "level": "h2",
+      "text": "Configuring Your PolyJet Overmold Quote: Set Up the CAD Model PolyJet overmold quote requests are a bit different than quoting for any other type of 3D printing. First, we need a .STEP or .STP file of the assembly. In that file, the substrate and the overmold must each have their own solid body. This way, the machine will know what material goes where. Each solid body will be assigned a color and durometer, more on that later."
+    },
+    {
+      "hash": "0c63eaa46fa858ecb29295425f17bb325b3008aa",
+      "heading": "Configuring Your PolyJet Overmold Quote: Set Up the Quote",
+      "level": "h2",
+      "text": "Configuring Your PolyJet Overmold Quote: Set Up the Quote Now that you’ve got your file ready, it’s time to upload! Once the file’s been uploaded, select “Digital OverMold” from the material drop down. In addition to material selection, we’ll also need to know the color and durometer for each body in the file. Use the Special Instructions area to provide this information. If you have a formal drawing, that’s great, but even a simple screenshot with arrows will work for us. We prefer a visual indication of color and durometer because it minimizes the opportunity for miscommunication; a picture speaks 1000 words. Below is an example of how to communicate color and durometer. Lastly, submit your quote for review by clicking the orange “Request for Quote” button. This sends the quote to our team for review. We’ll review the requested material combination and analyze the parts for any other build concerns. Once we’re done, you’ll get an email notifying you that your quote is complete."
+    },
+    {
+      "hash": "3504918be51a0823e85b165e9cd14c02fdfeec21",
+      "heading": "Additional Resources",
+      "level": "h2",
+      "text": "Additional Resources If you need further assistance, you can reach a member of our applications engineering department in a number of ways: Talk to your account manager about setting up a design review. Set up a design review with an applications engineer directly using the link in the manufacturing analysis. Email [email protected] . Call 877-479-3680."
+    }
+  ],
+  "sitemap_lastmod": "2025-09-02T14:32:00+00:00",
+  "status": 200,
+  "structure_hash": "a85b9c0010d025c31f2b6822cb519788abb325b1",
+  "text_excerpt": "Combining Rigid and Flexible Materials with PolyJet Overmolding Create unique, complex geometries with overmolds by leveraging PolyJet 3D printing What is an Overmold? What do you do when you need a part made from two or more materials at the same time. Most commonly, these parts have a rigid section and a flexible section. The rigid section is called the substrate and the flexible section is called the overmold. A common example of an overmold/overmolded part is your toothbrush! The white, rigid part is the substrate, and the blue, flexible part is the overmold. Why PolyJet? Polyjet is the only 3D printing technology we offer that can produce prototypes of overmolded parts. PolyJet works by dividing the part into voxels, or 3D pixels. It then assigns a material and durometer to each voxel. The machine is loaded with both rigid and flexible material. As the print head moves across the bed, it deposits droplets of material. For 30 Shore A parts, it deposits only flexible resin; for rigid parts, it deposits only rigid resin. For any hardness, or durometer, in between, the print head deposits a mixture of flexible and rigid droplets in a ratio appropriate to the desired hardness. The...",
+  "text_hash": "046cd1581f09b2e8a9b84b4e771cc0f0919463fe",
+  "title": "Designing Parts for PolyJet Overmolding",
+  "url": "https://www.protolabs.com/resources/design-tips/combining-rigid-and-flexible-materials-with-polyjet-overmolding"
+}

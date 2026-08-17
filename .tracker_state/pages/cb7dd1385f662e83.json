@@ -1,0 +1,133 @@
+{
+  "canonical": "https://www.hubs.com/knowledge-base/sharp-corners-in-cnc-machining",
+  "category": "content",
+  "competitor": "Hubs",
+  "ctas": [
+    {
+      "href": "https://www.hubs.com/manufacture",
+      "text": "Upload a CAD file for a free, instant quote"
+    },
+    {
+      "href": "https://www.hubs.com/manufacture",
+      "text": "Upload your design for a free, instant quote"
+    }
+  ],
+  "discovered_via": "sitemap",
+  "fetched_at": "2026-08-17T03:42:37+00:00",
+  "final_url": "https://www.hubs.com/knowledge-base/sharp-corners-in-cnc-machining",
+  "first_seen_at": "2026-08-17T03:42:37+00:00",
+  "h1": "",
+  "headings": [
+    {
+      "level": "h2",
+      "text": "Why are sharp corners an issue in CNC machining?"
+    },
+    {
+      "level": "h2",
+      "text": "How do you solve the sharp corner problem for CNC machinists?"
+    },
+    {
+      "level": "h2",
+      "text": "When and how to add a corner radius (or fillet)"
+    },
+    {
+      "level": "h2",
+      "text": "When and how to use T-bone and dogbone fillets"
+    },
+    {
+      "level": "h3",
+      "text": "T-bone fillets"
+    },
+    {
+      "level": "h3",
+      "text": "Dogbone fillets"
+    },
+    {
+      "level": "h2",
+      "text": "When and how to use EDM (electrical discharge machining)"
+    },
+    {
+      "level": "h3",
+      "text": "Advantages of EDM:"
+    },
+    {
+      "level": "h3",
+      "text": "Disadvantages of EDM:"
+    }
+  ],
+  "images": [
+    {
+      "alt": "CNC machining, 3D printing and sheet metal fabrication parts",
+      "src": "/images/trans.gif"
+    }
+  ],
+  "meta_description": "Have you specified sharp internal corners in your parts? They may look clean in CAD, but they are difficult and costly to machine. This article explains why and how to avoid sharp corners by using radii or relief features. Following these guidelines reduces lead time, lowers cost and improves machinability for outsourced production.",
+  "modified_at": "",
+  "monitored_text": "Sharp internal corners are challenging in CNC machining . End mills and drills, the most common cutting tools, are cylindrical with limited cutting length, so they always leave an internal radius when machining internal pockets. Tool geometry determines the internal radii on the part. CNC machined parts will always have at least a small inside radius, which makes sharp-corner designs harder to manufacture. Sharp internal corners can be machined, but the methods are costly, so include them only when function requires them and the added cost is justified. This article explains why sharp corners are challenging in CNC machining and outlines options when the design requires them. Curious about the cost of machining your designs? Explore our CNC services Upload a CAD file for a free, instant quote Why are sharp corners an issue in CNC machining? The tooling radius selected during CNC machining determines the achievable corner radii. It also directly affects part quality and production time. The minimum internal corner radius achievable in CNC machining equals the cutter radius. A perfectly sharp internal corner would require a tool with a 90-degree profile, which standard CNC tooling cannot provide. If you attempt this in CNC machining, the machine must stop and the workpiece must be repositioned. This increases the risk of chatter marks from tool vibration, slows the machining process, and can result in poor part quality. How do you solve the sharp corner problem for CNC machinists? There are several ways to address sharp corners, from adding fillets or reliefs to selecting alternative manufacturing processes better suited to the geometry. When and how to add a corner radius (or fillet) The first approach to address sharp internal corners is to increase the corner radius. Larger tools create larger radii and can run at higher speeds, reducing CNC machining time and cost. The trade-off is a potentially rougher surface finish that may need secondary finishing. In CNC machining, pocket depth is linked to tool radius. Using a small-diameter end mill in deep pockets increases vibration, leading to chatter marks and tool fatigue. As a rule of thumb, specify corner radii at least one third of the cavity depth. Keep cavity depth to two to three times the cutter diameter. Although simple to apply, this can be costly . When and how to use T-bone and dogbone fillets When parts are assembled, rounded internal corners can cause fit issues. Dogbone and T-bone fillets add clearance to improve fit. T-bone fillets A T-bone fillet extends the corner in one direction. The toolpath adds clearance equal to the cutter radius so a mating part with a sharp corner can fit. Dogbone fillets As the name suggests, dogbone fillets resemble canine chew toys. Dogbone fillets extend the corner in two directions to provide clearance so a mating part with a sharp corner fits correctly. Balancing the removed material on both sides strengthens the corner. This is a simple, effective solution, but it removes more material than The most elegant, least visible solution is to center a two-directional dogbone fillet at a distance √(R² / 2) from the corner. This clears the full corner area without removing unnecessary material. When and how to use EDM (electrical discharge machining) Electrical discharge machining, also called spark machining or arc machining, removes material using controlled electrical discharges. Current flows between two electrodes in a dielectric fluid, eroding the workpiece to create precise part dimensions. There are two different types of EDM: Wire EDM: A thin, single-strand metal wire, usually brass, is fed through the workpiece while submerged in a dielectric fluid, typically deionized water. When cutting sharp corners, the wire stays inside the radius, which can cause a slight overcut. Sinker EDM (or ram EDM): An electrode and the workpiece are submerged in a dielectric fluid such as oil. Both are connected to a power supply that creates an electrical potential between them. As the electrode advances, dielectric breakdown occurs in the fluid, forming a plasma channel for small sparks to erode the workpiece. Advantages of EDM: Ability to machine complex shapes Material hardness does not limit the process Internal contours and internal corners down to R0.02 mm No direct contact between the tool and workpiece, so delicate sections and weak materials can be machined without noticeable distortion Disadvantages of EDM: Slow material removal rate Limited to machining conductive materials Additional time and cost to create electrodes for sinker EDM High power consumption Complex process and higher cost Surface texture is relatively rough, so post-processing is required on any areas machined this way. If you are unsure whether corner radii in your design will raise DFM issues, or want to double-check parts and drawings before requesting a quote, contact networksales@protolabs.com . Did you know we offer local sourcing for CNC machining? Upload your design for a free, instant quote Subscribe Get the latest manufacturing news delivered to your mailbox. Sign up for our newsletter Sign me up Please enter a valid email address. Leave this field empty Thanks! You're now subscribed to our newsletter.",
+  "published_at": "",
+  "requested_url": "https://www.hubs.com/knowledge-base/sharp-corners-in-cnc-machining",
+  "schema_version": 2,
+  "sections": [
+    {
+      "hash": "4d569d88a03bf1ef5cbdf144fd7b02882eace235",
+      "heading": "Why are sharp corners an issue in CNC machining?",
+      "level": "h2",
+      "text": "Why are sharp corners an issue in CNC machining? The tooling radius selected during CNC machining determines the achievable corner radii. It also directly affects part quality and production time. The minimum internal corner radius achievable in CNC machining equals the cutter radius. A perfectly sharp internal corner would require a tool with a 90-degree profile, which standard CNC tooling cannot provide. If you attempt this in CNC machining, the machine must stop and the workpiece must be repositioned. This increases the risk of chatter marks from tool vibration, slows the machining process, and can result in poor part quality."
+    },
+    {
+      "hash": "2c576ee19782eb429d8480b8c7582e8c94d76d0f",
+      "heading": "How do you solve the sharp corner problem for CNC machinists?",
+      "level": "h2",
+      "text": "How do you solve the sharp corner problem for CNC machinists? There are several ways to address sharp corners, from adding fillets or reliefs to selecting alternative manufacturing processes better suited to the geometry."
+    },
+    {
+      "hash": "88423b149cb4cb9580ea1186de794c641a64720d",
+      "heading": "When and how to add a corner radius (or fillet)",
+      "level": "h2",
+      "text": "When and how to add a corner radius (or fillet) The first approach to address sharp internal corners is to increase the corner radius. Larger tools create larger radii and can run at higher speeds, reducing CNC machining time and cost. The trade-off is a potentially rougher surface finish that may need secondary finishing. In CNC machining, pocket depth is linked to tool radius. Using a small-diameter end mill in deep pockets increases vibration, leading to chatter marks and tool fatigue. As a rule of thumb, specify corner radii at least one third of the cavity depth. Keep cavity depth to two to three times the cutter diameter. Although simple to apply, this can be costly ."
+    },
+    {
+      "hash": "82589be53d463e49db52b7266264afa875c3e4ed",
+      "heading": "When and how to use T-bone and dogbone fillets",
+      "level": "h2",
+      "text": "When and how to use T-bone and dogbone fillets When parts are assembled, rounded internal corners can cause fit issues. Dogbone and T-bone fillets add clearance to improve fit."
+    },
+    {
+      "hash": "5abc245f7ec69e6ced02f71b846e34ed4c86a29f",
+      "heading": "T-bone fillets",
+      "level": "h3",
+      "text": "T-bone fillets A T-bone fillet extends the corner in one direction. The toolpath adds clearance equal to the cutter radius so a mating part with a sharp corner can fit."
+    },
+    {
+      "hash": "42851417290341d71fe17d87f4b13b2a5368ff20",
+      "heading": "Dogbone fillets",
+      "level": "h3",
+      "text": "Dogbone fillets As the name suggests, dogbone fillets resemble canine chew toys. Dogbone fillets extend the corner in two directions to provide clearance so a mating part with a sharp corner fits correctly. Balancing the removed material on both sides strengthens the corner. This is a simple, effective solution, but it removes more material than The most elegant, least visible solution is to center a two-directional dogbone fillet at a distance √(R² / 2) from the corner. This clears the full corner area without removing unnecessary material."
+    },
+    {
+      "hash": "17a8daf992590ce6250c5a27f8f7d08dd67d7cd5",
+      "heading": "When and how to use EDM (electrical discharge machining)",
+      "level": "h2",
+      "text": "When and how to use EDM (electrical discharge machining) Electrical discharge machining, also called spark machining or arc machining, removes material using controlled electrical discharges. Current flows between two electrodes in a dielectric fluid, eroding the workpiece to create precise part dimensions. There are two different types of EDM: Wire EDM: A thin, single-strand metal wire, usually brass, is fed through the workpiece while submerged in a dielectric fluid, typically deionized water. When cutting sharp corners, the wire stays inside the radius, which can cause a slight overcut. Sinker EDM (or ram EDM): An electrode and the workpiece are submerged in a dielectric fluid such as oil. Both are connected to a power supply that creates an electrical potential between them. As the electrode advances, dielectric breakdown occurs in the fluid, forming a plasma channel for small sparks to erode the workpiece."
+    },
+    {
+      "hash": "c3f009cc30182ec987e1094439a7049626246a24",
+      "heading": "Advantages of EDM:",
+      "level": "h3",
+      "text": "Advantages of EDM: Ability to machine complex shapes Material hardness does not limit the process Internal contours and internal corners down to R0.02 mm No direct contact between the tool and workpiece, so delicate sections and weak materials can be machined without noticeable distortion"
+    },
+    {
+      "hash": "fe96127a968115ef5985e39c56aa9908d88b1715",
+      "heading": "Disadvantages of EDM:",
+      "level": "h3",
+      "text": "Disadvantages of EDM: Slow material removal rate Limited to machining conductive materials Additional time and cost to create electrodes for sinker EDM High power consumption Complex process and higher cost Surface texture is relatively rough, so post-processing is required on any areas machined this way. If you are unsure whether corner radii in your design will raise DFM issues, or want to double-check parts and drawings before requesting a quote, contact networksales@protolabs.com ."
+    }
+  ],
+  "sitemap_lastmod": "2025-11-10T14:08:29+00:00",
+  "status": 200,
+  "structure_hash": "4a6f0466775b9f5b50af71b017dd9209dcfedc36",
+  "text_excerpt": "Sharp internal corners are challenging in CNC machining . End mills and drills, the most common cutting tools, are cylindrical with limited cutting length, so they always leave an internal radius when machining internal pockets. Tool geometry determines the internal radii on the part. CNC machined parts will always have at least a small inside radius, which makes sharp-corner designs harder to manufacture. Sharp internal corners can be machined, but the methods are costly, so include them only when function requires them and the added cost is justified. This article explains why sharp corners are challenging in CNC machining and outlines options when the design requires them. Curious about the cost of machining your designs? Explore our CNC services Upload a CAD file for a free, instant quote Why are sharp corners an issue in CNC machining? The tooling radius selected during CNC machining determines the achievable corner radii. It also directly affects part quality and production time. The minimum internal corner radius achievable in CNC machining equals the cutter radius. A perfectly sharp internal corner would require a tool with a 90-degree profile, which standard CNC tooling c...",
+  "text_hash": "655dcaf9cfaf71377c2418c0711a7483acaa4dae",
+  "title": "How do you deal with sharp corners in CNC machining? Designing with the machinist in mind | Protolabs Network",
+  "url": "https://www.hubs.com/knowledge-base/sharp-corners-in-cnc-machining"
+}

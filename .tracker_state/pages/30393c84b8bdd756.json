@@ -1,54 +1,17 @@
 {
-  "canonical": "https://sybridge.com/injection-molding-t1-samples/",
+  "canonical": "https://sybridge.com/injection-molding-t1-samples",
   "category": "page",
   "competitor": "SyBridge",
   "ctas": [
     {
-      "href": "https://sybridge.com/contact/",
-      "text": "Contact"
-    },
-    {
-      "href": "https://sybridge.com/contact/locations/",
-      "text": "Locations"
-    },
-    {
-      "href": "https://sybridge.com/contact/locations/#usa",
-      "text": "United States"
-    },
-    {
-      "href": "https://sybridge.com/contact/locations/#mexico",
-      "text": "Mexico"
-    },
-    {
-      "href": "https://sybridge.com/contact/locations/#canada",
-      "text": "Canada"
-    },
-    {
-      "href": "https://sybridge.com/contact/locations/#europe",
-      "text": "Europe"
-    },
-    {
-      "href": "https://sybridge.com/contact/locations/#asia",
-      "text": "Asia"
-    },
-    {
-      "href": "https://sybridge.com/contact/",
-      "text": "Start the Conversation"
-    },
-    {
-      "href": "/contact/",
+      "href": "https://sybridge.com/contact",
       "text": "contact us"
-    },
-    {
-      "href": "https://sybridge.com/topics/industry-trends/",
-      "text": "Industry Trends"
-    },
-    {
-      "href": "https://sybridge.com/contact/",
-      "text": "Contact Us"
     }
   ],
-  "fetched_at": "2026-08-17T02:35:27+00:00",
+  "discovered_via": "sitemap",
+  "fetched_at": "2026-08-17T03:54:10+00:00",
+  "final_url": "https://sybridge.com/injection-molding-t1-samples",
+  "first_seen_at": "2026-08-17T03:54:10+00:00",
   "h1": "Tips for Debugging Injection Molding T1 Samples",
   "headings": [
     {
@@ -90,29 +53,9 @@
     {
       "level": "h2",
       "text": "Streamline product design with the help of an expert manufacturing partner"
-    },
-    {
-      "level": "h3",
-      "text": "Related articles"
-    },
-    {
-      "level": "h2",
-      "text": "What is Geometric Dimensioning and Tolerancing (GD&T)?"
-    },
-    {
-      "level": "h2",
-      "text": "A Brief History of 3D Printing in Medicine"
-    },
-    {
-      "level": "h2",
-      "text": "Know Your Materials: PC-ABS"
     }
   ],
   "images": [
-    {
-      "alt": "Sybridge",
-      "src": "https://sybridge.com/wp-content/uploads/2025/11/logo-1.svg"
-    },
     {
       "alt": "",
       "src": "data:image/svg+xml,%3Csvg%20xmlns=%22http://www.w3.org/2000/svg%22%20viewBox=%220%200%20210%20140%22%3E%3C/svg%3E"
@@ -124,104 +67,81 @@
     {
       "alt": "When flaws are identified",
       "src": "data:image/svg+xml,%3Csvg%20xmlns=%22http://www.w3.org/2000/svg%22%20viewBox=%220%200%201024%20683%22%3E%3C/svg%3E"
-    },
-    {
-      "alt": "Sybridge Technologies",
-      "src": "data:image/svg+xml,%3Csvg%20xmlns=%22http://www.w3.org/2000/svg%22%20viewBox=%220%200%20210%20140%22%3E%3C/svg%3E"
     }
   ],
   "meta_description": "Injection molding parts can go through numerous iterations before they’re ready to go to market, but none are as important as the T1 sample.",
+  "modified_at": "2023-11-15T20:11:16+00:00",
+  "monitored_text": "Tips for Debugging Injection Molding T1 Samples Published on September 25, 2020 Originally published on fastradius.com on September 25, 2020 Injection-molded parts can go through numerous iterations before they’re ready to go to market, but perhaps none are as important as the T1 sample. While the T0 sample is usually put together just to ensure the mold works as it’s expected to, the T1 sample refers to the first instance in which an injection-molded is put together in its entirety, complete with surface finishes. The sample parts coming of the T1 sample run represent the first opportunity product teams have to truly dive into whether or not the part meets engineering requirements, note any surface finish imperfections, and more. Of course, the more potential flaws that teams are able to identify and correct in the T1 sample, the fewer additional sample runs will be needed on the way to developing a finished product. That’s why the T1 sample is so critical, and why properly identifying flaws at this stage can lead to drastic time and cost savings. With that in mind, here’s how product teams should approach injection molding debugging to ensure better outcomes more quickly. Debugging injection-molded parts early on The injection molding process — as simple and cost-effective as it is — demands a number of design considerations. It’s easiest to get the product design right upfront, understanding the manufacturing requirements and ensuring the part’s specifications will align with the injection molding process. Taking care and validating the part’s design for the correct material wall thickness, draft, pin location, threaded inserts layout, parting line, gate location, gate style, and more can set teams up for success and ensure a working product. A misstep with any of these variables may lead to a defective part — but it’s far from impossible to fix those defects before the part goes to market. While getting every element right in the initial design process is certainly optimal, debugging the T1 sample is the next best thing. What’s more, even flawless designs can ultimately produce imperfect T1 samples, as it can be difficult to predict aesthetics before producing the sample. Fortunately, teams that are skilled at debugging their T1 samples can still keep their cycle time to a minimum and their part cost low. Identifying and remedying an injection-molded part defect It’s not uncommon for a T1 sample to have a defect — but identifying and addressing it at this early stage can make all the difference in a project’s overall cost and speed. All problems arise from a disconnect between the part’s requirements or intended function and the injection molding manufacturing requirements; addressing these problems quickly requires an in-depth understanding of both the “ideal” product and the current product. When these flaws are identified, teams should work with their mold-maker to determine how to address them effectively. Many defects are visual in nature and can therefore have fairly easy fixes. Others may have to do with the part’s performance or dimensions, which will almost certainly be more difficult to remedy or bypass, resulting in a more expensive tool rework. Common problems include: Short shots Short shots refer to parts that are incomplete because the mold cavity was not completely filled during the injection process. Short shots are not typically the result of poor design; they occur due to poor material flow or a problem with the injection-molding machine itself. Checking the machine and selecting a material of lower viscosity can help. Flow lines Flow lines are ring-shaped bands that appear on the surface of the molded part. They occur when molten material inside the mold cools too quickly, becoming more viscous, and is then pushed by a material of lower viscosity that is injected afterwards. Flow marks can be avoided in later samples by increasing the injection speed or raising the temperature of the mold. Silver streaking Silver streaking, or white stripes on the surface of the part, indicate that the injection molding material came in contact with another material — whether water, air, or remnants of another polymer — inside the mold. Thoroughly drying the material may eliminate this problem. In addition, you can evaluate the mold design to make sure it has the venting necessary to allow moisture and gas to escape. Poor weld lines Messy, visible weld lines occur when the material in the mold splits off and flows in separate directions before converging again, resulting in a bubbling weld line at the convergence point. This may occur due to venting difficulties in the mold or because the material isn’t sufficiently melted within the tool. Raising the temperature of the material, choosing a lower-viscosity material, providing a gas vent, and properly placing the gates could all potentially help. Voids and sink marks Voids refer to holes within the molded part, which occur due to rapid changes in density or the presence of air in the mold. Sink marks, or collapsed surfaces on the part, occur due to the same molding mishaps. Increasing the injection pressure, lowering the mold temperature, or selecting a highly viscous material can help to counteract rapid density or temperature changes.Adding venting to the tool near the affected areas will also allow gas to escape, which will help avoid marks. Damage from parts sticking in the mold If the part sustains damage during the ejection process because it would not release from the mold, a design problem may be the culprit. Ensure there’s sufficient draft and that no undercuts are present. If the design is not to blame, the cause may be too much residual pressure from the molding process — manufacturers or product teams would do well to decrease injection pressure for the next sample. Streamline product design with the help of an expert manufacturing partner It’s vital to identify any defects at this early stage, whether they indicate problems in the design, material, or mold; the more quickly flaws can be addressed, the more quickly a part will be ready for its intended end-use. No matter the project at hand, product teams will benefit from partnering with an expert manufacturer like SyBridge. Our team of expert engineers and designers act as liaisons between product teams and tool-makers, elevating efficiency and ensuring issues are resolved in a timely and cost-effective manner. In short, SyBridge is dedicated to helping every team achieve its goals within its desired timeline and budget. Taking an agile approach , our team of highly experienced and qualified engineers helps customers debug, modify, and adjust their designs to produce high-quality parts, fast. If you’re interested in learning more about injection molding services, contact us today.",
+  "published_at": "2020-09-25T15:55:00+00:00",
   "requested_url": "https://sybridge.com/injection-molding-t1-samples",
+  "schema_version": 2,
   "sections": [
     {
-      "hash": "79ba16b7e850a8379a4e45f2228272da65fc8999",
+      "hash": "ba0a3747afb628784da151a0178ab3cc7ab59997",
       "heading": "Tips for Debugging Injection Molding T1 Samples",
       "level": "h1",
-      "text": "Tips for Debugging Injection Molding T1 Samples Published on September 25, 2020 Originally published on fastradius.com on September 25, 2020 Injection-molded parts can go through numerous iterations before they’re ready to go to market, but perhaps none are as important as the T1 sample. While the T0 sample is usually put together just to ensure the mold works as it’s expected to, the T1 sample refers to the first instance in which an injection-molded is put together in its entirety, complete with surface finishes. The sample parts coming of the T1 sample run represent the first opportunity product teams have to truly dive into whether or not the part meets engineering requirements, note an..."
+      "text": "Tips for Debugging Injection Molding T1 Samples Published on September 25, 2020 Originally published on fastradius.com on September 25, 2020 Injection-molded parts can go through numerous iterations before they’re ready to go to market, but perhaps none are as important as the T1 sample. While the T0 sample is usually put together just to ensure the mold works as it’s expected to, the T1 sample refers to the first instance in which an injection-molded is put together in its entirety, complete with surface finishes. The sample parts coming of the T1 sample run represent the first opportunity product teams have to truly dive into whether or not the part meets engineering requirements, note any surface finish imperfections, and more. Of course, the more potential flaws that teams are able to identify and correct in the T1 sample, the fewer additional sample runs will be needed on the way to developing a finished product. That’s why the T1 sample is so critical, and why properly identifying flaws at this stage can lead to drastic time and cost savings. With that in mind, here’s how product teams should approach injection molding debugging to ensure better outcomes more quickly."
     },
     {
-      "hash": "79ba16b7e850a8379a4e45f2228272da65fc8999",
+      "hash": "cfe1335a2bfc2c278e33b2f2b90f9dea42c1c213",
       "heading": "Debugging injection-molded parts early on",
       "level": "h2",
-      "text": "Tips for Debugging Injection Molding T1 Samples Published on September 25, 2020 Originally published on fastradius.com on September 25, 2020 Injection-molded parts can go through numerous iterations before they’re ready to go to market, but perhaps none are as important as the T1 sample. While the T0 sample is usually put together just to ensure the mold works as it’s expected to, the T1 sample refers to the first instance in which an injection-molded is put together in its entirety, complete with surface finishes. The sample parts coming of the T1 sample run represent the first opportunity product teams have to truly dive into whether or not the part meets engineering requirements, note an..."
+      "text": "Debugging injection-molded parts early on The injection molding process — as simple and cost-effective as it is — demands a number of design considerations. It’s easiest to get the product design right upfront, understanding the manufacturing requirements and ensuring the part’s specifications will align with the injection molding process. Taking care and validating the part’s design for the correct material wall thickness, draft, pin location, threaded inserts layout, parting line, gate location, gate style, and more can set teams up for success and ensure a working product. A misstep with any of these variables may lead to a defective part — but it’s far from impossible to fix those defects before the part goes to market. While getting every element right in the initial design process is certainly optimal, debugging the T1 sample is the next best thing. What’s more, even flawless designs can ultimately produce imperfect T1 samples, as it can be difficult to predict aesthetics before producing the sample. Fortunately, teams that are skilled at debugging their T1 samples can still keep their cycle time to a minimum and their part cost low."
     },
     {
-      "hash": "79ba16b7e850a8379a4e45f2228272da65fc8999",
+      "hash": "4d51b9c9a2894f841eeacf740782eb556669c7ef",
       "heading": "Identifying and remedying an injection-molded part defect",
       "level": "h2",
-      "text": "Tips for Debugging Injection Molding T1 Samples Published on September 25, 2020 Originally published on fastradius.com on September 25, 2020 Injection-molded parts can go through numerous iterations before they’re ready to go to market, but perhaps none are as important as the T1 sample. While the T0 sample is usually put together just to ensure the mold works as it’s expected to, the T1 sample refers to the first instance in which an injection-molded is put together in its entirety, complete with surface finishes. The sample parts coming of the T1 sample run represent the first opportunity product teams have to truly dive into whether or not the part meets engineering requirements, note an..."
+      "text": "Identifying and remedying an injection-molded part defect It’s not uncommon for a T1 sample to have a defect — but identifying and addressing it at this early stage can make all the difference in a project’s overall cost and speed. All problems arise from a disconnect between the part’s requirements or intended function and the injection molding manufacturing requirements; addressing these problems quickly requires an in-depth understanding of both the “ideal” product and the current product. When these flaws are identified, teams should work with their mold-maker to determine how to address them effectively. Many defects are visual in nature and can therefore have fairly easy fixes. Others may have to do with the part’s performance or dimensions, which will almost certainly be more difficult to remedy or bypass, resulting in a more expensive tool rework. Common problems include:"
     },
     {
-      "hash": "79ba16b7e850a8379a4e45f2228272da65fc8999",
+      "hash": "963513b4d36595bab4bfa147ba98a4f20deeb123",
       "heading": "Short shots",
       "level": "h3",
-      "text": "Tips for Debugging Injection Molding T1 Samples Published on September 25, 2020 Originally published on fastradius.com on September 25, 2020 Injection-molded parts can go through numerous iterations before they’re ready to go to market, but perhaps none are as important as the T1 sample. While the T0 sample is usually put together just to ensure the mold works as it’s expected to, the T1 sample refers to the first instance in which an injection-molded is put together in its entirety, complete with surface finishes. The sample parts coming of the T1 sample run represent the first opportunity product teams have to truly dive into whether or not the part meets engineering requirements, note an..."
+      "text": "Short shots Short shots refer to parts that are incomplete because the mold cavity was not completely filled during the injection process. Short shots are not typically the result of poor design; they occur due to poor material flow or a problem with the injection-molding machine itself. Checking the machine and selecting a material of lower viscosity can help."
     },
     {
-      "hash": "79ba16b7e850a8379a4e45f2228272da65fc8999",
+      "hash": "0798ee047a9f1ca69c30a7de80733e3b2ae976a0",
       "heading": "Flow lines",
       "level": "h3",
-      "text": "Tips for Debugging Injection Molding T1 Samples Published on September 25, 2020 Originally published on fastradius.com on September 25, 2020 Injection-molded parts can go through numerous iterations before they’re ready to go to market, but perhaps none are as important as the T1 sample. While the T0 sample is usually put together just to ensure the mold works as it’s expected to, the T1 sample refers to the first instance in which an injection-molded is put together in its entirety, complete with surface finishes. The sample parts coming of the T1 sample run represent the first opportunity product teams have to truly dive into whether or not the part meets engineering requirements, note an..."
+      "text": "Flow lines Flow lines are ring-shaped bands that appear on the surface of the molded part. They occur when molten material inside the mold cools too quickly, becoming more viscous, and is then pushed by a material of lower viscosity that is injected afterwards. Flow marks can be avoided in later samples by increasing the injection speed or raising the temperature of the mold."
     },
     {
-      "hash": "79ba16b7e850a8379a4e45f2228272da65fc8999",
+      "hash": "67100f81840c3e7a5ef4937c63c1c8f6923ab570",
       "heading": "Silver streaking",
       "level": "h3",
-      "text": "Tips for Debugging Injection Molding T1 Samples Published on September 25, 2020 Originally published on fastradius.com on September 25, 2020 Injection-molded parts can go through numerous iterations before they’re ready to go to market, but perhaps none are as important as the T1 sample. While the T0 sample is usually put together just to ensure the mold works as it’s expected to, the T1 sample refers to the first instance in which an injection-molded is put together in its entirety, complete with surface finishes. The sample parts coming of the T1 sample run represent the first opportunity product teams have to truly dive into whether or not the part meets engineering requirements, note an..."
+      "text": "Silver streaking Silver streaking, or white stripes on the surface of the part, indicate that the injection molding material came in contact with another material — whether water, air, or remnants of another polymer — inside the mold. Thoroughly drying the material may eliminate this problem. In addition, you can evaluate the mold design to make sure it has the venting necessary to allow moisture and gas to escape."
     },
     {
-      "hash": "79ba16b7e850a8379a4e45f2228272da65fc8999",
+      "hash": "b03b773b06c6afa823f1d7c7c529464a797cf700",
       "heading": "Poor weld lines",
       "level": "h3",
-      "text": "Tips for Debugging Injection Molding T1 Samples Published on September 25, 2020 Originally published on fastradius.com on September 25, 2020 Injection-molded parts can go through numerous iterations before they’re ready to go to market, but perhaps none are as important as the T1 sample. While the T0 sample is usually put together just to ensure the mold works as it’s expected to, the T1 sample refers to the first instance in which an injection-molded is put together in its entirety, complete with surface finishes. The sample parts coming of the T1 sample run represent the first opportunity product teams have to truly dive into whether or not the part meets engineering requirements, note an..."
+      "text": "Poor weld lines Messy, visible weld lines occur when the material in the mold splits off and flows in separate directions before converging again, resulting in a bubbling weld line at the convergence point. This may occur due to venting difficulties in the mold or because the material isn’t sufficiently melted within the tool. Raising the temperature of the material, choosing a lower-viscosity material, providing a gas vent, and properly placing the gates could all potentially help."
     },
     {
-      "hash": "79ba16b7e850a8379a4e45f2228272da65fc8999",
+      "hash": "6f9761bb204b307ec4a6423e1da925fe49ee9ef1",
       "heading": "Voids and sink marks",
       "level": "h3",
-      "text": "Tips for Debugging Injection Molding T1 Samples Published on September 25, 2020 Originally published on fastradius.com on September 25, 2020 Injection-molded parts can go through numerous iterations before they’re ready to go to market, but perhaps none are as important as the T1 sample. While the T0 sample is usually put together just to ensure the mold works as it’s expected to, the T1 sample refers to the first instance in which an injection-molded is put together in its entirety, complete with surface finishes. The sample parts coming of the T1 sample run represent the first opportunity product teams have to truly dive into whether or not the part meets engineering requirements, note an..."
+      "text": "Voids and sink marks Voids refer to holes within the molded part, which occur due to rapid changes in density or the presence of air in the mold. Sink marks, or collapsed surfaces on the part, occur due to the same molding mishaps. Increasing the injection pressure, lowering the mold temperature, or selecting a highly viscous material can help to counteract rapid density or temperature changes.Adding venting to the tool near the affected areas will also allow gas to escape, which will help avoid marks."
     },
     {
-      "hash": "79ba16b7e850a8379a4e45f2228272da65fc8999",
+      "hash": "6fd5d92d536a074a85980aba1562dc9f658390ed",
       "heading": "Damage from parts sticking in the mold",
       "level": "h3",
-      "text": "Tips for Debugging Injection Molding T1 Samples Published on September 25, 2020 Originally published on fastradius.com on September 25, 2020 Injection-molded parts can go through numerous iterations before they’re ready to go to market, but perhaps none are as important as the T1 sample. While the T0 sample is usually put together just to ensure the mold works as it’s expected to, the T1 sample refers to the first instance in which an injection-molded is put together in its entirety, complete with surface finishes. The sample parts coming of the T1 sample run represent the first opportunity product teams have to truly dive into whether or not the part meets engineering requirements, note an..."
+      "text": "Damage from parts sticking in the mold If the part sustains damage during the ejection process because it would not release from the mold, a design problem may be the culprit. Ensure there’s sufficient draft and that no undercuts are present. If the design is not to blame, the cause may be too much residual pressure from the molding process — manufacturers or product teams would do well to decrease injection pressure for the next sample."
     },
     {
-      "hash": "79ba16b7e850a8379a4e45f2228272da65fc8999",
+      "hash": "58283396f78ae4d9868239f857905cbccd062d6e",
       "heading": "Streamline product design with the help of an expert manufacturing partner",
       "level": "h2",
-      "text": "Tips for Debugging Injection Molding T1 Samples Published on September 25, 2020 Originally published on fastradius.com on September 25, 2020 Injection-molded parts can go through numerous iterations before they’re ready to go to market, but perhaps none are as important as the T1 sample. While the T0 sample is usually put together just to ensure the mold works as it’s expected to, the T1 sample refers to the first instance in which an injection-molded is put together in its entirety, complete with surface finishes. The sample parts coming of the T1 sample run represent the first opportunity product teams have to truly dive into whether or not the part meets engineering requirements, note an..."
-    },
-    {
-      "hash": "a4977d2ee2c1f3bca2f5848506e7fd665cbfc5ee",
-      "heading": "Related articles",
-      "level": "h3",
-      "text": "Related articles"
-    },
-    {
-      "hash": "486e39e147c9bc6075c9492d4b5cadaf2bb6f32b",
-      "heading": "What is Geometric Dimensioning and Tolerancing (GD&T)?",
-      "level": "h2",
-      "text": "What is Geometric Dimensioning and Tolerancing (GD&T)?"
-    },
-    {
-      "hash": "3bbd9d6989501aa08e948c1ab0d7cc1b97e6269a",
-      "heading": "A Brief History of 3D Printing in Medicine",
-      "level": "h2",
-      "text": "A Brief History of 3D Printing in Medicine"
-    },
-    {
-      "hash": "a8705abac0a0166e06415ae51412b099e7ede416",
-      "heading": "Know Your Materials: PC-ABS",
-      "level": "h2",
-      "text": "Know Your Materials: PC-ABS"
+      "text": "Streamline product design with the help of an expert manufacturing partner It’s vital to identify any defects at this early stage, whether they indicate problems in the design, material, or mold; the more quickly flaws can be addressed, the more quickly a part will be ready for its intended end-use. No matter the project at hand, product teams will benefit from partnering with an expert manufacturer like SyBridge. Our team of expert engineers and designers act as liaisons between product teams and tool-makers, elevating efficiency and ensuring issues are resolved in a timely and cost-effective manner. In short, SyBridge is dedicated to helping every team achieve its goals within its desired timeline and budget. Taking an agile approach , our team of highly experienced and qualified engineers helps customers debug, modify, and adjust their designs to produce high-quality parts, fast. If you’re interested in learning more about injection molding services, contact us today."
     }
   ],
+  "sitemap_lastmod": "2023-11-15T20:11:16+00:00",
   "status": 200,
-  "structure_hash": "d35eb07259daa2a0c38a471236df7d9bf90bc087",
-  "text_excerpt": "Tips for Debugging Injection Molding T1 Samples - SyBridge Technologies about us About us overview About us overview Our Story Sybridge Advantage Sustainability Press Room Careers Injection mold tooling Injection molding tooling overview Injection molding tooling overview Design & Engineering Pre-Production Tooling Production Tooling Mold Validation Mold Maintenance SPECIALTY MANUFACTURING Specialty Manufacturing OVERVIEW Specialty Manufacturing Overview 3D Printing Quick-Turn Production Markets Served Markets Served Overview Markets Served Overview Healthcare Packaging Consumer Mobility Industrial More+ More Overview Blog Contact Locations United States Mexico Canada Europe Asia Start the Conversation Home > Resources > Tips for Debugging Injection Molding T1 Samples Tips for Debugging Injection Molding T1 Samples Published on September 25, 2020 Originally published on fastradius.com on September 25, 2020 Injection-molded parts can go through numerous iterations before they’re ready to go to market, but perhaps none are as important as the T1 sample. While the T0 sample is usually put together just to ensure the mold works as it’s expected to, the T1 sample refers to the first in...",
-  "text_hash": "5ee1e2d2bb112e40c8f2db505307594066b5e478",
+  "structure_hash": "b98c3e6c46a3ec031f94596febe75356cfa902cb",
+  "text_excerpt": "Tips for Debugging Injection Molding T1 Samples Published on September 25, 2020 Originally published on fastradius.com on September 25, 2020 Injection-molded parts can go through numerous iterations before they’re ready to go to market, but perhaps none are as important as the T1 sample. While the T0 sample is usually put together just to ensure the mold works as it’s expected to, the T1 sample refers to the first instance in which an injection-molded is put together in its entirety, complete with surface finishes. The sample parts coming of the T1 sample run represent the first opportunity product teams have to truly dive into whether or not the part meets engineering requirements, note any surface finish imperfections, and more. Of course, the more potential flaws that teams are able to identify and correct in the T1 sample, the fewer additional sample runs will be needed on the way to developing a finished product. That’s why the T1 sample is so critical, and why properly identifying flaws at this stage can lead to drastic time and cost savings. With that in mind, here’s how product teams should approach injection molding debugging to ensure better outcomes more quickly. Debugg...",
+  "text_hash": "79ba16b7e850a8379a4e45f2228272da65fc8999",
   "title": "Tips for Debugging Injection Molding T1 Samples - SyBridge Technologies",
   "url": "https://sybridge.com/injection-molding-t1-samples"
 }

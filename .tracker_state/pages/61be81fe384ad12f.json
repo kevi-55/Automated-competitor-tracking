@@ -1,0 +1,365 @@
+{
+  "canonical": "https://www.protolabs.com/resources/guides-and-trend-reports/what-is-3d-printing",
+  "category": "content",
+  "competitor": "Protolabs",
+  "ctas": [
+    {
+      "href": "https://www.protolabs.com/services/3d-printing/direct-metal-laser-sintering",
+      "text": "Learn More →"
+    },
+    {
+      "href": "https://www.protolabs.com/services/3d-printing/stereolithography",
+      "text": "Learn More →"
+    },
+    {
+      "href": "https://www.protolabs.com/services/3d-printing/selective-laser-sintering",
+      "text": "Learn More →"
+    },
+    {
+      "href": "https://www.protolabs.com/services/3d-printing/multi-jet-fusion",
+      "text": "Learn More →"
+    },
+    {
+      "href": "https://www.protolabs.com/services/3d-printing/advanced-photopolymers",
+      "text": "Learn More →"
+    },
+    {
+      "href": "https://www.protolabs.com/services/3d-printing/polyjet",
+      "text": "Learn More →"
+    },
+    {
+      "href": "https://www.protolabs.com/services/3d-printing/fused-deposition-modeling",
+      "text": "Learn More →"
+    }
+  ],
+  "discovered_via": "sitemap",
+  "fetched_at": "2026-08-17T03:48:59+00:00",
+  "final_url": "https://www.protolabs.com/resources/guides-and-trend-reports/what-is-3d-printing",
+  "first_seen_at": "2026-08-17T03:48:59+00:00",
+  "h1": "How Does 3D Printing or Additive Manufacturing Work?",
+  "headings": [
+    {
+      "level": "h1",
+      "text": "How Does 3D Printing or Additive Manufacturing Work?"
+    },
+    {
+      "level": "h2",
+      "text": "Learn about additive manufacturing technologies, industry applications, and benefits from prototyping to production"
+    },
+    {
+      "level": "h2",
+      "text": "How Does 3D Printing Work?"
+    },
+    {
+      "level": "h2",
+      "text": "Common 3D Printing Applications"
+    },
+    {
+      "level": "h3",
+      "text": "3D Printing Toolkit"
+    },
+    {
+      "level": "h2",
+      "text": "Emerging Trends in 3D Printing"
+    },
+    {
+      "level": "h3",
+      "text": "Economic Growth"
+    },
+    {
+      "level": "h3",
+      "text": "Sustainability"
+    },
+    {
+      "level": "h3",
+      "text": "Advancement in AM Tech"
+    },
+    {
+      "level": "h3",
+      "text": "Metal Printing"
+    },
+    {
+      "level": "h3",
+      "text": "Additive Education"
+    },
+    {
+      "level": "h2",
+      "text": "Types of 3D Printing and Use Cases"
+    },
+    {
+      "level": "h3",
+      "text": "Direct Metal Laser Sintering (DMLS)"
+    },
+    {
+      "level": "h3",
+      "text": "Stereolithography (SLA)"
+    },
+    {
+      "level": "h3",
+      "text": "Selective Laser Sintering (SLS)"
+    },
+    {
+      "level": "h3",
+      "text": "Multi Jet Fusion (MJF)"
+    },
+    {
+      "level": "h3",
+      "text": "Hybrid PhotoSynthesis (HPS)"
+    },
+    {
+      "level": "h3",
+      "text": "PolyJet (PJET)"
+    },
+    {
+      "level": "h3",
+      "text": "Fused Deposition Modeling (FDM)"
+    },
+    {
+      "level": "h2",
+      "text": "Common 3D Printing Terms"
+    },
+    {
+      "level": "h2",
+      "text": "Defects and How to Mitigate Them in Your Designs"
+    },
+    {
+      "level": "h2",
+      "text": "Post-Processing for 3D Printing"
+    },
+    {
+      "level": "h2",
+      "text": "3D Printing Resources"
+    }
+  ],
+  "images": [
+    {
+      "alt": "Timeline images",
+      "src": "/media/dfyfmbs5/3dp-timeline.jpg"
+    },
+    {
+      "alt": "",
+      "src": "/media/urvdjfr1/aerospace_icon_32px.svg"
+    },
+    {
+      "alt": "",
+      "src": "/media/0bgfd4dj/automotive_icon_32px.svg"
+    },
+    {
+      "alt": "",
+      "src": "/media/2cfjtjg3/electronics_icon_32px.svg"
+    },
+    {
+      "alt": "",
+      "src": "/media/3uzll1ya/medical_icon_32px.svg"
+    },
+    {
+      "alt": "Computer with digital part",
+      "src": "/media/q1lpvwk1/3dp-digital.png?width=670&height=360&v=1d97835f71fda80"
+    },
+    {
+      "alt": "Silver 3D printed parts",
+      "src": "/media/hjofsrnx/dmls-process-thumb.jpg?width=500&height=270"
+    },
+    {
+      "alt": "",
+      "src": "/media/ulaksqdy/sla_process_2016_1126_med_res_570x308.jpg?width=500&height=270.17543859649123"
+    },
+    {
+      "alt": "SLS Process",
+      "src": "/media/d4enx4gb/sls-process-thumb.jpg?width=500&height=270"
+    },
+    {
+      "alt": "Multijet process",
+      "src": "/media/cttda043/mjf-thumb.jpg?width=500&height=270"
+    },
+    {
+      "alt": "",
+      "src": "/media/qbonohr5/dls-process-thumb.jpg?width=500&height=270"
+    },
+    {
+      "alt": "Polyjet machine",
+      "src": "/media/xlgdlfhg/polyjet-thumb.jpg?width=500&height=270"
+    },
+    {
+      "alt": "",
+      "src": "/media/vddptxi0/fdm-hero-image-1-1.png?rmode=max&width=926&height=617"
+    },
+    {
+      "alt": "Vector graphic",
+      "src": "/media/lmnhfe1l/3dp_mistakes-to-avoid_dmls-overhangs.jpg"
+    },
+    {
+      "alt": "Vector graphic",
+      "src": "/media/wgmot305/3dp_mistakes-to-avoid_feature-size-per-resolution.jpg"
+    },
+    {
+      "alt": "Clear 3D printed part",
+      "src": "/media/zjbhshhf/unfinished.jpg"
+    },
+    {
+      "alt": "A Round and Silver 3D Printed part",
+      "src": "/media/jjxfulan/standard.jpg"
+    },
+    {
+      "alt": "Round and clear 3D printed part",
+      "src": "/media/saofxaat/clear-coat.jpg"
+    },
+    {
+      "alt": "A Round and Silver 3D Printed part",
+      "src": "/media/g5elyjzm/polish.jpg"
+    }
+  ],
+  "meta_description": "Gain an understanding of the various 3D printing technologies, and how they can be used to improve product development through rapid prototyping and production.",
+  "modified_at": "",
+  "monitored_text": "How Does 3D Printing or Additive Manufacturing Work? Learn about additive manufacturing technologies, industry applications, and benefits from prototyping to production Content in this Article How Does 3D Printing Work? Common 3D Printing Applications Emerging Trends in 3D Printing Types of 3D Printing and Use Cases Common 3D Printing Terms Defects and How to Mitigate Them in Your Designs Post-Processing for 3D Printing 3D Printing Resources A good starting point for 3D printing is to look at it as a process in which parts are built by adding material to form an object as opposed to subtracting it as is the case with CNC machining. Some people like to call it by its more formal name: additive manufacturing (AM), especially when linked to industrial-grade quality and production quantities but to be honest, most people just use the term 3DP, and often, so do we. But who came up with such a cool idea? At first it was the stuff of science fiction. Arthur C. Clarke, author, came up with the general premise behind 3D printing in 1964. It would be another 20 years before legit 3D printing came on the scene, thanks to Chuck Hull. He patented the stereolithography (SLA) process, which uses lasers to solidify layers of thermoset resin. That invention marked the true start of today's additive manufacturing. Seeing the potential for a growth industry, in 1986 Hull founded 3D Systems. A year later, the company released the SLA-1, the world’s first commercially available SLA printer. One of the earliest uses of stereolithography was in rapid prototyping, where it was used to quickly create physical prototypes of new parts and products. This allowed designers and engineers to test their designs more quickly and cost-effectively than with traditional manufacturing methods. Fused deposition modeling (FDM), which captured the hearts of desktop hobbyists worldwide, came along in 1988, the same year the first patent for selective laser sintering (SLS) was awarded. More on those and other processes later. So, beyond the cool factor, what’s up with the love affair with 3D printing? Well, compared to traditional processes 3D printing has a lot going for it. It lets you: build complex, organic geometries and internal features with limited effect on part cost consolidate multi-component assemblies into a single part avoid upfront tooling (mold) costs speed production to get your parts fast One fundamental advantage of 3D printing is that it allows for rapid iteration. You can get a “first draft” part one day, find something you’d like to tweak in the design, and have the new version of the part in just days. The second important advantage is that you have remarkable (though not complete ) design flexibility. Medical and aerospace companies, especially<dynamic-value> to leverage these two benefits. How Does 3D Printing Work? As with manufacturing any part, it starts with a designer using a CAD application to create a 3D part model. Once the part has been quoted in our system and adjustments have been made to ensure manufacturability, that digital file can be sent to a printer to be built, layer-by-layer. Depending on the process you choose, it might start as a bed of powder or resin, or possibly layers of melted material, much like an inkjet printer. Chemicals, UV light, or high-powered lasers will fuse the layers until the part is complete. There’s more to it than that, and we’ll talk about the individual processes in a later section. Common 3D Printing Applications It hasn’t been all that long since 3D printing became a go-to process for many industries. Now, even the largest companies rely on additive manufacturing to create unique parts for the products. Aerospace Prototyping of components is commonplace to speed iteration, and test and validate processes, but more and more printed parts are end-use, and heading into space Automotive Making parts faster means bringing cutting-edge technologies to cars, trucks, and buses and reducing model life cycles Electronics Consumers crave well-designed products that enhance convenience with 3D printing lending a development hand to macrotrends like mass customization Medical It’s no exaggeration to say that rapid iteration in the medical industry saves lives with 3D printing a reliable method to get products and devices past gate approvals and closer to market Additive manufacturing can be leveraged for both rapid prototyping and production in these and other large industry sectors. Examples of typical parts, include: engine components form and fit prototypes fuel injectors heat exchangers and heat sinks housings and enclosures jigs and fixtures medical devices snap fits surgical instrumentation 3D Printing Toolkit Get in-depth design advice to optimize 3D-printed parts. Designing with additive manufacturing in mind can accelerate production time and reduce overall cost. Check Out The Toolkit Emerging Trends in 3D Printing Economic Growth The 3D printing industry is growing by leaps and bounds. A 2022 report from our team at Hubs indicated that the 3D printing market will triple in size over the next four years, reaching a value of $44.5 billion in 2026. If you aren’t using 3DP now to manufacture your parts, you certainly might soon. Parallel to this growth are advancements in printer quality and standardization of additive processes, requirements that stem from the needs of two major industries: aerospace and medical. These often pave the way for advances in the automotive industry and industrial equipment. Sustainability We’re seeing continued progress in AM material handling and recycling best practices, which includes the materials required for post-processing of 3DP parts. As additive’s share of the production parts market expands, the number of sustainable materials will follow suit, but so will AM workflow processes that lead to responsible production and utilization. Advancement in AM Tech Industrial printers have become faster and more precise in their builds. Also, there are many more finishing options available that range from material strengthening to smoothing surface roughness and aesthetics. All these make 3D printing a reasonable solution for manufacturing prototypes, as well as end-use and production-quantity parts, too. Metal Printing One of the huge growth areas has been in metal 3D printing. With parts that are near fully dense and have all the geometric advantages 3DP offers, it makes a lot of sense. Moreover, printers like the GE Additive X Line 2000R can print parts as large as 31.5 in. x 15.7 in. x 19.7 in. (800mm x 400 mm x 600mm)—about the size of a watermelon—which makes combining multiple metal parts into one that much more realistic an option. Additive Education STEM programs and universities are helping train the next generation of AM practitioners. They are focusing on the design principles and capabilities that are unique to 3D printing and have potential to drive greater manufacturing and product development efficiencies. So, the most influential trend driving additive production is the increased comfort engineers have with 3D printing as a true industrial manufacturing process. Roughly a decade ago, 3D printing started to become a mainstream process for prototyping applications and now many engineers have access to a printer in their office or lab and use it on a frequent basis. Types of 3D Printing and Use Cases Having trouble deciding which printing technology makes the most sense for your parts? See below to guide you to the answer. Direct Metal Laser Sintering (DMLS) The DMLS machine begins sintering each layer—first the support structures to the base plate, then the part itself—with a laser aimed onto a bed of metallic powder. After a cross-section layer of powder is micro-welded, the build platform shifts down and a recoater blade moves across the platform to deposit the next layer of powder into an inert build chamber. The process is repeated layer by layer until the build is complete. Learn More → | Read Design Tip → Pros Suitable for end-use applications High resolution parts Create complex geometries with high performance metals Cons Often requires extensive post-processing and heat treatments Slower build process Expensive process Use Cases Prototyping in production-grade materials Complex geometries Functional, end-use parts Reducing metal components in an assembly Stereolithography (SLA) The SLA machine begins drawing the layers of the support structures, followed by the part itself, with an ultraviolet laser aimed onto the surface of a liquid thermoset resin. After a layer is imaged on the resin surface, the build platform shifts down and a recoating bar moves across the platform to apply the next layer of resin. The process is repeated layer by layer until the build is complete. Learn More → | Read Design Tip → Pros Smooth surface finish Detailed feature resolution Materials with high heat deflection Cons Colors and materials can weaken over time with UV exposure Limited suitability for functional testing Diminished strength along the Z axis Use Cases Features as small as 0.002 in. (0.05mm) Tight tolerance requirements Need smooth surface finishes Selective Laser Sintering (SLS) The SLS machine begins sintering each layer of part geometry into a heated bed of nylon-based powder. After each layer is fused, a roller moves across the bed to distribute the next layer of powder. The process is repeated layer by layer until the build is complete. Learn More → | Read Design Tip → Pros Stiff and durable parts Isotropic mechanical properties Materials with chemical resistance Cons Textured surface finish Wider tolerances Warpage potential on large parts Use Cases Jigs and fixtures Housings Snap fits and living hinges Multi Jet Fusion (MJF) Multi Jet Fusion uses an inkjet array to selectively apply fusing and detailing agents across a bed of nylon powder, which are then fused by heating elements into a solid layer. After each layer, powder is distributed on top of the bed and the process repeats until the part is complete. Learn More → | Read Design Tip → Pros Stiff and durable parts Economical Materials with heat deflection properties Cons Textured surface finish Inconsistent salt and pepper appearance when undyed Warpage potential Use Cases Parts requiring consistent isotropic mechanical properties Functional prototypes and end-use parts Complex and organic geometries with fine features Hybrid PhotoSynthesis (HPS) HPS technology integrates both a precision laser and a digital light processing (DLP) system to simultaneously image internal and external structures. This dual approach allows the Axtra3D printer to overcome traditional limitations and produce exceptionally detailed parts with unmatched speed and quality. Learn More → Pros Fast build process Durable parts Cons Thickness and warpage limitations Smaller platform Two-part materials require additional heat treatment steps Use Cases High accuracy features for testing and validation Production grade parts with excellent throughput Glass-like surface finishes for cosmetic prototypes PolyJet (PJET) The PolyJet process begins by spraying small droplets of liquid photopolymers in layers that are instantly UV cured. Voxels (three-dimensional pixels) are strategically placed during the build, which allow for the combination of both flexible and rigid photopolymers know as digital materials . Each voxel has a vertical thickness equal to the layer thickness of 30 microns. The fine layers of digital materials accumulate on the build platform to create accurate 3D-printed parts. Learn More → | Read Design Tip → Pros Moderate price Prototype over-molded parts Range of durometer options Cons Limited suitability for functional testing Limited strength Colors and materials can weaken over time with UV exposure Use Cases Prototyping designs for over-molding or silicone rubber parts Combining two colors or durometers into a single part Simulating elastomers or flexible parts Fused Deposition Modeling (FDM) A thermoplastic filament or spool of plastic is heated to the melting point. The hot, liquid plastic emerges through a nozzle to create a thin, single layer along the X and Y axes on the build platform. The layer cools and hardens quickly. As each layer is completed, the platform is lowered and additional molten plastic is deposited, growing the part vertically (along the Z axis). Learn More → Pros Can build with desktop equipment Rapid prototyping solution Moderate strength Cons Rippled surface texture Limited suitability for functional testing Diminished strength along the Z axis Use Cases Makes prototypes for testing fit and form Parts functional in high heat, chemical exposure, or mechanical stress Protolabs offers all of the above processes, except for FDM. Our digital network of manufacturing partners at Hubs offers desktop and industrial FDM printing with part sizes up to 19.68 in. x 19.68 in. x 19.68 in. (500mm x 500mm x 500mm). Common 3D Printing Terms Additive expand_less expand_more With machining, material is cut away (or subtracted) from blocks, bars, or rods to create a part. With additive manufacturing—and specifically 3D printing—materials are added onto one another to create a part. Build expand_less expand_more Essentially the part you are manufacturing while it’s in the process of being made. Build chamber expand_less expand_more The area in which 3D-printed parts are manufactured. To avoid contamination during the build, it is typically sealed and sometimes injected with an inert gas to remove debris. Build plate expand_less expand_more This is the physical plate on which the part is built. It can also be referred to as the build platform or the print bed. DfAM expand_less expand_more An acronym for design for additive manufacturing . It encompasses rules and best practices to achieve functional parts via additive processes, such as 3D printing. Infill expand_less expand_more The material inside your part that helps it maintain its structure. Layer thickness expand_less expand_more The height of each individual layer of material that is added to a 3D print during the printing process. It is one of the primary factors that affects the quality and resolution of the final print. Orientation expand_less expand_more Part orientation refers to how parts are digitally placed in the 3D printer during the build. Orientation selection affects support structure design, surface finish quality, part strength, and build time. When printing, the part height is defined as the Z-axis. The X- and Y- axes serve as the boundary axes in line with the build plate. Post-processing expand_less expand_more Post-processing is a broad term referring to any of the work done on 3D-printed parts once the printer signals a build is complete. This can include support structure removal, powder removal, sanding, blasting, heat treatments, and other secondary operations. Resolution expand_less expand_more This is sometimes referred to as vertical layer height, Z height, or layer thickness. The higher the resolution, the smaller the layer thickness. It is generally measured in microns. STL file expand_less expand_more This file type is used for 3D printing. It describes the surface of the part by breaking it into a collection of triangles. The STL file lists the location of each point of every triangle as well as which side of the triangle faces outwards. Learn more here . Support structures expand_less expand_more Support structures are required in many 3D printing processes to achieve printability. They are a scaffolding system that ensures the part can build layer-by-layer without experiencing major defects. They also serve as a medium to adhere the part to the build plate during printing. Design of support structure systems is key to achieving a quality part. Some of the most labor-intensive work around 3D-printed parts involves removing support structure material. Warping expand_less expand_more An undesirable distortion caused by differential cooling of printed layers or heaviness of material with insufficient support structure. Defects and How to Mitigate Them in Your Designs The best way to avoid problems with 3D-printed parts is to follow DFM guidelines closely. Here are a few things to watch out for in your designs: Avoid Large Overhangs Large overhangs can be an issue in 3D printing because they require support structures to be printed underneath them, which can be time-consuming, increase material consumption, and lead to poor surface quality on the bottom of the overhang. It’s especially a problem with DMLS parts. Eliminate Thin Walls Thin walls may not have enough strength to withstand forces or stresses during use and may deform or break easily. Potentially, they can cause warp, or layers may separate during printing. You may end up with a rough surface finish due to poor bonding between layers and may even have difficulties printing a part if walls are too thin. Watch Out for Warpage Warpage in 3D-printed parts is a common issue that can be caused by a variety of factors, including the type of material being used, the design of the part, and the conditions under which the part is printed. You may need to add supports or use thicker walls. Another solution is to add a lattice structure to keep large, flat areas from sagging. One of the best ways to avoid warpage is to choose an optimal printing orientation to ensure your part can support itself with minimal need for supports. Finally, adding more material (sometimes called a brim or raft ) to the bottom of a part can provide additional adhesion to the build plate and reduce the likelihood of warpage. Check out this design tip so you can avoid some of the biggest 3DP design mistakes. When designing for DMLS, be cautious about overhangs—abrupt changes in a part’s geometry. As seen in this example, if the next layer is larger than the previous layer, it will create an overhang. DMLS is fairly limited in its support of overhangs. In this illustration, the blue color represents micro resolution (MR), green is high resolution (HR), and gray is normal resolution (NR). Also, the minimum channel and minimum Z dimensions apply to both NR and HR. Post-Processing for 3D Printing Looking to boost the strength, clarity, or appearance of your 3D-printed parts? Choose from microfluidic and micro-resolution materials, metal plating, secondary machining, and custom finishes like painting, clear coating, and decaling. Surface Finish Options Unfinished Dots, or standing \"nibs,\" remain evident on the bottom of the part from the support structure remnants. Natural Supported surfaces are sanded down to eliminate the support nibs. Standard Supported surfaces are sanded, and the entire part is finely blasted for a consistent look. Note that the layers are still present. Custom Soft-touch paint, clear part finishing, painting, masking, color matching, decals/graphic, and texture finishes are available. An unfinished ABS-like part that was 3D-printed with SLA. A metal part with standard finish that was 3D-printed with DMLS. Custom Finish Options Clear Coat Clear cosmetic finish that can be applied to ABS-like Translucent/Clear (WaterShed XC 11122) and PC-like Translucent/Clear (Accura 60) materials. Painting After smoothing the part with sanding and polishing, parts can be painted with automotive-grade paint. Provide a pantone color with your quote request. We also offer soft-touch painting. Plating Electroless nickel plating can be used to achieve parts that are similar to cast aluminum or magnesium. Dyeing Dyeing is another method for adding color to 3D prints. This is faster option with a limited color selection, so is a more cost-effective choice than painting. Decaling Decaling can be used to add a logo or other graphics to boost cosmetics or function. Polishing We can polish parts to a mirror-like finish. If this is a requirement, we ask that you provide either a drawing or image that indicates your finish expectations. Heat Treatment Harden and strengthen metal 3D prints with multiple heat treatment options: NADCAP heat treatment, hot isostatic pressing (HIP), solution annealing, and aging. Machining Machine metal 3D prints to achieve exceptional surface finish quality or meet tight tolerances. Vapor Smoothing Used on select nylon parts made using the SLS or MJF printing processes. A chemical vapor significantly reduces surface roughness. An ABS-like part with custom clear coat that was 3D-printed with SLA. A metal part with high polish that was 3D-printed with DMLS. So, whether you’re looking for prototypes or end-use production parts, additive manufacturing has a lot going for it. From geometric flexibility in a variety of materials to rapid iteration that gets you high-quality parts within just days, our various 3D printing processes provide you with what you need to get the job done. If you have any questions regarding your quote or design, talk with our applications engineers to help guide you through the process. We look forward to working with you on your next project! 3D Printing Resources Where to Get 3D Printing Files There’s a thriving market for free 3DP CAD files . Here are just some of the places people look to find something they might be able to work with: All3DP Cults3D Free3D NASA NIH 3D Print Exchange Pinshape Thangs Thingiverse Software for 3D Printing Design There are quite a few options available to you when it comes to choosing a computer-aided design (CAD) program or additional support software. Here are just a few: 3DXpert Altair Inspire Print3D & OptiStruct Ansys Additive Suite Autodesk Fusion 360 CREO Materialise MSC Apex Generative Design nTopology Siemens Solid Edge SOLIDWORKS There are even some powerful free CAD programs you can try if you’re just starting out. Accepted CAD Files for 3D Printing No matter what program you choose to work with, note that we accept CAD in the following file formats: MESH (.stl) STEP (.stp/step) SOLIDWORKS (.sldprt) IGES (.igs/.iges)",
+  "published_at": "",
+  "requested_url": "https://www.protolabs.com/resources/guides-and-trend-reports/what-is-3d-printing",
+  "schema_version": 2,
+  "sections": [
+    {
+      "hash": "155be3859d992d5f88f548f6fcec211f5685253c",
+      "heading": "How Does 3D Printing or Additive Manufacturing Work?",
+      "level": "h1",
+      "text": "How Does 3D Printing or Additive Manufacturing Work?"
+    },
+    {
+      "hash": "dbe297896f52aeddcd71789e8a7b86006342e1d4",
+      "heading": "Learn about additive manufacturing technologies, industry applications, and benefits from prototyping to production",
+      "level": "h2",
+      "text": "Learn about additive manufacturing technologies, industry applications, and benefits from prototyping to production"
+    },
+    {
+      "hash": "b1ee0da4bd596af08440057e50f4b26c2ac8c585",
+      "heading": "How Does 3D Printing Work?",
+      "level": "h2",
+      "text": "How Does 3D Printing Work? As with manufacturing any part, it starts with a designer using a CAD application to create a 3D part model. Once the part has been quoted in our system and adjustments have been made to ensure manufacturability, that digital file can be sent to a printer to be built, layer-by-layer. Depending on the process you choose, it might start as a bed of powder or resin, or possibly layers of melted material, much like an inkjet printer. Chemicals, UV light, or high-powered lasers will fuse the layers until the part is complete. There’s more to it than that, and we’ll talk about the individual processes in a later section."
+    },
+    {
+      "hash": "e0a441a21fb4cfeeec6ad1d6f878c067ec735951",
+      "heading": "Common 3D Printing Applications",
+      "level": "h2",
+      "text": "Common 3D Printing Applications It hasn’t been all that long since 3D printing became a go-to process for many industries. Now, even the largest companies rely on additive manufacturing to create unique parts for the products."
+    },
+    {
+      "hash": "43ed170be5129d265e1cafb033c51cb1c365ddf5",
+      "heading": "3D Printing Toolkit",
+      "level": "h3",
+      "text": "3D Printing Toolkit Get in-depth design advice to optimize 3D-printed parts. Designing with additive manufacturing in mind can accelerate production time and reduce overall cost. Check Out The Toolkit"
+    },
+    {
+      "hash": "6629676580e699199a6575c750b78d6df2715c39",
+      "heading": "Emerging Trends in 3D Printing",
+      "level": "h2",
+      "text": "Emerging Trends in 3D Printing Emerging Trends in 3D Printing"
+    },
+    {
+      "hash": "35c03f9ca47a5d80cea198d9eca2952023b28ebc",
+      "heading": "Economic Growth",
+      "level": "h3",
+      "text": "Economic Growth The 3D printing industry is growing by leaps and bounds. A 2022 report from our team at Hubs indicated that the 3D printing market will triple in size over the next four years, reaching a value of $44.5 billion in 2026. If you aren’t using 3DP now to manufacture your parts, you certainly might soon. Parallel to this growth are advancements in printer quality and standardization of additive processes, requirements that stem from the needs of two major industries: aerospace and medical. These often pave the way for advances in the automotive industry and industrial equipment."
+    },
+    {
+      "hash": "3620c53a2ebe1b43c23928c5d6f553115dd074d6",
+      "heading": "Sustainability",
+      "level": "h3",
+      "text": "Sustainability We’re seeing continued progress in AM material handling and recycling best practices, which includes the materials required for post-processing of 3DP parts. As additive’s share of the production parts market expands, the number of sustainable materials will follow suit, but so will AM workflow processes that lead to responsible production and utilization."
+    },
+    {
+      "hash": "2d25a32976a887c3220a63276590a93d551928f5",
+      "heading": "Advancement in AM Tech",
+      "level": "h3",
+      "text": "Advancement in AM Tech Industrial printers have become faster and more precise in their builds. Also, there are many more finishing options available that range from material strengthening to smoothing surface roughness and aesthetics. All these make 3D printing a reasonable solution for manufacturing prototypes, as well as end-use and production-quantity parts, too."
+    },
+    {
+      "hash": "f77ccb19a1063683f0e71aeb1dde031ccc5c918a",
+      "heading": "Metal Printing",
+      "level": "h3",
+      "text": "Metal Printing One of the huge growth areas has been in metal 3D printing. With parts that are near fully dense and have all the geometric advantages 3DP offers, it makes a lot of sense. Moreover, printers like the GE Additive X Line 2000R can print parts as large as 31.5 in. x 15.7 in. x 19.7 in. (800mm x 400 mm x 600mm)—about the size of a watermelon—which makes combining multiple metal parts into one that much more realistic an option."
+    },
+    {
+      "hash": "b4b8e83f73fcaa53c940ef33d8ef84f576fdda95",
+      "heading": "Additive Education",
+      "level": "h3",
+      "text": "Additive Education STEM programs and universities are helping train the next generation of AM practitioners. They are focusing on the design principles and capabilities that are unique to 3D printing and have potential to drive greater manufacturing and product development efficiencies. So, the most influential trend driving additive production is the increased comfort engineers have with 3D printing as a true industrial manufacturing process. Roughly a decade ago, 3D printing started to become a mainstream process for prototyping applications and now many engineers have access to a printer in their office or lab and use it on a frequent basis."
+    },
+    {
+      "hash": "d677db24f6b62173851d075e8110212d6e1c2f00",
+      "heading": "Types of 3D Printing and Use Cases",
+      "level": "h2",
+      "text": "Types of 3D Printing and Use Cases Having trouble deciding which printing technology makes the most sense for your parts? See below to guide you to the answer. Direct Metal Laser Sintering (DMLS) The DMLS machine begins sintering each layer—first the support structures to the base plate, then the part itself—with a laser aimed onto a bed of metallic powder. After a cross-section layer of powder is micro-welded, the build platform shifts down and a recoater blade moves across the platform to deposit the next layer of powder into an inert build chamber. The process is repeated layer by layer until the build is complete. Learn More → | Read Design Tip → Pros Suitable for end-use applications High resolution parts Create complex geometries with high performance metals Cons Often requires extensive post-processing and heat treatments Slower build process Expensive process Use Cases Prototyping in production-grade materials Complex geometries Functional, end-use parts Reducing metal components in an assembly Stereolithography (SLA) The SLA machine begins drawing the layers of the support structures, followed by the part itself, with an ultraviolet laser aimed onto the surface of a liqui..."
+    },
+    {
+      "hash": "9a2a29fe43524651651a663aee87e187a0103e5c",
+      "heading": "Direct Metal Laser Sintering (DMLS)",
+      "level": "h3",
+      "text": "Direct Metal Laser Sintering (DMLS) The DMLS machine begins sintering each layer—first the support structures to the base plate, then the part itself—with a laser aimed onto a bed of metallic powder. After a cross-section layer of powder is micro-welded, the build platform shifts down and a recoater blade moves across the platform to deposit the next layer of powder into an inert build chamber. The process is repeated layer by layer until the build is complete. Learn More → | Read Design Tip →"
+    },
+    {
+      "hash": "c86306ac3631e41b12c2e8fc6b1c70d6a0789ddf",
+      "heading": "Stereolithography (SLA)",
+      "level": "h3",
+      "text": "Stereolithography (SLA) The SLA machine begins drawing the layers of the support structures, followed by the part itself, with an ultraviolet laser aimed onto the surface of a liquid thermoset resin. After a layer is imaged on the resin surface, the build platform shifts down and a recoating bar moves across the platform to apply the next layer of resin. The process is repeated layer by layer until the build is complete. Learn More → | Read Design Tip →"
+    },
+    {
+      "hash": "519b09bd4a4dfe0110cc2612c38388e11472f8c0",
+      "heading": "Selective Laser Sintering (SLS)",
+      "level": "h3",
+      "text": "Selective Laser Sintering (SLS) The SLS machine begins sintering each layer of part geometry into a heated bed of nylon-based powder. After each layer is fused, a roller moves across the bed to distribute the next layer of powder. The process is repeated layer by layer until the build is complete. Learn More → | Read Design Tip →"
+    },
+    {
+      "hash": "681a2c9368e5bb8609808fa586200b86454c8673",
+      "heading": "Multi Jet Fusion (MJF)",
+      "level": "h3",
+      "text": "Multi Jet Fusion (MJF) Multi Jet Fusion uses an inkjet array to selectively apply fusing and detailing agents across a bed of nylon powder, which are then fused by heating elements into a solid layer. After each layer, powder is distributed on top of the bed and the process repeats until the part is complete. Learn More → | Read Design Tip →"
+    },
+    {
+      "hash": "f3266adf5162ab8f25ad9b4b0a0d2ca20aa5c644",
+      "heading": "Hybrid PhotoSynthesis (HPS)",
+      "level": "h3",
+      "text": "Hybrid PhotoSynthesis (HPS) HPS technology integrates both a precision laser and a digital light processing (DLP) system to simultaneously image internal and external structures. This dual approach allows the Axtra3D printer to overcome traditional limitations and produce exceptionally detailed parts with unmatched speed and quality. Learn More →"
+    },
+    {
+      "hash": "7b6133c9db7fa95a0c769bc2ccf4a5a97161736b",
+      "heading": "PolyJet (PJET)",
+      "level": "h3",
+      "text": "PolyJet (PJET) The PolyJet process begins by spraying small droplets of liquid photopolymers in layers that are instantly UV cured. Voxels (three-dimensional pixels) are strategically placed during the build, which allow for the combination of both flexible and rigid photopolymers know as digital materials . Each voxel has a vertical thickness equal to the layer thickness of 30 microns. The fine layers of digital materials accumulate on the build platform to create accurate 3D-printed parts. Learn More → | Read Design Tip →"
+    },
+    {
+      "hash": "c22a4e94f0245fdbdc4c62cf020abad64fd4056e",
+      "heading": "Fused Deposition Modeling (FDM)",
+      "level": "h3",
+      "text": "Fused Deposition Modeling (FDM) A thermoplastic filament or spool of plastic is heated to the melting point. The hot, liquid plastic emerges through a nozzle to create a thin, single layer along the X and Y axes on the build platform. The layer cools and hardens quickly. As each layer is completed, the platform is lowered and additional molten plastic is deposited, growing the part vertically (along the Z axis). Learn More →"
+    },
+    {
+      "hash": "9ef838ebb0061e7e95db8613e4b2c3d63343c4e6",
+      "heading": "Common 3D Printing Terms",
+      "level": "h2",
+      "text": "Common 3D Printing Terms"
+    },
+    {
+      "hash": "31f03784f60651c6df30a6e76e95a97d55a969ac",
+      "heading": "Defects and How to Mitigate Them in Your Designs",
+      "level": "h2",
+      "text": "Defects and How to Mitigate Them in Your Designs The best way to avoid problems with 3D-printed parts is to follow DFM guidelines closely. Here are a few things to watch out for in your designs: Avoid Large Overhangs Large overhangs can be an issue in 3D printing because they require support structures to be printed underneath them, which can be time-consuming, increase material consumption, and lead to poor surface quality on the bottom of the overhang. It’s especially a problem with DMLS parts. Eliminate Thin Walls Thin walls may not have enough strength to withstand forces or stresses during use and may deform or break easily. Potentially, they can cause warp, or layers may separate during printing. You may end up with a rough surface finish due to poor bonding between layers and may even have difficulties printing a part if walls are too thin. Watch Out for Warpage Warpage in 3D-printed parts is a common issue that can be caused by a variety of factors, including the type of material being used, the design of the part, and the conditions under which the part is printed. You may need to add supports or use thicker walls. Another solution is to add a lattice structure to keep la..."
+    },
+    {
+      "hash": "1819633fb72e173ddee31b8ff4a6a97486fcf2ee",
+      "heading": "Post-Processing for 3D Printing",
+      "level": "h2",
+      "text": "Post-Processing for 3D Printing Looking to boost the strength, clarity, or appearance of your 3D-printed parts? Choose from microfluidic and micro-resolution materials, metal plating, secondary machining, and custom finishes like painting, clear coating, and decaling. Surface Finish Options Unfinished Dots, or standing \"nibs,\" remain evident on the bottom of the part from the support structure remnants. Natural Supported surfaces are sanded down to eliminate the support nibs. Standard Supported surfaces are sanded, and the entire part is finely blasted for a consistent look. Note that the layers are still present. Custom Soft-touch paint, clear part finishing, painting, masking, color matching, decals/graphic, and texture finishes are available."
+    },
+    {
+      "hash": "f880da8874a3a01d7ea6aa8fe7d8144750a2331c",
+      "heading": "3D Printing Resources",
+      "level": "h2",
+      "text": "3D Printing Resources So, whether you’re looking for prototypes or end-use production parts, additive manufacturing has a lot going for it. From geometric flexibility in a variety of materials to rapid iteration that gets you high-quality parts within just days, our various 3D printing processes provide you with what you need to get the job done. If you have any questions regarding your quote or design, talk with our applications engineers to help guide you through the process. We look forward to working with you on your next project! 3D Printing Resources"
+    }
+  ],
+  "sitemap_lastmod": "2026-03-04T21:27:00+00:00",
+  "status": 200,
+  "structure_hash": "f63c33927a9a92685056977db2281c871a8741ab",
+  "text_excerpt": "How Does 3D Printing or Additive Manufacturing Work? Learn about additive manufacturing technologies, industry applications, and benefits from prototyping to production Content in this Article How Does 3D Printing Work? Common 3D Printing Applications Emerging Trends in 3D Printing Types of 3D Printing and Use Cases Common 3D Printing Terms Defects and How to Mitigate Them in Your Designs Post-Processing for 3D Printing 3D Printing Resources A good starting point for 3D printing is to look at it as a process in which parts are built by adding material to form an object as opposed to subtracting it as is the case with CNC machining. Some people like to call it by its more formal name: additive manufacturing (AM), especially when linked to industrial-grade quality and production quantities but to be honest, most people just use the term 3DP, and often, so do we. But who came up with such a cool idea? At first it was the stuff of science fiction. Arthur C. Clarke, author, came up with the general premise behind 3D printing in 1964. It would be another 20 years before legit 3D printing came on the scene, thanks to Chuck Hull. He patented the stereolithography (SLA) process, which uses...",
+  "text_hash": "0e87df3257cd6e7738825d506a10160b5141ebb5",
+  "title": "How Does 3D Printing Work?",
+  "url": "https://www.protolabs.com/resources/guides-and-trend-reports/what-is-3d-printing"
+}

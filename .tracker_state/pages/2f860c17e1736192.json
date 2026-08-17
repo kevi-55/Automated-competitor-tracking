@@ -1,0 +1,111 @@
+{
+  "canonical": "https://www.protolabs.com/resources/blog/3d-printing-with-silicone-a-worthy-complement-to-lsr-molding",
+  "category": "content",
+  "competitor": "Protolabs",
+  "ctas": [
+    {
+      "href": "https://www.protolabs.com/ecom/get-a-quote",
+      "text": "Get Printed Parts"
+    }
+  ],
+  "discovered_via": "sitemap",
+  "fetched_at": "2026-08-17T03:48:49+00:00",
+  "final_url": "https://www.protolabs.com/resources/blog/3d-printing-with-silicone-a-worthy-complement-to-lsr-molding",
+  "first_seen_at": "2026-08-17T03:48:49+00:00",
+  "h1": "3D Printing with Silicone: A Worthy Complement to LSR Molding",
+  "headings": [
+    {
+      "level": "h1",
+      "text": "3D Printing with Silicone: A Worthy Complement to LSR Molding"
+    },
+    {
+      "level": "h3",
+      "text": "How it Works"
+    },
+    {
+      "level": "h3",
+      "text": "Advantages of 3D Printing with Silicone"
+    },
+    {
+      "level": "h3",
+      "text": "Limitations of Printing with Silicone"
+    }
+  ],
+  "images": [
+    {
+      "alt": "",
+      "src": "/images/Protolabs-mark-dark.jpg"
+    },
+    {
+      "alt": "3D printed silicone parts",
+      "src": "/media/2o1bamzm/truesilicone_2022_02.jpg"
+    },
+    {
+      "alt": "3D printed silicone part",
+      "src": "/media/41ijxvdq/truesilicone_2022_03b.jpg"
+    },
+    {
+      "alt": "cover of 3d printing definitive guide",
+      "src": "/media/r52fuqmr/3dp-defintive-guide-cover-293x200.png?width=293&height=200&v=1d8a286710ca0c0"
+    },
+    {
+      "alt": "3D printing material selector",
+      "src": "/media/gvfkc54m/blog-_-dt-fulfillment-cta-3dp-selector-240x180.png?width=240&height=180&v=1d87a84eacaf170"
+    },
+    {
+      "alt": "Illustration",
+      "src": "/media/lmnhfe1l/3dp_mistakes-to-avoid_dmls-overhangs.jpg?width=115&height=115&v=1da22a6e2a79540"
+    },
+    {
+      "alt": "Selecting the Right Material for 3D Printing",
+      "src": "/media/1022785/1.jpg?width=115&height=115&v=1d74016e08c53b0"
+    },
+    {
+      "alt": "Clear 3D Printing: Material and Design Considerations",
+      "src": "/media/1021726/plate-only-900-400.jpg?width=115&height=115&v=1d6b7756be2f160"
+    },
+    {
+      "alt": "3D printing quote image",
+      "src": "/media/tr1fnzj1/blog-_-dt-quoting-cta-400x310_3dp-400x310-1.png?width=400&height=310&v=1d87b43e4485300"
+    }
+  ],
+  "meta_description": "Explore how to manufacture silicone parts without molds and with fewer limitations to geometries.",
+  "modified_at": "",
+  "monitored_text": "Material Matters October 20, 2022 3D Printing with Silicone: A Worthy Complement to LSR Molding By Protolabs Using liquid silicone rubber (LSR) to manufacture molded parts has been around for a long time, but printing with TruSil silicone , well that’s a new process that might just be what you need as you develop silicone parts. Imagine iterating parts quickly, reliably, and accurately using 3D printing. You can perfect design elements without the need for multiple upfront tooling costs to save development time and production costs. Printed silicone parts have many of the same characteristics as their molded cousins, but the process offers greater geometric flexibility. How it Works LSR is a popular elastomer that has had a place in injection molding for decades. Silicone is now available in a liquid resin version that can now be 3D printed using stereolithography (SLA). SLA is a commonly used printing technology because it creates smooth parts without visible layers. Essentially, a laser aims at a vat of silicone resin, creating parts layer-by-layer. With each pass, part structures move down slightly into the resin bath, eventually completing the parts. Then, support structures are removed, and parts undergo a UV-curing cycle to solidify the material. The following table gives an overview of different printed silicone properties, compared to other manufacturing processes and similar materials. Manufacturing Technology Material Color Durometer Max Part Size Surface Finish Cost Applications SLA Silicone Translucent white Black 20 to 60A 4.7 in. x 2.8 in. x 3.9 in. (119.4mm x 71.1mm x 99.1mm) Smooth texture and absence of visible layers $$$ Prototyping molded silicone parts Seals and gaskets Wearables Buttons PolyJet Photopolymer Black Clear/translucent White 30A to 95A 19.3 in. x 15.4 in. x 7.9 in. (490.2mm x 391.2mm x 200.7mm) Smooth texture $$ Overmolding prototypes SLS TPU White 70A 10.6 in. x 12.6 in. x 16 in. (269.2mm x 320.0mm x 406.4mm) Rougher, sugar-cube like texture $ Grips, hoses Applications where resistance under dynamic loading is required Injection Molding LSR White Optically clear Variety of colors 30A to 70A 12 in. x 8 in. x 4 in. (304.8mm x 203.2mm x 101.6mm) Smooth texture, multiple options $$$$ High-volume prototyping, pilot runs End-use production parts Advantages of 3D Printing with Silicone Fundamentally, printing in silicone provides parts that are much like molding with it. It offers a wide range of Shore-A hardness, with durometers ranging from 20-60A (rubber band to car tire tread), compared to 30-70A for molding. As with other SLA materials, you get excellent detail and resolution with silicone. Other advantages include resistance to: Acidic or alkaline environments Deformation High temperature Moisture Tearing UV-light Wear Silicone is quite elastic and offers a watertight seal. Also, if you need medical parts, silicone fits the bill—and has for many years—as this particular silicone has passed the following tests for biocompatibility: ISO DIN EN 10993-05 (tests for in vitro cytotoxicity) and ISO DIN EN 10993-10 (tests for irritation and skin sensitization). This super-microscopic image of silicone bonds reveals how parts printed with this material offer strength and durability. Limitations of Printing with Silicone Of course, there is another side of the coin with silicone that requires consideration. Currently, the parts that can be printed are modest in size. Parts must be no larger than 4.7 in. by 2.8 in. by 3.9 in. (119.38mm x 71.12mm x 99.06mm). Also, they are printed overseas, which might be of concern if you need ITAR or other import/export certification. Color choice is either translucent white (for all durometers), or black for 60A, so if you’re looking for parts with color, molding is your best bet. That said, if your aim is simply to test design integrity, color might be irrelevant. One other consideration is one that is pertinent to all transitions from printing to molding. If you are planning to use printing as a prototyping step and move on to molding for on-demand manufacturing quantities, make sure that your designs are moldable before putting special features into your parts. Last, but not least, is cost. In some ways, this is neither an advantage nor a limitation. While printing in silicone is not inexpensive compared to other printing options and materials, it is less expensive than paying for a mold, and possible iterating with multiple molds. So, silicone isn’t cheap, but it is a good option for saving money during prototyping, and possibly throughout a part’s life cycle. If you have any issues getting your guide, click here to download . Definitive Guide to 3D Printing Our comprehensive guide navigates the entire additive manufacturing process—from prototyping to production. United States of America Afghanistan Åland Islands Albania Algeria American Samoa Andorra Angola Anguilla Antarctica Antigua and Barbuda Argentina Armenia Aruba Australia Austria Azerbaijan Bahamas Bahrain Bangladesh Barbados Belarus Belgium Belize Benin Bermuda Bhutan Bolivia, Plurinational State of Bonaire, Sint Eustatius and Saba Bosnia and Herzegovina Botswana Bouvet Island Brazil British Indian Ocean Territory Brunei Darussalam Bulgaria Burkina Faso Burundi Cambodia Cameroon Canada Cape Verde Cayman Islands Central African Republic Chad Chile China Christmas Island Cocos (Keeling) Islands Colombia Comoros Congo Congo, the Democratic Republic of the Cook Islands Costa Rica Côte d'Ivoire Croatia Cuba Curaçao Cyprus Czech Republic Denmark Djibouti Dominica Dominican Republic Ecuador Egypt El Salvador Equatorial Guinea Eritrea Estonia Ethiopia Falkland Islands (Malvinas) Faroe Islands Fiji Finland France French Guiana French Polynesia French Southern Territories Gabon Gambia Georgia Germany Ghana Gibraltar Greece Greenland Grenada Guadeloupe Guam Guatemala Guernsey Guinea Guinea-Bissau Guyana Haiti Heard Island and McDonald Islands Holy See (Vatican City State) Honduras Hong Kong Hungary Iceland India Indonesia Iran, Islamic Republic of Iraq Ireland Isle of Man Israel Italy Jamaica Japan Jersey Jordan Kazakhstan Kenya Kiribati Korea, Democratic People's Republic of Korea, Republic of Kuwait Kyrgyzstan Lao People's Democratic Republic Latvia Lebanon Lesotho Liberia Libya Liechtenstein Lithuania Luxembourg Macao Macedonia, the Former Yugoslav Republic of Madagascar Malawi Malaysia Maldives Mali Malta Marshall Islands Martinique Mauritania Mauritius Mayotte Mexico Micronesia, Federated States of Moldova, Republic of Monaco Mongolia Montenegro Montserrat Morocco Mozambique Myanmar Namibia Nauru Nepal Netherlands New Caledonia New Zealand Nicaragua Niger Nigeria Niue Norfolk Island Northern Mariana Islands Norway Oman Pakistan Palau Palestine, State of Panama Papua New Guinea Paraguay Peru Philippines Pitcairn Poland Portugal Puerto Rico Qatar Réunion Romania Russian Federation Rwanda Saint Barthélemy Saint Helena, Ascension and Tristan da Cunha Saint Kitts and Nevis Saint Lucia Saint Martin (French part) Saint Pierre and Miquelon Saint Vincent and the Grenadines Samoa San Marino Sao Tome and Principe Saudi Arabia Senegal Serbia Seychelles Sierra Leone Singapore Sint Maarten (Dutch part) Slovakia Slovenia Solomon Islands Somalia South Africa South Georgia and the South Sandwich Islands South Sudan Spain Sri Lanka Sudan SuriName Svalbard and Jan Mayen Swaziland Sweden Switzerland Syrian Arab Republic Taiwan, Province of China Tajikistan Tanzania, United Republic of Thailand Timor-Leste Togo Tokelau Tonga Trinidad and Tobago Tunisia Turkey Turkmenistan Turks and Caicos Islands Tuvalu Uganda Ukraine United Arab Emirates United Kingdom United States Minor Outlying Islands Uruguay Uzbekistan Vanuatu Venezuela, Bolivarian Republic of Viet Nam Virgin Islands, British Virgin Islands, U.S. Wallis and Futuna Western Sahara Yemen Zambia Zimbabwe I agree to receive email messages containing service updates and Design Tips from Protolabs and its affiliates Download Guide Get 3D Printing Material Selector You Might Also Like... 7 Mistakes to Avoid When Designing 3D-Printed Parts 3D Printing Materials Guide Clear 3D Printing: Material and Design Considerations Need custom 3D-printed parts? Upload your CAD file for an instant online quote. Get Printed Parts Tagged: 3D printing, silicone, materials",
+  "published_at": "",
+  "requested_url": "https://www.protolabs.com/resources/blog/3d-printing-with-silicone-a-worthy-complement-to-lsr-molding",
+  "schema_version": 2,
+  "sections": [
+    {
+      "hash": "6f232dec47eaeeded2746b3eb3e3f02efe4b3e2c",
+      "heading": "3D Printing with Silicone: A Worthy Complement to LSR Molding",
+      "level": "h1",
+      "text": "3D Printing with Silicone: A Worthy Complement to LSR Molding By Protolabs Material Matters October 20, 2022 3D Printing with Silicone: A Worthy Complement to LSR Molding By Protolabs"
+    },
+    {
+      "hash": "7dc1ae2105a287fc22e9be48a26cefeadc5bd03d",
+      "heading": "How it Works",
+      "level": "h3",
+      "text": "How it Works LSR is a popular elastomer that has had a place in injection molding for decades. Silicone is now available in a liquid resin version that can now be 3D printed using stereolithography (SLA). SLA is a commonly used printing technology because it creates smooth parts without visible layers. Essentially, a laser aims at a vat of silicone resin, creating parts layer-by-layer. With each pass, part structures move down slightly into the resin bath, eventually completing the parts. Then, support structures are removed, and parts undergo a UV-curing cycle to solidify the material. The following table gives an overview of different printed silicone properties, compared to other manufacturing processes and similar materials. Manufacturing Technology Material Color Durometer Max Part Size Surface Finish Cost Applications SLA Silicone Translucent white Black 20 to 60A 4.7 in. x 2.8 in. x 3.9 in. (119.4mm x 71.1mm x 99.1mm) Smooth texture and absence of visible layers $$$ Prototyping molded silicone parts Seals and gaskets Wearables Buttons PolyJet Photopolymer Black Clear/translucent White 30A to 95A 19.3 in. x 15.4 in. x 7.9 in. (490.2mm x 391.2mm x 200.7mm) Smooth texture $$ O..."
+    },
+    {
+      "hash": "dd8a68ddaf0cba23ef81783b92008906750b96c2",
+      "heading": "Advantages of 3D Printing with Silicone",
+      "level": "h3",
+      "text": "Advantages of 3D Printing with Silicone Fundamentally, printing in silicone provides parts that are much like molding with it. It offers a wide range of Shore-A hardness, with durometers ranging from 20-60A (rubber band to car tire tread), compared to 30-70A for molding. As with other SLA materials, you get excellent detail and resolution with silicone. Other advantages include resistance to: Acidic or alkaline environments Deformation High temperature Moisture Tearing UV-light Wear Silicone is quite elastic and offers a watertight seal. Also, if you need medical parts, silicone fits the bill—and has for many years—as this particular silicone has passed the following tests for biocompatibility: ISO DIN EN 10993-05 (tests for in vitro cytotoxicity) and ISO DIN EN 10993-10 (tests for irritation and skin sensitization). This super-microscopic image of silicone bonds reveals how parts printed with this material offer strength and durability."
+    },
+    {
+      "hash": "f1a28595c4b2bbaf8f225d3ba22f0973c6ffaf31",
+      "heading": "Limitations of Printing with Silicone",
+      "level": "h3",
+      "text": "Limitations of Printing with Silicone Of course, there is another side of the coin with silicone that requires consideration. Currently, the parts that can be printed are modest in size. Parts must be no larger than 4.7 in. by 2.8 in. by 3.9 in. (119.38mm x 71.12mm x 99.06mm). Also, they are printed overseas, which might be of concern if you need ITAR or other import/export certification. Color choice is either translucent white (for all durometers), or black for 60A, so if you’re looking for parts with color, molding is your best bet. That said, if your aim is simply to test design integrity, color might be irrelevant. One other consideration is one that is pertinent to all transitions from printing to molding. If you are planning to use printing as a prototyping step and move on to molding for on-demand manufacturing quantities, make sure that your designs are moldable before putting special features into your parts. Last, but not least, is cost. In some ways, this is neither an advantage nor a limitation. While printing in silicone is not inexpensive compared to other printing options and materials, it is less expensive than paying for a mold, and possible iterating with multip..."
+    }
+  ],
+  "sitemap_lastmod": "2026-04-14T11:07:00+00:00",
+  "status": 200,
+  "structure_hash": "8c288860b34a54db3b6041b199199689ba2bb0ef",
+  "text_excerpt": "Material Matters October 20, 2022 3D Printing with Silicone: A Worthy Complement to LSR Molding By Protolabs Using liquid silicone rubber (LSR) to manufacture molded parts has been around for a long time, but printing with TruSil silicone , well that’s a new process that might just be what you need as you develop silicone parts. Imagine iterating parts quickly, reliably, and accurately using 3D printing. You can perfect design elements without the need for multiple upfront tooling costs to save development time and production costs. Printed silicone parts have many of the same characteristics as their molded cousins, but the process offers greater geometric flexibility. How it Works LSR is a popular elastomer that has had a place in injection molding for decades. Silicone is now available in a liquid resin version that can now be 3D printed using stereolithography (SLA). SLA is a commonly used printing technology because it creates smooth parts without visible layers. Essentially, a laser aims at a vat of silicone resin, creating parts layer-by-layer. With each pass, part structures move down slightly into the resin bath, eventually completing the parts. Then, support structures a...",
+  "text_hash": "92e5fda9970ed095fc8622a0c3d674b2ca7a1d17",
+  "title": "3D Printing with Silicone",
+  "url": "https://www.protolabs.com/resources/blog/3d-printing-with-silicone-a-worthy-complement-to-lsr-molding"
+}

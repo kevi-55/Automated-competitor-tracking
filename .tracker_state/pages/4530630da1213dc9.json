@@ -1,0 +1,159 @@
+{
+  "canonical": "https://www.hubs.com/knowledge-base/understandings-clearance-transition-and-interference-fit",
+  "category": "content",
+  "competitor": "Hubs",
+  "ctas": [
+    {
+      "href": "https://www.hubs.com/manufacture",
+      "text": "Upload your CAD"
+    }
+  ],
+  "discovered_via": "sitemap",
+  "fetched_at": "2026-08-17T03:41:49+00:00",
+  "final_url": "https://www.hubs.com/knowledge-base/understandings-clearance-transition-and-interference-fit",
+  "first_seen_at": "2026-08-17T03:41:49+00:00",
+  "h1": "",
+  "headings": [
+    {
+      "level": "h2",
+      "text": "The basics: How the limits and fit system works"
+    },
+    {
+      "level": "h2",
+      "text": "The three types of engineering fits"
+    },
+    {
+      "level": "h2",
+      "text": "Clearance fit: Designed for movement"
+    },
+    {
+      "level": "h2",
+      "text": "Transition fit: Designed for precision location"
+    },
+    {
+      "level": "h2",
+      "text": "Interference fit: Designed for friction-locked assembly"
+    },
+    {
+      "level": "h2",
+      "text": "Hole-basis vs. shaft-basis: Which to choose?"
+    },
+    {
+      "level": "h2",
+      "text": "The cost of precision"
+    },
+    {
+      "level": "h2",
+      "text": "Design checklist for specifying fits"
+    },
+    {
+      "level": "h2",
+      "text": "Frequently asked questions"
+    },
+    {
+      "level": "h3",
+      "text": "What are fits and tolerances?"
+    },
+    {
+      "level": "h3",
+      "text": "How to calculate tolerances and fits?"
+    },
+    {
+      "level": "h3",
+      "text": "What are the three types of fits?"
+    }
+  ],
+  "images": [
+    {
+      "alt": "CNC machining, 3D printing and sheet metal fabrication parts",
+      "src": "/images/trans.gif"
+    }
+  ],
+  "meta_description": "Ensure interchangeability by understanding clearance, transition and interference fit types. Compare running, sliding, and press fit specs.",
+  "modified_at": "",
+  "monitored_text": "This system allows components produced at different times or locations to assemble correctly without custom hand-fitting. By specifying a standardized fit, engineers control whether parts will slide freely, lock together by friction, or align with high precision. The basics: How the limits and fit system works Standardized alphanumeric codes, such as 40H7/g6, are used by engineers to define the allowable deviation from the nominal size. This code provides all necessary information for the machinist. In this code the number (e.g., 40) represents the nominal size in millimeters. The capital letter (H) represents the tolerance zone for the hole, and the lowercase letter (g) defines the zone for the shaft. The following number (7 or 6) denotes the International Tolerance (IT) grade. This specifies the ‘tightness’ of the tolerance zone. A standard engineering choice is a H7 hole, as it can be produced using high-quality reamers. The three types of engineering fits The relationship between the hole and shaft tolerances determines the mechanical behavior of the assembly. There are three primary categories, each serving a distinct functional purpose. Fit Type Example Code Mechanical Behavior Common Applications Clearance H7/g6 Always a gap; free movement. Rotating shafts, engine pistons, hinges. Transition H7/k6 Minimal gap or light interference. Alignment pins, gear hubs, precision pulleys. Interference H7/p6 Always overlapping; friction-locked. Bearings in housings, bushings, press-fits. Clearance fit: Designed for movement A clearance fit ensures that the shaft diameter is always smaller than the hole diameter. It leaves a physical gap between the mating surfaces. This gap is essential for components that must move relative to each other without seizing. Within this category, engineers differentiate between degrees of freedom based on the intended motion. Running fits provide enough space for a stable lubrication film to form between the surfaces. This is critical for parts in continuous motion, such as rotating shafts and engine pistons, where heat dissipation and friction reduction are paramount. In contrast, sliding fits utilize much tighter tolerances with minimal clearance. These fits are not intended for high-speed rotation but rather for linear precision. They are commonly specified for components that must slide accurately into position, such as a tailstock on a lathe, where maintaining a precise location is more important than free rotation. Transition fit: Designed for precision location In a transition fit, the tolerance zones of the hole and the shaft overlap. Depending on the actual manufactured dimensions within the allowed range, you end up with either a slight clearance or a slight interference. These fits are not meant for continuous movement but for accurate positioning. Assembly usually requires a rubber mallet or a light manual press. Engineers specify transition fits for aligning pins, gear hubs on shafts, and other components that must be dismantled for maintenance. Interference fit: Designed for friction-locked assembly Also known as a ‘press fit’ or ‘shrink fit’, an interference fit ensures the shaft is always larger than the hole. This creates a permanent, friction-locked connection where the parts act as a single unit. Because the metal must deform slightly or be thermally expanded/contracted to assemble, these fits can transmit torque without the need for keys or fasteners. Common applications include pressing bearings into housings or bushings into control arms. Hole-basis vs. shaft-basis: Which to choose? Most machine shops operate on a hole-basis system. Standard cutting tools, such as drills and reamers, produce fixed-diameter holes that are difficult to ‘tune’ to a custom dimension. It is far more cost-effective to produce a standard H7 hole and then adjust the shaft diameter on a CNC lathe to achieve the desired fit. Shaft diameters are easily modified with high precision, whereas creating a non-standard hole often requires expensive custom tooling or slower EDM (Electrical Discharge Machining) processes. The cost of precision Tolerances aren’t free. As the IT grade decreases (meaning the tolerance becomes tighter), the manufacturing cost increases exponentially. Moving from a standard milling tolerance (IT9) to a precision grinding or honing tolerance (IT5) can easily triple the production cost per unit. Tight tolerances require more frequent tool inspections, slower feed rates, and specialized metrology equipment. Engineers should only specify the tightest fits where functionally necessary to prevent over-engineering the part. Process Typical IT Grade Accuracy Level Cost Impact Sand Casting IT14 - IT16 Rough Baseline Milling IT9 - IT11 Standard 2x CNC Turning IT7 - IT9 Precision 4x Grinding/Honing IT4 - IT6 High Precision 8x+ Design checklist for specifying fits Before finalizing a technical drawing, engineers should ensure that the selected fit reflects real manufacturing constraints. This helps avoid unnecessary costs, assembly issues, or premature failures. Start by defining the mechanical function of the assembly. Does the part need free rotation with a clearance fit, accurate location with a transition fit, or a permanent friction-based lock with an interference fit? Once the function is defined, choose the appropriate tolerance standard. In most cases, a hole-basis system is preferred because it allows the machine shop to use standard reamers and off-the-shelf tooling, reducing the need for custom tools and lowering production costs. Once you have chosen a basis, choose one of the standard combinations of industry standards. Pairings such as H7/g6 are a good choice for precise-running applications, and H7/p6 has historically been considered the standard for press fits. Lastly, you should ensure that what was decided upon for assembling the parts fits well with what can be done on the shop floor. An example here could be a high-interference fit, which would require a hydraulic press to put the shaft in the housing, or a high-temperature heating process such as liquid nitrogen to shrink the shaft or an oven to expand the housing. By confirming these assembly requirements at the outset, you will ensure the design is usable and provides the most cost effective and repeatable manufacturing method. Worried about over-engineering your tolerances? Avoid unnecessary costs by getting a professional review. Upload your CAD file for a quote. Subscribe Get the latest manufacturing news delivered to your mailbox. Sign up for our newsletter Sign me up Please enter a valid email address. Leave this field empty Thanks! You're now subscribed to our newsletter. Frequently asked questions What are fits and tolerances? In engineering, a tolerance is the total allowable deviation from a nominal dimension, acknowledging that no manufacturing process is perfect. A ‘fit’ refers specifically to the clearance or interference between two mating parts, such as a shaft and a hole. Together, these form a standardized system that ensures parts from different batches or suppliers will assemble correctly without the need for custom adjustments. How to calculate tolerances and fits? Engineers calculate fits by determining the ‘fundamental deviation’ and the ‘tolerance grade’ for both the hole and the shaft. You start with the nominal size (e.g., 40 mm) and apply a standardized ISO or ANSI code, such as H7 for the hole and g6 for the shaft. The letter determines the position of the tolerance zone relative to the nominal line, while the number determines the size of the window. By subtracting the minimum shaft size from the maximum hole size, you find the maximum clearance of the fit. What are the three types of fits? The three primary categories of engineering fits are clearance, transition, and interference. A clearance fit always leaves a gap between parts, making it ideal for sliding or rotating components. A transition fit has overlapping tolerance zones, used for high-precision alignment where parts might need occasional disassembly. Finally, an interference fit ensures that the shaft is always larger than the hole, creating a permanent, friction-locked connection often referred to as a ‘press fit’.",
+  "published_at": "",
+  "requested_url": "https://www.hubs.com/knowledge-base/understandings-clearance-transition-and-interference-fit",
+  "schema_version": 2,
+  "sections": [
+    {
+      "hash": "bd004c5e99f10b9bf221ece09b6d726004ea9a3f",
+      "heading": "The basics: How the limits and fit system works",
+      "level": "h2",
+      "text": "The basics: How the limits and fit system works Standardized alphanumeric codes, such as 40H7/g6, are used by engineers to define the allowable deviation from the nominal size. This code provides all necessary information for the machinist. In this code the number (e.g., 40) represents the nominal size in millimeters. The capital letter (H) represents the tolerance zone for the hole, and the lowercase letter (g) defines the zone for the shaft. The following number (7 or 6) denotes the International Tolerance (IT) grade. This specifies the ‘tightness’ of the tolerance zone. A standard engineering choice is a H7 hole, as it can be produced using high-quality reamers."
+    },
+    {
+      "hash": "e878e231087ed0281d1ef4f913806bbde9965c84",
+      "heading": "The three types of engineering fits",
+      "level": "h2",
+      "text": "The three types of engineering fits The relationship between the hole and shaft tolerances determines the mechanical behavior of the assembly. There are three primary categories, each serving a distinct functional purpose."
+    },
+    {
+      "hash": "8143cada651906029c5365d619b1a50d7a0ff9a3",
+      "heading": "Clearance fit: Designed for movement",
+      "level": "h2",
+      "text": "Clearance fit: Designed for movement A clearance fit ensures that the shaft diameter is always smaller than the hole diameter. It leaves a physical gap between the mating surfaces. This gap is essential for components that must move relative to each other without seizing. Within this category, engineers differentiate between degrees of freedom based on the intended motion. Running fits provide enough space for a stable lubrication film to form between the surfaces. This is critical for parts in continuous motion, such as rotating shafts and engine pistons, where heat dissipation and friction reduction are paramount. In contrast, sliding fits utilize much tighter tolerances with minimal clearance. These fits are not intended for high-speed rotation but rather for linear precision. They are commonly specified for components that must slide accurately into position, such as a tailstock on a lathe, where maintaining a precise location is more important than free rotation."
+    },
+    {
+      "hash": "6a57a81c190d284ea2c77ae66a71c6fd18a6b960",
+      "heading": "Transition fit: Designed for precision location",
+      "level": "h2",
+      "text": "Transition fit: Designed for precision location In a transition fit, the tolerance zones of the hole and the shaft overlap. Depending on the actual manufactured dimensions within the allowed range, you end up with either a slight clearance or a slight interference. These fits are not meant for continuous movement but for accurate positioning. Assembly usually requires a rubber mallet or a light manual press. Engineers specify transition fits for aligning pins, gear hubs on shafts, and other components that must be dismantled for maintenance."
+    },
+    {
+      "hash": "881d64768e4aa7ca692b73662a2effa36d531bd9",
+      "heading": "Interference fit: Designed for friction-locked assembly",
+      "level": "h2",
+      "text": "Interference fit: Designed for friction-locked assembly Also known as a ‘press fit’ or ‘shrink fit’, an interference fit ensures the shaft is always larger than the hole. This creates a permanent, friction-locked connection where the parts act as a single unit. Because the metal must deform slightly or be thermally expanded/contracted to assemble, these fits can transmit torque without the need for keys or fasteners. Common applications include pressing bearings into housings or bushings into control arms."
+    },
+    {
+      "hash": "caea1b7e3d1033a68d0912213df6f511dbea3c8c",
+      "heading": "Hole-basis vs. shaft-basis: Which to choose?",
+      "level": "h2",
+      "text": "Hole-basis vs. shaft-basis: Which to choose? Most machine shops operate on a hole-basis system. Standard cutting tools, such as drills and reamers, produce fixed-diameter holes that are difficult to ‘tune’ to a custom dimension. It is far more cost-effective to produce a standard H7 hole and then adjust the shaft diameter on a CNC lathe to achieve the desired fit. Shaft diameters are easily modified with high precision, whereas creating a non-standard hole often requires expensive custom tooling or slower EDM (Electrical Discharge Machining) processes."
+    },
+    {
+      "hash": "471e4df325689eeddd8b9993b5729b1a9f2df2fa",
+      "heading": "The cost of precision",
+      "level": "h2",
+      "text": "The cost of precision Tolerances aren’t free. As the IT grade decreases (meaning the tolerance becomes tighter), the manufacturing cost increases exponentially. Moving from a standard milling tolerance (IT9) to a precision grinding or honing tolerance (IT5) can easily triple the production cost per unit. Tight tolerances require more frequent tool inspections, slower feed rates, and specialized metrology equipment. Engineers should only specify the tightest fits where functionally necessary to prevent over-engineering the part."
+    },
+    {
+      "hash": "64af4157e8f33d1c7c79723b0b383f2078896810",
+      "heading": "Design checklist for specifying fits",
+      "level": "h2",
+      "text": "Design checklist for specifying fits Before finalizing a technical drawing, engineers should ensure that the selected fit reflects real manufacturing constraints. This helps avoid unnecessary costs, assembly issues, or premature failures. Start by defining the mechanical function of the assembly. Does the part need free rotation with a clearance fit, accurate location with a transition fit, or a permanent friction-based lock with an interference fit? Once the function is defined, choose the appropriate tolerance standard. In most cases, a hole-basis system is preferred because it allows the machine shop to use standard reamers and off-the-shelf tooling, reducing the need for custom tools and lowering production costs. Once you have chosen a basis, choose one of the standard combinations of industry standards. Pairings such as H7/g6 are a good choice for precise-running applications, and H7/p6 has historically been considered the standard for press fits. Lastly, you should ensure that what was decided upon for assembling the parts fits well with what can be done on the shop floor. An example here could be a high-interference fit, which would require a hydraulic press to put the sha..."
+    },
+    {
+      "hash": "02842b08377539be654ab1179cf41e1d947c4424",
+      "heading": "Frequently asked questions",
+      "level": "h2",
+      "text": "Frequently asked questions Frequently asked questions"
+    },
+    {
+      "hash": "9ec22ee04922ab49a6c1058a1a98a19f372b8a32",
+      "heading": "What are fits and tolerances?",
+      "level": "h3",
+      "text": "What are fits and tolerances? In engineering, a tolerance is the total allowable deviation from a nominal dimension, acknowledging that no manufacturing process is perfect. A ‘fit’ refers specifically to the clearance or interference between two mating parts, such as a shaft and a hole. Together, these form a standardized system that ensures parts from different batches or suppliers will assemble correctly without the need for custom adjustments."
+    },
+    {
+      "hash": "b84fbaf763ddf91b88143d396faf0eca7f411b81",
+      "heading": "How to calculate tolerances and fits?",
+      "level": "h3",
+      "text": "How to calculate tolerances and fits? Engineers calculate fits by determining the ‘fundamental deviation’ and the ‘tolerance grade’ for both the hole and the shaft. You start with the nominal size (e.g., 40 mm) and apply a standardized ISO or ANSI code, such as H7 for the hole and g6 for the shaft. The letter determines the position of the tolerance zone relative to the nominal line, while the number determines the size of the window. By subtracting the minimum shaft size from the maximum hole size, you find the maximum clearance of the fit."
+    },
+    {
+      "hash": "e7a422b5250414dd0093055aa87ef8849f70de17",
+      "heading": "What are the three types of fits?",
+      "level": "h3",
+      "text": "What are the three types of fits? The three primary categories of engineering fits are clearance, transition, and interference. A clearance fit always leaves a gap between parts, making it ideal for sliding or rotating components. A transition fit has overlapping tolerance zones, used for high-precision alignment where parts might need occasional disassembly. Finally, an interference fit ensures that the shaft is always larger than the hole, creating a permanent, friction-locked connection often referred to as a ‘press fit’."
+    }
+  ],
+  "sitemap_lastmod": "2026-07-08T13:17:06+00:00",
+  "status": 200,
+  "structure_hash": "cf8cf80902704680c852e97ef102389646a75083",
+  "text_excerpt": "This system allows components produced at different times or locations to assemble correctly without custom hand-fitting. By specifying a standardized fit, engineers control whether parts will slide freely, lock together by friction, or align with high precision. The basics: How the limits and fit system works Standardized alphanumeric codes, such as 40H7/g6, are used by engineers to define the allowable deviation from the nominal size. This code provides all necessary information for the machinist. In this code the number (e.g., 40) represents the nominal size in millimeters. The capital letter (H) represents the tolerance zone for the hole, and the lowercase letter (g) defines the zone for the shaft. The following number (7 or 6) denotes the International Tolerance (IT) grade. This specifies the ‘tightness’ of the tolerance zone. A standard engineering choice is a H7 hole, as it can be produced using high-quality reamers. The three types of engineering fits The relationship between the hole and shaft tolerances determines the mechanical behavior of the assembly. There are three primary categories, each serving a distinct functional purpose. Fit Type Example Code Mechanical Behav...",
+  "text_hash": "64bfca590e5874de75587054db832e1b5cdde099",
+  "title": "Fits and tolerances: Clearance, transition, and interference | Protolabs Network",
+  "url": "https://www.hubs.com/knowledge-base/understandings-clearance-transition-and-interference-fit"
+}

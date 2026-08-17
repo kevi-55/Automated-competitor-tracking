@@ -1,0 +1,84 @@
+{
+  "canonical": "https://www.protolabs.com/resources/blog/slm-3d-printing",
+  "category": "content",
+  "competitor": "Protolabs",
+  "ctas": [],
+  "discovered_via": "sitemap",
+  "fetched_at": "2026-08-17T03:49:04+00:00",
+  "final_url": "https://www.protolabs.com/resources/blog/slm-3d-printing",
+  "first_seen_at": "2026-08-17T03:49:04+00:00",
+  "h1": "DMLS vs. SLM 3D Printing",
+  "headings": [
+    {
+      "level": "h1",
+      "text": "DMLS vs. SLM 3D Printing"
+    },
+    {
+      "level": "h2",
+      "text": "Comparing 3D Printing Technology"
+    },
+    {
+      "level": "h2",
+      "text": "DMLS and SLM: Metal 3D Printing Twins"
+    }
+  ],
+  "images": [
+    {
+      "alt": "",
+      "src": "/media/cr2hluvo/protolabs-mark-dark.jpg?width=200&height=200&v=1dbe9bffb5af870"
+    },
+    {
+      "alt": "",
+      "src": "/media/cqxbc0nf/slm-blog-img.jpg"
+    },
+    {
+      "alt": "",
+      "src": "/media/qknfk5iz/lpbf_web-graphic-2.png"
+    },
+    {
+      "alt": "Direct Metal Laser Sintering",
+      "src": "/media/1017355/dmls-parts-570x312.jpg?width=115&height=115&v=1d50ca8eda01cb0"
+    },
+    {
+      "alt": "sls 3d printers in facility",
+      "src": "/media/wgedinoy/sls_scale_2016_0189_low_res-1-1.jpg?width=115&height=115&v=1d82fc2f39fd9d0"
+    },
+    {
+      "alt": "Metal powder is brushed away from a bed of intricate aluminum parts",
+      "src": "/media/1022533/metal-3d-printing-process-1.jpg?width=115&height=115&v=1d71f3a3bead950"
+    }
+  ],
+  "meta_description": "Understand the subtle differences in SLM and DMLS 3D printing technologies to choose the right technology for your project.",
+  "modified_at": "",
+  "monitored_text": "3D Printing December 16, 2025 DMLS vs. SLM 3D Printing Explore SLM and DMLS 3D printing technology By Protolabs If you are reading this article, you’re probably looking for guidance on 3D printing and have run into a barrage of confusing acronyms. Is there any real difference between direct metal laser sintering (DMLS) and selective laser melting (SLM)? At first it may seem there is a substantive difference between those acronyms, as DMLS refers to the process as sintering whereas SLM refers to the process as melting but in fact they both fully liquify the metal powder during the printing process. Still, when you try to explore further, every technology says they are industry leading or otherwise superior to the others. Skimming websites doesn’t bring clarity but instead brings more confusion and ambiguity. Congratulations, you have now entered the 3D printing fog, and you need an experienced guide to navigate it successfully. Though the S in DMLS stands for sintering in the English version of this acronym, the metal powder is indeed fully liquified during the printing process. The main issue is that companies in the 3D printing industry will be biased toward using their own nomenclature and acronyms for a technology, even if both are essentially the same. Both DMLS and SLM are laser powder bed fusion (L-PBF) processes. In fact, the German version of the words that form the acronym DMLS spells out as direkt metall laser schmelzen or direct metal laser melting, in other words, they are the same. You can call the tech DMLS, SLM, or Fred—there would be no difference. Shout out to marketing teams worldwide. So, how does metal 3D printing fit into the overarching technologies of additive manufacturing? If only there was a neutral industry authority that could provide standard nomenclature for these technologies. In fact, there is! So, let’s start with some context and explore those additive manufacturing processes, and then zero in on metal technologies. Comparing 3D Printing Technology The ASTM F42 Committee on Additive Manufacturing has cut through the 3D printing fog by offering company-agnostic nomenclature for various additive technologies. The seven technology categories are: Vat Photopolymerization UV light selectively cures regions of a liquid photopolymer in a vat as a build platform moves to form layers. The light comes from either a scanning laser (stereolithography) or projected images (digital light processing or liquid crystal display). Material Jetting Inkjet-style heads deposit microscopic droplets of a photopolymer (or nanoparticle inks) and immediately cures them with UV light to build layers. Multiple printheads enable multi-material and full-color parts. Binder Jetting An inkjet head deposits liquid binder onto a powder bed to glue particles into a “green” part layer by layer. Parts are then de-powdered and typically sintered (and sometimes infiltrated) to achieve final strength. Material Extrusion Thermoplastic filament or pellets are heated to the melting point and pushed through a heated nozzle to trace each layer. These solidify as the layer cools. Variants include co-extruding continuous fibers or printing bound-metal feedstock followed by de-binding and sintering. Powder Bed Fusion A thin powder layer is selectively fused by a laser or electron beam to form solid cross-sections. Unfused powder supports the build; metals use either laser powder bed fusion (L-PBF) or electron beam powder bed fusion (EB-PBF). Polymers use laser sintering or agent-assisted IR processes (Multi Jet Fusion or selective absorption fusion). Sheet Lamination Sheets of material (paper, polymer, or metal foil) are bonded together and then cut to shape each layer with a blade or laser. Often, metal versions use ultrasonic welding. Excess sheet material is removed after building. Direct Energy Deposition A focused energy source (laser, electron beam, or arc) creates a melt pool while metal powder or wire is fed into it to build up material. Commonly used for repairs, feature addition, and large near-net-shape builds. DMLS and SLM: Metal 3D Printing Twins With information to ground you, we’ll move the focus to L-PBF technologies. Here’s a more detailed look at how it works: The floor of a build chamber holds powdered metal. Lasers fire at the material in a pattern dictated by the 3D CAD model. The powder metals under the power of the laser and adheres to previous layers of the build that have already solidified. Inert gas such as argon or nitrogen fills the chamber from start to finish to prevent oxidation and improve the quality of the build. It also lessens any fire hazard because the gas takes the place of potentially fire-enhancing oxygen. After each layer, fresh powder is smoothed onto the existing build. Parts grow layer-by-layer until complete. Whether you call it sintering or melting, the result is the same: melted metal powder that solidifies and adheres to the existing layers. So, whether you call it SLM, DMLS or DMLM (direct metal laser melting), you get the same process and the same results. Only the names have been changed to protect the trademarks. You Might Also Like... DMLS 3D Printing Understanding Powder Bed Fusion Technology How to Design Metal 3D-Printed Parts Tagged: 3D Printing Technology",
+  "published_at": "",
+  "requested_url": "https://www.protolabs.com/resources/blog/slm-3d-printing",
+  "schema_version": 2,
+  "sections": [
+    {
+      "hash": "260332f5a01efc2d3d63fad3f1a34ab906296bee",
+      "heading": "DMLS vs. SLM 3D Printing",
+      "level": "h1",
+      "text": "DMLS vs. SLM 3D Printing Explore SLM and DMLS 3D printing technology By Protolabs"
+    },
+    {
+      "hash": "89af2c4d39b2d46f3f00ea56eb7ffd4fa9682e91",
+      "heading": "Comparing 3D Printing Technology",
+      "level": "h2",
+      "text": "Comparing 3D Printing Technology The ASTM F42 Committee on Additive Manufacturing has cut through the 3D printing fog by offering company-agnostic nomenclature for various additive technologies. The seven technology categories are: Vat Photopolymerization UV light selectively cures regions of a liquid photopolymer in a vat as a build platform moves to form layers. The light comes from either a scanning laser (stereolithography) or projected images (digital light processing or liquid crystal display). Material Jetting Inkjet-style heads deposit microscopic droplets of a photopolymer (or nanoparticle inks) and immediately cures them with UV light to build layers. Multiple printheads enable multi-material and full-color parts. Binder Jetting An inkjet head deposits liquid binder onto a powder bed to glue particles into a “green” part layer by layer. Parts are then de-powdered and typically sintered (and sometimes infiltrated) to achieve final strength. Material Extrusion"
+    },
+    {
+      "hash": "229485d7431bcfa07902f85cfe4d27331854baf5",
+      "heading": "DMLS and SLM: Metal 3D Printing Twins",
+      "level": "h2",
+      "text": "DMLS and SLM: Metal 3D Printing Twins With information to ground you, we’ll move the focus to L-PBF technologies. Here’s a more detailed look at how it works: The floor of a build chamber holds powdered metal. Lasers fire at the material in a pattern dictated by the 3D CAD model. The powder metals under the power of the laser and adheres to previous layers of the build that have already solidified. Inert gas such as argon or nitrogen fills the chamber from start to finish to prevent oxidation and improve the quality of the build. It also lessens any fire hazard because the gas takes the place of potentially fire-enhancing oxygen. After each layer, fresh powder is smoothed onto the existing build. Parts grow layer-by-layer until complete. Whether you call it sintering or melting, the result is the same: melted metal powder that solidifies and adheres to the existing layers. So, whether you call it SLM, DMLS or DMLM (direct metal laser melting), you get the same process and the same results. Only the names have been changed to protect the trademarks."
+    }
+  ],
+  "sitemap_lastmod": "2025-12-16T16:51:00+00:00",
+  "status": 200,
+  "structure_hash": "7ace697f2b337814a48c2d450b210635ce92d71d",
+  "text_excerpt": "3D Printing December 16, 2025 DMLS vs. SLM 3D Printing Explore SLM and DMLS 3D printing technology By Protolabs If you are reading this article, you’re probably looking for guidance on 3D printing and have run into a barrage of confusing acronyms. Is there any real difference between direct metal laser sintering (DMLS) and selective laser melting (SLM)? At first it may seem there is a substantive difference between those acronyms, as DMLS refers to the process as sintering whereas SLM refers to the process as melting but in fact they both fully liquify the metal powder during the printing process. Still, when you try to explore further, every technology says they are industry leading or otherwise superior to the others. Skimming websites doesn’t bring clarity but instead brings more confusion and ambiguity. Congratulations, you have now entered the 3D printing fog, and you need an experienced guide to navigate it successfully. Though the S in DMLS stands for sintering in the English version of this acronym, the metal powder is indeed fully liquified during the printing process. The main issue is that companies in the 3D printing industry will be biased toward using their own nomen...",
+  "text_hash": "4ff688418b50f893edbce0b64e3b393b4b58f0aa",
+  "title": "SLM 3D Printing | Protolabs",
+  "url": "https://www.protolabs.com/resources/blog/slm-3d-printing"
+}

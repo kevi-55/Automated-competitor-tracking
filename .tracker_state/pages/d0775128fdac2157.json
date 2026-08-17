@@ -1,50 +1,17 @@
 {
-  "canonical": "https://sybridge.com/urethane-casting-vs-injection-molding-dfm-guide/",
+  "canonical": "https://sybridge.com/urethane-casting-vs-injection-molding-dfm-guide",
   "category": "page",
   "competitor": "SyBridge",
   "ctas": [
     {
-      "href": "https://sybridge.com/contact/",
-      "text": "Contact"
-    },
-    {
-      "href": "https://sybridge.com/contact/locations/",
-      "text": "Locations"
-    },
-    {
-      "href": "https://sybridge.com/contact/locations/#usa",
-      "text": "United States"
-    },
-    {
-      "href": "https://sybridge.com/contact/locations/#mexico",
-      "text": "Mexico"
-    },
-    {
-      "href": "https://sybridge.com/contact/locations/#canada",
-      "text": "Canada"
-    },
-    {
-      "href": "https://sybridge.com/contact/locations/#europe",
-      "text": "Europe"
-    },
-    {
-      "href": "https://sybridge.com/contact/locations/#asia",
-      "text": "Asia"
-    },
-    {
-      "href": "https://sybridge.com/contact/",
-      "text": "Start the Conversation"
-    },
-    {
-      "href": "/contact/",
+      "href": "https://sybridge.com/contact",
       "text": "Contact us"
-    },
-    {
-      "href": "https://sybridge.com/contact/",
-      "text": "Contact Us"
     }
   ],
-  "fetched_at": "2026-08-17T02:35:33+00:00",
+  "discovered_via": "sitemap",
+  "fetched_at": "2026-08-17T03:54:11+00:00",
+  "final_url": "https://sybridge.com/urethane-casting-vs-injection-molding-dfm-guide",
+  "first_seen_at": "2026-08-17T03:54:11+00:00",
   "h1": "Urethane Casting vs. Injection Molding — A DFM Guide",
   "headings": [
     {
@@ -74,29 +41,9 @@
     {
       "level": "h2",
       "text": "Design for Manufacturing With SyBridge"
-    },
-    {
-      "level": "h3",
-      "text": "Related articles"
-    },
-    {
-      "level": "h2",
-      "text": "Decoding the Aluminum Alloy Numbering System"
-    },
-    {
-      "level": "h2",
-      "text": "Know Your Materials: LOCTITE 3D IND405 Clear"
-    },
-    {
-      "level": "h2",
-      "text": "Know Your Materials: EPU"
     }
   ],
   "images": [
-    {
-      "alt": "Sybridge",
-      "src": "https://sybridge.com/wp-content/uploads/2025/11/logo-1.svg"
-    },
     {
       "alt": "",
       "src": "data:image/svg+xml,%3Csvg%20xmlns=%22http://www.w3.org/2000/svg%22%20viewBox=%220%200%20210%20140%22%3E%3C/svg%3E"
@@ -108,86 +55,63 @@
     {
       "alt": "",
       "src": "data:image/svg+xml,%3Csvg%20xmlns=%22http://www.w3.org/2000/svg%22%20viewBox=%220%200%201024%20641%22%3E%3C/svg%3E"
-    },
-    {
-      "alt": "Sybridge Technologies",
-      "src": "data:image/svg+xml,%3Csvg%20xmlns=%22http://www.w3.org/2000/svg%22%20viewBox=%220%200%20210%20140%22%3E%3C/svg%3E"
     }
   ],
   "meta_description": "Design for manufacturing (DFM) involves optimizing part design so manufacturers can fabricate high-quality parts with the lowest possible cost-per-unit. By taking the manufacturing method and its restrictions into account, designers can reduce production time, cut costs, and prevent extensive redesigns.",
+  "modified_at": "2023-10-16T14:46:23+00:00",
+  "monitored_text": "Urethane Casting vs. Injection Molding — A DFM Guide Published on January 10, 2022 Originally published on fastradius.com on January 10, 2022 Design for manufacturability (DFM) involves optimizing part design so manufacturers can fabricate high-quality parts with the lowest possible cost-per-unit. By taking the manufacturing method and its restrictions into account, designers can reduce production time, cut costs, and prevent extensive redesigns. DFM best practices vary depending on the product you’re making and your chosen manufacturing method. While injection molding and urethane casting are both molding technologies that can create molded plastic parts, they have different DFM guidelines. Here’s everything you need to know. Urethane Casting vs. Injection Molding Before starting to injection mold parts, the appropriate tooling needs to be designed and manufactured via CNC machining. Your part’s geometry will directly impact your tooling, so if you have a complex component, you’ll need complex tooling. Complex parts may need to incorporate slide actions, lifters, or removable cores into the mold’s design. During the injection molding process, the core and cavity will come together. Molten plastic will then be injected into the tooling, cooled, hardened, and ejected to create a usable part. Urethane casting begins with a master pattern that is created via CNC machining or 3D printing . The operator places the master pattern in a mold box, fills the box with liquid silicone, and then cures it. After the curing process is complete, the mold is cut in half to remove the master pattern. What’s left behind is a cavity in the shape of the part that will be molded. Then, the cavity is filled with urethane casting resin and placed in a heated vacuum chamber for curing. While both processes involve filling a mold’s cavity with a plastic material, there are some key differences between urethane casting and injection molding. Molds for injection molding are often made of steel or aluminum, making them far more durable than the silicone molds used in urethane casting. Creating a urethane casting mold is less expensive than creating one for injection molding. Complex injection molds can easily cost tens of thousands of dollars, but fabricating a urethane casting mold typically costs hundreds or thousands of dollars. While it may take several months for an injection mold to enter the production stage, urethane casting molds can be tooled in under two weeks. Urethane casting is more forgiving with regard to wall thickness and undercuts than injection molding. If you’re planning a high-volume production run or have tight tolerances, consider injection molding. Metal molds are more durable and rigid than silicone molds, and metal will continually deliver consistent part quality. Plus, you’ll have far more control when injection molding compared to urethane casting. Not only can the manufacturer control material flow and cooling rates, but also injection temperature and location when injection molding. While the cost of creating a mold for injection molding may seem high initially, it becomes cost-effective when divided among thousands of parts. On the other hand, urethane casting is ideal when developing prototypes or executing low-volume production runs, as soft tooling offers speed, flexibility, and affordability. If you have a high demand for your product but your permanent tooling isn’t ready yet, you can start production with urethane casting. Top DFM Concerns for Urethane Casting and Injection Molding When it comes to DFM for urethane casting or injection molding, you’ll want to keep tolerances, wall thickness, and undercuts in mind. Tolerances No manufacturing process is perfect, so designers and engineers allow for these variations by establishing acceptable tolerances. Parts are compared to these acceptable measurement variations from base measurements, so those whose dimensions adhere to these constraints will be considered acceptable. Those with dimensional variations over the amount defined in the tolerance won’t work as intended. These tolerances are established during the design process, and they dictate which manufacturing processes can be used. Achieving tight tolerances with cast urethane is very difficult — if not impossible — because the molds are made of flexible silicone that can be moved by the vacuum load. You shouldn’t use cast urethane to manufacture your parts if you need incredibly accurate components. On the other hand, metal injection molds offer less variation in final measured dimensions, as they can’t move around as much. However, molten plastic contracts as it cools, which causes minor variations in the part’s final measured dimensions. You’ll need to establish injection mold tolerances that reflect this. Under-tolerancing can be more affordable, but it can affect usability, and over-tolerancing is more expensive and time-consuming. By taking the time to find the perfect balance between the two, you can make sure your parts are reliable, functional, and fit with other parts as intended. Consider your part’s function, tolerance stacking , and the manufacturing and assembly processes. If your chosen manufacturing method can’t meet your tolerance requirements, you may need to use a different manufacturing technology. You can also redesign your part so it functions with loose tolerances. Wall Thickness Maintaining a uniform wall thickness is important because it increases part-to-part consistency, improves stress distribution, and reduces costs. Inconsistent or non-uniform wall thickness can result in warpage, sink marks, shrinkage, short shots, or voids in injection molded parts. A part’s ideal wall thickness depends on its size, geometry, and structural and aesthetic requirements. For best results, we recommended that wall thicknesses for injection molded parts be between 1-4 mm. It’s possible to have walls of varying thicknesses when creating parts with urethane casting, though you may experience some shrinkage or deformation during curing. For both processes, it’s best to keep wall thickness below 5mm. Undercuts Any protrusions or indentations that prevent you from ejecting your part from a one-piece mold without damage are considered undercuts. In some cases, recessed surfaces, grooves, and overhang features can make the demolding process difficult and damage your part. Other times, these features won’t cause any harm. It depends on how you designed and oriented these features and your component. The impact of undercuts also depends on your manufacturing method. Thanks to the flexibility urethane casting silicone offers, you can simply bend and stretch the tooling out of the way to release your part if you happen to have an undercut. The same cannot be said for the metal tooling used in injection molding, which is far less flexible. Your manufacturer may need to add actions, create a hole or slot in your mold, or redesign your mold with features parallel to the axis where the mold separates in order to ensure your part can be ejected. This results in more complex and more expensive tooling. An example of an injection molding slide allowing for the part to be removed without damage. Design for Manufacturing With SyBridge Whether you choose urethane casting or injection molding, integrating DFM into the design process will lower your cost-per-part and save time. By taking your manufacturing method, tolerances, wall thicknesses, and undercuts into account while designing, you can minimize part misalignments and optimize the production process. No matter which manufacturing process you choose, SyBridge can help you design for manufacturability to ensure you’re satisfied with the final product’s quality and cost. Our team of experts can advise you on appropriate tolerances and wall thicknesses or help you determine which undercut workaround is best suited for your design. Contact us today to get started.",
+  "published_at": "2022-01-10T21:55:00+00:00",
   "requested_url": "https://sybridge.com/urethane-casting-vs-injection-molding-dfm-guide",
+  "schema_version": 2,
   "sections": [
     {
-      "hash": "1d3ff3577c0725c22dab68d55cca43367f4738fb",
+      "hash": "7df67485057b943c76439215b6db8cd06bf1d9bc",
       "heading": "Urethane Casting vs. Injection Molding — A DFM Guide",
       "level": "h1",
-      "text": "Urethane Casting vs. Injection Molding — A DFM Guide Published on January 10, 2022 Originally published on fastradius.com on January 10, 2022 Design for manufacturability (DFM) involves optimizing part design so manufacturers can fabricate high-quality parts with the lowest possible cost-per-unit. By taking the manufacturing method and its restrictions into account, designers can reduce production time, cut costs, and prevent extensive redesigns. DFM best practices vary depending on the product you’re making and your chosen manufacturing method. While injection molding and urethane casting are both molding technologies that can create molded plastic parts, they have different DFM guidelines..."
+      "text": "Urethane Casting vs. Injection Molding — A DFM Guide Published on January 10, 2022 Originally published on fastradius.com on January 10, 2022 Design for manufacturability (DFM) involves optimizing part design so manufacturers can fabricate high-quality parts with the lowest possible cost-per-unit. By taking the manufacturing method and its restrictions into account, designers can reduce production time, cut costs, and prevent extensive redesigns. DFM best practices vary depending on the product you’re making and your chosen manufacturing method. While injection molding and urethane casting are both molding technologies that can create molded plastic parts, they have different DFM guidelines. Here’s everything you need to know."
     },
     {
-      "hash": "1d3ff3577c0725c22dab68d55cca43367f4738fb",
+      "hash": "6ba4e3666a25e2d195e2b296b0c594b5624dfd4e",
       "heading": "Urethane Casting vs. Injection Molding",
       "level": "h2",
-      "text": "Urethane Casting vs. Injection Molding — A DFM Guide Published on January 10, 2022 Originally published on fastradius.com on January 10, 2022 Design for manufacturability (DFM) involves optimizing part design so manufacturers can fabricate high-quality parts with the lowest possible cost-per-unit. By taking the manufacturing method and its restrictions into account, designers can reduce production time, cut costs, and prevent extensive redesigns. DFM best practices vary depending on the product you’re making and your chosen manufacturing method. While injection molding and urethane casting are both molding technologies that can create molded plastic parts, they have different DFM guidelines..."
+      "text": "Urethane Casting vs. Injection Molding Before starting to injection mold parts, the appropriate tooling needs to be designed and manufactured via CNC machining. Your part’s geometry will directly impact your tooling, so if you have a complex component, you’ll need complex tooling. Complex parts may need to incorporate slide actions, lifters, or removable cores into the mold’s design. During the injection molding process, the core and cavity will come together. Molten plastic will then be injected into the tooling, cooled, hardened, and ejected to create a usable part. Urethane casting begins with a master pattern that is created via CNC machining or 3D printing . The operator places the master pattern in a mold box, fills the box with liquid silicone, and then cures it. After the curing process is complete, the mold is cut in half to remove the master pattern. What’s left behind is a cavity in the shape of the part that will be molded. Then, the cavity is filled with urethane casting resin and placed in a heated vacuum chamber for curing. While both processes involve filling a mold’s cavity with a plastic material, there are some key differences between urethane casting and inject..."
     },
     {
-      "hash": "1d3ff3577c0725c22dab68d55cca43367f4738fb",
+      "hash": "58d63abdb8ecc2b29038a14f31596a65883d28fa",
       "heading": "Top DFM Concerns for Urethane Casting and Injection Molding",
       "level": "h2",
-      "text": "Urethane Casting vs. Injection Molding — A DFM Guide Published on January 10, 2022 Originally published on fastradius.com on January 10, 2022 Design for manufacturability (DFM) involves optimizing part design so manufacturers can fabricate high-quality parts with the lowest possible cost-per-unit. By taking the manufacturing method and its restrictions into account, designers can reduce production time, cut costs, and prevent extensive redesigns. DFM best practices vary depending on the product you’re making and your chosen manufacturing method. While injection molding and urethane casting are both molding technologies that can create molded plastic parts, they have different DFM guidelines..."
+      "text": "Top DFM Concerns for Urethane Casting and Injection Molding When it comes to DFM for urethane casting or injection molding, you’ll want to keep tolerances, wall thickness, and undercuts in mind."
     },
     {
-      "hash": "1d3ff3577c0725c22dab68d55cca43367f4738fb",
+      "hash": "cf13486bd80c1b9386588594dceb91472a2da34d",
       "heading": "Tolerances",
       "level": "h3",
-      "text": "Urethane Casting vs. Injection Molding — A DFM Guide Published on January 10, 2022 Originally published on fastradius.com on January 10, 2022 Design for manufacturability (DFM) involves optimizing part design so manufacturers can fabricate high-quality parts with the lowest possible cost-per-unit. By taking the manufacturing method and its restrictions into account, designers can reduce production time, cut costs, and prevent extensive redesigns. DFM best practices vary depending on the product you’re making and your chosen manufacturing method. While injection molding and urethane casting are both molding technologies that can create molded plastic parts, they have different DFM guidelines..."
+      "text": "Tolerances No manufacturing process is perfect, so designers and engineers allow for these variations by establishing acceptable tolerances. Parts are compared to these acceptable measurement variations from base measurements, so those whose dimensions adhere to these constraints will be considered acceptable. Those with dimensional variations over the amount defined in the tolerance won’t work as intended. These tolerances are established during the design process, and they dictate which manufacturing processes can be used. Achieving tight tolerances with cast urethane is very difficult — if not impossible — because the molds are made of flexible silicone that can be moved by the vacuum load. You shouldn’t use cast urethane to manufacture your parts if you need incredibly accurate components. On the other hand, metal injection molds offer less variation in final measured dimensions, as they can’t move around as much. However, molten plastic contracts as it cools, which causes minor variations in the part’s final measured dimensions. You’ll need to establish injection mold tolerances that reflect this. Under-tolerancing can be more affordable, but it can affect usability, and over..."
     },
     {
-      "hash": "1d3ff3577c0725c22dab68d55cca43367f4738fb",
+      "hash": "a52f4b4be209fc433ee3dafadd5cbaecb4d1ebf1",
       "heading": "Wall Thickness",
       "level": "h3",
-      "text": "Urethane Casting vs. Injection Molding — A DFM Guide Published on January 10, 2022 Originally published on fastradius.com on January 10, 2022 Design for manufacturability (DFM) involves optimizing part design so manufacturers can fabricate high-quality parts with the lowest possible cost-per-unit. By taking the manufacturing method and its restrictions into account, designers can reduce production time, cut costs, and prevent extensive redesigns. DFM best practices vary depending on the product you’re making and your chosen manufacturing method. While injection molding and urethane casting are both molding technologies that can create molded plastic parts, they have different DFM guidelines..."
+      "text": "Wall Thickness Maintaining a uniform wall thickness is important because it increases part-to-part consistency, improves stress distribution, and reduces costs. Inconsistent or non-uniform wall thickness can result in warpage, sink marks, shrinkage, short shots, or voids in injection molded parts. A part’s ideal wall thickness depends on its size, geometry, and structural and aesthetic requirements. For best results, we recommended that wall thicknesses for injection molded parts be between 1-4 mm. It’s possible to have walls of varying thicknesses when creating parts with urethane casting, though you may experience some shrinkage or deformation during curing. For both processes, it’s best to keep wall thickness below 5mm."
     },
     {
-      "hash": "1d3ff3577c0725c22dab68d55cca43367f4738fb",
+      "hash": "21f5219416b22c3d8e1b33c7f8613f59d3d7545e",
       "heading": "Undercuts",
       "level": "h3",
-      "text": "Urethane Casting vs. Injection Molding — A DFM Guide Published on January 10, 2022 Originally published on fastradius.com on January 10, 2022 Design for manufacturability (DFM) involves optimizing part design so manufacturers can fabricate high-quality parts with the lowest possible cost-per-unit. By taking the manufacturing method and its restrictions into account, designers can reduce production time, cut costs, and prevent extensive redesigns. DFM best practices vary depending on the product you’re making and your chosen manufacturing method. While injection molding and urethane casting are both molding technologies that can create molded plastic parts, they have different DFM guidelines..."
+      "text": "Undercuts Any protrusions or indentations that prevent you from ejecting your part from a one-piece mold without damage are considered undercuts. In some cases, recessed surfaces, grooves, and overhang features can make the demolding process difficult and damage your part. Other times, these features won’t cause any harm. It depends on how you designed and oriented these features and your component. The impact of undercuts also depends on your manufacturing method. Thanks to the flexibility urethane casting silicone offers, you can simply bend and stretch the tooling out of the way to release your part if you happen to have an undercut. The same cannot be said for the metal tooling used in injection molding, which is far less flexible. Your manufacturer may need to add actions, create a hole or slot in your mold, or redesign your mold with features parallel to the axis where the mold separates in order to ensure your part can be ejected. This results in more complex and more expensive tooling. An example of an injection molding slide allowing for the part to be removed without damage."
     },
     {
-      "hash": "1d3ff3577c0725c22dab68d55cca43367f4738fb",
+      "hash": "5faccdc03c621435a9372cb7dd7ad984e0c2ffcf",
       "heading": "Design for Manufacturing With SyBridge",
       "level": "h2",
-      "text": "Urethane Casting vs. Injection Molding — A DFM Guide Published on January 10, 2022 Originally published on fastradius.com on January 10, 2022 Design for manufacturability (DFM) involves optimizing part design so manufacturers can fabricate high-quality parts with the lowest possible cost-per-unit. By taking the manufacturing method and its restrictions into account, designers can reduce production time, cut costs, and prevent extensive redesigns. DFM best practices vary depending on the product you’re making and your chosen manufacturing method. While injection molding and urethane casting are both molding technologies that can create molded plastic parts, they have different DFM guidelines..."
-    },
-    {
-      "hash": "a4977d2ee2c1f3bca2f5848506e7fd665cbfc5ee",
-      "heading": "Related articles",
-      "level": "h3",
-      "text": "Related articles"
-    },
-    {
-      "hash": "3d80c86c02394cc71552776b5d14e3eb82fb08f3",
-      "heading": "Decoding the Aluminum Alloy Numbering System",
-      "level": "h2",
-      "text": "Decoding the Aluminum Alloy Numbering System"
-    },
-    {
-      "hash": "b390c5e0766360c959265afb5e32e1a88d2b55b0",
-      "heading": "Know Your Materials: LOCTITE 3D IND405 Clear",
-      "level": "h2",
-      "text": "Know Your Materials: LOCTITE 3D IND405 Clear"
-    },
-    {
-      "hash": "9250778fbf886591068641d6648162f8af000a99",
-      "heading": "Know Your Materials: EPU",
-      "level": "h2",
-      "text": "Know Your Materials: EPU"
+      "text": "Design for Manufacturing With SyBridge Whether you choose urethane casting or injection molding, integrating DFM into the design process will lower your cost-per-part and save time. By taking your manufacturing method, tolerances, wall thicknesses, and undercuts into account while designing, you can minimize part misalignments and optimize the production process. No matter which manufacturing process you choose, SyBridge can help you design for manufacturability to ensure you’re satisfied with the final product’s quality and cost. Our team of experts can advise you on appropriate tolerances and wall thicknesses or help you determine which undercut workaround is best suited for your design. Contact us today to get started."
     }
   ],
+  "sitemap_lastmod": "2023-10-16T14:46:23+00:00",
   "status": 200,
-  "structure_hash": "e7051ba22458ba8c61d78771c04d1e81aa8c8d23",
-  "text_excerpt": "Urethane Casting vs. Injection Molding — A DFM Guide - SyBridge Technologies about us About us overview About us overview Our Story Sybridge Advantage Sustainability Press Room Careers Injection mold tooling Injection molding tooling overview Injection molding tooling overview Design & Engineering Pre-Production Tooling Production Tooling Mold Validation Mold Maintenance SPECIALTY MANUFACTURING Specialty Manufacturing OVERVIEW Specialty Manufacturing Overview 3D Printing Quick-Turn Production Markets Served Markets Served Overview Markets Served Overview Healthcare Packaging Consumer Mobility Industrial More+ More Overview Blog Contact Locations United States Mexico Canada Europe Asia Start the Conversation Home > Resources > Urethane Casting vs. Injection Molding — A DFM Guide Urethane Casting vs. Injection Molding — A DFM Guide Published on January 10, 2022 Originally published on fastradius.com on January 10, 2022 Design for manufacturability (DFM) involves optimizing part design so manufacturers can fabricate high-quality parts with the lowest possible cost-per-unit. By taking the manufacturing method and its restrictions into account, designers can reduce production time, cut...",
-  "text_hash": "48cf6891a2e677ec9e93f40cbaa8632bc2465d20",
+  "structure_hash": "8fb1f919701b13ae52e8cc6b92a3cdad3d65757c",
+  "text_excerpt": "Urethane Casting vs. Injection Molding — A DFM Guide Published on January 10, 2022 Originally published on fastradius.com on January 10, 2022 Design for manufacturability (DFM) involves optimizing part design so manufacturers can fabricate high-quality parts with the lowest possible cost-per-unit. By taking the manufacturing method and its restrictions into account, designers can reduce production time, cut costs, and prevent extensive redesigns. DFM best practices vary depending on the product you’re making and your chosen manufacturing method. While injection molding and urethane casting are both molding technologies that can create molded plastic parts, they have different DFM guidelines. Here’s everything you need to know. Urethane Casting vs. Injection Molding Before starting to injection mold parts, the appropriate tooling needs to be designed and manufactured via CNC machining. Your part’s geometry will directly impact your tooling, so if you have a complex component, you’ll need complex tooling. Complex parts may need to incorporate slide actions, lifters, or removable cores into the mold’s design. During the injection molding process, the core and cavity will come togethe...",
+  "text_hash": "1d3ff3577c0725c22dab68d55cca43367f4738fb",
   "title": "Urethane Casting vs. Injection Molding — A DFM Guide - SyBridge Technologies",
   "url": "https://sybridge.com/urethane-casting-vs-injection-molding-dfm-guide"
 }

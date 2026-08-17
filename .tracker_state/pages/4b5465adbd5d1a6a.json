@@ -1,0 +1,323 @@
+{
+  "canonical": "https://www.hubs.com/knowledge-base/how-prepare-technical-drawing-cnc-machining",
+  "category": "content",
+  "competitor": "Hubs",
+  "ctas": [
+    {
+      "href": "https://www.hubs.com/manufacture",
+      "text": "request a quote"
+    },
+    {
+      "href": "https://www.hubs.com/manufacture",
+      "text": "Upload your design for a free, instant quote"
+    },
+    {
+      "href": "https://www.hubs.com/manufacture",
+      "text": "Get an instant quote today"
+    },
+    {
+      "href": "https://www.hubs.com/manufacture",
+      "text": "Start producing custom parts today"
+    },
+    {
+      "href": "https://www.hubs.com/help-center/ordering-custom-parts/2-configuring-parts/attach-technical-drawings-for-cnc-machined-parts",
+      "text": "Help Center"
+    }
+  ],
+  "discovered_via": "sitemap",
+  "fetched_at": "2026-08-17T03:42:36+00:00",
+  "final_url": "https://www.hubs.com/knowledge-base/how-prepare-technical-drawing-cnc-machining",
+  "first_seen_at": "2026-08-17T03:42:36+00:00",
+  "h1": "",
+  "headings": [
+    {
+      "level": "h2",
+      "text": "Why are technical drawings still important for sourcing parts?"
+    },
+    {
+      "level": "h2",
+      "text": "What is the anatomy of a technical drawing?"
+    },
+    {
+      "level": "h3",
+      "text": "Title block"
+    },
+    {
+      "level": "h3",
+      "text": "The pictorial (isometric) view"
+    },
+    {
+      "level": "h3",
+      "text": "The main orthographic views"
+    },
+    {
+      "level": "h3",
+      "text": "Section views"
+    },
+    {
+      "level": "h3",
+      "text": "Detailed views"
+    },
+    {
+      "level": "h2",
+      "text": "What are notes to the manufacturer and why do you need them?"
+    },
+    {
+      "level": "h2",
+      "text": "How to prepare a technical drawing in 7 simple steps"
+    },
+    {
+      "level": "h3",
+      "text": "Step 1"
+    },
+    {
+      "level": "h3",
+      "text": "Step 2"
+    },
+    {
+      "level": "h3",
+      "text": "Step 3"
+    },
+    {
+      "level": "h3",
+      "text": "Step 4"
+    },
+    {
+      "level": "h3",
+      "text": "Step 5"
+    },
+    {
+      "level": "h3",
+      "text": "Step 6"
+    },
+    {
+      "level": "h3",
+      "text": "Step 7"
+    },
+    {
+      "level": "h2",
+      "text": "How do you add critical dimensions to technical drawings?"
+    },
+    {
+      "level": "h2",
+      "text": "How do you add hole callouts to a technical drawing?"
+    },
+    {
+      "level": "h2",
+      "text": "How do you add threads to a technical drawing?"
+    },
+    {
+      "level": "h2",
+      "text": "How do you specify tolerances in a technical drawing?"
+    },
+    {
+      "level": "h2",
+      "text": "What is Geometric Dimensioning & Tolerancing (GD&T)?"
+    },
+    {
+      "level": "h2",
+      "text": "Frequently asked questions"
+    },
+    {
+      "level": "h3",
+      "text": "Do I need a technical drawing for CNC machining?"
+    },
+    {
+      "level": "h3",
+      "text": "What does a technical drawing have to include?"
+    },
+    {
+      "level": "h3",
+      "text": "Do technical drawings need notes to the manufacturer?"
+    },
+    {
+      "level": "h3",
+      "text": "How do I add a technical drawing to the quote builder?"
+    }
+  ],
+  "images": [
+    {
+      "alt": "An example technical drawing",
+      "src": "/images/trans.gif"
+    },
+    {
+      "alt": "",
+      "src": "/images/trans.gif"
+    },
+    {
+      "alt": "CNC machining, 3D printing and sheet metal fabrication parts",
+      "src": "/images/trans.gif"
+    }
+  ],
+  "meta_description": "How do you prepare technical drawings for CNC machining and why are they important? Technical drawings are standard documents used in manufacturing to communicate technical requirements between the designer, engineering team, and the manufacturer. Clear drawings reduce ambiguity, speed up production, and help ensure parts are produced to the required specifications.",
+  "modified_at": "",
+  "monitored_text": "To request a quote for custom CNC parts on the Protolabs Network platform, provide a 3D CAD file. Modern CNC systems can read part geometry directly from CAD, so additional documentation such as technical drawings is not always required. Although a 3D CAD file is sufficient to request a CNC quote, technical drawings remain important in manufacturing. Drawings improve communication of technical requirements between designers, engineers, product developers, and machinists. Supplying a technical drawing can help you source better parts and may reduce overall cost . This article explains when to include a technical drawing or machining blueprint with your CNC order and what to include to get the best results from part sourcing. It also presents technical drawing guidelines and best practices from our engineers. Did you know we offer local sourcing for CNC machining? Upload your design for a free, instant quote Need it faster? Explore Protolabs’ CNC machining service for rapid prototyping and production parts in as fast as one day. Check out this handy example of a technical drawing. The image above shows a well-designed, fully dimensioned technical drawing and serves as a practical example for this guide. Click here to download a high-resolution version of the drawing and here to download the CAD file. Have a CAD file and technical drawing ready to go for your custom part? Explore our CNC services Get an instant quote today Why are technical drawings still important for sourcing parts? While CAD files are comprehensive, technical drawings still communicate details a 3D CAD file cannot. These include: Internal or external threads Features with tolerances that exceed the standard Individual surfaces with specific finishing requirements (surface roughness, for example) Even if your design does not include those details, it is good practice to include a technical drawing along with your 3D CAD file when placing a CNC order. The CAD file is used to program the CNC machine , while the drawing serves as a reference throughout the machining process. Most CNC service providers can also manufacture directly from turning and milling drawings, and in some cases they even prefer drawings over CAD files. This is because: Some service providers are trained to quickly interpret the geometry of a part from a 2D drawing It’s easier to identify the main dimensions, functions and critical features of a part from 2D blueprints It’s easier to assess the cost of manufacturing the part Technical drawings are an important part of sourcing custom parts, and many standards and best practices exist for drafting them. If a drawing clearly communicates all technical requirements, the specific drafting technique is secondary. Pro tip from Protolabs Network The example drawing is fully dimensioned, which we recommend, but it is not required since the 3D CAD file supplies the core geometry. To save time, annotate the critical features and any threaded holes or dimensions you want inspected or held to tolerance. What is the anatomy of a technical drawing? A technical drawing typically consists of the following crucial components: A title block An isometric/pictorial view of the part The main orthographic views of the part Section views or detail views Notes to the manufacturer Title block The title block records basic part information that the manufacturer needs, such as part name, material, finish and color, the designer and the company. Filling in these fields is essential because they communicate the part’s primary function and production requirements. The title block also lists technical details such as the drawing scale and the standards used for dimensioning and tolerancing. Near the title block the drawing should show the projection method. Drawings using ASME standards (common in the US and Australia) use third angle projection. Drawings using ISO or DIN standards (common in Europe) use first angle projection. The example blueprint at the start of this article follows ISO/DIN. The pictorial (isometric) view Include one or more 3D pictorial views on the technical drawing to make it easier to understand at a glance. Isometric views show depth while preserving true geometry: vertical lines remain vertical and horizontal lines are drawn at 30 degrees. The main orthographic views Most geometric information is conveyed in the main orthographic views. These are two dimensional depictions of the three dimensional part, shown from the faces of an imagined bounding box. Only the edges are drawn to communicate shape, dimensions, and features clearly. For most parts, two or three orthographic views are sufficient to describe the complete geometry. Section views Section views show internal details by cutting the part along a plane. A cutting line on an orthographic view indicates where the part is cross-sectioned, and the cross-hatch pattern in the section view marks areas of removed material. Drawings can include multiple section views. Each cutting line is labeled with a two-letter pair that links it to the corresponding section view, for example A-A or B-B. Arrows on the cutting line indicate the viewing direction. Section views are typically placed in line with the related orthographic view, but they may be located elsewhere on the drawing if space is limited. A part can be sectioned across its full width, along half its width, or at an angle. Pro tip from Protolabs Network Edges of hidden internal features can be shown in orthographic views using dashed lines. Section views provide greater clarity by exposing internal geometry directly, making dimensions and features easier to interpret. Detailed views Detail views highlight complex or hard-to-dimension areas of an orthographic view. Typically shown as an offset circle and labelled with a single letter (for example A or B), a detail view links back to the main drawing. Detail views may be placed anywhere on the sheet and can use a different scale from the rest of the drawing, provided the scale is clearly indicated. What are notes to the manufacturer and why do you need them? Adding notes to the manufacturer on the technical drawing is important, though not required to obtain a quote. Notes convey additional information not included on the blueprints. These additional but important details include instructions to break or deburr all sharp edges and specify overall surface finishing requirements. This section can also reference other CAD files or mating components that interact with the part. Notes to the manufacturer often use symbols rather than text. For example, surface roughness is commonly indicated with a standard symbol. Pro tip from Protolabs Network If only one surface requires a specific surface roughness, annotate it directly on the drawing rather than in the general notes. The standard surface roughness for parts machined on Protolabs Network is Ra 3.2 μm (125 μin). Tighter finishes of Ra 1.6 μm (64 μin) and Ra 0.8 μm (32 μin) are also available. How to prepare a technical drawing in 7 simple steps When drafting your technical drawing, follow these seven steps to create clear, production-ready blueprints. Step 1 Define the most important views and place the relevant orthographic views in the center of the drawing, leaving sufficient space between them to add dimensions. Step 2 If the part has internal features or areas that are hard to dimension, add section views or detail views. Step 3 Add construction lines to every view. Construction lines include centerlines to define symmetry planes or axes, center marks, and center mark patterns to locate hole centers or circular patterns. Step 4 Add dimensions, starting with the most important features first. Step 5 Specify the location, size, and length of all threads. Step 6 Add tolerances for features that require higher accuracy than the standard. We follow ISO 2768 — medium or fine for metals and medium for plastics. Step 7 Complete the title block and list any nonstandard requirements, such as surface finish or deburring, in the notes. Export the drawing as a PDF and attach it to your order in the quote builder. With the basic technical drawing structure covered, next focus on adding dimensions, annotations, and tolerances to ensure accurate part sourcing and manufacturability. Curious about the cost of CNC machining? Find out how to reduce CNC costs Get an instant quote today How do you add critical dimensions to technical drawings? A fully dimensioned main orthographic view If both a 3D CAD file and a technical drawing are supplied, manufacturers will rely on the drawing for dimensional checks. We recommend dimensioning all critical features on the drawing to prevent errors during production. We recommend fully dimensioning technical drawings to prevent manufacturing errors. To save time, dimension only the critical features you want the CNC supplier to inspect. Here are some tips to help you dimension your models: Place overall dimensions first to define the part envelope. Add the most critical functional dimensions next, for example the distance between key holes. Dimension secondary features after the critical ones. Where possible, dimension from the same baseline or datum to reduce cumulative error. Put each dimension on the view that best shows the feature. For example, threaded hole details belong in the detailed view rather than the main view. For repeated features, dimension one instance and call out the quantity, for example 2x for two identical counterbored holes. Want to explore dimensioning in more depth? See this MIT article . How do you add hole callouts to a technical drawing? Section and detail views with hole callouts Holes are common features in CNC machined parts and are typically drilled to standardized sizes . They often include secondary features such as counterbores (⌴) and countersinks (⌵). Using a single callout to define repeated hole features is recommended instead of dimensioning each feature individually. In the example below, the callout specifies two identical through holes with a counterbore. The depth symbol (↧) can be used rather than adding a separate depth dimension. An example of a typical hole callout How do you add threads to a technical drawing? Threads must be clearly identified on technical drawings. Use standard thread designations, for example M4x0.7, rather than a diameter dimension. Provide detailed thread callouts to specify pilot hole sizes, thread lengths, and any special requirements. Specify the pilot hole diameter in the first operation (refer to standard tables) and define the thread dimension and tolerance in the second operation. Pro tip from Protolabs Network Always add a \"cosmetic\" thread to your 3D CAD files instead of a \"modeled\" thread. How do you specify tolerances in a technical drawing? Tolerances are defined using different formats on a main orthographic view Tolerances define the acceptable variation for a given dimension and communicate how a feature must function, which is critical for parts that interact with other components. Tolerances apply to any linear or angular dimension on a CNC drawing. Common formats include bilateral tolerances, which are symmetrical around the nominal value (for example ±0.1 mm), unilateral tolerances with different upper and lower limits, and engineering fit tolerances specified by standard designations (for example 6H). A flatness tolerance (⏥) is shown in the example above. Pro tips from Protolabs Network Tolerances are only required on a technical drawing when they must be tighter than the standard. We follow ISO 2768: medium or fine for metals and medium for plastics. For more precise control, use geometric dimensioning and tolerancing (GD&T). What is Geometric Dimensioning & Tolerancing (GD&T)? Example part dimensioned using GD&T GD&T is more advanced to apply than standard tolerancing but communicates engineering intent more clearly. Using GD&T lets you specify functional requirements directly, so some tolerances can be looser while still meeting design goals. That improves quality and can reduce manufacturing cost. Common symbols include true position (⌖) for locating hole patterns, flatness (⏥), and concentricity (◎). When used correctly, GD&T helps suppliers understand which features are critical for fit and function. Here is an example of how to apply the GD&T system to a part design: The callout specifies eight holes with a nominal diameter of 10 mm and a diameter tolerance of ±0.1 mm. Any measurement of these hole diameters must fall between 9.9 mm and 10.1 mm. The true position tolerance controls the hole center location relative to the three baseline edges or datums. It requires the hole axis to lie within an imaginary cylinder centered on the nominal location with a diameter of 0.1 mm. This ensures the hole center stays within the specified zone so the part will fit the assembly. We recommend adding GD&T to parts for critical assemblies and during later stages of the design process, such as full-scale production. Both scenarios have higher metrology requirements, which increases the cost of a one-off prototype. Don't have a technical drawing yet? You can still get an instant quote Start producing custom parts today Subscribe Get the latest manufacturing news delivered to your mailbox. Sign up for our newsletter Sign me up Please enter a valid email address. Leave this field empty Thanks! You're now subscribed to our newsletter. Frequently asked questions Do I need a technical drawing for CNC machining? Although technical drawings are not used to generate G-code, they remain essential for quality control. Drawings are also required when parts include threads, specific tolerances, or surface finish requirements. What does a technical drawing have to include? A standard technical drawing should include key information: a title block, orthographic views, section views, and an isometric view, along with coordinate data, all requirements, and any additional notes. Most importantly, ensure the title block does not contradict the CAD file uploaded to the quote builder. Do technical drawings need notes to the manufacturer? Notes to the manufacturer are not required, but including them on your technical drawing is important for conveying information that does not fit on the blueprints. How do I add a technical drawing to the quote builder? You can upload a PDF of your technical drawing in the part specifications section of the quote builder by clicking “Upload attachment.” Note that your CAD file and the part specifications selected at checkout take priority over your technical drawings. For more information, visit the Help Center .",
+  "published_at": "",
+  "requested_url": "https://www.hubs.com/knowledge-base/how-prepare-technical-drawing-cnc-machining",
+  "schema_version": 2,
+  "sections": [
+    {
+      "hash": "e03267244a4a50fee94eda0d60d92db6ceb53992",
+      "heading": "Why are technical drawings still important for sourcing parts?",
+      "level": "h2",
+      "text": "Why are technical drawings still important for sourcing parts? While CAD files are comprehensive, technical drawings still communicate details a 3D CAD file cannot. These include: Internal or external threads Features with tolerances that exceed the standard Individual surfaces with specific finishing requirements (surface roughness, for example) Even if your design does not include those details, it is good practice to include a technical drawing along with your 3D CAD file when placing a CNC order. The CAD file is used to program the CNC machine , while the drawing serves as a reference throughout the machining process. Most CNC service providers can also manufacture directly from turning and milling drawings, and in some cases they even prefer drawings over CAD files. This is because: Some service providers are trained to quickly interpret the geometry of a part from a 2D drawing It’s easier to identify the main dimensions, functions and critical features of a part from 2D blueprints It’s easier to assess the cost of manufacturing the part Technical drawings are an important part of sourcing custom parts, and many standards and best practices exist for drafting them. If a drawi..."
+    },
+    {
+      "hash": "ba1370317e46eafb5e0a7a3996d1d222d1be897e",
+      "heading": "What is the anatomy of a technical drawing?",
+      "level": "h2",
+      "text": "What is the anatomy of a technical drawing? A technical drawing typically consists of the following crucial components: A title block An isometric/pictorial view of the part The main orthographic views of the part Section views or detail views Notes to the manufacturer"
+    },
+    {
+      "hash": "4f59e52f68d8bf3988157f834066d410806f17e0",
+      "heading": "Title block",
+      "level": "h3",
+      "text": "Title block"
+    },
+    {
+      "hash": "2d416971cd2f38de8ca1c3ca49a41f79e265e492",
+      "heading": "The pictorial (isometric) view",
+      "level": "h3",
+      "text": "The pictorial (isometric) view The title block records basic part information that the manufacturer needs, such as part name, material, finish and color, the designer and the company. Filling in these fields is essential because they communicate the part’s primary function and production requirements. The title block also lists technical details such as the drawing scale and the standards used for dimensioning and tolerancing. Near the title block the drawing should show the projection method. Drawings using ASME standards (common in the US and Australia) use third angle projection. Drawings using ISO or DIN standards (common in Europe) use first angle projection. The example blueprint at the start of this article follows ISO/DIN. The pictorial (isometric) view"
+    },
+    {
+      "hash": "5120225f61be499bb096428e843aa3634a2683a2",
+      "heading": "The main orthographic views",
+      "level": "h3",
+      "text": "The main orthographic views Include one or more 3D pictorial views on the technical drawing to make it easier to understand at a glance. Isometric views show depth while preserving true geometry: vertical lines remain vertical and horizontal lines are drawn at 30 degrees. The main orthographic views"
+    },
+    {
+      "hash": "6c36280cdcde081ae431b36bdb0e4d8216b4b087",
+      "heading": "Section views",
+      "level": "h3",
+      "text": "Section views Most geometric information is conveyed in the main orthographic views. These are two dimensional depictions of the three dimensional part, shown from the faces of an imagined bounding box. Only the edges are drawn to communicate shape, dimensions, and features clearly. For most parts, two or three orthographic views are sufficient to describe the complete geometry. Section views"
+    },
+    {
+      "hash": "1a8a07d980abe790e394b8440d9576621ba5e3ee",
+      "heading": "Detailed views",
+      "level": "h3",
+      "text": "Detailed views Detailed views"
+    },
+    {
+      "hash": "51c8e3e4985502e8d77cacfcb5e526e89c42cbbd",
+      "heading": "What are notes to the manufacturer and why do you need them?",
+      "level": "h2",
+      "text": "What are notes to the manufacturer and why do you need them? Detail views highlight complex or hard-to-dimension areas of an orthographic view. Typically shown as an offset circle and labelled with a single letter (for example A or B), a detail view links back to the main drawing. Detail views may be placed anywhere on the sheet and can use a different scale from the rest of the drawing, provided the scale is clearly indicated. What are notes to the manufacturer and why do you need them?"
+    },
+    {
+      "hash": "c96ca267ea23a0f25970ba133cfafb842435c58f",
+      "heading": "How to prepare a technical drawing in 7 simple steps",
+      "level": "h2",
+      "text": "How to prepare a technical drawing in 7 simple steps When drafting your technical drawing, follow these seven steps to create clear, production-ready blueprints."
+    },
+    {
+      "hash": "9ac3fc13bfbae7b089b035fa9306ddcae631a30c",
+      "heading": "Step 1",
+      "level": "h3",
+      "text": "Step 1 Define the most important views and place the relevant orthographic views in the center of the drawing, leaving sufficient space between them to add dimensions."
+    },
+    {
+      "hash": "150d90f0a5e4461edc68455117fcc45b93ac9684",
+      "heading": "Step 2",
+      "level": "h3",
+      "text": "Step 2 If the part has internal features or areas that are hard to dimension, add section views or detail views."
+    },
+    {
+      "hash": "b4ed38df55913e670b2d0e88772fd1ba3f905101",
+      "heading": "Step 3",
+      "level": "h3",
+      "text": "Step 3 Add construction lines to every view. Construction lines include centerlines to define symmetry planes or axes, center marks, and center mark patterns to locate hole centers or circular patterns."
+    },
+    {
+      "hash": "4ae8ba178d95f73a3628729773588ebcda5dc929",
+      "heading": "Step 4",
+      "level": "h3",
+      "text": "Step 4 Add dimensions, starting with the most important features first."
+    },
+    {
+      "hash": "b4b6fa8218b124167351c08ac41b5f4bd24c28fe",
+      "heading": "Step 5",
+      "level": "h3",
+      "text": "Step 5 Specify the location, size, and length of all threads."
+    },
+    {
+      "hash": "1bd2862295c03ec7abf43b1ca0812dbba4a377c5",
+      "heading": "Step 6",
+      "level": "h3",
+      "text": "Step 6 Add tolerances for features that require higher accuracy than the standard. We follow ISO 2768 — medium or fine for metals and medium for plastics."
+    },
+    {
+      "hash": "90f5d62ee10d2d97bc23c8094072fec221f45742",
+      "heading": "Step 7",
+      "level": "h3",
+      "text": "Step 7 Complete the title block and list any nonstandard requirements, such as surface finish or deburring, in the notes. Export the drawing as a PDF and attach it to your order in the quote builder. With the basic technical drawing structure covered, next focus on adding dimensions, annotations, and tolerances to ensure accurate part sourcing and manufacturability."
+    },
+    {
+      "hash": "af72ba71c89fee6f52eb5757a3c89f3b6c894898",
+      "heading": "How do you add critical dimensions to technical drawings?",
+      "level": "h2",
+      "text": "How do you add critical dimensions to technical drawings? How do you add critical dimensions to technical drawings?"
+    },
+    {
+      "hash": "daf93f7ea20e5d087d851b0b04918abf91b47caf",
+      "heading": "How do you add hole callouts to a technical drawing?",
+      "level": "h2",
+      "text": "How do you add hole callouts to a technical drawing? If both a 3D CAD file and a technical drawing are supplied, manufacturers will rely on the drawing for dimensional checks. We recommend dimensioning all critical features on the drawing to prevent errors during production. We recommend fully dimensioning technical drawings to prevent manufacturing errors. To save time, dimension only the critical features you want the CNC supplier to inspect. Here are some tips to help you dimension your models: Place overall dimensions first to define the part envelope. Add the most critical functional dimensions next, for example the distance between key holes. Dimension secondary features after the critical ones. Where possible, dimension from the same baseline or datum to reduce cumulative error. Put each dimension on the view that best shows the feature. For example, threaded hole details belong in the detailed view rather than the main view. For repeated features, dimension one instance and call out the quantity, for example 2x for two identical counterbored holes. Want to explore dimensioning in more depth? See this MIT article . How do you add hole callouts to a technical drawing?"
+    },
+    {
+      "hash": "01b475a9f922dd6af0b168d61bfb1e12f5b1b719",
+      "heading": "How do you add threads to a technical drawing?",
+      "level": "h2",
+      "text": "How do you add threads to a technical drawing? Threads must be clearly identified on technical drawings. Use standard thread designations, for example M4x0.7, rather than a diameter dimension. Provide detailed thread callouts to specify pilot hole sizes, thread lengths, and any special requirements. Specify the pilot hole diameter in the first operation (refer to standard tables) and define the thread dimension and tolerance in the second operation."
+    },
+    {
+      "hash": "d7b3b288a3b693443da0fd0c8e8260b548e13bd1",
+      "heading": "How do you specify tolerances in a technical drawing?",
+      "level": "h2",
+      "text": "How do you specify tolerances in a technical drawing? How do you specify tolerances in a technical drawing?"
+    },
+    {
+      "hash": "8be23675aa428fbb927366eb87a12aba9c35d8ad",
+      "heading": "What is Geometric Dimensioning & Tolerancing (GD&T)?",
+      "level": "h2",
+      "text": "What is Geometric Dimensioning & Tolerancing (GD&T)? For more precise control, use geometric dimensioning and tolerancing (GD&T). What is Geometric Dimensioning & Tolerancing (GD&T)?"
+    },
+    {
+      "hash": "02842b08377539be654ab1179cf41e1d947c4424",
+      "heading": "Frequently asked questions",
+      "level": "h2",
+      "text": "Frequently asked questions Frequently asked questions"
+    },
+    {
+      "hash": "d16c19db679d03124150bd377efbb62acc2177fa",
+      "heading": "Do I need a technical drawing for CNC machining?",
+      "level": "h3",
+      "text": "Do I need a technical drawing for CNC machining? Although technical drawings are not used to generate G-code, they remain essential for quality control. Drawings are also required when parts include threads, specific tolerances, or surface finish requirements."
+    },
+    {
+      "hash": "973036f0b69636f21d2594afd0b2d5b67169dc62",
+      "heading": "What does a technical drawing have to include?",
+      "level": "h3",
+      "text": "What does a technical drawing have to include? A standard technical drawing should include key information: a title block, orthographic views, section views, and an isometric view, along with coordinate data, all requirements, and any additional notes. Most importantly, ensure the title block does not contradict the CAD file uploaded to the quote builder."
+    },
+    {
+      "hash": "0523da0466d0474c817000baf7c4c572782c1687",
+      "heading": "Do technical drawings need notes to the manufacturer?",
+      "level": "h3",
+      "text": "Do technical drawings need notes to the manufacturer? Notes to the manufacturer are not required, but including them on your technical drawing is important for conveying information that does not fit on the blueprints."
+    },
+    {
+      "hash": "926a781065f675c01faddc668ddd7e626f04c151",
+      "heading": "How do I add a technical drawing to the quote builder?",
+      "level": "h3",
+      "text": "How do I add a technical drawing to the quote builder? You can upload a PDF of your technical drawing in the part specifications section of the quote builder by clicking “Upload attachment.” Note that your CAD file and the part specifications selected at checkout take priority over your technical drawings. For more information, visit the Help Center ."
+    }
+  ],
+  "sitemap_lastmod": "2025-11-27T13:19:03+00:00",
+  "status": 200,
+  "structure_hash": "134241ebb5547b8856c90702fa62e8f3c06cc5db",
+  "text_excerpt": "To request a quote for custom CNC parts on the Protolabs Network platform, provide a 3D CAD file. Modern CNC systems can read part geometry directly from CAD, so additional documentation such as technical drawings is not always required. Although a 3D CAD file is sufficient to request a CNC quote, technical drawings remain important in manufacturing. Drawings improve communication of technical requirements between designers, engineers, product developers, and machinists. Supplying a technical drawing can help you source better parts and may reduce overall cost . This article explains when to include a technical drawing or machining blueprint with your CNC order and what to include to get the best results from part sourcing. It also presents technical drawing guidelines and best practices from our engineers. Did you know we offer local sourcing for CNC machining? Upload your design for a free, instant quote Need it faster? Explore Protolabs’ CNC machining service for rapid prototyping and production parts in as fast as one day. Check out this handy example of a technical drawing. The image above shows a well-designed, fully dimensioned technical drawing and serves as a practical ex...",
+  "text_hash": "666adaae5ad90505c394887f6331e42032fbb613",
+  "title": "How to prepare a technical drawing for CNC machining | Protolabs Network",
+  "url": "https://www.hubs.com/knowledge-base/how-prepare-technical-drawing-cnc-machining"
+}

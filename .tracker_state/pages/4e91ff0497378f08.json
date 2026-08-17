@@ -1,0 +1,205 @@
+{
+  "canonical": "https://www.protolabs.com/resources/blog/flame-retardant-thermoplastics-and-ul-classifications",
+  "category": "content",
+  "competitor": "Protolabs",
+  "ctas": [
+    {
+      "href": "https://www.protolabs.com/services/3d-printing/advanced-photopolymers",
+      "text": "Learn More About Flame-Retardant Materials for 3D Printing"
+    }
+  ],
+  "discovered_via": "sitemap",
+  "fetched_at": "2026-08-17T03:48:47+00:00",
+  "final_url": "https://www.protolabs.com/resources/blog/flame-retardant-thermoplastics-and-ul-classifications",
+  "first_seen_at": "2026-08-17T03:48:47+00:00",
+  "h1": "UL 94 Classification and Flame-Retardant Materials",
+  "headings": [
+    {
+      "level": "h1",
+      "text": "UL 94 Classification and Flame-Retardant Materials"
+    },
+    {
+      "level": "h2",
+      "text": "Applications for Flame Retardant Plastics"
+    },
+    {
+      "level": "h2",
+      "text": "What is UL 94?"
+    },
+    {
+      "level": "h2",
+      "text": "UL 94 Test Configurations"
+    },
+    {
+      "level": "h2",
+      "text": "Flame Retardant vs. Flame Resistant: What's the Difference?"
+    },
+    {
+      "level": "h2",
+      "text": "Why Thickness and Formulation Matter"
+    },
+    {
+      "level": "h2",
+      "text": "Flame-Retardant Materials Available at Protolabs"
+    },
+    {
+      "level": "h3",
+      "text": "Arkema FR512"
+    },
+    {
+      "level": "h2",
+      "text": "PFAS in Flame-Retardant Materials"
+    },
+    {
+      "level": "h2",
+      "text": "Environmental Considerations"
+    },
+    {
+      "level": "h2",
+      "text": "Why Flame Ratings Matter in Product Development"
+    },
+    {
+      "level": "h2",
+      "text": "One More Thing Before You Submit Your Design"
+    },
+    {
+      "level": "h2",
+      "text": "Frequently Asked Questions"
+    }
+  ],
+  "images": [
+    {
+      "alt": "",
+      "src": "/images/Protolabs-mark-dark.jpg"
+    },
+    {
+      "alt": "",
+      "src": "/media/3acc4c2f/2025-000-004-flame-retardant-content-update_illustration_v2_horizontal-burn-test.png?width=1370&v=1dbda36f6533920"
+    },
+    {
+      "alt": "",
+      "src": "/media/fkhh3yve/2025-000-004-flame-retardant-content-update_illustration_v2_20mm-vertical-burn.png?width=1370&v=1dbda36f60985f0"
+    },
+    {
+      "alt": "",
+      "src": "/media/21jn01gi/2025-000-004-flame-retardant-content-update_illustration_v2_125mm-vertical-burn_a.png?width=1370&v=1dbda36f693c490"
+    },
+    {
+      "alt": "",
+      "src": "/media/0b5jvhcu/2025-000-004-flame-retardant-content-update_illustration_v2_125mm-vertical-burn_b.png?width=1370&v=1dbda36f62fab90"
+    },
+    {
+      "alt": "",
+      "src": "/media/roqiic3c/fr-3dp-material.png"
+    },
+    {
+      "alt": "ultem blocks for cnc machining",
+      "src": "/media/rfbjluno/dt-feb22-heat-resistant-plastics_im-cnc-3dp_900x400.jpg?width=115&height=115&v=1d821a2169e6ed0"
+    },
+    {
+      "alt": "Thermoplastic materials",
+      "src": "/media/vm4gz21n/im-material-alternatives_570x308-04-1.png?width=115&height=115&v=1d7c73947e062f0"
+    },
+    {
+      "alt": "glass-filled thermoplastic part",
+      "src": "/media/1022520/filler-additives-design-tip.jpg?width=115&height=115&v=1d71cd5b0af28c0"
+    },
+    {
+      "alt": "Thermoplastic Material Selection for Injection Molding",
+      "src": "/media/1014834/blue-injection-molding-thermoplastic-rendered-part.jpg?width=115&height=115&v=1d41db90e25caa0"
+    }
+  ],
+  "meta_description": "A detailed analysis of thermoplastic materials with flame-retardant characteristics as well as the UL 94 classification.",
+  "modified_at": "",
+  "monitored_text": "Materials June 12, 2025 UL 94 Classification and Flame-Retardant Materials By Protolabs If you’re designing with plastic and haven’t considered flame ratings, you’re gambling with more than compliance. UL 94 is not just a label. It’s a gatekeeper. The difference between a V-0 and a V-2 rating can mean the difference between approved production and a costly redesign. For example, if you’ve ever watched a perfectly engineered part fail certification because your wall thickness dropped below the test threshold, you’re not alone. Applications for Flame Retardant Plastics UL 94 rated materials are commonly used in: Automotive under-hood components (PA, PPS) Cooling fans and brackets (PBT,LCP) Electrical enclosures and switch housings (PC, ABS/PC blends) Industrial cable guides and electronic components (PP, PEEK) Medical device housings (PPSU) Telecom hardware and connector housings (ABS, PC/ABS) These parts often face elevated temperatures, mechanical load, and proximity to electrical current, making flame retardance critical to safety and compliance. What is UL 94? Let’s break down what UL 94 really is, why it matters more than most people realize, and how to make smarter material decisions from the start. UL 94 is a plastics flammability standard developed by Underwriters Laboratories. It evaluates how plastics react to open flame, measuring ignition time, self-extinguishing behavior, and whether flaming drips ignite a secondary cotton indicator. UL 94 is compatible with other international standards, giving it global relevance for flame safety testing. Test setups vary. The HB rating involves horizontal burn evaluation. Other rating classifications—such as the V and 5V series—use vertical bars or plaques. Within the V series, the difference between V-0 and V-1 is that a V-0 material met a higher level of criteria under the same test conditions. Test conditions are more stringent when moving from the V to 5V ratings group, with 5V testing requiring a higher level of resistance to flammability. UL 94 Ratings at a Glance Rating Primary Criteria HB Slow burning on a horizontal part V-2 Burning stops within 30 seconds on a part allowing for drops of vertical flammable plastic V-1 Burning stops within 30 seconds on a vertical part allowing for drops of plastic that are not inflame V-0 Burning stops within 10 seconds on a vertical part allowing for drops of plastic that are not inflame 5VB Burning stops within 60 seconds on a vertical part not allowing for drops of plastic that are not inflame. Test specimens may have a burn-through (a hole may be present) 5VA Same as 5VB, but no burn through is allowed on the plaque This is the highest classification under UL 94. Burning stops within 60 seconds on a vertical part not allowing for drops of plastic that are not inflame. Test specimens may not have a burn-through (no hole) Classifying materials as 5VA or 5VB involves a 125mm vertical burn test using a Bunsen burner flame. Bars and plaques have specific size and thickness requirements, and application of the flame is done in five second intervals with five seconds flame-free between each application. For the V series, a 20mm flame is applied twice for ten seconds each time. The second flame is applied once the sample is no longer aflame or happens immediately if it never catches fire. UL 94 Test Configurations Horizontal Burn Test 20mm Vertical Burn Test 125mm Vertical Burn Test (bar) 125mm Vertical Burn (plaque) Flame Retardant vs. Flame Resistant: What's the Difference? Flame retardant materials are engineered to slow ignition and suppress flame spread. They may catch fire but self-extinguish once the ignition source is removed. UL 94 classifications fall into this category. Flame resistant materials, by contrast, resist ignition entirely and are often used in textiles or personal protective equipment. These are tested under different standards, such as ASTM D6413 or ISO 15025. Understanding this distinction helps engineers select materials based on both functional performance and regulatory fit. Why Thickness and Formulation Matter UL 94 ratings are thickness dependent. A resin that passes at 0.059 in. (1.5mm) may fail at 0.029 in. (0.74mm). Some materials perform consistently across a wide range of wall thicknesses, but this is not guaranteed. Formulation also plays a critical role. Most flame-retardant grades rely on specific additives to meet performance targets. Even small changes (such as switching colorants) can void certification unless the new blend is tested and certified independently. When in doubt, ask your material supplier for a UL Yellow Card—a certification that the material has undergone safety and performance testing. It should cover the full formulation and your required thickness range. Flame-Retardant Materials Available at Protolabs We offer a variety of UL 94-rated materials for injection molding and 3D printing . Customer-supplied resins can also be evaluated on request. Be aware that the same material can have different ratings, based on a variety of factors, so you can’t simply say that a material is V-0 rated. In addition to the dozens of UL 94-rated materials for injection molding, we have added flame retardant material for 3D printing: Arkema FR512 This flame-retardant photopolymer, used in our HPS process, achieves UL 94 V-0 at 0.031 in. (0.79mm). It is ideal for intricate parts requiring detailed resolution and certified fire retardance. Learn More About Flame-Retardant Materials for 3D Printing PFAS in Flame-Retardant Materials Per- and poly-fluoroalkyl substances (PFAS) have long been used in flame-retardant additives for their exceptional thermal and chemical resistance. However, PFAS are now under increasing regulatory pressure due to their persistence in the environment and links to potential health risks. While some flame-retardant materials still contain PFAS, many manufacturers are moving away from them. We closely monitor PFAS regulations. While PFAS content is not currently listed in our material data, we encourage customers with regulatory or environmental concerns to reach out. We can help you explore alternatives or confirm specific resin compositions when needed. Environmental Considerations Flame retardants improve fire safety but can complicate product end-of-life handling. Halogenated additives are difficult to separate during recycling and may release toxic compounds if incinerated. Because of this, there is growing interest in non-halogenated flame retardants that offer similar performance with a reduced environmental footprint. Material selection should always account for both safety and sustainability. Why Flame Ratings Matter in Product Development UL 94 ratings are not just technical details. They often determine whether a part can be used in regulated industries such as aerospace, medical, automotive, and consumer electronics. Choosing a certified flame-rated material early helps avoid compliance issues, costly redesigns, and late-stage certification failures. One More Thing Before You Submit Your Design UL certification is formulation specific. A resin may carry a Yellow Card, but custom blends, colorants, additives, and other alterations to the base material may affect its rating. If you are working in industries where multiple property standards apply, such as smoke, toxicity, or thermal aging, be sure to validate the full material profile before production. For more information on injection molding material properties, read our Injection Molding Material Selection Guide . UL 94 might seem like regulatory fine print, but it plays a defining role in what gets built, what gets approved, and what gets flagged for redesign. Our applications engineers are available to help you make the right decision for your application, budget, and schedule. Frequently Asked Questions What is UL 94 and why does it matter? expand_less expand_more UL 94 is a plastics flammability standard from Underwriters Laboratories that evaluates how materials react to an open flame—ignition, self-extinguishing behavior, and whether flaming drips ignite a cotton indicator. It’s widely recognized and often required in regulated industries, so the rating you choose can determine if a part passes certification or needs redesign. What do the main UL 94 ratings (HB, V, and 5V) mean? expand_less expand_more HB: Slow burning on a horizontal specimen. V-2: Vertical specimen stops burning within 30 s; flaming drips that can ignite cotton are allowed. V-1: Vertical specimen stops burning within 30 s; no flaming drips that ignite cotton. V-0: Vertical specimen stops burning within 10 s; no flaming drips that ignite cotton. 5VB/5VA: More stringent vertical tests using a larger flame; no flaming drips allowed. 5VB permits burn-through (holes), while 5VA— the highest UL 94 rating—does not. How do part thickness and formulation affect a UL 94 rating? expand_less expand_more Ratings are thickness dependent and formulation specific. A resin that meets V-0 at 1.5 mm may fail at 0.8 mm, and even small formulation changes (like a new colorant) can invalidate a prior rating. Always confirm with the material’s UL Yellow Card and ensure it covers your exact formulation and thickness range. What’s the difference between flame-retardant and flame-resistant materials? expand_less expand_more Flame-retardant materials are engineered to slow ignition and self-extinguish once the flame source is removed (UL 94 applies here). Flame-resistant materials are designed to resist ignition altogether and are tested under other standards (e.g., ASTM D6413, ISO 15025), commonly used for textiles/PPE. Which flame-retardant materials are available from Protolabs and what about PFAS/environmental concerns? expand_less expand_more Protolabs offers numerous UL 94-rated resins for injection molding and select flame-retardant options for 3D printing. Example: Arkema FR512 (photopolymer) achieves UL 94 V-0 at 0.031 in. (0.79 mm). Customer-supplied resins can be evaluated on request. Note that ratings vary by grade and thickness—don’t assume a blanket “V-0.” Some FR systems may include PFAS or halogenated additives; we monitor regulations and can help confirm resin composition or explore non-halogenated alternatives to support recyclability and environmental goals. You Might Also Like... Plastics for Heat Resistance Thermoplastic Alternatives for Injection Molding Polymer Fillers and Additives Material Selection for Injection Molding Tagged: UL, thermoplastics, injection molding, plastic",
+  "published_at": "",
+  "requested_url": "https://www.protolabs.com/resources/blog/flame-retardant-thermoplastics-and-ul-classifications",
+  "schema_version": 2,
+  "sections": [
+    {
+      "hash": "c64520bd5bc3a57d6c415e6792dc16cc91d03a89",
+      "heading": "UL 94 Classification and Flame-Retardant Materials",
+      "level": "h1",
+      "text": "UL 94 Classification and Flame-Retardant Materials By Protolabs Materials June 12, 2025 UL 94 Classification and Flame-Retardant Materials By Protolabs"
+    },
+    {
+      "hash": "6bab3762cde84161ee372e45fdcbde29788c4f6a",
+      "heading": "Applications for Flame Retardant Plastics",
+      "level": "h2",
+      "text": "Applications for Flame Retardant Plastics UL 94 rated materials are commonly used in: Automotive under-hood components (PA, PPS) Cooling fans and brackets (PBT,LCP) Electrical enclosures and switch housings (PC, ABS/PC blends) Industrial cable guides and electronic components (PP, PEEK) Medical device housings (PPSU) Telecom hardware and connector housings (ABS, PC/ABS) These parts often face elevated temperatures, mechanical load, and proximity to electrical current, making flame retardance critical to safety and compliance."
+    },
+    {
+      "hash": "e987c8de63f77b9446fd1e9149afa2675b50a8f3",
+      "heading": "What is UL 94?",
+      "level": "h2",
+      "text": "What is UL 94? Let’s break down what UL 94 really is, why it matters more than most people realize, and how to make smarter material decisions from the start. UL 94 is a plastics flammability standard developed by Underwriters Laboratories. It evaluates how plastics react to open flame, measuring ignition time, self-extinguishing behavior, and whether flaming drips ignite a secondary cotton indicator. UL 94 is compatible with other international standards, giving it global relevance for flame safety testing. Test setups vary. The HB rating involves horizontal burn evaluation. Other rating classifications—such as the V and 5V series—use vertical bars or plaques. Within the V series, the difference between V-0 and V-1 is that a V-0 material met a higher level of criteria under the same test conditions. Test conditions are more stringent when moving from the V to 5V ratings group, with 5V testing requiring a higher level of resistance to flammability. UL 94 Ratings at a Glance Rating Primary Criteria HB Slow burning on a horizontal part V-2 Burning stops within 30 seconds on a part allowing for drops of vertical flammable plastic V-1 Burning stops within 30 seconds on a vertical part..."
+    },
+    {
+      "hash": "17f4a07f5b1d02d0dc991c66a5777910dd9b7e59",
+      "heading": "UL 94 Test Configurations",
+      "level": "h2",
+      "text": "UL 94 Test Configurations"
+    },
+    {
+      "hash": "09dc3e9e57b14aa915dd22255de7b8115221b2ac",
+      "heading": "Flame Retardant vs. Flame Resistant: What's the Difference?",
+      "level": "h2",
+      "text": "Flame Retardant vs. Flame Resistant: What's the Difference? Flame retardant materials are engineered to slow ignition and suppress flame spread. They may catch fire but self-extinguish once the ignition source is removed. UL 94 classifications fall into this category. Flame resistant materials, by contrast, resist ignition entirely and are often used in textiles or personal protective equipment. These are tested under different standards, such as ASTM D6413 or ISO 15025. Understanding this distinction helps engineers select materials based on both functional performance and regulatory fit."
+    },
+    {
+      "hash": "5fdb5552b48b075801377834260ba96a57fb3dfb",
+      "heading": "Why Thickness and Formulation Matter",
+      "level": "h2",
+      "text": "Why Thickness and Formulation Matter UL 94 ratings are thickness dependent. A resin that passes at 0.059 in. (1.5mm) may fail at 0.029 in. (0.74mm). Some materials perform consistently across a wide range of wall thicknesses, but this is not guaranteed. Formulation also plays a critical role. Most flame-retardant grades rely on specific additives to meet performance targets. Even small changes (such as switching colorants) can void certification unless the new blend is tested and certified independently. When in doubt, ask your material supplier for a UL Yellow Card—a certification that the material has undergone safety and performance testing. It should cover the full formulation and your required thickness range."
+    },
+    {
+      "hash": "bfcc7a93c66e15b5ff69990e82b356698cd6b7bc",
+      "heading": "Flame-Retardant Materials Available at Protolabs",
+      "level": "h2",
+      "text": "Flame-Retardant Materials Available at Protolabs We offer a variety of UL 94-rated materials for injection molding and 3D printing . Customer-supplied resins can also be evaluated on request. Be aware that the same material can have different ratings, based on a variety of factors, so you can’t simply say that a material is V-0 rated. In addition to the dozens of UL 94-rated materials for injection molding, we have added flame retardant material for 3D printing: Arkema FR512 This flame-retardant photopolymer, used in our HPS process, achieves UL 94 V-0 at 0.031 in. (0.79mm). It is ideal for intricate parts requiring detailed resolution and certified fire retardance."
+    },
+    {
+      "hash": "e216ceb6d835a8339f80847f43e8045013291892",
+      "heading": "Arkema FR512",
+      "level": "h3",
+      "text": "Arkema FR512 This flame-retardant photopolymer, used in our HPS process, achieves UL 94 V-0 at 0.031 in. (0.79mm). It is ideal for intricate parts requiring detailed resolution and certified fire retardance."
+    },
+    {
+      "hash": "d6deb5661d12479044d635b56cee22340439f606",
+      "heading": "PFAS in Flame-Retardant Materials",
+      "level": "h2",
+      "text": "PFAS in Flame-Retardant Materials Per- and poly-fluoroalkyl substances (PFAS) have long been used in flame-retardant additives for their exceptional thermal and chemical resistance. However, PFAS are now under increasing regulatory pressure due to their persistence in the environment and links to potential health risks. While some flame-retardant materials still contain PFAS, many manufacturers are moving away from them. We closely monitor PFAS regulations. While PFAS content is not currently listed in our material data, we encourage customers with regulatory or environmental concerns to reach out. We can help you explore alternatives or confirm specific resin compositions when needed."
+    },
+    {
+      "hash": "f4dd72b4f99250b41ac5a65a5bf7a8f6bc0dcd7d",
+      "heading": "Environmental Considerations",
+      "level": "h2",
+      "text": "Environmental Considerations Flame retardants improve fire safety but can complicate product end-of-life handling. Halogenated additives are difficult to separate during recycling and may release toxic compounds if incinerated. Because of this, there is growing interest in non-halogenated flame retardants that offer similar performance with a reduced environmental footprint. Material selection should always account for both safety and sustainability."
+    },
+    {
+      "hash": "a3c5534a8482f853f55b0cd9f3edf0777c38725f",
+      "heading": "Why Flame Ratings Matter in Product Development",
+      "level": "h2",
+      "text": "Why Flame Ratings Matter in Product Development UL 94 ratings are not just technical details. They often determine whether a part can be used in regulated industries such as aerospace, medical, automotive, and consumer electronics. Choosing a certified flame-rated material early helps avoid compliance issues, costly redesigns, and late-stage certification failures."
+    },
+    {
+      "hash": "7599030f636d295c9b73910ff9097645fac24e93",
+      "heading": "One More Thing Before You Submit Your Design",
+      "level": "h2",
+      "text": "One More Thing Before You Submit Your Design UL certification is formulation specific. A resin may carry a Yellow Card, but custom blends, colorants, additives, and other alterations to the base material may affect its rating. If you are working in industries where multiple property standards apply, such as smoke, toxicity, or thermal aging, be sure to validate the full material profile before production. For more information on injection molding material properties, read our Injection Molding Material Selection Guide . UL 94 might seem like regulatory fine print, but it plays a defining role in what gets built, what gets approved, and what gets flagged for redesign. Our applications engineers are available to help you make the right decision for your application, budget, and schedule."
+    },
+    {
+      "hash": "2b0da081bb9885eb9fd1bb8373ffae1c83919224",
+      "heading": "Frequently Asked Questions",
+      "level": "h2",
+      "text": "Frequently Asked Questions What is UL 94 and why does it matter? expand_less expand_more UL 94 is a plastics flammability standard from Underwriters Laboratories that evaluates how materials react to an open flame—ignition, self-extinguishing behavior, and whether flaming drips ignite a cotton indicator. It’s widely recognized and often required in regulated industries, so the rating you choose can determine if a part passes certification or needs redesign. What do the main UL 94 ratings (HB, V, and 5V) mean? expand_less expand_more HB: Slow burning on a horizontal specimen. V-2: Vertical specimen stops burning within 30 s; flaming drips that can ignite cotton are allowed. V-1: Vertical specimen stops burning within 30 s; no flaming drips that ignite cotton. V-0: Vertical specimen stops burning within 10 s; no flaming drips that ignite cotton. 5VB/5VA: More stringent vertical tests using a larger flame; no flaming drips allowed. 5VB permits burn-through (holes), while 5VA— the highest UL 94 rating—does not. How do part thickness and formulation affect a UL 94 rating? expand_less expand_more Ratings are thickness dependent and formulation specific. A resin that meets V-0 at 1.5 mm..."
+    }
+  ],
+  "sitemap_lastmod": "2026-05-05T20:39:00+00:00",
+  "status": 200,
+  "structure_hash": "d36ce88a46730ffc214f1becfc879b3ba5b4a788",
+  "text_excerpt": "Materials June 12, 2025 UL 94 Classification and Flame-Retardant Materials By Protolabs If you’re designing with plastic and haven’t considered flame ratings, you’re gambling with more than compliance. UL 94 is not just a label. It’s a gatekeeper. The difference between a V-0 and a V-2 rating can mean the difference between approved production and a costly redesign. For example, if you’ve ever watched a perfectly engineered part fail certification because your wall thickness dropped below the test threshold, you’re not alone. Applications for Flame Retardant Plastics UL 94 rated materials are commonly used in: Automotive under-hood components (PA, PPS) Cooling fans and brackets (PBT,LCP) Electrical enclosures and switch housings (PC, ABS/PC blends) Industrial cable guides and electronic components (PP, PEEK) Medical device housings (PPSU) Telecom hardware and connector housings (ABS, PC/ABS) These parts often face elevated temperatures, mechanical load, and proximity to electrical current, making flame retardance critical to safety and compliance. What is UL 94? Let’s break down what UL 94 really is, why it matters more than most people realize, and how to make smarter material de...",
+  "text_hash": "15f9e1b3107b474754ea3cf2d3d370edd6bb39bd",
+  "title": "UL 94 Classification and Flame-Retardant Plastic Materials",
+  "url": "https://www.protolabs.com/resources/blog/flame-retardant-thermoplastics-and-ul-classifications"
+}

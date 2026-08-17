@@ -1,0 +1,197 @@
+{
+  "canonical": "https://www.hubs.com/knowledge-base/key-design-considerations-3d-printing",
+  "category": "content",
+  "competitor": "Hubs",
+  "ctas": [
+    {
+      "href": "https://www.hubs.com/manufacture?technology=",
+      "text": "uploading a CAD file"
+    }
+  ],
+  "discovered_via": "sitemap",
+  "fetched_at": "2026-08-17T03:41:59+00:00",
+  "final_url": "https://www.hubs.com/knowledge-base/key-design-considerations-3d-printing",
+  "first_seen_at": "2026-08-17T03:41:59+00:00",
+  "h1": "",
+  "headings": [
+    {
+      "level": "h2",
+      "text": "Quick design reference for 3D printing"
+    },
+    {
+      "level": "h2",
+      "text": "How to design parts for 3D printing"
+    },
+    {
+      "level": "h2",
+      "text": "Designing 3D models with overhangs"
+    },
+    {
+      "level": "h2",
+      "text": "Wall thickness for 3D printing"
+    },
+    {
+      "level": "h2",
+      "text": "What is warping and how can you avoid it?"
+    },
+    {
+      "level": "h2",
+      "text": "Designing the right level of detail"
+    },
+    {
+      "level": "h2",
+      "text": "Using digital tools to design physical components"
+    },
+    {
+      "level": "h2",
+      "text": "Start a 3D printing project"
+    },
+    {
+      "level": "h2",
+      "text": "Frequently asked questions"
+    },
+    {
+      "level": "h3",
+      "text": "What’s the best CAD software for 3D printing designs?"
+    },
+    {
+      "level": "h3",
+      "text": "Do you need additional software for 3D printing with Protolabs Network?"
+    },
+    {
+      "level": "h3",
+      "text": "Should you avoid overhangs in my 3D models?"
+    },
+    {
+      "level": "h3",
+      "text": "What’s the minimal wall thickness for 3D printed parts?"
+    },
+    {
+      "level": "h3",
+      "text": "How do you keep your parts from warping?"
+    },
+    {
+      "level": "h3",
+      "text": "How do you select the right 3D printer for my design?"
+    }
+  ],
+  "images": [
+    {
+      "alt": "Mockup of the Design Rules for 3D printing poster",
+      "src": "/images/trans.gif"
+    },
+    {
+      "alt": "3D printed part that shows the effect of increasing overhang angle on print quality.",
+      "src": "/images/trans.gif"
+    },
+    {
+      "alt": "CNC machining, 3D printing and sheet metal fabrication parts",
+      "src": "/images/trans.gif"
+    }
+  ],
+  "meta_description": "Get the design rules for 3D printing. From avoiding warping to setting wall thickness, we help you to create production-ready 3D designs.",
+  "modified_at": "",
+  "monitored_text": "Are you new to designing parts for 3D print manufacturing or need a refresher on the essential design rules for 3D printing ? This article breaks down the key design elements for creating digital models for 3D printing, no matter the additive manufacturing process. Quick design reference for 3D printing Check out this useful infographic for quick access to every essential design element you may need while creating digital models to 3D print. How to design parts for 3D printing Each 3D printing process has its own design advantages as well as some limitations. Let’s break down the key design considerations that apply to every 3D printing technology to keep in mind when designing your next custom parts. Designing 3D models with overhangs Overhangs are areas of a model that are either partially supported by the layer below or not supported at all. There is a limit on the angle every printer can produce without the need for support material . For example, if you’re printing with a FDM and SLA machine, the angle is approximately 45 degrees . We recommend limiting your model’s overhangs, as layers printed over support structures usually come out with a rougher surface finish. This image shows the effect of increasing angle on overhang quality for FDM printing Wall thickness for 3D printing Next, prioritize your wall thickness and minimum feature size. Every 3D printing process has its own level of precision. FDM, for instance, is the least accurate, while SLA has the tightest tolerances. In terms of part stability, every 3D printing process has a lower limit regarding wall thickness and feature size. For example, imagine you’re an engineer designing a new generation of hang gliders. You’ve chosen to 3D print a scaled-down version of the product to test its efficacy. You might model a paper-thin sailcloth in your CAD software, but gravity and hardware limitations will cause it to fail during the actual print. This is because the model’s wall thickness is less than the minimum required for successful printing. It’s therefore essential to ensure that your 3D designs have walls that meet the minimum required thickness for the printing process that you choose. All 3D printers can successfully print components with wall thicknesses greater than 0.8 mm. What is warping and how can you avoid it? Something that is often overlooked during the design phase is the physical transformation materials undergo during the process. Whether they’re melted, sintered, or scanned with a laser, the rapid transition from a heated state to a solid state creates internal thermal stress. As the material cools, it contracts. If this contraction is uneven, the resulting tension causes the part to lift and ‘warp’ away from the build plate. Large, flat surfaces are especially prone to this phenomenon. While machine calibration and bed adhesion are critical, you can solve many warping issues directly in your CAD model. A highly effective strategy is to add structural ribs to reinforce flat areas, which helps to distribute thermal stress more evenly. Additionally, replacing sharp internal corners with fillets (rounded corners) prevents stress concentrations. By avoiding expansive, unbroken flat surfaces and integrating these geometric reinforcements, you significantly reduce the risk of thermal deformation in your final print. Designing the right level of detail When you’re creating a 3D model with intricate details, it’s important to consider the minimum feature size each 3D printing process can handle. The minimum level of detail is connected to the capabilities and mechanics of each 3D printing process and to the selected layer height . The process and materials used will have an impact on the speed and cost of your print, so determining whether smaller details are critical to your model is an important design decision. Using digital tools to design physical components The most important thing to remember while designing for 3D printing is the fact that your digital design will become a physical object. In the digital design environment, there are no laws of physics to adhere to, such as gravity. Anything can be ‘drawn’ in 3D on a digital canvas, but not everything can be 3D printed. Mastering these physical constraints ensures your digital designs translate perfectly into successful prints. Want to learn the key design elements for every 3D printing technology? Design parts for FDM Design parts for SLA Design parts for SLS Start a 3D printing project Get a quote for 3D printed parts by uploading a CAD file . Subscribe Get the latest manufacturing news delivered to your mailbox. Sign up for our newsletter Sign me up Please enter a valid email address. Leave this field empty Thanks! You're now subscribed to our newsletter. Frequently asked questions What’s the best CAD software for 3D printing designs? There is a wide range of CAD programs available for designing 3D models. The most well-known of these (and arguably the best for most applications) is Autodesks AutoCAD, first released for personal computers in 1982. Others include Fusion360, TinkerCAD and Solidworks. For a more in-depth exploration of all the major CAD programs, check out our article on design software here. Do you need additional software for 3D printing with Protolabs Network? You don’t need to install any additional software apart from CAD to start producing custom parts with Protolabs Network. Our manufacturing partners are equipped with the best slicing software and a wide variety of machines for all your custom part requirements. Should you avoid overhangs in my 3D models? We recommend avoiding overhangs when possible by designing models to be 3D printed. Try not to design your parts with angles over 45 degrees. What’s the minimal wall thickness for 3D printed parts? All 3D printers used within the Protolabs Network manufacturing network can print parts with wall thicknesses of 0.8 mm and over. How do you keep your parts from warping? To ensure that your custom parts don’t warp, we recommend avoiding large flat surfaces and using rounded corners in your designs. How do you select the right 3D printer for my design? It can be quite challenging to choose the right 3D printing technology for your specific applications. FDM is optimal for rapid prototyping while SLS and MJF tend to be better for larger production runs of complex parts. To help you select the best 3D printing process, we produced this useful guide .",
+  "published_at": "",
+  "requested_url": "https://www.hubs.com/knowledge-base/key-design-considerations-3d-printing",
+  "schema_version": 2,
+  "sections": [
+    {
+      "hash": "a44c526c10e83947dc8e657482269bd23b2f67d5",
+      "heading": "Quick design reference for 3D printing",
+      "level": "h2",
+      "text": "Quick design reference for 3D printing Check out this useful infographic for quick access to every essential design element you may need while creating digital models to 3D print."
+    },
+    {
+      "hash": "ed8b5c37b322ad4cdf2b61f141f7a39c36b575fe",
+      "heading": "How to design parts for 3D printing",
+      "level": "h2",
+      "text": "How to design parts for 3D printing Each 3D printing process has its own design advantages as well as some limitations. Let’s break down the key design considerations that apply to every 3D printing technology to keep in mind when designing your next custom parts."
+    },
+    {
+      "hash": "40348190c7b959e1c6f4a5e6e3adad200a574ff0",
+      "heading": "Designing 3D models with overhangs",
+      "level": "h2",
+      "text": "Designing 3D models with overhangs Overhangs are areas of a model that are either partially supported by the layer below or not supported at all. There is a limit on the angle every printer can produce without the need for support material . For example, if you’re printing with a FDM and SLA machine, the angle is approximately 45 degrees . We recommend limiting your model’s overhangs, as layers printed over support structures usually come out with a rougher surface finish."
+    },
+    {
+      "hash": "da94d17558cd6905f2a6c4b1783d4caefd760036",
+      "heading": "Wall thickness for 3D printing",
+      "level": "h2",
+      "text": "Wall thickness for 3D printing Next, prioritize your wall thickness and minimum feature size. Every 3D printing process has its own level of precision. FDM, for instance, is the least accurate, while SLA has the tightest tolerances. In terms of part stability, every 3D printing process has a lower limit regarding wall thickness and feature size. For example, imagine you’re an engineer designing a new generation of hang gliders. You’ve chosen to 3D print a scaled-down version of the product to test its efficacy. You might model a paper-thin sailcloth in your CAD software, but gravity and hardware limitations will cause it to fail during the actual print. This is because the model’s wall thickness is less than the minimum required for successful printing. It’s therefore essential to ensure that your 3D designs have walls that meet the minimum required thickness for the printing process that you choose. All 3D printers can successfully print components with wall thicknesses greater than 0.8 mm."
+    },
+    {
+      "hash": "f94f89fda5a45918238a82b6b1cedc3928d0ddae",
+      "heading": "What is warping and how can you avoid it?",
+      "level": "h2",
+      "text": "What is warping and how can you avoid it? Something that is often overlooked during the design phase is the physical transformation materials undergo during the process. Whether they’re melted, sintered, or scanned with a laser, the rapid transition from a heated state to a solid state creates internal thermal stress. As the material cools, it contracts. If this contraction is uneven, the resulting tension causes the part to lift and ‘warp’ away from the build plate. Large, flat surfaces are especially prone to this phenomenon. While machine calibration and bed adhesion are critical, you can solve many warping issues directly in your CAD model. A highly effective strategy is to add structural ribs to reinforce flat areas, which helps to distribute thermal stress more evenly. Additionally, replacing sharp internal corners with fillets (rounded corners) prevents stress concentrations. By avoiding expansive, unbroken flat surfaces and integrating these geometric reinforcements, you significantly reduce the risk of thermal deformation in your final print."
+    },
+    {
+      "hash": "a39de80de913c0243d4143a9d0da60f9b009e8dc",
+      "heading": "Designing the right level of detail",
+      "level": "h2",
+      "text": "Designing the right level of detail When you’re creating a 3D model with intricate details, it’s important to consider the minimum feature size each 3D printing process can handle. The minimum level of detail is connected to the capabilities and mechanics of each 3D printing process and to the selected layer height . The process and materials used will have an impact on the speed and cost of your print, so determining whether smaller details are critical to your model is an important design decision."
+    },
+    {
+      "hash": "36bb066766c3de6ae9fe705ed2b5285c8f48108d",
+      "heading": "Using digital tools to design physical components",
+      "level": "h2",
+      "text": "Using digital tools to design physical components The most important thing to remember while designing for 3D printing is the fact that your digital design will become a physical object. In the digital design environment, there are no laws of physics to adhere to, such as gravity. Anything can be ‘drawn’ in 3D on a digital canvas, but not everything can be 3D printed. Mastering these physical constraints ensures your digital designs translate perfectly into successful prints."
+    },
+    {
+      "hash": "d8b582e848bbc1d9da32879476f5137c523b83f5",
+      "heading": "Start a 3D printing project",
+      "level": "h2",
+      "text": "Start a 3D printing project Get a quote for 3D printed parts by uploading a CAD file ."
+    },
+    {
+      "hash": "02842b08377539be654ab1179cf41e1d947c4424",
+      "heading": "Frequently asked questions",
+      "level": "h2",
+      "text": "Frequently asked questions Frequently asked questions"
+    },
+    {
+      "hash": "8c303a13280b4be7e4c159b474fa485bc1013943",
+      "heading": "What’s the best CAD software for 3D printing designs?",
+      "level": "h3",
+      "text": "What’s the best CAD software for 3D printing designs? There is a wide range of CAD programs available for designing 3D models. The most well-known of these (and arguably the best for most applications) is Autodesks AutoCAD, first released for personal computers in 1982. Others include Fusion360, TinkerCAD and Solidworks. For a more in-depth exploration of all the major CAD programs, check out our article on design software here."
+    },
+    {
+      "hash": "32cc1bd26c0fb77bfa7614b10f9784876ba67947",
+      "heading": "Do you need additional software for 3D printing with Protolabs Network?",
+      "level": "h3",
+      "text": "Do you need additional software for 3D printing with Protolabs Network? You don’t need to install any additional software apart from CAD to start producing custom parts with Protolabs Network. Our manufacturing partners are equipped with the best slicing software and a wide variety of machines for all your custom part requirements."
+    },
+    {
+      "hash": "6d67e27ac977063c7b2421acfdd9884d188894c8",
+      "heading": "Should you avoid overhangs in my 3D models?",
+      "level": "h3",
+      "text": "Should you avoid overhangs in my 3D models? We recommend avoiding overhangs when possible by designing models to be 3D printed. Try not to design your parts with angles over 45 degrees."
+    },
+    {
+      "hash": "05bfaba59797fc9ab3d7b7e34886e51453f3e05c",
+      "heading": "What’s the minimal wall thickness for 3D printed parts?",
+      "level": "h3",
+      "text": "What’s the minimal wall thickness for 3D printed parts? All 3D printers used within the Protolabs Network manufacturing network can print parts with wall thicknesses of 0.8 mm and over."
+    },
+    {
+      "hash": "8624534808808eebc7c398ef5194b4292207cc95",
+      "heading": "How do you keep your parts from warping?",
+      "level": "h3",
+      "text": "How do you keep your parts from warping? To ensure that your custom parts don’t warp, we recommend avoiding large flat surfaces and using rounded corners in your designs."
+    },
+    {
+      "hash": "80ee0e1b9b05ad1b1f810c6cae1d5884fdeef83d",
+      "heading": "How do you select the right 3D printer for my design?",
+      "level": "h3",
+      "text": "How do you select the right 3D printer for my design? It can be quite challenging to choose the right 3D printing technology for your specific applications. FDM is optimal for rapid prototyping while SLS and MJF tend to be better for larger production runs of complex parts. To help you select the best 3D printing process, we produced this useful guide ."
+    }
+  ],
+  "sitemap_lastmod": "2026-06-15T12:21:04+00:00",
+  "status": 200,
+  "structure_hash": "a1062b7cd792e01295f855915fe519802b5c08df",
+  "text_excerpt": "Are you new to designing parts for 3D print manufacturing or need a refresher on the essential design rules for 3D printing ? This article breaks down the key design elements for creating digital models for 3D printing, no matter the additive manufacturing process. Quick design reference for 3D printing Check out this useful infographic for quick access to every essential design element you may need while creating digital models to 3D print. How to design parts for 3D printing Each 3D printing process has its own design advantages as well as some limitations. Let’s break down the key design considerations that apply to every 3D printing technology to keep in mind when designing your next custom parts. Designing 3D models with overhangs Overhangs are areas of a model that are either partially supported by the layer below or not supported at all. There is a limit on the angle every printer can produce without the need for support material . For example, if you’re printing with a FDM and SLA machine, the angle is approximately 45 degrees . We recommend limiting your model’s overhangs, as layers printed over support structures usually come out with a rougher surface finish. This image...",
+  "text_hash": "17214967d5800cea23a2beba08a340e1efb9e748",
+  "title": "What are the key design elements for 3D printing? | Protolabs Network",
+  "url": "https://www.hubs.com/knowledge-base/key-design-considerations-3d-printing"
+}

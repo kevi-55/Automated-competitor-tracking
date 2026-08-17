@@ -1,50 +1,17 @@
 {
-  "canonical": "https://sybridge.com/3d-printing-medicine/",
+  "canonical": "https://sybridge.com/3d-printing-medicine",
   "category": "page",
   "competitor": "SyBridge",
   "ctas": [
     {
-      "href": "https://sybridge.com/contact/",
-      "text": "Contact"
-    },
-    {
-      "href": "https://sybridge.com/contact/locations/",
-      "text": "Locations"
-    },
-    {
-      "href": "https://sybridge.com/contact/locations/#usa",
-      "text": "United States"
-    },
-    {
-      "href": "https://sybridge.com/contact/locations/#mexico",
-      "text": "Mexico"
-    },
-    {
-      "href": "https://sybridge.com/contact/locations/#canada",
-      "text": "Canada"
-    },
-    {
-      "href": "https://sybridge.com/contact/locations/#europe",
-      "text": "Europe"
-    },
-    {
-      "href": "https://sybridge.com/contact/locations/#asia",
-      "text": "Asia"
-    },
-    {
-      "href": "https://sybridge.com/contact/",
-      "text": "Start the Conversation"
-    },
-    {
-      "href": "/contact/",
+      "href": "https://sybridge.com/contact",
       "text": "Contact us today"
-    },
-    {
-      "href": "https://sybridge.com/contact/",
-      "text": "Contact Us"
     }
   ],
-  "fetched_at": "2026-08-17T02:35:26+00:00",
+  "discovered_via": "sitemap",
+  "fetched_at": "2026-08-17T03:54:11+00:00",
+  "final_url": "https://sybridge.com/3d-printing-medicine",
+  "first_seen_at": "2026-08-17T03:54:11+00:00",
   "h1": "A Brief History of 3D Printing in Medicine",
   "headings": [
     {
@@ -62,29 +29,9 @@
     {
       "level": "h2",
       "text": "The Future of Medical 3D Printing"
-    },
-    {
-      "level": "h3",
-      "text": "Related articles"
-    },
-    {
-      "level": "h2",
-      "text": "Prototyping With SLA vs. FDM"
-    },
-    {
-      "level": "h2",
-      "text": "All About Vat Photopolymerization"
-    },
-    {
-      "level": "h2",
-      "text": "3D Lattice Structures: Design Elements and Mechanical Responses"
     }
   ],
   "images": [
-    {
-      "alt": "Sybridge",
-      "src": "https://sybridge.com/wp-content/uploads/2025/11/logo-1.svg"
-    },
     {
       "alt": "",
       "src": "data:image/svg+xml,%3Csvg%20xmlns=%22http://www.w3.org/2000/svg%22%20viewBox=%220%200%20210%20140%22%3E%3C/svg%3E"
@@ -92,68 +39,45 @@
     {
       "alt": "",
       "src": "https://sybridge.com/wp-content/uploads/2023/06/FR_CoApt_Gallery_1-300x187-1.jpg"
-    },
-    {
-      "alt": "Sybridge Technologies",
-      "src": "data:image/svg+xml,%3Csvg%20xmlns=%22http://www.w3.org/2000/svg%22%20viewBox=%220%200%20210%20140%22%3E%3C/svg%3E"
     }
   ],
   "meta_description": "",
+  "modified_at": "2023-07-21T14:35:44+00:00",
+  "monitored_text": "A Brief History of 3D Printing in Medicine Published on May 18, 2020 Originally published on fastradius.com on May 18, 2020 3D printing was pioneered by Charles W. “Chuck” Hull, who had the idea to use computer-aided design software to create three-dimensional objects. Hull built a machine that used a UV laser to engrave layers of acrylic into shapes before stacking the layers to build objects. He patented the “apparatus for production of three-dimensional objects by stereolithography” in 1984, marking the birth of 3D printing. In the three decades since, 3D printing has found applications across industries, including healthcare. As 3D printing becomes more advanced and more economically accessible, its medical applications continue to broaden. 3D printing can even be credited with some of medicine’s most impressive recent advancements, including 3D printed vascular tissue , prosthetic devices , and bones, as well as a slew of medical devices, including surgical guides, pacemakers , and more. How 3D Printing has Helped Transform Healthcare The healthcare industry was one of the earliest adopters of 3D printing technology. As early as the late 1990s and early 2000s, 3D printing was being utilized to produce dental implants and custom prosthetics, surprising even Charles Hull, who admitted to never having anticipated 3D printing’s effect on medicine . Since then, the technology’s medical applications have evolved considerably, particular in the last half decade. Because 3D printing is agile, allowing for rapid iterations and alterations, it’s uniquely suited to products like prosthetics and dental implants, which demand both high customization and low volume production. For example, Coapt, a Chicago-based company that produces myoelectric pattern recognition systems for upper limb prostheses, uses additive manufacturing technology to build fully responsive prosthetic arms, customized to each patient’s biology. Coapt’s completely redesigned, innovative medical device. 3D printing offers the potential to transform other fields of medicine, as well, particularly orthopedics. With 3D printing, orthopedic surgeons are able to create structures that perfectly mimic a patient’s biology, which may one day aid in eliminating the discomfort and degradation associated with “one size fits all” artificial bone implants. While 3D printed bones aren’t in regular clinical use, the success of several headline-making implants has demonstrated the technology’s progress and promise. Where We’re Going: 3D Printed Biomaterials While 3D printed bio-devices such as prosthetics and bones have been tried, tested, and put into practice, the next frontier in medical 3D printing, organic mimetic devices, remains on the horizon. In the early 2000s, a team of researchers at Boston Children’s Hospital successfully built replacement bladders of collagen and synthetic polymer by hand using a construction method called “scaffolding.” They layered the scaffolds with cells from the trial’s patients, allowing them to grow into functioning organs. Seven years after the organs were implanted, all of the trial patients remained in good health. Unfortunately, building organs in this manner is not only incredibly costly, but also extremely time-intensive. Seeking a less time-consuming and more easily replicable means of producing synthetic organs, a research fellow named Dr. Anthony Atala founded the Wake Forest Institute for Regenerative Medicine (WFIRM) in 2004. Soon after, WFIRM researchers began experimenting with 3D printing synthetic human organs, eventually developing machines capable of consistently printing organs and tissues for use in clinical trials. However, despite the relative success of synthetic bones, 3D printed organs remain far from ready for clinical use. The gap between experimental synthetic organs and clinically viable ones may lie at the cellular level; that’s why researchers are attempting to apply 3D printing to living cells, replicating human tissues. In 2019, a team of Brazilian researchers successfully bioprinted “organoids” that perform all of the functions of the human liver, including building proteins, storing vitamins, and secreting bile. These miniature livers aren’t yet ready for transplantation, but many experts believe that, as soon as we can successfully replicate human tissue via 3D printing, the path to creating fully-functioning human organs will be cleared — and medicine will be forever changed. The Future of Medical 3D Printing It is difficult to overstate the potential that 3D printing has to transform healthcare. As additive manufacturing technology becomes more accessible and more affordable, meaningful medical innovation seems more achievable than ever before — and it’s increasingly clear that 3D printing services will play an important role in revolutionizing medicine in the next decade and beyond. Primed for on-demand manufacturing, 3D printing allows medical researchers to create small volumes of parts for niche applications — and to pivot quickly when new needs arise. However, harnessing 3D printing technology — choosing the right materials, the most effective processes, and the best workflows — can be difficult. By partnering with the experts at SyBridge, you can rest easy knowing that we’ll work with you during every phase of the design, prototyping, production, and fulfillment processes. We’ll ensure that every design is optimized for manufacturing and that your choice of materials and production method align with your specific requirements. Ready to get started? Contact us today .",
+  "published_at": "2020-05-18T02:06:00+00:00",
   "requested_url": "https://sybridge.com/3d-printing-medicine",
+  "schema_version": 2,
   "sections": [
     {
-      "hash": "328a5f8f45c00a45e4eca717051dd5c937abf3c9",
+      "hash": "da21e86503d2fd22f22f52988f97bbce55d70bef",
       "heading": "A Brief History of 3D Printing in Medicine",
       "level": "h1",
-      "text": "A Brief History of 3D Printing in Medicine Published on May 18, 2020 Originally published on fastradius.com on May 18, 2020 3D printing was pioneered by Charles W. “Chuck” Hull, who had the idea to use computer-aided design software to create three-dimensional objects. Hull built a machine that used a UV laser to engrave layers of acrylic into shapes before stacking the layers to build objects. He patented the “apparatus for production of three-dimensional objects by stereolithography” in 1984, marking the birth of 3D printing. In the three decades since, 3D printing has found applications across industries, including healthcare. As 3D printing becomes more advanced and more economically ac..."
+      "text": "A Brief History of 3D Printing in Medicine Published on May 18, 2020 Originally published on fastradius.com on May 18, 2020 3D printing was pioneered by Charles W. “Chuck” Hull, who had the idea to use computer-aided design software to create three-dimensional objects. Hull built a machine that used a UV laser to engrave layers of acrylic into shapes before stacking the layers to build objects. He patented the “apparatus for production of three-dimensional objects by stereolithography” in 1984, marking the birth of 3D printing. In the three decades since, 3D printing has found applications across industries, including healthcare. As 3D printing becomes more advanced and more economically accessible, its medical applications continue to broaden. 3D printing can even be credited with some of medicine’s most impressive recent advancements, including 3D printed vascular tissue , prosthetic devices , and bones, as well as a slew of medical devices, including surgical guides, pacemakers , and more."
     },
     {
-      "hash": "328a5f8f45c00a45e4eca717051dd5c937abf3c9",
+      "hash": "9a9f726a2791846f991a29bdfc0cef15cb82aa16",
       "heading": "How 3D Printing has Helped Transform Healthcare",
       "level": "h2",
-      "text": "A Brief History of 3D Printing in Medicine Published on May 18, 2020 Originally published on fastradius.com on May 18, 2020 3D printing was pioneered by Charles W. “Chuck” Hull, who had the idea to use computer-aided design software to create three-dimensional objects. Hull built a machine that used a UV laser to engrave layers of acrylic into shapes before stacking the layers to build objects. He patented the “apparatus for production of three-dimensional objects by stereolithography” in 1984, marking the birth of 3D printing. In the three decades since, 3D printing has found applications across industries, including healthcare. As 3D printing becomes more advanced and more economically ac..."
+      "text": "How 3D Printing has Helped Transform Healthcare The healthcare industry was one of the earliest adopters of 3D printing technology. As early as the late 1990s and early 2000s, 3D printing was being utilized to produce dental implants and custom prosthetics, surprising even Charles Hull, who admitted to never having anticipated 3D printing’s effect on medicine . Since then, the technology’s medical applications have evolved considerably, particular in the last half decade. Because 3D printing is agile, allowing for rapid iterations and alterations, it’s uniquely suited to products like prosthetics and dental implants, which demand both high customization and low volume production. For example, Coapt, a Chicago-based company that produces myoelectric pattern recognition systems for upper limb prostheses, uses additive manufacturing technology to build fully responsive prosthetic arms, customized to each patient’s biology. Coapt’s completely redesigned, innovative medical device. 3D printing offers the potential to transform other fields of medicine, as well, particularly orthopedics. With 3D printing, orthopedic surgeons are able to create structures that perfectly mimic a patient’s..."
     },
     {
-      "hash": "328a5f8f45c00a45e4eca717051dd5c937abf3c9",
+      "hash": "8214da326fc71276b62ad9b98b329c3f305b5078",
       "heading": "Where We’re Going: 3D Printed Biomaterials",
       "level": "h2",
-      "text": "A Brief History of 3D Printing in Medicine Published on May 18, 2020 Originally published on fastradius.com on May 18, 2020 3D printing was pioneered by Charles W. “Chuck” Hull, who had the idea to use computer-aided design software to create three-dimensional objects. Hull built a machine that used a UV laser to engrave layers of acrylic into shapes before stacking the layers to build objects. He patented the “apparatus for production of three-dimensional objects by stereolithography” in 1984, marking the birth of 3D printing. In the three decades since, 3D printing has found applications across industries, including healthcare. As 3D printing becomes more advanced and more economically ac..."
+      "text": "Where We’re Going: 3D Printed Biomaterials While 3D printed bio-devices such as prosthetics and bones have been tried, tested, and put into practice, the next frontier in medical 3D printing, organic mimetic devices, remains on the horizon. In the early 2000s, a team of researchers at Boston Children’s Hospital successfully built replacement bladders of collagen and synthetic polymer by hand using a construction method called “scaffolding.” They layered the scaffolds with cells from the trial’s patients, allowing them to grow into functioning organs. Seven years after the organs were implanted, all of the trial patients remained in good health. Unfortunately, building organs in this manner is not only incredibly costly, but also extremely time-intensive. Seeking a less time-consuming and more easily replicable means of producing synthetic organs, a research fellow named Dr. Anthony Atala founded the Wake Forest Institute for Regenerative Medicine (WFIRM) in 2004. Soon after, WFIRM researchers began experimenting with 3D printing synthetic human organs, eventually developing machines capable of consistently printing organs and tissues for use in clinical trials. However, despite th..."
     },
     {
-      "hash": "328a5f8f45c00a45e4eca717051dd5c937abf3c9",
+      "hash": "eb8460e2098b31ba029e2f95ba7ea80425680340",
       "heading": "The Future of Medical 3D Printing",
       "level": "h2",
-      "text": "A Brief History of 3D Printing in Medicine Published on May 18, 2020 Originally published on fastradius.com on May 18, 2020 3D printing was pioneered by Charles W. “Chuck” Hull, who had the idea to use computer-aided design software to create three-dimensional objects. Hull built a machine that used a UV laser to engrave layers of acrylic into shapes before stacking the layers to build objects. He patented the “apparatus for production of three-dimensional objects by stereolithography” in 1984, marking the birth of 3D printing. In the three decades since, 3D printing has found applications across industries, including healthcare. As 3D printing becomes more advanced and more economically ac..."
-    },
-    {
-      "hash": "a4977d2ee2c1f3bca2f5848506e7fd665cbfc5ee",
-      "heading": "Related articles",
-      "level": "h3",
-      "text": "Related articles"
-    },
-    {
-      "hash": "4af11fbee812561f688ef120501dccacb573bb37",
-      "heading": "Prototyping With SLA vs. FDM",
-      "level": "h2",
-      "text": "Prototyping With SLA vs. FDM"
-    },
-    {
-      "hash": "f3d1931649908846bdf88d5a6d9bf4736395ff32",
-      "heading": "All About Vat Photopolymerization",
-      "level": "h2",
-      "text": "All About Vat Photopolymerization"
-    },
-    {
-      "hash": "5feebdbf9756e030306543e98529a33fb50c00bd",
-      "heading": "3D Lattice Structures: Design Elements and Mechanical Responses",
-      "level": "h2",
-      "text": "3D Lattice Structures: Design Elements and Mechanical Responses"
+      "text": "The Future of Medical 3D Printing It is difficult to overstate the potential that 3D printing has to transform healthcare. As additive manufacturing technology becomes more accessible and more affordable, meaningful medical innovation seems more achievable than ever before — and it’s increasingly clear that 3D printing services will play an important role in revolutionizing medicine in the next decade and beyond. Primed for on-demand manufacturing, 3D printing allows medical researchers to create small volumes of parts for niche applications — and to pivot quickly when new needs arise. However, harnessing 3D printing technology — choosing the right materials, the most effective processes, and the best workflows — can be difficult. By partnering with the experts at SyBridge, you can rest easy knowing that we’ll work with you during every phase of the design, prototyping, production, and fulfillment processes. We’ll ensure that every design is optimized for manufacturing and that your choice of materials and production method align with your specific requirements. Ready to get started? Contact us today ."
     }
   ],
+  "sitemap_lastmod": "2023-07-21T14:35:44+00:00",
   "status": 200,
-  "structure_hash": "741cda5f853ed04fe7e0d65a62ea180819b6e8d5",
-  "text_excerpt": "History of 3D Printing in Medicine about us About us overview About us overview Our Story Sybridge Advantage Sustainability Press Room Careers Injection mold tooling Injection molding tooling overview Injection molding tooling overview Design & Engineering Pre-Production Tooling Production Tooling Mold Validation Mold Maintenance SPECIALTY MANUFACTURING Specialty Manufacturing OVERVIEW Specialty Manufacturing Overview 3D Printing Quick-Turn Production Markets Served Markets Served Overview Markets Served Overview Healthcare Packaging Consumer Mobility Industrial More+ More Overview Blog Contact Locations United States Mexico Canada Europe Asia Start the Conversation Home > Resources > A Brief History of 3D Printing in Medicine A Brief History of 3D Printing in Medicine Published on May 18, 2020 Originally published on fastradius.com on May 18, 2020 3D printing was pioneered by Charles W. “Chuck” Hull, who had the idea to use computer-aided design software to create three-dimensional objects. Hull built a machine that used a UV laser to engrave layers of acrylic into shapes before stacking the layers to build objects. He patented the “apparatus for production of three-dimensional o...",
-  "text_hash": "78d0b025b6f756007d087c3e328fa7820544dff0",
+  "structure_hash": "49fb44d41f2807048326d1659fd72fd80719cb3d",
+  "text_excerpt": "A Brief History of 3D Printing in Medicine Published on May 18, 2020 Originally published on fastradius.com on May 18, 2020 3D printing was pioneered by Charles W. “Chuck” Hull, who had the idea to use computer-aided design software to create three-dimensional objects. Hull built a machine that used a UV laser to engrave layers of acrylic into shapes before stacking the layers to build objects. He patented the “apparatus for production of three-dimensional objects by stereolithography” in 1984, marking the birth of 3D printing. In the three decades since, 3D printing has found applications across industries, including healthcare. As 3D printing becomes more advanced and more economically accessible, its medical applications continue to broaden. 3D printing can even be credited with some of medicine’s most impressive recent advancements, including 3D printed vascular tissue , prosthetic devices , and bones, as well as a slew of medical devices, including surgical guides, pacemakers , and more. How 3D Printing has Helped Transform Healthcare The healthcare industry was one of the earliest adopters of 3D printing technology. As early as the late 1990s and early 2000s, 3D printing was...",
+  "text_hash": "328a5f8f45c00a45e4eca717051dd5c937abf3c9",
   "title": "History of 3D Printing in Medicine",
   "url": "https://sybridge.com/3d-printing-medicine"
 }

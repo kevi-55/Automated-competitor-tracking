@@ -1,0 +1,223 @@
+{
+  "canonical": "https://www.hubs.com/knowledge-base/3d-printing-with-pla-vs-petg-whats-the-difference",
+  "category": "content",
+  "competitor": "Hubs",
+  "ctas": [
+    {
+      "href": "https://www.hubs.com/3d-printing",
+      "text": "Order 3D printed parts"
+    },
+    {
+      "href": "https://www.hubs.com/manufacture",
+      "text": "Upload a CAD file"
+    }
+  ],
+  "discovered_via": "sitemap",
+  "fetched_at": "2026-08-17T03:41:59+00:00",
+  "final_url": "https://www.hubs.com/knowledge-base/3d-printing-with-pla-vs-petg-whats-the-difference",
+  "first_seen_at": "2026-08-17T03:41:59+00:00",
+  "h1": "",
+  "headings": [
+    {
+      "level": "h2",
+      "text": "What is PLA?"
+    },
+    {
+      "level": "h2",
+      "text": "What is PETG?"
+    },
+    {
+      "level": "h2",
+      "text": "What’s the difference between PLA and PETG?"
+    },
+    {
+      "level": "h2",
+      "text": "What are the advantages of PLA vs. PETG?"
+    },
+    {
+      "level": "h2",
+      "text": "What are the advantages of PETG vs. PLA?"
+    },
+    {
+      "level": "h2",
+      "text": "What are the disadvantages of PETG?"
+    },
+    {
+      "level": "h2",
+      "text": "Surface finishes and post-processing for PLA"
+    },
+    {
+      "level": "h2",
+      "text": "Surface finishes and post-processing for PETG"
+    },
+    {
+      "level": "h2",
+      "text": "Get custom PLA and PETG parts"
+    },
+    {
+      "level": "h2",
+      "text": "Frequently asked questions"
+    },
+    {
+      "level": "h3",
+      "text": "Are PLA and PETG biodegradable?"
+    },
+    {
+      "level": "h3",
+      "text": "Is PLA or PETG stronger?"
+    },
+    {
+      "level": "h3",
+      "text": "Can I use PLA for outdoor applications?"
+    },
+    {
+      "level": "h3",
+      "text": "Is PETG more difficult to print than PLA?"
+    },
+    {
+      "level": "h3",
+      "text": "Is PLA or PETG more heat resistant?"
+    },
+    {
+      "level": "h3",
+      "text": "Can you use PLA and PETG interchangeably in 3D printing?"
+    },
+    {
+      "level": "h3",
+      "text": "Which one is more food-safe?"
+    },
+    {
+      "level": "h3",
+      "text": "Can I print PETG as fast as PLA?"
+    }
+  ],
+  "images": [
+    {
+      "alt": "CNC machining, 3D printing and sheet metal fabrication parts",
+      "src": "/images/trans.gif"
+    }
+  ],
+  "meta_description": "Compare PLA versus PETG for your next project. See the differences in strength, heat resistance, and printability to choose the right filament.",
+  "modified_at": "",
+  "monitored_text": "PLA and PETG are the undisputed heavyweights of FDM 3D printing . While they might look similar on the spool, their behavior on the build plate and in functional applications couldn't be more different. In this guide, we’ll break down PLA versus PETG so you can choose the right thermoplastic for your specific project requirements. What is PLA? PLA (polylactic acid) is the most common entry point for 3D printing, largely because it’s derived from organic, fermented sugars such as corn starch or sugar cane. While its industrial compostability makes it an attractive choice, engineers must carefully consider its mechanical profile. PLA is a relatively strong material with a flexural strength of 103 MPa, but this strength comes with significant brittleness. Because PLA lacks elongation, it snaps suddenly under sudden impact rather than bending. Beyond its strength, PLA is favored for its exceptional printability. With a low melting point of approximately 175°C and excellent flow characteristics, it is arguably the easiest material to handle on a 3D printer. It cools rapidly, allowing it to hold intricate shapes and fine details, such as sharp corners and overhangs extremely well, provided you maintain a minimum feature size of 1.2 mm. However, these benefits come with clear environmental and structural trade-offs. PLA has very low resistance to UV light and heat, often deforming at temperatures as low as 50°C. While it remains fairly chemical-resistant and insoluble in common solvents like isopropyl alcohol, it is highly susceptible to ‘creep’. This means that under a constant load, the material will permanently deform over time, making it a poor choice for functional components such as spring clips or snap-fit assemblies. What is PETG? PETG (polyethylene terephthalate glycol) can be described as an industrial workhorse of FDM printing, offering a significant leap in mechanical performance compared to PLA. While it isn’t biodegradable, its recyclability and durability make it a staple for functional components. PETG is fundamentally ductile, meaning it can be formed into complex shapes and, unlike its more brittle counterparts, possesses high impact resistance. This toughness makes it a go-to choice for parts that need to survive real-world wear and tear. The material’s mechanical ‘superpower’ lies in its flexibility. Because PETG is more pliable than PLA, it can elastically deform before failure, making it ideal for components such as spring clips, living hinges, or snap-fit assemblies. This resilience is complemented by excellent chemical resistance, allowing the plastic to withstand exposure to various solvents, oils, and chemicals without degrading. Furthermore, its non-toxic, food-safe nature makes it a good choice for applications within the food and beverage industry. However, mastering PETG requires a disciplined approach to storage. PETG is aggressively hygroscopic. It drinks moisture from the air, creating a significant operational hurdle. To maintain high print quality and prevent issues like stringing or internal bubbles, you must prioritize filament drying and use airtight storage containers. When handled correctly, PETG’s superior moisture and UV resistance make it a great choice for outdoor applications, ensuring your parts remain stable even when exposed to the elements. What’s the difference between PLA and PETG? We’ll explore the main differences between PLA and PETG in the below sections. Generally, PLA is better suited to prototyping and applications where durability isn’t essential, whereas PETG is a better choice for industrial applications that require toughness and functionality. Feature PLA (Polylactic Acid) PETG (Polyethylene Terephthalate Glycol) Primary Use Case Aesthetic models & prototyping Functional parts & industrial use Durability Low (Brittle, snaps under stress) High (Tough, impact-resistant) Flexibility Rigid / Stiff Ductile / Flexible Heat Resistance Low (Deforms at ~50°C) Moderate (Stable up to ~80°C) Print Difficulty Very Easy Moderate (Prone to stringing) Food Safety Not recommended (Porous) Yes (Food-safe grades available) Environment Industrial compostable Recyclable Outdoor Use Poor (Low UV/Heat resistance) Excellent (Weather-resistant) What are the advantages of PLA vs. PETG? While PETG offers impressive mechanical stats, you don’t always need industrial-grade toughness for every project. Choose PLA when simplicity and cost-effectiveness are your primary drivers. It’s generally the most affordable material on the market and remains the gold standard for ‘hassle-free’ printing. Because it adheres easily to build surfaces and suffers from minimal warping, PLA requires far less fine-tuning of machine settings, making it the ideal candidate for rapid geometry checks and non-functional prototypes. Furthermore, its wide availability in a nearly endless spectrum of colors and formulations allows for maximum aesthetic freedom when the part's structural strength is not the primary concern. What are the advantages of PETG vs. PLA? When your parts move beyond the shelf and into a functional environment, PETG’s mechanical properties take center stage. The true ‘superpower’ of PETG is its ductility. Unlike the brittle failure of PLA, PETG can deform elastically under stress. This ability to flex and return to its original shape makes it the clear winner for mechanical assemblies such as clips, spring-loaded tabs, or living hinges. This resilience also makes PETG ideal for functional prototypes that need to mirror the behavior of a final, injection-molded product. Its high impact resistance and immunity to moisture and chemicals mean that it can be resilient in hardworking industrial conditions or as tough consumer products such as phone cases and electronic housings. Moreover, PETG offers a significant advantage in thermal stability. While PLA begins to warp at just 50°C, a temperature easily reached in a hot car, PETG maintains its structural integrity up to approximately 80°C, providing a much wider safety margin for automotive and indoor-outdoor applications. What are the disadvantages of PETG? Expect a steeper learning curve with PETG. It scratches more easily than PLA, requires higher temperatures, and tends to cling aggressively to the print bed. It is also more prone to oozing. Furthermore, it may be more difficult to remove supports (if used), as PETG tends to be a bit harder to separate than PLA. Surface finishes and post-processing for PLA While PLA prints offer great detail straight off the build plate, several post-processing techniques can further elevate their appearance and bridge the gap between a 3D print and a professional product. Start with sanding to level layer lines and erase surface imperfections. Because of PLA’s low melting point, you should always use wet sanding to prevent the friction-induced heat from softening the plastic and ruining the finish. For those aiming for a flawless, automotive-grade aesthetic, a combination of priming and painting is highly effective. A high-build primer fills the microscopic valleys between layers, creating a smooth canvas for custom colors and specialized finishes. If you prefer a mirror-like shine with added structural protection, applying a thin epoxy coating encases the part in a glossy, durable shell. For purely aesthetic components, you can also polish the surface using a buffing wheel and specialized compounds to achieve an exceptional luster. Finally, while chemical vapor smoothing can produce a glass-like finish, this is a complex process for PLA. Unlike ABS, which reacts to simple acetone, PLA requires specific solvents that are best handled by professionals. Surface finishes and post-processing for PETG PETG is compatible with many common post-processing techniques, including sanding, priming, and painting. It can also be finished using methods such as vapor polishing, flame polishing, and chemical smoothing, which are generally more challenging to apply to PLA. Due to PLA’s lower heat resistance, these techniques can increase the risk of warping or deformation. Get custom PLA and PETG parts Order 3D printed parts using PLA or PETG. Upload a CAD file to instantly compare pricing and lead times. For more information, learn about choosing the right materials for your application and our comprehensive guide to plastics . Subscribe Get the latest manufacturing news delivered to your mailbox. Sign up for our newsletter Sign me up Please enter a valid email address. Leave this field empty Thanks! You're now subscribed to our newsletter. Frequently asked questions Are PLA and PETG biodegradable? PLA is recyclable and can be composted by industrial composting facilities. PETG is not biodegradable but it is recyclable. Is PLA or PETG stronger? PETG is generally stronger and has better impact resistance than PLA. PETG is also more flexible, allowing it to bend and snap into place more reliably and repeatedly than PLA. Can I use PLA for outdoor applications? This is possible, however PETG tends to be a better choice as PETG is less likely to warp in moderate temperatures, and carries slightly better UV resistance. Is PETG more difficult to print than PLA? PETG can be trickier to print due to higher printing temperatures and bed adhesion challenges compared to PLA. Is PLA or PETG more heat resistant? PETG has a higher glass transition temperature, making it more heat-resistant than PLA and less prone to warping or deforming in moderately high temperatures. Can you use PLA and PETG interchangeably in 3D printing? PETG is preferred for durability, while PLA is more eco-friendly and easier to print. Many applications could work with either material, so it often comes down to the exact functionality you’re trying to recreate, and the importance of cosmetic vs. functional quality in your parts. Which one is more food-safe? PETG is generally considered more food-safe and is widely used for food packaging. However, the 3D printing process itself can introduce bacteria into the tiny ridges between layers, so any 3D-printed part used with food should be sealed with a food-safe epoxy. Can I print PETG as fast as PLA? Generally speaking, this isn’t the case. To get the best layer adhesion and avoid the dreaded ‘stringing’ or ‘oozing’ - PETG typically requires slower print speeds (typically 40-60 mm/s) compared to the faster profiles possible with PLA.",
+  "published_at": "",
+  "requested_url": "https://www.hubs.com/knowledge-base/3d-printing-with-pla-vs-petg-whats-the-difference",
+  "schema_version": 2,
+  "sections": [
+    {
+      "hash": "c9c441fcede67818a21b1226651450b86949b3c5",
+      "heading": "What is PLA?",
+      "level": "h2",
+      "text": "What is PLA? PLA (polylactic acid) is the most common entry point for 3D printing, largely because it’s derived from organic, fermented sugars such as corn starch or sugar cane. While its industrial compostability makes it an attractive choice, engineers must carefully consider its mechanical profile. PLA is a relatively strong material with a flexural strength of 103 MPa, but this strength comes with significant brittleness. Because PLA lacks elongation, it snaps suddenly under sudden impact rather than bending. Beyond its strength, PLA is favored for its exceptional printability. With a low melting point of approximately 175°C and excellent flow characteristics, it is arguably the easiest material to handle on a 3D printer. It cools rapidly, allowing it to hold intricate shapes and fine details, such as sharp corners and overhangs extremely well, provided you maintain a minimum feature size of 1.2 mm. However, these benefits come with clear environmental and structural trade-offs. PLA has very low resistance to UV light and heat, often deforming at temperatures as low as 50°C. While it remains fairly chemical-resistant and insoluble in common solvents like isopropyl alcohol, it..."
+    },
+    {
+      "hash": "479222ef505f8c0bdea443f14db00ba511bf3830",
+      "heading": "What is PETG?",
+      "level": "h2",
+      "text": "What is PETG? PETG (polyethylene terephthalate glycol) can be described as an industrial workhorse of FDM printing, offering a significant leap in mechanical performance compared to PLA. While it isn’t biodegradable, its recyclability and durability make it a staple for functional components. PETG is fundamentally ductile, meaning it can be formed into complex shapes and, unlike its more brittle counterparts, possesses high impact resistance. This toughness makes it a go-to choice for parts that need to survive real-world wear and tear. The material’s mechanical ‘superpower’ lies in its flexibility. Because PETG is more pliable than PLA, it can elastically deform before failure, making it ideal for components such as spring clips, living hinges, or snap-fit assemblies. This resilience is complemented by excellent chemical resistance, allowing the plastic to withstand exposure to various solvents, oils, and chemicals without degrading. Furthermore, its non-toxic, food-safe nature makes it a good choice for applications within the food and beverage industry. However, mastering PETG requires a disciplined approach to storage. PETG is aggressively hygroscopic. It drinks moisture from..."
+    },
+    {
+      "hash": "ae435b5c71678f74fd3f3a62c11441917e9ec600",
+      "heading": "What’s the difference between PLA and PETG?",
+      "level": "h2",
+      "text": "What’s the difference between PLA and PETG? We’ll explore the main differences between PLA and PETG in the below sections. Generally, PLA is better suited to prototyping and applications where durability isn’t essential, whereas PETG is a better choice for industrial applications that require toughness and functionality."
+    },
+    {
+      "hash": "07a897180008f16aa0c5d10d7aa57c5ed52ba009",
+      "heading": "What are the advantages of PLA vs. PETG?",
+      "level": "h2",
+      "text": "What are the advantages of PLA vs. PETG? While PETG offers impressive mechanical stats, you don’t always need industrial-grade toughness for every project. Choose PLA when simplicity and cost-effectiveness are your primary drivers. It’s generally the most affordable material on the market and remains the gold standard for ‘hassle-free’ printing. Because it adheres easily to build surfaces and suffers from minimal warping, PLA requires far less fine-tuning of machine settings, making it the ideal candidate for rapid geometry checks and non-functional prototypes. Furthermore, its wide availability in a nearly endless spectrum of colors and formulations allows for maximum aesthetic freedom when the part's structural strength is not the primary concern."
+    },
+    {
+      "hash": "cc14cec10519b52f9123c3b6d677767a49a1d967",
+      "heading": "What are the advantages of PETG vs. PLA?",
+      "level": "h2",
+      "text": "What are the advantages of PETG vs. PLA? When your parts move beyond the shelf and into a functional environment, PETG’s mechanical properties take center stage. The true ‘superpower’ of PETG is its ductility. Unlike the brittle failure of PLA, PETG can deform elastically under stress. This ability to flex and return to its original shape makes it the clear winner for mechanical assemblies such as clips, spring-loaded tabs, or living hinges. This resilience also makes PETG ideal for functional prototypes that need to mirror the behavior of a final, injection-molded product. Its high impact resistance and immunity to moisture and chemicals mean that it can be resilient in hardworking industrial conditions or as tough consumer products such as phone cases and electronic housings. Moreover, PETG offers a significant advantage in thermal stability. While PLA begins to warp at just 50°C, a temperature easily reached in a hot car, PETG maintains its structural integrity up to approximately 80°C, providing a much wider safety margin for automotive and indoor-outdoor applications."
+    },
+    {
+      "hash": "3f4cc2509e8d6621bef31417d11b589f44d98bc0",
+      "heading": "What are the disadvantages of PETG?",
+      "level": "h2",
+      "text": "What are the disadvantages of PETG? Expect a steeper learning curve with PETG. It scratches more easily than PLA, requires higher temperatures, and tends to cling aggressively to the print bed. It is also more prone to oozing. Furthermore, it may be more difficult to remove supports (if used), as PETG tends to be a bit harder to separate than PLA."
+    },
+    {
+      "hash": "7232b3eaf86a8a71f0fdac4643963aa305fd3199",
+      "heading": "Surface finishes and post-processing for PLA",
+      "level": "h2",
+      "text": "Surface finishes and post-processing for PLA While PLA prints offer great detail straight off the build plate, several post-processing techniques can further elevate their appearance and bridge the gap between a 3D print and a professional product. Start with sanding to level layer lines and erase surface imperfections. Because of PLA’s low melting point, you should always use wet sanding to prevent the friction-induced heat from softening the plastic and ruining the finish. For those aiming for a flawless, automotive-grade aesthetic, a combination of priming and painting is highly effective. A high-build primer fills the microscopic valleys between layers, creating a smooth canvas for custom colors and specialized finishes. If you prefer a mirror-like shine with added structural protection, applying a thin epoxy coating encases the part in a glossy, durable shell. For purely aesthetic components, you can also polish the surface using a buffing wheel and specialized compounds to achieve an exceptional luster. Finally, while chemical vapor smoothing can produce a glass-like finish, this is a complex process for PLA. Unlike ABS, which reacts to simple acetone, PLA requires specific..."
+    },
+    {
+      "hash": "129c9e70517765522f17412401680717aaee9e1b",
+      "heading": "Surface finishes and post-processing for PETG",
+      "level": "h2",
+      "text": "Surface finishes and post-processing for PETG PETG is compatible with many common post-processing techniques, including sanding, priming, and painting. It can also be finished using methods such as vapor polishing, flame polishing, and chemical smoothing, which are generally more challenging to apply to PLA. Due to PLA’s lower heat resistance, these techniques can increase the risk of warping or deformation."
+    },
+    {
+      "hash": "a622a392a0d6de1dbfcea663a9d5f3d5a97b0b2e",
+      "heading": "Get custom PLA and PETG parts",
+      "level": "h2",
+      "text": "Get custom PLA and PETG parts Order 3D printed parts using PLA or PETG. Upload a CAD file to instantly compare pricing and lead times. For more information, learn about choosing the right materials for your application and our comprehensive guide to plastics ."
+    },
+    {
+      "hash": "02842b08377539be654ab1179cf41e1d947c4424",
+      "heading": "Frequently asked questions",
+      "level": "h2",
+      "text": "Frequently asked questions Frequently asked questions"
+    },
+    {
+      "hash": "ba9b7e2c5925f49aa595f8b44a80115a3bf9f797",
+      "heading": "Are PLA and PETG biodegradable?",
+      "level": "h3",
+      "text": "Are PLA and PETG biodegradable? PLA is recyclable and can be composted by industrial composting facilities. PETG is not biodegradable but it is recyclable."
+    },
+    {
+      "hash": "b473b88eb1ab767761f3075cbffa3834d966816a",
+      "heading": "Is PLA or PETG stronger?",
+      "level": "h3",
+      "text": "Is PLA or PETG stronger? PETG is generally stronger and has better impact resistance than PLA. PETG is also more flexible, allowing it to bend and snap into place more reliably and repeatedly than PLA."
+    },
+    {
+      "hash": "7beb6bc85fcf8046b9802ee25c7d9074146e5f95",
+      "heading": "Can I use PLA for outdoor applications?",
+      "level": "h3",
+      "text": "Can I use PLA for outdoor applications? This is possible, however PETG tends to be a better choice as PETG is less likely to warp in moderate temperatures, and carries slightly better UV resistance."
+    },
+    {
+      "hash": "15df90f0f6dc49be2e16c6d96f0c84ae5ceedcc5",
+      "heading": "Is PETG more difficult to print than PLA?",
+      "level": "h3",
+      "text": "Is PETG more difficult to print than PLA? PETG can be trickier to print due to higher printing temperatures and bed adhesion challenges compared to PLA."
+    },
+    {
+      "hash": "e7825615f041b4f49a566409105b9886eee7a5af",
+      "heading": "Is PLA or PETG more heat resistant?",
+      "level": "h3",
+      "text": "Is PLA or PETG more heat resistant? PETG has a higher glass transition temperature, making it more heat-resistant than PLA and less prone to warping or deforming in moderately high temperatures."
+    },
+    {
+      "hash": "4856dd18034f708704f0bf7669ec35d2e3cd82a2",
+      "heading": "Can you use PLA and PETG interchangeably in 3D printing?",
+      "level": "h3",
+      "text": "Can you use PLA and PETG interchangeably in 3D printing? PETG is preferred for durability, while PLA is more eco-friendly and easier to print. Many applications could work with either material, so it often comes down to the exact functionality you’re trying to recreate, and the importance of cosmetic vs. functional quality in your parts."
+    },
+    {
+      "hash": "fa6ed7031794958e524fe1d1884d342e522279c0",
+      "heading": "Which one is more food-safe?",
+      "level": "h3",
+      "text": "Which one is more food-safe? PETG is generally considered more food-safe and is widely used for food packaging. However, the 3D printing process itself can introduce bacteria into the tiny ridges between layers, so any 3D-printed part used with food should be sealed with a food-safe epoxy."
+    },
+    {
+      "hash": "ae60f31dd4897326fd90c4cbac2929b4b55b74d6",
+      "heading": "Can I print PETG as fast as PLA?",
+      "level": "h3",
+      "text": "Can I print PETG as fast as PLA? Generally speaking, this isn’t the case. To get the best layer adhesion and avoid the dreaded ‘stringing’ or ‘oozing’ - PETG typically requires slower print speeds (typically 40-60 mm/s) compared to the faster profiles possible with PLA."
+    }
+  ],
+  "sitemap_lastmod": "2026-06-15T12:32:17+00:00",
+  "status": 200,
+  "structure_hash": "90e19ee54a52ccb0e9ac9b944e4f764d2c0a731d",
+  "text_excerpt": "PLA and PETG are the undisputed heavyweights of FDM 3D printing . While they might look similar on the spool, their behavior on the build plate and in functional applications couldn't be more different. In this guide, we’ll break down PLA versus PETG so you can choose the right thermoplastic for your specific project requirements. What is PLA? PLA (polylactic acid) is the most common entry point for 3D printing, largely because it’s derived from organic, fermented sugars such as corn starch or sugar cane. While its industrial compostability makes it an attractive choice, engineers must carefully consider its mechanical profile. PLA is a relatively strong material with a flexural strength of 103 MPa, but this strength comes with significant brittleness. Because PLA lacks elongation, it snaps suddenly under sudden impact rather than bending. Beyond its strength, PLA is favored for its exceptional printability. With a low melting point of approximately 175°C and excellent flow characteristics, it is arguably the easiest material to handle on a 3D printer. It cools rapidly, allowing it to hold intricate shapes and fine details, such as sharp corners and overhangs extremely well, provi...",
+  "text_hash": "2cd19d534fd46639d4ab5097e81eb00890574ed5",
+  "title": "3D printing with PLA versus PETG: What's the difference? | Protolabs Network",
+  "url": "https://www.hubs.com/knowledge-base/3d-printing-with-pla-vs-petg-whats-the-difference"
+}

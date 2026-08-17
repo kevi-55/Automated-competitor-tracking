@@ -1,0 +1,261 @@
+{
+  "canonical": "https://www.hubs.com/knowledge-base/supports-3d-printing-technology-overview",
+  "category": "content",
+  "competitor": "Hubs",
+  "ctas": [
+    {
+      "href": "https://www.hubs.com/manufacture",
+      "text": "Get a free, instant quote today"
+    },
+    {
+      "href": "https://www.hubs.com/manufacture",
+      "text": "Get free, instant quote today"
+    },
+    {
+      "href": "https://www.hubs.com/manufacture",
+      "text": "Upload your design"
+    }
+  ],
+  "discovered_via": "sitemap",
+  "fetched_at": "2026-08-17T03:42:12+00:00",
+  "final_url": "https://www.hubs.com/knowledge-base/supports-3d-printing-technology-overview",
+  "first_seen_at": "2026-08-17T03:42:12+00:00",
+  "h1": "",
+  "headings": [
+    {
+      "level": "h2",
+      "text": "How do supports work for FDM 3D printing?"
+    },
+    {
+      "level": "h2",
+      "text": "When do you need support structures for FDM?"
+    },
+    {
+      "level": "h2",
+      "text": "What is bridging in FDM?"
+    },
+    {
+      "level": "h2",
+      "text": "What are the disadvantages of support structures in FDM?"
+    },
+    {
+      "level": "h2",
+      "text": "How much support material do you need for your FDM print?"
+    },
+    {
+      "level": "h2",
+      "text": "What are the two types of support structures for FDM?"
+    },
+    {
+      "level": "h2",
+      "text": "Do you need support structures for SLA & DLP 3D printing?"
+    },
+    {
+      "level": "h2",
+      "text": "How do you remove support materials from SLA & DLP prints?"
+    },
+    {
+      "level": "h2",
+      "text": "Do you need support structures for material jetting?"
+    },
+    {
+      "level": "h2",
+      "text": "How to optimize designs for printing supports with material jetting"
+    },
+    {
+      "level": "h2",
+      "text": "Do you need support structures for SLS?"
+    },
+    {
+      "level": "h2",
+      "text": "Do you need support structures for binding jetting?"
+    },
+    {
+      "level": "h2",
+      "text": "Do you need support structures for metal 3D printing?"
+    },
+    {
+      "level": "h2",
+      "text": "Protolabs Network's tips and tricks for optimizing 3D printing with support structures"
+    },
+    {
+      "level": "h2",
+      "text": "Which 3D printing technologies require support structures?"
+    },
+    {
+      "level": "h2",
+      "text": "Get started"
+    },
+    {
+      "level": "h2",
+      "text": "Frequently asked questions"
+    },
+    {
+      "level": "h3",
+      "text": "Are support structures necessary for 3D printing?"
+    },
+    {
+      "level": "h3",
+      "text": "Which 3D printing technologies don’t need support structures?"
+    },
+    {
+      "level": "h3",
+      "text": "What are the most widely used support structures for 3D printing?"
+    },
+    {
+      "level": "h3",
+      "text": "Are support structures expensive?"
+    }
+  ],
+  "images": [
+    {
+      "alt": "",
+      "src": "/images/trans.gif"
+    },
+    {
+      "alt": "CNC machining, 3D printing and sheet metal fabrication parts",
+      "src": "/images/trans.gif"
+    }
+  ],
+  "meta_description": "3D printing supports are indispensable for some 3D printed components. These are the situations in which you need support structures.",
+  "modified_at": "",
+  "monitored_text": "What are support structures in 3D printing? Depending on the technology you use to produce parts, you may need to print support structures to maintain part geometry. This article covers what 3D printing supports are, when they’re needed and how supports may affect the quality and price of your part. We define what support structures are for 3D printing, how they’re implemented for each technology and how using supports can affect your choice of manufacturing technology. 3D printing builds parts layer by layer, so there always has to be a previous layer to build upon. Depending on the specific 3D printing technology and complexity of the 3D model, you may need to produce your part with support structures. When deciding which 3D printing technology to use, it’s essential to consider support structures and how they affect the quality and price of your part. Support structures will also have an impact on the surface finish of your part. Removing supports from a part often results in blemishes or surface roughness. How do supports work for FDM 3D printing? Fused deposition modeling (FDM) works by extruding a thermoplastic filament on to a build surface along a predetermined path. As the material is deposited, it cools and solidifies, forming a stable layer that supports the next one. For a full overview, read What is FDM (fused deposition modeling) 3D printing? Each layer consists of multiple strands of heated filament that bond to the layers underneath it. Because each new layer is slightly offset, FDM can naturally build parts with overhangs up to a certain angle without additional support. A key guideline in FDM is the 45-degree rule: features with overhang angles up to approximately 45° can typically be printed without supports. This defines a ‘safe zone’ for designers, helping to reduce material usage and overall cost. You can explore this further in our FDM design guidelines for overhangs . However, when overhangs exceed this angle, the material may not be sufficiently supported during printing and can sag or deform. In these cases, support structures are required to maintain part accuracy and prevent print failure. Depending on the degree of the overhang, your FDM part may need supports When do you need support structures for FDM? Let’s imagine you have to 3D print models of the letters Y, H and T. An FDM printer can easily print the arms of the letter Y without requiring support structures. Even though these features are outstretched, they don’t extend past 45 degrees. The letter H, on the other hand, is a bit more complicated. If the center bridge is under 5 mm, it can be printed without support or any sagging. Support is required if the bridge exceeds 5 mm. In the example shown here, the center bridge is over 5 mm, so it’s printed with support structures. The letter T requires support for the top features extending from either side of the model. There is nothing for these arms to be printed on and the material will fall down without supports. An illustration of when you need support structures for FDM Models of a Y, H and T printed with supports via FDM Without any support structures, FDM will fail to print the letter T What is bridging in FDM? In some cases, there is an exception to this overhang rule. Hot material can be stretched short distances between two points of a print. This method is known as bridging. Bridging allows parts to be printed without support materials and with minimal sagging. If a bridge is over 5 mm long, support structures are required if you’re working on an accurate surface finish. Curious about the price and material options for FDM? Explore our FDM services Get a free, instant quote today What are the disadvantages of support structures in FDM? The need for support structures is one reason why FDM is not always the best choice for every application. In FDM printing, supports are often necessary for overhangs and complex geometries, but they introduce additional post-processing requirements that can leave visible marks or surface imperfections. Another limitation is that layers printed on top of supports are generally less consistent than layers printed directly on to solid material. Because support structures are less stable than fully supported layers, the surface finish and dimensional accuracy in these areas may be reduced. Supports can also be difficult to remove from small or intricate features, increasing the risk of damaging delicate geometries during post-processing. This is especially problematic for thin walls, fine details, or cosmetic surfaces. In addition, support structures increase both material usage and production costs. Extra material must be printed and later removed, which adds waste, extends print times, and increases manual labor. As a result, minimizing support requirements through optimized part orientation and design is often an important consideration within FDM manufacturing. An FDM-printed puzzle piece with supports removed to show surface roughness How much support material do you need for your FDM print? The amount of support material required in FDM printing depends heavily on the geometry of the part. Simple curved structures with gradual overhangs may only require a small amount of strategically placed support material to ensure accurate printing. This model of the Gateway Arch in St. Louis shows how to use supports when printing an arch-shaped object More complex geometries, especially enclosed or suspended features, can require significantly more support material. Designs such as interlocking structures or internal pockets often increase both print time and post-processing effort, since each support element must be carefully removed without damaging the surrounding surfaces. Support removal can become particularly challenging for intricate parts. Operators may need to use precision tools such as needle-nose pliers or deburring tools to remove supports from tight spaces while minimizing surface damage. Additional sanding or finishing is often required afterwards to improve surface quality in supported areas. Despite these drawbacks, support structures are often essential for maintaining dimensional accuracy and preventing print failures in complex FDM parts. In many cases, the added material usage and post-processing time are necessary trade-offs to successfully manufacture the design. This close-up shows where supports are required when components are printed inside of other components What are the two types of support structures for FDM? FDM 3D printing typically uses two types of support structures to handle overhangs and bridges. The most common option is a lattice support, also known as an accordion support, which provides a stable and uniform foundation for geometric features. This is the ideal setting in the slicer when printing mechanical parts with large, flat overhangs or structural components that require maximum stability during the build process. The second type of support structure is tree-like support, which branches out from a central trunk to make minimal contact with the part surface. This approach works well for organic geometries, such as artistic sculptures or ergonomic handles, where surface quality is a priority. As tree supports touch the model in fewer places, they reduce scarring and simplify post-processing. When choosing settings in your slicer, select lattice for industrial, blocky shapes and tree supports for intricate, curved, or delicate designs to ensure the best balance between print stability and a clean surface finish. These are two different types of support structures: According (left) and tree (right) Do you need support structures for SLA & DLP 3D printing? Stereolithography (SLA) and Digital Light Processing (DLP) create 3D printed objects from liquid photopolymer resin using a light source to selectively solidify each layer. For a broader overview, see our guide on What is SLA 3D printing? Depending on the printer type, there are two main approaches. In bottom-up systems, the part is pulled upward from a resin vat, with each layer cured through a transparent window at the bottom, while in top-down systems, the part is progressively submerged into the resin as layers are cured from above. To ensure parts remain attached to the build platform and properly positioned during printing, SLA and DLP processes almost always require support structures. However, supports in resin printing serve a second critical function: they help resist suction (or ‘peel’) forces that occur as each cured layer separates from the vat surface. These forces can be significant, even for simple geometries, and without proper support, they can lead to deformation or print failure. Support structures in SLA and DLP typically appear as thin, tree-like ribs with small contact points touching the model. This minimizes material use and reduces post-processing marks. The number, placement, and structure of supports are automatically generated by software based on the part’s geometry, orientation, and weight. With proper support design and post-processing, SLA and DLP achieve extremely high detail and surface quality, with minimal impact from support removal. An SLA print with support structures How do you remove support materials from SLA & DLP prints? First, the printed part is washed in isopropyl alcohol (IPA) to remove any uncured resin from the surface. Once cleaned, the support structures are carefully removed either by hand or with pliers. The remaining contact points are then sanded or polished to smooth out any visible support marks and improve the final surface finish. Removing support structures from an SLA print Curious about the cost and materials available for SLA/DLP? See all SLA/DLP materials Get a free, instant quote today Do you need support structures for material jetting? Material jetting technologies, such as Stratasys PolyJet and 3D Systems MultiJet Modeling (MJM), operate similarly to inkjet printing. However, instead of depositing ink on to paper, these systems jet thin layers of liquid photopolymer onto a build platform, which are then instantly cured using UV light. Because these technologies print liquid material, support structures are required for all overhangs and suspended features, regardless of angle. Depending on the system, the supports are either water-soluble or removed during post-processing using methods such as water jetting, ultrasonic baths, pliers, or sandblasting. Unlike FDM printing, support structures in material jetting typically have a minimal impact on surface quality or cosmetic appearance. After proper post-processing, it is often difficult to identify where the support material was attached, allowing these technologies to produce highly detailed parts with smooth surface finishes and excellent visual quality. Removing water soluble support material from a Polyjet (material jetting) printer How to optimize designs for printing supports with material jetting Post-processing for material jetting involves power tools such as waterjets and sandblasters. Using these tools may damage or bend the more intricate features of your model. We therefore recommend that you follow our material jetting rules to avoid these sorts of issues. In fact, you may want to opt to print your parts using SLS if your model has intricate features and thin wires. Do you need support structures for SLS? Selective Laser Sintering (SLS) 3D printers fuse powdered material in a chamber using a laser. For SLS, there’s no need for support structures since the powder acts as a form of support when the object is built up layer by layer. This gives a lot of design freedom but also generally increases the cost and time to print a part. SLS requires time for the build chamber to cool down and cleaning the print requires a multi-step finishing process, including removing unfused powder, typically with an air gun. When printing with SLS, the unfused powder surrounding the print functions as a natural support structure that's also easy to remove Curious about cost, materials and more about SLS?? See all SLS printing service Get free, instant quote today Do you need support structures for binding jetting? Binder jetting is similar to SLS in that the printer uses thin layers of powdered material to build up an object. Instead of using a laser to sinter layers together however, binder jetting printers use a binding agent, extruded from a nozzle to bind the powder together. Similar to SLS, there’s no need for support structures with binder jetting since the powder supports the object as it’s built. You also need to clean and post-process the print over several steps, including removing unfused powder with an air gun or another tool. Unfused powder being removed from a binder jetted print Do you need support structures for metal 3D printing? Metal 3D printing technologies use support structures to keep models fixed to a base plate during the building process. However, overhangs with an angle greater than 35 degrees can be printed without support. When you need supports for metal 3D printing, it’s important to ensure that these are easy to access, otherwise it’ll be challenging or even infeasible to remove them during post-processing. Using supports won’t impact the overall quality of your part. With the proper post-processing methods, you can remove all marks from the printed model. These metal prints, which are still attached to the print bed, still have visible support structures Protolabs Network's tips and tricks for optimizing 3D printing with support structures Whether you need to use support materials for your specific application or not, it’s important to know the best practices for this aspect of the 3D printing process: Support structures will generally affect the cosmetic appearance of a part, so you’ll need to rely on post-processing to improve the surface finish after removing supports. Material jetting is the exception to this rule. The more support structures you print, the more complex a design can be for certain 3D printing technologies. You can optimize the amount of support material you use by addressing part orientation and part accuracy (among other design and manufacturing factors) to lower the cost and print time. Which 3D printing technologies require support structures? The table below summarizes whether support is required for each of the 3D printing technologies we offer at Protolabs Network. 3D printing technology Do I need support structures? FDM (desktop & industrial) Depends on model geometry SLA & DLP Always Material Jetting Always (dissolvable) SLS & MJF Never Binder Jetting Never Metal 3D printing Always Get started Ready to optimize support structures for your 3D printed part? Upload your design for a free, instant quote with process recommendations and DFM feedback. Subscribe Get the latest manufacturing news delivered to your mailbox. Sign up for our newsletter Sign me up Please enter a valid email address. Leave this field empty Thanks! You're now subscribed to our newsletter. Frequently asked questions Are support structures necessary for 3D printing? If your part has overhangs and bridges (and you’re printing with FDM or similar technology), then you likely need support structures. We recommend using technologies that don’t require them or opting for dissolvable support materials. Which 3D printing technologies don’t need support structures? SLS, MJF and binder jetting 3D printing never require support structures, so these are the preferred methods for more complex geometries. What are the most widely used support structures for 3D printing? The most common types of support structures in 3D printing are called lattice supports. They work well for nearly all kinds of 3D models and are quite easy to create and customize. Their only drawback is that they can be tricky to remove and may leave marks on your part. Are support structures expensive? Support structures generally increase the overall cost of a 3D-printed part because they require additional material, longer print times, and extra post-processing. The exact impact depends on factors such as part geometry, printing technology, material choice, and the amount of support required. In most cases, minimizing supports through optimized part orientation and design can help reduce manufacturing costs and improve production efficiency.",
+  "published_at": "",
+  "requested_url": "https://www.hubs.com/knowledge-base/supports-3d-printing-technology-overview",
+  "schema_version": 2,
+  "sections": [
+    {
+      "hash": "110f127b1a916d7749f59be6c9d986b4c12c4ad8",
+      "heading": "How do supports work for FDM 3D printing?",
+      "level": "h2",
+      "text": "How do supports work for FDM 3D printing? Fused deposition modeling (FDM) works by extruding a thermoplastic filament on to a build surface along a predetermined path. As the material is deposited, it cools and solidifies, forming a stable layer that supports the next one. For a full overview, read What is FDM (fused deposition modeling) 3D printing? Each layer consists of multiple strands of heated filament that bond to the layers underneath it. Because each new layer is slightly offset, FDM can naturally build parts with overhangs up to a certain angle without additional support. A key guideline in FDM is the 45-degree rule: features with overhang angles up to approximately 45° can typically be printed without supports. This defines a ‘safe zone’ for designers, helping to reduce material usage and overall cost. You can explore this further in our FDM design guidelines for overhangs . However, when overhangs exceed this angle, the material may not be sufficiently supported during printing and can sag or deform. In these cases, support structures are required to maintain part accuracy and prevent print failure."
+    },
+    {
+      "hash": "bf6d730c00b2146f4c1dfdc1e7f4b75ae7c21e59",
+      "heading": "When do you need support structures for FDM?",
+      "level": "h2",
+      "text": "When do you need support structures for FDM? Let’s imagine you have to 3D print models of the letters Y, H and T. An FDM printer can easily print the arms of the letter Y without requiring support structures. Even though these features are outstretched, they don’t extend past 45 degrees. The letter H, on the other hand, is a bit more complicated. If the center bridge is under 5 mm, it can be printed without support or any sagging. Support is required if the bridge exceeds 5 mm. In the example shown here, the center bridge is over 5 mm, so it’s printed with support structures. The letter T requires support for the top features extending from either side of the model. There is nothing for these arms to be printed on and the material will fall down without supports."
+    },
+    {
+      "hash": "43523acbbbfea7dd58b2ad0dd32d96df6d86f75c",
+      "heading": "What is bridging in FDM?",
+      "level": "h2",
+      "text": "What is bridging in FDM? In some cases, there is an exception to this overhang rule. Hot material can be stretched short distances between two points of a print. This method is known as bridging. Bridging allows parts to be printed without support materials and with minimal sagging. If a bridge is over 5 mm long, support structures are required if you’re working on an accurate surface finish."
+    },
+    {
+      "hash": "0520b604891a4abb17d624a3b0bc42ae873e5aba",
+      "heading": "What are the disadvantages of support structures in FDM?",
+      "level": "h2",
+      "text": "What are the disadvantages of support structures in FDM? The need for support structures is one reason why FDM is not always the best choice for every application. In FDM printing, supports are often necessary for overhangs and complex geometries, but they introduce additional post-processing requirements that can leave visible marks or surface imperfections. Another limitation is that layers printed on top of supports are generally less consistent than layers printed directly on to solid material. Because support structures are less stable than fully supported layers, the surface finish and dimensional accuracy in these areas may be reduced. Supports can also be difficult to remove from small or intricate features, increasing the risk of damaging delicate geometries during post-processing. This is especially problematic for thin walls, fine details, or cosmetic surfaces. In addition, support structures increase both material usage and production costs. Extra material must be printed and later removed, which adds waste, extends print times, and increases manual labor. As a result, minimizing support requirements through optimized part orientation and design is often an important c..."
+    },
+    {
+      "hash": "bb8a071cb59804da7cfefeff9a2805a71697b730",
+      "heading": "How much support material do you need for your FDM print?",
+      "level": "h2",
+      "text": "How much support material do you need for your FDM print? The amount of support material required in FDM printing depends heavily on the geometry of the part. Simple curved structures with gradual overhangs may only require a small amount of strategically placed support material to ensure accurate printing."
+    },
+    {
+      "hash": "09b09b8ccf40811293b2ecb31f9ab83d9d28270f",
+      "heading": "What are the two types of support structures for FDM?",
+      "level": "h2",
+      "text": "What are the two types of support structures for FDM? FDM 3D printing typically uses two types of support structures to handle overhangs and bridges. The most common option is a lattice support, also known as an accordion support, which provides a stable and uniform foundation for geometric features. This is the ideal setting in the slicer when printing mechanical parts with large, flat overhangs or structural components that require maximum stability during the build process. The second type of support structure is tree-like support, which branches out from a central trunk to make minimal contact with the part surface. This approach works well for organic geometries, such as artistic sculptures or ergonomic handles, where surface quality is a priority. As tree supports touch the model in fewer places, they reduce scarring and simplify post-processing. When choosing settings in your slicer, select lattice for industrial, blocky shapes and tree supports for intricate, curved, or delicate designs to ensure the best balance between print stability and a clean surface finish."
+    },
+    {
+      "hash": "b65a2bd58113da430ff810c40eae01866ef64c37",
+      "heading": "Do you need support structures for SLA & DLP 3D printing?",
+      "level": "h2",
+      "text": "Do you need support structures for SLA & DLP 3D printing? Stereolithography (SLA) and Digital Light Processing (DLP) create 3D printed objects from liquid photopolymer resin using a light source to selectively solidify each layer. For a broader overview, see our guide on What is SLA 3D printing? Depending on the printer type, there are two main approaches. In bottom-up systems, the part is pulled upward from a resin vat, with each layer cured through a transparent window at the bottom, while in top-down systems, the part is progressively submerged into the resin as layers are cured from above. To ensure parts remain attached to the build platform and properly positioned during printing, SLA and DLP processes almost always require support structures. However, supports in resin printing serve a second critical function: they help resist suction (or ‘peel’) forces that occur as each cured layer separates from the vat surface. These forces can be significant, even for simple geometries, and without proper support, they can lead to deformation or print failure. Support structures in SLA and DLP typically appear as thin, tree-like ribs with small contact points touching the model. This..."
+    },
+    {
+      "hash": "1efe784c730667804675e842e0585c11839a3cc2",
+      "heading": "How do you remove support materials from SLA & DLP prints?",
+      "level": "h2",
+      "text": "How do you remove support materials from SLA & DLP prints? First, the printed part is washed in isopropyl alcohol (IPA) to remove any uncured resin from the surface. Once cleaned, the support structures are carefully removed either by hand or with pliers. The remaining contact points are then sanded or polished to smooth out any visible support marks and improve the final surface finish."
+    },
+    {
+      "hash": "54ee63f78ed024d8a8313b9438579df6ad75e1f1",
+      "heading": "Do you need support structures for material jetting?",
+      "level": "h2",
+      "text": "Do you need support structures for material jetting? Material jetting technologies, such as Stratasys PolyJet and 3D Systems MultiJet Modeling (MJM), operate similarly to inkjet printing. However, instead of depositing ink on to paper, these systems jet thin layers of liquid photopolymer onto a build platform, which are then instantly cured using UV light. Because these technologies print liquid material, support structures are required for all overhangs and suspended features, regardless of angle. Depending on the system, the supports are either water-soluble or removed during post-processing using methods such as water jetting, ultrasonic baths, pliers, or sandblasting. Unlike FDM printing, support structures in material jetting typically have a minimal impact on surface quality or cosmetic appearance. After proper post-processing, it is often difficult to identify where the support material was attached, allowing these technologies to produce highly detailed parts with smooth surface finishes and excellent visual quality."
+    },
+    {
+      "hash": "44e9c158c47b303b9e69b39182bd88ea91cc98e9",
+      "heading": "How to optimize designs for printing supports with material jetting",
+      "level": "h2",
+      "text": "How to optimize designs for printing supports with material jetting Post-processing for material jetting involves power tools such as waterjets and sandblasters. Using these tools may damage or bend the more intricate features of your model. We therefore recommend that you follow our material jetting rules to avoid these sorts of issues. In fact, you may want to opt to print your parts using SLS if your model has intricate features and thin wires."
+    },
+    {
+      "hash": "1211518a84c5c94c7b1f5691c6f5e9779209a256",
+      "heading": "Do you need support structures for SLS?",
+      "level": "h2",
+      "text": "Do you need support structures for SLS? Selective Laser Sintering (SLS) 3D printers fuse powdered material in a chamber using a laser. For SLS, there’s no need for support structures since the powder acts as a form of support when the object is built up layer by layer. This gives a lot of design freedom but also generally increases the cost and time to print a part. SLS requires time for the build chamber to cool down and cleaning the print requires a multi-step finishing process, including removing unfused powder, typically with an air gun."
+    },
+    {
+      "hash": "c174d8aaac1cf24f92e0b9f7f3178d4a73870017",
+      "heading": "Do you need support structures for binding jetting?",
+      "level": "h2",
+      "text": "Do you need support structures for binding jetting? Binder jetting is similar to SLS in that the printer uses thin layers of powdered material to build up an object. Instead of using a laser to sinter layers together however, binder jetting printers use a binding agent, extruded from a nozzle to bind the powder together. Similar to SLS, there’s no need for support structures with binder jetting since the powder supports the object as it’s built. You also need to clean and post-process the print over several steps, including removing unfused powder with an air gun or another tool."
+    },
+    {
+      "hash": "d038d91eca8c31b25ae49691198002ceff7def8e",
+      "heading": "Do you need support structures for metal 3D printing?",
+      "level": "h2",
+      "text": "Do you need support structures for metal 3D printing? Metal 3D printing technologies use support structures to keep models fixed to a base plate during the building process. However, overhangs with an angle greater than 35 degrees can be printed without support. When you need supports for metal 3D printing, it’s important to ensure that these are easy to access, otherwise it’ll be challenging or even infeasible to remove them during post-processing. Using supports won’t impact the overall quality of your part. With the proper post-processing methods, you can remove all marks from the printed model."
+    },
+    {
+      "hash": "1527eed694365991117c608aed8b262edaedc5de",
+      "heading": "Protolabs Network's tips and tricks for optimizing 3D printing with support structures",
+      "level": "h2",
+      "text": "Protolabs Network's tips and tricks for optimizing 3D printing with support structures Whether you need to use support materials for your specific application or not, it’s important to know the best practices for this aspect of the 3D printing process: Support structures will generally affect the cosmetic appearance of a part, so you’ll need to rely on post-processing to improve the surface finish after removing supports. Material jetting is the exception to this rule. The more support structures you print, the more complex a design can be for certain 3D printing technologies. You can optimize the amount of support material you use by addressing part orientation and part accuracy (among other design and manufacturing factors) to lower the cost and print time."
+    },
+    {
+      "hash": "dd7b2bdb366d5e3f4d2b9e849f4c4f13e917c0ab",
+      "heading": "Which 3D printing technologies require support structures?",
+      "level": "h2",
+      "text": "Which 3D printing technologies require support structures? The table below summarizes whether support is required for each of the 3D printing technologies we offer at Protolabs Network."
+    },
+    {
+      "hash": "af4183f27f9dfe815c850c79eeef8f39b83e6049",
+      "heading": "Get started",
+      "level": "h2",
+      "text": "Get started Ready to optimize support structures for your 3D printed part? Upload your design for a free, instant quote with process recommendations and DFM feedback."
+    },
+    {
+      "hash": "02842b08377539be654ab1179cf41e1d947c4424",
+      "heading": "Frequently asked questions",
+      "level": "h2",
+      "text": "Frequently asked questions Frequently asked questions"
+    },
+    {
+      "hash": "28fc23689abde71afd93ed22e22a19879b67baf9",
+      "heading": "Are support structures necessary for 3D printing?",
+      "level": "h3",
+      "text": "Are support structures necessary for 3D printing? If your part has overhangs and bridges (and you’re printing with FDM or similar technology), then you likely need support structures. We recommend using technologies that don’t require them or opting for dissolvable support materials."
+    },
+    {
+      "hash": "f69a2ea5c6784a902e11c7d1adfc14960a27e293",
+      "heading": "Which 3D printing technologies don’t need support structures?",
+      "level": "h3",
+      "text": "Which 3D printing technologies don’t need support structures? SLS, MJF and binder jetting 3D printing never require support structures, so these are the preferred methods for more complex geometries."
+    },
+    {
+      "hash": "c5ca3e58b7425023e431246c9941be496627876b",
+      "heading": "What are the most widely used support structures for 3D printing?",
+      "level": "h3",
+      "text": "What are the most widely used support structures for 3D printing? The most common types of support structures in 3D printing are called lattice supports. They work well for nearly all kinds of 3D models and are quite easy to create and customize. Their only drawback is that they can be tricky to remove and may leave marks on your part."
+    },
+    {
+      "hash": "b4614f766f1a3baa75f299f4bee492f22702c4d4",
+      "heading": "Are support structures expensive?",
+      "level": "h3",
+      "text": "Are support structures expensive? Support structures generally increase the overall cost of a 3D-printed part because they require additional material, longer print times, and extra post-processing. The exact impact depends on factors such as part geometry, printing technology, material choice, and the amount of support required. In most cases, minimizing supports through optimized part orientation and design can help reduce manufacturing costs and improve production efficiency."
+    }
+  ],
+  "sitemap_lastmod": "2026-06-01T14:10:14+00:00",
+  "status": 200,
+  "structure_hash": "9a06fcb1e71d2337666fe134c8361207aaac8ea0",
+  "text_excerpt": "What are support structures in 3D printing? Depending on the technology you use to produce parts, you may need to print support structures to maintain part geometry. This article covers what 3D printing supports are, when they’re needed and how supports may affect the quality and price of your part. We define what support structures are for 3D printing, how they’re implemented for each technology and how using supports can affect your choice of manufacturing technology. 3D printing builds parts layer by layer, so there always has to be a previous layer to build upon. Depending on the specific 3D printing technology and complexity of the 3D model, you may need to produce your part with support structures. When deciding which 3D printing technology to use, it’s essential to consider support structures and how they affect the quality and price of your part. Support structures will also have an impact on the surface finish of your part. Removing supports from a part often results in blemishes or surface roughness. How do supports work for FDM 3D printing? Fused deposition modeling (FDM) works by extruding a thermoplastic filament on to a build surface along a predetermined path. As th...",
+  "text_hash": "7f04ccb1defad4f7e4da0251f63b0fce684c70c2",
+  "title": "What are supports in 3D printing? When and why do you need them? | Protolabs Network",
+  "url": "https://www.hubs.com/knowledge-base/supports-3d-printing-technology-overview"
+}

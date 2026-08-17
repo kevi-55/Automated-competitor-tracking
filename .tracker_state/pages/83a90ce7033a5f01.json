@@ -1,50 +1,17 @@
 {
-  "canonical": "https://sybridge.com/additive-manufacturing-process-control/",
+  "canonical": "https://sybridge.com/additive-manufacturing-process-control",
   "category": "service",
   "competitor": "SyBridge",
   "ctas": [
     {
-      "href": "https://sybridge.com/contact/",
-      "text": "Contact"
-    },
-    {
-      "href": "https://sybridge.com/contact/locations/",
-      "text": "Locations"
-    },
-    {
-      "href": "https://sybridge.com/contact/locations/#usa",
-      "text": "United States"
-    },
-    {
-      "href": "https://sybridge.com/contact/locations/#mexico",
-      "text": "Mexico"
-    },
-    {
-      "href": "https://sybridge.com/contact/locations/#canada",
-      "text": "Canada"
-    },
-    {
-      "href": "https://sybridge.com/contact/locations/#europe",
-      "text": "Europe"
-    },
-    {
-      "href": "https://sybridge.com/contact/locations/#asia",
-      "text": "Asia"
-    },
-    {
-      "href": "https://sybridge.com/contact/",
-      "text": "Start the Conversation"
-    },
-    {
-      "href": "/contact/",
+      "href": "https://sybridge.com/contact",
       "text": "Contact our team today"
-    },
-    {
-      "href": "https://sybridge.com/contact/",
-      "text": "Contact Us"
     }
   ],
-  "fetched_at": "2026-08-17T02:35:13+00:00",
+  "discovered_via": "sitemap",
+  "fetched_at": "2026-08-17T03:53:50+00:00",
+  "final_url": "https://sybridge.com/additive-manufacturing-process-control",
+  "first_seen_at": "2026-08-17T03:53:50+00:00",
   "h1": "Six Process Control Variables That are Vital to Your Additive Manufacturing Success",
   "headings": [
     {
@@ -86,29 +53,9 @@
     {
       "level": "h2",
       "text": "Discover consistent on-demand manufacturing"
-    },
-    {
-      "level": "h3",
-      "text": "Related articles"
-    },
-    {
-      "level": "h2",
-      "text": "SyBridge Technologies Acquires Galway Tool & Mould"
-    },
-    {
-      "level": "h2",
-      "text": "Urethane Casting vs. Injection Molding — A DFM Guide"
-    },
-    {
-      "level": "h2",
-      "text": "Know Your Materials: UHMW"
     }
   ],
   "images": [
-    {
-      "alt": "Sybridge",
-      "src": "https://sybridge.com/wp-content/uploads/2025/11/logo-1.svg"
-    },
     {
       "alt": "",
       "src": "data:image/svg+xml,%3Csvg%20xmlns=%22http://www.w3.org/2000/svg%22%20viewBox=%220%200%20210%20140%22%3E%3C/svg%3E"
@@ -124,104 +71,81 @@
     {
       "alt": "",
       "src": "data:image/svg+xml,%3Csvg%20xmlns=%22http://www.w3.org/2000/svg%22%20viewBox=%220%200%201024%20683%22%3E%3C/svg%3E"
-    },
-    {
-      "alt": "Sybridge Technologies",
-      "src": "data:image/svg+xml,%3Csvg%20xmlns=%22http://www.w3.org/2000/svg%22%20viewBox=%220%200%20210%20140%22%3E%3C/svg%3E"
     }
   ],
   "meta_description": "Manufacturers need proven methods of ensuring that additive production processes are precise, accurate, economical, and safe both within and across print jobs.",
+  "modified_at": "2025-05-28T20:05:34+00:00",
+  "monitored_text": "Six Process Control Variables That are Vital to Your Additive Manufacturing Success Published on September 30, 2016 Originally published on fastradius.com on November 5, 2020 Additive manufacturing processes operate on scales that are far more complex and intricate than human machine operators are able to control unassisted. Layer-based methods like fused deposition modeling (FDM) can be configured according to a wide range of variables, including pixel scale and print angle, which are difficult if not impossible to validate manually. For this reason, manufacturers need proven methods of ensuring that additive production processes are precise, accurate, economical, and safe both within and across print jobs. Broadly speaking, these methods — known as process controls — are industrial systems that enable engineers to manage complex processes so that they produce consistent results. For example, additive manufacturing process controls can help optimize numerous production parameters critical to ensuring that parts achieve similar standards for geometric accuracy, performance characteristics, mechanical properties, dimensional tolerance, and qualities. The majority of industrial 3D printers — including most laser powder bed fusion (LBPF) machines — now include closed-loop monitoring systems, which use cameras as well as thermal and position sensors to collect data about the printer’s output and detect deviations in real-time. Also known as feedback systems, these in situ process controls make adjustments based on output so as to achieve the desired conditions or properties, thereby refining the consistency and quality of part production. Though less common, some 3D printers feature “feed-forward” simulation tools that input feedback directly into the device’s closed-loop system, which allows for real-time process control and more consistent prints. Critical additive process control variables The precision and quality of 3D-printed parts are influenced by dozens of variables that must be rigorously controlled to achieve consistent results. In general, these variables align with one of six categories. 1. Environment Controlling the physical conditions of the space where parts are created is foundational to ensuring consistent prints. Factors like humidity, air quality, and temperature can significantly impact how the material extrudes and binds between layers. Knowing how each of these factors affects print quality is key. 2. Machine The technology used during production introduces a number of variables that must be accounted for. Specific print systems and software provide differing ranges for part tolerance, print speed, and print resolution — and these ranges need to be appropriately calibrated to maximize precision and accuracy. The quality of a machine can alleviate some of these factors. For example, the tolerance you can achieve will only be as good as the least accurate piece of the machine; it doesn’t matter how expensive an extruder is if the controllers and motors driving it are inaccurate. Additional factors, such as the extrusion force and the printer and platform temperature, have direct effects on material adhesion strength and interface stability. 3. Material While different material characteristics of course impact the performance and function of the final part, these qualities must also be factored into the production process. If materials have specific storage or handling requirements, or need to be prepared in a specific way before printing, process controls should be established for each variable to ensure that a job may be repeated with similar results. 4. Part geometry and orientation In addition to optimizing part design for manufacture, engineers must define how the part will be produced within the printers’ build chamber. Factors such as the part’s orientation relative to the build plate, the design of support material, and the alignment of critical features to the machine’s most accurate print plane all contribute to production efficiency and quality. Part geometry and orientation must be precisely controlled process variables. 5. Post-processing Once printing has concluded, parts may need to undergo additional processes before post-production for a number of reasons. If support material was used, it will need to be removed. Certain features may need to be drilled to increase the accuracy of the final product. Secondary steps may also be time-sensitive. In all cases, these processes must be standardized. A part may require cleaning before it can be finished. 6. Quality assurance Optimizing post-processing further helps to ensure part accuracy and achieve the desired aesthetic qualities. Similar parameters should be established for how supports are removed, how surfaces are finished, and how any cosmetic detailing, such as hot stamping or plating, is applied. Finally, the methods used to measure, validate, and qualify parts — a practice known as metrology — must be consistent. Optimizing additive production processes for critical variables After identifying the variables involved in a given production job, the next step for product teams is to design a process that allows for effective variable management. Process calibration will require trial and error, but a significant advantage of additive manufacturing processes is that they are iterative, allowing for rapid updates to digital designs without the need for expensive and time-consuming tooling changes. Optimizing additive production processes for accuracy and precision should generally involve the following steps: Collect extensive data sets based on the process control variables Run statistical and correlation analyses of the data sets to establish dependence between variables and inputs Based on variable dependencies, perform targeted designs of experiments (DOEs) to illuminate the principal causes of inconsistencies or deviations Alter the production process to achieve greater accuracy and precision This cycle should be repeated until the process reliably produces high-quality parts with desired characteristics and dimensional tolerances. However, testing should be conducted on an ongoing basis to guarantee that the process is consistent and effective. Discover consistent on-demand manufacturing Process controls are critical to ensuring that production methods remain efficient and consistent, and developments in additive manufacturing process control technologies have been both rapid and significant. The increased incorporation of IoT sensors and machine learning algorithms into 3D printer systems is enabling product teams to create parts with greater precision and speed. Further, groundbreaking new technologies like simulation analysis, experimental design, and control system industrialization have the potential to streamline and refine the additive manufacturing sector. SyBridge is a forward-thinking, on-demand manufacturing platform offering a range of production technologies ranging from additive manufacturing and injection molding to urethane casting and CNC machining services . We specialize not only in refining part design for maximum efficiency and quality, but also in helping our customers find the right production process — or combination of processes — to get the job done on time and at competitive rates. Contact our team today to get started.",
+  "published_at": "2016-09-30T14:59:00+00:00",
   "requested_url": "https://sybridge.com/additive-manufacturing-process-control",
+  "schema_version": 2,
   "sections": [
     {
-      "hash": "f4fa64c725e33edf7523100c8d5423bc67805e0c",
+      "hash": "a59604cb9d477bc7df54d697dcf1b6478819bf74",
       "heading": "Six Process Control Variables That are Vital to Your Additive Manufacturing Success",
       "level": "h1",
-      "text": "Six Process Control Variables That are Vital to Your Additive Manufacturing Success Published on September 30, 2016 Originally published on fastradius.com on November 5, 2020 Additive manufacturing processes operate on scales that are far more complex and intricate than human machine operators are able to control unassisted. Layer-based methods like fused deposition modeling (FDM) can be configured according to a wide range of variables, including pixel scale and print angle, which are difficult if not impossible to validate manually. For this reason, manufacturers need proven methods of ensuring that additive production processes are precise, accurate, economical, and safe both within and..."
+      "text": "Six Process Control Variables That are Vital to Your Additive Manufacturing Success Published on September 30, 2016 Originally published on fastradius.com on November 5, 2020 Additive manufacturing processes operate on scales that are far more complex and intricate than human machine operators are able to control unassisted. Layer-based methods like fused deposition modeling (FDM) can be configured according to a wide range of variables, including pixel scale and print angle, which are difficult if not impossible to validate manually. For this reason, manufacturers need proven methods of ensuring that additive production processes are precise, accurate, economical, and safe both within and across print jobs. Broadly speaking, these methods — known as process controls — are industrial systems that enable engineers to manage complex processes so that they produce consistent results. For example, additive manufacturing process controls can help optimize numerous production parameters critical to ensuring that parts achieve similar standards for geometric accuracy, performance characteristics, mechanical properties, dimensional tolerance, and qualities. The majority of industrial 3D p..."
     },
     {
-      "hash": "f4fa64c725e33edf7523100c8d5423bc67805e0c",
+      "hash": "5ff96326482422b1661b0731cf47a602180bba70",
       "heading": "Critical additive process control variables",
       "level": "h2",
-      "text": "Six Process Control Variables That are Vital to Your Additive Manufacturing Success Published on September 30, 2016 Originally published on fastradius.com on November 5, 2020 Additive manufacturing processes operate on scales that are far more complex and intricate than human machine operators are able to control unassisted. Layer-based methods like fused deposition modeling (FDM) can be configured according to a wide range of variables, including pixel scale and print angle, which are difficult if not impossible to validate manually. For this reason, manufacturers need proven methods of ensuring that additive production processes are precise, accurate, economical, and safe both within and..."
+      "text": "Critical additive process control variables The precision and quality of 3D-printed parts are influenced by dozens of variables that must be rigorously controlled to achieve consistent results. In general, these variables align with one of six categories."
     },
     {
-      "hash": "f4fa64c725e33edf7523100c8d5423bc67805e0c",
+      "hash": "f78c3ff7a0b18e9540c553ee260b228aa947088b",
       "heading": "1. Environment",
       "level": "h3",
-      "text": "Six Process Control Variables That are Vital to Your Additive Manufacturing Success Published on September 30, 2016 Originally published on fastradius.com on November 5, 2020 Additive manufacturing processes operate on scales that are far more complex and intricate than human machine operators are able to control unassisted. Layer-based methods like fused deposition modeling (FDM) can be configured according to a wide range of variables, including pixel scale and print angle, which are difficult if not impossible to validate manually. For this reason, manufacturers need proven methods of ensuring that additive production processes are precise, accurate, economical, and safe both within and..."
+      "text": "1. Environment Controlling the physical conditions of the space where parts are created is foundational to ensuring consistent prints. Factors like humidity, air quality, and temperature can significantly impact how the material extrudes and binds between layers. Knowing how each of these factors affects print quality is key."
     },
     {
-      "hash": "f4fa64c725e33edf7523100c8d5423bc67805e0c",
+      "hash": "faee4279ffe1b55b99343686c8c2900f076e7f38",
       "heading": "2. Machine",
       "level": "h3",
-      "text": "Six Process Control Variables That are Vital to Your Additive Manufacturing Success Published on September 30, 2016 Originally published on fastradius.com on November 5, 2020 Additive manufacturing processes operate on scales that are far more complex and intricate than human machine operators are able to control unassisted. Layer-based methods like fused deposition modeling (FDM) can be configured according to a wide range of variables, including pixel scale and print angle, which are difficult if not impossible to validate manually. For this reason, manufacturers need proven methods of ensuring that additive production processes are precise, accurate, economical, and safe both within and..."
+      "text": "2. Machine The technology used during production introduces a number of variables that must be accounted for. Specific print systems and software provide differing ranges for part tolerance, print speed, and print resolution — and these ranges need to be appropriately calibrated to maximize precision and accuracy. The quality of a machine can alleviate some of these factors. For example, the tolerance you can achieve will only be as good as the least accurate piece of the machine; it doesn’t matter how expensive an extruder is if the controllers and motors driving it are inaccurate. Additional factors, such as the extrusion force and the printer and platform temperature, have direct effects on material adhesion strength and interface stability."
     },
     {
-      "hash": "f4fa64c725e33edf7523100c8d5423bc67805e0c",
+      "hash": "9ff7fb0d2a2f3825d6a10e7038398a3b80de0b1f",
       "heading": "3. Material",
       "level": "h3",
-      "text": "Six Process Control Variables That are Vital to Your Additive Manufacturing Success Published on September 30, 2016 Originally published on fastradius.com on November 5, 2020 Additive manufacturing processes operate on scales that are far more complex and intricate than human machine operators are able to control unassisted. Layer-based methods like fused deposition modeling (FDM) can be configured according to a wide range of variables, including pixel scale and print angle, which are difficult if not impossible to validate manually. For this reason, manufacturers need proven methods of ensuring that additive production processes are precise, accurate, economical, and safe both within and..."
+      "text": "3. Material While different material characteristics of course impact the performance and function of the final part, these qualities must also be factored into the production process. If materials have specific storage or handling requirements, or need to be prepared in a specific way before printing, process controls should be established for each variable to ensure that a job may be repeated with similar results."
     },
     {
-      "hash": "f4fa64c725e33edf7523100c8d5423bc67805e0c",
+      "hash": "f55a652902bf5590c34fe58a0071c5e63355ed4f",
       "heading": "4. Part geometry and orientation",
       "level": "h3",
-      "text": "Six Process Control Variables That are Vital to Your Additive Manufacturing Success Published on September 30, 2016 Originally published on fastradius.com on November 5, 2020 Additive manufacturing processes operate on scales that are far more complex and intricate than human machine operators are able to control unassisted. Layer-based methods like fused deposition modeling (FDM) can be configured according to a wide range of variables, including pixel scale and print angle, which are difficult if not impossible to validate manually. For this reason, manufacturers need proven methods of ensuring that additive production processes are precise, accurate, economical, and safe both within and..."
+      "text": "4. Part geometry and orientation In addition to optimizing part design for manufacture, engineers must define how the part will be produced within the printers’ build chamber. Factors such as the part’s orientation relative to the build plate, the design of support material, and the alignment of critical features to the machine’s most accurate print plane all contribute to production efficiency and quality. Part geometry and orientation must be precisely controlled process variables."
     },
     {
-      "hash": "f4fa64c725e33edf7523100c8d5423bc67805e0c",
+      "hash": "914ed564e83714f07b245285fec1636f06b9b602",
       "heading": "5. Post-processing",
       "level": "h3",
-      "text": "Six Process Control Variables That are Vital to Your Additive Manufacturing Success Published on September 30, 2016 Originally published on fastradius.com on November 5, 2020 Additive manufacturing processes operate on scales that are far more complex and intricate than human machine operators are able to control unassisted. Layer-based methods like fused deposition modeling (FDM) can be configured according to a wide range of variables, including pixel scale and print angle, which are difficult if not impossible to validate manually. For this reason, manufacturers need proven methods of ensuring that additive production processes are precise, accurate, economical, and safe both within and..."
+      "text": "5. Post-processing Once printing has concluded, parts may need to undergo additional processes before post-production for a number of reasons. If support material was used, it will need to be removed. Certain features may need to be drilled to increase the accuracy of the final product. Secondary steps may also be time-sensitive. In all cases, these processes must be standardized. A part may require cleaning before it can be finished."
     },
     {
-      "hash": "f4fa64c725e33edf7523100c8d5423bc67805e0c",
+      "hash": "9ee9ee58eaebb31a242b6a70b89034fd6f2c6455",
       "heading": "6. Quality assurance",
       "level": "h3",
-      "text": "Six Process Control Variables That are Vital to Your Additive Manufacturing Success Published on September 30, 2016 Originally published on fastradius.com on November 5, 2020 Additive manufacturing processes operate on scales that are far more complex and intricate than human machine operators are able to control unassisted. Layer-based methods like fused deposition modeling (FDM) can be configured according to a wide range of variables, including pixel scale and print angle, which are difficult if not impossible to validate manually. For this reason, manufacturers need proven methods of ensuring that additive production processes are precise, accurate, economical, and safe both within and..."
+      "text": "6. Quality assurance Optimizing post-processing further helps to ensure part accuracy and achieve the desired aesthetic qualities. Similar parameters should be established for how supports are removed, how surfaces are finished, and how any cosmetic detailing, such as hot stamping or plating, is applied. Finally, the methods used to measure, validate, and qualify parts — a practice known as metrology — must be consistent."
     },
     {
-      "hash": "f4fa64c725e33edf7523100c8d5423bc67805e0c",
+      "hash": "762ce3dfa3058378df4c00de76a766b9342e84b9",
       "heading": "Optimizing additive production processes for critical variables",
       "level": "h2",
-      "text": "Six Process Control Variables That are Vital to Your Additive Manufacturing Success Published on September 30, 2016 Originally published on fastradius.com on November 5, 2020 Additive manufacturing processes operate on scales that are far more complex and intricate than human machine operators are able to control unassisted. Layer-based methods like fused deposition modeling (FDM) can be configured according to a wide range of variables, including pixel scale and print angle, which are difficult if not impossible to validate manually. For this reason, manufacturers need proven methods of ensuring that additive production processes are precise, accurate, economical, and safe both within and..."
+      "text": "Optimizing additive production processes for critical variables After identifying the variables involved in a given production job, the next step for product teams is to design a process that allows for effective variable management. Process calibration will require trial and error, but a significant advantage of additive manufacturing processes is that they are iterative, allowing for rapid updates to digital designs without the need for expensive and time-consuming tooling changes. Optimizing additive production processes for accuracy and precision should generally involve the following steps: Collect extensive data sets based on the process control variables Run statistical and correlation analyses of the data sets to establish dependence between variables and inputs Based on variable dependencies, perform targeted designs of experiments (DOEs) to illuminate the principal causes of inconsistencies or deviations Alter the production process to achieve greater accuracy and precision This cycle should be repeated until the process reliably produces high-quality parts with desired characteristics and dimensional tolerances. However, testing should be conducted on an ongoing basis t..."
     },
     {
-      "hash": "f4fa64c725e33edf7523100c8d5423bc67805e0c",
+      "hash": "f925d975f18a8c0d798209687a5a5c5b316497b7",
       "heading": "Discover consistent on-demand manufacturing",
       "level": "h2",
-      "text": "Six Process Control Variables That are Vital to Your Additive Manufacturing Success Published on September 30, 2016 Originally published on fastradius.com on November 5, 2020 Additive manufacturing processes operate on scales that are far more complex and intricate than human machine operators are able to control unassisted. Layer-based methods like fused deposition modeling (FDM) can be configured according to a wide range of variables, including pixel scale and print angle, which are difficult if not impossible to validate manually. For this reason, manufacturers need proven methods of ensuring that additive production processes are precise, accurate, economical, and safe both within and..."
-    },
-    {
-      "hash": "a4977d2ee2c1f3bca2f5848506e7fd665cbfc5ee",
-      "heading": "Related articles",
-      "level": "h3",
-      "text": "Related articles"
-    },
-    {
-      "hash": "a12ef4b34cc7409f1603d414cab1a0c6f9f7676a",
-      "heading": "SyBridge Technologies Acquires Galway Tool & Mould",
-      "level": "h2",
-      "text": "SyBridge Technologies Acquires Galway Tool & Mould"
-    },
-    {
-      "hash": "a60278731be2ee9bf9f10adff1c6feda45220a61",
-      "heading": "Urethane Casting vs. Injection Molding — A DFM Guide",
-      "level": "h2",
-      "text": "Urethane Casting vs. Injection Molding — A DFM Guide"
-    },
-    {
-      "hash": "096de5c056573dc73215326446d2deec43e577b7",
-      "heading": "Know Your Materials: UHMW",
-      "level": "h2",
-      "text": "Know Your Materials: UHMW"
+      "text": "Discover consistent on-demand manufacturing Process controls are critical to ensuring that production methods remain efficient and consistent, and developments in additive manufacturing process control technologies have been both rapid and significant. The increased incorporation of IoT sensors and machine learning algorithms into 3D printer systems is enabling product teams to create parts with greater precision and speed. Further, groundbreaking new technologies like simulation analysis, experimental design, and control system industrialization have the potential to streamline and refine the additive manufacturing sector. SyBridge is a forward-thinking, on-demand manufacturing platform offering a range of production technologies ranging from additive manufacturing and injection molding to urethane casting and CNC machining services . We specialize not only in refining part design for maximum efficiency and quality, but also in helping our customers find the right production process — or combination of processes — to get the job done on time and at competitive rates. Contact our team today to get started."
     }
   ],
+  "sitemap_lastmod": "2025-05-28T20:05:34+00:00",
   "status": 200,
-  "structure_hash": "fcb194a7789ced838f64edb28361de56f9114c9d",
-  "text_excerpt": "Six Process Control Variables That are Vital to Your Additive Manufacturing Success - SyBridge Technologies about us About us overview About us overview Our Story Sybridge Advantage Sustainability Press Room Careers Injection mold tooling Injection molding tooling overview Injection molding tooling overview Design & Engineering Pre-Production Tooling Production Tooling Mold Validation Mold Maintenance SPECIALTY MANUFACTURING Specialty Manufacturing OVERVIEW Specialty Manufacturing Overview 3D Printing Quick-Turn Production Markets Served Markets Served Overview Markets Served Overview Healthcare Packaging Consumer Mobility Industrial More+ More Overview Blog Contact Locations United States Mexico Canada Europe Asia Start the Conversation Home > Resources > Six Process Control Variables That are Vital to Your Additive Manufacturing Success Six Process Control Variables That are Vital to Your Additive Manufacturing Success Published on September 30, 2016 Originally published on fastradius.com on November 5, 2020 Additive manufacturing processes operate on scales that are far more complex and intricate than human machine operators are able to control unassisted. Layer-based methods l...",
-  "text_hash": "01f2b27151b1e8f88b64ad080503a0eb9ea2df6a",
+  "structure_hash": "79c34c3ebd31c8bcdf9f9f485838140da030f844",
+  "text_excerpt": "Six Process Control Variables That are Vital to Your Additive Manufacturing Success Published on September 30, 2016 Originally published on fastradius.com on November 5, 2020 Additive manufacturing processes operate on scales that are far more complex and intricate than human machine operators are able to control unassisted. Layer-based methods like fused deposition modeling (FDM) can be configured according to a wide range of variables, including pixel scale and print angle, which are difficult if not impossible to validate manually. For this reason, manufacturers need proven methods of ensuring that additive production processes are precise, accurate, economical, and safe both within and across print jobs. Broadly speaking, these methods — known as process controls — are industrial systems that enable engineers to manage complex processes so that they produce consistent results. For example, additive manufacturing process controls can help optimize numerous production parameters critical to ensuring that parts achieve similar standards for geometric accuracy, performance characteristics, mechanical properties, dimensional tolerance, and qualities. The majority of industrial 3D p...",
+  "text_hash": "f4fa64c725e33edf7523100c8d5423bc67805e0c",
   "title": "Six Process Control Variables That are Vital to Your Additive Manufacturing Success - SyBridge Technologies",
   "url": "https://sybridge.com/additive-manufacturing-process-control"
 }

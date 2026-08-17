@@ -4,81 +4,64 @@
   "competitor": "CNCLATHING",
   "ctas": [
     {
-      "href": "/quote",
-      "text": "Get a Quote"
-    },
-    {
-      "href": "",
-      "text": "Get a Quote"
-    },
-    {
-      "href": "/contact-us",
-      "text": "Contact Us"
-    },
-    {
-      "href": "/quote",
-      "text": "Quote"
-    },
-    {
-      "href": "",
-      "text": "Quote"
-    },
-    {
       "href": "https://www.cnclathing.com/contact-us",
       "text": "Request a Free Quote →"
     },
     {
-      "href": "/semiconductor-industry",
+      "href": "https://www.cnclathing.com/contact-us",
+      "text": "Contact us"
+    },
+    {
+      "href": "https://www.cnclathing.com/semiconductor-industry",
       "text": "Semiconductor Industry"
     },
     {
-      "href": "/aerospace-industry",
+      "href": "https://www.cnclathing.com/aerospace-industry",
       "text": "Aerospace Industry"
     },
     {
-      "href": "/agricultural-industry",
+      "href": "https://www.cnclathing.com/agricultural-industry",
       "text": "Agricultural Industry"
     },
     {
-      "href": "/automotive-industry",
+      "href": "https://www.cnclathing.com/automotive-industry",
       "text": "Automotive Industry"
     },
     {
-      "href": "/electronic-industry",
+      "href": "https://www.cnclathing.com/electronic-industry",
       "text": "Electronic Industry"
     },
     {
-      "href": "/food-industry",
+      "href": "https://www.cnclathing.com/food-industry",
       "text": "Food industry"
     },
     {
-      "href": "/high-tech-industry",
+      "href": "https://www.cnclathing.com/high-tech-industry",
       "text": "High Tech Industry"
     },
     {
-      "href": "/machine-tool-industry",
+      "href": "https://www.cnclathing.com/machine-tool-industry",
       "text": "Machine Tool Industry"
     },
     {
-      "href": "/marine-industry",
+      "href": "https://www.cnclathing.com/marine-industry",
       "text": "Marine Industry"
     },
     {
-      "href": "/medical-industry",
+      "href": "https://www.cnclathing.com/medical-industry",
       "text": "Medical Industry"
     },
     {
-      "href": "/military-industry",
+      "href": "https://www.cnclathing.com/military-industry",
       "text": "Military Industry"
     }
   ],
-  "fetched_at": "2026-08-17T02:36:49+00:00",
-  "h1": "MMC in GD&T: How Precision CNC Machining Engineers Reduce Scrap and Improve Manufacturing Consistency",
+  "discovered_via": "links",
+  "fetched_at": "2026-08-17T03:55:58+00:00",
+  "final_url": "https://www.cnclathing.com/guide/mmc-in-gdt-how-precision-cnc-machining-engineers-reduce-scrap-and-improve-manufacturing-consistency",
+  "first_seen_at": "2026-08-17T03:55:58+00:00",
+  "h1": "",
   "headings": [
-    {
-      "level": "h1",
-      "text": "MMC in GD&T: How Precision CNC Machining Engineers Reduce Scrap and Improve Manufacturing Consistency"
-    },
     {
       "level": "h3",
       "text": "Contents"
@@ -179,18 +162,6 @@
   "images": [
     {
       "alt": "",
-      "src": "/images/logo.png"
-    },
-    {
-      "alt": "",
-      "src": "/wp-content/uploads/107A4771-1-jpg.webp"
-    },
-    {
-      "alt": "",
-      "src": "/images/whatsapp.png"
-    },
-    {
-      "alt": "",
       "src": "https://www.cnclathing.com/wp-content/uploads/image-75.png"
     },
     {
@@ -227,79 +198,83 @@
     }
   ],
   "meta_description": "MMC in GD&T, Maximum Material Condition, GD&T CNC machining, MMC tolerance, bonus tolerance, GD&T interpretation, precision CNC machining, MMC vs MMB, position tolerance MMC, GD&T for manufacturing",
+  "modified_at": "",
+  "monitored_text": "Contents A Small Symbol on a Drawing Can Decide Whether a Part Is Accepted or Rejected In precision CNC machining, many manufacturing problems do not start on the machine. They start on the drawing. A single GD&T symbol can determine: Whether a functional part is accepted or rejected Whether manufacturing cost increases unnecessarily Whether production remains stable during volume manufacturing That symbol is: Ⓜ Maximum Material Condition (MMC) Many engineers know MMC as a tolerance modifier. But experienced manufacturing engineers understand something deeper: MMC is not only about tolerance. It is about connecting design intent with manufacturing reality. Engineer Question 1: “Why can a part pass dimensional inspection but still create assembly problems?” This is one of the most common challenges in CNC machining. A supplier delivers machined parts. The inspection report shows: ✅ Hole size within tolerance ✅ Position measurement recorded ✅ CMM report completed But during assembly: ❌ The components do not fit properly. Why? Because dimensional compliance does not always equal functional performance. A part is not created to satisfy an inspection report. A part is created to: Assemble correctly Perform reliably Work consistently in the final product This is where GD&T and MMC become important. Engineer Question 2: “What does MMC actually change on a manufacturing drawing?” Consider a position tolerance callout: Position ⌀0.5 Ⓜ | A | B | C Without understanding MMC, someone may interpret this as: “The hole position must always remain within a fixed 0.5 mm tolerance zone.” But the circled M changes the requirement. MMC allows additional positional tolerance when the actual feature size provides additional clearance. This additional tolerance is called: Bonus tolerance. In simple terms: When the feature moves away from its worst-case material condition, manufacturing receives more positional flexibility. This does not reduce quality. It aligns inspection requirements with actual assembly function. Engineer Question 3: “Does MMC mean we are accepting lower-quality parts?” No. This is one of the biggest misunderstandings. A common assumption is: “Tighter tolerance = better quality.” But in manufacturing, quality means: Meeting the functional requirement consistently. A hole that is slightly different from the MMC condition may still assemble perfectly. Rejecting that part does not improve product performance. It only creates: Higher scrap rate More rework Longer production time Increased manufacturing cost Good GD&T does not make tolerances loose. It makes tolerances meaningful. Engineer Question 4: “How does MMC affect CNC machining cost?” In precision CNC machining, every tolerance requirement affects manufacturing decisions. Tighter unnecessary requirements can increase: Machining difficulty Tool wear Inspection frequency Process adjustments Production cost For example: A designer may specify extremely tight position tolerances on every hole. However, if the assembly function allows MMC, the design may achieve the same performance with better manufacturability. This is a practical example of: Design for Manufacturing (DFM). The best engineering drawing is not the one with the smallest numbers. It is the one that clearly communicates: “What does this part actually need to do?” Engineer Question 5: “How do experienced CNC machining suppliers interpret GD&T requirements?” A capable precision CNC machining supplier does not only check dimensions. They analyze: Before machining: Is the tolerance functionally necessary? Are datum references correctly defined? Can the feature be manufactured consistently? During machining: Is the process stable? Are tools and fixtures appropriate? Can the tolerance be maintained over production runs? During inspection: Is the measurement method aligned with the drawing intent? Are MMC requirements correctly applied? Are inspection results repeatable? This is the difference between: “Making one good sample” and “Maintaining consistent production quality.” Engineer Question 6: “How do you ensure quality consistency in GD&T-controlled parts?” For precision components, quality cannot depend only on final inspection. Stable manufacturing requires controlling the process. Key factors include: 1. Clear drawing interpretation Engineers, machinists, and inspectors must understand the same GD&T requirements. 2. Process capability control The machining process must consistently achieve the required tolerance range. 3. Measurement reliability Inspection equipment and methods must provide repeatable results. 4. Production consistency The first article part and later production batches must maintain the same quality level. A professional CNC machining supplier focuses not only on whether a part passes inspection, but whether the process can repeatedly produce qualified parts. Engineer Question 7: “Where is MMC commonly used?” MMC is especially useful for functional features such as: Mounting holes Bolt patterns Locating holes Shafts Mating components These features directly affect assembly performance. Using MMC correctly helps engineers balance: Functional requirements Manufacturing capability Production efficiency MMC vs MMB: A Detail That Cannot Be Ignored One important engineering detail: The circled M does not always mean the same thing. MMC applied to a feature tolerance: Controls the relationship between: Feature size Geometric tolerance Functional assembly MMB applied to a datum reference: Defines the maximum material boundary condition of the datum feature. Confusing MMC and MMB can create serious quality risks. Correct GD&T interpretation is essential for precision manufacturing. Why MMC Matters in Medical Device and Robotics Manufacturing Industries such as: Medical devices Robotics Automation equipment Precision industrial systems often require: Tight tolerance machining Complex GD&T drawings Reliable assembly performance Consistent production quality In these applications, the goal is not simply achieving the smallest tolerance. The goal is producing parts that work reliably from prototype to production. Final Thoughts The circled M may be one small symbol on an engineering drawing. But it represents an important manufacturing principle: Precision is not about controlling every dimension as tightly as possible. Precision is about controlling the features that affect function. When MMC is correctly applied, engineers can achieve: ✅ Better manufacturability ✅ Lower scrap rates ✅ Reduced machining cost ✅ More stable production ✅ Improved supplier communication A good CNC machining supplier does not just manufacture parts. They understand the engineering intent behind those parts. Need a CNC Machining Partner Experienced With GD&T Requirements? We support engineers with: Precision CNC machining Tight tolerance components CNC prototypes Low-volume production Complex GD&T requirements Medical and robotics components From prototype validation to repeat production, our focus is consistent: Turning engineering requirements into reliable manufactured parts. Request a Free Quote → Facebook LinkedIn Tweet Related Articles： GD&T MMC: Definition, Formula, Calculation, Bonus Tolerance, Uses, MMC vs LMC Straightness vs Flatness – Difference Between Flatness and Straightness GD&T Datum Definition, Feature, Symbol, Types, 3-2-1 Rule & Uses GD&T Profile Tolerance: Basic Knowledge, Types, Symbol, Calculation, Uses What is Concentricity in GD&T – How to Measure, Calculate Concentricity & Concentricity vs Runout GD&T Tolerance Definitions: 14 Different Tolerances Specific to GD&T Use Please leave this field empty. Subscribe To Our Newsletter Junying Metal Manufacturing has developed high-level manufacturing technique in production fields of machining. COMPANY FAQ Certificate About us Contact us Quality Assurance Privacy Policy Jobs & Recruitment Shop Manufacturing Trends Location Services CNC Turning Services CNC Drilling Services CNC Milling Services CNC Machining Services 5 Axis Machining Services swiss machining Services 3D Printing Sheet Metal Fabrication Finishing Services CNC Milling And Turning Services Resources Materials Industries CNC Parts Custom Fixture Gear Manufacturing Injection Molding Machined Parts Lock Cylinder Machining Industries Semiconductor Industry Aerospace Industry Agricultural Industry Automotive Industry Electronic Industry Food industry High Tech Industry Machine Tool Industry Marine Industry Medical Industry Military Industry SGS Copyright © Junying Metal Manufacturing Co., Limited",
+  "published_at": "",
   "requested_url": "https://www.cnclathing.com/guide/mmc-in-gdt-how-precision-cnc-machining-engineers-reduce-scrap-and-improve-manufacturing-consistency",
+  "schema_version": 2,
   "sections": [
     {
-      "hash": "f5cbdf6bfb51439be085b5c6b7460a7c91eabc3c",
+      "hash": "7ad9a29d9ead79f747c9b4f05ec10dabc0e5ba57",
       "heading": "Contents",
       "level": "h3",
-      "text": "Contents"
+      "text": "Contents Contents"
     },
     {
-      "hash": "6db888f4a525e931b69c08c66f0ad6cf4384fa6a",
+      "hash": "d96b1a29ca89a6910d27a117c122a3fac10642cd",
       "heading": "A Small Symbol on a Drawing Can Decide Whether a Part Is Accepted or Rejected",
       "level": "h2",
-      "text": "A Small Symbol on a Drawing Can Decide Whether a Part Is Accepted or Rejected In precision CNC machining, many manufacturing problems do not start on the machine. They start on the drawing. A single GD&T symbol can determine: Whether a functional part is accepted or rejected Whether manufacturing cost increases unnecessarily Whether production remains stable during volume manufacturing That symbol is: Ⓜ Maximum Material Condition (MMC) Many engineers know MMC as a tolerance modifier. But experienced manufacturing engineers understand something deeper: MMC is not only about tolerance. It is about connecting design intent with manufacturing reality. Engineer Question 1: “Why can a part pass d..."
+      "text": "A Small Symbol on a Drawing Can Decide Whether a Part Is Accepted or Rejected In precision CNC machining, many manufacturing problems do not start on the machine. They start on the drawing. A single GD&T symbol can determine: Whether a functional part is accepted or rejected Whether manufacturing cost increases unnecessarily Whether production remains stable during volume manufacturing That symbol is: Ⓜ Maximum Material Condition (MMC) Many engineers know MMC as a tolerance modifier."
     },
     {
-      "hash": "6db888f4a525e931b69c08c66f0ad6cf4384fa6a",
+      "hash": "dc9c9b96670fb4bfe3212f38c54b96615a793924",
       "heading": "Engineer Question 1: “Why can a part pass dimensional inspection but still create assembly problems?”",
       "level": "h2",
-      "text": "A Small Symbol on a Drawing Can Decide Whether a Part Is Accepted or Rejected In precision CNC machining, many manufacturing problems do not start on the machine. They start on the drawing. A single GD&T symbol can determine: Whether a functional part is accepted or rejected Whether manufacturing cost increases unnecessarily Whether production remains stable during volume manufacturing That symbol is: Ⓜ Maximum Material Condition (MMC) Many engineers know MMC as a tolerance modifier. But experienced manufacturing engineers understand something deeper: MMC is not only about tolerance. It is about connecting design intent with manufacturing reality. Engineer Question 1: “Why can a part pass d..."
+      "text": "Engineer Question 1: “Why can a part pass dimensional inspection but still create assembly problems?” This is one of the most common challenges in CNC machining. A supplier delivers machined parts. The inspection report shows: ✅ Hole size within tolerance ✅ Position measurement recorded ✅ CMM report completed But during assembly: ❌ The components do not fit properly. Why? Because dimensional compliance does not always equal functional performance. A part is not created to satisfy an inspection report. A part is created to: Assemble correctly Perform reliably Work consistently in the final product This is where GD&T and MMC become important."
     },
     {
-      "hash": "6db888f4a525e931b69c08c66f0ad6cf4384fa6a",
+      "hash": "b2b8a5cce0efb34942cb2fa64d1ecc880aa6395f",
       "heading": "Engineer Question 2: “What does MMC actually change on a manufacturing drawing?”",
       "level": "h2",
-      "text": "A Small Symbol on a Drawing Can Decide Whether a Part Is Accepted or Rejected In precision CNC machining, many manufacturing problems do not start on the machine. They start on the drawing. A single GD&T symbol can determine: Whether a functional part is accepted or rejected Whether manufacturing cost increases unnecessarily Whether production remains stable during volume manufacturing That symbol is: Ⓜ Maximum Material Condition (MMC) Many engineers know MMC as a tolerance modifier. But experienced manufacturing engineers understand something deeper: MMC is not only about tolerance. It is about connecting design intent with manufacturing reality. Engineer Question 1: “Why can a part pass d..."
+      "text": "Engineer Question 2: “What does MMC actually change on a manufacturing drawing?” Consider a position tolerance callout: Position ⌀0.5 Ⓜ | A | B | C Without understanding MMC, someone may interpret this as: “The hole position must always remain within a fixed 0.5 mm tolerance zone.” But the circled M changes the requirement. MMC allows additional positional tolerance when the actual feature size provides additional clearance. This additional tolerance is called: Bonus tolerance."
     },
     {
-      "hash": "6db888f4a525e931b69c08c66f0ad6cf4384fa6a",
+      "hash": "1d5e45352ef264e0d46f32cad2c69cfc0dba08f1",
       "heading": "Engineer Question 3: “Does MMC mean we are accepting lower-quality parts?”",
       "level": "h2",
-      "text": "A Small Symbol on a Drawing Can Decide Whether a Part Is Accepted or Rejected In precision CNC machining, many manufacturing problems do not start on the machine. They start on the drawing. A single GD&T symbol can determine: Whether a functional part is accepted or rejected Whether manufacturing cost increases unnecessarily Whether production remains stable during volume manufacturing That symbol is: Ⓜ Maximum Material Condition (MMC) Many engineers know MMC as a tolerance modifier. But experienced manufacturing engineers understand something deeper: MMC is not only about tolerance. It is about connecting design intent with manufacturing reality. Engineer Question 1: “Why can a part pass d..."
+      "text": "Engineer Question 3: “Does MMC mean we are accepting lower-quality parts?” No. This is one of the biggest misunderstandings. A common assumption is: “Tighter tolerance = better quality.” But in manufacturing, quality means: Meeting the functional requirement consistently. A hole that is slightly different from the MMC condition may still assemble perfectly. Rejecting that part does not improve product performance."
     },
     {
-      "hash": "6db888f4a525e931b69c08c66f0ad6cf4384fa6a",
+      "hash": "33ffb036c2a4652f8b7de0176b5c4d2cabe635c7",
       "heading": "Engineer Question 4: “How does MMC affect CNC machining cost?”",
       "level": "h2",
-      "text": "A Small Symbol on a Drawing Can Decide Whether a Part Is Accepted or Rejected In precision CNC machining, many manufacturing problems do not start on the machine. They start on the drawing. A single GD&T symbol can determine: Whether a functional part is accepted or rejected Whether manufacturing cost increases unnecessarily Whether production remains stable during volume manufacturing That symbol is: Ⓜ Maximum Material Condition (MMC) Many engineers know MMC as a tolerance modifier. But experienced manufacturing engineers understand something deeper: MMC is not only about tolerance. It is about connecting design intent with manufacturing reality. Engineer Question 1: “Why can a part pass d..."
+      "text": "Engineer Question 4: “How does MMC affect CNC machining cost?” In precision CNC machining, every tolerance requirement affects manufacturing decisions. Tighter unnecessary requirements can increase: Machining difficulty Tool wear Inspection frequency Process adjustments Production cost For example: A designer may specify extremely tight position tolerances on every hole. However, if the assembly function allows MMC, the design may achieve the same performance with better manufacturability. This is a practical example of: Design for Manufacturing (DFM)."
     },
     {
-      "hash": "6db888f4a525e931b69c08c66f0ad6cf4384fa6a",
+      "hash": "2bb60afdbf385e5c9d98caf6f2d735afac2d2ef2",
       "heading": "Engineer Question 5: “How do experienced CNC machining suppliers interpret GD&T requirements?”",
       "level": "h2",
-      "text": "A Small Symbol on a Drawing Can Decide Whether a Part Is Accepted or Rejected In precision CNC machining, many manufacturing problems do not start on the machine. They start on the drawing. A single GD&T symbol can determine: Whether a functional part is accepted or rejected Whether manufacturing cost increases unnecessarily Whether production remains stable during volume manufacturing That symbol is: Ⓜ Maximum Material Condition (MMC) Many engineers know MMC as a tolerance modifier. But experienced manufacturing engineers understand something deeper: MMC is not only about tolerance. It is about connecting design intent with manufacturing reality. Engineer Question 1: “Why can a part pass d..."
+      "text": "Engineer Question 5: “How do experienced CNC machining suppliers interpret GD&T requirements?” A capable precision CNC machining supplier does not only check dimensions. They analyze:"
     },
     {
-      "hash": "6db888f4a525e931b69c08c66f0ad6cf4384fa6a",
+      "hash": "992af5b076c02083686e833044e87a3fe832ad5e",
       "heading": "Before machining:",
       "level": "h3",
-      "text": "A Small Symbol on a Drawing Can Decide Whether a Part Is Accepted or Rejected In precision CNC machining, many manufacturing problems do not start on the machine. They start on the drawing. A single GD&T symbol can determine: Whether a functional part is accepted or rejected Whether manufacturing cost increases unnecessarily Whether production remains stable during volume manufacturing That symbol is: Ⓜ Maximum Material Condition (MMC) Many engineers know MMC as a tolerance modifier. But experienced manufacturing engineers understand something deeper: MMC is not only about tolerance. It is about connecting design intent with manufacturing reality. Engineer Question 1: “Why can a part pass d..."
+      "text": "Before machining: Is the tolerance functionally necessary? Are datum references correctly defined? Can the feature be manufactured consistently?"
     },
     {
-      "hash": "6db888f4a525e931b69c08c66f0ad6cf4384fa6a",
+      "hash": "f0620e91c44949b8e9655f300376aa98e8651e34",
       "heading": "During machining:",
       "level": "h3",
-      "text": "A Small Symbol on a Drawing Can Decide Whether a Part Is Accepted or Rejected In precision CNC machining, many manufacturing problems do not start on the machine. They start on the drawing. A single GD&T symbol can determine: Whether a functional part is accepted or rejected Whether manufacturing cost increases unnecessarily Whether production remains stable during volume manufacturing That symbol is: Ⓜ Maximum Material Condition (MMC) Many engineers know MMC as a tolerance modifier. But experienced manufacturing engineers understand something deeper: MMC is not only about tolerance. It is about connecting design intent with manufacturing reality. Engineer Question 1: “Why can a part pass d..."
+      "text": "During machining: Is the process stable? Are tools and fixtures appropriate? Can the tolerance be maintained over production runs?"
     },
     {
-      "hash": "6db888f4a525e931b69c08c66f0ad6cf4384fa6a",
+      "hash": "876c70a775706e3f8a4ea226076ad0bf7a9f848b",
       "heading": "During inspection:",
       "level": "h3",
-      "text": "A Small Symbol on a Drawing Can Decide Whether a Part Is Accepted or Rejected In precision CNC machining, many manufacturing problems do not start on the machine. They start on the drawing. A single GD&T symbol can determine: Whether a functional part is accepted or rejected Whether manufacturing cost increases unnecessarily Whether production remains stable during volume manufacturing That symbol is: Ⓜ Maximum Material Condition (MMC) Many engineers know MMC as a tolerance modifier. But experienced manufacturing engineers understand something deeper: MMC is not only about tolerance. It is about connecting design intent with manufacturing reality. Engineer Question 1: “Why can a part pass d..."
+      "text": "During inspection: Is the measurement method aligned with the drawing intent? Are MMC requirements correctly applied? Are inspection results repeatable? This is the difference between: “Making one good sample” and “Maintaining consistent production quality.”"
     },
     {
-      "hash": "6db888f4a525e931b69c08c66f0ad6cf4384fa6a",
+      "hash": "0a60bc76fbe2b533a96784f2692fbacef627543f",
       "heading": "Engineer Question 6: “How do you ensure quality consistency in GD&T-controlled parts?”",
       "level": "h2",
-      "text": "A Small Symbol on a Drawing Can Decide Whether a Part Is Accepted or Rejected In precision CNC machining, many manufacturing problems do not start on the machine. They start on the drawing. A single GD&T symbol can determine: Whether a functional part is accepted or rejected Whether manufacturing cost increases unnecessarily Whether production remains stable during volume manufacturing That symbol is: Ⓜ Maximum Material Condition (MMC) Many engineers know MMC as a tolerance modifier. But experienced manufacturing engineers understand something deeper: MMC is not only about tolerance. It is about connecting design intent with manufacturing reality. Engineer Question 1: “Why can a part pass d..."
+      "text": "Engineer Question 6: “How do you ensure quality consistency in GD&T-controlled parts?” For precision components, quality cannot depend only on final inspection. Stable manufacturing requires controlling the process."
     },
     {
-      "hash": "6db888f4a525e931b69c08c66f0ad6cf4384fa6a",
+      "hash": "aa3301de76c9b56eadc278775e62c4dcfadbf3cb",
       "heading": "Key factors include:",
       "level": "h3",
-      "text": "A Small Symbol on a Drawing Can Decide Whether a Part Is Accepted or Rejected In precision CNC machining, many manufacturing problems do not start on the machine. They start on the drawing. A single GD&T symbol can determine: Whether a functional part is accepted or rejected Whether manufacturing cost increases unnecessarily Whether production remains stable during volume manufacturing That symbol is: Ⓜ Maximum Material Condition (MMC) Many engineers know MMC as a tolerance modifier. But experienced manufacturing engineers understand something deeper: MMC is not only about tolerance. It is about connecting design intent with manufacturing reality. Engineer Question 1: “Why can a part pass d..."
+      "text": "Key factors include: 1. Clear drawing interpretation Engineers, machinists, and inspectors must understand the same GD&T requirements. 2. Process capability control The machining process must consistently achieve the required tolerance range. 3. Measurement reliability Inspection equipment and methods must provide repeatable results. 4. Production consistency The first article part and later production batches must maintain the same quality level. A professional CNC machining supplier focuses not only on whether a part passes inspection, but whether the process can repeatedly produce qualified parts."
     },
     {
       "hash": "fa4747f6bdf1407824145cc4bc9db350fe6eabba",
@@ -326,46 +301,46 @@
       "text": "4. Production consistency The first article part and later production batches must maintain the same quality level."
     },
     {
-      "hash": "6db888f4a525e931b69c08c66f0ad6cf4384fa6a",
+      "hash": "f55bb73a9b4f7b4dd4de00ddc065db230e7ae539",
       "heading": "Engineer Question 7: “Where is MMC commonly used?”",
       "level": "h2",
-      "text": "A Small Symbol on a Drawing Can Decide Whether a Part Is Accepted or Rejected In precision CNC machining, many manufacturing problems do not start on the machine. They start on the drawing. A single GD&T symbol can determine: Whether a functional part is accepted or rejected Whether manufacturing cost increases unnecessarily Whether production remains stable during volume manufacturing That symbol is: Ⓜ Maximum Material Condition (MMC) Many engineers know MMC as a tolerance modifier. But experienced manufacturing engineers understand something deeper: MMC is not only about tolerance. It is about connecting design intent with manufacturing reality. Engineer Question 1: “Why can a part pass d..."
+      "text": "Engineer Question 7: “Where is MMC commonly used?” MMC is especially useful for functional features such as: Mounting holes Bolt patterns Locating holes Shafts Mating components These features directly affect assembly performance. Using MMC correctly helps engineers balance: Functional requirements Manufacturing capability Production efficiency"
     },
     {
-      "hash": "6db888f4a525e931b69c08c66f0ad6cf4384fa6a",
+      "hash": "846e4da2a1f6a2d01aab5fff5c68b0ac5e4c2545",
       "heading": "MMC vs MMB: A Detail That Cannot Be Ignored",
       "level": "h2",
-      "text": "A Small Symbol on a Drawing Can Decide Whether a Part Is Accepted or Rejected In precision CNC machining, many manufacturing problems do not start on the machine. They start on the drawing. A single GD&T symbol can determine: Whether a functional part is accepted or rejected Whether manufacturing cost increases unnecessarily Whether production remains stable during volume manufacturing That symbol is: Ⓜ Maximum Material Condition (MMC) Many engineers know MMC as a tolerance modifier. But experienced manufacturing engineers understand something deeper: MMC is not only about tolerance. It is about connecting design intent with manufacturing reality. Engineer Question 1: “Why can a part pass d..."
+      "text": "MMC vs MMB: A Detail That Cannot Be Ignored One important engineering detail: The circled M does not always mean the same thing."
     },
     {
-      "hash": "6db888f4a525e931b69c08c66f0ad6cf4384fa6a",
+      "hash": "d146296f92a635c42ed61fd69930eab617c77379",
       "heading": "MMC applied to a feature tolerance:",
       "level": "h3",
-      "text": "A Small Symbol on a Drawing Can Decide Whether a Part Is Accepted or Rejected In precision CNC machining, many manufacturing problems do not start on the machine. They start on the drawing. A single GD&T symbol can determine: Whether a functional part is accepted or rejected Whether manufacturing cost increases unnecessarily Whether production remains stable during volume manufacturing That symbol is: Ⓜ Maximum Material Condition (MMC) Many engineers know MMC as a tolerance modifier. But experienced manufacturing engineers understand something deeper: MMC is not only about tolerance. It is about connecting design intent with manufacturing reality. Engineer Question 1: “Why can a part pass d..."
+      "text": "MMC applied to a feature tolerance: Controls the relationship between: Feature size Geometric tolerance Functional assembly"
     },
     {
-      "hash": "6db888f4a525e931b69c08c66f0ad6cf4384fa6a",
+      "hash": "ae831df300aeb3d1cf53f6111cbc29fa3b71b57e",
       "heading": "MMB applied to a datum reference:",
       "level": "h3",
-      "text": "A Small Symbol on a Drawing Can Decide Whether a Part Is Accepted or Rejected In precision CNC machining, many manufacturing problems do not start on the machine. They start on the drawing. A single GD&T symbol can determine: Whether a functional part is accepted or rejected Whether manufacturing cost increases unnecessarily Whether production remains stable during volume manufacturing That symbol is: Ⓜ Maximum Material Condition (MMC) Many engineers know MMC as a tolerance modifier. But experienced manufacturing engineers understand something deeper: MMC is not only about tolerance. It is about connecting design intent with manufacturing reality. Engineer Question 1: “Why can a part pass d..."
+      "text": "MMB applied to a datum reference: Defines the maximum material boundary condition of the datum feature. Confusing MMC and MMB can create serious quality risks. Correct GD&T interpretation is essential for precision manufacturing."
     },
     {
-      "hash": "6db888f4a525e931b69c08c66f0ad6cf4384fa6a",
+      "hash": "8f9609bc9667d0ec3a73704c35d005acc852a32a",
       "heading": "Why MMC Matters in Medical Device and Robotics Manufacturing",
       "level": "h2",
-      "text": "A Small Symbol on a Drawing Can Decide Whether a Part Is Accepted or Rejected In precision CNC machining, many manufacturing problems do not start on the machine. They start on the drawing. A single GD&T symbol can determine: Whether a functional part is accepted or rejected Whether manufacturing cost increases unnecessarily Whether production remains stable during volume manufacturing That symbol is: Ⓜ Maximum Material Condition (MMC) Many engineers know MMC as a tolerance modifier. But experienced manufacturing engineers understand something deeper: MMC is not only about tolerance. It is about connecting design intent with manufacturing reality. Engineer Question 1: “Why can a part pass d..."
+      "text": "Why MMC Matters in Medical Device and Robotics Manufacturing Industries such as: Medical devices Robotics Automation equipment Precision industrial systems often require: Tight tolerance machining Complex GD&T drawings Reliable assembly performance Consistent production quality In these applications, the goal is not simply achieving the smallest tolerance. The goal is producing parts that work reliably from prototype to production."
     },
     {
-      "hash": "6db888f4a525e931b69c08c66f0ad6cf4384fa6a",
+      "hash": "db252a679d31e9d5c64107e5ff6d0844ad6195ab",
       "heading": "Final Thoughts",
       "level": "h2",
-      "text": "A Small Symbol on a Drawing Can Decide Whether a Part Is Accepted or Rejected In precision CNC machining, many manufacturing problems do not start on the machine. They start on the drawing. A single GD&T symbol can determine: Whether a functional part is accepted or rejected Whether manufacturing cost increases unnecessarily Whether production remains stable during volume manufacturing That symbol is: Ⓜ Maximum Material Condition (MMC) Many engineers know MMC as a tolerance modifier. But experienced manufacturing engineers understand something deeper: MMC is not only about tolerance. It is about connecting design intent with manufacturing reality. Engineer Question 1: “Why can a part pass d..."
+      "text": "Final Thoughts The circled M may be one small symbol on an engineering drawing. But it represents an important manufacturing principle: Precision is not about controlling every dimension as tightly as possible. Precision is about controlling the features that affect function. When MMC is correctly applied, engineers can achieve: ✅ Better manufacturability ✅ Lower scrap rates ✅ Reduced machining cost ✅ More stable production ✅ Improved supplier communication A good CNC machining supplier does not just manufacture parts. They understand the engineering intent behind those parts."
     },
     {
-      "hash": "6db888f4a525e931b69c08c66f0ad6cf4384fa6a",
+      "hash": "39fc8af2a4a5ad61a7e21102d7adda935760145f",
       "heading": "Need a CNC Machining Partner Experienced With GD&T Requirements?",
       "level": "h2",
-      "text": "A Small Symbol on a Drawing Can Decide Whether a Part Is Accepted or Rejected In precision CNC machining, many manufacturing problems do not start on the machine. They start on the drawing. A single GD&T symbol can determine: Whether a functional part is accepted or rejected Whether manufacturing cost increases unnecessarily Whether production remains stable during volume manufacturing That symbol is: Ⓜ Maximum Material Condition (MMC) Many engineers know MMC as a tolerance modifier. But experienced manufacturing engineers understand something deeper: MMC is not only about tolerance. It is about connecting design intent with manufacturing reality. Engineer Question 1: “Why can a part pass d..."
+      "text": "Need a CNC Machining Partner Experienced With GD&T Requirements? We support engineers with: Precision CNC machining Tight tolerance components CNC prototypes Low-volume production Complex GD&T requirements Medical and robotics components From prototype validation to repeat production, our focus is consistent: Turning engineering requirements into reliable manufactured parts. Request a Free Quote → Facebook LinkedIn Tweet Related Articles： GD&T MMC: Definition, Formula, Calculation, Bonus Tolerance, Uses, MMC vs LMC Straightness vs Flatness – Difference Between Flatness and Straightness GD&T Datum Definition, Feature, Symbol, Types, 3-2-1 Rule & Uses GD&T Profile Tolerance: Basic Knowledge, Types, Symbol, Calculation, Uses What is Concentricity in GD&T – How to Measure, Calculate Concentricity & Concentricity vs Runout GD&T Tolerance Definitions: 14 Different Tolerances Specific to GD&T Use"
     },
     {
       "hash": "d451378588277293ba99bff1082673ead2758e24",
@@ -374,10 +349,11 @@
       "text": "Related Articles： GD&T MMC: Definition, Formula, Calculation, Bonus Tolerance, Uses, MMC vs LMC Straightness vs Flatness – Difference Between Flatness and Straightness GD&T Datum Definition, Feature, Symbol, Types, 3-2-1 Rule & Uses GD&T Profile Tolerance: Basic Knowledge, Types, Symbol, Calculation, Uses What is Concentricity in GD&T – How to Measure, Calculate Concentricity & Concentricity vs Runout GD&T Tolerance Definitions: 14 Different Tolerances Specific to GD&T Use"
     }
   ],
+  "sitemap_lastmod": "",
   "status": 200,
-  "structure_hash": "063064736b8299e98e3fd7e7a6f9ce49e7cbbc9c",
-  "text_excerpt": "MMC in GD&T: How Precision CNC Machining Engineers Reduce Scrap and Improve Manufacturing Consistency [email protected] +86 769 8289 0830 Design Calculator Turning Speed And Feed Calculator Drilling Speed And Feed Calculator Milling Speed And Feed Calculator CNC Programming Services Products About Us Get a Quote Services Machining techniques 5 Axis Machining CNC Turning CNC Milling Swiss Machining CNC Machining Services 3D Printing Rapid prototyping Precision Machining sheet metal fabrication Cooperative supply services EDM Machining Investment Casting Aluminum Extrusion Forging Services Materials CNC Metal Machining CNC Machining Brass CNC Machining Copper CNC Machining Aluminum CNC Machining Titanium CNC Machining Steel CNC Machining Stainless Steel CNC Plastic Machining CNC Machining ABS CNC Machining Nylon CNC Machining POM CNC Machining PEEK CNC Machining PMMA CNC Machining PTFE CNC Machining Polystyrene CNC Machining Polyethylene CNC Machining Polycarbonate Sheet Metal Fabrication Aluminum Sheet Metal Fabrication Brass Sheet Metal Fabrication Copper Sheet Metal Fabrication Steel Sheet Metal Fabrication Stainless Steel Sheet Metal Fabrication Finishing Guide Contact Us Generi...",
-  "text_hash": "12e78f06349eba76c0729e0177c42559707dd095",
+  "structure_hash": "9fbda987d7b7356a365ea1d4c44539b0a244cc02",
+  "text_excerpt": "Contents A Small Symbol on a Drawing Can Decide Whether a Part Is Accepted or Rejected In precision CNC machining, many manufacturing problems do not start on the machine. They start on the drawing. A single GD&T symbol can determine: Whether a functional part is accepted or rejected Whether manufacturing cost increases unnecessarily Whether production remains stable during volume manufacturing That symbol is: Ⓜ Maximum Material Condition (MMC) Many engineers know MMC as a tolerance modifier. But experienced manufacturing engineers understand something deeper: MMC is not only about tolerance. It is about connecting design intent with manufacturing reality. Engineer Question 1: “Why can a part pass dimensional inspection but still create assembly problems?” This is one of the most common challenges in CNC machining. A supplier delivers machined parts. The inspection report shows: ✅ Hole size within tolerance ✅ Position measurement recorded ✅ CMM report completed But during assembly: ❌ The components do not fit properly. Why? Because dimensional compliance does not always equal functional performance. A part is not created to satisfy an inspection report. A part is created to: Assem...",
+  "text_hash": "01beff9f70210572af2b23af13180883527ac6f4",
   "title": "MMC in GD&T: How Precision CNC Machining Engineers Reduce Scrap and Improve Manufacturing Consistency",
   "url": "https://www.cnclathing.com/guide/mmc-in-gdt-how-precision-cnc-machining-engineers-reduce-scrap-and-improve-manufacturing-consistency"
 }

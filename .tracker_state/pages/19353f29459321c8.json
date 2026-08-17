@@ -1,0 +1,179 @@
+{
+  "canonical": "https://www.hubs.com/knowledge-base/how-to-get-smooth-3d-prints",
+  "category": "content",
+  "competitor": "Hubs",
+  "ctas": [
+    {
+      "href": "https://www.hubs.com/manufacture",
+      "text": "Upload your design"
+    }
+  ],
+  "discovered_via": "sitemap",
+  "fetched_at": "2026-08-17T03:42:25+00:00",
+  "final_url": "https://www.hubs.com/knowledge-base/how-to-get-smooth-3d-prints",
+  "first_seen_at": "2026-08-17T03:42:25+00:00",
+  "h1": "",
+  "headings": [
+    {
+      "level": "h2",
+      "text": "Can you sand 3D prints?"
+    },
+    {
+      "level": "h2",
+      "text": "The 5-step smoothing process"
+    },
+    {
+      "level": "h3",
+      "text": "Support removal and preparation"
+    },
+    {
+      "level": "h3",
+      "text": "Progressive sanding techniques"
+    },
+    {
+      "level": "h2",
+      "text": "The importance of wet sanding"
+    },
+    {
+      "level": "h2",
+      "text": "Material-specific sanding tips"
+    },
+    {
+      "level": "h2",
+      "text": "Filling, priming, and final coating"
+    },
+    {
+      "level": "h2",
+      "text": "Common mistakes to avoid for smooth 3D prints"
+    },
+    {
+      "level": "h2",
+      "text": "FAQs Smooth 3D prints"
+    },
+    {
+      "level": "h2",
+      "text": "Frequently asked questions"
+    },
+    {
+      "level": "h3",
+      "text": "How to smooth PLA 3D prints?"
+    },
+    {
+      "level": "h3",
+      "text": "How to smooth 3D prints without sanding?"
+    },
+    {
+      "level": "h3",
+      "text": "How to smooth 3D prints with acetone?"
+    },
+    {
+      "level": "h3",
+      "text": "What to use to smooth 3D prints?"
+    }
+  ],
+  "images": [
+    {
+      "alt": "CNC machining, 3D printing and sheet metal fabrication parts",
+      "src": "/images/trans.gif"
+    }
+  ],
+  "meta_description": "Can you sand 3D prints? Follow our 5-step guide to mastering wet sanding and priming for perfectly smooth 3D prints every time.",
+  "modified_at": "",
+  "monitored_text": "Can you sand 3D prints? The short answer is yes, and for most FDM parts, you should. If you’re wondering, \"Can you sand 3D prints made from common thermoplastics?\", the answer depends on your end goal. Sanding remains important for removing visible layer lines, erasing the stubborn scars left by support structures, and creating the ‘tooth’ necessary for paint to adhere properly. While materials like PLA, PETG , and ABS all respond well to sanding, each requires a slightly different approach to avoid heat deformation or surface tearing. The 5-step smoothing process Achieving a professional finish requires a disciplined workflow that transforms the part from a raw print into a high-fidelity component. Skipping a stage often results in microscopic defects, such as hidden layer lines or support scars that only become visible once you apply the final coat of paint. By following a structured sequence, you systematically remove these imperfections while building a surface that is ready for industrial-grade finishing. The process begins with thorough support removal, where you carefully strip away auxiliary structures and clean the attachment points to create a workable base. Next, you move into progressive sanding, using a sequence of increasingly fine abrasives to physically level the surface ridges. For deeper gaps or pockmarks that sandpaper cannot reach, you must fill defects using specialized putties to bridge the terrain. Once the surface is level, priming with a high-build spray highlights any remaining flaws while sealing the plastic. Finally, you reach the final coating or polishing stage, where you add the decorative layer or buff the material to its intended luster. Support removal and preparation Preparation begins before the first piece of sandpaper touches the plastic. Support removal is highly material-dependent. PLA typically snaps away cleanly, while the high layer adhesion of PETG can make separation difficult. To ensure a cleaner break, many engineers specify a 0.1mm to 0.25mm ‘Z-gap’ in their slicer settings. For stubborn supports, a quick pass with a heat gun can soften the interface just enough to peel the material away without gouging the actual part. Learn more about this in our guide to design for 3D printing . Progressive sanding techniques The key to a flawless surface lies in ‘stepping’ through the grit levels. Start with 100-150 grit to knock down the primary layer ridges. Once the surface feels relatively flat, move progressively through 220, 400, 600, and eventually 1000+ grit for a polished look. Always use consistent circular motions. Sanding parallel to the layer lines often inadvertently deepens the ‘valleys’ between them, which emphasizes the texture instead of removing it. Stage Grit Range Purpose Technique Initial 100 – 220 Removing layer lines and support scars. Dry sanding, circular motions. Refining 320 – 400 Smoothing out scratches from the initial stage. Transition to wet sanding. Polishing 600 – 1000 Preparing for primer or a satin finish. Wet sanding only. Mirror Finish 1500 – 2000+ Achieving a high-gloss, industrial luster. Wet sanding and polishing compound. The importance of wet sanding Once you move past the 400-grit stage, transition to wet sanding. Water acts as both a lubricant and a coolant, which is important for achieving smooth 3D prints. Friction generates heat, and as plastics like PLA have low glass transition temperatures, dry sanding can quickly cause the surface to soften and ‘gum up’. Water prevents the plastic from melting. It also washes away debris to keep your sandpaper from clogging and results in a significantly finer finish. Material-specific sanding tips Different polymers react in different ways to mechanical abrasion, meaning that you need to adjust your strategy based on the specific material that you’re using. For instance, PLA is notoriously susceptible to heat. You should strictly avoid power tools with this material, as the friction will melt the plastic almost instantly, ruining your fine details. Instead, stick to manual hand sanding and use plenty of water to keep the surface cool. On the other hand, ABS is much more durable and heat-resistant. This material responds well to the light use of power tools and offers the unique advantage of being compatible with acetone. After your initial sanding, you can use acetone vapor smoothing to achieve a glass-like finish that is almost impossible to achieve with sandpaper alone. When working with Resin (SLA), you’re starting with a surface that’s already quite smooth, but the material can be brittle. You should therefore skip the coarsest grits and start with a higher grit, around 400, to avoid creating deep scratches that are difficult to buff out. Safety is paramount here. Always wear a mask when sanding resin, as the fine dust is hazardous and should not be inhaled. Material Heat Sensitivity Best Sanding Method Pro Tip PLA Very High Wet sanding only (Manual). Avoid power tools; they melt the plastic instantly. ABS / ASA Moderate Dry or Wet sanding. Compatible with acetone vapor for a glass-like finish. PETG Moderate Wet sanding preferred. Tends to ‘gum up’ if friction gets too high. Resin (SLA) Low High-grit wet sanding. Safety first: Always wear a mask to avoid inhaling dust. Filling, priming, and final coating Sanding alone can’t always fix deep gaps or internal voids. For these areas, use a filler to level the terrain. Once the filler is dry and sanded flush, apply a multi-layered high-build primer. The primer serves a dual purpose. It fills microscopic scratches left by the sandpaper and provides a uniform color that makes it easy to spot any remaining ‘ghost’ layer lines before you apply the final paint. Learn more in our guide to key design considerations for 3D printing . Common mistakes to avoid for smooth 3D prints Even experienced makers fall into traps that can ruin a finish, but you can avoid these common pitfalls with a disciplined approach. The most frequent error involves skipping grit levels. Jumping from 150 straight to 600 grit, for example, leaves deep scratches that fine-grit paper simply cannot remove. You must also let the sandpaper do the work rather than applying excessive pressure. Pressing too hard creates localized heat that softens the plastic and often results in uneven flat spots on curved geometries. Finally, never ignore dust management between stages. Failing to clean the part with a tack cloth or water when switching grits allows for large and abrasive particles to remain on the surface. These stray grains get trapped under your finer sandpaper, leading to ‘pigtail’ scratches that mean that you have to restart the entire process. By verifying your surface cleanliness and maintaining a steady, light touch, you guarantee the high-quality, professional finish required for industrial-grade components. Ready to achieve a smooth surface finish on your 3D printed part? Upload your design for a free quote with finishing recommendations and DFM feedback. FAQs Smooth 3D prints Subscribe Get the latest manufacturing news delivered to your mailbox. Sign up for our newsletter Sign me up Please enter a valid email address. Leave this field empty Thanks! You're now subscribed to our newsletter. Frequently asked questions How to smooth PLA 3D prints? Sanding is the most reliable method for smoothing PLA, but heat management is essential. Because PLA softens at relatively low temperatures, wet sanding helps reduce friction heat and prevents the plastic from deforming. If you want to avoid extensive sanding, you can apply an epoxy resin coating, such as XTC-3D, to the printed part. The resin flows into the layer lines and self-levels, creating a hard, glossy surface that conceals imperfections without removing any of the underlying material. How to smooth 3D prints without sanding? If you want to avoid sanding, you can use ‘gap-filling’ primers or specialized coatings. High-build primers are particularly effective. They sit in the valleys of the layer lines and can be built up in several coats to mask textures. Another option is chemical smoothing, but this only works for specific materials. For hobbyist or non-industrial applications, some users smooth rough areas using a 3D printing pen or a soldering iron fitted with a flat tip. However, this approach requires a high degree of control, as excessive heat can easily damage or deform the part. How to smooth 3D prints with acetone? Acetone smoothing is a chemical process that only works with ABS and ASA filaments. By exposing the print to acetone vapor in a controlled chamber, the surface of the plastic melts and fuses together, erasing all layer lines in minutes. While this produces a mirror-like finish, you must be careful. Over-exposure will melt fine details and round off sharp edges. Note that this process does not work on PLA or PETG, as acetone does not dissolve those polymers. What to use to smooth 3D prints? The standard toolkit for professional finishing includes a variety of waterproof sandpaper (ranging from 150 to 2000 grit), a tack cloth for dust removal, and a high-build primer. For parts with deep gaps, you should also have a polyester-based filler or glazing putty on hand. If you’re working with resin prints or looking for a high-gloss aesthetic, a polishing compound and a microfiber cloth are essential for the final buffing stage to achieve that professional, industrial look.",
+  "published_at": "",
+  "requested_url": "https://www.hubs.com/knowledge-base/how-to-get-smooth-3d-prints",
+  "schema_version": 2,
+  "sections": [
+    {
+      "hash": "10f170e02da086bbf99f7d3eb6518419c0c173f6",
+      "heading": "Can you sand 3D prints?",
+      "level": "h2",
+      "text": "Can you sand 3D prints? The short answer is yes, and for most FDM parts, you should. If you’re wondering, \"Can you sand 3D prints made from common thermoplastics?\", the answer depends on your end goal. Sanding remains important for removing visible layer lines, erasing the stubborn scars left by support structures, and creating the ‘tooth’ necessary for paint to adhere properly. While materials like PLA, PETG , and ABS all respond well to sanding, each requires a slightly different approach to avoid heat deformation or surface tearing."
+    },
+    {
+      "hash": "be22ff41c9616e7e294d7579288ebf7045f7fb41",
+      "heading": "The 5-step smoothing process",
+      "level": "h2",
+      "text": "The 5-step smoothing process Achieving a professional finish requires a disciplined workflow that transforms the part from a raw print into a high-fidelity component. Skipping a stage often results in microscopic defects, such as hidden layer lines or support scars that only become visible once you apply the final coat of paint. By following a structured sequence, you systematically remove these imperfections while building a surface that is ready for industrial-grade finishing. The process begins with thorough support removal, where you carefully strip away auxiliary structures and clean the attachment points to create a workable base. Next, you move into progressive sanding, using a sequence of increasingly fine abrasives to physically level the surface ridges. For deeper gaps or pockmarks that sandpaper cannot reach, you must fill defects using specialized putties to bridge the terrain. Once the surface is level, priming with a high-build spray highlights any remaining flaws while sealing the plastic. Finally, you reach the final coating or polishing stage, where you add the decorative layer or buff the material to its intended luster."
+    },
+    {
+      "hash": "74f700d5d72dc68dac2219a0cd70713421521bfd",
+      "heading": "Support removal and preparation",
+      "level": "h3",
+      "text": "Support removal and preparation Preparation begins before the first piece of sandpaper touches the plastic. Support removal is highly material-dependent. PLA typically snaps away cleanly, while the high layer adhesion of PETG can make separation difficult. To ensure a cleaner break, many engineers specify a 0.1mm to 0.25mm ‘Z-gap’ in their slicer settings. For stubborn supports, a quick pass with a heat gun can soften the interface just enough to peel the material away without gouging the actual part. Learn more about this in our guide to design for 3D printing ."
+    },
+    {
+      "hash": "c415e2ca3923e4c92e1ac7a9004285185d403e27",
+      "heading": "Progressive sanding techniques",
+      "level": "h3",
+      "text": "Progressive sanding techniques The key to a flawless surface lies in ‘stepping’ through the grit levels. Start with 100-150 grit to knock down the primary layer ridges. Once the surface feels relatively flat, move progressively through 220, 400, 600, and eventually 1000+ grit for a polished look. Always use consistent circular motions. Sanding parallel to the layer lines often inadvertently deepens the ‘valleys’ between them, which emphasizes the texture instead of removing it."
+    },
+    {
+      "hash": "37680bde09366604023e99c0b2d4e16cbb03d228",
+      "heading": "The importance of wet sanding",
+      "level": "h2",
+      "text": "The importance of wet sanding Once you move past the 400-grit stage, transition to wet sanding. Water acts as both a lubricant and a coolant, which is important for achieving smooth 3D prints. Friction generates heat, and as plastics like PLA have low glass transition temperatures, dry sanding can quickly cause the surface to soften and ‘gum up’. Water prevents the plastic from melting. It also washes away debris to keep your sandpaper from clogging and results in a significantly finer finish."
+    },
+    {
+      "hash": "e0b698f500775d5b14862cedcd5aeab1c36d75bd",
+      "heading": "Material-specific sanding tips",
+      "level": "h2",
+      "text": "Material-specific sanding tips Different polymers react in different ways to mechanical abrasion, meaning that you need to adjust your strategy based on the specific material that you’re using. For instance, PLA is notoriously susceptible to heat. You should strictly avoid power tools with this material, as the friction will melt the plastic almost instantly, ruining your fine details. Instead, stick to manual hand sanding and use plenty of water to keep the surface cool. On the other hand, ABS is much more durable and heat-resistant. This material responds well to the light use of power tools and offers the unique advantage of being compatible with acetone. After your initial sanding, you can use acetone vapor smoothing to achieve a glass-like finish that is almost impossible to achieve with sandpaper alone. When working with Resin (SLA), you’re starting with a surface that’s already quite smooth, but the material can be brittle. You should therefore skip the coarsest grits and start with a higher grit, around 400, to avoid creating deep scratches that are difficult to buff out. Safety is paramount here. Always wear a mask when sanding resin, as the fine dust is hazardous and sho..."
+    },
+    {
+      "hash": "b18a0f04bceb046e07104069d290d2deda02e064",
+      "heading": "Filling, priming, and final coating",
+      "level": "h2",
+      "text": "Filling, priming, and final coating Sanding alone can’t always fix deep gaps or internal voids. For these areas, use a filler to level the terrain. Once the filler is dry and sanded flush, apply a multi-layered high-build primer. The primer serves a dual purpose. It fills microscopic scratches left by the sandpaper and provides a uniform color that makes it easy to spot any remaining ‘ghost’ layer lines before you apply the final paint. Learn more in our guide to key design considerations for 3D printing ."
+    },
+    {
+      "hash": "462b53211ff03c1dd18e6fda1e050820ad95b33a",
+      "heading": "Common mistakes to avoid for smooth 3D prints",
+      "level": "h2",
+      "text": "Common mistakes to avoid for smooth 3D prints Even experienced makers fall into traps that can ruin a finish, but you can avoid these common pitfalls with a disciplined approach. The most frequent error involves skipping grit levels. Jumping from 150 straight to 600 grit, for example, leaves deep scratches that fine-grit paper simply cannot remove. You must also let the sandpaper do the work rather than applying excessive pressure. Pressing too hard creates localized heat that softens the plastic and often results in uneven flat spots on curved geometries. Finally, never ignore dust management between stages. Failing to clean the part with a tack cloth or water when switching grits allows for large and abrasive particles to remain on the surface. These stray grains get trapped under your finer sandpaper, leading to ‘pigtail’ scratches that mean that you have to restart the entire process. By verifying your surface cleanliness and maintaining a steady, light touch, you guarantee the high-quality, professional finish required for industrial-grade components. Ready to achieve a smooth surface finish on your 3D printed part? Upload your design for a free quote with finishing recommend..."
+    },
+    {
+      "hash": "870f37c35e1ea17dad557aa483214cbb64f738f4",
+      "heading": "FAQs Smooth 3D prints",
+      "level": "h2",
+      "text": "FAQs Smooth 3D prints"
+    },
+    {
+      "hash": "02842b08377539be654ab1179cf41e1d947c4424",
+      "heading": "Frequently asked questions",
+      "level": "h2",
+      "text": "Frequently asked questions Frequently asked questions"
+    },
+    {
+      "hash": "61e87f07a6a97636deff1055e8bf936fe972d25e",
+      "heading": "How to smooth PLA 3D prints?",
+      "level": "h3",
+      "text": "How to smooth PLA 3D prints? Sanding is the most reliable method for smoothing PLA, but heat management is essential. Because PLA softens at relatively low temperatures, wet sanding helps reduce friction heat and prevents the plastic from deforming. If you want to avoid extensive sanding, you can apply an epoxy resin coating, such as XTC-3D, to the printed part. The resin flows into the layer lines and self-levels, creating a hard, glossy surface that conceals imperfections without removing any of the underlying material."
+    },
+    {
+      "hash": "43b0dbf0bb5c26afdaaef0c75b3b63f96db5db98",
+      "heading": "How to smooth 3D prints without sanding?",
+      "level": "h3",
+      "text": "How to smooth 3D prints without sanding? If you want to avoid sanding, you can use ‘gap-filling’ primers or specialized coatings. High-build primers are particularly effective. They sit in the valleys of the layer lines and can be built up in several coats to mask textures. Another option is chemical smoothing, but this only works for specific materials. For hobbyist or non-industrial applications, some users smooth rough areas using a 3D printing pen or a soldering iron fitted with a flat tip. However, this approach requires a high degree of control, as excessive heat can easily damage or deform the part."
+    },
+    {
+      "hash": "fa95f96dd45c83121f0601973600d738ff5ef630",
+      "heading": "How to smooth 3D prints with acetone?",
+      "level": "h3",
+      "text": "How to smooth 3D prints with acetone? Acetone smoothing is a chemical process that only works with ABS and ASA filaments. By exposing the print to acetone vapor in a controlled chamber, the surface of the plastic melts and fuses together, erasing all layer lines in minutes. While this produces a mirror-like finish, you must be careful. Over-exposure will melt fine details and round off sharp edges. Note that this process does not work on PLA or PETG, as acetone does not dissolve those polymers."
+    },
+    {
+      "hash": "462897496d850c724fff1de10ea49cfb3881e5c8",
+      "heading": "What to use to smooth 3D prints?",
+      "level": "h3",
+      "text": "What to use to smooth 3D prints? The standard toolkit for professional finishing includes a variety of waterproof sandpaper (ranging from 150 to 2000 grit), a tack cloth for dust removal, and a high-build primer. For parts with deep gaps, you should also have a polyester-based filler or glazing putty on hand. If you’re working with resin prints or looking for a high-gloss aesthetic, a polishing compound and a microfiber cloth are essential for the final buffing stage to achieve that professional, industrial look."
+    }
+  ],
+  "sitemap_lastmod": "2026-04-22T07:08:39+00:00",
+  "status": 200,
+  "structure_hash": "67e07c8734fab4c0b9ac4feac1318eccf1636b26",
+  "text_excerpt": "Can you sand 3D prints? The short answer is yes, and for most FDM parts, you should. If you’re wondering, \"Can you sand 3D prints made from common thermoplastics?\", the answer depends on your end goal. Sanding remains important for removing visible layer lines, erasing the stubborn scars left by support structures, and creating the ‘tooth’ necessary for paint to adhere properly. While materials like PLA, PETG , and ABS all respond well to sanding, each requires a slightly different approach to avoid heat deformation or surface tearing. The 5-step smoothing process Achieving a professional finish requires a disciplined workflow that transforms the part from a raw print into a high-fidelity component. Skipping a stage often results in microscopic defects, such as hidden layer lines or support scars that only become visible once you apply the final coat of paint. By following a structured sequence, you systematically remove these imperfections while building a surface that is ready for industrial-grade finishing. The process begins with thorough support removal, where you carefully strip away auxiliary structures and clean the attachment points to create a workable base. Next, you mo...",
+  "text_hash": "795f6939fd29541ddbc37f8e7898047fe17d0735",
+  "title": "Sanding 3D prints: Techniques for a smooth 3D print | Protolabs Network",
+  "url": "https://www.hubs.com/knowledge-base/how-to-get-smooth-3d-prints"
+}

@@ -1,0 +1,213 @@
+{
+  "canonical": "https://www.hubs.com/knowledge-base/petg-filament-for-3d-printing",
+  "category": "content",
+  "competitor": "Hubs",
+  "ctas": [
+    {
+      "href": "https://www.hubs.com/manufacture?technology=3d-printing&process=fdm",
+      "text": "Upload your design"
+    }
+  ],
+  "discovered_via": "sitemap",
+  "fetched_at": "2026-08-17T03:41:45+00:00",
+  "final_url": "https://www.hubs.com/knowledge-base/petg-filament-for-3d-printing",
+  "first_seen_at": "2026-08-17T03:41:45+00:00",
+  "h1": "",
+  "headings": [
+    {
+      "level": "h2",
+      "text": "What is PETG filament made of?"
+    },
+    {
+      "level": "h2",
+      "text": "Key PETG filament properties"
+    },
+    {
+      "level": "h3",
+      "text": "Prototyping PETG at a glance"
+    },
+    {
+      "level": "h3",
+      "text": "Waterproof and hygroscopic nature"
+    },
+    {
+      "level": "h2",
+      "text": "PETG vs. PLA vs. ABS"
+    },
+    {
+      "level": "h2",
+      "text": "Best print settings for PETG success"
+    },
+    {
+      "level": "h2",
+      "text": "Troubleshooting common PETG issues"
+    },
+    {
+      "level": "h2",
+      "text": "Common applications for PETG filament"
+    },
+    {
+      "level": "h2",
+      "text": "Comparison of PETG subtypes"
+    },
+    {
+      "level": "h2",
+      "text": "Post-processing and finishing PETG parts"
+    },
+    {
+      "level": "h2",
+      "text": "Safety and environmental impact"
+    },
+    {
+      "level": "h2",
+      "text": "Get started"
+    },
+    {
+      "level": "h2",
+      "text": "Frequently asked questions"
+    },
+    {
+      "level": "h3",
+      "text": "Is PETG stronger than PLA?"
+    },
+    {
+      "level": "h3",
+      "text": "Is PETG filament food safe?"
+    },
+    {
+      "level": "h3",
+      "text": "Can PETG handle outdoor use?"
+    },
+    {
+      "level": "h3",
+      "text": "Does PETG warp during printing?"
+    }
+  ],
+  "images": [
+    {
+      "alt": "",
+      "src": "/images/trans.gif"
+    },
+    {
+      "alt": "CNC machining, 3D printing and sheet metal fabrication parts",
+      "src": "/images/trans.gif"
+    }
+  ],
+  "meta_description": "PETG balances the strength of ABS with the printability of PLA. Compare properties, print settings and applications for this versatile 3D printing filament.",
+  "modified_at": "",
+  "monitored_text": "PETG is the Goldilocks of FDM (fused deposition modeling) filaments. A glycol-modified version of PET, it sits right between PLA's easy printability and ABS's toughness, combining strength, flexibility, and ease of use in a single spool. That's why engineers so often choose it for functional parts, enclosures, and prints that need to survive regular handling. This article covers PETG's chemistry, key properties, print settings, common applications, and post-processing considerations. What is PETG filament made of? PETG stands for polyethylene terephthalate glycol-modified. It belongs to the same polyester family as PET, the plastic used in most drink bottles and food packaging. The difference is in its chemistry. During synthesis, part of PET’s standard glycol content is replaced with a bulkier glycol comonomer, often referred to as CHDM. This change disrupts the polymer’s ability to crystallize, which makes PETG less brittle and easier to process than standard PET. It also gives the filament a more stable melt, smoother flow through the nozzle, and better bonding between layers. The result is a material that prints reliably, handles impact well, and works across a wide range of functional applications. Key PETG filament properties PETG’s glass transition temperature of around 80°C means it holds its shape in warm environments but cannot withstand high-heat applications. Its chemical and UV resistance are both moderate, so it works well outdoors and around mild solvents but not in aggressive chemical exposure. For parts that need stronger chemical resistance , nylon or polycarbonate may be a better fit. Prototyping PETG at a glance The table below provides a quick reference to the key material properties of PETG, with further information available on our PETG prototyping page . Property Value Ultimate tensile strength 25–50 MPa Young’s modulus 1.84–1.97 GPa Elongation at break 7.6–36% Glass transition temperature ~80°C Chemical resistance Moderate UV resistance Moderate Waterproof and hygroscopic nature Printed PETG parts are often used for water-resistant applications as PETG forms strong and well-bonded layers. Raw PETG filament, however, is hygroscopic, which means it absorbs moisture from the air. If the filament gets too wet before printing, that moisture can lead to bubbles, stringing, surface defects, and weaker extrusion. Dry storage, sealed containers, or a filament dryer can help to keep print quality consistent. PETG vs. PLA vs. ABS In FDM printing, PLA, PETG, and ABS are three of the main filament options engineers weigh against each other. PLA is known for easy printability, ABS for toughness and heat resistance, and PETG sits between them as a middle-ground material. Compared with PLA , PETG is usually tougher and more heat-resistant. Compared with ABS, it is generally easier to print and less prone to warping. Material UTS (MPa) Modulus (GPa) Elongation (%) Heat resistance Character PLA 47–65 2.35–2.7 2–8 Lower Easy to print, stiff and strong, but more brittle under impact PETG 25–50 1.84–1.97 7.6–36 Moderate Balanced, with better flexibility and impact resistance than PLA ABS 30–45 2.3 10–34 Higher Tough and heat-resistant, but more demanding to print Best print settings for PETG success PETG usually prints best with a nozzle temperature of 230-250°C and a bed temperature of 70-80°C. That range helps improve layer adhesion and supports a stable first layer. Beyond temperature, PETG also benefits from moderate print speeds, good cooling control, and a clean build surface. Because different brands behave a little differently, fine-tuning may still be needed. Troubleshooting common PETG issues PETG generally prints well, but some common issues may arise. The good news is that most of them are easy to fix once you are aware of what needs to be adjusted. Stringing: PETG tends to ooze more than PLA, so retraction settings often need adjustment. Lowering the nozzle temperature slightly can also help. Bed adhesion: PETG can either stick too little or too well, depending on the print surface. A glue stick can help with first-layer consistency, and on smooth PEI it can also act as a release layer so the part does not bond too aggressively to the bed. Moisture-related surface defects: Because PETG absorbs moisture from the air, a damp spool can lead to popping, bubbles, rough surfaces, and more stringing. Drying the filament before printing usually clears it up. Common applications for PETG filament PETG is often used for mechanical housings, protective enclosures, and outdoor components that need to handle impact and moderate weather exposure. It works well for parts that may be bumped, flexed, or exposed to changing temperatures, but do not require the higher heat resistance of ABS or engineering-grade materials. This makes it a good option for jigs, fixtures, guards, brackets, covers, and consumer-facing housings, particularly in industrial 3D printing applications where toughness and durability are key. For a broader look at plastic options, see the guide to plastics . Comparison of PETG subtypes PETG is available in a range of grades and formulations designed for different applications. Here are a few examples that show how the material can be tailored for clarity, sustainability, or more specialized performance. HD Glass: A high-clarity PETG variant for parts where transparency is important. ReFill: Made from recycled PETG for more sustainable production. PETG ESD : A static-dissipative version for electronics and other sensitive components. Carbon-fiber-filled PETG: Reinforced for added stiffness and dimensional stability in parts that need a more rigid feel. Post-processing and finishing PETG parts PETG can be sanded, drilled, and machined, which makes it a practical option for parts that require cleanup after printing. Sanding usually works best if you start with a coarser grit and work up to finer ones for a smoother surface. Light machining can also help when tighter tolerances are needed, although too much heat can soften the material. PETG resists most chemical smoothing methods, so manual finishing is usually the better option. In most cases, a professional finish comes from sanding, trimming, and light machining rather than solvent smoothing. For more on available options, see surface finishing services and how post-processing affects cost and lead time . Safety and environmental impact PETG is generally considered to be non-toxic in normal printing use, and it can be recycled in some systems, but keep in mind that not all facilities accept it. It is not biodegradable, so it still needs to be disposed of responsibly, especially at higher production volumes. PETG is a durable plastic with some recycling potential, but it is not a low-impact material. Reusing parts where possible, sorting material properly, and disposing of scraps through the right channels can all help reduce waste. Get started Ready to put PETG’s strengths to work in your next part? Upload your design for an instant FDM quote. Subscribe Get the latest manufacturing news delivered to your mailbox. Sign up for our newsletter Sign me up Please enter a valid email address. Leave this field empty Thanks! You're now subscribed to our newsletter. Frequently asked questions Is PETG stronger than PLA? PLA is stiffer and often has higher tensile strength, but PETG is usually tougher and better at handling impact. For more, see PLA vs. PETG . Is PETG filament food safe? PETG is often described as food safe at the material level, but that does not automatically make every printed part food safe. Surface texture, additives, and printer cleanliness all play a role. Can PETG handle outdoor use? Yes. PETG has moderate UV and chemical resistance, so it works well for many outdoor parts. It is still not the best choice for long-term exposure to harsh conditions though. Does PETG warp during printing? Not much compared with ABS. PETG usually prints with less warping, and a heated bed at 70-80°C is often enough to keep parts flat without an enclosure.",
+  "published_at": "",
+  "requested_url": "https://www.hubs.com/knowledge-base/petg-filament-for-3d-printing",
+  "schema_version": 2,
+  "sections": [
+    {
+      "hash": "808ca723538da34e2875328559920feb6411009b",
+      "heading": "What is PETG filament made of?",
+      "level": "h2",
+      "text": "What is PETG filament made of? PETG stands for polyethylene terephthalate glycol-modified. It belongs to the same polyester family as PET, the plastic used in most drink bottles and food packaging. The difference is in its chemistry. During synthesis, part of PET’s standard glycol content is replaced with a bulkier glycol comonomer, often referred to as CHDM. This change disrupts the polymer’s ability to crystallize, which makes PETG less brittle and easier to process than standard PET. It also gives the filament a more stable melt, smoother flow through the nozzle, and better bonding between layers. The result is a material that prints reliably, handles impact well, and works across a wide range of functional applications."
+    },
+    {
+      "hash": "29eff08d18480dfccafa713d80c40e1b6a9c0c5f",
+      "heading": "Key PETG filament properties",
+      "level": "h2",
+      "text": "Key PETG filament properties PETG’s glass transition temperature of around 80°C means it holds its shape in warm environments but cannot withstand high-heat applications. Its chemical and UV resistance are both moderate, so it works well outdoors and around mild solvents but not in aggressive chemical exposure. For parts that need stronger chemical resistance , nylon or polycarbonate may be a better fit."
+    },
+    {
+      "hash": "ba5475a468a8e498e2e5e60d7715d86ec586ed78",
+      "heading": "Prototyping PETG at a glance",
+      "level": "h3",
+      "text": "Prototyping PETG at a glance The table below provides a quick reference to the key material properties of PETG, with further information available on our PETG prototyping page ."
+    },
+    {
+      "hash": "19ed8c735f8e2aa973db8a16d1f7556d0a08de57",
+      "heading": "Waterproof and hygroscopic nature",
+      "level": "h3",
+      "text": "Waterproof and hygroscopic nature Printed PETG parts are often used for water-resistant applications as PETG forms strong and well-bonded layers. Raw PETG filament, however, is hygroscopic, which means it absorbs moisture from the air. If the filament gets too wet before printing, that moisture can lead to bubbles, stringing, surface defects, and weaker extrusion. Dry storage, sealed containers, or a filament dryer can help to keep print quality consistent."
+    },
+    {
+      "hash": "1be446b56b87f9c1afe9ad012250a9f6f9d6f72d",
+      "heading": "PETG vs. PLA vs. ABS",
+      "level": "h2",
+      "text": "PETG vs. PLA vs. ABS In FDM printing, PLA, PETG, and ABS are three of the main filament options engineers weigh against each other. PLA is known for easy printability, ABS for toughness and heat resistance, and PETG sits between them as a middle-ground material. Compared with PLA , PETG is usually tougher and more heat-resistant. Compared with ABS, it is generally easier to print and less prone to warping."
+    },
+    {
+      "hash": "132339409765c71b283d886948fab9e1a008532f",
+      "heading": "Best print settings for PETG success",
+      "level": "h2",
+      "text": "Best print settings for PETG success PETG usually prints best with a nozzle temperature of 230-250°C and a bed temperature of 70-80°C. That range helps improve layer adhesion and supports a stable first layer. Beyond temperature, PETG also benefits from moderate print speeds, good cooling control, and a clean build surface. Because different brands behave a little differently, fine-tuning may still be needed."
+    },
+    {
+      "hash": "e1ab92e5b7c7db5afdad3d7f23dd268474dde574",
+      "heading": "Troubleshooting common PETG issues",
+      "level": "h2",
+      "text": "Troubleshooting common PETG issues PETG generally prints well, but some common issues may arise. The good news is that most of them are easy to fix once you are aware of what needs to be adjusted. Stringing: PETG tends to ooze more than PLA, so retraction settings often need adjustment. Lowering the nozzle temperature slightly can also help. Bed adhesion: PETG can either stick too little or too well, depending on the print surface. A glue stick can help with first-layer consistency, and on smooth PEI it can also act as a release layer so the part does not bond too aggressively to the bed. Moisture-related surface defects: Because PETG absorbs moisture from the air, a damp spool can lead to popping, bubbles, rough surfaces, and more stringing. Drying the filament before printing usually clears it up."
+    },
+    {
+      "hash": "b02bbd089cbbb6214f390b8d9873ded8964ab227",
+      "heading": "Common applications for PETG filament",
+      "level": "h2",
+      "text": "Common applications for PETG filament PETG is often used for mechanical housings, protective enclosures, and outdoor components that need to handle impact and moderate weather exposure. It works well for parts that may be bumped, flexed, or exposed to changing temperatures, but do not require the higher heat resistance of ABS or engineering-grade materials. This makes it a good option for jigs, fixtures, guards, brackets, covers, and consumer-facing housings, particularly in industrial 3D printing applications where toughness and durability are key. For a broader look at plastic options, see the guide to plastics ."
+    },
+    {
+      "hash": "890fb956eff2eed5fe2be640aa4e9a1b70ebceb5",
+      "heading": "Comparison of PETG subtypes",
+      "level": "h2",
+      "text": "Comparison of PETG subtypes PETG is available in a range of grades and formulations designed for different applications. Here are a few examples that show how the material can be tailored for clarity, sustainability, or more specialized performance. HD Glass: A high-clarity PETG variant for parts where transparency is important. ReFill: Made from recycled PETG for more sustainable production. PETG ESD : A static-dissipative version for electronics and other sensitive components. Carbon-fiber-filled PETG: Reinforced for added stiffness and dimensional stability in parts that need a more rigid feel."
+    },
+    {
+      "hash": "647d5e7ea34f813af4ded8a1e93516fa62b41a43",
+      "heading": "Post-processing and finishing PETG parts",
+      "level": "h2",
+      "text": "Post-processing and finishing PETG parts PETG can be sanded, drilled, and machined, which makes it a practical option for parts that require cleanup after printing. Sanding usually works best if you start with a coarser grit and work up to finer ones for a smoother surface. Light machining can also help when tighter tolerances are needed, although too much heat can soften the material. PETG resists most chemical smoothing methods, so manual finishing is usually the better option. In most cases, a professional finish comes from sanding, trimming, and light machining rather than solvent smoothing. For more on available options, see surface finishing services and how post-processing affects cost and lead time ."
+    },
+    {
+      "hash": "3d21cee101b3dbfe276bdb322bc89f90d5f17807",
+      "heading": "Safety and environmental impact",
+      "level": "h2",
+      "text": "Safety and environmental impact PETG is generally considered to be non-toxic in normal printing use, and it can be recycled in some systems, but keep in mind that not all facilities accept it. It is not biodegradable, so it still needs to be disposed of responsibly, especially at higher production volumes. PETG is a durable plastic with some recycling potential, but it is not a low-impact material. Reusing parts where possible, sorting material properly, and disposing of scraps through the right channels can all help reduce waste."
+    },
+    {
+      "hash": "f2d29175aa8c7489b8ca13d8f47273f6d141ce75",
+      "heading": "Get started",
+      "level": "h2",
+      "text": "Get started Ready to put PETG’s strengths to work in your next part? Upload your design for an instant FDM quote."
+    },
+    {
+      "hash": "02842b08377539be654ab1179cf41e1d947c4424",
+      "heading": "Frequently asked questions",
+      "level": "h2",
+      "text": "Frequently asked questions Frequently asked questions"
+    },
+    {
+      "hash": "4cc8770a9bda697599b493130e6d8909832b7c92",
+      "heading": "Is PETG stronger than PLA?",
+      "level": "h3",
+      "text": "Is PETG stronger than PLA? PLA is stiffer and often has higher tensile strength, but PETG is usually tougher and better at handling impact. For more, see PLA vs. PETG ."
+    },
+    {
+      "hash": "ccca75b30f32e82e19497fe1ff89c1fa49ff4d76",
+      "heading": "Is PETG filament food safe?",
+      "level": "h3",
+      "text": "Is PETG filament food safe? PETG is often described as food safe at the material level, but that does not automatically make every printed part food safe. Surface texture, additives, and printer cleanliness all play a role."
+    },
+    {
+      "hash": "3f79de87e64370d5727c8871926d12e5ccf34477",
+      "heading": "Can PETG handle outdoor use?",
+      "level": "h3",
+      "text": "Can PETG handle outdoor use? Yes. PETG has moderate UV and chemical resistance, so it works well for many outdoor parts. It is still not the best choice for long-term exposure to harsh conditions though."
+    },
+    {
+      "hash": "7b566752cff8859f4aca04d95367e9d42c28f5b8",
+      "heading": "Does PETG warp during printing?",
+      "level": "h3",
+      "text": "Does PETG warp during printing? Not much compared with ABS. PETG usually prints with less warping, and a heated bed at 70-80°C is often enough to keep parts flat without an enclosure."
+    }
+  ],
+  "sitemap_lastmod": "2026-08-04T12:26:24+00:00",
+  "status": 200,
+  "structure_hash": "2b63ae78b30844c6f6432755d18880485fd7edc0",
+  "text_excerpt": "PETG is the Goldilocks of FDM (fused deposition modeling) filaments. A glycol-modified version of PET, it sits right between PLA's easy printability and ABS's toughness, combining strength, flexibility, and ease of use in a single spool. That's why engineers so often choose it for functional parts, enclosures, and prints that need to survive regular handling. This article covers PETG's chemistry, key properties, print settings, common applications, and post-processing considerations. What is PETG filament made of? PETG stands for polyethylene terephthalate glycol-modified. It belongs to the same polyester family as PET, the plastic used in most drink bottles and food packaging. The difference is in its chemistry. During synthesis, part of PET’s standard glycol content is replaced with a bulkier glycol comonomer, often referred to as CHDM. This change disrupts the polymer’s ability to crystallize, which makes PETG less brittle and easier to process than standard PET. It also gives the filament a more stable melt, smoother flow through the nozzle, and better bonding between layers. The result is a material that prints reliably, handles impact well, and works across a wide range of f...",
+  "text_hash": "66d825db36dc7b056393d2b41fcb10d104d9acff",
+  "title": "PETG 3D filament properties | Protolabs Network",
+  "url": "https://www.hubs.com/knowledge-base/petg-filament-for-3d-printing"
+}

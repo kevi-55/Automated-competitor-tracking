@@ -1,0 +1,362 @@
+{
+  "canonical": "https://www.protolabs.com/resources/guides-and-trend-reports/selecting-the-right-material-for-3d-printing",
+  "category": "content",
+  "competitor": "Protolabs",
+  "ctas": [],
+  "discovered_via": "sitemap",
+  "fetched_at": "2026-08-17T03:48:46+00:00",
+  "final_url": "https://www.protolabs.com/resources/guides-and-trend-reports/selecting-the-right-material-for-3d-printing",
+  "first_seen_at": "2026-08-17T03:48:46+00:00",
+  "h1": "A Guide to 3D Printing Materials",
+  "headings": [
+    {
+      "level": "h1",
+      "text": "A Guide to 3D Printing Materials"
+    },
+    {
+      "level": "h2",
+      "text": "We 3D-printed sample parts from each of our materials and performed mechanical testing to accurately compare the properties between all of our material options."
+    },
+    {
+      "level": "h2",
+      "text": "Material Advancements in 3D Printing"
+    },
+    {
+      "level": "h2",
+      "text": "Material Selection for 3D Printing"
+    },
+    {
+      "level": "h2",
+      "text": "3D Printing Materials: Definitions and Test Methods"
+    },
+    {
+      "level": "h2",
+      "text": "Direct Metal Laser Sintering (DMLS) Materials"
+    },
+    {
+      "level": "h3",
+      "text": "Stainless Steel: Material Properties Compared"
+    },
+    {
+      "level": "h3",
+      "text": "Aluminum: Material Properties Compared"
+    },
+    {
+      "level": "h3",
+      "text": "Inconel 718: Material Properties Compared"
+    },
+    {
+      "level": "h3",
+      "text": "Cobalt Chrome: Material Properties Compared"
+    },
+    {
+      "level": "h3",
+      "text": "Titanium: Material Properties Compared"
+    },
+    {
+      "level": "h2",
+      "text": "Stereolithography (SLA) Materials"
+    },
+    {
+      "level": "h3",
+      "text": "SLA Material Comparison Charts"
+    },
+    {
+      "level": "h2",
+      "text": "Selective Laser Sintering (SLS) & Multi Jet Fusion (MJF) Materials"
+    },
+    {
+      "level": "h3",
+      "text": "SLS & MJF Material Comparison Charts"
+    },
+    {
+      "level": "h2",
+      "text": "PolyJet (PJ) Materials"
+    },
+    {
+      "level": "h3",
+      "text": "PolyJet Materials Charts"
+    },
+    {
+      "level": "h3",
+      "text": "Conclusion"
+    }
+  ],
+  "images": [
+    {
+      "alt": "3D-printed parts",
+      "src": "/media/1022904/dmls-570-308.jpg?width=570&height=308&v=1d74264ecb581c0"
+    },
+    {
+      "alt": "metal 3D printed part",
+      "src": "/media/1022931/3dp-cta.jpg?width=573&height=398&v=1da05967053e2f0"
+    },
+    {
+      "alt": "Testing method 3D printing",
+      "src": "/media/1022905/testing-570-308.jpg?width=570&height=308&v=1d742668935f0b0"
+    },
+    {
+      "alt": "Stainless steel tensile chart",
+      "src": "/media/1022815/3dp-materials-web-update_01-stainless-ultimate-tensile-strength-ksi-900x400.png"
+    },
+    {
+      "alt": "",
+      "src": "/media/1022816/3dp-materials-web-update_03-stainless-compared-hardness-hrc-900x400.png"
+    },
+    {
+      "alt": "",
+      "src": "/media/1022817/3dp-materials-web-update_02-stainless-compared-elongation-_-900x400.png"
+    },
+    {
+      "alt": "",
+      "src": "/media/1022818/3dp-materials-web-update_04-stainless-compared-hardness-hrc-925x400.png"
+    },
+    {
+      "alt": "",
+      "src": "/media/1022849/dmls-aluminum-570-308.jpg?width=285&height=154&v=1d7410dfad592c0"
+    },
+    {
+      "alt": "Aluminum tensile strength",
+      "src": "/media/1022820/3dp-materials-web-update_05-aluminun-compared-uti-ksi-925x400.png"
+    },
+    {
+      "alt": "Aluminum hardness chart",
+      "src": "/media/1022822/3dp-materials-web-update_07-aluminum-compared-hardness-hrb-925x400.png"
+    },
+    {
+      "alt": "",
+      "src": "/media/1022823/3dp-materials-web-update_08-copper-compared-uti-ksi-925x400.png"
+    },
+    {
+      "alt": "",
+      "src": "/media/1022824/3dp-materials-web-update_10-copper-compared-hardness-hrb-925x400.png"
+    },
+    {
+      "alt": "",
+      "src": "/media/1022784/3dp-materials-570-308.jpg?width=285&height=154&v=1d740121fb0fa00"
+    },
+    {
+      "alt": "",
+      "src": "/media/1022826/3dp-materials-web-update_11-ultimate-tensile-strength-ksi-1-925x400.png"
+    },
+    {
+      "alt": "",
+      "src": "/media/1022827/3dp-materials-web-update_13-inconel-718-compared-hardness-hrc-925x400.png"
+    },
+    {
+      "alt": "",
+      "src": "/media/1022828/3dp-materials-web-update_12-inconel-718-compared-elongation_-925x400.png"
+    },
+    {
+      "alt": "",
+      "src": "/media/1022846/3dp-material-image-570x308-dmls-part-3-cobalt.png?width=285&height=154&v=1d740fe19149890"
+    },
+    {
+      "alt": "",
+      "src": "/media/1022829/3dp-materials-web-update_14-cobalt-chrome-compareds-uti-ksi-900x400.png"
+    },
+    {
+      "alt": "",
+      "src": "/media/1022831/3dp-materials-web-update_16-cobalt-chrome-compared-hardness-hrc-900x400.png"
+    },
+    {
+      "alt": "",
+      "src": "/media/1022830/3dp-materials-web-update_15-cobalt-chrome-compared-elongation-_-900x400.png"
+    },
+    {
+      "alt": "",
+      "src": "/media/1022850/dmls-titanium.jpg?width=285&height=154&v=1d7410f0c052e60"
+    },
+    {
+      "alt": "",
+      "src": "/media/1022832/3dp-materials-web-update_17-ultimate-tensile-strength-ksi-2-900x400.png"
+    },
+    {
+      "alt": "",
+      "src": "/media/1022833/3dp-materials-web-update_19-titanium-compared-hardness-hrc-900x400.png"
+    },
+    {
+      "alt": "",
+      "src": "/media/1022834/3dp-materials-web-update_18-titanium-compared-elongation-_-900x400.png"
+    },
+    {
+      "alt": "",
+      "src": "/media/1022902/3dp-material-image-570x308-sla-part-1-microfine-green.png?width=570&height=308&v=1d7425c8378b770"
+    },
+    {
+      "alt": "",
+      "src": "/media/1022835/3dp-materials-web-update_20-ultimate-tensile-strength-ksi-3-1075x550.png"
+    },
+    {
+      "alt": "",
+      "src": "/media/1022836/3dp-materials-web-update_22-elongation-_-940x550.png"
+    },
+    {
+      "alt": "",
+      "src": "/media/1022837/3dp-materials-web-update_21-tensile-modulus-ksi-975x550.png"
+    },
+    {
+      "alt": "",
+      "src": "/media/1022838/3dp-materials-web-update_23-heat-deflection-f.png"
+    },
+    {
+      "alt": "",
+      "src": "/media/1022903/3dp-material-image-570x308-sls-part-1-pa-1240_-gf-black.png?width=285&height=154&v=1d7425e661796e0"
+    },
+    {
+      "alt": "",
+      "src": "/media/1022839/3dp-materials-web-update_24-ultimate-tensile-strength-ksi-4-1000x670.png"
+    },
+    {
+      "alt": "",
+      "src": "/media/1022840/3dp-materials-web-update_26-elongation-_-975x675.png"
+    },
+    {
+      "alt": "",
+      "src": "/media/1022841/3dp-materials-web-update_25-ultimate-tensile-strength-5-975x675.png"
+    },
+    {
+      "alt": "",
+      "src": "/media/1022842/3dp-materials-web-update_27-heat-deflection-f-960x545.png"
+    },
+    {
+      "alt": "",
+      "src": "/media/1022847/3dp-material-image-570x308-polyjet-part-1.png?width=285&height=154&v=1d7410147bf96b0"
+    },
+    {
+      "alt": "",
+      "src": "/media/1022843/3dp-materials-web-update_28-tensile-strength-of-pj-materials-shore-a-925x625.png"
+    },
+    {
+      "alt": "",
+      "src": "/media/1022844/3dp-materials-web-update_29-elongation-at-break-vs-pj-durometer-900x545.png"
+    },
+    {
+      "alt": "3DP Materials",
+      "src": "/media/1023160/3dp_decision_graphic_2021_1.jpg?width=570&height=308&v=1da0596354923f0"
+    }
+  ],
+  "meta_description": "We 3D printed parts from each of our 3D printing materials (plastics and metals) and conducted mechanical testing. These are our results.",
+  "modified_at": "",
+  "monitored_text": "A Guide to 3D Printing Materials We 3D-printed sample parts from each of our materials and performed mechanical testing to accurately compare the properties between all of our material options. Content in this Article Material Advancements Material Selection Definitions and Test Methods Direct Metal Laser Sintering Stereolithography Selective Laser Sintering, Multi Jet Fusion PolyJet Materials must be well-suited for the application in order to achieve design goals. The properties of any material become increasingly important as a product progresses from concept and functional prototyping to production. However, material properties should only be evaluated in conjunction with the manufacturing process. It is the combination of the material and the process, inclusive of post-processing, that dictates the characteristics. For example, the same metal alloy shows different properties when die cast versus metal injection molded. Additive manufacturing (AM), or 3D printing , is unique to other manufacturing processes, therefore the characteristics of produced parts are different, even when using a nearly identical alloy or plastic. AM benefits from recent investment and R&D efforts dedicated to the creation of materials specifically designed for industrial-grade 3D printers. In terms of mechanical and physical properties, material selection hinges on the prioritization of design and desired quality requirements. The following information will aid in the characterization and selection of materials from six widely used industrial 3D printing processes: direct metal laser sintering (DMLS), stereolithography (SLA), selective laser sintering (SLS), Multi Jet Fusion (MJF), and PolyJet (PJ). Material Advancements in 3D Printing AM material advancements have pushed 3D printing uses beyond form and fit models and prototypes to functional parts for testing and ultimately end-use production. The customizable nature of 3D printing is perfect for low-volume, end-use parts such as wearables or even high performance aerospace components. And while the output of 3D printing is different from that of other manufacturing processes, it can offer a suitable alternative when seeking a direct replacement. However, experimentation may take time because of 3D printing’s differences that extend beyond, but are related to, material properties. For example, additive materials are still advancing to include rich sets of performance data that characterize materials over a range of conditions. In most cases, 3D printing users are presented with a single data sheet that contains a limited set of values. Those values are also likely to present a best case scenario based on testing of virgin material (unrecycled powders), for example. Another complication is that 3D printing produces anisotropic properties where the values differ for the X, Y, and Z axes. The degree of anisotropy varies with each additive technology—direct metal laser sintering is the closest to isotropic, for example—but it should always be a consideration. Direct metal laser sintering (DMLS) is one of six additive manufacturing processes available at Protolabs. Material suppliers rarely publish material specifications that document the change in properties from one axis to another, as the data behind these specifications can vary greatly by material, process, and even type of machine. By designing for the additive manufacturing (DfAM) process and adjusting the build orientation, anisotropism or inadequate material properties can be overcome. To do this, leverage the experiences from past projects or that of a qualified service organization to fill any gaps that arise because of limited material property data. Outlined in this guide, you will find AM material data that is based on internal testing of additive materials built and post-processed using our capabilities here at Protolabs. Of note, all of the figures contained in this document are approximate and dependent on a number of factors, including but not limited to, machine and process parameters. Therefore, the information provided is not binding and not deemed to be certified. When performance is critical, also consider independent lab testing of additive materials or final parts. While AM part success is dependent on material properties, they are not the only considerations. Each additive material and build process will also dictate characteristics such as dimensional accuracy, feature resolution, surface finish, production time, and part cost. So it is advised to select a suitable material and then evaluate its ability to meet expectations and requirements related to performance, cost, and quality. If you have any issues getting your guide, download here . 3D Printing Surface Finish Guide Download this quick guide that looks at all of your surface finish options across our various additive manufacturing technologies. United States of America Afghanistan Åland Islands Albania Algeria American Samoa Andorra Angola Anguilla Antarctica Antigua and Barbuda Argentina Armenia Aruba Australia Austria Azerbaijan Bahamas Bahrain Bangladesh Barbados Belarus Belgium Belize Benin Bermuda Bhutan Bolivia, Plurinational State of Bonaire, Sint Eustatius and Saba Bosnia and Herzegovina Botswana Bouvet Island Brazil British Indian Ocean Territory Brunei Darussalam Bulgaria Burkina Faso Burundi Cambodia Cameroon Canada Cape Verde Cayman Islands Central African Republic Chad Chile China Christmas Island Cocos (Keeling) Islands Colombia Comoros Congo Congo, the Democratic Republic of the Cook Islands Costa Rica Côte d'Ivoire Croatia Cuba Curaçao Cyprus Czech Republic Denmark Djibouti Dominica Dominican Republic Ecuador Egypt El Salvador Equatorial Guinea Eritrea Estonia Ethiopia Falkland Islands (Malvinas) Faroe Islands Fiji Finland France French Guiana French Polynesia French Southern Territories Gabon Gambia Georgia Germany Ghana Gibraltar Greece Greenland Grenada Guadeloupe Guam Guatemala Guernsey Guinea Guinea-Bissau Guyana Haiti Heard Island and McDonald Islands Holy See (Vatican City State) Honduras Hong Kong Hungary Iceland India Indonesia Iran, Islamic Republic of Iraq Ireland Isle of Man Israel Italy Jamaica Japan Jersey Jordan Kazakhstan Kenya Kiribati Korea, Democratic People's Republic of Korea, Republic of Kuwait Kyrgyzstan Lao People's Democratic Republic Latvia Lebanon Lesotho Liberia Libya Liechtenstein Lithuania Luxembourg Macao Macedonia, the Former Yugoslav Republic of Madagascar Malawi Malaysia Maldives Mali Malta Marshall Islands Martinique Mauritania Mauritius Mayotte Mexico Micronesia, Federated States of Moldova, Republic of Monaco Mongolia Montenegro Montserrat Morocco Mozambique Myanmar Namibia Nauru Nepal Netherlands New Caledonia New Zealand Nicaragua Niger Nigeria Niue Norfolk Island Northern Mariana Islands Norway Oman Pakistan Palau Palestine, State of Panama Papua New Guinea Paraguay Peru Philippines Pitcairn Poland Portugal Puerto Rico Qatar Réunion Romania Russian Federation Rwanda Saint Barthélemy Saint Helena, Ascension and Tristan da Cunha Saint Kitts and Nevis Saint Lucia Saint Martin (French part) Saint Pierre and Miquelon Saint Vincent and the Grenadines Samoa San Marino Sao Tome and Principe Saudi Arabia Senegal Serbia Seychelles Sierra Leone Singapore Sint Maarten (Dutch part) Slovakia Slovenia Solomon Islands Somalia South Africa South Georgia and the South Sandwich Islands South Sudan Spain Sri Lanka Sudan SuriName Svalbard and Jan Mayen Swaziland Sweden Switzerland Syrian Arab Republic Taiwan, Province of China Tajikistan Tanzania, United Republic of Thailand Timor-Leste Togo Tokelau Tonga Trinidad and Tobago Tunisia Turkey Turkmenistan Turks and Caicos Islands Tuvalu Uganda Ukraine United Arab Emirates United Kingdom United States Minor Outlying Islands Uruguay Uzbekistan Vanuatu Venezuela, Bolivarian Republic of Viet Nam Virgin Islands, British Virgin Islands, U.S. Wallis and Futuna Western Sahara Yemen Zambia Zimbabwe Download I agree to receive email messages containing service updates and Design Tips from Protolabs and its affiliates Material Selection for 3D Printing Since 3D printing is unique, a goal of finding a perfect match to a cast, molded, or machined material is ill-advised. Within this guide, you’ll see some charted comparisons to traditional manufacturing methods that are intended to help level set AM material expectations for certain mechanical or physical properties. Generally, one or two material properties distinguish an additive material from all others. Recognizing that a few properties will separate one material from the others, the recommended approach for selecting a material for 3D printing is to first define what mechanical or physical properties are key and identify critical-to-quality features. Then review the material and manufacturing options to find a fit based on your timeline and end-use goal. A variety of material properties are tested in 3D printing processes, including ultimate tensile strength, elongation, hardness, and more. 3D Printing Materials: Definitions and Test Methods Let’s take a minute to define some key terms you will see throughout this guide. Ultimate tensile strength (UTS) refers to the maximum stress the material can withstand before breaking. Tensile modulus , or elastic modulus, refers to the material stiffness. The higher the modulus, the stiffer the material. Elongation (%) refers to the ductility of the material. Think about stretching a material into a wire. A higher elongation % indicates a material is more likely to be able to stretch or elongate into a thin wire shape. Hardness is measured and reported in HRC or HRB on the Rockwell scale for metals within this guide. For polymers<dynamic-value> PJ, durometers are reported. The higher the number, the harder the material. Heat Deflection Temperature (HDT) , sometimes called heat distortion temperature, is the temperature at which deformation occurs when a rigid material is placed under a specific load. For the purposes of this guide, plastic 3D-printed materials were analyzed for heat deflection per ASTM D648 with the exception of TPU. Internal testing for TPU 70-A was performed per ASTM D412. HDT values were measured at 66 psi. ASTM D648 was leveraged to perform internal testing on 3D-printed samples off of our machines. 3D-printed samples were pulled at a rate of 10 mm/min. X-Y plane samples were manufactured in a flat position parallel to the build platform or within the powder bed. Z plane samples were manufactured in an upright position. All DMLS sample bars were manufactured and tested in the Z plane, normal to the build platform. Direct Metal Laser Sintering (DMLS) Materials DMLS uses pure metal powder forms to produce parts with properties that are generally accepted to be comparable to wrought metals when comparing them in the heat-treated condition. Because there is rapid melting and solidification of powder particles in a small, constantly moving spot, DMLS may yield differences in grain size and grain boundaries that affect material performance. Research is ongoing to characterize additively manufactured grain structures and impacts to parts, which will be altered with changes to support structures, laser parameters, layer thickness, and heat treatments like stress relief or hot isostatic pressing (HIP). Ultimately, grain structures can be advantageously manipulated to offer heightened mechanical properties in a DMLS part. Of the six additive manufacturing processes discussed in this guide, DMLS produces parts with material properties that approach an isotropic state, meaning similar properties independent from direction of measurement. Before we dive in, one item of note in the charts: NR indicates normal resolution, meaning parts were manufactured in 30 micron layers. If parts were built on the X Line 2000R machine, NR indicates that parts were built in 60 micron layers. HR indicates high resolution, meaning parts were manufactured in 20 micron layers. Comparing Workhorse Materials: 17-4 PH vs. 316L Stainless steel is a commonly used DMLS material, and it is available in two grades here at Protolabs: 17-4 PH and 316L. Select 17-4 PH (precipitation hardened) for its significantly higher tensile strength and yield strength, but recognize that it has less elongation at break than 316L, which means that 17-4 is less malleable than 316L. If you need a steel part with some flexibility, go with 316L. Both 17-4 PH and 316L are corrosion resistant options, but 316L is better at resisting acids. Note that 17-4 may be heat treated with a vacuum solution heat treatment and an H900 aging heat treatment to improve mechanical properties, while 316L is only offered in the stress-relieved state. As with all DMLS materials we offer, both of these stainless steels can be machined after they are printed. The order of heat treatments and any post-processing work may be interchanged on 17-4 parts depending on machining requirements. Note that DMLS 17-4 PH and 316L share comparable mechanical and physical properties to their non-AM wrought counterparts. Stainless Steel: Material Properties Compared Grade Heat Treatment Ultimate Tensile Strength Elongation Hardness 316L Annealed 74.7 ksi 60% 80 HRB DMLS NR 316L Stress Relieved 92 ksi 58% 94 HRB DMLS HR 316L Stress Relieved 89 ksi 55% 94 HRB Wrought 17-4 PH H900 210 ksi 7% 45 HRC DMLS NR 17-4 PH Heat Treated 198 ksi 13% 42 HRC DMLS HR 17-4 PH Heat Treated 199 ksi 10% 42 HRC Click to enlarge Click to enlarge Click to enlarge Click to enlarge Conductive Metal Options Aluminum AlSi10Mg is comparable to a 360.0F aluminum alloy that is used for die cast processes. AlSi10Mg has good strength-to-weight ratio, high temperature and corrosion resistance, and good fatigue, creep, and rupture strength. AlSi10Mg also exhibits thermal and electrical conductivity properties. Compared to die-cast aluminum, the properties for tensile strength are comparable. However, elongation at break is slightly higher when compared to the average for aluminum. At Protolabs, our internal testing shows that AlSi10Mg built in NR (30 micron layers) exhibits a higher HRB value when compared to high resolution AM or cast aluminum. Metal plating is another manufacturing modality to keep in mind. When prototyping parts that would normally be die cast or machined from aluminum, magnesium, or zinc, consider metal plating as an option. We offer a PC-like SLA resin that can be metal plated. The core material is a ceramic-like (Advanced High Temp) composite SLA material that exhibits strength, stiffness, and temperature resistance. After SLA parts are built, they are electroplated with a prescribed thickness of structural copper and nickel. To ensure dimensionality of the parts is maintained, software is used to adjust the SLA components prior to their manufacture to account for the targeted plating thickness. Metal-plated components can withstand high temperatures, abrasion, and highly corrosive environments. Aluminum: Material Properties Compared Grade Heat Treatment Ultimate Tensile Strength Hardness Die-Cast Aluminum (360.0-F) n/a 43.5 ksi 37 HRB DMLS NR AlSi10Mg Stress Relieved 50 ksi 59 HRB DMLS HR AlSi10Mg Stress Relieved 48 ksi 46 HRB Click to enlarge Click to enlarge Click to enlarge Click to enlarge Superalloys Inconel 718 is a nickel chromium superalloy used in a vast range of temperature applications (-423 degrees F-1,300 degrees F) such as high-heat aircraft engine components and low-temperature cryogenic applications. Its high-temperature strength is derived from its ability to create a thick, stable, passivating oxide layer at high temperatures. Inconel 718 also has good tensile, fatigue, creep, and rupture strength properties. When solution-treated and aged per AMS 5663, Inconel 718 exhibits higher tensile strength and increased hardness, coupled with a reduction in elongation %. Inconel 718 parts as large as 31.5 in. x 15.7 in. x 19.7 in. (800mm x 400mm x 500mm) in size can be manufactured here at Protolabs in 60 micron layers. Inconel 718: Material Properties Compared Grade Heat Treatment Ultimate Tensile Strength Hardness Elongation Wrought Inconel 718 n/a 160 ksi 36 HRC 25% DMLS NR (60 Microns) Inconel 718 Solution & Aged 201 ksi 45 HRC 19% DMLS NR (60 Microns) Inconel 718 Stress Relieved 139 ksi 27 HRC 40% DMLS NR Inconel 718 Solution & Aged 208 ksi 46 HRC 18% DMLS NR Inconel 718 Stress Relieved 144 ksi 30 HRC 39% DMLS HR Inconel 718 Stress Relieved 143 ksi 33 HRC 36% Click to enlarge Click to enlarge Click to enlarge A Superalloy for Specialty Applications Cobalt chrome (Co28Cr6Mo) is another DMLS superalloy that is used for specialty applications within the aerospace and medical industries because of its strength-to-weight ratio, creep, and corrosion resistance properties. DMLS Co28Cr6Mo, as defined by ASTM F75, hardness values are in line with wrought Co28Cr6Mo, but ultimate tensile strength and elongation are not as closely aligned. Note that if these DMLS Co28Cr6Mo samples received heat treatment, t his separation would not be as notable. Cobalt Chrome: Material Properties Compared Grade Heat Treatment Ultimate Tensile Strength Hardness Elongation Wrought Co28Cr6Mo n/a 242 ksi 39 HRC 27% DMLS NR Co28Cr6Mo As Built 176 ksi 38 HRC 14% DMLS HR Co28Cr6Mo As Built 182 ksi 39 HRC 17% Click to enlarge Click to enlarge Click to enlarge Strong as Steel, but Lightweight Titanium Ti6Al4V , similar to DMLS cobalt chrome, is most commonly used for aerospace and medical applications due to its strength-to-weight ratio, temperature resistance, and acid/corrosion resistance. Compared to wrought Ti6Al4V, the mechanical properties of vacuum stress relieved Ti6Al4V are similar to wrought titanium for tensile strength, elongation, and hardness. Titanium: Material Properties Compared Grade Heat Treatment Ultimate Tensile Strength Hardness Elongation Wrought Ti6Al4V n/a 149.5 ksi 35.3 HRC 12% DMLS NR Ti6Al4V Stress Relieved 144 ksi 33 HRC 18% DMLS HR Ti6Al4V Stress Relieved 153 ksi 15 HRC 15% Click to enlarge Click to enlarge Click to enlarge Stereolithography (SLA) Materials SLA materials are classified as photopolymers, thermoset resins cured with ultraviolet (UV) light. SLA offers the broadest selection of 3D-printable plastics with a large range of mechanical properties. Note that the impact strengths are generally much lower than those of common injection-molded thermoplastics. The range of SLA materials also offers options for color and various levels of opacity. Combined with quality surface finish and high feature resolution, SLA can produce parts that are comparable to injection molding in terms of performance and appearance. However, keep in mind that exposure to moisture and UV light may alter the appearance, size, and mechanical properties of SLA-printed parts over time. ABS-like Materials ABS-like White (Accura Xtreme White 200) and ABS-like Gray (Accura Xtreme Gray) are widely used general purpose SLA materials. In terms of flexibility and strength, these materials fall between molded polypropylene and molded ABS, which makes them a good choice for functional prototypes, such as a snap fit. Xtreme is a durable SLA material; it has a high impact strength and a high elongation at break (EB) with mid-range in strength and stiffness. If heat deflection is a critical design requirements, ABS-Like Gray offers the highest HDT of the ABS-like SLA resins. Of note, parts as large as 29 in. (736.6mm) x 25 in. (635mm) x 21 in. (533.4mm) can be built with ABS-Like White so consider it a primary option if you require an extensive build size envelope. ABS-like Black (RenShape SL7820) is another general purpose material option when black is the desired color. Its deep black color and glossy up-facing (during build orientation) surfaces offer the appearance of a molded part, while layer lines may be visible in a side profile. RenShape 7820 also has low moisture absorption (0.25% per ASTM D570) so that parts are more dimensionally stable. Compared to other SLA materials, it has mid-range values for mechanical properties. ABS-like Translucent/Clear (WaterShed XC 11122) offers a unique combination of low moisture absorption (0.35% per ASTM D570) and near-colorless transparency. Secondary operations are required to achieve functional part clarity. Parts will also retain a very light blue hue afterward. While good for general-purpose applications, WaterShed is the best choice for flow-visualization models, light pipes, and lenses. MicroFine™ is a custom material exclusive to Protolabs. MicroFine™ is a custom-formulated material available in gray and green that is exclusive to Protolabs. This ABS-like material is 3D-printed in our customized machinery to achieve high resolution features as small as 0.0025 in. (0.0635mm) MicroFine is ideal for small parts, generally less than 1 cubic inch. In terms of mechanical properties, MicroFine falls in the mid-range of SLA materials for tensile strength and modulus and on the low end for impact strength and elongation. Polypropylene-like Materials PP-like Translucent White (Somos 9120) is the best option of the SLA resins when polypropylene-like properties are needed. This material is the most flexible SLA option. Polycarbonate-like Materials PC-like Translucent/Clear (Accura 60) is an alternative to the general purpose ABS-like materials and WaterShed XC 11122 when stiffness or clarity are desired<dynamic-value> WaterShed, this material can be custom-finished to achieve functional transparency. Accura 60 has the highest tensile strength and elastic modulus outside of the Advanced High Temp material options that can be thermal-cured to increase mechanical properties. PC-like Advanced High Temp (Accura 5530) creates strong, stiff parts with high-temperature resistance values that exceed that of injection-molded polycarbonate. A thermal post-cure option can increase HDT as high as 482 degrees F (measured at 66 psi). However, the thermal curing process does make Accura 5530 less durable, resulting in a 50% reduction to elongation. Accura 5530 also has the highest tensile modulus of all the unfilled SLA materials, and it is known for being resistant to automotive fluids. Ceramic-like Advanced HighTemp (PerFORM) exhibits the highest tensile strength and tensile modulus making it the stiffest performance material of the SLA materials. When the thermal cure option is applied to parts made from PerFORM, it exhibits the highest HDT as high as 514 degrees F (measured at 66 psi) of the SLA materials and superior HDT when compared to similar injection-molded materials. SLA Material Comparison Charts Tensile Strength Elongation Tensile Modulus Heat Deflection Molded Polypropylene 4.7 ksi 100% 250 ksi 164 o F Molded ABS 6.6 ksi 30% 290 ksi 200 o F Molded Polycarbonate 8.6 ksi 75% 320 ksi 265 o F Ceramic-Like Advanced High Temp (PerFORM) 10.9 ksi 1% 1,523 ksi 514 o F PC-Like Advanced High Temp (Accura 5530) 6.5 ksi 1.5% 566 ksi 410 o F PC-Like Translucent/Clear (Accura 60) 10.8 ksi 7% 508 ksi 129 o F ABS-Like White (Accure Xtreme White 200) 7.9 ksi 9% 579 ksi 117 o F ABS-Like Black (RenShape SL7820) 7 ksi 5% 435 ksi 124 o F ABS-Like Translucent/Clear (WaterShed XC 111222) 7.9 ksi 6% 421 ksi 123 o F MicroFine TM (Gray and Green) 8.7 ksi 8% 377 ksi 138 o F ABS-Like Gray (Accura Xtreme Gray) 5.8 ksi 9% 290 ksi 144 o F PP-Like Translucent White (Somos 9120) 5 ksi 25% 232 ksi 142 o F Click to enlarge Click to enlarge Click to enlarge Click to enlarge Selective Laser Sintering (SLS) & Multi Jet Fusion (MJF) Materials Selective laser sintering and Multi Jet Fusion offer the most economical AM material choices. The SLS/MJF technologies use thermoplastic powder forms, predominantly polyamide (PA) , to make functional parts that have greater toughness and higher impact strengths compared to SLA parts. SLS/MJF materials also offer high HDTs ranging from 315 degrees F to 370 degrees F (measured at 66 psi). SLS/MJF parts are durable and able to withstand wear and abrasion for functional testing. They can produce parts with flexibility, such as living hinges or snap features. The density of SLS/MJF materials is close to that of traditionally manufactured parts. One added benefit of this technology is that no support structures are required when sintering and f using the parts. If large parts are needed, SLS parts as large as 19 in. (482.6mm) x 19 in. (482.6mm) x 17 in. (431.8mm) can be manufactured. SLS/MJF parts do lack in providing the surface finish and fine feature details available with SLA. However, when going head to head, MJF slightly outperforms SLS when it comes to manufacturing fine feature details. Generally, PAs, when compared to the average values of their injection-molded counterparts, have similar HDT values butlower mechanical properties. SLS/MJF material properties have a known degree of anisotropism when measured in the x-y plane or the z plane. Values reported in this guide account for both measurements. General Purpose Nylons PA 11 Black (PA 850) delivers ductility and flexibility without sacrificing tensile strength and temperature resistance. These characteristics make PA 850 a popular general-purpose material. Its EB is the highest of all AM nylons. Another factor that distinguishes PA 850 is its uniform, deep-black color. Black has high contrast, which makes features pop, and it hides dirt, grease, and grime. Black is also desirable for optical applications due to its low reflectivity. PA 12 White (PA 650) is another go-to material for general-purpose applications. PA 650 is the strongest of the unfilled nylon materials. It is stiffer than PA 850 with a slightly higher elastic modulus and has comparable tensile properties when measured in the x-y and z directions. While its EB is less than half that of PA 850, it’s still one of the top performers in terms of ductility among the SLS PA materials. PA 12 Black is a high tensile strength nylon manufactured using MJF. Final parts are dyed black, and they exhibit quality surface finishes and slightly more isotropic mechanical properties when compared to SLS. When more detail is required, this material can achieve smaller minimum feature resolution—0.02 in. (0.508mm)— as compared to SLS materials—0.03 in (0.762mm). PA 12 Black is the best material option for designs that incorporate living hinges. Filled Materials PA12 Mineral-Filled (PA620-MF) is a 25% mineral fiber-filled PA powder. The fiber content significantly increases stiffness and HDT. It is a good material option when stiffness and high temperature resistance are important requirements. Due to the sintering process, fiber origination effects (i.e. differing mechanical properties based on fiber alignment and orientation) that can occur in injection-molded parts are largely eliminated with printed parts that use sintering-filled materials. PA12 40% Glass-Filled is another PA powder loaded with glass spheres that make it stiff and dimensionally stable. This material is an ideal candidate for parts that require long-term wear resistance properties. Due to the glass additive, it has decreased impact and tensile strengths compared to other nylons. At 315 degrees F, this material has the lowest HDT of the AM nylons. PA 12 40% Glass-Filled Black is another option if you are looking to use a filled MJF material. The biggest advantage offered by this material is the heat deflection temperature of 248 degrees F (120 degrees C) when measured at 264 psi, ranking second best after PA 12 Mineral-Filled. Specialty Materials TPU 70-A is a thermoplastic polyurethane that combines rubber-like elasticity and elongation with good abrasion and impact resistance properties. The rubber-like quality of this material makes it ideal for seals, gaskets, grips, hoses, or any other application where excellent resistance under dynamic loading is required. This specialty material is the second-most flexible AM material at Protolabs behind the softest (Shore 30A) PJ material offered. Polypropylene Natural offers chemical resistance properties that are top among the SLS and MJF material offerings. This material is a true polypropylene, not a polypropylene-like material. This tough and durable, yet flexible, material offers resistance to most acids and is a low-weight material option. SLS & MJF Material Comparison Charts Tensile Strength Elongation Tensile Modulus Heat Deflection Molded PA 12 Unfilled 6 ksi 60% 200 ksi 284 o F Molded PA 12 30-40% Glass-Filled 19 ksi 3.5% 1,300 ksi 338 o F Molded PA 6 20% Mineral-Filled 10 ksi 8% 643 ksi 401 o F TPU 70-A X-Y Plane 0.29 ksi 250% 4.8 ksi n/a Z Plane 0.94 ksi 355% 5.9 ksi Polypropylene Natural X-Y Plane 2.2 ksi 7% 116 ksi n/a Z Plane 2.6 ksi 15% 123 ksi PA 12 40% Glass-Filled Black X-Y Plane 4.4 ksi 6.8% 508 ksi 347 o F Z Plane 4 ksi 8.5% 421 ksi PA 12 Black X-Y Plane 6.8 ksi 9% 276 ksi 347 o F Z Plane 7.1 ksi 21% 276 ksi PA 11 Black (PA 850) X-Y Plane 7.1 ksi 18% 261 ksi 370 o F Z Plane 7.5 ksi 30% 261 ksi PA 12 40% Glass-Filled (PA 614-GS) X-Y Plane 6.7 ksi 3% 522 ksi 315 o F Z Plane 7.3 ksi 5% 522 ksi PA 12 25% Mineral-Filled (PA 620-MF) X-Y Plane 4.6 ksi 2% 421 ksi 363 o F Z Plane 5.5 ksi 3% 450 ksi PA 12 White (PA 650) X-Y Plane 6.1 ksi 4% 276 ksi 351 o F Z Plane 7.3 ksi 11% 290 ksi Click to enlarge Click to enlarge Click to enlarge Click to enlarge PolyJet (PJ) Materials Digital photopolymer parts are achieved with the PolyJet (PJ) printing process. PJ materials are available in multiple Shore A hardnesses and colors: clear/translucent, white, and black. Parts can even be printed with two-tone coloring aesthetics and ranges of durometers. Digital photopolymers can be leveraged in a variety of 3D printing applications that incorporate flexible features. PJ materials are routinely used to prototype overmolded and liquid silicone rubber (LSR) parts such as: gaskets, seals, covers, and straps. While digital photopolymer does mimic some mechanical properties of LSR there are inherent differences that result in altered behavior. One fundamental difference of the materials is viscoelastic creep. Creep is a change in strain as a function of time while the stress remains constant. We tested injection-molded LSR samples against our PolyJet materials for viscoelastic creep at both 60A and 30A durometer. The PolyJet materials show a high initial value before quickly dropping below the specified hardness. LSR showed slight drift at the beginning of the test but quickly leveled out to a consistent value that was unaffected by time. It is worth understanding these material differences if you are leveraging digital photopolymer as an LSR prototype material. PolyJet Materials Charts Shore A Durometer Tensile Strength Tensile Tear Strength Elongation 30A 399 psi 85 psi 245% 40A 508 psi 100 psi 200% 50A 508 psi 114 psi 190% 60A 580 psi 121 psi 160% 70A 725 psi 185 psi 130% 80A 1,088 psi 341 psi 80% 95A 1,740 psi 398 psi 60% Click to enlarge Click to enlarge Conclusion Spanning metals, thermoplastics, and thermosets, AM or 3D printing provides many different materials that can simulate, if not replace, those that are processed through conventional means. While 1:1 material matches for conventionally manufactured materials and AM materials are not achievable given the processing differences, the wide range of AM material options, and advancing material options, is key. There is a strong likelihood that critical mechanical and physical properties will be satisfied by an existing AM material. With the support of an informed, qualified 3D printing resource that can fill in the data gaps, the door is opened for designers to leverage the unique advantages that 3D printing materials and technologies offer. Download Material Guide for 3D Printing Materials expand_less",
+  "published_at": "",
+  "requested_url": "https://www.protolabs.com/resources/guides-and-trend-reports/selecting-the-right-material-for-3d-printing",
+  "schema_version": 2,
+  "sections": [
+    {
+      "hash": "579fa59026d81c836a4acae514c86d4bd4d1269c",
+      "heading": "A Guide to 3D Printing Materials",
+      "level": "h1",
+      "text": "A Guide to 3D Printing Materials We 3D-printed sample parts from each of our materials and performed mechanical testing to accurately compare the properties between all of our material options."
+    },
+    {
+      "hash": "6ebb08a999b16eedf9b21f27ef27f3b406ca6b3b",
+      "heading": "We 3D-printed sample parts from each of our materials and performed mechanical testing to accurately compare the properties between all of our material options.",
+      "level": "h2",
+      "text": "We 3D-printed sample parts from each of our materials and performed mechanical testing to accurately compare the properties between all of our material options. We 3D-printed sample parts from each of our materials and performed mechanical testing to accurately compare the properties between all of our material options."
+    },
+    {
+      "hash": "309f8b5f5897bcdc268054d0953da52192d0dd8e",
+      "heading": "Material Advancements in 3D Printing",
+      "level": "h2",
+      "text": "Material Advancements in 3D Printing AM material advancements have pushed 3D printing uses beyond form and fit models and prototypes to functional parts for testing and ultimately end-use production. The customizable nature of 3D printing is perfect for low-volume, end-use parts such as wearables or even high performance aerospace components. And while the output of 3D printing is different from that of other manufacturing processes, it can offer a suitable alternative when seeking a direct replacement. However, experimentation may take time because of 3D printing’s differences that extend beyond, but are related to, material properties. For example, additive materials are still advancing to include rich sets of performance data that characterize materials over a range of conditions. In most cases, 3D printing users are presented with a single data sheet that contains a limited set of values. Those values are also likely to present a best case scenario based on testing of virgin material (unrecycled powders), for example. Another complication is that 3D printing produces anisotropic properties where the values differ for the X, Y, and Z axes. The degree of anisotropy varies with e..."
+    },
+    {
+      "hash": "36b401336f93aa1a96d314e155dc8917606d14d4",
+      "heading": "Material Selection for 3D Printing",
+      "level": "h2",
+      "text": "Material Selection for 3D Printing Since 3D printing is unique, a goal of finding a perfect match to a cast, molded, or machined material is ill-advised. Within this guide, you’ll see some charted comparisons to traditional manufacturing methods that are intended to help level set AM material expectations for certain mechanical or physical properties. Generally, one or two material properties distinguish an additive material from all others. Recognizing that a few properties will separate one material from the others, the recommended approach for selecting a material for 3D printing is to first define what mechanical or physical properties are key and identify critical-to-quality features. Then review the material and manufacturing options to find a fit based on your timeline and end-use goal. A variety of material properties are tested in 3D printing processes, including ultimate tensile strength, elongation, hardness, and more. 3D Printing Materials: Definitions and Test Methods Let’s take a minute to define some key terms you will see throughout this guide. Ultimate tensile strength (UTS) refers to the maximum stress the material can withstand before breaking. Tensile modulus ,..."
+    },
+    {
+      "hash": "f0cff859a1efc0f8a20ab93c7d75d529a5adeba0",
+      "heading": "3D Printing Materials: Definitions and Test Methods",
+      "level": "h2",
+      "text": "3D Printing Materials: Definitions and Test Methods Let’s take a minute to define some key terms you will see throughout this guide. Ultimate tensile strength (UTS) refers to the maximum stress the material can withstand before breaking. Tensile modulus , or elastic modulus, refers to the material stiffness. The higher the modulus, the stiffer the material. Elongation (%) refers to the ductility of the material. Think about stretching a material into a wire. A higher elongation % indicates a material is more likely to be able to stretch or elongate into a thin wire shape. Hardness is measured and reported in HRC or HRB on the Rockwell scale for metals within this guide. For polymers<dynamic-value> PJ, durometers are reported. The higher the number, the harder the material. Heat Deflection Temperature (HDT) , sometimes called heat distortion temperature, is the temperature at which deformation occurs when a rigid material is placed under a specific load. For the purposes of this guide, plastic 3D-printed materials were analyzed for heat deflection per ASTM D648 with the exception of TPU. Internal testing for TPU 70-A was performed per ASTM D412. HDT values were measured at 66 psi...."
+    },
+    {
+      "hash": "7255e0a9d091b0e4dff249673752b2ec4b20ada3",
+      "heading": "Direct Metal Laser Sintering (DMLS) Materials",
+      "level": "h2",
+      "text": "Direct Metal Laser Sintering (DMLS) Materials DMLS uses pure metal powder forms to produce parts with properties that are generally accepted to be comparable to wrought metals when comparing them in the heat-treated condition. Because there is rapid melting and solidification of powder particles in a small, constantly moving spot, DMLS may yield differences in grain size and grain boundaries that affect material performance. Research is ongoing to characterize additively manufactured grain structures and impacts to parts, which will be altered with changes to support structures, laser parameters, layer thickness, and heat treatments like stress relief or hot isostatic pressing (HIP). Ultimately, grain structures can be advantageously manipulated to offer heightened mechanical properties in a DMLS part. Of the six additive manufacturing processes discussed in this guide, DMLS produces parts with material properties that approach an isotropic state, meaning similar properties independent from direction of measurement. Before we dive in, one item of note in the charts: NR indicates normal resolution, meaning parts were manufactured in 30 micron layers. If parts were built on the X Li..."
+    },
+    {
+      "hash": "5824d8fdba52b782abb84750f2e0235b98ae87f9",
+      "heading": "Stainless Steel: Material Properties Compared",
+      "level": "h3",
+      "text": "Stainless Steel: Material Properties Compared Grade Heat Treatment Ultimate Tensile Strength Elongation Hardness 316L Annealed 74.7 ksi 60% 80 HRB DMLS NR 316L Stress Relieved 92 ksi 58% 94 HRB DMLS HR 316L Stress Relieved 89 ksi 55% 94 HRB Wrought 17-4 PH H900 210 ksi 7% 45 HRC DMLS NR 17-4 PH Heat Treated 198 ksi 13% 42 HRC DMLS HR 17-4 PH Heat Treated 199 ksi 10% 42 HRC"
+    },
+    {
+      "hash": "5bb41504d68bd4c823718c813368cc0a1a7abfe5",
+      "heading": "Aluminum: Material Properties Compared",
+      "level": "h3",
+      "text": "Aluminum: Material Properties Compared Grade Heat Treatment Ultimate Tensile Strength Hardness Die-Cast Aluminum (360.0-F) n/a 43.5 ksi 37 HRB DMLS NR AlSi10Mg Stress Relieved 50 ksi 59 HRB DMLS HR AlSi10Mg Stress Relieved 48 ksi 46 HRB"
+    },
+    {
+      "hash": "89a0118a876d84a3a12363194bc0e1bfd312f2f4",
+      "heading": "Inconel 718: Material Properties Compared",
+      "level": "h3",
+      "text": "Inconel 718: Material Properties Compared Grade Heat Treatment Ultimate Tensile Strength Hardness Elongation Wrought Inconel 718 n/a 160 ksi 36 HRC 25% DMLS NR (60 Microns) Inconel 718 Solution & Aged 201 ksi 45 HRC 19% DMLS NR (60 Microns) Inconel 718 Stress Relieved 139 ksi 27 HRC 40% DMLS NR Inconel 718 Solution & Aged 208 ksi 46 HRC 18% DMLS NR Inconel 718 Stress Relieved 144 ksi 30 HRC 39% DMLS HR Inconel 718 Stress Relieved 143 ksi 33 HRC 36%"
+    },
+    {
+      "hash": "9bb573802dd816500ec9ad05fb1261752af45936",
+      "heading": "Cobalt Chrome: Material Properties Compared",
+      "level": "h3",
+      "text": "Cobalt Chrome: Material Properties Compared Grade Heat Treatment Ultimate Tensile Strength Hardness Elongation Wrought Co28Cr6Mo n/a 242 ksi 39 HRC 27% DMLS NR Co28Cr6Mo As Built 176 ksi 38 HRC 14% DMLS HR Co28Cr6Mo As Built 182 ksi 39 HRC 17%"
+    },
+    {
+      "hash": "d5db02e404881608955f65bdf1d819d19c8898e0",
+      "heading": "Titanium: Material Properties Compared",
+      "level": "h3",
+      "text": "Titanium: Material Properties Compared Grade Heat Treatment Ultimate Tensile Strength Hardness Elongation Wrought Ti6Al4V n/a 149.5 ksi 35.3 HRC 12% DMLS NR Ti6Al4V Stress Relieved 144 ksi 33 HRC 18% DMLS HR Ti6Al4V Stress Relieved 153 ksi 15 HRC 15%"
+    },
+    {
+      "hash": "acb70b4f4326bcc406bf070c3267428d8f4acf73",
+      "heading": "Stereolithography (SLA) Materials",
+      "level": "h2",
+      "text": "Stereolithography (SLA) Materials SLA materials are classified as photopolymers, thermoset resins cured with ultraviolet (UV) light. SLA offers the broadest selection of 3D-printable plastics with a large range of mechanical properties. Note that the impact strengths are generally much lower than those of common injection-molded thermoplastics. The range of SLA materials also offers options for color and various levels of opacity. Combined with quality surface finish and high feature resolution, SLA can produce parts that are comparable to injection molding in terms of performance and appearance. However, keep in mind that exposure to moisture and UV light may alter the appearance, size, and mechanical properties of SLA-printed parts over time. ABS-like Materials ABS-like White (Accura Xtreme White 200) and ABS-like Gray (Accura Xtreme Gray) are widely used general purpose SLA materials. In terms of flexibility and strength, these materials fall between molded polypropylene and molded ABS, which makes them a good choice for functional prototypes, such as a snap fit. Xtreme is a durable SLA material; it has a high impact strength and a high elongation at break (EB) with mid-range i..."
+    },
+    {
+      "hash": "64d53a4dd6e1135471faabe1e08c1296dc3e27f1",
+      "heading": "SLA Material Comparison Charts",
+      "level": "h3",
+      "text": "SLA Material Comparison Charts Tensile Strength Elongation Tensile Modulus Heat Deflection Molded Polypropylene 4.7 ksi 100% 250 ksi 164 o F Molded ABS 6.6 ksi 30% 290 ksi 200 o F Molded Polycarbonate 8.6 ksi 75% 320 ksi 265 o F Ceramic-Like Advanced High Temp (PerFORM) 10.9 ksi 1% 1,523 ksi 514 o F PC-Like Advanced High Temp (Accura 5530) 6.5 ksi 1.5% 566 ksi 410 o F PC-Like Translucent/Clear (Accura 60) 10.8 ksi 7% 508 ksi 129 o F ABS-Like White (Accure Xtreme White 200) 7.9 ksi 9% 579 ksi 117 o F ABS-Like Black (RenShape SL7820) 7 ksi 5% 435 ksi 124 o F ABS-Like Translucent/Clear (WaterShed XC 111222) 7.9 ksi 6% 421 ksi 123 o F MicroFine TM (Gray and Green) 8.7 ksi 8% 377 ksi 138 o F ABS-Like Gray (Accura Xtreme Gray) 5.8 ksi 9% 290 ksi 144 o F PP-Like Translucent White (Somos 9120) 5 ksi 25% 232 ksi 142 o F"
+    },
+    {
+      "hash": "775013d929c04d5e24dfc7815c9c1d61a14683a6",
+      "heading": "Selective Laser Sintering (SLS) & Multi Jet Fusion (MJF) Materials",
+      "level": "h2",
+      "text": "Selective Laser Sintering (SLS) & Multi Jet Fusion (MJF) Materials Selective laser sintering and Multi Jet Fusion offer the most economical AM material choices. The SLS/MJF technologies use thermoplastic powder forms, predominantly polyamide (PA) , to make functional parts that have greater toughness and higher impact strengths compared to SLA parts. SLS/MJF materials also offer high HDTs ranging from 315 degrees F to 370 degrees F (measured at 66 psi). SLS/MJF parts are durable and able to withstand wear and abrasion for functional testing. They can produce parts with flexibility, such as living hinges or snap features. The density of SLS/MJF materials is close to that of traditionally manufactured parts. One added benefit of this technology is that no support structures are required when sintering and f using the parts. If large parts are needed, SLS parts as large as 19 in. (482.6mm) x 19 in. (482.6mm) x 17 in. (431.8mm) can be manufactured. SLS/MJF parts do lack in providing the surface finish and fine feature details available with SLA. However, when going head to head, MJF slightly outperforms SLS when it comes to manufacturing fine feature details. Generally, PAs, when comp..."
+    },
+    {
+      "hash": "c29dc9d8e72dd8e0ca815c9853a814f7d64411de",
+      "heading": "SLS & MJF Material Comparison Charts",
+      "level": "h3",
+      "text": "SLS & MJF Material Comparison Charts Tensile Strength Elongation Tensile Modulus Heat Deflection Molded PA 12 Unfilled 6 ksi 60% 200 ksi 284 o F Molded PA 12 30-40% Glass-Filled 19 ksi 3.5% 1,300 ksi 338 o F Molded PA 6 20% Mineral-Filled 10 ksi 8% 643 ksi 401 o F TPU 70-A X-Y Plane 0.29 ksi 250% 4.8 ksi n/a Z Plane 0.94 ksi 355% 5.9 ksi Polypropylene Natural X-Y Plane 2.2 ksi 7% 116 ksi n/a Z Plane 2.6 ksi 15% 123 ksi PA 12 40% Glass-Filled Black X-Y Plane 4.4 ksi 6.8% 508 ksi 347 o F Z Plane 4 ksi 8.5% 421 ksi PA 12 Black X-Y Plane 6.8 ksi 9% 276 ksi 347 o F Z Plane 7.1 ksi 21% 276 ksi PA 11 Black (PA 850) X-Y Plane 7.1 ksi 18% 261 ksi 370 o F Z Plane 7.5 ksi 30% 261 ksi PA 12 40% Glass-Filled (PA 614-GS) X-Y Plane 6.7 ksi 3% 522 ksi 315 o F Z Plane 7.3 ksi 5% 522 ksi PA 12 25% Mineral-Filled (PA 620-MF) X-Y Plane 4.6 ksi 2% 421 ksi 363 o F Z Plane 5.5 ksi 3% 450 ksi PA 12 White (PA 650) X-Y Plane 6.1 ksi 4% 276 ksi 351 o F Z Plane 7.3 ksi 11% 290 ksi"
+    },
+    {
+      "hash": "e838f8ec660804c9185ffb0d66710cf67dc659a9",
+      "heading": "PolyJet (PJ) Materials",
+      "level": "h2",
+      "text": "PolyJet (PJ) Materials Digital photopolymer parts are achieved with the PolyJet (PJ) printing process. PJ materials are available in multiple Shore A hardnesses and colors: clear/translucent, white, and black. Parts can even be printed with two-tone coloring aesthetics and ranges of durometers. Digital photopolymers can be leveraged in a variety of 3D printing applications that incorporate flexible features. PJ materials are routinely used to prototype overmolded and liquid silicone rubber (LSR) parts such as: gaskets, seals, covers, and straps. While digital photopolymer does mimic some mechanical properties of LSR there are inherent differences that result in altered behavior. One fundamental difference of the materials is viscoelastic creep. Creep is a change in strain as a function of time while the stress remains constant. We tested injection-molded LSR samples against our PolyJet materials for viscoelastic creep at both 60A and 30A durometer. The PolyJet materials show a high initial value before quickly dropping below the specified hardness. LSR showed slight drift at the beginning of the test but quickly leveled out to a consistent value that was unaffected by time. It is..."
+    },
+    {
+      "hash": "9853f09bcdd6641d257a65a9465b49384d1930b5",
+      "heading": "PolyJet Materials Charts",
+      "level": "h3",
+      "text": "PolyJet Materials Charts Shore A Durometer Tensile Strength Tensile Tear Strength Elongation 30A 399 psi 85 psi 245% 40A 508 psi 100 psi 200% 50A 508 psi 114 psi 190% 60A 580 psi 121 psi 160% 70A 725 psi 185 psi 130% 80A 1,088 psi 341 psi 80% 95A 1,740 psi 398 psi 60%"
+    },
+    {
+      "hash": "cbb2bb4a18e4a9781ec7d5e61b41f2696b47e7fc",
+      "heading": "Conclusion",
+      "level": "h3",
+      "text": "Conclusion Spanning metals, thermoplastics, and thermosets, AM or 3D printing provides many different materials that can simulate, if not replace, those that are processed through conventional means. While 1:1 material matches for conventionally manufactured materials and AM materials are not achievable given the processing differences, the wide range of AM material options, and advancing material options, is key. There is a strong likelihood that critical mechanical and physical properties will be satisfied by an existing AM material. With the support of an informed, qualified 3D printing resource that can fill in the data gaps, the door is opened for designers to leverage the unique advantages that 3D printing materials and technologies offer."
+    }
+  ],
+  "sitemap_lastmod": "2026-05-13T13:44:00+00:00",
+  "status": 200,
+  "structure_hash": "c032fe0103d3fa09ae95960c109f5c9141299da7",
+  "text_excerpt": "A Guide to 3D Printing Materials We 3D-printed sample parts from each of our materials and performed mechanical testing to accurately compare the properties between all of our material options. Content in this Article Material Advancements Material Selection Definitions and Test Methods Direct Metal Laser Sintering Stereolithography Selective Laser Sintering, Multi Jet Fusion PolyJet Materials must be well-suited for the application in order to achieve design goals. The properties of any material become increasingly important as a product progresses from concept and functional prototyping to production. However, material properties should only be evaluated in conjunction with the manufacturing process. It is the combination of the material and the process, inclusive of post-processing, that dictates the characteristics. For example, the same metal alloy shows different properties when die cast versus metal injection molded. Additive manufacturing (AM), or 3D printing , is unique to other manufacturing processes, therefore the characteristics of produced parts are different, even when using a nearly identical alloy or plastic. AM benefits from recent investment and R&D efforts dedi...",
+  "text_hash": "d27af6995d3734573e0ea457a1e7c4727602bc38",
+  "title": "3D Printing Materials Guide",
+  "url": "https://www.protolabs.com/resources/guides-and-trend-reports/selecting-the-right-material-for-3d-printing"
+}

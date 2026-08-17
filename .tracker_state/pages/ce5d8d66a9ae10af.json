@@ -1,0 +1,197 @@
+{
+  "canonical": "https://www.hubs.com/knowledge-base/dfm-tips-for-3d-printed-parts-with-thin-walls",
+  "category": "content",
+  "competitor": "Hubs",
+  "ctas": [
+    {
+      "href": "https://www.hubs.com/manufacture?technology=3d-printing&process=sls",
+      "text": "Upload your design"
+    }
+  ],
+  "discovered_via": "sitemap",
+  "fetched_at": "2026-08-17T03:42:33+00:00",
+  "final_url": "https://www.hubs.com/knowledge-base/dfm-tips-for-3d-printed-parts-with-thin-walls",
+  "first_seen_at": "2026-08-17T03:42:33+00:00",
+  "h1": "",
+  "headings": [
+    {
+      "level": "h2",
+      "text": "Why thin walls are challenging in 3D printing"
+    },
+    {
+      "level": "h2",
+      "text": "Minimum wall thickness by 3D printing process"
+    },
+    {
+      "level": "h2",
+      "text": "Material considerations for thin walls"
+    },
+    {
+      "level": "h2",
+      "text": "Build orientation guidelines"
+    },
+    {
+      "level": "h2",
+      "text": "Optimizing for part strength"
+    },
+    {
+      "level": "h2",
+      "text": "Holes, slots, and feature spacing near thin walls"
+    },
+    {
+      "level": "h2",
+      "text": "Supports, vents, and drain paths"
+    },
+    {
+      "level": "h2",
+      "text": "Tolerances and surface finish on thin sections"
+    },
+    {
+      "level": "h2",
+      "text": "Quick checklist for designing thin walls"
+    },
+    {
+      "level": "h2",
+      "text": "Where to learn more"
+    },
+    {
+      "level": "h2",
+      "text": "Get started"
+    },
+    {
+      "level": "h2",
+      "text": "Frequently asked questions"
+    },
+    {
+      "level": "h3",
+      "text": "What’s the thinnest wall I can print?"
+    },
+    {
+      "level": "h3",
+      "text": "Can I post-process thin walls without damaging them?"
+    },
+    {
+      "level": "h3",
+      "text": "Do thin walls always need supports?"
+    }
+  ],
+  "images": [
+    {
+      "alt": "Selecting the optimal shell and infill parameters for FDM 3D Printing",
+      "src": "/images/trans.gif"
+    },
+    {
+      "alt": "FDM prints with different infill density",
+      "src": "/images/trans.gif"
+    },
+    {
+      "alt": "CNC machining, 3D printing and sheet metal fabrication parts",
+      "src": "/images/trans.gif"
+    }
+  ],
+  "meta_description": "Learn minimum wall thickness requirements for FDM, SLA, MJF and SLS 3D printing. Discover design tips to strengthen thin-walled parts and avoid common failures.",
+  "modified_at": "",
+  "monitored_text": "Thin walls are often the first feature to fail. Use these guidelines to hit minimum thickness targets for your 3D printing process. Thin walls are everywhere in product design. They reduce weight, save material, and let you pack more functionality into less space. But when it comes to 3D printing , thin features test the limits of what each process can reliably produce. A wall that's too thin might not print at all. Or worse, it'll print but crack under normal handling. Minimum wall thickness varies by technology, and meeting it means considering material choice, orientation, and support strategy. This guide covers the design considerations for thin-walled parts across FDM , SLA , SLS , MJF , and other common processes. Why thin walls are challenging in 3D printing 3D printing builds parts layer by layer, which introduces some specific challenges when you're designing thin walls. These features have less material to distribute stress and are especially vulnerable at the layer interfaces. As each layer heats and cools, thin sections are more likely to warp, crack, or delaminate. The risks vary depending on which 3D printing process you choose. FDM deposits molten plastic through a nozzle, so wall thickness depends on nozzle diameter and how well passes fuse together. SLA cures liquid resin with a laser, creating smooth surfaces but potentially brittle thin sections. Powder-bed processes like SLS and MJF don’t need supports, but thin walls can still warp or soften from heat buildup, especially if the orientation isn’t ideal. DMLS (offered through Protolabs Europe ) builds metal parts with intense localized heat. Thin walls in metal prints can warp due to thermal stress if not carefully supported and controlled. No matter the process, our DFM (Design for Manufacturability) tool catches all thin-wall risks right when you upload your CAD, so you can make changes before production starts. Minimum wall thickness by 3D printing process Each printing technology has its own practical limits for how thin you can go. Process Min wall (supported / free) Min feature size Layer thickness Dimensional accuracy Surface finish Warping risk Notes FDM 0.8 / 0.8 mm 2.0 mm 100–300 μm ±0.1–0.2 mm Layer lines visible High Budget-friendly, fast SLA 0.5 / 1.0 mm 0.2 mm 50–100 μm May shrink post-cure Smooth Low–moderate Best for details SLS 0.8 / 1.0 mm 0.5 mm 100 μm ±0.3 mm Matte, grainy Low Self-supporting MJF 0.7 / 1.0 mm 0.5 mm 80 μm ±0.3 mm Clean, detailed Low High repeatability DMLS 0.4–0.8 / 0.8–1.5 mm — — Geometry-dependent Rough High Metal; thermal stress These are general guidelines. Your actual limits depend on part geometry, material choice, and post-processing. A 0.5 mm wall might work fine in a small, protected area but fail in a large, unsupported span. Material considerations for thin walls Not all materials handle thin walls equally well. Some materials can tolerate thin sections without issue, while others become prone to failure when pushed too far. Stress response: Materials that flex under stress (like nylon and TPU ) handle thin walls better than rigid materials ( ABS , PLA , standard resins ) that crack under stress. If your part needs to bend or absorb impact, choose a flexible or tough material. Printability at thin dimensions: Nylon and resins generally print cleanly at minimum wall thickness. TPU can be challenging due to stringing and poor layer adhesion at very thin sections. ABS and PLA print reliably but become brittle, so careful orientation is critical. Stiffness vs. brittleness tradeoff: Filled materials (carbon/glass fiber) and polycarbonate offer high stiffness but crack more easily in thin sections. If you need stiffness, reinforce thin walls with ribs rather than relying on material properties alone. Material / Family Thin wall performance Best use case Watch out for Nylon (PA12/PA11) Excellent, tough and slightly flexible Functional parts under stress or impact May flex more than stiffer materials TPU Good, absorbs stress without cracking Parts needing flexibility or shock absorption Harder to print cleanly at very thin sections PLA , ABS Fair, prints reliably but brittle Budget prototypes or low-stress parts Cracks easily; avoid sharp corners and impacts Standard SLA resin Good, fine detail, smooth finish Cosmetic parts or detailed prototypes Brittle unless using tough resin variants Filled materials Poor, notch-sensitive Structural parts where you can add ribs Very prone to cracking at thin sections Polycarbonate Fair, strong but warp-prone High-temp or high-strength applications Requires thermal control; cracks if stressed Build orientation guidelines How you design the orientation of your part has a big effect on thin wall strength and print reliability. Orient for layer strength: Align thin walls so the main loads run within the layer plane (XY) and avoid loading them in Z, where interlayer strength is lowest. Warping: In FDM , reduce warping by breaking up large flat areas and avoiding sharp corners. In SLA , tilting can reduce peel forces, but it may increase supports, so weigh peel reduction against support marks. Supports: Avoid overhangs where possible. In FDM and SLA , use 45° angles or minimal contact supports. In SLS and MJF , the powder provides natural support. Optimizing for part strength Thin walls don’t have to mean fragile parts. With the right reinforcement strategies, you can keep designs lightweight while improving strength and durability. Add ribs: Reinforce long, thin walls with perpendicular ribs. Keep rib thickness to 50–75% of the wall and space them to support the span. Use fillets: Round internal corners (≥0.5 mm radius) to reduce cracking caused by stress concentrations. Try lattices: Use lattice or honeycomb structures to reinforce large thin-walled areas. They spread load efficiently and are a great fit for SLS and MJF . In SLA , they can work too, but watch for supports and trapped resin. For more reinforcement techniques, check out our design for 3D printing guidelines Holes, slots, and feature spacing near thin walls Cutting into thin walls weakens them. Every hole removes material that would otherwise carry stress. Here's how to keep your parts structurally sound: Spacing rule: Keep 1.5–2× the wall thickness between holes, or between a hole and the edge. Any tighter and you risk tearing. Avoid small holes (<1–2 mm) if possible: They're problematic across all processes. In FDM , they may close up or need hard-to-remove supports. In SLA , they often fail to print. In SLS or MJF , powder gets trapped. Use larger holes or slots instead. Use slots over circles: Slots print more reliably, especially when the long axis runs parallel to the build layers. Round your corners: Sharp corners in cutouts concentrate stress and cause cracks. Use fillets if your part will flex or face repeated loads. For more guidance on FDM design, check out our how to design parts for FDM 3D printing guide. Supports, vents, and drain paths Thin walls are vulnerable during part removal. Here's how to design for clean results. Minimize supports: In FDM and SLA , thin overhangs often need support, but they’re difficult to remove cleanly. Use self-supporting angles (≤45°), and choose tree or minimal-contact supports where needed. Add drain and vent holes: In SLA and other resin processes, hollow parts need drain holes at the lowest point and vent holes at the highest to release uncured resin and air. Plan powder escape in powder-bed processes: In SLS and MJF , you don’t need supports, but hollow parts still need escape holes (and a clear path) so trapped powder can be removed. Tolerances and surface finish on thin sections Thin walls are more sensitive to dimensional variation. In some cases, surface finishes can help strengthen thin walls by smoothing transitions and distributing stress. In others, aggressive post-processing can thin or weaken them further. Test before scaling: Thin walls under 1 mm can vary dimensionally. Order or print a sample, measure it, then adjust your design if needed. Surface treatments can help—or hurt: Smoothing, polishing, or chemical finishes can reduce stress concentrations, but aggressive sanding or vapor smoothing can thin fragile walls even further. Explore our surface finishing services to choose the right post-processing method for your parts. Match finish to geometry: Smooth finishes (like in SLA ) are ideal for thin, cosmetic parts. Powder-based processes may need tumbling or coating to improve strength or aesthetics. For more process-specific tips, visit the 3D printing knowledge base . Quick checklist for designing thin walls Before you send a thin-walled part to print, check the following: Confirm minimum wall thickness for your process and material Avoid long unsupported spans and sharp corners Add ribs or fillets to stiffen walls Orient to reduce layer stress and warping Plan supports and removal strategy early Test critical features with a small prototype first Our DFM analysis tool flags thin wall issues when you upload, alerting you to features that may fail. Review the feedback and adjust your design before ordering. Where to learn more For additional guidance on designing parts for 3D printing, check out the following resources. 3D printing guide 3D printing knowledge base Design for 3D printing How to design parts for FDM 3D printing Get started Ready to move forward with a design that’s both lightweight and high performing? Upload your design for a free, instant quote. Subscribe Get the latest manufacturing news delivered to your mailbox. Sign up for our newsletter Sign me up Please enter a valid email address. Leave this field empty Thanks! You're now subscribed to our newsletter. Frequently asked questions What’s the thinnest wall I can print? It depends on the process. For example, SLA can go as low as 0.5 mm (supported), while FDM needs around 0.8 mm. Can I post-process thin walls without damaging them? Yes, but be careful. Finishing steps like polishing or vapor smoothing can remove material and weaken already-thin sections. Consider gentler finishes for delicate parts. Check our surface finishing services for specifics. Do thin walls always need supports? Not always. In powder-bed processes like SLS and MJF , the powder acts as its own support. In FDM or SLA , careful orientation can reduce or eliminate the need for supports.",
+  "published_at": "",
+  "requested_url": "https://www.hubs.com/knowledge-base/dfm-tips-for-3d-printed-parts-with-thin-walls",
+  "schema_version": 2,
+  "sections": [
+    {
+      "hash": "516559d51de5233efd864af717bfa920a0261856",
+      "heading": "Why thin walls are challenging in 3D printing",
+      "level": "h2",
+      "text": "Why thin walls are challenging in 3D printing 3D printing builds parts layer by layer, which introduces some specific challenges when you're designing thin walls. These features have less material to distribute stress and are especially vulnerable at the layer interfaces. As each layer heats and cools, thin sections are more likely to warp, crack, or delaminate. The risks vary depending on which 3D printing process you choose. FDM deposits molten plastic through a nozzle, so wall thickness depends on nozzle diameter and how well passes fuse together. SLA cures liquid resin with a laser, creating smooth surfaces but potentially brittle thin sections. Powder-bed processes like SLS and MJF don’t need supports, but thin walls can still warp or soften from heat buildup, especially if the orientation isn’t ideal. DMLS (offered through Protolabs Europe ) builds metal parts with intense localized heat. Thin walls in metal prints can warp due to thermal stress if not carefully supported and controlled. No matter the process, our DFM (Design for Manufacturability) tool catches all thin-wall risks right when you upload your CAD, so you can make changes before production starts."
+    },
+    {
+      "hash": "ac6bdfccb4421afe34649a557ce686b55cb24a3c",
+      "heading": "Minimum wall thickness by 3D printing process",
+      "level": "h2",
+      "text": "Minimum wall thickness by 3D printing process Each printing technology has its own practical limits for how thin you can go."
+    },
+    {
+      "hash": "993bbe2112f26fa576283b8bd5d1fd4dc883ec7c",
+      "heading": "Material considerations for thin walls",
+      "level": "h2",
+      "text": "Material considerations for thin walls Not all materials handle thin walls equally well. Some materials can tolerate thin sections without issue, while others become prone to failure when pushed too far. Stress response: Materials that flex under stress (like nylon and TPU ) handle thin walls better than rigid materials ( ABS , PLA , standard resins ) that crack under stress. If your part needs to bend or absorb impact, choose a flexible or tough material. Printability at thin dimensions: Nylon and resins generally print cleanly at minimum wall thickness. TPU can be challenging due to stringing and poor layer adhesion at very thin sections. ABS and PLA print reliably but become brittle, so careful orientation is critical. Stiffness vs. brittleness tradeoff: Filled materials (carbon/glass fiber) and polycarbonate offer high stiffness but crack more easily in thin sections. If you need stiffness, reinforce thin walls with ribs rather than relying on material properties alone."
+    },
+    {
+      "hash": "e5ab87f9ffea9a163c4b3caba5e23322e0fd11b5",
+      "heading": "Build orientation guidelines",
+      "level": "h2",
+      "text": "Build orientation guidelines How you design the orientation of your part has a big effect on thin wall strength and print reliability. Orient for layer strength: Align thin walls so the main loads run within the layer plane (XY) and avoid loading them in Z, where interlayer strength is lowest. Warping: In FDM , reduce warping by breaking up large flat areas and avoiding sharp corners. In SLA , tilting can reduce peel forces, but it may increase supports, so weigh peel reduction against support marks. Supports: Avoid overhangs where possible. In FDM and SLA , use 45° angles or minimal contact supports. In SLS and MJF , the powder provides natural support."
+    },
+    {
+      "hash": "26326bd242378f56d92f101d03bddfd10d5fe25b",
+      "heading": "Optimizing for part strength",
+      "level": "h2",
+      "text": "Optimizing for part strength Thin walls don’t have to mean fragile parts. With the right reinforcement strategies, you can keep designs lightweight while improving strength and durability. Add ribs: Reinforce long, thin walls with perpendicular ribs. Keep rib thickness to 50–75% of the wall and space them to support the span. Use fillets: Round internal corners (≥0.5 mm radius) to reduce cracking caused by stress concentrations. Try lattices: Use lattice or honeycomb structures to reinforce large thin-walled areas. They spread load efficiently and are a great fit for SLS and MJF . In SLA , they can work too, but watch for supports and trapped resin. For more reinforcement techniques, check out our design for 3D printing guidelines"
+    },
+    {
+      "hash": "11e67d4bf00fd2fec16443420bab14ba5d065766",
+      "heading": "Holes, slots, and feature spacing near thin walls",
+      "level": "h2",
+      "text": "Holes, slots, and feature spacing near thin walls Cutting into thin walls weakens them. Every hole removes material that would otherwise carry stress. Here's how to keep your parts structurally sound: Spacing rule: Keep 1.5–2× the wall thickness between holes, or between a hole and the edge. Any tighter and you risk tearing. Avoid small holes (<1–2 mm) if possible: They're problematic across all processes. In FDM , they may close up or need hard-to-remove supports. In SLA , they often fail to print. In SLS or MJF , powder gets trapped. Use larger holes or slots instead. Use slots over circles: Slots print more reliably, especially when the long axis runs parallel to the build layers. Round your corners: Sharp corners in cutouts concentrate stress and cause cracks. Use fillets if your part will flex or face repeated loads. For more guidance on FDM design, check out our how to design parts for FDM 3D printing guide."
+    },
+    {
+      "hash": "04fc7507b68449c4cfba580d069c34933df3cd8f",
+      "heading": "Supports, vents, and drain paths",
+      "level": "h2",
+      "text": "Supports, vents, and drain paths Thin walls are vulnerable during part removal. Here's how to design for clean results. Minimize supports: In FDM and SLA , thin overhangs often need support, but they’re difficult to remove cleanly. Use self-supporting angles (≤45°), and choose tree or minimal-contact supports where needed. Add drain and vent holes: In SLA and other resin processes, hollow parts need drain holes at the lowest point and vent holes at the highest to release uncured resin and air. Plan powder escape in powder-bed processes: In SLS and MJF , you don’t need supports, but hollow parts still need escape holes (and a clear path) so trapped powder can be removed."
+    },
+    {
+      "hash": "050178f917f890768d2a4d41993911e395504b47",
+      "heading": "Tolerances and surface finish on thin sections",
+      "level": "h2",
+      "text": "Tolerances and surface finish on thin sections Thin walls are more sensitive to dimensional variation. In some cases, surface finishes can help strengthen thin walls by smoothing transitions and distributing stress. In others, aggressive post-processing can thin or weaken them further. Test before scaling: Thin walls under 1 mm can vary dimensionally. Order or print a sample, measure it, then adjust your design if needed. Surface treatments can help—or hurt: Smoothing, polishing, or chemical finishes can reduce stress concentrations, but aggressive sanding or vapor smoothing can thin fragile walls even further. Explore our surface finishing services to choose the right post-processing method for your parts. Match finish to geometry: Smooth finishes (like in SLA ) are ideal for thin, cosmetic parts. Powder-based processes may need tumbling or coating to improve strength or aesthetics. For more process-specific tips, visit the 3D printing knowledge base ."
+    },
+    {
+      "hash": "ff02d75737b7bc6ce8418bd63bb67e5361bef049",
+      "heading": "Quick checklist for designing thin walls",
+      "level": "h2",
+      "text": "Quick checklist for designing thin walls Before you send a thin-walled part to print, check the following: Confirm minimum wall thickness for your process and material Avoid long unsupported spans and sharp corners Add ribs or fillets to stiffen walls Orient to reduce layer stress and warping Plan supports and removal strategy early Test critical features with a small prototype first Our DFM analysis tool flags thin wall issues when you upload, alerting you to features that may fail. Review the feedback and adjust your design before ordering."
+    },
+    {
+      "hash": "57360f473c44669ae94df2b3593b223b3e44c3ae",
+      "heading": "Where to learn more",
+      "level": "h2",
+      "text": "Where to learn more For additional guidance on designing parts for 3D printing, check out the following resources. 3D printing guide 3D printing knowledge base Design for 3D printing How to design parts for FDM 3D printing"
+    },
+    {
+      "hash": "c3d40beb25f62a28f1cbd1429881fb2c00dac967",
+      "heading": "Get started",
+      "level": "h2",
+      "text": "Get started Ready to move forward with a design that’s both lightweight and high performing? Upload your design for a free, instant quote."
+    },
+    {
+      "hash": "02842b08377539be654ab1179cf41e1d947c4424",
+      "heading": "Frequently asked questions",
+      "level": "h2",
+      "text": "Frequently asked questions Frequently asked questions"
+    },
+    {
+      "hash": "c55ea02d7ff672f0a9ecad89ec7332cbfd07b5e8",
+      "heading": "What’s the thinnest wall I can print?",
+      "level": "h3",
+      "text": "What’s the thinnest wall I can print? It depends on the process. For example, SLA can go as low as 0.5 mm (supported), while FDM needs around 0.8 mm."
+    },
+    {
+      "hash": "e290be5242ee4307318db2f94fbd92440410f00c",
+      "heading": "Can I post-process thin walls without damaging them?",
+      "level": "h3",
+      "text": "Can I post-process thin walls without damaging them? Yes, but be careful. Finishing steps like polishing or vapor smoothing can remove material and weaken already-thin sections. Consider gentler finishes for delicate parts. Check our surface finishing services for specifics."
+    },
+    {
+      "hash": "7752b287585fc3578db882a3e79d56ac1ca29e37",
+      "heading": "Do thin walls always need supports?",
+      "level": "h3",
+      "text": "Do thin walls always need supports? Not always. In powder-bed processes like SLS and MJF , the powder acts as its own support. In FDM or SLA , careful orientation can reduce or eliminate the need for supports."
+    }
+  ],
+  "sitemap_lastmod": "2026-02-23T14:30:03+00:00",
+  "status": 200,
+  "structure_hash": "c942f80b617118e9043395e16c39cebb5787aca6",
+  "text_excerpt": "Thin walls are often the first feature to fail. Use these guidelines to hit minimum thickness targets for your 3D printing process. Thin walls are everywhere in product design. They reduce weight, save material, and let you pack more functionality into less space. But when it comes to 3D printing , thin features test the limits of what each process can reliably produce. A wall that's too thin might not print at all. Or worse, it'll print but crack under normal handling. Minimum wall thickness varies by technology, and meeting it means considering material choice, orientation, and support strategy. This guide covers the design considerations for thin-walled parts across FDM , SLA , SLS , MJF , and other common processes. Why thin walls are challenging in 3D printing 3D printing builds parts layer by layer, which introduces some specific challenges when you're designing thin walls. These features have less material to distribute stress and are especially vulnerable at the layer interfaces. As each layer heats and cools, thin sections are more likely to warp, crack, or delaminate. The risks vary depending on which 3D printing process you choose. FDM deposits molten plastic through a...",
+  "text_hash": "e025b7b07ae2cbe460467883a3aed664d3f5546d",
+  "title": "DFM tips for 3D printed parts with thin walls | Protolabs Network",
+  "url": "https://www.hubs.com/knowledge-base/dfm-tips-for-3d-printed-parts-with-thin-walls"
+}

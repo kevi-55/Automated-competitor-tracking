@@ -1,0 +1,217 @@
+{
+  "canonical": "https://www.hubs.com/knowledge-base/cnc-machining-iso-based-tolerances-and-finishes",
+  "category": "content",
+  "competitor": "Hubs",
+  "ctas": [
+    {
+      "href": "https://www.hubs.com/help-center/ordering-custom-parts/2-configuring-parts/attach-technical-drawings-for-cnc-machined-parts",
+      "text": "this help center page about attaching technical drawings for CNC machined parts"
+    },
+    {
+      "href": "https://www.hubs.com/manufacture?technology=cnc-machining",
+      "text": "Upload your CAD files"
+    }
+  ],
+  "discovered_via": "sitemap",
+  "fetched_at": "2026-08-17T03:42:34+00:00",
+  "final_url": "https://www.hubs.com/knowledge-base/cnc-machining-iso-based-tolerances-and-finishes",
+  "first_seen_at": "2026-08-17T03:42:34+00:00",
+  "h1": "",
+  "headings": [
+    {
+      "level": "h2",
+      "text": "What are ISO 2768-1 CNC tolerances?"
+    },
+    {
+      "level": "h2",
+      "text": "Protolabs Network's CNC tolerances"
+    },
+    {
+      "level": "h3",
+      "text": "CNC ISO 2768-1 decision tree"
+    },
+    {
+      "level": "h2",
+      "text": "How surface finishes affect tolerances"
+    },
+    {
+      "level": "h2",
+      "text": "Printable ISO tolerance and finish chart (PDF)"
+    },
+    {
+      "level": "h3",
+      "text": "Download the printable chart"
+    },
+    {
+      "level": "h2",
+      "text": "Custom tolerances"
+    },
+    {
+      "level": "h2",
+      "text": "What to call out"
+    },
+    {
+      "level": "h2",
+      "text": "Milling vs. turning for tolerance-critical features"
+    },
+    {
+      "level": "h2",
+      "text": "Material considerations"
+    },
+    {
+      "level": "h2",
+      "text": "Where to learn more about standards"
+    },
+    {
+      "level": "h2",
+      "text": "Get a quote"
+    },
+    {
+      "level": "h2",
+      "text": "Frequently asked questions"
+    },
+    {
+      "level": "h3",
+      "text": "Can I mix tolerance standards on the same part?"
+    },
+    {
+      "level": "h3",
+      "text": "What if I need tolerances tighter than ISO 2768-f?"
+    },
+    {
+      "level": "h3",
+      "text": "Do threads follow ISO 2768-1 tolerances?"
+    },
+    {
+      "level": "h3",
+      "text": "What’s the difference between ISO 2768-1 and ISO 2768-2?"
+    }
+  ],
+  "images": [
+    {
+      "alt": "bead blasting",
+      "src": "/images/trans.gif"
+    },
+    {
+      "alt": "CNC machining, 3D printing and sheet metal fabrication parts",
+      "src": "/images/trans.gif"
+    }
+  ],
+  "meta_description": "Complete guide to ISO 2768-1 CNC tolerances for metals and plastics. Learn when to use standard tolerances vs. custom specs, plus printable reference chart.",
+  "modified_at": "",
+  "monitored_text": "CNC machining is great at making parts that are accurate, repeatable, and ready for assembly. But \"accurate\" is meaningless without defining acceptable variation, and that's where tolerances come in. ISO 2768-1 sets baseline CNC machining tolerances for linear and angular dimensions. These standards help prevent parts that don’t fit, leak, or assemble as intended, while keeping costs under control. The goal isn’t “as tight as possible.” It’s as tight as necessary for the part to work. In this guide, we’ll break down how ISO 2768-1 works, what Protolabs Network applies by default for metals and plastics, when to call out custom tolerances, and how finishing can affect final dimensions. You can also download a printable tolerance and finish chart for quick reference. What are ISO 2768-1 CNC tolerances? ISO 2768-1 defines default tolerances for dimensions that don’t have an explicitly specified tolerance. The standard uses four tolerance classes: F (fine): Tightest default limits for smaller, precision-critical features M (medium): Common general-purpose default C (coarse): More variation allowed for non-critical features V (very coarse): Widest default limits, typically for large, forgiving features To apply ISO 2768-1, specify the tolerance class (e.g., \"ISO 2768-m\") in the title block of your technical drawing . For most engineering applications, ISO 2768-1 provides enough accuracy without the cost premium of tighter specs. It's widely used across industries, making it easier to work with manufacturers globally without extensive documentation for standard features. Smaller features usually get tighter tolerances, while larger dimensions allow more variation, reflecting the realities of machining at different scales. Protolabs Network's CNC tolerances At Protolabs Network, we follow a specific set of manufacturing standards . By default, we machine metal parts to ISO 2768-f (fine) and plastic parts to ISO 2768-m (medium) unless your technical drawing specifies otherwise. Here's what that means in practice: Nominal Size Range Plastics (ISO 2768-m) Metals (ISO 2768-f) 0.5mm* to 3mm ±0.1mm ±0.05mm Over 3mm to 6mm ±0.1mm ±0.05mm Over 6mm to 30mm ±0.2mm ±0.1mm Over 30mm to 120mm ±0.3mm ±0.15mm Over 120mm to 400mm ±0.5mm ±0.2mm Over 400mm to 1000mm ±0.8mm ±0.3mm Over 1000mm to 2000mm ±1.2mm ±0.5mm Over 2000mm to 4000mm ±2mm — *For nominal sizes below 0.5mm, please clearly indicate tolerances on your technical drawings. CNC ISO 2768-1 decision tree Use this quick guide to decide whether ISO defaults are enough. Is the feature fit- or tolerance-critical? (fits, seals, bearing seats, sliding interfaces) No → ISO 2768-1 standards are usually sufficient. Yes → Call out a custom tolerance and attach a technical drawing to your quote request. Will the feature be coated or finished? (anodize, plating, powder coat, polishing) Yes → Specify whether the tolerance applies before or after finishing (e.g. “Ø20.00 ±0.02 mm after anodizing”) and include it in your drawing. Is a geometric relationship more important than size? (position, runout, perpendicularity) Yes → Consider using GD&T instead of tightening every dimension. Not sure which approach is best? Contact your account manager or networksales@protolabs.com. How surface finishes affect tolerances Finishing can change dimensions. For fit-critical features (bores, shafts, sealing faces), account for finishing in your tolerance stack and specify whether dimensions apply before or after the process. Standard CNC finish is “ as machined ” (Ra 3.2 µm / 126 µin). Additional finishes affect tolerances differently: Removal finishes like polishing and brushing remove material. Build-up finishes like powder coating , electroless nickel plating , and aluminum anodizing add thickness. Abrasive finishes like bead blasting mainly change texture but can still matter on mating/sliding surfaces. See our surface finishes overview for complete details on how each finish impacts tolerances. Printable ISO tolerance and finish chart (PDF) This single-page reference chart includes both ISO 2768-1 tolerance specifications and common surface finish Ra values. Keep it handy at your workstation or share it with your team for quick reference during design reviews. Download the printable chart Custom tolerances ISO 2768-1 defaults cover most features, but you’ll want custom tolerances when function depends on a controlled fit or alignment, such as: Fits and sealing surfaces (press/slip/interference, bores/shafts) Alignment-critical features (bearing seats, datum-to-datum relationships) Precision mating to off-the-shelf components To request tighter tolerances, attach a technical drawing with your quote request and clearly call out the tolerance-critical features. Tighter tolerances usually mean more process control and inspection (and higher cost), so apply them only where they’re functionally necessary. For more detail, see this help center page about attaching technical drawings for CNC machined parts . What to call out The specific dimensions that exceed the standard tolerances Any finish requirements that affect fit (and whether dimensions are pre- or post-finish) Any internal/external threads (threads follow their own ISO standards, so always call them out on the drawing) For the full standards reference, see our manufacturing standards . If you need help, contact your account manager or networksales@protolabs.com. Key takeaway: Use ISO 2768-1 defaults for most features, then add custom tolerances only where function depends on fit, finish, or geometric relationships. Milling vs. turning for tolerance-critical features The tolerance you can achieve depends partly on the CNC machining process you’re using. Both CNC milling and CNC turning can produce high-accuracy parts, but they’re better suited to different feature types. Milling Turning Best for Complex geometry, pockets, slots, multi-face features Cylindrical parts, shafts, bores, concentric features Strengths on tolerance-critical features Positional relationships across multiple faces, complex pocket depths, hole patterns Diameters, roundness, concentricity, perpendicularity to axis Where it gets challenging • Deep pockets (depth > 3× width) • Thin walls (<1mm metals, <2mm plastics) • Small features requiring long tool reach (>4× tool diameter) • Large flat surfaces prone to chatter • Non-round features (require mill-turn or indexing) • Interrupted cuts or off-center features • Very long parts (L/D ratio >10 without tailstock) • Internal features away from the axis Inspection advantage Multi-point CMM for 3D relationships In-process measurement of diameters during machining Typical use cases Housings, brackets, heat sinks, multi-axis components, complex prismatic parts Bushings, pins, spacers, shafts, threaded cylinders, flanges When to specify tighter tolerances Bolt hole patterns, mating surfaces, press-fit pockets, critical wall thicknesses Bearing journals, seal bores, press-fit diameters, threaded interfaces Key takeaway: For cylindrical tolerance-critical features (shafts, bores, bearings), turning typically achieves tighter tolerances more cost-effectively. For features requiring positional accuracy across multiple surfaces or complex 3D relationships, milling is the better choice. Material considerations Different materials respond differently to machining, which is why we apply ISO 2768-f to metals and ISO 2768-m to plastics. Metals are more dimensionally stable and predictable during machining, which makes tighter tolerances practical. Plastics are more sensitive to heat and moisture and can warp or creep after machining so tight tolerances are less predictable, and often more expensive. Metals Plastics Standard ISO class ISO 2768-f (fine) ISO 2768-m (medium) Dimensional behaviour More stable and predictable during machining More sensitive to heat, moisture, and fixturing stress What that means for tolerances Tighter tolerances are usually achievable and repeatable Tight tolerances are less predictable and often cost more Common examples Aluminum , stainless steel , titanium ABS , acrylic , nylon Tip Great choice for fit-critical features If you need precision, consider stable plastics like polycarbonate and specify tolerances only where they matter Where to learn more about standards Manufacturing standards : Tolerances, finishes, and process rules across CNC and other manufacturing processes. Specifications policy : How we interpret CAD vs. technical drawings, and what happens if they conflict. Quality assurance : Inspection methods, documentation, and how quality is handled across the manufacturing network. Get a quote Upload your CAD files and get a free, instant quote on CNC parts that hit the exact tolerances you need, whether you’re working to ISO 2768-1 defaults or calling out custom requirements. Subscribe Get the latest manufacturing news delivered to your mailbox. Sign up for our newsletter Sign me up Please enter a valid email address. Leave this field empty Thanks! You're now subscribed to our newsletter. Frequently asked questions Can I mix tolerance standards on the same part? Yes. Use ISO 2768-1 as your general tolerance, then call out tighter tolerances for critical dimensions. This keeps costs down by adding precision only where needed. What if I need tolerances tighter than ISO 2768-f? Include detailed specifications in your technical drawing and our team will review feasibility and pricing. Do threads follow ISO 2768-1 tolerances? No. Threads have their own ISO standards (ISO 68-1, ISO 965-1, etc.). Always specify thread callouts on your drawing. What’s the difference between ISO 2768-1 and ISO 2768-2? ISO 2768-1 covers linear and angular dimensions. ISO 2768-2 covers general geometric tolerances like flatness and perpendicularity.",
+  "published_at": "",
+  "requested_url": "https://www.hubs.com/knowledge-base/cnc-machining-iso-based-tolerances-and-finishes",
+  "schema_version": 2,
+  "sections": [
+    {
+      "hash": "ce2d109d1ee693b8a596a2d142adc6276abb0d99",
+      "heading": "What are ISO 2768-1 CNC tolerances?",
+      "level": "h2",
+      "text": "What are ISO 2768-1 CNC tolerances? ISO 2768-1 defines default tolerances for dimensions that don’t have an explicitly specified tolerance. The standard uses four tolerance classes: F (fine): Tightest default limits for smaller, precision-critical features M (medium): Common general-purpose default C (coarse): More variation allowed for non-critical features V (very coarse): Widest default limits, typically for large, forgiving features To apply ISO 2768-1, specify the tolerance class (e.g., \"ISO 2768-m\") in the title block of your technical drawing . For most engineering applications, ISO 2768-1 provides enough accuracy without the cost premium of tighter specs. It's widely used across industries, making it easier to work with manufacturers globally without extensive documentation for standard features. Smaller features usually get tighter tolerances, while larger dimensions allow more variation, reflecting the realities of machining at different scales."
+    },
+    {
+      "hash": "049a166a88ca5b6fa28d171f519c3a7010c1afb8",
+      "heading": "Protolabs Network's CNC tolerances",
+      "level": "h2",
+      "text": "Protolabs Network's CNC tolerances At Protolabs Network, we follow a specific set of manufacturing standards . By default, we machine metal parts to ISO 2768-f (fine) and plastic parts to ISO 2768-m (medium) unless your technical drawing specifies otherwise. Here's what that means in practice:"
+    },
+    {
+      "hash": "b8fb0f63c39f929634ee721219bdece401735f96",
+      "heading": "CNC ISO 2768-1 decision tree",
+      "level": "h3",
+      "text": "CNC ISO 2768-1 decision tree Use this quick guide to decide whether ISO defaults are enough. Is the feature fit- or tolerance-critical? (fits, seals, bearing seats, sliding interfaces) No → ISO 2768-1 standards are usually sufficient. Yes → Call out a custom tolerance and attach a technical drawing to your quote request. Will the feature be coated or finished? (anodize, plating, powder coat, polishing) Yes → Specify whether the tolerance applies before or after finishing (e.g. “Ø20.00 ±0.02 mm after anodizing”) and include it in your drawing. Is a geometric relationship more important than size? (position, runout, perpendicularity) Yes → Consider using GD&T instead of tightening every dimension. Not sure which approach is best? Contact your account manager or networksales@protolabs.com."
+    },
+    {
+      "hash": "58cc859cce12e27e888c95a8f1c924ebd697ebd6",
+      "heading": "How surface finishes affect tolerances",
+      "level": "h2",
+      "text": "How surface finishes affect tolerances Finishing can change dimensions. For fit-critical features (bores, shafts, sealing faces), account for finishing in your tolerance stack and specify whether dimensions apply before or after the process. Standard CNC finish is “ as machined ” (Ra 3.2 µm / 126 µin). Additional finishes affect tolerances differently: Removal finishes like polishing and brushing remove material. Build-up finishes like powder coating , electroless nickel plating , and aluminum anodizing add thickness. Abrasive finishes like bead blasting mainly change texture but can still matter on mating/sliding surfaces. See our surface finishes overview for complete details on how each finish impacts tolerances."
+    },
+    {
+      "hash": "e69b5f60fb1ef7b533af48bcac08f817c3890a9b",
+      "heading": "Printable ISO tolerance and finish chart (PDF)",
+      "level": "h2",
+      "text": "Printable ISO tolerance and finish chart (PDF) This single-page reference chart includes both ISO 2768-1 tolerance specifications and common surface finish Ra values. Keep it handy at your workstation or share it with your team for quick reference during design reviews."
+    },
+    {
+      "hash": "99bf2be266e876a5230ae0fc52f6e3f088f6bd27",
+      "heading": "Download the printable chart",
+      "level": "h3",
+      "text": "Download the printable chart"
+    },
+    {
+      "hash": "3ff5d79f057cdd8515418e2340c54d99876e64bd",
+      "heading": "Custom tolerances",
+      "level": "h2",
+      "text": "Custom tolerances ISO 2768-1 defaults cover most features, but you’ll want custom tolerances when function depends on a controlled fit or alignment, such as: Fits and sealing surfaces (press/slip/interference, bores/shafts) Alignment-critical features (bearing seats, datum-to-datum relationships) Precision mating to off-the-shelf components To request tighter tolerances, attach a technical drawing with your quote request and clearly call out the tolerance-critical features. Tighter tolerances usually mean more process control and inspection (and higher cost), so apply them only where they’re functionally necessary. For more detail, see this help center page about attaching technical drawings for CNC machined parts ."
+    },
+    {
+      "hash": "8c3b029bd798dfa83b3619bccb893f4354732c9d",
+      "heading": "What to call out",
+      "level": "h2",
+      "text": "What to call out The specific dimensions that exceed the standard tolerances Any finish requirements that affect fit (and whether dimensions are pre- or post-finish) Any internal/external threads (threads follow their own ISO standards, so always call them out on the drawing) For the full standards reference, see our manufacturing standards . If you need help, contact your account manager or networksales@protolabs.com. Key takeaway: Use ISO 2768-1 defaults for most features, then add custom tolerances only where function depends on fit, finish, or geometric relationships."
+    },
+    {
+      "hash": "267cad4e4ce0beb9444ac05666a937fa9028d83f",
+      "heading": "Milling vs. turning for tolerance-critical features",
+      "level": "h2",
+      "text": "Milling vs. turning for tolerance-critical features The tolerance you can achieve depends partly on the CNC machining process you’re using. Both CNC milling and CNC turning can produce high-accuracy parts, but they’re better suited to different feature types."
+    },
+    {
+      "hash": "5aad24cb0d916819a798fef0337c4d62f6849628",
+      "heading": "Material considerations",
+      "level": "h2",
+      "text": "Material considerations Different materials respond differently to machining, which is why we apply ISO 2768-f to metals and ISO 2768-m to plastics. Metals are more dimensionally stable and predictable during machining, which makes tighter tolerances practical. Plastics are more sensitive to heat and moisture and can warp or creep after machining so tight tolerances are less predictable, and often more expensive."
+    },
+    {
+      "hash": "417a358256dcaccb34d01f33f2b828a89e6be4b7",
+      "heading": "Where to learn more about standards",
+      "level": "h2",
+      "text": "Where to learn more about standards Manufacturing standards : Tolerances, finishes, and process rules across CNC and other manufacturing processes. Specifications policy : How we interpret CAD vs. technical drawings, and what happens if they conflict. Quality assurance : Inspection methods, documentation, and how quality is handled across the manufacturing network."
+    },
+    {
+      "hash": "f6ed2bf6d07dd24838e20c71673f507853630aff",
+      "heading": "Get a quote",
+      "level": "h2",
+      "text": "Get a quote Upload your CAD files and get a free, instant quote on CNC parts that hit the exact tolerances you need, whether you’re working to ISO 2768-1 defaults or calling out custom requirements."
+    },
+    {
+      "hash": "02842b08377539be654ab1179cf41e1d947c4424",
+      "heading": "Frequently asked questions",
+      "level": "h2",
+      "text": "Frequently asked questions Frequently asked questions"
+    },
+    {
+      "hash": "47d327985394547e3bc60dc4e63bed6e1da4ac99",
+      "heading": "Can I mix tolerance standards on the same part?",
+      "level": "h3",
+      "text": "Can I mix tolerance standards on the same part? Yes. Use ISO 2768-1 as your general tolerance, then call out tighter tolerances for critical dimensions. This keeps costs down by adding precision only where needed."
+    },
+    {
+      "hash": "40ce7ea129d2a2e31c7206d8317cf8e97ffa465c",
+      "heading": "What if I need tolerances tighter than ISO 2768-f?",
+      "level": "h3",
+      "text": "What if I need tolerances tighter than ISO 2768-f? Include detailed specifications in your technical drawing and our team will review feasibility and pricing."
+    },
+    {
+      "hash": "1487f0a80f8a5739db31b4b5e51b9a7ae5442333",
+      "heading": "Do threads follow ISO 2768-1 tolerances?",
+      "level": "h3",
+      "text": "Do threads follow ISO 2768-1 tolerances? No. Threads have their own ISO standards (ISO 68-1, ISO 965-1, etc.). Always specify thread callouts on your drawing."
+    },
+    {
+      "hash": "91c4c47f0f3eb664e9e115c1d34d90a738511677",
+      "heading": "What’s the difference between ISO 2768-1 and ISO 2768-2?",
+      "level": "h3",
+      "text": "What’s the difference between ISO 2768-1 and ISO 2768-2? ISO 2768-1 covers linear and angular dimensions. ISO 2768-2 covers general geometric tolerances like flatness and perpendicularity."
+    }
+  ],
+  "sitemap_lastmod": "2026-01-19T13:02:47+00:00",
+  "status": 200,
+  "structure_hash": "8479104813722842acd23c90c18981c69ddedf3d",
+  "text_excerpt": "CNC machining is great at making parts that are accurate, repeatable, and ready for assembly. But \"accurate\" is meaningless without defining acceptable variation, and that's where tolerances come in. ISO 2768-1 sets baseline CNC machining tolerances for linear and angular dimensions. These standards help prevent parts that don’t fit, leak, or assemble as intended, while keeping costs under control. The goal isn’t “as tight as possible.” It’s as tight as necessary for the part to work. In this guide, we’ll break down how ISO 2768-1 works, what Protolabs Network applies by default for metals and plastics, when to call out custom tolerances, and how finishing can affect final dimensions. You can also download a printable tolerance and finish chart for quick reference. What are ISO 2768-1 CNC tolerances? ISO 2768-1 defines default tolerances for dimensions that don’t have an explicitly specified tolerance. The standard uses four tolerance classes: F (fine): Tightest default limits for smaller, precision-critical features M (medium): Common general-purpose default C (coarse): More variation allowed for non-critical features V (very coarse): Widest default limits, typically for large, f...",
+  "text_hash": "3236dc14df99a6315e97ea6e13061207059994dd",
+  "title": "CNC machining ISO-based tolerances & finishes | Protolabs Network",
+  "url": "https://www.hubs.com/knowledge-base/cnc-machining-iso-based-tolerances-and-finishes"
+}
