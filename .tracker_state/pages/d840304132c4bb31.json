@@ -1,0 +1,307 @@
+{
+  "canonical": "",
+  "category": "content",
+  "competitor": "PCBWay",
+  "ctas": [
+    {
+      "href": "/orderonline.aspx",
+      "text": "PCB Instant Quote"
+    },
+    {
+      "href": "javascript:void(0)",
+      "text": "Sign Up"
+    },
+    {
+      "href": "/project/shareproject/?order=1",
+      "text": "By Source Files"
+    },
+    {
+      "href": "/project/shareproject/?order=1",
+      "text": "View all source files projects"
+    },
+    {
+      "href": "/project/shareproject/?order=1",
+      "text": "Source Files"
+    },
+    {
+      "href": "/blog/club-publish.html",
+      "text": "Submit for Publication"
+    },
+    {
+      "href": "/blog/Activities/Submit_for_Publication___Now_I_Write_Articles_in_PCBWay.html",
+      "text": "Write for PCBWay"
+    },
+    {
+      "href": "/blog/?tag=PCB industry",
+      "text": "PCB industry"
+    },
+    {
+      "href": "/contact.html",
+      "text": "Contact us"
+    }
+  ],
+  "fetched_at": "2026-08-17T02:33:37+00:00",
+  "h1": "How to Design an H-Bridge Motor Driver: Circuit & PCB Layout Guide",
+  "headings": [
+    {
+      "level": "h1",
+      "text": "How to Design an H-Bridge Motor Driver: Circuit & PCB Layout Guide"
+    },
+    {
+      "level": "h2",
+      "text": "1. Overview of H-Bridge Drive Circuits"
+    },
+    {
+      "level": "h2",
+      "text": "2. Key Device Characteristics and Selection"
+    },
+    {
+      "level": "h3",
+      "text": "2.1 MOSFET Body Diode Characteristics"
+    },
+    {
+      "level": "h3",
+      "text": "2.2 Function and Selection of Freewheeling Diodes"
+    },
+    {
+      "level": "h3",
+      "text": "2.3 Key MOSFET Selection Parameters"
+    },
+    {
+      "level": "h2",
+      "text": "3. High-Side Driving and Bootstrap Circuit Design"
+    },
+    {
+      "level": "h3",
+      "text": "3.1 Differences Between High-Side and Low-Side Driving"
+    },
+    {
+      "level": "h3",
+      "text": "3.2 How the Bootstrap Circuit Works"
+    },
+    {
+      "level": "h3",
+      "text": "3.3 Bootstrap Circuit Design Considerations"
+    },
+    {
+      "level": "h2",
+      "text": "4. PCB Layout Design Guidelines"
+    },
+    {
+      "level": "h3",
+      "text": "4.1 Overall Layout Principles"
+    },
+    {
+      "level": "h3",
+      "text": "4.2 Power Loop Design"
+    },
+    {
+      "level": "h3",
+      "text": "4.3 Gate-Drive Loop Design"
+    },
+    {
+      "level": "h3",
+      "text": "4.4 Grounding and EMC Design"
+    },
+    {
+      "level": "h3",
+      "text": "4.5 Thermal Design"
+    },
+    {
+      "level": "h2",
+      "text": "5. Engineering Example — BTN7971B High-Power H-Bridge Motor Driver Module"
+    },
+    {
+      "level": "h3",
+      "text": "5.1 Schematic Design"
+    },
+    {
+      "level": "h2",
+      "text": "5.2 PCB Layout Design"
+    },
+    {
+      "level": "h3",
+      "text": "Related articles"
+    }
+  ],
+  "images": [
+    {
+      "alt": "",
+      "src": "/project/img/images/avatar/user-pic.png"
+    },
+    {
+      "alt": "",
+      "src": "/project/img/images/loading-pro.gif"
+    },
+    {
+      "alt": "",
+      "src": "https://pcbwayfile.s3.us-west-2.amazonaws.com/web/23/10/03/1152415436848m.jpeg"
+    },
+    {
+      "alt": "",
+      "src": "https://pcbwayfile.s3.us-west-2.amazonaws.com/web/25/02/01/195239553dd028d967de6453aa74b91ac0e5423e73248m.png"
+    },
+    {
+      "alt": "",
+      "src": "https://pcbwayfile.s3-us-west-2.amazonaws.com/web/21/08/30/1823256917346m.png"
+    },
+    {
+      "alt": "",
+      "src": "https://pcb-files.s3.us-west-2.amazonaws.com/web/26/08/17/094953165886af1dcd9fb455880fe2aecd6f20f8e1771.png"
+    },
+    {
+      "alt": "",
+      "src": "https://pcb-files.s3.us-west-2.amazonaws.com/web/26/08/17/0951412394d5f703f9b614220a58d5ce64f7a18997253.png"
+    },
+    {
+      "alt": "",
+      "src": "https://pcb-files.s3.us-west-2.amazonaws.com/web/26/08/17/095406841c6f7a234e6564e14a3b1b75695886bae5038.png"
+    },
+    {
+      "alt": "",
+      "src": "https://pcb-files.s3.us-west-2.amazonaws.com/web/26/08/17/095654158a4bf99101a0e4d6ab0681356284799a27322.png"
+    },
+    {
+      "alt": "",
+      "src": "https://pcb-files.s3.us-west-2.amazonaws.com/web/26/08/17/1002229341ae7eeb2a2a94d0cbe30d5c465488e735355.png"
+    },
+    {
+      "alt": "",
+      "src": "https://pcb-files.s3.us-west-2.amazonaws.com/web/26/08/17/1005139952c9710edb0e846d0a8ce3128615541830275.png"
+    },
+    {
+      "alt": "",
+      "src": "/img/images/note-tips.png"
+    }
+  ],
+  "meta_description": "",
+  "requested_url": "https://www.pcbway.com/blog/PCB_Design_Layout/How_to_Design_an_H_Bridge_Motor_Driver_Circuit_PCB_Layout_Guide_e8a9d06f.html",
+  "sections": [
+    {
+      "hash": "1a5797c0669262e21ee00e867c37c7534ec3b724",
+      "heading": "How to Design an H-Bridge Motor Driver: Circuit & PCB Layout Guide",
+      "level": "h1",
+      "text": "Blog > How to Design an H-Bridge Motor Driver: Circuit & PCB Layout Guide How to Design an H-Bridge Motor Driver: Circuit & PCB Layout Guide by: Mila Aug 17,2026 10 Views 0 Comments Posted in PCB Design & Layout pcb layout h bridge motor driver h bridge drive circuit dc motor design dc motor driver design 1. Overview of H-Bridge Drive Circuits An H-bridge drive circuit is one of the most widely used basic topologies in DC motor drive systems. Its core structure consists of four independently controlled MOSFETs arranged as a bridge. By controlling different switching combinations, the circuit can control the current direction and achieve forward rotation, reverse rotation, speed control, and..."
+    },
+    {
+      "hash": "7106c0e9fa7605ef724d29685e1b8f4c9340b96c",
+      "heading": "1. Overview of H-Bridge Drive Circuits",
+      "level": "h2",
+      "text": "1. Overview of H-Bridge Drive Circuits An H-bridge drive circuit is one of the most widely used basic topologies in DC motor drive systems. Its core structure consists of four independently controlled MOSFETs arranged as a bridge. By controlling different switching combinations, the circuit can control the current direction and achieve forward rotation, reverse rotation, speed control, and braking of a DC motor. The topology resembles the letter “H,” which is where the name H-bridge comes from. This article provides a systematic analysis of the key considerations in H-bridge circuit design, covering device characteristics, high-side driving principles, bootstrap circuit design, and PCB Layo..."
+    },
+    {
+      "hash": "7106c0e9fa7605ef724d29685e1b8f4c9340b96c",
+      "heading": "2. Key Device Characteristics and Selection",
+      "level": "h2",
+      "text": "1. Overview of H-Bridge Drive Circuits An H-bridge drive circuit is one of the most widely used basic topologies in DC motor drive systems. Its core structure consists of four independently controlled MOSFETs arranged as a bridge. By controlling different switching combinations, the circuit can control the current direction and achieve forward rotation, reverse rotation, speed control, and braking of a DC motor. The topology resembles the letter “H,” which is where the name H-bridge comes from. This article provides a systematic analysis of the key considerations in H-bridge circuit design, covering device characteristics, high-side driving principles, bootstrap circuit design, and PCB Layo..."
+    },
+    {
+      "hash": "7106c0e9fa7605ef724d29685e1b8f4c9340b96c",
+      "heading": "2.1 MOSFET Body Diode Characteristics",
+      "level": "h3",
+      "text": "1. Overview of H-Bridge Drive Circuits An H-bridge drive circuit is one of the most widely used basic topologies in DC motor drive systems. Its core structure consists of four independently controlled MOSFETs arranged as a bridge. By controlling different switching combinations, the circuit can control the current direction and achieve forward rotation, reverse rotation, speed control, and braking of a DC motor. The topology resembles the letter “H,” which is where the name H-bridge comes from. This article provides a systematic analysis of the key considerations in H-bridge circuit design, covering device characteristics, high-side driving principles, bootstrap circuit design, and PCB Layo..."
+    },
+    {
+      "hash": "7106c0e9fa7605ef724d29685e1b8f4c9340b96c",
+      "heading": "2.2 Function and Selection of Freewheeling Diodes",
+      "level": "h3",
+      "text": "1. Overview of H-Bridge Drive Circuits An H-bridge drive circuit is one of the most widely used basic topologies in DC motor drive systems. Its core structure consists of four independently controlled MOSFETs arranged as a bridge. By controlling different switching combinations, the circuit can control the current direction and achieve forward rotation, reverse rotation, speed control, and braking of a DC motor. The topology resembles the letter “H,” which is where the name H-bridge comes from. This article provides a systematic analysis of the key considerations in H-bridge circuit design, covering device characteristics, high-side driving principles, bootstrap circuit design, and PCB Layo..."
+    },
+    {
+      "hash": "7106c0e9fa7605ef724d29685e1b8f4c9340b96c",
+      "heading": "2.3 Key MOSFET Selection Parameters",
+      "level": "h3",
+      "text": "1. Overview of H-Bridge Drive Circuits An H-bridge drive circuit is one of the most widely used basic topologies in DC motor drive systems. Its core structure consists of four independently controlled MOSFETs arranged as a bridge. By controlling different switching combinations, the circuit can control the current direction and achieve forward rotation, reverse rotation, speed control, and braking of a DC motor. The topology resembles the letter “H,” which is where the name H-bridge comes from. This article provides a systematic analysis of the key considerations in H-bridge circuit design, covering device characteristics, high-side driving principles, bootstrap circuit design, and PCB Layo..."
+    },
+    {
+      "hash": "7106c0e9fa7605ef724d29685e1b8f4c9340b96c",
+      "heading": "3. High-Side Driving and Bootstrap Circuit Design",
+      "level": "h2",
+      "text": "1. Overview of H-Bridge Drive Circuits An H-bridge drive circuit is one of the most widely used basic topologies in DC motor drive systems. Its core structure consists of four independently controlled MOSFETs arranged as a bridge. By controlling different switching combinations, the circuit can control the current direction and achieve forward rotation, reverse rotation, speed control, and braking of a DC motor. The topology resembles the letter “H,” which is where the name H-bridge comes from. This article provides a systematic analysis of the key considerations in H-bridge circuit design, covering device characteristics, high-side driving principles, bootstrap circuit design, and PCB Layo..."
+    },
+    {
+      "hash": "7106c0e9fa7605ef724d29685e1b8f4c9340b96c",
+      "heading": "3.1 Differences Between High-Side and Low-Side Driving",
+      "level": "h3",
+      "text": "1. Overview of H-Bridge Drive Circuits An H-bridge drive circuit is one of the most widely used basic topologies in DC motor drive systems. Its core structure consists of four independently controlled MOSFETs arranged as a bridge. By controlling different switching combinations, the circuit can control the current direction and achieve forward rotation, reverse rotation, speed control, and braking of a DC motor. The topology resembles the letter “H,” which is where the name H-bridge comes from. This article provides a systematic analysis of the key considerations in H-bridge circuit design, covering device characteristics, high-side driving principles, bootstrap circuit design, and PCB Layo..."
+    },
+    {
+      "hash": "7106c0e9fa7605ef724d29685e1b8f4c9340b96c",
+      "heading": "3.2 How the Bootstrap Circuit Works",
+      "level": "h3",
+      "text": "1. Overview of H-Bridge Drive Circuits An H-bridge drive circuit is one of the most widely used basic topologies in DC motor drive systems. Its core structure consists of four independently controlled MOSFETs arranged as a bridge. By controlling different switching combinations, the circuit can control the current direction and achieve forward rotation, reverse rotation, speed control, and braking of a DC motor. The topology resembles the letter “H,” which is where the name H-bridge comes from. This article provides a systematic analysis of the key considerations in H-bridge circuit design, covering device characteristics, high-side driving principles, bootstrap circuit design, and PCB Layo..."
+    },
+    {
+      "hash": "7106c0e9fa7605ef724d29685e1b8f4c9340b96c",
+      "heading": "3.3 Bootstrap Circuit Design Considerations",
+      "level": "h3",
+      "text": "1. Overview of H-Bridge Drive Circuits An H-bridge drive circuit is one of the most widely used basic topologies in DC motor drive systems. Its core structure consists of four independently controlled MOSFETs arranged as a bridge. By controlling different switching combinations, the circuit can control the current direction and achieve forward rotation, reverse rotation, speed control, and braking of a DC motor. The topology resembles the letter “H,” which is where the name H-bridge comes from. This article provides a systematic analysis of the key considerations in H-bridge circuit design, covering device characteristics, high-side driving principles, bootstrap circuit design, and PCB Layo..."
+    },
+    {
+      "hash": "7106c0e9fa7605ef724d29685e1b8f4c9340b96c",
+      "heading": "4. PCB Layout Design Guidelines",
+      "level": "h2",
+      "text": "1. Overview of H-Bridge Drive Circuits An H-bridge drive circuit is one of the most widely used basic topologies in DC motor drive systems. Its core structure consists of four independently controlled MOSFETs arranged as a bridge. By controlling different switching combinations, the circuit can control the current direction and achieve forward rotation, reverse rotation, speed control, and braking of a DC motor. The topology resembles the letter “H,” which is where the name H-bridge comes from. This article provides a systematic analysis of the key considerations in H-bridge circuit design, covering device characteristics, high-side driving principles, bootstrap circuit design, and PCB Layo..."
+    },
+    {
+      "hash": "7106c0e9fa7605ef724d29685e1b8f4c9340b96c",
+      "heading": "4.1 Overall Layout Principles",
+      "level": "h3",
+      "text": "1. Overview of H-Bridge Drive Circuits An H-bridge drive circuit is one of the most widely used basic topologies in DC motor drive systems. Its core structure consists of four independently controlled MOSFETs arranged as a bridge. By controlling different switching combinations, the circuit can control the current direction and achieve forward rotation, reverse rotation, speed control, and braking of a DC motor. The topology resembles the letter “H,” which is where the name H-bridge comes from. This article provides a systematic analysis of the key considerations in H-bridge circuit design, covering device characteristics, high-side driving principles, bootstrap circuit design, and PCB Layo..."
+    },
+    {
+      "hash": "7106c0e9fa7605ef724d29685e1b8f4c9340b96c",
+      "heading": "4.2 Power Loop Design",
+      "level": "h3",
+      "text": "1. Overview of H-Bridge Drive Circuits An H-bridge drive circuit is one of the most widely used basic topologies in DC motor drive systems. Its core structure consists of four independently controlled MOSFETs arranged as a bridge. By controlling different switching combinations, the circuit can control the current direction and achieve forward rotation, reverse rotation, speed control, and braking of a DC motor. The topology resembles the letter “H,” which is where the name H-bridge comes from. This article provides a systematic analysis of the key considerations in H-bridge circuit design, covering device characteristics, high-side driving principles, bootstrap circuit design, and PCB Layo..."
+    },
+    {
+      "hash": "7106c0e9fa7605ef724d29685e1b8f4c9340b96c",
+      "heading": "4.3 Gate-Drive Loop Design",
+      "level": "h3",
+      "text": "1. Overview of H-Bridge Drive Circuits An H-bridge drive circuit is one of the most widely used basic topologies in DC motor drive systems. Its core structure consists of four independently controlled MOSFETs arranged as a bridge. By controlling different switching combinations, the circuit can control the current direction and achieve forward rotation, reverse rotation, speed control, and braking of a DC motor. The topology resembles the letter “H,” which is where the name H-bridge comes from. This article provides a systematic analysis of the key considerations in H-bridge circuit design, covering device characteristics, high-side driving principles, bootstrap circuit design, and PCB Layo..."
+    },
+    {
+      "hash": "7106c0e9fa7605ef724d29685e1b8f4c9340b96c",
+      "heading": "4.4 Grounding and EMC Design",
+      "level": "h3",
+      "text": "1. Overview of H-Bridge Drive Circuits An H-bridge drive circuit is one of the most widely used basic topologies in DC motor drive systems. Its core structure consists of four independently controlled MOSFETs arranged as a bridge. By controlling different switching combinations, the circuit can control the current direction and achieve forward rotation, reverse rotation, speed control, and braking of a DC motor. The topology resembles the letter “H,” which is where the name H-bridge comes from. This article provides a systematic analysis of the key considerations in H-bridge circuit design, covering device characteristics, high-side driving principles, bootstrap circuit design, and PCB Layo..."
+    },
+    {
+      "hash": "7106c0e9fa7605ef724d29685e1b8f4c9340b96c",
+      "heading": "4.5 Thermal Design",
+      "level": "h3",
+      "text": "1. Overview of H-Bridge Drive Circuits An H-bridge drive circuit is one of the most widely used basic topologies in DC motor drive systems. Its core structure consists of four independently controlled MOSFETs arranged as a bridge. By controlling different switching combinations, the circuit can control the current direction and achieve forward rotation, reverse rotation, speed control, and braking of a DC motor. The topology resembles the letter “H,” which is where the name H-bridge comes from. This article provides a systematic analysis of the key considerations in H-bridge circuit design, covering device characteristics, high-side driving principles, bootstrap circuit design, and PCB Layo..."
+    },
+    {
+      "hash": "7106c0e9fa7605ef724d29685e1b8f4c9340b96c",
+      "heading": "5. Engineering Example — BTN7971B High-Power H-Bridge Motor Driver Module",
+      "level": "h2",
+      "text": "1. Overview of H-Bridge Drive Circuits An H-bridge drive circuit is one of the most widely used basic topologies in DC motor drive systems. Its core structure consists of four independently controlled MOSFETs arranged as a bridge. By controlling different switching combinations, the circuit can control the current direction and achieve forward rotation, reverse rotation, speed control, and braking of a DC motor. The topology resembles the letter “H,” which is where the name H-bridge comes from. This article provides a systematic analysis of the key considerations in H-bridge circuit design, covering device characteristics, high-side driving principles, bootstrap circuit design, and PCB Layo..."
+    },
+    {
+      "hash": "7106c0e9fa7605ef724d29685e1b8f4c9340b96c",
+      "heading": "5.1 Schematic Design",
+      "level": "h3",
+      "text": "1. Overview of H-Bridge Drive Circuits An H-bridge drive circuit is one of the most widely used basic topologies in DC motor drive systems. Its core structure consists of four independently controlled MOSFETs arranged as a bridge. By controlling different switching combinations, the circuit can control the current direction and achieve forward rotation, reverse rotation, speed control, and braking of a DC motor. The topology resembles the letter “H,” which is where the name H-bridge comes from. This article provides a systematic analysis of the key considerations in H-bridge circuit design, covering device characteristics, high-side driving principles, bootstrap circuit design, and PCB Layo..."
+    },
+    {
+      "hash": "7106c0e9fa7605ef724d29685e1b8f4c9340b96c",
+      "heading": "5.2 PCB Layout Design",
+      "level": "h2",
+      "text": "1. Overview of H-Bridge Drive Circuits An H-bridge drive circuit is one of the most widely used basic topologies in DC motor drive systems. Its core structure consists of four independently controlled MOSFETs arranged as a bridge. By controlling different switching combinations, the circuit can control the current direction and achieve forward rotation, reverse rotation, speed control, and braking of a DC motor. The topology resembles the letter “H,” which is where the name H-bridge comes from. This article provides a systematic analysis of the key considerations in H-bridge circuit design, covering device characteristics, high-side driving principles, bootstrap circuit design, and PCB Layo..."
+    },
+    {
+      "hash": "c3634c71e5b6daeff91448da592cbc5e5441918d",
+      "heading": "Related articles",
+      "level": "h3",
+      "text": "Related articles How to Design an H-Bridge Motor Driver: Circuit & PCB Layout Guide The Complete Guide to Mixed-Signal PCB Layout Design Problem in KiCad footprints that behave as locked when they are not. Circuit Symbols Explained: A Complete Guide to Electronic Symbols and Schematic Symbols in PCB Design"
+    }
+  ],
+  "status": 200,
+  "structure_hash": "fcc299486b00dcd61ce8123e25e848eb7ceffac3",
+  "text_excerpt": "How to Design an H-Bridge Motor Driver: Circuit & PCB Layout Guide - PCB Design & Layout - PCBway PCBWay Community Search title or content Search PCBWay PCB Instant Quote CNC | 3D Printing Login Sign Up More Notifications No notifications. My Profile My projects My Likes My Deals My Goods for Bazaar Settings Sign Out Projects Categories DIY Electronics Arduino Hardware Audio Computers & USB Breakout Board Projects Home Automation LED Displays & Matrices IoT Robotics View all categories By Source Files Onju Voice - AI assistant replacement to Google Nest Mini by @justLV LogicAnalyzer V6.0 DIY 1kW Open Source MPPT Solar Charge Controller Tad Boy Color SummerCart64 - a fully open source N64 flashcart kv4p HT v1.7b QuinLED-Dig-Uno Arduino RC engine sound & light controller with inertia simulation for ESP32 Bike Fingerprint - PCB Solar Powered WiFi Weather Station V2.0 Frog Boy Color SIDKick pico 0.2 (SID 6581/8580-replacement for C64/C128) View all source files projects Featured Projects Onju Voice - AI assistant replacement to Google Nest Mini by @justLV LogicAnalyzer V6.0 DIY 1kW Open Source MPPT Solar Charge Controller Featured Source Files Video View all projects Questions Sponsor...",
+  "text_hash": "2acb65cb94137b28b6e1c5043acdb3a8239e1d0e",
+  "title": "How to Design an H-Bridge Motor Driver: Circuit & PCB Layout Guide - PCB Design & Layout - PCBway",
+  "url": "https://www.pcbway.com/blog/PCB_Design_Layout/How_to_Design_an_H_Bridge_Motor_Driver_Circuit_PCB_Layout_Guide_e8a9d06f.html"
+}

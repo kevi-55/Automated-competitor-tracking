@@ -40,7 +40,7 @@
       "text": "Contact us"
     }
   ],
-  "fetched_at": "2026-08-16T02:44:20+00:00",
+  "fetched_at": "2026-08-17T02:33:31+00:00",
   "h1": "PCB Design Layout Guidelines for Routing",
   "headings": [
     {
@@ -130,22 +130,22 @@
   "requested_url": "https://www.pcbway.com/blog/PCB_Design_Layout/Common_Rules_for_PCB_Routing_29d86598.html",
   "sections": [
     {
-      "hash": "b9453e4020f305b347bbb36d6dc85548dfc3c82f",
+      "hash": "bd5d4564d4010958d1f5f2706aa3879384789308",
       "heading": "PCB Design Layout Guidelines for Routing",
       "level": "h1",
-      "text": "Blog > PCB Design Layout Guidelines for Routing PCB Design Layout Guidelines for Routing by: Mia Jul 17,2024 26082 Views 3 Comments Posted in PCB Design & Layout PCB Design Guideline PCB Routing PCB Layout 1. Length Control in Routing Length controlling is very important in PCB design. The traces should be kept as short as possible to avoid introducing unnecessary interference due to excessive length. For important signal traces, such as clock signal traces, be sure to place its oscillator very close to the device. 2. Direction Control in Routing The routing directions of adjacent layers should be orthogonal to avoid the signal traces of adjacent layers running in the same direction, thus r..."
+      "text": "Blog > PCB Design Layout Guidelines for Routing PCB Design Layout Guidelines for Routing by: Mia Jul 17,2024 26129 Views 3 Comments Posted in PCB Design & Layout PCB Design Guideline PCB Routing PCB Layout 1. Length Control in Routing Length controlling is very important in PCB design. The traces should be kept as short as possible to avoid introducing unnecessary interference due to excessive length. For important signal traces, such as clock signal traces, be sure to place its oscillator very close to the device. 2. Direction Control in Routing The routing directions of adjacent layers should be orthogonal to avoid the signal traces of adjacent layers running in the same direction, thus r..."
     },
     {
-      "hash": "abbef48f5d1d0bced19f19b12944e9d6df405021",
+      "hash": "c3634c71e5b6daeff91448da592cbc5e5441918d",
       "heading": "Related articles",
       "level": "h3",
-      "text": "Related articles The Complete Guide to Mixed-Signal PCB Layout Design Problem in KiCad footprints that behave as locked when they are not. Circuit Symbols Explained: A Complete Guide to Electronic Symbols and Schematic Symbols in PCB Design Mixed-Signal PCB Design: A Practical Engineering Guide"
+      "text": "Related articles How to Design an H-Bridge Motor Driver: Circuit & PCB Layout Guide The Complete Guide to Mixed-Signal PCB Layout Design Problem in KiCad footprints that behave as locked when they are not. Circuit Symbols Explained: A Complete Guide to Electronic Symbols and Schematic Symbols in PCB Design"
     }
   ],
   "status": 200,
-  "structure_hash": "d8b5e97b6c997c9c9679a00acaade960e79afd14",
+  "structure_hash": "5494e9c6e96233ccd38c8b29c4cb46028ae6005b",
   "text_excerpt": "PCB Design Layout Guidelines for Routing - PCB Design & Layout - PCBway PCBWay Community Search title or content Search PCBWay PCB Instant Quote CNC | 3D Printing Login Sign Up More Notifications No notifications. My Profile My projects My Likes My Deals My Goods for Bazaar Settings Sign Out Projects Categories DIY Electronics Arduino Hardware Audio Computers & USB Breakout Board Projects Home Automation LED Displays & Matrices IoT Robotics View all categories By Source Files Onju Voice - AI assistant replacement to Google Nest Mini by @justLV LogicAnalyzer V6.0 DIY 1kW Open Source MPPT Solar Charge Controller Tad Boy Color SummerCart64 - a fully open source N64 flashcart kv4p HT v1.7b QuinLED-Dig-Uno Arduino RC engine sound & light controller with inertia simulation for ESP32 Bike Fingerprint - PCB Solar Powered WiFi Weather Station V2.0 Frog Boy Color SIDKick pico 0.2 (SID 6581/8580-replacement for C64/C128) View all source files projects Featured Projects Onju Voice - AI assistant replacement to Google Nest Mini by @justLV LogicAnalyzer V6.0 DIY 1kW Open Source MPPT Solar Charge Controller Featured Source Files Video View all projects Questions Sponsorships Feedback Blog Store...",
-  "text_hash": "b398d3b85cf34a9d46373134e071d436a5e79a85",
+  "text_hash": "ffd3bf8a803225a8a727f61b632d7c00f1126fa8",
   "title": "PCB Design Layout Guidelines for Routing - PCB Design & Layout - PCBway",
   "url": "https://www.pcbway.com/blog/PCB_Design_Layout/Common_Rules_for_PCB_Routing_29d86598.html"
 }
