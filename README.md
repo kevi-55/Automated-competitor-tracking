@@ -2,6 +2,29 @@
 
 这个项目会每天自动追踪竞品网站变化，并把日报发到邮箱；每周一再发一封周报。
 
+## 第二版：准确性优先
+
+当前版本不再把“第一次抓到”直接等同于“今天发布”，而是分别记录：
+
+- `published_at`：页面实际发布时间
+- `first_seen_at`：系统首次发现时间
+- `sitemap_lastmod`：站点地图声明的最后更新时间
+- `discovered_via`：RSS、sitemap、重点页或页面链接
+
+主要改进：
+
+- 优先从 RSS/Atom 获取最新文章和发布时间，再使用 sitemap 与栏目页补充。
+- 超过 `new_content_max_age_days` 才发现的文章标记为“历史内容补录”，不计入今日新内容。
+- 提取 JSON-LD、文章 Meta 和正文日期，邮件同时显示发布时间与发现时间。
+- 先过滤 Cookie、聊天工具、浏览次数、评论数等动态噪声，再计算内容变化。
+- 邮件直接显示绿色“新增”和红色“删除”片段，不再只显示两段难以理解的摘要。
+- HTTP 错误页不会覆盖上一次正确快照；规范 URL 和跳转 URL 会去重。
+- 监控页面数量骤降或抓取失败率过高时，单独发送监控健康告警。
+- 每次运行生成带 `run_id` 的报告，同一天手动运行不会覆盖旧报告。
+- 数据状态会在邮件发送前落盘；即使邮件服务失败，GitHub Actions 也会保存状态。
+
+从旧版本升级后的第一次运行会静默迁移旧快照，避免因为提取算法升级产生大批伪变化。
+
 当前追踪对象：
 
 - Hubs
@@ -101,6 +124,7 @@ python -m venv .venv
 .\.venv\Scripts\Activate.ps1
 pip install -r requirements.txt
 python -m playwright install chromium
+python -m unittest discover -s tests -v
 $env:MAIL_TO="kevi.rapiddirect@gmail.com"
 PYTHONPATH=src python -m tracker.main run --mode daily --config config/competitors.yml
 ```

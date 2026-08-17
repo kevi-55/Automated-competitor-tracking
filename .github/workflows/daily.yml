@@ -9,6 +9,10 @@ on:
 permissions:
   contents: write
 
+concurrency:
+  group: competitor-tracker-state
+  cancel-in-progress: false
+
 jobs:
   daily:
     runs-on: ubuntu-latest
@@ -31,6 +35,9 @@ jobs:
           pip install -r requirements.txt
           python -m playwright install --with-deps chromium
 
+      - name: Run tracker tests
+        run: PYTHONPATH=src python -m unittest discover -s tests -v
+
       - name: Run daily tracker
         env:
           MAIL_TO: ${{ secrets.MAIL_TO }}
@@ -43,6 +50,7 @@ jobs:
         run: PYTHONPATH=src python -m tracker.main run --mode daily --config config/competitors.yml
 
       - name: Save tracker state
+        if: always()
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
@@ -51,4 +59,3 @@ jobs:
             git commit -m "Update competitor tracking state [skip ci]"
             git push
           fi
-

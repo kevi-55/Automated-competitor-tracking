@@ -12,8 +12,15 @@ run:
   visual_diff_threshold:
     rms: 7
     changed_pixels_percent: 2.5
+  # 有明确发布时间的内容，超过该天数只标记为“历史补录”。
+  new_content_max_age_days: 10
+  # 正文变化低于该比例时视为页面噪声。
+  minimum_text_change_percent: 0.5
+  coverage_drop_warning_percent: 35
+  maximum_error_rate_percent: 25
 
 discovery:
+  feed_max_items: 100
   include_path_keywords:
     - /
     - pricing
@@ -55,6 +62,15 @@ discovery:
     - feed
     - tag/
     - author/
+    - oauth
+    - callback
+    - /fr/
+    - /de/
+    - /nl/
+    - /es/
+    - /it/
+    - /ja/
+    - /ko/
 
 competitors:
   - name: Hubs
@@ -107,8 +123,13 @@ competitors:
     priority_paths:
       - /
       - /rapid-prototyping/
-      - /project/
       - /blog/
+    exclude_path_keywords:
+      - /project/
+      - community
+      - search
+    ignore_text_patterns:
+      - "\\b[\\d,.]+\\s+(?:views?|comments?|likes?)\\b"
   - name: eMachineShop
     base_url: https://www.emachineshop.com/
     priority_paths:
@@ -130,4 +151,3 @@ competitors:
       - /services/
       - /cnc-machining-services
       - /blog/
-

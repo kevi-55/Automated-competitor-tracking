@@ -2,6 +2,7 @@ from __future__ import annotations
 
 import hashlib
 import re
+import unicodedata
 from datetime import datetime, timezone
 from html import escape
 from urllib.parse import ParseResult, parse_qsl, urlencode, urljoin, urlparse, urlunparse
@@ -9,6 +10,15 @@ from urllib.parse import ParseResult, parse_qsl, urlencode, urljoin, urlparse, u
 
 TRACKING_QUERY_PREFIXES = ("utm_",)
 TRACKING_QUERY_KEYS = {"fbclid", "gclid", "msclkid", "mc_cid", "mc_eid"}
+
+MOJIBAKE_MARKERS = ("Ã", "Â", "â€", "â€™", "â€œ", "â€\u009d", "â", "ï¿½")
+DYNAMIC_TEXT_PATTERNS = (
+    re.compile(r"\b[\d,.]+\s+(?:views?|comments?|likes?|shares?)\b", re.I),
+    re.compile(
+        r"\b\d+\s+(?:seconds?|minutes?|hours?|days?)\s+ago\b",
+        re.I,
+    ),
+)
 
 
 def utc_now_iso() -> str:
@@ -18,8 +28,48 @@ def utc_now_iso() -> str:
 def clean_text(value: str | None) -> str:
     if not value:
         return ""
+    value = repair_mojibake(str(value))
+    value = unicodedata.normalize("NFC", value)
+    value = "".join(
+        ch if ch in "\n\t" or unicodedata.category(ch) != "Cc" else " "
+        for ch in value
+    )
     value = value.replace("\u00a0", " ")
     return re.sub(r"\s+", " ", value).strip()
+
+
+def repair_mojibake(value: str) -> str:
+    """Repair common UTF-8 text that was decoded as Latin-1/Windows-1252."""
+    repaired = value
+    for _ in range(2):
+        before_score = _mojibake_score(repaired)
+        if before_score == 0:
+            break
+        candidates = []
+        for encoding in ("cp1252", "latin-1"):
+            try:
+                candidates.append(repaired.encode(encoding).decode("utf-8"))
+            except (UnicodeEncodeError, UnicodeDecodeError):
+                continue
+        if not candidates:
+            break
+        best = min(candidates, key=_mojibake_score)
+        if _mojibake_score(best) >= before_score:
+            break
+        repaired = best
+    return repaired
+
+
+def normalize_monitored_text(value: str | None) -> str:
+    """Normalize text before hashing so counters and relative times do not alert."""
+    normalized = clean_text(value)
+    for pattern in DYNAMIC_TEXT_PATTERNS:
+        normalized = pattern.sub("<dynamic-value>", normalized)
+    return normalized
+
+
+def _mojibake_score(value: str) -> int:
+    return sum(value.count(marker) for marker in MOJIBAKE_MARKERS)
 
 
 def normalize_url(url: str, base: str | None = None) -> str:
@@ -110,4 +160,3 @@ def ensure_list(value: str | list[str] | None) -> list[str]:
     if isinstance(value, list):
         return [str(item) for item in value]
     return [item.strip() for item in str(value).split(",") if item.strip()]
-

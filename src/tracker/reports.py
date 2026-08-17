@@ -14,7 +14,10 @@ from .utils import html_escape, truncate
 PRIORITY_ORDER = {"high": 0, "medium": 1, "low": 2}
 
 CHANGE_TYPE_LABELS = {
+    "new_content": "新发布内容",
     "new_page": "新页面",
+    "historical_page": "历史内容补录",
+    "monitor_health": "监控健康",
     "title_changed": "SEO 标题",
     "meta_description_changed": "Meta 描述",
     "h1_changed": "H1 标题",
@@ -30,8 +33,10 @@ CHANGE_TYPE_LABELS = {
 CONTENT_PATH_KEYWORDS = ("blog", "article", "resource", "knowledge", "news", "case-study", "case-studies")
 
 EMAIL_SECTIONS = [
-    ("new_blog", "新增 Blog / 内容页"),
-    ("new_pages", "新增其他页面"),
+    ("health", "监控异常（优先处理）"),
+    ("new_content", "近期新发布内容"),
+    ("historical", "历史内容补录（不计入今日新闻）"),
+    ("new_pages", "新发现页面 / 日期待确认"),
     ("content_updates", "内容页更新"),
     ("critical", "定价 & 首页变化"),
     ("seo", "SEO 变化"),
@@ -40,7 +45,9 @@ EMAIL_SECTIONS = [
 ]
 
 EMAIL_LIMITS = {
-    "new_blog": 30,
+    "health": 15,
+    "new_content": 30,
+    "historical": 10,
     "new_pages": 15,
     "content_updates": 20,
     "critical": 10,
@@ -93,7 +100,7 @@ def build_weekly_report(config: dict[str, Any], reports_dir: Path) -> dict[str, 
     timezone = ZoneInfo(config.get("timezone", "Asia/Shanghai"))
     now_local = datetime.now(timezone)
     start_date = (now_local - timedelta(days=7)).date()
-    daily_reports = []
+    daily_reports_by_date: dict[str, dict[str, Any]] = {}
 
     for path in sorted(reports_dir.glob("daily-*.json")):
         try:
@@ -105,7 +112,12 @@ def build_weekly_report(config: dict[str, Any], reports_dir: Path) -> dict[str, 
         except Exception:
             continue
         if start_date <= report_date <= now_local.date():
-            daily_reports.append(data)
+            date_key = report_date.isoformat()
+            existing = daily_reports_by_date.get(date_key)
+            if not existing or data.get("generated_at", "") >= existing.get("generated_at", ""):
+                daily_reports_by_date[date_key] = data
+
+    daily_reports = [daily_reports_by_date[key] for key in sorted(daily_reports_by_date)]
 
     events = []
     errors = []
@@ -143,8 +155,9 @@ def build_weekly_report(config: dict[str, Any], reports_dir: Path) -> dict[str, 
 
 def save_report(report: dict[str, Any], reports_dir: Path) -> tuple[Path, Path]:
     reports_dir.mkdir(parents=True, exist_ok=True)
-    json_path = reports_dir / f"{report['mode']}-{report['date']}.json"
-    html_path = reports_dir / f"{report['mode']}-{report['date']}.html"
+    run_suffix = f"-{report['run_id']}" if report.get("run_id") else ""
+    json_path = reports_dir / f"{report['mode']}-{report['date']}{run_suffix}.json"
+    html_path = reports_dir / f"{report['mode']}-{report['date']}{run_suffix}.html"
     json_path.write_text(json.dumps(report, ensure_ascii=False, indent=2), encoding="utf-8")
     html_path.write_text(report["email"]["html"], encoding="utf-8")
     return json_path, html_path
@@ -155,7 +168,7 @@ def _prepare_email_events(events: list[dict[str, Any]]) -> dict[str, Any]:
     hidden_items: list[dict[str, Any]] = []
 
     for event in events:
-        if event.get("type") == "new_page":
+        if event.get("type") in {"new_content", "new_page", "historical_page"}:
             bucket = _email_bucket(event)
             limit = EMAIL_LIMITS.get(bucket, 15)
             if len(grouped[bucket]) < limit:
@@ -173,7 +186,7 @@ def _prepare_email_events(events: list[dict[str, Any]]) -> dict[str, Any]:
 
     shown_changes = 0
     for event in events:
-        if event.get("type") == "new_page":
+        if event.get("type") in {"new_content", "new_page", "historical_page"}:
             continue
         if event.get("type") == "content_changed" and _is_content_event(event):
             continue
@@ -209,19 +222,19 @@ def _is_content_event(event: dict[str, Any]) -> bool:
 
 def _new_content_count(email_events: dict[str, Any]) -> int:
     grouped = email_events["grouped"]
-    return len(grouped.get("new_blog", [])) + len(grouped.get("content_updates", []))
+    return len(grouped.get("new_content", []))
 
 
 def _change_count(email_events: dict[str, Any]) -> int:
     grouped = email_events["grouped"]
-    change_sections = ("critical", "seo", "copy", "ui", "new_pages")
+    change_sections = ("critical", "seo", "copy", "ui", "new_pages", "content_updates")
     return sum(len(grouped.get(section, [])) for section in change_sections)
 
 
 def _should_hide_from_email(event: dict[str, Any]) -> bool:
     event_type = event.get("type", "")
     priority = event.get("priority", "low")
-    if event_type == "new_page":
+    if event_type in {"new_content", "new_page", "historical_page", "monitor_health"}:
         return False
     if event_type == "content_changed" and _is_content_event(event):
         return False
@@ -237,8 +250,14 @@ def _email_bucket(event: dict[str, Any]) -> str:
     category = event.get("category", "page")
     priority = event.get("priority", "low")
 
+    if event_type == "monitor_health":
+        return "health"
+    if event_type == "new_content":
+        return "new_content"
+    if event_type == "historical_page":
+        return "historical"
     if event_type == "new_page":
-        return "new_blog" if _is_content_event(event) else "new_pages"
+        return "new_pages"
     if event_type == "content_changed" and _is_content_event(event):
         return "content_updates"
     if event_type == "visual_changed":
@@ -401,7 +420,9 @@ def _overview_text(events: list[dict[str, Any]], email_events: dict[str, Any]) -
     if not events:
         return "今日概览：未发现变化。"
     grouped = email_events["grouped"]
-    new_blog = len(grouped.get("new_blog", []))
+    new_content = len(grouped.get("new_content", []))
+    historical = len(grouped.get("historical", []))
+    health = len(grouped.get("health", []))
     new_pages = len(grouped.get("new_pages", []))
     content_updates = len(grouped.get("content_updates", []))
     changes = _change_count(email_events)
@@ -409,8 +430,12 @@ def _overview_text(events: list[dict[str, Any]], email_events: dict[str, Any]) -
     top_competitors = ", ".join(name for name, _ in Counter(e["competitor"] for e in events).most_common(3))
 
     parts = [f"今日概览：共检测到 {len(events)} 项记录。"]
-    if new_blog:
-        parts.append(f"新增 Blog/内容页 {new_blog} 篇。")
+    if new_content:
+        parts.append(f"近期新发布内容 {new_content} 篇。")
+    if historical:
+        parts.append(f"历史内容补录 {historical} 篇，不计入今日新闻。")
+    if health:
+        parts.append(f"监控异常 {health} 项。")
     if new_pages:
         parts.append(f"新增其他页面 {new_pages} 个。")
     if content_updates:
@@ -425,7 +450,9 @@ def _overview_text(events: list[dict[str, Any]], email_events: dict[str, Any]) -
 
 def _overview_html(events: list[dict[str, Any]], email_events: dict[str, Any]) -> str:
     grouped = email_events["grouped"]
-    new_blog = len(grouped.get("new_blog", []))
+    new_content = len(grouped.get("new_content", []))
+    historical = len(grouped.get("historical", []))
+    health = len(grouped.get("health", []))
     new_pages = len(grouped.get("new_pages", []))
     content_updates = len(grouped.get("content_updates", []))
     changes = _change_count(email_events)
@@ -437,7 +464,9 @@ def _overview_html(events: list[dict[str, Any]], email_events: dict[str, Any]) -
         "<section class='summary'>"
         f"<p><strong>今日共检测到 {len(events)} 项记录。</strong></p>"
         "<table class='summary-table'><tbody>"
-        f"<tr><td>新增 Blog/内容</td><td><strong>{new_blog}</strong> 篇</td></tr>"
+        f"<tr><td>近期新发布内容</td><td><strong>{new_content}</strong> 篇</td></tr>"
+        f"<tr><td>历史内容补录</td><td>{historical} 篇（不计入今日新闻）</td></tr>"
+        f"<tr><td>监控异常</td><td><strong>{health}</strong> 项</td></tr>"
         f"<tr><td>新增其他页面</td><td><strong>{new_pages}</strong> 个</td></tr>"
         f"<tr><td>内容页更新</td><td><strong>{content_updates}</strong> 篇</td></tr>"
         f"<tr><td>页面变化</td><td><strong>{changes}</strong> 项</td></tr>"
@@ -457,10 +486,15 @@ def _rows_for_section(events: list[dict[str, Any]]) -> list[dict[str, Any]]:
                 "url": event["url"],
                 "page_label": _page_label(event),
                 "changes": [],
+                "changes_html": [],
                 "priority": event["priority"],
                 "report_date": event.get("report_date", ""),
+                "published_at": event.get("published_at", ""),
+                "first_seen_at": event.get("first_seen_at", ""),
+                "confidence": event.get("confidence", ""),
             }
         grouped[key]["changes"].append(_format_change(event))
+        grouped[key]["changes_html"].append(_format_change_html(event))
         if PRIORITY_ORDER.get(event["priority"], 9) < PRIORITY_ORDER.get(grouped[key]["priority"], 9):
             grouped[key]["priority"] = event["priority"]
     rows = list(grouped.values())
@@ -475,13 +509,13 @@ def _section_table_html(
     section_key: str = "",
 ) -> str:
     rows = _rows_for_section(events)
-    is_new_content = section_key in {"new_blog", "new_pages"}
+    is_new_content = section_key in {"new_content", "historical", "new_pages"}
     change_header = "页面标题 / 链接" if is_new_content else "页面"
     detail_header = "说明" if is_new_content else "具体改了什么"
 
     body_rows = []
     for row in rows:
-        changes_html = "<br>".join(html_escape(change) for change in row["changes"])
+        changes_html = "<div class='change-block'>" + "</div><div class='change-block'>".join(row["changes_html"]) + "</div>"
         date_cell = ""
         if show_date and row.get("report_date"):
             date_cell = f"<td>{html_escape(row['report_date'])}</td>"
@@ -490,6 +524,7 @@ def _section_table_html(
             page_cell = (
                 f"<strong>{html_escape(row['page_label'])}</strong><br>"
                 f"<a href='{html_escape(row['url'])}'>{html_escape(row['url'])}</a>"
+                f"{_timing_html(row)}"
             )
             detail_cell = changes_html
         else:
@@ -523,12 +558,25 @@ def _format_change(event: dict[str, Any]) -> str:
     event_type = event.get("type", "")
     label = CHANGE_TYPE_LABELS.get(event_type, event.get("summary", "变化"))
 
-    if event_type == "new_page":
-        title = event.get("page_title") or _detail_value(event, "标题") or _page_label(event)
-        h1 = _detail_value(event, "H1")
-        if h1 and h1 != title:
-            return f"新页面：{truncate(title, 100)}（H1：{truncate(h1, 80)}）"
-        return f"新页面：{truncate(title, 120)}"
+    if event_type in {"new_content", "new_page", "historical_page"}:
+        details = "；".join(truncate(value, 100) for value in event.get("details", [])[-3:])
+        return f"{event.get('summary', label)}。{details}" if details else event.get("summary", label)
+
+    if event_type == "monitor_health":
+        details = "；".join(truncate(value, 120) for value in event.get("details", []))
+        return f"{event.get('summary', label)}：{details}"
+
+    added = [truncate(value, 180) for value in event.get("added", []) if value]
+    removed = [truncate(value, 180) for value in event.get("removed", []) if value]
+    if added or removed:
+        parts = [event.get("summary", label)]
+        if added:
+            parts.append("新增：" + " / ".join(added[:3]))
+        if removed:
+            parts.append("删除：" + " / ".join(removed[:3]))
+        if event.get("change_percent"):
+            parts.append(f"变更范围约 {event['change_percent']:.1f}%")
+        return "；".join(parts)
 
     if event.get("before") and event.get("after"):
         return (
@@ -560,6 +608,35 @@ def _format_change(event: dict[str, Any]) -> str:
         return f"{label}：{'；'.join(cleaned)}"
 
     return truncate(event.get("summary", label), 140)
+
+
+def _format_change_html(event: dict[str, Any]) -> str:
+    event_type = event.get("type", "")
+    if event_type in {"new_content", "new_page", "historical_page", "monitor_health"}:
+        return html_escape(_format_change(event))
+
+    label = html_escape(event.get("summary") or CHANGE_TYPE_LABELS.get(event_type, "变化"))
+    parts = [f"<strong>{label}</strong>"]
+    for value in event.get("added", [])[:3]:
+        parts.append(f"<div class='diff-added'>＋ {html_escape(truncate(value, 240))}</div>")
+    for value in event.get("removed", [])[:3]:
+        parts.append(f"<div class='diff-removed'>－ {html_escape(truncate(value, 240))}</div>")
+    if not event.get("added") and not event.get("removed"):
+        parts.append(html_escape(_format_change(event)))
+    if event.get("change_percent"):
+        parts.append(f"<span class='muted'>变更范围约 {event['change_percent']:.1f}%</span>")
+    return "".join(parts)
+
+
+def _timing_html(row: dict[str, Any]) -> str:
+    parts = []
+    if row.get("published_at"):
+        parts.append(f"发布：{html_escape(str(row['published_at'])[:10])}")
+    if row.get("first_seen_at"):
+        parts.append(f"发现：{html_escape(str(row['first_seen_at'])[:10])}")
+    if row.get("confidence"):
+        parts.append(f"可信度：{html_escape(row['confidence'])}")
+    return f"<div class='timing'>{' · '.join(parts)}</div>" if parts else ""
 
 
 def _detail_value(event: dict[str, Any], prefix: str) -> str:
@@ -639,6 +716,11 @@ def _html_shell_start(title: str) -> str:
     .summary-table td:first-child {{ width: 110px; color: #666; }}
     .summary-table td {{ border: none; padding: 4px 8px 4px 0; }}
     .changes {{ color: #222; }}
+    .change-block {{ margin-bottom: 8px; }}
+    .change-block:last-child {{ margin-bottom: 0; }}
+    .diff-added {{ margin-top: 5px; padding: 5px 7px; color: #067647; background: #ecfdf3; border-left: 3px solid #12b76a; }}
+    .diff-removed {{ margin-top: 5px; padding: 5px 7px; color: #b42318; background: #fef3f2; border-left: 3px solid #f04438; }}
+    .timing {{ margin-top: 5px; color: #667085; font-size: 12px; }}
     .badge {{ display: inline-block; border-radius: 3px; padding: 2px 6px; font-size: 11px; font-weight: 600; text-transform: uppercase; }}
     .badge.high {{ background: #fde8e8; color: #b42318; }}
     .badge.medium {{ background: #fff4e5; color: #b54708; }}

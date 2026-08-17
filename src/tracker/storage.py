@@ -36,13 +36,36 @@ class TrackerStorage:
             return None
         return json.loads(path.read_text(encoding="utf-8"))
 
-    def save_page(self, url: str, snapshot: dict[str, Any]) -> None:
-        self.page_path(url).write_text(
+    def save_page(self, url: str, snapshot: dict[str, Any]) -> bool:
+        path = self.page_path(url)
+        if path.exists():
+            try:
+                existing = json.loads(path.read_text(encoding="utf-8"))
+            except (OSError, json.JSONDecodeError):
+                existing = None
+            if existing and _stable_snapshot(existing) == _stable_snapshot(snapshot):
+                return False
+        path.write_text(
             json.dumps(snapshot, ensure_ascii=False, indent=2, sort_keys=True),
             encoding="utf-8",
         )
+        return True
 
     def screenshot_path(self, url: str, viewport_name: str) -> Path:
         safe_viewport = "".join(ch for ch in viewport_name if ch.isalnum() or ch in ("-", "_"))
         return self.screenshots_dir / f"{url_hash(url)}_{safe_viewport}.png"
 
+
+def _stable_snapshot(snapshot: dict[str, Any]) -> dict[str, Any]:
+    """Exclude per-run bookkeeping when deciding whether a page file changed."""
+    return {
+        key: value
+        for key, value in snapshot.items()
+        if key not in {
+            "fetched_at",
+            "requested_url",
+            "modified_at",
+            "sitemap_lastmod",
+            "discovered_via",
+        }
+    }

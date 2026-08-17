@@ -22,14 +22,23 @@ def load_config(path: str | Path) -> dict[str, Any]:
     run.setdefault("request_timeout_seconds", 25)
     run.setdefault("screenshot_priority_pages_per_domain", 5)
     run.setdefault("visual_diff_threshold", {"rms": 7, "changed_pixels_percent": 2.5})
+    run.setdefault("new_content_max_age_days", 10)
+    run.setdefault("minimum_text_change_percent", 0.5)
+    run.setdefault("coverage_drop_warning_percent", 35)
+    run.setdefault("maximum_error_rate_percent", 25)
 
     discovery = config["discovery"]
     discovery.setdefault("include_path_keywords", ["/"])
     discovery.setdefault("exclude_path_keywords", [])
+    discovery.setdefault("feed_max_items", 100)
 
     for competitor in config["competitors"]:
         competitor["base_url"] = normalize_url_text(competitor["base_url"])
         competitor.setdefault("priority_paths", ["/"])
+        competitor.setdefault("content_selector", "")
+        competitor.setdefault("ignore_selectors", [])
+        competitor.setdefault("ignore_text_patterns", [])
+        competitor.setdefault("exclude_path_keywords", [])
         competitor["priority_paths"] = [
             normalize_path_text(path_value) for path_value in competitor["priority_paths"]
         ]
@@ -48,4 +57,3 @@ def normalize_path_text(value: str) -> str:
     if value.startswith("http://") or value.startswith("https://"):
         return value
     return value if value.startswith("/") else f"/{value}"
-
