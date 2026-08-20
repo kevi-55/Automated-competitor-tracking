@@ -1,0 +1,118 @@
+{
+  "canonical": "https://www.hubs.com/knowledge-base/what-is-g-code",
+  "category": "content",
+  "competitor": "Hubs",
+  "ctas": [],
+  "discovered_via": "sitemap",
+  "fetched_at": "2026-08-20T02:23:31+00:00",
+  "final_url": "https://www.hubs.com/knowledge-base/what-is-g-code",
+  "first_seen_at": "2026-08-20T02:23:31+00:00",
+  "h1": "",
+  "headings": [
+    {
+      "level": "h2",
+      "text": "How does G-code work in manufacturing?"
+    },
+    {
+      "level": "h3",
+      "text": "The role of coordinates and movement"
+    },
+    {
+      "level": "h2",
+      "text": "The CNC puzzle: CAD, CAM, and G-code"
+    },
+    {
+      "level": "h2",
+      "text": "Common types of G-code commands"
+    },
+    {
+      "level": "h3",
+      "text": "G-commands versus M-commands"
+    },
+    {
+      "level": "h2",
+      "text": "G-code in 3D printing versus CNC machining"
+    },
+    {
+      "level": "h2",
+      "text": "How to read and write G-code"
+    },
+    {
+      "level": "h2",
+      "text": "Important parameters: Feed rate and spindle speed"
+    }
+  ],
+  "images": [
+    {
+      "alt": "",
+      "src": "/images/trans.gif"
+    },
+    {
+      "alt": "CNC machining, 3D printing and sheet metal fabrication parts",
+      "src": "/images/trans.gif"
+    }
+  ],
+  "meta_description": "What is G-code and how does it work in manufacturing? We explain all the aspects of this CNC machining process. Upload your CAD file.",
+  "modified_at": "",
+  "monitored_text": "Most G-code is generated automatically by CAM software after you upload a CAD file. Each line of code represents a specific command. Examples are moving to a coordinate, changing a tool, or turning on the coolant. Understanding these basics is key to ensuring that your parts are machined accurately and efficiently. How does G-code work in manufacturing? The machine controller acts as the brain of the CNC system, reading G-code line by line to fulfill specific tasks. The controller assesses each command and converts the digital instructions into electrical pulses. These pulses are sent to the steppers (the motors), which then drive the physical movement of the machine along its axes. Beyond movement, the controller also manages the hardware of the machine. It sends signals to the spindle to set the rotation speed and to the pumps to activate coolant or hydraulic systems. This continuous translation ensures that every programmed action is fulfilled with the high precision required for industrial manufacturing. The role of coordinates and movement G-codes rely on a coordinated system to define the exact position of the cutting tool or print head. Most CNC machines use the Cartesian system, where X, Y, and Z axes represent horizontal, vertical, and depth movements. Every line of code provides a set of coordinates that tells the machine precisely where to go to a fixed starting point. For parts with circular or curved features, G-codes sometimes also use polar coordinates. Instead of X and Y, polar coordinates use a radius and an angle to define a position. This approach simplifies the programming of arcs and complex rotations and ensures that the tool follows a smooth, accurate path across the material. The CNC puzzle: CAD, CAM, and G-code The CNC machining workflow begins with a design in Computer-Aided Design (CAD) software, where a 3D model of the piece is created. This digital file serves as the blueprint, defining the geometry and dimensions of the final product. Once the design is complete, Computer-Aided Manufacturing (CAM) software takes over to generate the necessary toolpaths. This software calculates how the cutting tools should proceed to remove waste material efficiently while considering factors like tool size and spindle speed. The CAM software converts these toolpaths into G-code, which serves as the final machine-readable output. Once uploaded to the CNC machine, this G-code provides the line-by-line instructions required to turn the digital model into a physical part. Common types of G-code commands Essential G-code commands are categorized by how they move the machine. The G0-code is used for rapid positioning, moving the tool at maximum speed to a specific coordinate without cutting. This command saves time by quickly shifting the tool between different areas of the workpiece. For actual machining, G1 performs linear interpolation, moving the tool in a straight line at a defined feed rate to cut the material. When the design requires curves, G2 and G3 handle circular interpolation. G2 directs the tool to move in a clockwise arc, while G3 moves it counter-clockwise. This ensures smooth and precise rounded features. G-commands versus M-commands G-codes primarily handle the geometry and motion of the machine. This defines exactly how and where the cutting tool moves along the axes. These codes are responsible for the path the machine takes, whether for a rapid move, a straight cut, or a precise arc. In contrast, M-codes manage miscellaneous machine functions that support the cutting process. Instead of only controlling motion, they operate hardware components like the spindle and coolant systems. Common examples include starting or stopping the spindle, turning on the coolant, or triggering a tool change. In this way, the machine environment is ready for the G-code instructions. G-code in 3D printing versus CNC machining Slicers and CAM software both generate G-code, but they approach the toolpath from opposite directions. In 3D printing, a slicer like Cura translates a 3D model into thin horizontal layers for additive manufacturing. The resulting G-code instructs the printer to deposit material layer by layer, managing specific variables such as extrusion temperature and cooling fan speeds to build the object from the ground up. In contrast, CNC machining uses CAM software for subtractive manufacturing, where the goal is to carve a part out of a solid block. The G-code defines complex paths for cutting tools to remove material efficiently while managing spindle speeds and tool changes. This requires precise control to shape the metal accurately, without damaging your workpiece or the machine. How to read and write G-code Interpreting a line of G-code follows a logical five-step sequence that starts with identifying the command type. First, take a look at the initial letter to determine if it is a motion-based G-code or a functional M-code. Identify the X, Y, and Z coordinates to see where the tool has to move in 3D space. Also, check the F-parameter to set the feed rate, which controls how fast the machine moves. For 3D printing, look for the E-parameter to manage the extruder's material flow. Finally, combine these values to understand the complete action the machine will perform. Important parameters: Feed rate and spindle speed Optimizing G-code commands is very important for balancing production speed with surface finish quality and precision. High-performance machining requires the right feed rate and spindle speed to maximize efficiency without compromising the part's quality. While faster speeds reduce lead times, they can also increase tool wear or cause vibrations that lead to a rougher surface finish. Precise G-codes allow the machine to maintain tight tolerances during complex movements. This ensures an industrial-grade finish while keeping costs efficient. Upload your CAD file to Protolabs Network to get an instant quote and technical feedback on your design. Subscribe Get the latest manufacturing news delivered to your mailbox. Sign up for our newsletter Sign me up Please enter a valid email address. Leave this field empty Thanks! You're now subscribed to our newsletter.",
+  "published_at": "",
+  "requested_url": "https://www.hubs.com/knowledge-base/what-is-g-code",
+  "schema_version": 2,
+  "sections": [
+    {
+      "hash": "01e6b5262e1ef8928c07bf120fd9039df01febb3",
+      "heading": "How does G-code work in manufacturing?",
+      "level": "h2",
+      "text": "How does G-code work in manufacturing? The machine controller acts as the brain of the CNC system, reading G-code line by line to fulfill specific tasks. The controller assesses each command and converts the digital instructions into electrical pulses. These pulses are sent to the steppers (the motors), which then drive the physical movement of the machine along its axes. Beyond movement, the controller also manages the hardware of the machine. It sends signals to the spindle to set the rotation speed and to the pumps to activate coolant or hydraulic systems. This continuous translation ensures that every programmed action is fulfilled with the high precision required for industrial manufacturing."
+    },
+    {
+      "hash": "db84fbe15291b3de3b2d3fc47dd096538009fd50",
+      "heading": "The role of coordinates and movement",
+      "level": "h3",
+      "text": "The role of coordinates and movement G-codes rely on a coordinated system to define the exact position of the cutting tool or print head. Most CNC machines use the Cartesian system, where X, Y, and Z axes represent horizontal, vertical, and depth movements. Every line of code provides a set of coordinates that tells the machine precisely where to go to a fixed starting point. For parts with circular or curved features, G-codes sometimes also use polar coordinates. Instead of X and Y, polar coordinates use a radius and an angle to define a position. This approach simplifies the programming of arcs and complex rotations and ensures that the tool follows a smooth, accurate path across the material."
+    },
+    {
+      "hash": "f54e63e797fc2501b78067b886794a0e4c5d074c",
+      "heading": "The CNC puzzle: CAD, CAM, and G-code",
+      "level": "h2",
+      "text": "The CNC puzzle: CAD, CAM, and G-code The CNC machining workflow begins with a design in Computer-Aided Design (CAD) software, where a 3D model of the piece is created. This digital file serves as the blueprint, defining the geometry and dimensions of the final product. Once the design is complete, Computer-Aided Manufacturing (CAM) software takes over to generate the necessary toolpaths. This software calculates how the cutting tools should proceed to remove waste material efficiently while considering factors like tool size and spindle speed. The CAM software converts these toolpaths into G-code, which serves as the final machine-readable output. Once uploaded to the CNC machine, this G-code provides the line-by-line instructions required to turn the digital model into a physical part."
+    },
+    {
+      "hash": "c471c09993eaaa3d6c8c75d266cd6b4d5151696e",
+      "heading": "Common types of G-code commands",
+      "level": "h2",
+      "text": "Common types of G-code commands Essential G-code commands are categorized by how they move the machine. The G0-code is used for rapid positioning, moving the tool at maximum speed to a specific coordinate without cutting. This command saves time by quickly shifting the tool between different areas of the workpiece. For actual machining, G1 performs linear interpolation, moving the tool in a straight line at a defined feed rate to cut the material. When the design requires curves, G2 and G3 handle circular interpolation. G2 directs the tool to move in a clockwise arc, while G3 moves it counter-clockwise. This ensures smooth and precise rounded features."
+    },
+    {
+      "hash": "09d65a4928b5ded839039ba2acf4aa159f227ec6",
+      "heading": "G-commands versus M-commands",
+      "level": "h3",
+      "text": "G-commands versus M-commands G-codes primarily handle the geometry and motion of the machine. This defines exactly how and where the cutting tool moves along the axes. These codes are responsible for the path the machine takes, whether for a rapid move, a straight cut, or a precise arc. In contrast, M-codes manage miscellaneous machine functions that support the cutting process. Instead of only controlling motion, they operate hardware components like the spindle and coolant systems. Common examples include starting or stopping the spindle, turning on the coolant, or triggering a tool change. In this way, the machine environment is ready for the G-code instructions."
+    },
+    {
+      "hash": "836a405fef0278fbb001fe6c50e362a19ac9b072",
+      "heading": "G-code in 3D printing versus CNC machining",
+      "level": "h2",
+      "text": "G-code in 3D printing versus CNC machining Slicers and CAM software both generate G-code, but they approach the toolpath from opposite directions. In 3D printing, a slicer like Cura translates a 3D model into thin horizontal layers for additive manufacturing. The resulting G-code instructs the printer to deposit material layer by layer, managing specific variables such as extrusion temperature and cooling fan speeds to build the object from the ground up. In contrast, CNC machining uses CAM software for subtractive manufacturing, where the goal is to carve a part out of a solid block. The G-code defines complex paths for cutting tools to remove material efficiently while managing spindle speeds and tool changes. This requires precise control to shape the metal accurately, without damaging your workpiece or the machine."
+    },
+    {
+      "hash": "0caaf1ca116aa21396503f1034b52d082dd0b03b",
+      "heading": "How to read and write G-code",
+      "level": "h2",
+      "text": "How to read and write G-code Interpreting a line of G-code follows a logical five-step sequence that starts with identifying the command type. First, take a look at the initial letter to determine if it is a motion-based G-code or a functional M-code. Identify the X, Y, and Z coordinates to see where the tool has to move in 3D space. Also, check the F-parameter to set the feed rate, which controls how fast the machine moves. For 3D printing, look for the E-parameter to manage the extruder's material flow. Finally, combine these values to understand the complete action the machine will perform."
+    },
+    {
+      "hash": "c75a0cbf115ef5c3deea31a56a38890fad61ae43",
+      "heading": "Important parameters: Feed rate and spindle speed",
+      "level": "h2",
+      "text": "Important parameters: Feed rate and spindle speed Optimizing G-code commands is very important for balancing production speed with surface finish quality and precision. High-performance machining requires the right feed rate and spindle speed to maximize efficiency without compromising the part's quality. While faster speeds reduce lead times, they can also increase tool wear or cause vibrations that lead to a rougher surface finish. Precise G-codes allow the machine to maintain tight tolerances during complex movements. This ensures an industrial-grade finish while keeping costs efficient. Upload your CAD file to Protolabs Network to get an instant quote and technical feedback on your design."
+    }
+  ],
+  "sitemap_lastmod": "2026-08-13T07:37:29+00:00",
+  "status": 200,
+  "structure_hash": "76d2ee418bac572b635989a5225e90fb339b22a6",
+  "text_excerpt": "Most G-code is generated automatically by CAM software after you upload a CAD file. Each line of code represents a specific command. Examples are moving to a coordinate, changing a tool, or turning on the coolant. Understanding these basics is key to ensuring that your parts are machined accurately and efficiently. How does G-code work in manufacturing? The machine controller acts as the brain of the CNC system, reading G-code line by line to fulfill specific tasks. The controller assesses each command and converts the digital instructions into electrical pulses. These pulses are sent to the steppers (the motors), which then drive the physical movement of the machine along its axes. Beyond movement, the controller also manages the hardware of the machine. It sends signals to the spindle to set the rotation speed and to the pumps to activate coolant or hydraulic systems. This continuous translation ensures that every programmed action is fulfilled with the high precision required for industrial manufacturing. The role of coordinates and movement G-codes rely on a coordinated system to define the exact position of the cutting tool or print head. Most CNC machines use the Cartesian s...",
+  "text_hash": "66030070067433c73923716504c34ec3e61a8e81",
+  "title": "What is G-code? An explanation of the best CNC methods | Protolabs Network",
+  "url": "https://www.hubs.com/knowledge-base/what-is-g-code"
+}
