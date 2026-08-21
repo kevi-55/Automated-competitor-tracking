@@ -126,6 +126,7 @@
       "https://www.fictiv.com/capabilities",
       "https://www.fictiv.com/resources",
       "https://www.fictiv.com/articles",
+      "https://www.fictiv.com/articles/manufacturing-cost-per-quantity",
       "https://www.fictiv.com/newsroom",
       "https://www.fictiv.com/articles/manufacturing-process-selection-a-guide",
       "https://www.fictiv.com/articles/medical-device-manufacturing-sourcing",
@@ -238,8 +239,7 @@
       "https://www.fictiv.com/articles/fictiv-releases-11th-annual-state-of-manufacturing-supply-chain-report",
       "https://www.fictiv.com/articles/fictiv-expands-export-control-services",
       "https://www.fictiv.com/articles/top-schedule-levers-product-development",
-      "https://www.fictiv.com/articles/progressive-sheet-metal-stamping",
-      "https://www.fictiv.com/articles/the-2026-state-of-manufacturing-supply-chain-ai-regional-resilience-and-the-capacity-crunch"
+      "https://www.fictiv.com/articles/progressive-sheet-metal-stamping"
     ],
     "Hubs": [
       "https://www.hubs.com/injection-molding",
@@ -595,6 +595,7 @@
       "https://www.protolabs.com/services/injection-molding",
       "https://www.protolabs.com/resources",
       "https://www.protolabs.com/services",
+      "https://www.protolabs.com/resources/blog/cnc-hole-design-through-blind-tapped-and-more",
       "https://www.protolabs.com/resources/blog/custom-sheet-metal-parts-adding-a-finishing-touch",
       "https://www.protolabs.com/resources/release-notes",
       "https://www.protolabs.com/resources/events-trade-shows",
@@ -707,8 +708,7 @@
       "https://www.protolabs.com/resources/design-tips/flame-retardant-3d-printing",
       "https://www.protolabs.com/resources/blog/rohs-certification",
       "https://www.protolabs.com/resources/blog",
-      "https://www.protolabs.com/resources/design-for-3d-printing-toolkit",
-      "https://www.protolabs.com/resources/design-tips/create-production-parts-with-carbon-3d-printing"
+      "https://www.protolabs.com/resources/design-for-3d-printing-toolkit"
     ],
     "SyBridge": [
       "https://sybridge.com/",
@@ -892,15 +892,16 @@
     "eMachineShop": [
       "https://www.emachineshop.com/resources",
       "https://www.emachineshop.com/",
+      "https://www.emachineshop.com/design-for-manufacturability-cnc-quote-cost",
       "https://www.emachineshop.com/comparing-cnc-quotes-tolerances-finishing",
       "https://www.emachineshop.com/advanced-cnc-plasma-cutting-applications",
       "https://www.emachineshop.com/advanced-machining-services-industry-transformation",
       "https://www.emachineshop.com/custom-sheet-metal-fabrication-techniques-tools-finishing",
       "https://www.emachineshop.com/powder-coating-services",
       "https://www.emachineshop.com/revitalizing-classic-boats-with-custom-machining",
-      "https://www.emachineshop.com/cnc-turning-services-the-spin-on-precision-manufacturing",
       "https://www.emachineshop.com/blog",
       "https://www.emachineshop.com/manufacturing-services",
+      "https://www.emachineshop.com/cnc-turning-services-the-spin-on-precision-manufacturing",
       "https://www.emachineshop.com/what-you-need-to-know-about-powder-coating-service",
       "https://www.emachineshop.com/breakdown-of-custom-manufacturing-costs",
       "https://www.emachineshop.com/emachineshop-manufacturing-network",
@@ -927,7 +928,7 @@
       "https://quote.emachineshop.com/emachineshop/widget/upload"
     ]
   },
-  "last_run_at": "2026-08-20T02:42:37+00:00",
+  "last_run_at": "2026-08-21T02:52:59+00:00",
   "runs": [
     {
       "errors": 12,
@@ -1215,6 +1216,13 @@
       "finished_at": "2026-08-20T02:42:37+00:00",
       "mode": "daily",
       "run_id": "20260820T022228Z"
+    },
+    {
+      "errors": 20,
+      "events": 103,
+      "finished_at": "2026-08-21T02:52:59+00:00",
+      "mode": "daily",
+      "run_id": "20260821T023615Z"
     }
   ],
   "schema_version": 2

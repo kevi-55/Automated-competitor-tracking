@@ -1,0 +1,309 @@
+{
+  "canonical": "https://www.protolabs.com/resources/blog/cnc-hole-design-through-blind-tapped-and-more",
+  "category": "content",
+  "competitor": "Protolabs",
+  "ctas": [
+    {
+      "href": "https://www.protolabs.com/ecom/get-a-quote",
+      "text": "Upload Your CAD Model"
+    }
+  ],
+  "discovered_via": "sitemap",
+  "fetched_at": "2026-08-21T02:43:27+00:00",
+  "final_url": "https://www.protolabs.com/resources/blog/cnc-hole-design-through-blind-tapped-and-more",
+  "first_seen_at": "2026-08-21T02:43:27+00:00",
+  "h1": "CNC Hole Design: Through, Blind, Tapped, and More",
+  "headings": [
+    {
+      "level": "h1",
+      "text": "CNC Hole Design: Through, Blind, Tapped, and More"
+    },
+    {
+      "level": "h2",
+      "text": "Common Types of CNC Machining Holes"
+    },
+    {
+      "level": "h3",
+      "text": "Through Holes"
+    },
+    {
+      "level": "h3",
+      "text": "Blind Holes"
+    },
+    {
+      "level": "h3",
+      "text": "Tapped (Threaded) Holes"
+    },
+    {
+      "level": "h3",
+      "text": "Counterbore Holes"
+    },
+    {
+      "level": "h3",
+      "text": "Countersink Holes"
+    },
+    {
+      "level": "h3",
+      "text": "Reamed Holes"
+    },
+    {
+      "level": "h2",
+      "text": "Best Practices for Designing Holes in Machined Parts"
+    },
+    {
+      "level": "h3",
+      "text": "Drill Sizes"
+    },
+    {
+      "level": "h3",
+      "text": "Hole Diameter and Depth"
+    },
+    {
+      "level": "h3",
+      "text": "Tool Access"
+    },
+    {
+      "level": "h3",
+      "text": "Materials"
+    },
+    {
+      "level": "h3",
+      "text": "Tolerances"
+    },
+    {
+      "level": "h3",
+      "text": "Edge Distance"
+    },
+    {
+      "level": "h3",
+      "text": "Chamfers"
+    },
+    {
+      "level": "h2",
+      "text": "How to Choose the Right Hole Feature"
+    },
+    {
+      "level": "h2",
+      "text": "Common Mistakes to Avoid"
+    },
+    {
+      "level": "h2",
+      "text": "FAQ"
+    },
+    {
+      "level": "h3",
+      "text": "What is the difference between a through hole and a blind hole?"
+    },
+    {
+      "level": "h3",
+      "text": "How deep can CNC machining holes be?"
+    },
+    {
+      "level": "h3",
+      "text": "When should I use a reamed hole?"
+    },
+    {
+      "level": "h3",
+      "text": "Do threaded holes need extra depth?"
+    },
+    {
+      "level": "h3",
+      "text": "What is the difference between a counterbore and a countersink?"
+    },
+    {
+      "level": "h2",
+      "text": "Get a Quote"
+    }
+  ],
+  "images": [
+    {
+      "alt": "",
+      "src": "/media/cr2hluvo/protolabs-mark-dark.jpg?width=200&height=200&v=1dbe9bffb5af870"
+    },
+    {
+      "alt": "",
+      "src": "/media/cxdnsq4v/cnc_material_sample.jpg?width=1370&v=1dcafe48fcdb660"
+    },
+    {
+      "alt": "",
+      "src": "/media/nxsjkxkw/pl_cnc_machined_parts.jpg?width=1370&v=1dc02e5bb8b30e0"
+    },
+    {
+      "alt": "threaded holes guidelines icon",
+      "src": "/media/1012886/threaded-holes-page-bucket-image-standardholes-570x308.jpg?width=115&height=115&v=1d3a64e6cc11750"
+    },
+    {
+      "alt": "threading options for turned parts",
+      "src": "/media/rvzeeh5w/cnc_threading-considerations_maximum-thread-depth.jpg?width=115&height=115&v=1da08ba301a7330"
+    },
+    {
+      "alt": "plastic part",
+      "src": "/media/3vif0uqt/comparison-guide.jpg?width=115&height=115&v=1dba498e20cb730"
+    }
+  ],
+  "meta_description": "Learn how to design CNC machining holes, including through, blind, tapped, counterbore, countersink, and reamed holes for accuracy, cost, and manufacturability.",
+  "modified_at": "",
+  "monitored_text": "CNC machining August 20, 2026 CNC Hole Design: Through, Blind, Tapped, and More By Protolabs Holes might look like one of the simplest features in a part, but they can be tricky to machine because the cutting tool has to work inside a confined space, where access, chip removal, heat, and tool rigidity all become more difficult. Design choices like depth, diameter, and placement can affect accuracy, machining time, and cost. Knowing the different types of CNC machining holes, and when to use each one, makes it easier to design parts that do what you need without adding unnecessary complexity. Here is an overview of the most common hole types, practical design tips, and a few common mistakes to avoid. Common Types of CNC Machining Holes Most engineers are familiar with holes—black holes and rabbit holes included—but there are a few more practical types worth knowing if you want to avoid tumbling down the metaphorical ones. Some holes provide clearance for fasteners, while others align mating parts with locating pins, carry fluids, or create a threaded connection. And although we often talk about “drilling” holes, that’s only one way to make them. Depending on the diameter, tolerance, material, and finish you need, a CNC hole might be drilled, interpolated with an end mill, or reamed. Here are the most common types you’ll run into: Through Holes A through hole extends completely through the part. These are usually among the simplest holes to machine because the tool can pass all the way through and chips have somewhere to go. They’re commonly used for clearance holes, alignment features, fluid or air passages, and weight reduction. If your design works just as well with a through hole as a blind one, the through hole is usually the easier option. Blind Holes A blind hole stops before reaching the opposite side of the part. That’s useful when one surface needs to stay intact or when a through hole would interfere with another feature. The trade-off is that chips can’t simply exit through the bottom, so machining takes a little more work. If you’re designing a blind threaded feature, Protolabs’ threaded hole guidelines can help with depths and other design considerations. Tapped (Threaded) Holes Tapped holes contain internal threads so a screw or bolt can fasten directly into the part. Specify only the thread depth the connection needs, since extra depth can drive up machining time without really improving holding strength. At Protolabs, internal threads are cut with a thread mill rather than a traditional tap, allowing one tool to cut multiple thread sizes that share the same pitch and reducing setup time. For more detail on pitch, engagement, and manufacturability, check out these threading considerations for CNC machining . Counterbore Holes A counterbore adds a larger cylindrical recess above a smaller hole. This lets socket-head cap screws and similar fasteners sit flush with or below the part surface, so the head doesn’t stick out or interfere with other components. Countersink Holes A countersink uses a conical recess instead of a cylindrical one. It’s designed for flat-head screws that need to sit flush with the surrounding surface. Just make sure the angle matches the fastener you’re using, since common standards include 82°, 90°, and 100°. Reamed Holes A reamed hole comes into play when a standard machined hole isn’t accurate or smooth enough. The hole is made slightly undersized first, then a reamer removes a small amount of material to bring it to its final size. Reamed holes are often used for dowel pins, precision shafts, bearings, and alignment features. Keep in mind that reaming adds another operation, so only use it when you need that level of precision. Best Practices for Designing Holes in Machined Parts A few practical design choices can make it a whole lot easier to machine holes while helping control cost and accuracy. Drill Sizes Generally, it’s a good idea to choose standard hole and fastener sizes when they meet your requirements, since added complexity can bloat your budget and stretch your schedule. At Protolabs, however, most milled holes are interpolated with an end mill, so engineers can specify the diameter their design needs. Hole Diameter and Depth Deep holes are harder to machine because chips are more difficult to clear and longer tools are more likely to flex. Keep holes only as deep as needed, and use a through hole instead of a blind hole when the design allows. Tool Access Holes inside deep pockets or close to tall walls may require longer, less rigid tools, which can hurt accuracy and increase machining time. Give the tool a clear path to the feature whenever possible. Materials Hole machining behaves differently depending on the material . Harder metals can increase tool wear, while some softer plastics can flex or deform, making it harder to maintain tight tolerances. Tolerances Tighter tolerances take more time to machine and inspect. Reserve them for holes where fit is critical, such as bearings, dowel pins, or precision shafts. Edge Distance Holes placed too close to an edge can weaken the part and make machining more difficult. When checking edge distance, consider the largest diameter of the entire feature, including counterbores and countersinks. Chamfers Use a chamfer to help guide screws, pins, or shafts into a hole. If you only need to remove a sharp edge, call for an edge break instead of tightly controlling the chamfer dimensions. How to Choose the Right Hole Feature When choosing between hole features, consider the required fit, fastener type, available material thickness, tool access, and tolerance. In general, use the simplest feature that meets the functional requirements, since simpler hole designs are generally faster to machine and easier to inspect. If you need to… Consider using… Why Pass a fastener through a part Through hole Usually, the simplest option when the hole can extend through the part Thread directly into the part Tapped hole Eliminates the need for a separate nut Recess a socket-head fastener Counterbore Lets the fastener head sit flush with or below the surface Flush-mount a flat-head screw Countersink Matches the tapered head of the fastener Achieve precise alignment Reamed hole Provides tighter diameter control and a smoother finish Keep the opposite surface intact Blind hole Stops the hole before it passes through the part For more ways to improve manufacturability, read 6 Ways to Optimize Part Design for CNC Machining . Common Mistakes to Avoid The most common issues when CNC machining holes come from adding more depth, precision, or complexity than the feature actually needs , or overlooking how the tool will reach and machine the hole. Watch out for these pitfalls: Specifying unnecessarily deep blind holes Choosing nonstandard fastener sizes without a functional reason Applying tight tolerances to non-critical features Positioning holes too close to part edges Forgetting to specify countersink angles Calling for unnecessary thread depth Designing features with poor tool access FAQ What is the difference between a through hole and a blind hole? expand_less expand_more A through hole passes completely through the part. A blind hole stops at a specified depth. How deep can CNC machining holes be? expand_less expand_more Practical depth depends on diameter, material, tolerance, and access. Holes deeper than roughly six diameters deserve an early manufacturability check. When should I use a reamed hole? expand_less expand_more Use one when a pin, bearing, bushing, or shaft needs tighter diameter control and a smoother bore. Do threaded holes need extra depth? expand_less expand_more Yes, especially blind holes. The hole usually needs to extend deeper than the usable threads to leave room for the threading tool to finish its cut and for chips to collect below the threaded section. What is the difference between a counterbore and a countersink? expand_less expand_more A counterbore has straight walls and a flat seat. A countersink is conical and designed for a flat-head screw. Get a Quote Ready to optimize your CNC hole designs? Upload your CAD model to Protolabs for an instant quote and receive design feedback to help you machine better parts, faster. Upload Your CAD Model You Might Also Like... Threaded Holes Guidelines Threading Considerations for CNC Machining Material Comparison Guide Tagged: cnc machining, cnc design, hole design, threaded holes, manufacturing, machining, design tips",
+  "published_at": "",
+  "requested_url": "https://www.protolabs.com/resources/blog/cnc-hole-design-through-blind-tapped-and-more",
+  "schema_version": 2,
+  "sections": [
+    {
+      "hash": "344ff378b51888e06ae918b612daed4ada4687a2",
+      "heading": "CNC Hole Design: Through, Blind, Tapped, and More",
+      "level": "h1",
+      "text": "CNC Hole Design: Through, Blind, Tapped, and More By Protolabs CNC machining August 20, 2026 CNC Hole Design: Through, Blind, Tapped, and More By Protolabs"
+    },
+    {
+      "hash": "c4c74f480bbc768ed7e40c817c99da71c633cc08",
+      "heading": "Common Types of CNC Machining Holes",
+      "level": "h2",
+      "text": "Common Types of CNC Machining Holes Common Types of CNC Machining Holes"
+    },
+    {
+      "hash": "a63acfbc59ea6ec89f58385f83681b9f5544f778",
+      "heading": "Through Holes",
+      "level": "h3",
+      "text": "Through Holes Through Holes"
+    },
+    {
+      "hash": "dd788e93afa2337fe12cc128f86b8e9006b91880",
+      "heading": "Blind Holes",
+      "level": "h3",
+      "text": "Blind Holes Blind Holes"
+    },
+    {
+      "hash": "082d7088a2157dd3d1bcb47b66327bf68605a548",
+      "heading": "Tapped (Threaded) Holes",
+      "level": "h3",
+      "text": "Tapped (Threaded) Holes Tapped (Threaded) Holes"
+    },
+    {
+      "hash": "9888fc25be212f31fbddcefffa54ee01785c492a",
+      "heading": "Counterbore Holes",
+      "level": "h3",
+      "text": "Counterbore Holes Counterbore Holes"
+    },
+    {
+      "hash": "7be3c6711cc6fe0df71d84d3a2fd0ff947b824b2",
+      "heading": "Countersink Holes",
+      "level": "h3",
+      "text": "Countersink Holes Countersink Holes"
+    },
+    {
+      "hash": "adf2cfd9d97740a286fd9c2c5dca59c9752e63d0",
+      "heading": "Reamed Holes",
+      "level": "h3",
+      "text": "Reamed Holes Reamed Holes"
+    },
+    {
+      "hash": "dbc740e4b093852983d96ab6b60ac272e5885700",
+      "heading": "Best Practices for Designing Holes in Machined Parts",
+      "level": "h2",
+      "text": "Best Practices for Designing Holes in Machined Parts Best Practices for Designing Holes in Machined Parts"
+    },
+    {
+      "hash": "49ec7968c3b379ddc342550989e5d9c7ff90442e",
+      "heading": "Drill Sizes",
+      "level": "h3",
+      "text": "Drill Sizes Drill Sizes"
+    },
+    {
+      "hash": "07cfde1fd169e4c21e315d9fe5d9f01a486cb768",
+      "heading": "Hole Diameter and Depth",
+      "level": "h3",
+      "text": "Hole Diameter and Depth Hole Diameter and Depth"
+    },
+    {
+      "hash": "4556ed414c262cac2cf3529ef190018295c38f9c",
+      "heading": "Tool Access",
+      "level": "h3",
+      "text": "Tool Access Tool Access"
+    },
+    {
+      "hash": "b371886773f0547e1888c8bcf9d168ef32896830",
+      "heading": "Materials",
+      "level": "h3",
+      "text": "Materials Materials"
+    },
+    {
+      "hash": "1ca5a3bd3f178b79cb0a25fa52f07ff80cf822eb",
+      "heading": "Tolerances",
+      "level": "h3",
+      "text": "Tolerances Tolerances"
+    },
+    {
+      "hash": "a48969159e4d082d3d2bb05620418d8b1837efc4",
+      "heading": "Edge Distance",
+      "level": "h3",
+      "text": "Edge Distance Edge Distance"
+    },
+    {
+      "hash": "23f0006d0a12527f0be480949f47f9e4dee50fb7",
+      "heading": "Chamfers",
+      "level": "h3",
+      "text": "Chamfers Chamfers"
+    },
+    {
+      "hash": "a22ff6bb7bf93364f2e09b38fd43952eca77e172",
+      "heading": "How to Choose the Right Hole Feature",
+      "level": "h2",
+      "text": "How to Choose the Right Hole Feature How to Choose the Right Hole Feature"
+    },
+    {
+      "hash": "12d3ea8d445ca94b0a5aec8e6b143c86d6403bc6",
+      "heading": "Common Mistakes to Avoid",
+      "level": "h2",
+      "text": "Common Mistakes to Avoid Common Mistakes to Avoid"
+    },
+    {
+      "hash": "aa218f69f7a3aaf89bf80e265a076ab2bd7a0a24",
+      "heading": "FAQ",
+      "level": "h2",
+      "text": "FAQ What is the difference between a through hole and a blind hole? expand_less expand_more A through hole passes completely through the part. A blind hole stops at a specified depth. How deep can CNC machining holes be? expand_less expand_more Practical depth depends on diameter, material, tolerance, and access. Holes deeper than roughly six diameters deserve an early manufacturability check. When should I use a reamed hole? expand_less expand_more Use one when a pin, bearing, bushing, or shaft needs tighter diameter control and a smoother bore. Do threaded holes need extra depth? expand_less expand_more Yes, especially blind holes. The hole usually needs to extend deeper than the usable threads to leave room for the threading tool to finish its cut and for chips to collect below the threaded section. What is the difference between a counterbore and a countersink? expand_less expand_more A counterbore has straight walls and a flat seat. A countersink is conical and designed for a flat-head screw."
+    },
+    {
+      "hash": "4418d76a83b2da643d33a7a71ef60cf56edff927",
+      "heading": "What is the difference between a through hole and a blind hole?",
+      "level": "h3",
+      "text": "What is the difference between a through hole and a blind hole? expand_less expand_more"
+    },
+    {
+      "hash": "0b6954f7d4b064c390b92887a3973bea638204e8",
+      "heading": "How deep can CNC machining holes be?",
+      "level": "h3",
+      "text": "How deep can CNC machining holes be? expand_less expand_more"
+    },
+    {
+      "hash": "c42a356e338e705e680d0c79d0da2e025695a74b",
+      "heading": "When should I use a reamed hole?",
+      "level": "h3",
+      "text": "When should I use a reamed hole? expand_less expand_more"
+    },
+    {
+      "hash": "49c1d0e481a8c9062508c49653a9ce7c4166b47d",
+      "heading": "Do threaded holes need extra depth?",
+      "level": "h3",
+      "text": "Do threaded holes need extra depth? expand_less expand_more"
+    },
+    {
+      "hash": "8907b6ff6daad43495815940ff0e4359980ecf50",
+      "heading": "What is the difference between a counterbore and a countersink?",
+      "level": "h3",
+      "text": "What is the difference between a counterbore and a countersink? expand_less expand_more"
+    },
+    {
+      "hash": "61abfb61807b79b1c485a4f5dbaa8b31ed1f4a2e",
+      "heading": "Get a Quote",
+      "level": "h2",
+      "text": "Get a Quote Ready to optimize your CNC hole designs? Upload your CAD model to Protolabs for an instant quote and receive design feedback to help you machine better parts, faster. Upload Your CAD Model"
+    }
+  ],
+  "sitemap_lastmod": "2026-08-20T09:33:00+00:00",
+  "status": 200,
+  "structure_hash": "185900af44caa07f0fc4a567f33ae12bb687f7e4",
+  "text_excerpt": "CNC machining August 20, 2026 CNC Hole Design: Through, Blind, Tapped, and More By Protolabs Holes might look like one of the simplest features in a part, but they can be tricky to machine because the cutting tool has to work inside a confined space, where access, chip removal, heat, and tool rigidity all become more difficult. Design choices like depth, diameter, and placement can affect accuracy, machining time, and cost. Knowing the different types of CNC machining holes, and when to use each one, makes it easier to design parts that do what you need without adding unnecessary complexity. Here is an overview of the most common hole types, practical design tips, and a few common mistakes to avoid. Common Types of CNC Machining Holes Most engineers are familiar with holes—black holes and rabbit holes included—but there are a few more practical types worth knowing if you want to avoid tumbling down the metaphorical ones. Some holes provide clearance for fasteners, while others align mating parts with locating pins, carry fluids, or create a threaded connection. And although we often talk about “drilling” holes, that’s only one way to make them. Depending on the diameter, tolerance...",
+  "text_hash": "c7f7635b183b0307d416ff622ba23914dd8b2a44",
+  "title": "CNC Machining Holes: Types, Design Tips and Best Practices Guide",
+  "url": "https://www.protolabs.com/resources/blog/cnc-hole-design-through-blind-tapped-and-more"
+}
