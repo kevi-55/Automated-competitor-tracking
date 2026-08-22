@@ -1,0 +1,125 @@
+{
+  "canonical": "https://www.xometry.com/resources/sheet/understanding-sheet-metal-tolerances",
+  "category": "content",
+  "competitor": "Xometry",
+  "ctas": [
+    {
+      "href": "https://www.xometry.com/authors/greg-paulsen",
+      "text": "Greg Paulsen"
+    },
+    {
+      "href": "https://www.xometry.com/resources/design-guides/design-guide-sheet-metal-fabrication",
+      "text": "Sheet Metal Design Guide"
+    },
+    {
+      "href": "https://www.xometry.com/quoting/home",
+      "text": "Upload Your Design"
+    },
+    {
+      "href": "https://www.xometry.com/authors/greg-paulsen",
+      "text": "Read more articles by Greg Paulsen"
+    }
+  ],
+  "discovered_via": "feed",
+  "fetched_at": "2026-08-22T02:23:37+00:00",
+  "final_url": "https://www.xometry.com/resources/sheet/understanding-sheet-metal-tolerances",
+  "first_seen_at": "2026-08-22T02:23:37+00:00",
+  "h1": "Understanding Sheet Metal Tolerances",
+  "headings": [
+    {
+      "level": "h1",
+      "text": "Understanding Sheet Metal Tolerances"
+    },
+    {
+      "level": "h2",
+      "text": "A Quick Guide to Countersinks, Curls, and Hems"
+    },
+    {
+      "level": "h2",
+      "text": "Countersinks"
+    },
+    {
+      "level": "h2",
+      "text": "Curls"
+    },
+    {
+      "level": "h2",
+      "text": "Hems"
+    }
+  ],
+  "images": [
+    {
+      "alt": "Greg Paulsen",
+      "src": "https://images.prismic.io/xometry-marketing/9759abb2-e19d-42b3-9f04-dc8b672c240b_Greg+Paulsen+Headshot.png?auto=format%2Ccompress%3Fauto%3Dcompress%2Cformat&rect=0%2C0%2C800%2C800..."
+    },
+    {
+      "alt": "Flat sheet metal part",
+      "src": "https://images.prismic.io/xometry-marketing/fbcfb66c-21ad-40d2-9bd6-8d61ce0cb3f9_20170118-sheetmetaltolerances-blog-hero.jpg?auto=format%2Ccompress&rect=339%2C0%2C720%2C720&w=3840..."
+    },
+    {
+      "alt": "drawing of countersinks",
+      "src": "https://images.prismic.io/xometry-marketing/0bd2b477-b950-4123-bb40-a4a55aebaec7_20170118-sheetmetaltolerances-img01.png?auto=format%2Ccompress&rect=0%2C41%2C749%2C421&w=3840&fit=..."
+    },
+    {
+      "alt": "drawing of curled metal",
+      "src": "https://images.prismic.io/xometry-marketing/76e08d06-818e-4e20-b1b0-efa2aa68c59b_20170118-sheetmetaltolerances-img02.png?auto=format%2Ccompress&rect=112%2C0%2C641%2C360&w=3840&fit..."
+    },
+    {
+      "alt": "drawing of hems",
+      "src": "https://images.prismic.io/xometry-marketing/e417bf8f-3640-4687-a54c-c4057d09d8b8_20170118-sheetmetaltolerances-img03.png?auto=format%2Ccompress&rect=267%2C0%2C730%2C410&w=3840&fit..."
+    },
+    {
+      "alt": "",
+      "src": "https://images.prismic.io/xometry-marketing/aeksPsBOoF08xOhg_x-pipe.png?auto=format,compress"
+    },
+    {
+      "alt": "picture of Greg Paulsen",
+      "src": "https://images.prismic.io/xometry-marketing/9759abb2-e19d-42b3-9f04-dc8b672c240b_Greg+Paulsen+Headshot.png?auto=format%2Ccompress&rect=0%2C0%2C800%2C800&w=192&h=192&fit=crop"
+    }
+  ],
+  "meta_description": "Check out our list of quick tips and tolerance specifications for designing Sheet Metal countersinks, curls, and hems!",
+  "modified_at": "2026-08-21T03:00:14+00:00",
+  "monitored_text": "Resources / Sheet / Understanding Sheet Metal Tolerances Understanding Sheet Metal Tolerances Written by Greg Paulsen 2 min read Published October 6, 2020 Updated August 21, 2026 Check out our list of quick tips and tolerance specifications for designing Sheet Metal countersinks, curls, and hems! A Quick Guide to Countersinks, Curls, and Hems Compared to other machining processes, designing Sheet Metal parts is relatively straight-forward. Sheet metal parts are made from a single metal sheet by punching, cutting, stamping, and/or bending and are known for their end-use durability. But there are still many important design-for-manufacturability issues to consider. Check out our list of quick tips and tolerance specifications for designing Sheet Metal countersinks, curls, and hems! And for even more information, download our free Sheet Metal Design Guide ! Countersinks The maximum depth of a countersink is .6 times the material thickness of the part. Countersinks must be at least 8 times the material thickness from each other, 4 times the material’s thickness from an edge, and 3 times the material’s thickness from a bend. Curls Outside radius of curls must be at least 2 times the material’s thickness. Holes should be placed away from the curl at least a distance of the radius of the curl plus the material’s thickness. Bends should be at least 6 times the material’s thickness plus the radius of the curl. Hems Hems are folds to the edge of a part to create a rounded, safe edge. Hems may be open, flat, or tear-dropped, and tolerances depend on the hem’s radius, material thickness, and features near the hem (Note: flat hems risk fracturing the material at the bend and should be avoided if possible). For open hems, minimum inside diameter is equal to the material thickness (larger diameters tend to lose circular shape), and the return length is at least 4 times the material’s thickness. Tear-dropped hems must maintain an inside diameter of at least one material’s thickness, an opening of at least ¼ the material’s thickness, and return length is also 4 times the material’s thickness. Start Your Instant Quote STEP · STP · SLDPRT · STL · DXF · IPT · X_T · X_B · 3DXML · CATPART · PRT · SAT · 3MF · JT Upload Your Design All uploads are secure and confidential Greg Paulsen As a former Sr. Solutions Engineer and Business Development leader at Xometry, Greg Paulsen worked at the intersection of engineering and growth. He developed design-for-manufacturing resources, consulted on complex custom manufacturing projects, and helped organizations transition seamlessly from prototype to production. Greg worked closely with customers to identify optimal manufacturing solutions across CNC machining, additive manufacturing, sheet metal, urethane casting, and injection molding. Read more articles by Greg Paulsen Start Your Instant Quote STEP · STP · SLDPRT · STL · DXF · IPT · X_T · X_B · 3DXML · CATPART · PRT · SAT · 3MF · JT Upload Your Design All uploads are secure and confidential Recent Stories How to Smooth 3D Prints: PLA, ABS, and FDM Prints August 21, 2026 26 min read Understanding Water Jetting August 21, 2026 3 min read Case Study: The First Commercial 3D Chocolate Printer August 21, 2026 5 min read",
+  "published_at": "2020-10-06T20:28:35+00:00",
+  "requested_url": "https://www.xometry.com/resources/sheet/understanding-sheet-metal-tolerances",
+  "schema_version": 2,
+  "sections": [
+    {
+      "hash": "aef94d382f5a6ce1b9ef6812aebb228ab1767c46",
+      "heading": "Understanding Sheet Metal Tolerances",
+      "level": "h1",
+      "text": "Understanding Sheet Metal Tolerances Understanding Sheet Metal Tolerances"
+    },
+    {
+      "hash": "b8f36007cf009bdd846ee809caf4aa16a2c84879",
+      "heading": "A Quick Guide to Countersinks, Curls, and Hems",
+      "level": "h2",
+      "text": "A Quick Guide to Countersinks, Curls, and Hems Compared to other machining processes, designing Sheet Metal parts is relatively straight-forward. Sheet metal parts are made from a single metal sheet by punching, cutting, stamping, and/or bending and are known for their end-use durability. But there are still many important design-for-manufacturability issues to consider. Check out our list of quick tips and tolerance specifications for designing Sheet Metal countersinks, curls, and hems! And for even more information, download our free Sheet Metal Design Guide !"
+    },
+    {
+      "hash": "81d9ce967afb220177ac31bd42184151f5a398bf",
+      "heading": "Countersinks",
+      "level": "h2",
+      "text": "Countersinks Countersinks"
+    },
+    {
+      "hash": "1b86a5695214f63c849c562c884b4349d74df947",
+      "heading": "Curls",
+      "level": "h2",
+      "text": "Curls Curls"
+    },
+    {
+      "hash": "7cb0013227f7bfd0cbefca4d408bf855573fd936",
+      "heading": "Hems",
+      "level": "h2",
+      "text": "Hems Hems"
+    }
+  ],
+  "sitemap_lastmod": "",
+  "status": 200,
+  "structure_hash": "cc81d14547ed517f3fe3d5912c00bd92f110683a",
+  "text_excerpt": "Resources / Sheet / Understanding Sheet Metal Tolerances Understanding Sheet Metal Tolerances Written by Greg Paulsen 2 min read Published October 6, 2020 Updated August 21, 2026 Check out our list of quick tips and tolerance specifications for designing Sheet Metal countersinks, curls, and hems! A Quick Guide to Countersinks, Curls, and Hems Compared to other machining processes, designing Sheet Metal parts is relatively straight-forward. Sheet metal parts are made from a single metal sheet by punching, cutting, stamping, and/or bending and are known for their end-use durability. But there are still many important design-for-manufacturability issues to consider. Check out our list of quick tips and tolerance specifications for designing Sheet Metal countersinks, curls, and hems! And for even more information, download our free Sheet Metal Design Guide ! Countersinks The maximum depth of a countersink is .6 times the material thickness of the part. Countersinks must be at least 8 times the material thickness from each other, 4 times the material’s thickness from an edge, and 3 times the material’s thickness from a bend. Curls Outside radius of curls must be at least 2 times the ma...",
+  "text_hash": "40b992bba381363cc42cda23e4eb40c50c207c23",
+  "title": "Understanding Sheet Metal Tolerances",
+  "url": "https://www.xometry.com/resources/sheet/understanding-sheet-metal-tolerances"
+}
