@@ -486,6 +486,7 @@
       "https://www.pcbway.com/blog/PCB_Design_Layout/Switching_Power_Supply_PCB_Layout_Guide_AC_DC_DC_DC_Digital_Power_Design_Bes_446b6fa4.html",
       "https://www.pcbway.com/blog/PCB_Design_Layout/How_to_Design_an_H_Bridge_Motor_Driver_Circuit_PCB_Layout_Guide_e8a9d06f.html",
       "https://www.pcbway.com/blog/PCB_Design_Layout/The_Complete_Guide_to_Mixed_Signal_PCB_Layout_Grounding_ab0820dc.html",
+      "https://www.pcbway.com/blog/News/KPCA_Show_2026_Meet_PCBWay_at_Booth_R310_in_South_Korea_8033f91f.html",
       "https://www.pcbway.com/blog/help_center/How_to_Use_Payoneer_to_Pay_for_Orders_a72bb66b.html",
       "https://www.pcbway.com/blog/News/Impact_of_the_New_U_S_Tariff_Policy_on_Customs_Clearance_51dff4fd.html",
       "https://www.pcbway.com/blog/HDI_PCB/Congratulations_on_the_Successful_Development_of_PCBWay_s_24_Layer_6_Order_Arbi_76c36a5e.html",
@@ -526,7 +527,6 @@
       "https://www.pcbway.com/blog/PCB_Design_Layout/Bypass_vs_Decoupling_Capacitors_How_to_Choose_and_Place_Capacitors_on_a_PCB_e0adb425.html",
       "https://www.pcbway.com/blog?tag=capacitor+placement",
       "https://www.pcbway.com/blog?tag=bypass+capacitor+vs+decoupling+capacitor",
-      "https://www.pcbway.com/blog/News/KPCA_Show_2026_Meet_PCBWay_at_Booth_R310_in_South_Korea_8033f91f.html",
       "https://www.pcbway.com/blog/Engineering_Technical/Stage_1_Frequency_Controlled_Atomic_State_Demonstrator_fdd319ac.html",
       "https://www.pcbway.com/blog/Engineering_Technical",
       "https://www.pcbway.com/blog?tag=Atomic+Physics",
@@ -927,7 +927,7 @@
       "https://quote.emachineshop.com/emachineshop/widget/upload"
     ]
   },
-  "last_run_at": "2026-08-23T02:54:38+00:00",
+  "last_run_at": "2026-08-24T02:56:02+00:00",
   "runs": [
     {
       "errors": 12,
@@ -1236,6 +1236,13 @@
       "finished_at": "2026-08-23T02:54:38+00:00",
       "mode": "daily",
       "run_id": "20260823T023644Z"
+    },
+    {
+      "errors": 20,
+      "events": 81,
+      "finished_at": "2026-08-24T02:56:02+00:00",
+      "mode": "daily",
+      "run_id": "20260824T023659Z"
     }
   ],
   "schema_version": 2
