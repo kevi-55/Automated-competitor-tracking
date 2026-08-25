@@ -1,0 +1,213 @@
+{
+  "canonical": "https://www.emachineshop.com/cnc-machining-cost-factors",
+  "category": "pricing",
+  "competitor": "eMachineShop",
+  "ctas": [
+    {
+      "href": "https://quote.emachineshop.com/",
+      "text": "instant quoting tool"
+    },
+    {
+      "href": "https://www.emachineshop.com/comparing-cnc-quotes-tolerances-finishing",
+      "text": "Comparing CNC Quotes? Here’s What Tolerance and Finishing Line Items Actually Mean"
+    },
+    {
+      "href": "https://www.emachineshop.com/comparing-cnc-quotes-tolerances-finishing",
+      "text": "Comparing CNC Quotes: Tolerance and Finishing Line Items"
+    },
+    {
+      "href": "https://quote.emachineshop.com/",
+      "text": "Upload your CAD file for an instant quote"
+    }
+  ],
+  "discovered_via": "priority",
+  "fetched_at": "2026-08-25T02:36:25+00:00",
+  "final_url": "https://www.emachineshop.com/cnc-machining-cost-factors",
+  "first_seen_at": "2026-08-25T02:36:25+00:00",
+  "h1": "Why Does My CNC Part Cost So Much? 10 Factors That Actually Drive the Price",
+  "headings": [
+    {
+      "level": "h1",
+      "text": "Why Does My CNC Part Cost So Much? 10 Factors That Actually Drive the Price"
+    },
+    {
+      "level": "h2",
+      "text": "What Material Are You Actually Specifying?"
+    },
+    {
+      "level": "h2",
+      "text": "How Tight Are Your Tolerances, and Do You Need Them That Tight?"
+    },
+    {
+      "level": "h2",
+      "text": "What Does Your Surface Finish Callout Actually Cost?"
+    },
+    {
+      "level": "h2",
+      "text": "How Complex Is the Part Geometry?"
+    },
+    {
+      "level": "h2",
+      "text": "How Many Setups Does the Part Require?"
+    },
+    {
+      "level": "h2",
+      "text": "What Quantity Are You Ordering?"
+    },
+    {
+      "level": "h2",
+      "text": "How Much Material Are You Removing?"
+    },
+    {
+      "level": "h2",
+      "text": "Do You Need Secondary Operations?"
+    },
+    {
+      "level": "h2",
+      "text": "What Inspection and Documentation Do You Require?"
+    },
+    {
+      "level": "h2",
+      "text": "How Fast Do You Need It?"
+    },
+    {
+      "level": "h2",
+      "text": "The Real Question to Ask Before You Submit a Drawing"
+    },
+    {
+      "level": "h2",
+      "text": "FAQ"
+    }
+  ],
+  "images": [
+    {
+      "alt": "Precision CNC machined parts illustrating the factors that affect machining cost including material, tolerances, geomet...",
+      "src": "https://www.emachineshop.com/wp-content/uploads/cnc-part-cost-factors.jpg"
+    },
+    {
+      "alt": "facebook sharing button",
+      "src": "https://platform-cdn.sharethis.com/img/facebook.svg"
+    },
+    {
+      "alt": "twitter sharing button",
+      "src": "https://platform-cdn.sharethis.com/img/twitter.svg"
+    },
+    {
+      "alt": "email sharing button",
+      "src": "https://platform-cdn.sharethis.com/img/email.svg"
+    },
+    {
+      "alt": "whatsapp sharing button",
+      "src": "https://platform-cdn.sharethis.com/img/whatsapp.svg"
+    },
+    {
+      "alt": "linkedin sharing button",
+      "src": "https://platform-cdn.sharethis.com/img/linkedin.svg"
+    },
+    {
+      "alt": "messenger sharing button",
+      "src": "https://platform-cdn.sharethis.com/img/messenger.svg"
+    },
+    {
+      "alt": "blogger sharing button",
+      "src": "https://platform-cdn.sharethis.com/img/blogger.svg"
+    },
+    {
+      "alt": "pinterest sharing button",
+      "src": "https://platform-cdn.sharethis.com/img/pinterest.svg"
+    }
+  ],
+  "meta_description": "Why does a CNC part cost so much? Learn the 10 factors that drive CNC machining cost, from materials and tolerances to setups, inspection and lead time.",
+  "modified_at": "",
+  "monitored_text": "Why Does My CNC Part Cost So Much? 10 Factors That Actually Drive the Price by James Wright | Aug 24, 2026 « Back to all posts A $40 bracket and a $400 bracket can look nearly identical on a drawing. The difference almost never comes down to greed or an inflated shop rate — it comes down to ten specific variables, and most of them are decisions the designer made without realizing they had a price tag attached. Quick summary: CNC part cost is driven by material, tolerance, surface finish, part geometry, setup complexity, quantity, machine time, secondary operations, inspection requirements, and lead time. Tightening any one of these beyond what the part actually needs adds cost without adding function. Below is what each factor does to your quote, and where the “expensive for no reason” costs usually hide. What Material Are You Actually Specifying? Raw material cost varies enormously — 6061 aluminum and titanium can differ by 10x per pound, and machinability differs almost as much. Titanium and hardened steels run slower spindle speeds, wear tooling faster, and need more frequent tool changes, all of which show up as machine time on your quote. How Tight Are Your Tolerances, and Do You Need Them That Tight? This is the single biggest avoidable cost driver we see. Under ASME Y14.5-2018, the current U.S. standard for dimensioning and tolerancing, a tolerance is a functional requirement, not a precision flex — it exists to guarantee fit and performance, nothing more. A ±0.005” tolerance is achievable on most standard 3-axis work at normal speed. Push that to ±0.0005” and you’re often looking at secondary grinding, more frequent in-process inspection, and multiple setups just to hold the number — on a feature that may not have needed it. Before specifying anything tighter than ±0.005”, it’s worth asking whether the assembly actually requires it or whether it’s a default carried over from a previous drawing. What Does Your Surface Finish Callout Actually Cost? A standard machined finish (usually 125–250 Ra) comes off the tool with no extra steps. Anything smoother — a 32 Ra finish for a sealing surface, for example — usually means a secondary grinding or polishing pass. That’s not a line-item nuisance; it’s real added machine time and, often, a different piece of equipment entirely. How Complex Is the Part Geometry? Deep pockets, thin walls, internal features reachable only from odd angles — all of these slow the toolpath down and increase the risk of a scrapped part mid-run. Geometry that requires a 5-axis setup instead of 3-axis, or multiple work-holding changes, adds setup time that gets amortized into the unit price. How Many Setups Does the Part Require? Every time a part has to be flipped, re-fixtured, or moved to a different machine, that’s non-cutting time the shop still has to charge for. A part designed so most features can be reached in one or two setups is meaningfully cheaper than one that needs four. What Quantity Are You Ordering? Setup and programming costs are fixed regardless of whether you order 1 part or 100. At low quantities, you’re paying almost entirely for setup; at higher quantities, that fixed cost spreads out and the per-unit price drops. This is why a 10-piece order and a 100-piece order of the same part rarely scale linearly — see our companion piece on quantity pricing for the specific breakdown. How Much Material Are You Removing? A part machined from a large block down to a small final shape — high material removal — takes longer to cut and wastes more raw stock than a part closer in size to its starting stock. When possible, starting from bar stock sized closer to the finished part reduces both machine time and scrap. Do You Need Secondary Operations? Anodizing, powder coating, heat treatment, tapping, and similar operations are often outsourced to specialty vendors, which adds both cost and lead time on top of the base machining price. These aren’t line items to avoid — they’re often functionally necessary — but they should be a deliberate spec, not an assumption. What Inspection and Documentation Do You Require? A part with no special inspection requirement gets checked against the print at final QC. A part requiring a full dimensional report, first article inspection, or material certification requires additional labor that’s separate from the machining itself. How Fast Do You Need It? Standard lead time lets a shop slot your job into existing machine capacity. Rush turnaround means bumping other jobs, potential overtime, and sometimes expedited material sourcing — all of which carry a premium, typically well above standard pricing. The Real Question to Ask Before You Submit a Drawing Every one of these factors is a lever, not a fixed cost. The fastest way to lower a quote isn’t to shop it around endlessly — it’s to look at the drawing and ask, for each tolerance, finish, and feature: does the part’s function actually require this, or is it a default? FAQ Does ordering more parts always lower the unit price? Usually, yes, because fixed setup cost spreads across more units — but the relationship isn’t linear, and at very high quantities other processes (like injection molding) may become more cost-effective than CNC. See our companion article on quantity pricing. Is a tighter tolerance ever “free”? Occasionally, if the feature is small and the machine can hold it in the same pass as a looser tolerance elsewhere. But it’s the exception, not the rule. Does material choice affect lead time as well as cost? Yes — less common alloys and sizes may need to be special-ordered, which adds time before machining even starts. Can I get an accurate cost estimate before finalizing my drawing? Yes. Upload a CAD file to our instant quoting tool for a real-time price based on your actual geometry, material, and tolerances. What’s the difference between standard and tight tolerance defaults on a quote? This varies by process and shop. We cover exactly what’s included in a “standard” quote versus a tightened one in Comparing CNC Quotes? Here’s What Tolerance and Finishing Line Items Actually Mean . Sources: ASME Y14.5-2018, Dimensioning and Tolerancing (The American Society of Mechanical Engineers). Related reading: GD&T Reference Guide · Comparing CNC Quotes: Tolerance and Finishing Line Items · Accurate Machine & Tool’s What Drives the Cost of Precision CNC Aerospace Parts? for a deeper look at cost drivers in regulated aerospace work. Ready to see what your part actually costs? Upload your CAD file for an instant quote . Share this post in Social Media",
+  "published_at": "2026-08-24T14:20:37+00:00",
+  "requested_url": "https://www.emachineshop.com/cnc-machining",
+  "schema_version": 2,
+  "sections": [
+    {
+      "hash": "a7e4e28f0b6a918544127fe5ae20d1741a09444f",
+      "heading": "Why Does My CNC Part Cost So Much? 10 Factors That Actually Drive the Price",
+      "level": "h1",
+      "text": "Why Does My CNC Part Cost So Much? 10 Factors That Actually Drive the Price by James Wright | Aug 24, 2026 « Back to all posts"
+    },
+    {
+      "hash": "8e5376eb4a874fbf36a680c893846f076d51a7bd",
+      "heading": "What Material Are You Actually Specifying?",
+      "level": "h2",
+      "text": "What Material Are You Actually Specifying? Raw material cost varies enormously — 6061 aluminum and titanium can differ by 10x per pound, and machinability differs almost as much. Titanium and hardened steels run slower spindle speeds, wear tooling faster, and need more frequent tool changes, all of which show up as machine time on your quote."
+    },
+    {
+      "hash": "5e0f3dfcea8d3896e47f3681d2831e09f6a58d25",
+      "heading": "How Tight Are Your Tolerances, and Do You Need Them That Tight?",
+      "level": "h2",
+      "text": "How Tight Are Your Tolerances, and Do You Need Them That Tight? This is the single biggest avoidable cost driver we see. Under ASME Y14.5-2018, the current U.S. standard for dimensioning and tolerancing, a tolerance is a functional requirement, not a precision flex — it exists to guarantee fit and performance, nothing more. A ±0.005” tolerance is achievable on most standard 3-axis work at normal speed. Push that to ±0.0005” and you’re often looking at secondary grinding, more frequent in-process inspection, and multiple setups just to hold the number — on a feature that may not have needed it. Before specifying anything tighter than ±0.005”, it’s worth asking whether the assembly actually requires it or whether it’s a default carried over from a previous drawing."
+    },
+    {
+      "hash": "5c93ad79f83c8b7b9a3c0045bc8cbea1eef07f23",
+      "heading": "What Does Your Surface Finish Callout Actually Cost?",
+      "level": "h2",
+      "text": "What Does Your Surface Finish Callout Actually Cost? A standard machined finish (usually 125–250 Ra) comes off the tool with no extra steps. Anything smoother — a 32 Ra finish for a sealing surface, for example — usually means a secondary grinding or polishing pass. That’s not a line-item nuisance; it’s real added machine time and, often, a different piece of equipment entirely."
+    },
+    {
+      "hash": "b4d7e3b2097ae0f29da6a4e507689fb98e83796c",
+      "heading": "How Complex Is the Part Geometry?",
+      "level": "h2",
+      "text": "How Complex Is the Part Geometry? Deep pockets, thin walls, internal features reachable only from odd angles — all of these slow the toolpath down and increase the risk of a scrapped part mid-run. Geometry that requires a 5-axis setup instead of 3-axis, or multiple work-holding changes, adds setup time that gets amortized into the unit price."
+    },
+    {
+      "hash": "f79e1eae705e2ed31bb4973c0931bfc1f4b6448d",
+      "heading": "How Many Setups Does the Part Require?",
+      "level": "h2",
+      "text": "How Many Setups Does the Part Require? Every time a part has to be flipped, re-fixtured, or moved to a different machine, that’s non-cutting time the shop still has to charge for. A part designed so most features can be reached in one or two setups is meaningfully cheaper than one that needs four."
+    },
+    {
+      "hash": "0b340b66fa07dee8a41021ac1de6ff81aa3cbe8e",
+      "heading": "What Quantity Are You Ordering?",
+      "level": "h2",
+      "text": "What Quantity Are You Ordering? Setup and programming costs are fixed regardless of whether you order 1 part or 100. At low quantities, you’re paying almost entirely for setup; at higher quantities, that fixed cost spreads out and the per-unit price drops. This is why a 10-piece order and a 100-piece order of the same part rarely scale linearly — see our companion piece on quantity pricing for the specific breakdown."
+    },
+    {
+      "hash": "1dc7117fca6b2f7e7c5e25466ab5082cf8266b14",
+      "heading": "How Much Material Are You Removing?",
+      "level": "h2",
+      "text": "How Much Material Are You Removing? A part machined from a large block down to a small final shape — high material removal — takes longer to cut and wastes more raw stock than a part closer in size to its starting stock. When possible, starting from bar stock sized closer to the finished part reduces both machine time and scrap."
+    },
+    {
+      "hash": "1234e0ac6801c5bf530bea415b034732dc4b362c",
+      "heading": "Do You Need Secondary Operations?",
+      "level": "h2",
+      "text": "Do You Need Secondary Operations? Anodizing, powder coating, heat treatment, tapping, and similar operations are often outsourced to specialty vendors, which adds both cost and lead time on top of the base machining price. These aren’t line items to avoid — they’re often functionally necessary — but they should be a deliberate spec, not an assumption."
+    },
+    {
+      "hash": "5fcbc426f5d27792bba061782e7ec432c01745d4",
+      "heading": "What Inspection and Documentation Do You Require?",
+      "level": "h2",
+      "text": "What Inspection and Documentation Do You Require? A part with no special inspection requirement gets checked against the print at final QC. A part requiring a full dimensional report, first article inspection, or material certification requires additional labor that’s separate from the machining itself."
+    },
+    {
+      "hash": "9b92d874f80f20037b4d186456ae18b09bf6f6cb",
+      "heading": "How Fast Do You Need It?",
+      "level": "h2",
+      "text": "How Fast Do You Need It? Standard lead time lets a shop slot your job into existing machine capacity. Rush turnaround means bumping other jobs, potential overtime, and sometimes expedited material sourcing — all of which carry a premium, typically well above standard pricing."
+    },
+    {
+      "hash": "348b2bbbbcd1bf525fb15e74dcd52c450ffc87ce",
+      "heading": "The Real Question to Ask Before You Submit a Drawing",
+      "level": "h2",
+      "text": "The Real Question to Ask Before You Submit a Drawing Every one of these factors is a lever, not a fixed cost. The fastest way to lower a quote isn’t to shop it around endlessly — it’s to look at the drawing and ask, for each tolerance, finish, and feature: does the part’s function actually require this, or is it a default?"
+    },
+    {
+      "hash": "fb17e4e88c7a5a0685a226e4cfe03afb99c23f9d",
+      "heading": "FAQ",
+      "level": "h2",
+      "text": "FAQ Does ordering more parts always lower the unit price? Usually, yes, because fixed setup cost spreads across more units — but the relationship isn’t linear, and at very high quantities other processes (like injection molding) may become more cost-effective than CNC. See our companion article on quantity pricing. Is a tighter tolerance ever “free”? Occasionally, if the feature is small and the machine can hold it in the same pass as a looser tolerance elsewhere. But it’s the exception, not the rule. Does material choice affect lead time as well as cost? Yes — less common alloys and sizes may need to be special-ordered, which adds time before machining even starts. Can I get an accurate cost estimate before finalizing my drawing? Yes. Upload a CAD file to our instant quoting tool for a real-time price based on your actual geometry, material, and tolerances. What’s the difference between standard and tight tolerance defaults on a quote? This varies by process and shop. We cover exactly what’s included in a “standard” quote versus a tightened one in Comparing CNC Quotes? Here’s What Tolerance and Finishing Line Items Actually Mean . Sources: ASME Y14.5-2018, Dimensioning and Tolera..."
+    }
+  ],
+  "sitemap_lastmod": "",
+  "status": 200,
+  "structure_hash": "b8395e89298c2a69f02f098cdc7239147205ff3b",
+  "text_excerpt": "Why Does My CNC Part Cost So Much? 10 Factors That Actually Drive the Price by James Wright | Aug 24, 2026 « Back to all posts A $40 bracket and a $400 bracket can look nearly identical on a drawing. The difference almost never comes down to greed or an inflated shop rate — it comes down to ten specific variables, and most of them are decisions the designer made without realizing they had a price tag attached. Quick summary: CNC part cost is driven by material, tolerance, surface finish, part geometry, setup complexity, quantity, machine time, secondary operations, inspection requirements, and lead time. Tightening any one of these beyond what the part actually needs adds cost without adding function. Below is what each factor does to your quote, and where the “expensive for no reason” costs usually hide. What Material Are You Actually Specifying? Raw material cost varies enormously — 6061 aluminum and titanium can differ by 10x per pound, and machinability differs almost as much. Titanium and hardened steels run slower spindle speeds, wear tooling faster, and need more frequent tool changes, all of which show up as machine time on your quote. How Tight Are Your Tolerances, and Do...",
+  "text_hash": "e90d7c79d3421f2a106c2806db188b7c4859d57d",
+  "title": "Why Does My CNC Part Cost So Much? 10 Cost Factors - eMachineShop",
+  "url": "https://www.emachineshop.com/cnc-machining-cost-factors"
+}
