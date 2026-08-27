@@ -1,0 +1,241 @@
+{
+  "canonical": "",
+  "category": "content",
+  "competitor": "PCBWay",
+  "ctas": [
+    {
+      "href": "https://www.pcbway.com/orderonline.aspx",
+      "text": "PCB Instant Quote"
+    },
+    {
+      "href": "javascript:void(0)",
+      "text": "Sign Up"
+    },
+    {
+      "href": "https://www.pcbway.com/project/shareproject?order=1",
+      "text": "By Source Files"
+    },
+    {
+      "href": "https://www.pcbway.com/project/shareproject?order=1",
+      "text": "View all source files projects"
+    },
+    {
+      "href": "https://www.pcbway.com/project/shareproject?order=1",
+      "text": "Source Files"
+    },
+    {
+      "href": "https://www.pcbway.com/pcbdesign/quotedesign",
+      "text": "Get Free Design Quote"
+    },
+    {
+      "href": "https://www.pcbway.com/blog/club-publish.html",
+      "text": "Submit for Publication"
+    },
+    {
+      "href": "https://www.pcbway.com/blog/Activities/Submit_for_Publication___Now_I_Write_Articles_in_PCBWay.html",
+      "text": "Write for PCBWay"
+    },
+    {
+      "href": "https://www.pcbway.com/blog?tag=PCB+industry",
+      "text": "PCB industry"
+    },
+    {
+      "href": "https://www.pcbway.com/contact.html",
+      "text": "Contact us"
+    }
+  ],
+  "discovered_via": "links",
+  "fetched_at": "2026-08-27T11:22:18+00:00",
+  "final_url": "https://www.pcbway.com/blog/PCB_Design_Layout/Copper_Keep_out_Guidelines_for_PCB_Layout_and_Component_Design_b42bdabe.html",
+  "first_seen_at": "2026-08-27T11:22:18+00:00",
+  "h1": "Copper Keep-out Guidelines for PCB Layout and Component Design",
+  "headings": [
+    {
+      "level": "h1",
+      "text": "Copper Keep-out Guidelines for PCB Layout and Component Design"
+    },
+    {
+      "level": "h2",
+      "text": "1. Three Core Mechanisms Requiring Copper Keep-out"
+    },
+    {
+      "level": "h3",
+      "text": "Alternating Magnetic Field Coupling → Eddy Current Loss"
+    },
+    {
+      "level": "h3",
+      "text": "High/Low Voltage Isolation → Parasitic Capacitance & Field Coupling"
+    },
+    {
+      "level": "h3",
+      "text": "High dv/dt and di/dt Switching Nodes → Parasitic Noise Coupling"
+    },
+    {
+      "level": "h2",
+      "text": "2. Component Principles and Keep-out Recommendations"
+    },
+    {
+      "level": "h3",
+      "text": "Common Mode Chokes"
+    },
+    {
+      "level": "h3",
+      "text": "Isolation and High-Frequency Switching Transformers"
+    },
+    {
+      "level": "h3",
+      "text": "Optocouplers and Digital Isolators"
+    },
+    {
+      "level": "h3",
+      "text": "Electromagnetic Relays"
+    },
+    {
+      "level": "h2",
+      "text": "3. General Rules for Copper Clearance"
+    },
+    {
+      "level": "h2",
+      "text": "4. Common High-Frequency Layout Pitfalls"
+    },
+    {
+      "level": "h3",
+      "text": "Related articles"
+    }
+  ],
+  "images": [
+    {
+      "alt": "",
+      "src": "/project/img/images/avatar/user-pic.png"
+    },
+    {
+      "alt": "",
+      "src": "/project/img/images/loading-pro.gif"
+    },
+    {
+      "alt": "",
+      "src": "https://pcbwayfile.s3.us-west-2.amazonaws.com/web/23/10/03/1152415436848m.jpeg"
+    },
+    {
+      "alt": "",
+      "src": "https://pcbwayfile.s3.us-west-2.amazonaws.com/web/25/02/01/195239553dd028d967de6453aa74b91ac0e5423e73248m.png"
+    },
+    {
+      "alt": "",
+      "src": "https://pcbwayfile.s3-us-west-2.amazonaws.com/web/21/08/30/1823256917346m.png"
+    },
+    {
+      "alt": "",
+      "src": "https://pcb-files.s3.us-west-2.amazonaws.com/web/26/08/26/17361180678720d6829434f8eaeadb841032fe3820283t.png"
+    },
+    {
+      "alt": "",
+      "src": "https://pcb-files.s3.us-west-2.amazonaws.com/web/26/08/26/1736421810a18b5a41a9d4dec95189a1881f2dd0a7225t.png"
+    },
+    {
+      "alt": "",
+      "src": "https://pcb-files.s3.us-west-2.amazonaws.com/web/26/08/26/17374984776a1b667ab9142d1a94b2b7f030566358251t.png"
+    },
+    {
+      "alt": "",
+      "src": "https://pcb-files.s3.us-west-2.amazonaws.com/web/26/08/26/173839337b3daa90d7de140f6bae5892ac588ab203215t.png"
+    },
+    {
+      "alt": "",
+      "src": "/img/images/note-tips.png"
+    }
+  ],
+  "meta_description": "",
+  "modified_at": "",
+  "monitored_text": "PCBWay Community Search title or content Search PCBWay PCB Instant Quote CNC | 3D Printing Login Sign Up More Notifications No notifications. My Profile My projects My Likes My Deals My Goods for Bazaar Settings Sign Out Projects Categories DIY Electronics Arduino Hardware Audio Computers & USB Breakout Board Projects Home Automation LED Displays & Matrices IoT Robotics View all categories By Source Files Onju Voice - AI assistant replacement to Google Nest Mini by @justLV LogicAnalyzer V6.0 DIY 1kW Open Source MPPT Solar Charge Controller Tad Boy Color SummerCart64 - a fully open source N64 flashcart kv4p HT v1.7b QuinLED-Dig-Uno Arduino RC engine sound & light controller with inertia simulation for ESP32 Bike Fingerprint - PCB Solar Powered WiFi Weather Station V2.0 Frog Boy Color SIDKick pico 0.2 (SID 6581/8580-replacement for C64/C128) View all source files projects Featured Projects Onju Voice - AI assistant replacement to Google Nest Mini by @justLV LogicAnalyzer V6.0 DIY 1kW Open Source MPPT Solar Charge Controller Featured Source Files Video View all projects Questions Sponsorships Feedback Blog Store PCB Design Contest - 2026 KiCad PCB Design Contest - 8th Project Design Contest - 7th Project Design Contest - KiCad Design Contest - 6th Project Design Contest - 5th PCB Design Contest - 4th PCB Design Contest - Raspberry Pi Pico Contest - PCB Design Tutorial - 3rd PCB Design Contest - I CAN SOLDER Kit Contest - 2nd PCB Design Contest - 1st PCB Design Contest Add questions Create a project Please verify your email address so that you can enjoy our more comprehensive services. Verify Now Blog > Copper Keep-out Guidelines for PCB Layout and Component Design Copper Keep-out Guidelines for PCB Layout and Component Design by: Mila Aug 26,2026 <dynamic-value> <dynamic-value> Posted in PCB Design & Layout pcb layout pcb keepout keep out area in pcb pcb keepout area In modern pcb layout, solid copper pouring is widely used as an optimization technique. However, it is not universally applicable to all components. For devices whose magnetic fields easily couple with PCB copper layers, those with high-low voltage isolation requirements, or those sensitive to parasitic noise, continuous copper under the package can induce extra eddy current loss, EMI problems, or isolation noise coupling. Based on fundamental physical mechanisms, this article explains when to implement a copper keep-out region, layout recommendations for typical components, and common high-frequency design pitfalls. 1. Three Core Mechanisms Requiring Copper Keep-out A component does not automatically require copper clearance beneath it. Applying a pcb keepout depends on component operation, stackup structure, safety standards, EMI targets, and vendor recommendations. Scenario types requiring clearance fall into three categories: Alternating Magnetic Field Coupling → Eddy Current Loss Operating magnetic components generate alternating magnetic fields. When magnetic flux lines penetrate adjacent copper layers, circular eddy currents are induced. These currents cause additional copper loss and temperature rise, while magnetic-eddy interaction degrades EMI performance. Typical components: Common mode chokes, isolation transformers, power inductors, relay coils. High/Low Voltage Isolation → Parasitic Capacitance & Field Coupling Conductive copper extending across an isolation barrier creates parasitic capacitance between high-voltage and low-voltage domains. Under high dv/dt transients or high-frequency common-mode noise, this capacitance acts as a noise path. A poorly designed keep out area in pcb design alters electric field distribution, so isolation requires checking not just physical clearance, but working voltage and transient overvoltage. Typical components: Optocouplers, digital isolators, isolation transformers, high/low voltage interfaces. High dv/dt and di/dt Switching Nodes → Parasitic Noise Coupling Relay contacts and power switches produce rapid voltage/current transients during switching. Rapid transients around high-voltage contacts couple into low-power control circuitry via parasitic capacitance, electromagnetic fields, or shared impedance paths. Defining an explicit pcb keepout area beneath these switching nodes helps minimize parasitic coupling. Typical components: Electromagnetic relays, MOSFETs, IGBTs, high-voltage switching nodes. 2. Component Principles and Keep-out Recommendations Common Mode Chokes Common mode chokes use bifilar winding in the same direction. Differential currents create opposing magnetic flux that cancels out, presenting low impedance. Common-mode currents produce additive flux, generating high impedance to suppress noise. Why Keep-out is Needed: The changing magnetic field around the choke induces eddy currents in underlying copper, causing power loss, heat, and EMI radiation risks. Layout Recommendations: Define the pcb keepout boundary based on the vendor datasheet, extending 1–3 mm beyond the physical outline if necessary (subject to EMI testing). Separate input and output traces according to the filter topology to avoid cross-coupling between filtered and unfiltered sides. Keep sensitive high-speed differential or clock lines away from the choke's magnetic field. Execute an all-layer keep out area in pcb only when explicitly requested by the manufacturer. Isolation and High-Frequency Switching Transformers Transformers rely on alternating magnetic fields between primary and secondary windings for energy transfer and galvanic isolation. Why Keep-out is Needed: Alternating fields induce eddy currents in nearby copper planes, lowering conversion efficiency and disturbing neighboring weak-signal circuits. Layout Recommendations: Partition primary (high-voltage) and secondary (low-voltage) sections, placing a continuous isolation slot without traces crossing it. Minimize power loop areas: keep primary switches and input filter caps close to primary pins; keep secondary filter caps close to secondary pins. Set up a proper pcb keepout area under the transformer body across required layers as specified by the manufacturer, and keep heat-sensitive parts like electrolytic caps away. Optocouplers and Digital Isolators These achieve signal transfer via electrical-to-optical conversion, keeping input and output sides galvanically isolated. Why Keep-out is Needed: Copper extending across the isolation boundary beneath the IC creates parasitic capacitance, compromising noise immunity. Layout Recommendations: Never run copper, traces, or vias directly under the isolation barrier. Maintain required creepage and clearance distances across the split plane. Proper placement in pcb layout demands keeping reference grounds strictly isolated between the primary and secondary domains. Electromagnetic Relays Relays use low-power coils to drive mechanical contacts for high-power loads. Why Keep-out is Needed: Coils produce alternating fields during switching, inducing eddy currents and coupling noise. On the contact side, high-voltage switching creates arc noise and voltage transients that propagate through copper ground planes. Layout Recommendations: Maintain physical distance between low-power coil control traces and high-power contact load traces. Implement an appropriate keep out area in pcb underneath the relay body based on voltage ratings and layer stackup. Add flyback diodes or TVS clamps across DC coils to absorb inductive spikes. 3. General Rules for Copper Clearance Prioritize Datasheets: Always defer to manufacturer guidelines for dimensions and impacted layers before establishing a custom pcb keepout area. Layer-Specific Assessment: If magnetic fields only couple to immediately adjacent copper, clear only those layers. Do not default to removing all inner layers unless required. Hatched Copper is Not a Keep-out Solution: Hatched copper reduces continuous loop area, but eddy currents and parasitic capacitance still exist. It cannot replace a complete copper clear zone. Route Sensitive Signals Away: Never route high-speed clocks or differential pairs directly beneath or through magnetic clearance zones. 4. Common High-Frequency Layout Pitfalls Clearing Top Layer Only: Leaving inner ground planes intact under magnetic components allows eddy currents and parasitic capacitance to persist, ruining EMI compliance. Tight Keep-out Boundaries: Drawing a pcb keepout that exactly hugs the component body leaves zero tolerance, leading to unexpected parasitic coupling near pad edges. Routing High-Speed Lines Under Magnetics: Running clock or differential lines beneath transformers introduces severe jitter and degrades signal integrity. Connecting Isolated Grounds directly: Bridging primary and secondary reference grounds through copper completely defeats galvanic isolation. Relying on Hatched Copper: Assuming copper mesh eliminates magnetic eddy currents is a critical misconception in high-frequency pcb layout. Enter the year of your birth and check your Chinese Zodiac. Get Free Design Quote Join us Wanna be a dedicated PCBWay writer? We definately look forward to having you with us. Submit for Publication Become Our Writer Leave a Comment ( 0 ) Share to: Previous：Power Supply Capacitor Layout: Placement Rules for Bulk and Small Capacitors Next：No next one Related articles Copper Keep-out Guidelines for PCB Layout and Component Design 9 Essential PCB Copper Pour Techniques: A Complete Guide for PCB Layout Design Industrial-Grade RS-485 Communication Interface Design and PCB Layout Switching Power Supply PCB Layout Guide: AC-DC, DC-DC & Digital Power Design Best Practices Comments ( 0 ) Log in to post comments. Upload photo You can only upload 5 files in total. Each file cannot exceed 2MB. Supports JPG, JPEG, GIF, PNG, BMP 0 / 10000 It looks like you have not written anything. Please add a comment and try again. You can upload up to 5 images! Image size should not exceed 2MB! File format not supported! Post Comment Write for PCBWay Categories Select a Category 3D Printing Activities CNC Machining Engineering Technical Flexible PCB HDI PCB Help Center Injection Molding News PCB Assembly PCB Basic Information PCB Design & Layout PCB Design Tutorial PCB Layout Software PCB Manufacturing Information PCBWay Store Rigid-Flex PCB Sheet Metal Technology Table of Contents 1. Three Core Mechanisms Requiring Copper Keep-out 2. Component Principles and Keep-out Recommendations 3. General Rules for Copper Clearance 4. Common High-Frequency Layout Pitfalls HOT TAG PCB Printed Circuit Board PCB design PCB Board PCB layout Circuit Board Printed Circuit Boards PCB Design Tutorial PCB industry pcb manufacturing KiCad pcbway IF YOU MISSED IT 1 Complete PCB Design Guidelines: Layout, Routing and Manufacturing Best Practices 2 Copper Keep-out Guidelines for PCB Layout and Component Design 3 Power Supply Capacitor Layout: Placement Rules for Bulk and Small Capacitors 4 Ground Stitching Vias in High-Speed PCB Differential Via Design 5 9 Essential PCB Copper Pour Techniques: A Complete Guide for PCB Layout Design 6 Industrial-Grade RS-485 Communication Interface Design and PCB Layout 7 Switching Power Supply PCB Layout Guide: AC-DC, DC-DC & Digital Power Design Best Practices 8 How to Design an H-Bridge Motor Driver: Circuit & PCB Layout Guide 9 The Complete Guide to Mixed-Signal PCB Layout Design The PCB Way that recognize the talent and effort of the best ELECTRONIC designers in the World. © COPYRIGHT 2019 About us Contact us Follow us on Share to Facebook Share to Twitter Share to Reddit Share to Linkedin Back to top",
+  "published_at": "2026-08-26T00:00:00+00:00",
+  "requested_url": "https://www.pcbway.com/blog/PCB_Design_Layout/Copper_Keep_out_Guidelines_for_PCB_Layout_and_Component_Design_b42bdabe.html",
+  "schema_version": 2,
+  "sections": [
+    {
+      "hash": "df5df505e0006b39cd3d133a7c135a0fdfbee7a5",
+      "heading": "Copper Keep-out Guidelines for PCB Layout and Component Design",
+      "level": "h1",
+      "text": "Copper Keep-out Guidelines for PCB Layout and Component Design by: Mila Aug 26,2026 <dynamic-value> <dynamic-value> Posted in PCB Design & Layout pcb layout pcb keepout keep out area in pcb pcb keepout area In modern pcb layout, solid copper pouring is widely used as an optimization technique. However, it is not universally applicable to all components. For devices whose magnetic fields easily couple with PCB copper layers, those with high-low voltage isolation requirements, or those sensitive to parasitic noise, continuous copper under the package can induce extra eddy current loss, EMI problems, or isolation noise coupling. Based on fundamental physical mechanisms, this article explains when to implement a copper keep-out region, layout recommendations for typical components, and common high-frequency design pitfalls. 1. Three Core Mechanisms Requiring Copper Keep-out A component does not automatically require copper clearance beneath it. Applying a pcb keepout depends on component operation, stackup structure, safety standards, EMI targets, and vendor recommendations. Scenario types requiring clearance fall into three categories: Alternating Magnetic Field Coupling → Eddy Curre..."
+    },
+    {
+      "hash": "d6cd2af0c1b2f984cfca7e4a54f85efc4dae8804",
+      "heading": "1. Three Core Mechanisms Requiring Copper Keep-out",
+      "level": "h2",
+      "text": "1. Three Core Mechanisms Requiring Copper Keep-out A component does not automatically require copper clearance beneath it. Applying a pcb keepout depends on component operation, stackup structure, safety standards, EMI targets, and vendor recommendations. Scenario types requiring clearance fall into three categories:"
+    },
+    {
+      "hash": "6fa2fc20408614e3d0475d9c7b86befedcc3e064",
+      "heading": "Alternating Magnetic Field Coupling → Eddy Current Loss",
+      "level": "h3",
+      "text": "Alternating Magnetic Field Coupling → Eddy Current Loss Operating magnetic components generate alternating magnetic fields. When magnetic flux lines penetrate adjacent copper layers, circular eddy currents are induced. These currents cause additional copper loss and temperature rise, while magnetic-eddy interaction degrades EMI performance. Typical components: Common mode chokes, isolation transformers, power inductors, relay coils."
+    },
+    {
+      "hash": "57f338f3e2db0d118e748c28d4d1427378fe96c5",
+      "heading": "High/Low Voltage Isolation → Parasitic Capacitance & Field Coupling",
+      "level": "h3",
+      "text": "High/Low Voltage Isolation → Parasitic Capacitance & Field Coupling Conductive copper extending across an isolation barrier creates parasitic capacitance between high-voltage and low-voltage domains. Under high dv/dt transients or high-frequency common-mode noise, this capacitance acts as a noise path. A poorly designed keep out area in pcb design alters electric field distribution, so isolation requires checking not just physical clearance, but working voltage and transient overvoltage. Typical components: Optocouplers, digital isolators, isolation transformers, high/low voltage interfaces."
+    },
+    {
+      "hash": "c5b7f1bb0834f5268d2f95ae542ac65dba45c4cd",
+      "heading": "High dv/dt and di/dt Switching Nodes → Parasitic Noise Coupling",
+      "level": "h3",
+      "text": "High dv/dt and di/dt Switching Nodes → Parasitic Noise Coupling Relay contacts and power switches produce rapid voltage/current transients during switching. Rapid transients around high-voltage contacts couple into low-power control circuitry via parasitic capacitance, electromagnetic fields, or shared impedance paths. Defining an explicit pcb keepout area beneath these switching nodes helps minimize parasitic coupling. Typical components: Electromagnetic relays, MOSFETs, IGBTs, high-voltage switching nodes."
+    },
+    {
+      "hash": "f0b5e27fff4f4acd6f2c0962f20fa5947f8bddf1",
+      "heading": "2. Component Principles and Keep-out Recommendations",
+      "level": "h2",
+      "text": "2. Component Principles and Keep-out Recommendations"
+    },
+    {
+      "hash": "17dbff392174eca90a44317b219d5cbfebd9158e",
+      "heading": "Common Mode Chokes",
+      "level": "h3",
+      "text": "Common Mode Chokes Common mode chokes use bifilar winding in the same direction. Differential currents create opposing magnetic flux that cancels out, presenting low impedance. Common-mode currents produce additive flux, generating high impedance to suppress noise. Why Keep-out is Needed: The changing magnetic field around the choke induces eddy currents in underlying copper, causing power loss, heat, and EMI radiation risks. Layout Recommendations: Define the pcb keepout boundary based on the vendor datasheet, extending 1–3 mm beyond the physical outline if necessary (subject to EMI testing). Separate input and output traces according to the filter topology to avoid cross-coupling between filtered and unfiltered sides. Keep sensitive high-speed differential or clock lines away from the choke's magnetic field. Execute an all-layer keep out area in pcb only when explicitly requested by the manufacturer."
+    },
+    {
+      "hash": "05e3a12e06b7aa27248b800f51893a3fb9c08806",
+      "heading": "Isolation and High-Frequency Switching Transformers",
+      "level": "h3",
+      "text": "Isolation and High-Frequency Switching Transformers Transformers rely on alternating magnetic fields between primary and secondary windings for energy transfer and galvanic isolation. Why Keep-out is Needed: Alternating fields induce eddy currents in nearby copper planes, lowering conversion efficiency and disturbing neighboring weak-signal circuits. Layout Recommendations: Partition primary (high-voltage) and secondary (low-voltage) sections, placing a continuous isolation slot without traces crossing it. Minimize power loop areas: keep primary switches and input filter caps close to primary pins; keep secondary filter caps close to secondary pins. Set up a proper pcb keepout area under the transformer body across required layers as specified by the manufacturer, and keep heat-sensitive parts like electrolytic caps away."
+    },
+    {
+      "hash": "934db200e98a1dc5923a36066e14b00a08444ff8",
+      "heading": "Optocouplers and Digital Isolators",
+      "level": "h3",
+      "text": "Optocouplers and Digital Isolators These achieve signal transfer via electrical-to-optical conversion, keeping input and output sides galvanically isolated. Why Keep-out is Needed: Copper extending across the isolation boundary beneath the IC creates parasitic capacitance, compromising noise immunity. Layout Recommendations: Never run copper, traces, or vias directly under the isolation barrier. Maintain required creepage and clearance distances across the split plane. Proper placement in pcb layout demands keeping reference grounds strictly isolated between the primary and secondary domains."
+    },
+    {
+      "hash": "6685e5d0d23e8ea0edd16c8c3ec25e762d4d1513",
+      "heading": "Electromagnetic Relays",
+      "level": "h3",
+      "text": "Electromagnetic Relays Relays use low-power coils to drive mechanical contacts for high-power loads. Why Keep-out is Needed: Coils produce alternating fields during switching, inducing eddy currents and coupling noise. On the contact side, high-voltage switching creates arc noise and voltage transients that propagate through copper ground planes. Layout Recommendations: Maintain physical distance between low-power coil control traces and high-power contact load traces. Implement an appropriate keep out area in pcb underneath the relay body based on voltage ratings and layer stackup. Add flyback diodes or TVS clamps across DC coils to absorb inductive spikes."
+    },
+    {
+      "hash": "4a78aebdff61cc1e493268e65bc49e177e62777c",
+      "heading": "3. General Rules for Copper Clearance",
+      "level": "h2",
+      "text": "3. General Rules for Copper Clearance Prioritize Datasheets: Always defer to manufacturer guidelines for dimensions and impacted layers before establishing a custom pcb keepout area. Layer-Specific Assessment: If magnetic fields only couple to immediately adjacent copper, clear only those layers. Do not default to removing all inner layers unless required. Hatched Copper is Not a Keep-out Solution: Hatched copper reduces continuous loop area, but eddy currents and parasitic capacitance still exist. It cannot replace a complete copper clear zone. Route Sensitive Signals Away: Never route high-speed clocks or differential pairs directly beneath or through magnetic clearance zones."
+    },
+    {
+      "hash": "604facfa0e3830cdf811980f46fee60657c17a76",
+      "heading": "4. Common High-Frequency Layout Pitfalls",
+      "level": "h2",
+      "text": "4. Common High-Frequency Layout Pitfalls Clearing Top Layer Only: Leaving inner ground planes intact under magnetic components allows eddy currents and parasitic capacitance to persist, ruining EMI compliance. Tight Keep-out Boundaries: Drawing a pcb keepout that exactly hugs the component body leaves zero tolerance, leading to unexpected parasitic coupling near pad edges. Routing High-Speed Lines Under Magnetics: Running clock or differential lines beneath transformers introduces severe jitter and degrades signal integrity. Connecting Isolated Grounds directly: Bridging primary and secondary reference grounds through copper completely defeats galvanic isolation. Relying on Hatched Copper: Assuming copper mesh eliminates magnetic eddy currents is a critical misconception in high-frequency pcb layout."
+    },
+    {
+      "hash": "d05b690ab2d1afa5640912f142c0b1d9027201e8",
+      "heading": "Related articles",
+      "level": "h3",
+      "text": "Related articles Copper Keep-out Guidelines for PCB Layout and Component Design 9 Essential PCB Copper Pour Techniques: A Complete Guide for PCB Layout Design Industrial-Grade RS-485 Communication Interface Design and PCB Layout Switching Power Supply PCB Layout Guide: AC-DC, DC-DC & Digital Power Design Best Practices"
+    }
+  ],
+  "sitemap_lastmod": "",
+  "status": 200,
+  "structure_hash": "d1bfaaf829210f588fe086dcbf068421e68b31cf",
+  "text_excerpt": "PCBWay Community Search title or content Search PCBWay PCB Instant Quote CNC | 3D Printing Login Sign Up More Notifications No notifications. My Profile My projects My Likes My Deals My Goods for Bazaar Settings Sign Out Projects Categories DIY Electronics Arduino Hardware Audio Computers & USB Breakout Board Projects Home Automation LED Displays & Matrices IoT Robotics View all categories By Source Files Onju Voice - AI assistant replacement to Google Nest Mini by @justLV LogicAnalyzer V6.0 DIY 1kW Open Source MPPT Solar Charge Controller Tad Boy Color SummerCart64 - a fully open source N64 flashcart kv4p HT v1.7b QuinLED-Dig-Uno Arduino RC engine sound & light controller with inertia simulation for ESP32 Bike Fingerprint - PCB Solar Powered WiFi Weather Station V2.0 Frog Boy Color SIDKick pico 0.2 (SID 6581/8580-replacement for C64/C128) View all source files projects Featured Projects Onju Voice - AI assistant replacement to Google Nest Mini by @justLV LogicAnalyzer V6.0 DIY 1kW Open Source MPPT Solar Charge Controller Featured Source Files Video View all projects Questions Sponsorships Feedback Blog Store PCB Design Contest - 2026 KiCad PCB Design Contest - 8th Project Design...",
+  "text_hash": "bf88bb380afcf0bfa084b0c029db7cdfbf1e0c29",
+  "title": "Copper Keep-out Guidelines for PCB Layout and Component Design - PCB Design & Layout - PCBway",
+  "url": "https://www.pcbway.com/blog/PCB_Design_Layout/Copper_Keep_out_Guidelines_for_PCB_Layout_and_Component_Design_b42bdabe.html"
+}

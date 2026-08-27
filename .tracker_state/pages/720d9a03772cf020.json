@@ -1,0 +1,193 @@
+{
+  "canonical": "https://www.protolabs.com/resources/blog/what-is-g-code-cnc-programming-and-how-it-works",
+  "category": "content",
+  "competitor": "Protolabs",
+  "ctas": [
+    {
+      "href": "https://www.protolabs.com/ecom/get-a-quote",
+      "text": "Upload Your CAD Model"
+    }
+  ],
+  "discovered_via": "sitemap",
+  "fetched_at": "2026-08-27T11:18:46+00:00",
+  "final_url": "https://www.protolabs.com/resources/blog/what-is-g-code-cnc-programming-and-how-it-works",
+  "first_seen_at": "2026-08-27T11:18:46+00:00",
+  "h1": "What Is G Code? CNC Programming and How It Works",
+  "headings": [
+    {
+      "level": "h1",
+      "text": "What Is G Code? CNC Programming and How It Works"
+    },
+    {
+      "level": "h2",
+      "text": "What Is G Code?"
+    },
+    {
+      "level": "h2",
+      "text": "How Does G Code Work ?"
+    },
+    {
+      "level": "h2",
+      "text": "Common G Code Commands"
+    },
+    {
+      "level": "h2",
+      "text": "Designing Parts That Are Easier to Machine"
+    },
+    {
+      "level": "h2",
+      "text": "Do You Need to Know G Code to Use CNC Machining?"
+    },
+    {
+      "level": "h2",
+      "text": "FAQ"
+    },
+    {
+      "level": "h3",
+      "text": "What is G code in CNC machining?"
+    },
+    {
+      "level": "h3",
+      "text": "Is G code the same for every CNC machine?"
+    },
+    {
+      "level": "h3",
+      "text": "What is the difference between G code and M code?"
+    },
+    {
+      "level": "h3",
+      "text": "Do engineers need to know G code?"
+    },
+    {
+      "level": "h3",
+      "text": "How does CAD become G code?"
+    },
+    {
+      "level": "h2",
+      "text": "Get a Quote"
+    }
+  ],
+  "images": [
+    {
+      "alt": "",
+      "src": "/media/cr2hluvo/protolabs-mark-dark.jpg?width=200&height=200&v=1dbe9bffb5af870"
+    },
+    {
+      "alt": "",
+      "src": "/media/dcddvmpn/pl_im_process_2026_07.jpg?width=1370&v=1dd353d73755750"
+    },
+    {
+      "alt": "",
+      "src": "/media/tzva1hm0/pl_cnc_process_2026_05.jpg?width=1370&v=1dd353d1bd1e2c0"
+    },
+    {
+      "alt": "cnc machining dfm part",
+      "src": "/media/3bkbttkk/pl_blog_next_gen_of_machining_dfm_570x308-1.png?width=115&height=115&v=1d7f19335cc7fc0"
+    },
+    {
+      "alt": "CNC turned part",
+      "src": "/media/6302/pldt0317_image2.png?width=115&height=115&v=1d2911107bd8c60"
+    },
+    {
+      "alt": "coil inserts illustrations for machined parts",
+      "src": "/media/1012445/pl-january-dt-threading-570x308.jpg?width=115&height=115&v=1d38944a8ef8fd0"
+    },
+    {
+      "alt": "Tolerances for machined parts",
+      "src": "/media/1023236/pl-dt-july-2021_900x400-feature.png?width=115&height=115&v=1d7789953e9a730"
+    }
+  ],
+  "meta_description": "What is G code? Learn how CNC programs control toolpaths, feed rates, spindle speeds, and tool changes, plus how good part design improves machining results.",
+  "modified_at": "",
+  "monitored_text": "CNC machining August 27, 2026 What Is G Code? CNC Programming and How It Works Learn what G code is, how your CAD model becomes CNC machine instructions, and where good design fits into the process By Protolabs A CNC machine does the cutting, but it needs instructions telling it where to go, how fast to move, and what to do when it gets there. G code is part of the programming language used to control CNC machines. It translates a digital manufacturing plan into commands the machine can follow, from moving a cutting tool to a specific position to controlling how it travels through the material. In most modern CNC workflows, G code is automatically generated from your CAD model. CAM software uses the model to create toolpaths, then translates those toolpaths into machine-specific code. The basic process looks like this: CAD model → CAM toolpaths → G code → CNC machine → finished part CAD model: Defines the part’s geometry and dimensions. CAM toolpaths: Tell the cutting tool where and how to move to create that geometry. G code: Converts those toolpaths into instructions the CNC machine can understand. CNC machine: Follows the instructions to cut, drill, mill, or turn the material. Finished part: The machined component is ready for action. Even though CAM software generates the toolpaths and G code automatically, your design still determines how complex those toolpaths need to be. Understanding the process can help you avoid features that add machining time or specialized tooling. What Is G Code? G code is often used as a catch-all term for the instructions that control a CNC machine. Technically, though, G commands handle motion-related functions like tool movement, positioning, and coordinate systems, while M codes handle supporting functions like the spindle, coolant, and tool changes. Together, these instructions tell the CNC machine how to turn the geometry in your CAD model into a physical part. You usually won't create the G code directly from CAD. First, CAM software uses the part geometry and machining setup to calculate toolpaths. Next, a post processor converts those toolpaths into an NC program formatted for the specific machine control. CNC controls can use different variations of G code, so this machine-specific translation is an important part of the process. How Does G Code Work ? A CNC program is made up of lines, or blocks, of instructions. Each block tells the machine to perform one or a series of actions. The CNC controller reads those instructions and turns them into machine actions, coordinating axis movement, spindle operation, and other functions as the program runs. Tool movement: Coordinates such as X, Y, and Z tell the machine where to position the tool, while commands determine whether it travels in a straight line, follows an arc, or rapidly repositions between cuts. Feed rate: The program controls how quickly the tool moves through the material during cutting. The right rate depends on factors such as the material, tool, and type of operation. Spindle speed: Instructions control how fast the spindle rotates and when it starts, stops, or changes direction. Tool changes: When a part needs more than one cutting tool, the program tells the machine when to switch tools and which one to use next. Common G Code Commands You don’t need to memorize G code to design CNC machined parts, but understanding a few common commands can help with visualizing how CNC programming controls the machining process. Command What it does In practice G00 Rapid positioning Moves the tool quickly between non-cutting positions G01 Linear cutting movement Moves the tool in a straight line at a controlled feed rate G02 Clockwise circular movement Cuts a clockwise arc or circular path G03 Counterclockwise circular movement Cuts a counterclockwise arc or circular path G17/G18/G19 Select machining plane Defines the plane used for certain movements and operations G20/G21 Select units Sets the program to inches or millimeters G54 Select work coordinate system Establishes a reference point for locating the part G90 Absolute positioning Measures coordinates from a fixed origin G91 Incremental positioning Measures each movement from the current position In practice, a line of CNC code might look like this: G01 X40 Y15 F250. Here, G01 is the G code command , specifying a straight cutting move, X40 Y15 are the destination coordinates , and F250 sets the feed rate . You may also see M codes, which control machine functions rather than tool movement. For example, M03 commonly starts the spindle clockwise, M05 stops it, and M06 commands a tool change. The exact codes and behavior can vary between machine controls, which is one reason CAM software and machine-specific post processors are so useful. Designing Parts That Are Easier to Machine You may never touch the G code yourself, but your design still has a big impact on how the part gets machined. Every pocket, hole, wall, radius, and surface can affect the project's budget and timeline. That’s where design for manufacturability (DFM) can help . There are several ways to optimize part design for CNC machining so the resulting toolpaths—and the G code behind them—can be simpler and more efficient. In practice, that often comes down to a few design choices: Keep features easy to reach: Tall walls and hard-to-reach surfaces may need longer tools, extra setups, or more complicated tool movements. Find out more about how to CNC machine complex parts Don’t make features deeper than they need to be: Deep pockets and holes usually mean more cutting passes and can make chip removal and tool rigidity harder to manage. Give internal corners some radius: Very small radii need smaller cutting tools, which often means slower machining and more passes. Use tight tolerances selectively: Fine-tuning tolerances for CNC machined parts is a balancing act. Tighter requirements can mean slower finishing passes or extra setups, so use them where fit and function justify the added precision. Make setups and tool changes easier to avoid: If several features can be machined from the same orientation, or with compatible tool sizes, the overall machining strategy can be simpler and faster. Protolabs' automated DFM analysis reviews your uploaded CAD model and flags geometry that may be difficult to manufacture. That gives you a chance to optimize the design before machining starts. Do You Need to Know G Code to Use CNC Machining? No. Knowing the basics can help you understand how your design affects machining, but you don’t need to write G code yourself. With Protolabs, you upload your 3D CAD model and receive automated DFM feedback on features that may be difficult to manufacture. From there, Protolabs handles the CNC programming and machining. So while knowing what G code does can make you a more manufacturing-aware designer, your focus can stay on designing great parts. The rest is handled for you. FAQ What is G code in CNC machining? expand_less expand_more G code is part of the programming language used to control CNC machines. It gives the machine instructions for operations such as positioning and tool movement. Is G code the same for every CNC machine? expand_less expand_more Not exactly. Many common commands are widely used, but syntax and supported functions can vary between machine controls. Post processors translate CAM toolpaths into code formatted for a particular machine. What is the difference between G code and M code? expand_less expand_more G commands generally control machining functions such as movement and positioning. M codes typically control supporting machine functions such as starting or stopping the spindle, coolant, and tool changes. Do engineers need to know G code? expand_less expand_more No. It is a nice-to-have, not a need-to-have. Engineers benefit from understanding how CNC machines interpret their designs, but they really only need to provide a manufacturable CAD model rather than write the machine program themselves. How does CAD become G code? expand_less expand_more The CAD model provides the part geometry. CAM software uses that geometry to create machining operations and toolpaths. A post processor converts those toolpaths into code the selected CNC machine can understand. Get a Quote Ready to turn your CAD model into a machined part? Upload your design to Protolabs for an instant quote and automated design feedback. You provide the CAD, and we’ll handle the G code and machining to bring it to life. Upload Your CAD Model You Might Also Like... Design for Machining Toolkit 6 Ways to Optimize Part Design for CNC Machining Mastering Complex Features on Machined Parts Fine-Tuning Tolerances for CNC Machined Parts Tagged: CNC machining, CNC programming, G code, CNC design, manufacturing, machining, design tips",
+  "published_at": "",
+  "requested_url": "https://www.protolabs.com/resources/blog/what-is-g-code-cnc-programming-and-how-it-works",
+  "schema_version": 2,
+  "sections": [
+    {
+      "hash": "b47074c23c41ccccccd1b1946f576c9751f50d36",
+      "heading": "What Is G Code? CNC Programming and How It Works",
+      "level": "h1",
+      "text": "What Is G Code? CNC Programming and How It Works Learn what G code is, how your CAD model becomes CNC machine instructions, and where good design fits into the process By Protolabs"
+    },
+    {
+      "hash": "b3c09432aa22ff73b92f53f601b1b1cb8f2a06a9",
+      "heading": "What Is G Code?",
+      "level": "h2",
+      "text": "What Is G Code? What Is G Code?"
+    },
+    {
+      "hash": "b39fdd963a6c4a26ef7c7ab8e2e358a04405092d",
+      "heading": "How Does G Code Work ?",
+      "level": "h2",
+      "text": "How Does G Code Work ? How Does G Code Work ?"
+    },
+    {
+      "hash": "290dc5d3334b42c304daf0bde6e3f405a7c921ea",
+      "heading": "Common G Code Commands",
+      "level": "h2",
+      "text": "Common G Code Commands Common G Code Commands"
+    },
+    {
+      "hash": "9e1829cba550f88507038c75b679e3609c104d56",
+      "heading": "Designing Parts That Are Easier to Machine",
+      "level": "h2",
+      "text": "Designing Parts That Are Easier to Machine Designing Parts That Are Easier to Machine"
+    },
+    {
+      "hash": "d2a5c876cfa02717ee6242d2f75ee5935d4f3b9f",
+      "heading": "Do You Need to Know G Code to Use CNC Machining?",
+      "level": "h2",
+      "text": "Do You Need to Know G Code to Use CNC Machining? Do You Need to Know G Code to Use CNC Machining?"
+    },
+    {
+      "hash": "2a8c88203fc64f1c3f9eb563dccb52858313a154",
+      "heading": "FAQ",
+      "level": "h2",
+      "text": "FAQ What is G code in CNC machining? expand_less expand_more G code is part of the programming language used to control CNC machines. It gives the machine instructions for operations such as positioning and tool movement. Is G code the same for every CNC machine? expand_less expand_more Not exactly. Many common commands are widely used, but syntax and supported functions can vary between machine controls. Post processors translate CAM toolpaths into code formatted for a particular machine. What is the difference between G code and M code? expand_less expand_more G commands generally control machining functions such as movement and positioning. M codes typically control supporting machine functions such as starting or stopping the spindle, coolant, and tool changes. Do engineers need to know G code? expand_less expand_more No. It is a nice-to-have, not a need-to-have. Engineers benefit from understanding how CNC machines interpret their designs, but they really only need to provide a manufacturable CAD model rather than write the machine program themselves. How does CAD become G code? expand_less expand_more The CAD model provides the part geometry. CAM software uses that geometry..."
+    },
+    {
+      "hash": "ab5f81a2e35174b4692914898f781682aba57ccb",
+      "heading": "What is G code in CNC machining?",
+      "level": "h3",
+      "text": "What is G code in CNC machining? expand_less expand_more"
+    },
+    {
+      "hash": "cdefa53a274a015a18fc1675b37003577c75bf7f",
+      "heading": "Is G code the same for every CNC machine?",
+      "level": "h3",
+      "text": "Is G code the same for every CNC machine? expand_less expand_more"
+    },
+    {
+      "hash": "abba45cd56ce4635a9ab40c275d3f346089e0ee4",
+      "heading": "What is the difference between G code and M code?",
+      "level": "h3",
+      "text": "What is the difference between G code and M code? expand_less expand_more"
+    },
+    {
+      "hash": "0de1c4a5e672b53740a7fbfef23711bde3071928",
+      "heading": "Do engineers need to know G code?",
+      "level": "h3",
+      "text": "Do engineers need to know G code? expand_less expand_more"
+    },
+    {
+      "hash": "ba10bde09a0ca4383e5521f0f8c5eb7fef6f5a62",
+      "heading": "How does CAD become G code?",
+      "level": "h3",
+      "text": "How does CAD become G code? expand_less expand_more"
+    },
+    {
+      "hash": "dd7088989334011b8a63a5b40bcbc9fbd69baaa9",
+      "heading": "Get a Quote",
+      "level": "h2",
+      "text": "Get a Quote Ready to turn your CAD model into a machined part? Upload your design to Protolabs for an instant quote and automated design feedback. You provide the CAD, and we’ll handle the G code and machining to bring it to life. Upload Your CAD Model"
+    }
+  ],
+  "sitemap_lastmod": "2026-08-27T08:22:00+00:00",
+  "status": 200,
+  "structure_hash": "aae8fa06c9a020ea9a8b2525a7399772b7c977e9",
+  "text_excerpt": "CNC machining August 27, 2026 What Is G Code? CNC Programming and How It Works Learn what G code is, how your CAD model becomes CNC machine instructions, and where good design fits into the process By Protolabs A CNC machine does the cutting, but it needs instructions telling it where to go, how fast to move, and what to do when it gets there. G code is part of the programming language used to control CNC machines. It translates a digital manufacturing plan into commands the machine can follow, from moving a cutting tool to a specific position to controlling how it travels through the material. In most modern CNC workflows, G code is automatically generated from your CAD model. CAM software uses the model to create toolpaths, then translates those toolpaths into machine-specific code. The basic process looks like this: CAD model → CAM toolpaths → G code → CNC machine → finished part CAD model: Defines the part’s geometry and dimensions. CAM toolpaths: Tell the cutting tool where and how to move to create that geometry. G code: Converts those toolpaths into instructions the CNC machine can understand. CNC machine: Follows the instructions to cut, drill, mill, or turn the material....",
+  "text_hash": "a16affdc0a0b2ed2c5d2a60166719cd950534554",
+  "title": "What Is G Code? CNC Programming Basics for Design Engineers",
+  "url": "https://www.protolabs.com/resources/blog/what-is-g-code-cnc-programming-and-how-it-works"
+}
