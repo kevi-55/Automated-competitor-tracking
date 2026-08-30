@@ -936,7 +936,7 @@
       "https://quote.emachineshop.com/emachineshop/widget/upload"
     ]
   },
-  "last_run_at": "2026-08-29T08:07:34+00:00",
+  "last_run_at": "2026-08-30T06:52:20+00:00",
   "runs": [
     {
       "errors": 12,
@@ -1287,6 +1287,13 @@
       "finished_at": "2026-08-29T08:07:34+00:00",
       "mode": "daily",
       "run_id": "20260829T075027Z"
+    },
+    {
+      "errors": 18,
+      "events": 45,
+      "finished_at": "2026-08-30T06:52:20+00:00",
+      "mode": "daily",
+      "run_id": "20260830T063544Z"
     }
   ],
   "schema_version": 2
