@@ -126,6 +126,11 @@
       "https://www.fictiv.com/capabilities",
       "https://www.fictiv.com/resources",
       "https://www.fictiv.com/articles",
+      "https://www.fictiv.com/materials/cnc-aluminum",
+      "https://www.fictiv.com/capabilities/3d-printing-services/multi-jet-fusion",
+      "https://www.fictiv.com/capabilities/die-casting-services",
+      "https://www.fictiv.com/capabilities/injection-molding-services",
+      "https://www.fictiv.com/capabilities/cnc-machining-services",
       "https://www.fictiv.com/case-studies/berkley-case-study",
       "https://www.fictiv.com/articles/sheet-metal-material-selection-for-aerospace-applications",
       "https://www.fictiv.com/articles/prototyping-with-casting",
@@ -234,12 +239,7 @@
       "https://www.fictiv.com/articles/teardown-the-breville-bambino-plus",
       "https://www.fictiv.com/articles/misumi-announces-oishii-farm-corporation-partnership",
       "https://www.fictiv.com/articles/instant-injection-molding-quote-online",
-      "https://www.fictiv.com/articles/fictiv-introduces-instant-injection-molding-quotes",
-      "https://www.fictiv.com/articles/casting-vs-cnc-machining",
-      "https://www.fictiv.com/articles/injection-molding-design-guide",
-      "https://www.fictiv.com/articles/everything-you-need-to-know-about-step-files",
-      "https://www.fictiv.com/articles/export-control-manufacturing",
-      "https://www.fictiv.com/articles/fictiv-releases-11th-annual-state-of-manufacturing-supply-chain-report"
+      "https://www.fictiv.com/articles/fictiv-introduces-instant-injection-molding-quotes"
     ],
     "Hubs": [
       "https://www.hubs.com/injection-molding",
@@ -936,7 +936,7 @@
       "https://quote.emachineshop.com/emachineshop/widget/upload"
     ]
   },
-  "last_run_at": "2026-08-30T06:52:20+00:00",
+  "last_run_at": "2026-08-31T07:18:59+00:00",
   "runs": [
     {
       "errors": 12,
@@ -1294,6 +1294,13 @@
       "finished_at": "2026-08-30T06:52:20+00:00",
       "mode": "daily",
       "run_id": "20260830T063544Z"
+    },
+    {
+      "errors": 18,
+      "events": 86,
+      "finished_at": "2026-08-31T07:18:59+00:00",
+      "mode": "daily",
+      "run_id": "20260831T070016Z"
     }
   ],
   "schema_version": 2
