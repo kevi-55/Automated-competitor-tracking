@@ -126,6 +126,12 @@
       "https://www.fictiv.com/capabilities",
       "https://www.fictiv.com/resources",
       "https://www.fictiv.com/articles",
+      "https://www.fictiv.com/articles/food-grade-3dp-manufacturing",
+      "https://www.fictiv.com/articles/progressive-sheet-metal-stamping",
+      "https://www.fictiv.com/materials/cnc-machining-bronze",
+      "https://www.fictiv.com/materials/cnc-machining-garolite-g-10",
+      "https://www.fictiv.com/materials/cnc-machining-cast-iron",
+      "https://www.fictiv.com/materials/acrylic-cnc",
       "https://www.fictiv.com/materials/cnc-aluminum",
       "https://www.fictiv.com/capabilities/3d-printing-services/multi-jet-fusion",
       "https://www.fictiv.com/capabilities/die-casting-services",
@@ -233,13 +239,7 @@
       "https://www.fictiv.com/articles/high-strength-cnc-machining-materials",
       "https://www.fictiv.com/articles/overmolding-materials-substrate-compatibility",
       "https://www.fictiv.com/articles/manufacturing-process-cost-and-lead-time-comparison",
-      "https://www.fictiv.com/articles/rugged-hardware-design-for-harsh-environments",
-      "https://www.fictiv.com/articles/medical-device-materials-selection",
-      "https://www.fictiv.com/articles/environmental-resistance-of-materials-corrosion-heat-chemical",
-      "https://www.fictiv.com/articles/teardown-the-breville-bambino-plus",
-      "https://www.fictiv.com/articles/misumi-announces-oishii-farm-corporation-partnership",
-      "https://www.fictiv.com/articles/instant-injection-molding-quote-online",
-      "https://www.fictiv.com/articles/fictiv-introduces-instant-injection-molding-quotes"
+      "https://www.fictiv.com/articles/rugged-hardware-design-for-harsh-environments"
     ],
     "Hubs": [
       "https://www.hubs.com/injection-molding",
@@ -483,9 +483,9 @@
       "https://www.pcbway.com/",
       "https://www.pcbway.com/blog",
       "https://www.pcbway.com/blog/News/PCBWay_Plug_In_for_KiCad_3ea6219c.html",
+      "https://www.pcbway.com/blog/PCB_Design_Layout/PCB_Impedance_Control_Guide_How_to_Fix_Impedance_Discontinuities_in_PCB_Layout_5ac7aaa0.html",
       "https://www.pcbway.com/blog/PCB_Design_Layout/LDO_Output_Capacitor_Selection_Why_Bigger_Isn_t_Always_Better_in_Power_Supply_D_3ddac52b.html",
       "https://www.pcbway.com/blog/PCB_Design_Layout/PCB_Routing_Layer_Selection_for_High_Speed_Signals_Microstrip_vs_Stripline_60555810.html",
-      "https://www.pcbway.com/blog/PCB_Design_Layout/Copper_Keep_out_Guidelines_for_PCB_Layout_and_Component_Design_b42bdabe.html",
       "https://www.pcbway.com/blog/News/KPCA_Show_2026_Meet_PCBWay_at_Booth_R310_in_South_Korea_8033f91f.html",
       "https://www.pcbway.com/blog/help_center/How_to_Use_Payoneer_to_Pay_for_Orders_a72bb66b.html",
       "https://www.pcbway.com/blog/News/Impact_of_the_New_U_S_Tariff_Policy_on_Customs_Clearance_51dff4fd.html",
@@ -504,17 +504,22 @@
       "https://www.pcbway.com/blog?tag=PCB+design",
       "https://www.pcbway.com/blog/News/Explore_the_PCBWay_Brochure_to_learn_about_our_capabilities_d72a5dff.html",
       "https://www.pcbway.com/blog/News/PCBWay_Fabrication_Toolkit_for_Kicad_23c41e77.html",
+      "https://www.pcbway.com/blog?tag=impedance+control",
+      "https://www.pcbway.com/blog?tag=pcb+design",
+      "https://www.pcbway.com/blog?tag=pcb+layout",
+      "https://www.pcbway.com/blog?tag=pcb+impedance+control",
+      "https://www.pcbway.com/blog/CNC_Machining/Sheet_Metal_Bending_DFM_Guide_to_Prevent_Warping_Tearing_and_Bending_Deformation_5c476b7f.html",
+      "https://www.pcbway.com/blog/CNC_Machining",
       "https://www.pcbway.com/blog?tag=power+supply+design",
       "https://www.pcbway.com/blog?tag=ldo+output+capacitor",
       "https://www.pcbway.com/blog?tag=output+capacitor",
       "https://www.pcbway.com/blog?tag=ldo+design",
       "https://www.pcbway.com/blog?tag=ldo+layout",
-      "https://www.pcbway.com/blog?tag=pcb+design",
       "https://www.pcbway.com/blog?tag=high+speed+signals",
       "https://www.pcbway.com/blog?tag=high+speed+signal+design",
       "https://www.pcbway.com/blog?tag=high+speed+signal+pcb+design",
       "https://www.pcbway.com/blog?tag=high+speed+design",
-      "https://www.pcbway.com/blog?tag=pcb+layout",
+      "https://www.pcbway.com/blog/PCB_Design_Layout/Copper_Keep_out_Guidelines_for_PCB_Layout_and_Component_Design_b42bdabe.html",
       "https://www.pcbway.com/blog?tag=pcb+keepout",
       "https://www.pcbway.com/blog?tag=keep+out+area+in+pcb",
       "https://www.pcbway.com/blog?tag=pcb+keepout+area",
@@ -553,8 +558,6 @@
       "https://www.pcbway.com/blog?tag=rf+design",
       "https://www.pcbway.com/blog?tag=rf+pcb+layout",
       "https://www.pcbway.com/blog?tag=rf+pcb+layout+guidelines",
-      "https://www.pcbway.com/blog/PCB_Design_Layout/Bypass_vs_Decoupling_Capacitors_How_to_Choose_and_Place_Capacitors_on_a_PCB_e0adb425.html",
-      "https://www.pcbway.com/blog?tag=bypass+capacitor+vs+decoupling+capacitor",
       "https://www.pcbway.com/blog/Activities/Submit_for_Publication___Now_I_Write_Articles_in_PCBWay.html",
       "https://www.pcbway.com/blog/Engineering_Technical",
       "https://www.pcbway.com/blog/News/PCBWay_Plug_In_for_OpenSCAD_b39038d5.html",
@@ -593,8 +596,7 @@
       "https://www.pcbway.com/rapid-prototyping/3D-Printing/3D-Printing-SLS.html",
       "https://www.pcbway.com/rapid-prototyping/3D-Printing/3D-Printing-PolyJet.html",
       "https://www.pcbway.com/rapid-prototyping/3D-Printing/3D-Printing-VC.html",
-      "https://www.pcbway.com/rapid-prototyping/Sheet-metal/Laser-Cutting.html",
-      "https://www.pcbway.com/rapid-prototyping/quality-control-cnc.html"
+      "https://www.pcbway.com/rapid-prototyping/Sheet-metal/Laser-Cutting.html"
     ],
     "Protolabs": [
       "https://www.protolabs.com/",
@@ -603,6 +605,7 @@
       "https://www.protolabs.com/services/injection-molding",
       "https://www.protolabs.com/resources",
       "https://www.protolabs.com/services",
+      "https://www.protolabs.com/resources/blog/5-ways-electric-vehicle-innovation-is-being-driven-by-digital-manufacturing",
       "https://www.protolabs.com/resources/events-trade-shows",
       "https://www.protolabs.com/resources/blog/what-is-g-code-cnc-programming-and-how-it-works",
       "https://www.protolabs.com/resources/blog/soft-vs-hard-tooling",
@@ -715,8 +718,7 @@
       "https://www.protolabs.com/resources/guides-and-trend-reports/design-considerations-for-liquid-silicone-rubber",
       "https://www.protolabs.com/resources/blog/graduate-to-production-metal-3d-printing-with-enhanced-post-processing-and-quality-control",
       "https://www.protolabs.com/resources/blog/domestic-manufacturing",
-      "https://www.protolabs.com/resources/design-tips/flame-retardant-3d-printing",
-      "https://www.protolabs.com/resources/blog/rohs-certification"
+      "https://www.protolabs.com/resources/design-tips/flame-retardant-3d-printing"
     ],
     "SyBridge": [
       "https://sybridge.com/",
@@ -784,9 +786,9 @@
       "https://www.xometry.com/resources/data-center/modular",
       "https://www.xometry.com/resources/data-center/hyperscale",
       "https://www.xometry.com/resources/data-center/colocation",
-      "https://www.xometry.com/resources/data-center/data-center-cooling",
-      "https://www.xometry.com/resources/data-center/edge",
       "https://www.xometry.com/resources/data-center/data-center-architecture",
+      "https://www.xometry.com/resources/data-center/edge",
+      "https://www.xometry.com/resources/data-center/data-center-cooling",
       "https://www.xometry.com/resources/data-center/cloud",
       "https://www.xometry.com/resources/data-center/data-center-power",
       "https://www.xometry.com/resources/data-center/enterprise",
@@ -884,17 +886,7 @@
       "https://community.xometry.com/kb/articles/689-are-my-uploaded-files-and-xometry-projects-secure",
       "https://www.xometry.com/resources/case-studies/sentrilock",
       "https://www.xometry.com/resources/case-studies/intuitive-machines",
-      "https://www.xometry.com/resources/case-studies/sea-box-case-study",
-      "https://investors.xometry.com/news-releases/news-release-details/xometry-foundation-announces-partnership-mxd-expand",
-      "https://investors.xometry.com/news-releases/news-release-details/xometry-releases-comprehensive-upgrades-its-ai-model",
-      "https://investors.xometry.com/news-releases/news-release-details/xometry-launches-foundation-committing-1-million-advance",
-      "https://investors.xometry.com/news-releases/news-release-details/xometry-appoints-lukas-biewald-its-board-directors",
-      "https://investors.xometry.com/news-releases/news-release-details/xometry-streamlines-data-center-supply-chain-offering-single",
-      "https://investors.xometry.com/news-releases/news-release-details/xometry-and-siemens-partner-embed-ai-native-supply-chain",
-      "https://investors.xometry.com/news-releases/news-release-details/xometry-deepens-ai-native-marketplace-advantage-new-enterprise",
-      "https://investors.xometry.com/news-releases/news-release-details/xometry-announces-ceo-succession-plan",
-      "https://investors.xometry.com/news-releases/news-release-details/aerospace-defense-leaders-prioritize-ai-enabled-sourcing",
-      "https://investors.xometry.com/news-releases/news-release-details/xometry-marketplace-accelerates-solutions-complex-manufacturing"
+      "https://www.xometry.com/resources/case-studies/sea-box-case-study"
     ],
     "eMachineShop": [
       "https://www.emachineshop.com/resources",
@@ -936,7 +928,7 @@
       "https://quote.emachineshop.com/emachineshop/widget/upload"
     ]
   },
-  "last_run_at": "2026-08-31T07:18:59+00:00",
+  "last_run_at": "2026-09-01T06:32:37+00:00",
   "runs": [
     {
       "errors": 12,
@@ -1301,6 +1293,13 @@
       "finished_at": "2026-08-31T07:18:59+00:00",
       "mode": "daily",
       "run_id": "20260831T070016Z"
+    },
+    {
+      "errors": 27,
+      "events": 109,
+      "finished_at": "2026-09-01T06:32:37+00:00",
+      "mode": "daily",
+      "run_id": "20260901T061348Z"
     }
   ],
   "schema_version": 2
