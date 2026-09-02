@@ -483,9 +483,9 @@
       "https://www.pcbway.com/",
       "https://www.pcbway.com/blog",
       "https://www.pcbway.com/blog/News/PCBWay_Plug_In_for_KiCad_3ea6219c.html",
+      "https://www.pcbway.com/blog/CNC_Machining/Electrical_Discharge_Machining_EDM_Process_Types_Technical_Guide_3f35da5a.html",
       "https://www.pcbway.com/blog/PCB_Design_Layout/PCB_Impedance_Control_Guide_How_to_Fix_Impedance_Discontinuities_in_PCB_Layout_5ac7aaa0.html",
       "https://www.pcbway.com/blog/PCB_Design_Layout/LDO_Output_Capacitor_Selection_Why_Bigger_Isn_t_Always_Better_in_Power_Supply_D_3ddac52b.html",
-      "https://www.pcbway.com/blog/PCB_Design_Layout/PCB_Routing_Layer_Selection_for_High_Speed_Signals_Microstrip_vs_Stripline_60555810.html",
       "https://www.pcbway.com/blog/News/KPCA_Show_2026_Meet_PCBWay_at_Booth_R310_in_South_Korea_8033f91f.html",
       "https://www.pcbway.com/blog/help_center/How_to_Use_Payoneer_to_Pay_for_Orders_a72bb66b.html",
       "https://www.pcbway.com/blog/News/Impact_of_the_New_U_S_Tariff_Policy_on_Customs_Clearance_51dff4fd.html",
@@ -504,17 +504,23 @@
       "https://www.pcbway.com/blog?tag=PCB+design",
       "https://www.pcbway.com/blog/News/Explore_the_PCBWay_Brochure_to_learn_about_our_capabilities_d72a5dff.html",
       "https://www.pcbway.com/blog/News/PCBWay_Fabrication_Toolkit_for_Kicad_23c41e77.html",
+      "https://www.pcbway.com/blog/CNC_Machining",
+      "https://www.pcbway.com/blog?tag=electrical+discharge+machining",
+      "https://www.pcbway.com/blog?tag=Wire+EDM",
+      "https://www.pcbway.com/blog?tag=cnc+edm",
+      "https://www.pcbway.com/blog?tag=cnc+wire+edm",
+      "https://www.pcbway.com/blog?tag=cnc+wire+cut",
       "https://www.pcbway.com/blog?tag=impedance+control",
       "https://www.pcbway.com/blog?tag=pcb+design",
       "https://www.pcbway.com/blog?tag=pcb+layout",
       "https://www.pcbway.com/blog?tag=pcb+impedance+control",
       "https://www.pcbway.com/blog/CNC_Machining/Sheet_Metal_Bending_DFM_Guide_to_Prevent_Warping_Tearing_and_Bending_Deformation_5c476b7f.html",
-      "https://www.pcbway.com/blog/CNC_Machining",
       "https://www.pcbway.com/blog?tag=power+supply+design",
       "https://www.pcbway.com/blog?tag=ldo+output+capacitor",
       "https://www.pcbway.com/blog?tag=output+capacitor",
       "https://www.pcbway.com/blog?tag=ldo+design",
       "https://www.pcbway.com/blog?tag=ldo+layout",
+      "https://www.pcbway.com/blog/PCB_Design_Layout/PCB_Routing_Layer_Selection_for_High_Speed_Signals_Microstrip_vs_Stripline_60555810.html",
       "https://www.pcbway.com/blog?tag=high+speed+signals",
       "https://www.pcbway.com/blog?tag=high+speed+signal+design",
       "https://www.pcbway.com/blog?tag=high+speed+signal+pcb+design",
@@ -591,12 +597,7 @@
       "https://www.pcbway.com/rapid-prototyping/CNC-machining/CNC-Turning.html",
       "https://www.pcbway.com/rapid-prototyping/3D-Printing/3D-Printing-SLA.html",
       "https://www.pcbway.com/rapid-prototyping/3D-Printing/3D-Printing-DLP.html",
-      "https://www.pcbway.com/rapid-prototyping/3D-Printing/3D-Printing-FDM.html",
-      "https://www.pcbway.com/rapid-prototyping/3D-Printing/3D-Printing-SLM.html",
-      "https://www.pcbway.com/rapid-prototyping/3D-Printing/3D-Printing-SLS.html",
-      "https://www.pcbway.com/rapid-prototyping/3D-Printing/3D-Printing-PolyJet.html",
-      "https://www.pcbway.com/rapid-prototyping/3D-Printing/3D-Printing-VC.html",
-      "https://www.pcbway.com/rapid-prototyping/Sheet-metal/Laser-Cutting.html"
+      "https://www.pcbway.com/rapid-prototyping/3D-Printing/3D-Printing-FDM.html"
     ],
     "Protolabs": [
       "https://www.protolabs.com/",
@@ -605,8 +606,8 @@
       "https://www.protolabs.com/services/injection-molding",
       "https://www.protolabs.com/resources",
       "https://www.protolabs.com/services",
-      "https://www.protolabs.com/resources/blog/5-ways-electric-vehicle-innovation-is-being-driven-by-digital-manufacturing",
       "https://www.protolabs.com/resources/events-trade-shows",
+      "https://www.protolabs.com/resources/blog/5-ways-electric-vehicle-innovation-is-being-driven-by-digital-manufacturing",
       "https://www.protolabs.com/resources/blog/what-is-g-code-cnc-programming-and-how-it-works",
       "https://www.protolabs.com/resources/blog/soft-vs-hard-tooling",
       "https://www.protolabs.com/resources/blog/cnc-hole-design-through-blind-tapped-and-more",
@@ -928,7 +929,7 @@
       "https://quote.emachineshop.com/emachineshop/widget/upload"
     ]
   },
-  "last_run_at": "2026-09-01T06:32:37+00:00",
+  "last_run_at": "2026-09-02T06:05:01+00:00",
   "runs": [
     {
       "errors": 12,
@@ -1300,6 +1301,13 @@
       "finished_at": "2026-09-01T06:32:37+00:00",
       "mode": "daily",
       "run_id": "20260901T061348Z"
+    },
+    {
+      "errors": 26,
+      "events": 86,
+      "finished_at": "2026-09-02T06:05:01+00:00",
+      "mode": "daily",
+      "run_id": "20260902T054557Z"
     }
   ],
   "schema_version": 2
