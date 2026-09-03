@@ -2,9 +2,14 @@
   "canonical": "https://www.xometry.com/resources/data-center/data-center-networking",
   "category": "content",
   "competitor": "Xometry",
-  "ctas": [],
+  "ctas": [
+    {
+      "href": "https://www.xometry.com/resources/shop-tips/optimize-your-xometry-profile",
+      "text": "How to Optimize Your Xometry Profile for More Visibility"
+    }
+  ],
   "discovered_via": "feed",
-  "fetched_at": "2026-09-02T05:49:04+00:00",
+  "fetched_at": "2026-09-03T05:46:58+00:00",
   "final_url": "https://www.xometry.com/resources/data-center/data-center-networking",
   "first_seen_at": "2026-08-17T03:44:02+00:00",
   "h1": "Data Center Networking: Architecture, Infrastructure, Topologies, and Best Practices",
@@ -314,9 +319,9 @@
   ],
   "sitemap_lastmod": "",
   "status": 200,
-  "structure_hash": "76328b7d1fe65c70ee0b8ceb2ad7395303729158",
+  "structure_hash": "de057eb8fe05b54b57ad6a9feda9184f3972fd0e",
   "text_excerpt": "Resources Data Centers Data Center Networking: Architecture, Infrastructure, Topologies, and Best Practices Data Center Networking: Architecture, Infrastructure, Topologies, and Best Practices Written by Megan Conniff Updated by Audrius Zidonis PhD 27 min read Published August 13, 2026 Data center networking is the communication framework that connects servers, storage systems, switches, routers, security appliances, and external networks inside a data center. Data center networking supports application delivery, storage access, virtualization, cloud computing, and distributed workloads across enterprise, colocation, hyperscale, and edge facilities. High-speed Ethernet (10 GbE, 25 GbE, 100 GbE, 400 GbE, 800 GbE), Internet Protocol (IPv4, IPv6), Virtual Local Area Networks (VLANs), and Software-Defined Networking (SDN) maintain reliable communication with low latency and high bandwidth. Modern deployments support artificial intelligence, high-performance computing, database clusters, and containerized applications that require continuous connectivity and predictable traffic flow. Data center networking combines network architecture, physical infrastructure, virtual networking, topo...",
-  "text_hash": "b29ea100636690eda250bf5bb4db90e12a955220",
+  "text_hash": "7103d2fe652f62b7f6632c641c0eb55c3d3c100e",
   "title": "Data Center Networking: Architecture, Infrastructure, Topologies, and Best Practices",
   "url": "https://www.xometry.com/resources/data-center/data-center-networking"
 }

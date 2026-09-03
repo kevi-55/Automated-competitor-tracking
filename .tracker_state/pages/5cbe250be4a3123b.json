@@ -2,9 +2,14 @@
   "canonical": "https://www.xometry.com/resources/data-center/modular",
   "category": "content",
   "competitor": "Xometry",
-  "ctas": [],
+  "ctas": [
+    {
+      "href": "https://www.xometry.com/resources/shop-tips/optimize-your-xometry-profile",
+      "text": "How to Optimize Your Xometry Profile for More Visibility"
+    }
+  ],
   "discovered_via": "feed",
-  "fetched_at": "2026-09-02T05:48:58+00:00",
+  "fetched_at": "2026-09-03T05:46:55+00:00",
   "final_url": "https://www.xometry.com/resources/data-center/modular",
   "first_seen_at": "2026-08-17T03:43:57+00:00",
   "h1": "Modular Data Center: Containers and Deployment",
@@ -204,9 +209,9 @@
   ],
   "sitemap_lastmod": "",
   "status": 200,
-  "structure_hash": "8af97e86a6a8ffefb6da950bceba5926e7107892",
+  "structure_hash": "5650f4ab8b6dbe0e378ff415b39508781ee01c11",
   "text_excerpt": "Resources Data Centers Modular Data Center: Containers and Deployment Modular Data Center: Containers and Deployment Written by Megan Conniff Updated by Audrius Zidonis PhD 35 min read Published August 13, 2026 A modular data center is a prefabricated, self-contained data center system that integrates IT, power, cooling, and networking infrastructure into standardized modules manufactured off-site and deployed as complete or near-complete units. The architecture eliminates the dependency on traditional on-site construction by delivering factory-tested infrastructure that reaches operational readiness within weeks rather than years. Modular facilities are rapidly deployable, expandable, relocatable, and configurable across a broader range of physical environments than conventional brick-and-mortar data centers. Key engineering advantages of the modular architecture include predictable performance from factory-level quality control, faster deployment timelines of 6 to 12 weeks, and reduced construction complexity at the installation site. The modular model applies across edge computing deployments, hyperscale capacity expansion, disaster recovery activations, remote industrial opera...",
-  "text_hash": "472b37c462918056bbde4cfa69a26132dd7bf7f2",
+  "text_hash": "8154fb5fc188c1721a2cb914c9f40d642e337f18",
   "title": "Modular Data Center: Containers and Deployment",
   "url": "https://www.xometry.com/resources/data-center/modular"
 }

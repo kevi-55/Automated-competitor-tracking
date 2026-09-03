@@ -1,0 +1,131 @@
+{
+  "canonical": "https://www.emachineshop.com/cnc-inside-corner-radius",
+  "category": "service",
+  "competitor": "eMachineShop",
+  "ctas": [
+    {
+      "href": "https://www.emachineshop.com/quote",
+      "text": "REQUEST A QUOTE"
+    }
+  ],
+  "discovered_via": "feed",
+  "fetched_at": "2026-09-03T05:55:51+00:00",
+  "final_url": "https://www.emachineshop.com/cnc-inside-corner-radius",
+  "first_seen_at": "2026-09-03T05:55:51+00:00",
+  "h1": "Why Inside Corners Are Never Truly Square",
+  "headings": [
+    {
+      "level": "h1",
+      "text": "Why Inside Corners Are Never Truly Square"
+    },
+    {
+      "level": "h2",
+      "text": "Why Does the Tool Geometry Force a Radius?"
+    },
+    {
+      "level": "h2",
+      "text": "What Happens If the Drawing Calls for a Sharp Internal Corner?"
+    },
+    {
+      "level": "h2",
+      "text": "What’s the Practical Fix?"
+    },
+    {
+      "level": "h2",
+      "text": "How Do You Specify This Correctly on a Drawing?"
+    },
+    {
+      "level": "h2",
+      "text": "FAQ"
+    }
+  ],
+  "images": [
+    {
+      "alt": "CNC machined part showing rounded internal corners created by an end mill",
+      "src": "https://www.emachineshop.com/wp-content/uploads/cnc-inside-corner-radius.jpg"
+    },
+    {
+      "alt": "facebook sharing button",
+      "src": "https://platform-cdn.sharethis.com/img/facebook.svg"
+    },
+    {
+      "alt": "twitter sharing button",
+      "src": "https://platform-cdn.sharethis.com/img/twitter.svg"
+    },
+    {
+      "alt": "email sharing button",
+      "src": "https://platform-cdn.sharethis.com/img/email.svg"
+    },
+    {
+      "alt": "whatsapp sharing button",
+      "src": "https://platform-cdn.sharethis.com/img/whatsapp.svg"
+    },
+    {
+      "alt": "linkedin sharing button",
+      "src": "https://platform-cdn.sharethis.com/img/linkedin.svg"
+    },
+    {
+      "alt": "messenger sharing button",
+      "src": "https://platform-cdn.sharethis.com/img/messenger.svg"
+    },
+    {
+      "alt": "blogger sharing button",
+      "src": "https://platform-cdn.sharethis.com/img/blogger.svg"
+    },
+    {
+      "alt": "pinterest sharing button",
+      "src": "https://platform-cdn.sharethis.com/img/pinterest.svg"
+    }
+  ],
+  "meta_description": "Learn why CNC inside corners always have a radius, how cutter geometry affects internal corners, and how to design parts to avoid costly secondary operations.",
+  "modified_at": "2026-09-02T13:27:15+00:00",
+  "monitored_text": "Why Inside Corners Are Never Truly Square by eMachineShop | Sep 2, 2026 « Back to all posts A CNC end mill is round. It cannot cut a perfectly square internal corner — physically impossible with a rotating cutting tool. Every internal corner on a machined part carries a radius equal to at least the tool’s radius. Quick summary: Internal corners on CNC-machined parts always carry a fillet radius determined by cutter diameter. Designing to accept this — rather than specifying a “sharp” internal corner — avoids costly secondary operations like EDM or hand-finishing. Why Does the Tool Geometry Force a Radius? A ½” end mill can’t cut a 0” internal radius — the corner will always show the arc of the tool. Smaller tools produce smaller radii but cost more time and risk breakage on deep pockets. What Happens If the Drawing Calls for a Sharp Internal Corner? The shop either flags it back to you, or machines it with a smaller tool (slower, costlier) or a secondary EDM operation (costlier still) to achieve a true sharp corner. What’s the Practical Fix? Add a corner relief or design the mating part with a slight chamfer or radius that accommodates the machined fillet. This is standard design-for-manufacturability practice and avoids the cost entirely. How Do You Specify This Correctly on a Drawing? Call out a maximum allowable internal radius rather than “sharp corner.” Per ASME Y14.5-2018, an explicit radius callout removes ambiguity about what the shop should target. FAQ Is there a minimum achievable internal radius? It depends on pocket depth and available tooling — deeper pockets typically require larger-diameter, more rigid tools, which means a larger minimum radius. Does this apply to external corners too? No — external corners can be machined genuinely sharp; it’s internal corners that inherit the tool radius. Source: ASME Y14.5-2018 . Related: GD&T Reference Guide REQUEST A QUOTE Share this post in Social Media",
+  "published_at": "2026-09-02T13:26:57+00:00",
+  "requested_url": "https://www.emachineshop.com/cnc-inside-corner-radius",
+  "schema_version": 2,
+  "sections": [
+    {
+      "hash": "f22e3832d56f89d75fd3c34a1f7bc225b9d842cc",
+      "heading": "Why Inside Corners Are Never Truly Square",
+      "level": "h1",
+      "text": "Why Inside Corners Are Never Truly Square by eMachineShop | Sep 2, 2026 « Back to all posts"
+    },
+    {
+      "hash": "bba0dbc31470a601eb79de99b19761fced06cc31",
+      "heading": "Why Does the Tool Geometry Force a Radius?",
+      "level": "h2",
+      "text": "Why Does the Tool Geometry Force a Radius? A ½” end mill can’t cut a 0” internal radius — the corner will always show the arc of the tool. Smaller tools produce smaller radii but cost more time and risk breakage on deep pockets."
+    },
+    {
+      "hash": "8bd6057580e40a25dcf7544618d1675cae76cab7",
+      "heading": "What Happens If the Drawing Calls for a Sharp Internal Corner?",
+      "level": "h2",
+      "text": "What Happens If the Drawing Calls for a Sharp Internal Corner? The shop either flags it back to you, or machines it with a smaller tool (slower, costlier) or a secondary EDM operation (costlier still) to achieve a true sharp corner."
+    },
+    {
+      "hash": "ddcd5b66c497b49bbbdd7893d59bb3ebf29cce90",
+      "heading": "What’s the Practical Fix?",
+      "level": "h2",
+      "text": "What’s the Practical Fix? Add a corner relief or design the mating part with a slight chamfer or radius that accommodates the machined fillet. This is standard design-for-manufacturability practice and avoids the cost entirely."
+    },
+    {
+      "hash": "0b3ad9ce6a6f4061721d52e4c211d8e250bc8883",
+      "heading": "How Do You Specify This Correctly on a Drawing?",
+      "level": "h2",
+      "text": "How Do You Specify This Correctly on a Drawing? Call out a maximum allowable internal radius rather than “sharp corner.” Per ASME Y14.5-2018, an explicit radius callout removes ambiguity about what the shop should target."
+    },
+    {
+      "hash": "983b3c7c72e7d7b93e072456a07d8b7c2dd59ab5",
+      "heading": "FAQ",
+      "level": "h2",
+      "text": "FAQ Is there a minimum achievable internal radius? It depends on pocket depth and available tooling — deeper pockets typically require larger-diameter, more rigid tools, which means a larger minimum radius. Does this apply to external corners too? No — external corners can be machined genuinely sharp; it’s internal corners that inherit the tool radius. Source: ASME Y14.5-2018 . Related: GD&T Reference Guide REQUEST A QUOTE Share this post in Social Media"
+    }
+  ],
+  "sitemap_lastmod": "2026-09-02T13:27:15+00:00",
+  "status": 200,
+  "structure_hash": "0e9065583371384f2b93c6755a0d3799de1399aa",
+  "text_excerpt": "Why Inside Corners Are Never Truly Square by eMachineShop | Sep 2, 2026 « Back to all posts A CNC end mill is round. It cannot cut a perfectly square internal corner — physically impossible with a rotating cutting tool. Every internal corner on a machined part carries a radius equal to at least the tool’s radius. Quick summary: Internal corners on CNC-machined parts always carry a fillet radius determined by cutter diameter. Designing to accept this — rather than specifying a “sharp” internal corner — avoids costly secondary operations like EDM or hand-finishing. Why Does the Tool Geometry Force a Radius? A ½” end mill can’t cut a 0” internal radius — the corner will always show the arc of the tool. Smaller tools produce smaller radii but cost more time and risk breakage on deep pockets. What Happens If the Drawing Calls for a Sharp Internal Corner? The shop either flags it back to you, or machines it with a smaller tool (slower, costlier) or a secondary EDM operation (costlier still) to achieve a true sharp corner. What’s the Practical Fix? Add a corner relief or design the mating part with a slight chamfer or radius that accommodates the machined fillet. This is standard design-...",
+  "text_hash": "41640863d5b991336db346b81100a479c0bf89f5",
+  "title": "Why CNC Inside Corners Are Never Truly Square - eMachineShop",
+  "url": "https://www.emachineshop.com/cnc-inside-corner-radius"
+}
