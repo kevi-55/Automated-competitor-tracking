@@ -1,0 +1,121 @@
+{
+  "canonical": "https://www.cnclathing.com/guide/cnc-machining-quality-control-how-to-avoid-quality-problems-in-cnc-machine-manufacturing",
+  "category": "service",
+  "competitor": "CNCLATHING",
+  "ctas": [
+    {
+      "href": "https://www.cnclathing.com/contact-us",
+      "text": "Contact us"
+    },
+    {
+      "href": "https://www.cnclathing.com/semiconductor-industry",
+      "text": "Semiconductor Industry"
+    },
+    {
+      "href": "https://www.cnclathing.com/aerospace-industry",
+      "text": "Aerospace Industry"
+    },
+    {
+      "href": "https://www.cnclathing.com/agricultural-industry",
+      "text": "Agricultural Industry"
+    },
+    {
+      "href": "https://www.cnclathing.com/automotive-industry",
+      "text": "Automotive Industry"
+    },
+    {
+      "href": "https://www.cnclathing.com/electronic-industry",
+      "text": "Electronic Industry"
+    },
+    {
+      "href": "https://www.cnclathing.com/food-industry",
+      "text": "Food industry"
+    },
+    {
+      "href": "https://www.cnclathing.com/high-tech-industry",
+      "text": "High Tech Industry"
+    },
+    {
+      "href": "https://www.cnclathing.com/machine-tool-industry",
+      "text": "Machine Tool Industry"
+    },
+    {
+      "href": "https://www.cnclathing.com/marine-industry",
+      "text": "Marine Industry"
+    },
+    {
+      "href": "https://www.cnclathing.com/medical-industry",
+      "text": "Medical Industry"
+    },
+    {
+      "href": "https://www.cnclathing.com/military-industry",
+      "text": "Military Industry"
+    }
+  ],
+  "discovered_via": "sitemap",
+  "fetched_at": "2026-09-04T06:04:08+00:00",
+  "final_url": "https://www.cnclathing.com/guide/cnc-machining-quality-control-how-to-avoid-quality-problems-in-cnc-machine-manufacturing",
+  "first_seen_at": "2026-09-04T06:04:08+00:00",
+  "h1": "",
+  "headings": [
+    {
+      "level": "h3",
+      "text": "Related Articles："
+    }
+  ],
+  "images": [
+    {
+      "alt": "",
+      "src": "https://www.cnclathing.com/wp-content/uploads/2021/04/Fotolia_109772031_Subscription_Monthly_M-870x350-1.jpg"
+    },
+    {
+      "alt": "Default Thumbnail",
+      "src": "https://www.cnclathing.com/wp-content/uploads/5-axis-machining-center.png"
+    },
+    {
+      "alt": "Default Thumbnail",
+      "src": "https://www.cnclathing.com/wp-content/uploads/2021/07/CNC-Machining-Vs-Conventional-Machining.png"
+    },
+    {
+      "alt": "Default Thumbnail",
+      "src": "https://www.cnclathing.com/wp-content/uploads/2021/03/CNC-Machining-Center-Vs-CNC-Mill-1.jpg"
+    },
+    {
+      "alt": "Default Thumbnail",
+      "src": "https://www.cnclathing.com/wp-content/uploads/CNC-programming-experience.png"
+    },
+    {
+      "alt": "Default Thumbnail",
+      "src": "https://www.cnclathing.com/wp-content/uploads/difference-between-CNC-and-manual-machining.png"
+    },
+    {
+      "alt": "Default Thumbnail",
+      "src": "https://www.cnclathing.com/wp-content/uploads/image-60.png"
+    },
+    {
+      "alt": "certificate",
+      "src": "/images/you.png"
+    }
+  ],
+  "meta_description": "This is a subject that is not very often talked about in the context of low volume manufacturing or on-demand manufacturing, and that topic is quality. how a mechanical designer can choose process specifications that will make sure that they get the exact quality and output that they want for th...",
+  "modified_at": "",
+  "monitored_text": "This is a subject that is not very often talked about in the context of low volume manufacturing or on-demand manufacturing, and that topic is quality. how a mechanical designer can choose process specifications that will make sure that they get the exact quality and output that they want for their prototypes and low volume products. Let’s divide this discussion into two main points. *The Definition Of Quality First, it’s worth going back again on the definitions of quality and especially the different definitions of quality that several people may have and specifically the quality definition that a designer may have vs the division of quality that a manufacturer may have. You’ll see how important these differences are to consider when designing and then manufacturing a product. *Requirements & Specifications Second, we’ll go over all the requirements and specifications considerations that you may have when designing a product for manufacturing and as well as go over some tips and tricks of what you should and should not do to ensure that you get the right quality that you want when ordering your product. *DFM* DFM stands for design for manufacture. Whether you’re working with CNC machining, 3d printing, injection molding, if you are the person designing parts, it is important for you to know exactly the limitations of the technology and what designs are suitable or not for this technology. In CNC machining, you will have a lot of limitations on sharp corners, tolerances that you can achieve, so the more complex your part is the more, you will need to learn. So that you set up the manufacturer for success and not for failure. *Standard Request* Second, to DFM, there is the fact of using standard requirements if you’re a designer. Less is more sometimes in terms of requirements when you want to bring products to the market in a fast and consistent way. A manufacturer has to work with up to 200 different orders a day, 200 different CNC parts that they have to program, they can’t come up with a custom process for the machining of this part every single time, they will have a new design to program on their CNC machine. They will need to set up standard operational procedures, the consistent outputs that they can form a specific process. The best example of that would be when you have CNC machine parts in aluminum, as the machine is a very consistent and very well-defined standard for defining the surface roughness of an aluminum or even a plastic product. If the designer chooses a machined finish on a CNC machine part, they know almost for sure what the product will look like and the manufacturer, that’s where we come to the link between the manufacturer and the designer. The manufacturer also knows that when a designer chooses as machined, they have already an expectation of what the process will be, but what the result will look like, so it makes everyone move fast on that definition and alignment of the specifications by choosing a standard requirement that is very easy for everyone to understand. *Context* The third important point is context. Context meaning context of the part, meaning what you will be using them for, what product they will be integrated into. Those are some very important pieces of information for the manufacturer. Some designers may overlook this because they will think they’re very educated on DFM and know all the aspects of CNC machining, but there is always a point at which the manufacturer will be faced with minor conflicts. If we take a very concrete example of an aluminum part where a designer chose manual polishing as a surface finish, the manufacturer exactly knows what polishing compound will have to use, what surface roughness et cetera. The process is standardized and the designer also chose tight tolerances in combination with that, that’s usually when you have combinations of two standard requirements that some conflicts can occur. This is where the context comes in, it is important. On the polished aluminum part with tight tolerances, there is a part where polishing by hand will be detrimental to the tolerance. Either you can catch that at the DFM phase which is when you first give the order to the manufacturer, they may catch the discrepancy or the little conflict, but they may not. In case they have to meet a tight deadline, they may not have time to go ask the designer back for the information that they need, to have to clear the conflict. So if you’re able to tell them as a designer in a note when giving the order that this piece will be used on the outside of an automobile and that maybe the width of the part is the most critical of tolerances, then maybe they will be able already to think about some solutions when contacting you. The context, in this case, is super important, because if in the case of the polished part, you don’t have that context, the manufacturer will detect the conflict, and they will either make a judgment call if they’re too tight on deadline or they will ask you about getting more details on the end-user. Because they were lost and detected the conflict and that can take a lot of time, especially in the context of on-demand manufacturing where they have a lot of custom-made orders to do. So context is key and even if you think you have chosen standard requirements, context will never hurt. Facebook LinkedIn Tweet Related Articles： Why Choose China CNC Machining and How to Find the Best CNC Machining Manufacturer CNC Machining Vs Conventional Machining – Difference Between CNC Machining And Conventional Machining CNC Machining Center Vs CNC Mill – Difference Between Machining Center And Milling Machine In Programming Top 12 CNC Machining & Programming Experiences | CNCLATHING CNC Machining VS Manual Machining: What is the Difference Between CNC and Manual Machining CNC Machine Block Diagram: Systems & Components (Parts) of CNC Lathe Machine Junying Metal Manufacturing has developed high-level manufacturing technique in production fields of machining. COMPANY FAQ Certificate About us Contact us Quality Assurance Privacy Policy Jobs & Recruitment Shop Manufacturing Trends Location Services CNC Turning Services CNC Drilling Services CNC Milling Services CNC Machining Services 5 Axis Machining Services swiss machining Services 3D Printing Sheet Metal Fabrication Finishing Services CNC Milling And Turning Services Resources Materials Industries CNC Parts Custom Fixture Gear Manufacturing Injection Molding Machined Parts Lock Cylinder Machining Industries Semiconductor Industry Aerospace Industry Agricultural Industry Automotive Industry Electronic Industry Food industry High Tech Industry Machine Tool Industry Marine Industry Medical Industry Military Industry SGS Copyright © Junying Metal Manufacturing Co., Limited",
+  "published_at": "",
+  "requested_url": "https://www.cnclathing.com/guide/cnc-machining-quality-control-how-to-avoid-quality-problems-in-cnc-machine-manufacturing",
+  "schema_version": 2,
+  "sections": [
+    {
+      "hash": "127ad16823bf15145484923541ebce79ed63b865",
+      "heading": "Related Articles：",
+      "level": "h3",
+      "text": "Related Articles： Why Choose China CNC Machining and How to Find the Best CNC Machining Manufacturer CNC Machining Vs Conventional Machining – Difference Between CNC Machining And Conventional Machining CNC Machining Center Vs CNC Mill – Difference Between Machining Center And Milling Machine In Programming Top 12 CNC Machining & Programming Experiences | CNCLATHING CNC Machining VS Manual Machining: What is the Difference Between CNC and Manual Machining CNC Machine Block Diagram: Systems & Components (Parts) of CNC Lathe Machine"
+    }
+  ],
+  "sitemap_lastmod": "2026-09-04T00:00:00+00:00",
+  "status": 200,
+  "structure_hash": "33f131b0be43035ebcd04c954038cd236433382a",
+  "text_excerpt": "This is a subject that is not very often talked about in the context of low volume manufacturing or on-demand manufacturing, and that topic is quality. how a mechanical designer can choose process specifications that will make sure that they get the exact quality and output that they want for their prototypes and low volume products. Let’s divide this discussion into two main points. *The Definition Of Quality First, it’s worth going back again on the definitions of quality and especially the different definitions of quality that several people may have and specifically the quality definition that a designer may have vs the division of quality that a manufacturer may have. You’ll see how important these differences are to consider when designing and then manufacturing a product. *Requirements & Specifications Second, we’ll go over all the requirements and specifications considerations that you may have when designing a product for manufacturing and as well as go over some tips and tricks of what you should and should not do to ensure that you get the right quality that you want when ordering your product. *DFM* DFM stands for design for manufacture. Whether you’re working with CNC...",
+  "text_hash": "5ba0b5a3305793c34b0bf4860e50eca35f750abc",
+  "title": "CNC Machining Quality Control - How To Avoid Quality Problems in CNC Machine Manufacturing",
+  "url": "https://www.cnclathing.com/guide/cnc-machining-quality-control-how-to-avoid-quality-problems-in-cnc-machine-manufacturing"
+}

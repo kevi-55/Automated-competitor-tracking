@@ -1,0 +1,145 @@
+{
+  "canonical": "https://www.xometry.com/resources/3d-printing/lattice-structure-3d-printing",
+  "category": "content",
+  "competitor": "Xometry",
+  "ctas": [
+    {
+      "href": "https://www.xometry.com/authors/joel-schadegg",
+      "text": "Joel Schadegg"
+    },
+    {
+      "href": "https://www.xometry.com/authors/greg-paulsen",
+      "text": "Greg Paulsen"
+    },
+    {
+      "href": "https://www.xometry.com/capabilities/3d-printing-service/metal",
+      "text": "3D printing in metal"
+    },
+    {
+      "href": "https://www.xometry.com/testdrive",
+      "text": "Launch Demo"
+    },
+    {
+      "href": "https://www.xometry.com/capabilities/3d-printing-service",
+      "text": "titanium"
+    },
+    {
+      "href": "https://www.xometry.com/capabilities/3d-printing-service/inconel-metal",
+      "text": "inconel"
+    },
+    {
+      "href": "https://get.xometry.com/contact",
+      "text": "contact a Xometry expert"
+    },
+    {
+      "href": "https://www.xometry.com/legal",
+      "text": "terms and conditions"
+    },
+    {
+      "href": "https://www.xometry.com/quoting/home",
+      "text": "Upload Your Design"
+    },
+    {
+      "href": "https://www.xometry.com/authors/joel-schadegg",
+      "text": "Read more articles by Joel Schadegg"
+    }
+  ],
+  "discovered_via": "feed",
+  "fetched_at": "2026-09-04T05:52:45+00:00",
+  "final_url": "https://www.xometry.com/resources/3d-printing/lattice-structure-3d-printing",
+  "first_seen_at": "2026-09-04T05:52:45+00:00",
+  "h1": "Understanding Lattice Structure for 3D Printing",
+  "headings": [
+    {
+      "level": "h1",
+      "text": "Understanding Lattice Structure for 3D Printing"
+    },
+    {
+      "level": "h2",
+      "text": "What is a Lattice Structure for 3D printing?"
+    },
+    {
+      "level": "h2",
+      "text": "Generating Lattice Structures"
+    },
+    {
+      "level": "h2",
+      "text": "Benefits of Lattice Structures"
+    },
+    {
+      "level": "h2",
+      "text": "Are Lattice Structures Worth the Extra Complexity?"
+    }
+  ],
+  "images": [
+    {
+      "alt": "Joel Schadegg",
+      "src": "https://images.prismic.io/xometry-marketing/Zpbe8B5LeNNTxNv3_Joel-Headshot.jpg?auto=format%2Ccompress&rect=719%2C259%2C1481%2C1481&w=88&h=88&fit=crop"
+    },
+    {
+      "alt": "Greg Paulsen",
+      "src": "https://images.prismic.io/xometry-marketing/9759abb2-e19d-42b3-9f04-dc8b672c240b_Greg+Paulsen+Headshot.png?auto=format%2Ccompress%3Fauto%3Dcompress%2Cformat&rect=0%2C0%2C800%2C800..."
+    },
+    {
+      "alt": "3D printed part with lattice structure",
+      "src": "https://images.prismic.io/xometry-marketing/bef7ec81-164b-490b-a413-ddfda5edc4f0_Lattice+Structure.jpeg?auto=format%2Ccompress&rect=1637%2C0%2C3456%2C3456&w=3840&fit=max"
+    },
+    {
+      "alt": "Lattice 3D print with DMLS",
+      "src": "https://images.prismic.io/xometry-marketing/ZsepmUaF0TcGJTEo_xometry-dmls-lattice.png?auto=format%2Ccompress&w=3840&fit=max"
+    },
+    {
+      "alt": "",
+      "src": "https://images.prismic.io/xometry-marketing/aeksPsBOoF08xOhg_x-pipe.png?auto=format,compress"
+    },
+    {
+      "alt": "picture of Joel",
+      "src": "https://images.prismic.io/xometry-marketing/Zpbe8B5LeNNTxNv3_Joel-Headshot.jpg?auto=format%2Ccompress&rect=719%2C259%2C1481%2C1481&w=192&h=192&fit=crop"
+    }
+  ],
+  "meta_description": "3D printed lattice structure makes use of both material and printer’s unique capabilities by putting mass where it is structurally necessary. Learn more about lattice structure for 3D printing here.",
+  "modified_at": "2026-09-03T21:05:26+00:00",
+  "monitored_text": "Resources / 3D Printing Design / Understanding Lattice Structure for 3D Printing Understanding Lattice Structure for 3D Printing Written by Joel Schadegg Updated by Greg Paulsen 5 min read Published October 12, 2021 Updated September 3, 2026 One of the most impressive characteristics of 3D printing is the ability to manufacture parts with complex internal lattice structures that would be impossible with traditional manufacturing techniques. What is a Lattice Structure for 3D printing? Simply put, a lattice structure for 3D printing is a repeating or non-repeating 3-dimensional assemblage of connected nodes. In its simplest form, multiple lattice nodes get connected to one another by beams. In the case of a repeating 3D structure, the collection of beams and nodes take on regular and repeating 3D shapes such as cubes or tetrahedrons. These shapes are often referred to as cells. The shape and density of these cells will determine how the part behaves when loads are applied. A 3D printed lattice structure makes optimal use of both material and the printer’s unique capabilities by only putting mass where it is structurally necessary. The overall item is thus significantly lighter than if it would be if completely solid. This is one reason why lattice structures are very common in the natural world. For many years this principle could only be implemented on large-scale constructions like steel buildings. However, with the advent and growing accessibility of 3D printing, it has become possible to create smaller and more mundane parts and products with internal lattice structures of their own. It can be done both for mechanical strength and aesthetic appeal. This method significantly reduces the mass of a part and has almost endless applications in the aerospace and automotive industries where reduced mass directly translates to improved fuel efficiency. Generating Lattice Structures Due to the complexity of lattice structures, it is impractical to model them into the part using typical CAD tools. In most cases, the part is drawn in CAD as if it were solid. Then, after the part has been designed (with DFAM principles in mind) the model is imported into another software package to generate a lattice structure. Among the more common programs for this purpose are Netfabb or nTopology. Another method of generating a 3D printed lattice structure is through generative design. In this case, a part’s connection points, mass limitations, and expected loads are defined. An algorithm then generates hundreds of solutions that would meet the requirements. From there, the most optimal lattice cell structure and cell density can be selected from among the solutions or generated through further iteration. When creating a lattice structure, it’s important to understand what factors will affect the overall function of the final part. These factors are listed below: Lattice Material: When 3D printing in metal , the lattice is often the same material as the overall part. However, if a flexible lattice is required then multi-material parts can be considered. Some products use soft flexible materials for the lattice and more resilient material as a shell to protect the lattice. One common example of this is a running shoe sole. Lattice Structure: The most basic 3D printed lattice structures feature repeating and uniform patterns throughout the entire part. However, more advanced methods will vary the cell and beam structure to be denser in areas that need additional strength and keep the lattice less dense in areas that experience less loading. The individual shape of the cells also has a significant effect on part performance since different structures will have different mechanical properties. Cell Orientation: The orientation of individual cells in a 3D printed lattice structure can affect the complexity of the print. For example, it is best practice to orient the cells in such a way that they can support themselves during the printing process itself without the need for support structures. Attempting to remove supports from hundreds of small cells is not advised. Try Xometry's Instant Quoting Engine® Test-drive a sample part to get instant pricing and DFM analysis Launch Demo Lattice 3D print with DMLS Benefits of Lattice Structures Lattice structures for 3D printing offer a wide range of benefits. Some of the most important are listed below. Reduced part cost: Depending on the material, 3D printing can be an expensive process. This is especially the case with materials like titanium or inconel that are common in the aerospace industry. The introduction of a lattice structure means that less material will be used, thus making the part cheaper overall without sacrificing structural integrity. Improved strength-to-weight ratio: If designed according to accepted DFAM (Design for Additive Manufacturing) principles, parts with lattice structures can have unparalleled strength-to-weight ratios. This makes them ideal in automotive and aerospace applications (among others) in which it’s critical to minimize mass. Shock absorption: Lattice structures are extremely efficient at dissipating impact and shock loads because the cell configuration helps the whole construction flex and disburse energy. Some lightweight lattices can effectively stop bullets. Increased surface area: Some applications focus on maximizing surface area rather than mechanical strength. Heat transfer or chemical reactions, for example, may be the primary goal. Lattice structures are useful here because they give the part more surfaces without increasing its overall footprint. Osseointegration: This refers to the method of creating lattice structures in medical implants that promote bone growth. The resulting implants form much stronger bonds with the patient's own bone structure. Are Lattice Structures Worth the Extra Complexity? In general, lattice structures for 3D printing allow engineers to push the limits of material science while simultaneously reducing overall part mass. Lattice structures have only recently started moving from advanced aerospace applications to more common consumer products thanks to the growing availability of 3D printers and reductions in material costs. This style of design is here to stay simply because lattices are so efficient. It is wise to learn how to incorporate them into your designs to leverage their benefits. To learn more about how your parts can benefit from lattice structures, contact a Xometry expert today. Disclaimer The content appearing on this webpage is for informational purposes only. Xometry makes no representation or warranty of any kind, be it expressed or implied, as to the accuracy, completeness, or validity of the information. Any performance parameters, geometric tolerances, specific design features, quality and types of materials, or processes should not be inferred to represent what will be delivered by third-party suppliers or manufacturers through Xometry’s network. Buyers seeking quotes for parts are responsible for defining the specific requirements for those parts. Please refer to our terms and conditions for more information. Start Your Instant Quote STEP · STP · SLDPRT · STL · DXF · IPT · X_T · X_B · 3DXML · CATPART · PRT · SAT · 3MF · JT Upload Your Design All uploads are secure and confidential Joel Schadegg Hey, I’m Joel, a technical content writer at Xometry! I have made it my personal mission to help customers like you get the most out of the Xometry experience and achieve success on your projects by leveraging my hands-on experience running machines, processing parts, and ensuring order fulfillment. Read more articles by Joel Schadegg Start Your Instant Quote STEP · STP · SLDPRT · STL · DXF · IPT · X_T · X_B · 3DXML · CATPART · PRT · SAT · 3MF · JT Upload Your Design All uploads are secure and confidential Recent Stories Case Study: Xometry Helps Zaiput Build Flow Technology for the Global Pharmaceutical Industry September 3, 2026 3 min read Metal 3D Printing Technologies Are Rapidly Evolving: Here's How You Can Take Advantage Without Risk September 3, 2026 12 min read 5 Key Prototyping Phases September 3, 2026 5 min read",
+  "published_at": "2021-10-12T01:58:37+00:00",
+  "requested_url": "https://www.xometry.com/resources/3d-printing/lattice-structure-3d-printing",
+  "schema_version": 2,
+  "sections": [
+    {
+      "hash": "0168f6e874a0674d1f52fa4b1e735de1a3ba70e5",
+      "heading": "Understanding Lattice Structure for 3D Printing",
+      "level": "h1",
+      "text": "Understanding Lattice Structure for 3D Printing Understanding Lattice Structure for 3D Printing"
+    },
+    {
+      "hash": "edd651c03c51ddc889b37abcd152bd3a060be2a6",
+      "heading": "What is a Lattice Structure for 3D printing?",
+      "level": "h2",
+      "text": "What is a Lattice Structure for 3D printing? Simply put, a lattice structure for 3D printing is a repeating or non-repeating 3-dimensional assemblage of connected nodes. In its simplest form, multiple lattice nodes get connected to one another by beams. In the case of a repeating 3D structure, the collection of beams and nodes take on regular and repeating 3D shapes such as cubes or tetrahedrons. These shapes are often referred to as cells. The shape and density of these cells will determine how the part behaves when loads are applied. A 3D printed lattice structure makes optimal use of both material and the printer’s unique capabilities by only putting mass where it is structurally necessary. The overall item is thus significantly lighter than if it would be if completely solid. This is one reason why lattice structures are very common in the natural world. For many years this principle could only be implemented on large-scale constructions like steel buildings. However, with the advent and growing accessibility of 3D printing, it has become possible to create smaller and more mundane parts and products with internal lattice structures of their own. It can be done both for mechan..."
+    },
+    {
+      "hash": "ce246e202e937deee685d23ee70ce7e1e53f06b7",
+      "heading": "Generating Lattice Structures",
+      "level": "h2",
+      "text": "Generating Lattice Structures Due to the complexity of lattice structures, it is impractical to model them into the part using typical CAD tools. In most cases, the part is drawn in CAD as if it were solid. Then, after the part has been designed (with DFAM principles in mind) the model is imported into another software package to generate a lattice structure. Among the more common programs for this purpose are Netfabb or nTopology. Another method of generating a 3D printed lattice structure is through generative design. In this case, a part’s connection points, mass limitations, and expected loads are defined. An algorithm then generates hundreds of solutions that would meet the requirements. From there, the most optimal lattice cell structure and cell density can be selected from among the solutions or generated through further iteration. When creating a lattice structure, it’s important to understand what factors will affect the overall function of the final part. These factors are listed below: Lattice Material: When 3D printing in metal , the lattice is often the same material as the overall part. However, if a flexible lattice is required then multi-material parts can be cons..."
+    },
+    {
+      "hash": "6c5799941c966f6597137cc1765c9094e077b0a2",
+      "heading": "Benefits of Lattice Structures",
+      "level": "h2",
+      "text": "Benefits of Lattice Structures Lattice structures for 3D printing offer a wide range of benefits. Some of the most important are listed below. Reduced part cost: Depending on the material, 3D printing can be an expensive process. This is especially the case with materials like titanium or inconel that are common in the aerospace industry. The introduction of a lattice structure means that less material will be used, thus making the part cheaper overall without sacrificing structural integrity. Improved strength-to-weight ratio: If designed according to accepted DFAM (Design for Additive Manufacturing) principles, parts with lattice structures can have unparalleled strength-to-weight ratios. This makes them ideal in automotive and aerospace applications (among others) in which it’s critical to minimize mass. Shock absorption: Lattice structures are extremely efficient at dissipating impact and shock loads because the cell configuration helps the whole construction flex and disburse energy. Some lightweight lattices can effectively stop bullets. Increased surface area: Some applications focus on maximizing surface area rather than mechanical strength. Heat transfer or chemical react..."
+    },
+    {
+      "hash": "30977baee254401562be52c6d6e0ecc5cff31f08",
+      "heading": "Are Lattice Structures Worth the Extra Complexity?",
+      "level": "h2",
+      "text": "Are Lattice Structures Worth the Extra Complexity? In general, lattice structures for 3D printing allow engineers to push the limits of material science while simultaneously reducing overall part mass. Lattice structures have only recently started moving from advanced aerospace applications to more common consumer products thanks to the growing availability of 3D printers and reductions in material costs. This style of design is here to stay simply because lattices are so efficient. It is wise to learn how to incorporate them into your designs to leverage their benefits. To learn more about how your parts can benefit from lattice structures, contact a Xometry expert today. Disclaimer The content appearing on this webpage is for informational purposes only. Xometry makes no representation or warranty of any kind, be it expressed or implied, as to the accuracy, completeness, or validity of the information. Any performance parameters, geometric tolerances, specific design features, quality and types of materials, or processes should not be inferred to represent what will be delivered by third-party suppliers or manufacturers through Xometry’s network. Buyers seeking quotes for parts..."
+    }
+  ],
+  "sitemap_lastmod": "",
+  "status": 200,
+  "structure_hash": "10f05a98b2e3f18716948eded78e7876de4e6624",
+  "text_excerpt": "Resources / 3D Printing Design / Understanding Lattice Structure for 3D Printing Understanding Lattice Structure for 3D Printing Written by Joel Schadegg Updated by Greg Paulsen 5 min read Published October 12, 2021 Updated September 3, 2026 One of the most impressive characteristics of 3D printing is the ability to manufacture parts with complex internal lattice structures that would be impossible with traditional manufacturing techniques. What is a Lattice Structure for 3D printing? Simply put, a lattice structure for 3D printing is a repeating or non-repeating 3-dimensional assemblage of connected nodes. In its simplest form, multiple lattice nodes get connected to one another by beams. In the case of a repeating 3D structure, the collection of beams and nodes take on regular and repeating 3D shapes such as cubes or tetrahedrons. These shapes are often referred to as cells. The shape and density of these cells will determine how the part behaves when loads are applied. A 3D printed lattice structure makes optimal use of both material and the printer’s unique capabilities by only putting mass where it is structurally necessary. The overall item is thus significantly lighter than...",
+  "text_hash": "8b75ee89b034b2d2e543e7560734a5f85a258763",
+  "title": "Understanding Lattice Structure for 3D Printing | Xometry",
+  "url": "https://www.xometry.com/resources/3d-printing/lattice-structure-3d-printing"
+}

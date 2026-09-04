@@ -1,0 +1,121 @@
+{
+  "canonical": "https://www.cnclathing.com/guide/the-art-of-mastering-cnc-machining-manufacturing-defining-for-production-tolerances",
+  "category": "service",
+  "competitor": "CNCLATHING",
+  "ctas": [
+    {
+      "href": "https://www.cnclathing.com/contact-us",
+      "text": "Contact us"
+    },
+    {
+      "href": "https://www.cnclathing.com/semiconductor-industry",
+      "text": "Semiconductor Industry"
+    },
+    {
+      "href": "https://www.cnclathing.com/aerospace-industry",
+      "text": "Aerospace Industry"
+    },
+    {
+      "href": "https://www.cnclathing.com/agricultural-industry",
+      "text": "Agricultural Industry"
+    },
+    {
+      "href": "https://www.cnclathing.com/automotive-industry",
+      "text": "Automotive Industry"
+    },
+    {
+      "href": "https://www.cnclathing.com/electronic-industry",
+      "text": "Electronic Industry"
+    },
+    {
+      "href": "https://www.cnclathing.com/food-industry",
+      "text": "Food industry"
+    },
+    {
+      "href": "https://www.cnclathing.com/high-tech-industry",
+      "text": "High Tech Industry"
+    },
+    {
+      "href": "https://www.cnclathing.com/machine-tool-industry",
+      "text": "Machine Tool Industry"
+    },
+    {
+      "href": "https://www.cnclathing.com/marine-industry",
+      "text": "Marine Industry"
+    },
+    {
+      "href": "https://www.cnclathing.com/medical-industry",
+      "text": "Medical Industry"
+    },
+    {
+      "href": "https://www.cnclathing.com/military-industry",
+      "text": "Military Industry"
+    }
+  ],
+  "discovered_via": "sitemap",
+  "fetched_at": "2026-09-04T06:04:07+00:00",
+  "final_url": "https://www.cnclathing.com/guide/the-art-of-mastering-cnc-machining-manufacturing-defining-for-production-tolerances",
+  "first_seen_at": "2026-09-04T06:04:07+00:00",
+  "h1": "",
+  "headings": [
+    {
+      "level": "h3",
+      "text": "Related Articles："
+    }
+  ],
+  "images": [
+    {
+      "alt": "",
+      "src": "https://www.cnclathing.com/wp-content/uploads/2021/04/CNC-Machining-Feature-Image.jpg"
+    },
+    {
+      "alt": "Default Thumbnail",
+      "src": "https://www.cnclathing.com/wp-content/uploads/GDT-Straightness-vs-Flatness.png"
+    },
+    {
+      "alt": "Default Thumbnail",
+      "src": "https://www.cnclathing.com/wp-content/uploads/GDT-Profile-Tolerance-Line-Profile.jpg"
+    },
+    {
+      "alt": "Default Thumbnail",
+      "src": "https://www.cnclathing.com/wp-content/uploads/107A4771-1-jpg.webp"
+    },
+    {
+      "alt": "",
+      "src": "https://www.cnclathing.com/wp-content/uploads/GDT-Maximum-Material-Condition-MMC.jpg"
+    },
+    {
+      "alt": "Default Thumbnail",
+      "src": "https://www.cnclathing.com/wp-content/uploads/2021/04/scale1-featured.jpg"
+    },
+    {
+      "alt": "Default Thumbnail",
+      "src": "https://www.cnclathing.com/wp-content/uploads/Black-Anodizing.png"
+    },
+    {
+      "alt": "certificate",
+      "src": "/images/you.png"
+    }
+  ],
+  "meta_description": "After understanding what makes a tolerance in CNC machining in our last chapter, here first we will be going slightly more in-depth into the main issues that we generally encounter when dealing with CNC machining parts with our customers; then we will be diving into the several issues that eng...",
+  "modified_at": "",
+  "monitored_text": "After understanding what makes a tolerance in CNC machining in our last chapter , here first we will be going slightly more in-depth into the main issues that we generally encounter when dealing with CNC machining parts with our customers; then we will be diving into the several issues that engineers or designers may encounter when dealing with tolerances. *assembly design One of the first issues we often encounter in our industry is design for assembly. You can simply put it like this: the targeted part you want to fit with other parts. If it’s not fitting or you would like it to fit, how should you tolerance it? So let’s say, we have a customer who wants to design two parts that go together. The first part must assemble with the second one, the male feature with the female feature. And then the part is standard tolerance 2768 fine, and then unfortunately the male feature has the same nominal diameter as the female feature. What’s going to happen in most cases if the two parts are at 25 millimeters diameter, for instance, they’re not going to fit in most times. If the first part has the same diameter as the second one, even with the margin of general tolerance, the two parts probably won’t fit unless you have some margin of error. In that case, the diameter of part one will be smaller than the diameter of part two. You will be sure that they fit. *the assembly requirements The second one that we sometimes see is when people have assembly requirements, they make an electronics casing and they want to make sure they will be able to fit the PCB inside of the aluminum case that they manufactured. Sometimes what we see is the customer coming to us and want to make the overall part at tolerance is plus-minus 0.02 millimeter. That is oftentimes an absolute nightmare for engineers or manufacturers to deal with, because when you have a part with overall tolerances of 0.02 millimeters, which is very tight, then all the features on the part will have to be met that tolerances. The fact that the tolerances are so tight will either will make it a nightmare most likely for the machinists who will have to make the part, but also for the person paying for the part. So let’s take the example of a nanosatellite panel: if what matters to you is the way the nanosatellite panel will be assembled or the way the nanosatellite panel will function if what matters to you is the distance between one plane and the other plane on another side, then you should tolerance that and that only. Over-tolerancing and saying the whole part should be made at plus-minus 0.02 millimeter will not bring you anything more than tolerancing what you need to be at a tight tolerance. *the conflicts between assembly requirements & tight tolerances The third one that we often see is when clients coming to us and put in a request of a certain part to be cosmetic with extra assembly requirements and tight tolerances. If the client insists on doing that and believes it will make their assembly work fine, this is what needs to be done. Let’s take a certain part to show you a little bit what an example of conflict may be between a surface finish requirement and a tolerance requirement. Let’s say the hypothetical part has been made with an anodizing type 3 finish and the client needs a super tight tolerance on the contour to be assembled this hypothetical part with another part. And even though there’s an assumption generally in the CNC machining industry that the tolerances will be identified before the anodizing and after the anodizing. In the case of especially type 3 anodizing, the tolerances may be impacted by very tight tolerances. And that may be a problem for this feature if tolerances are really important to you. More generally speaking, if you have on the same physical part surface finish requirements and tight tolerances requirements, it’s probably better to think about masking off the areas where you know you will have tight tolerances so that these tight tolerances are not impacted in any way shape or form by the surface finish operation and or a function of the work done by the machinist. https://www.youtube.com/watch?v=lRXakLBsrtA Facebook LinkedIn Tweet Related Articles： Straightness vs Flatness – Difference Between Flatness and Straightness GD&T Profile Tolerance: Basic Knowledge, Types, Symbol, Calculation, Uses Understanding Type 3 Hard Coat Anodizing: Thickness, Colors, Applications, Process & Comparison with Other Types GD&T MMC: Definition, Formula, Calculation, Bonus Tolerance, Uses, MMC vs LMC How To Master The Essence Of CNC Machining Manufacturing – What Impacts Tolerances During Production Black Anodizing Process, Benefits, Uses & How To Black Anodized Aluminum/Titanium? Junying Metal Manufacturing has developed high-level manufacturing technique in production fields of machining. COMPANY FAQ Certificate About us Contact us Quality Assurance Privacy Policy Jobs & Recruitment Shop Manufacturing Trends Location Services CNC Turning Services CNC Drilling Services CNC Milling Services CNC Machining Services 5 Axis Machining Services swiss machining Services 3D Printing Sheet Metal Fabrication Finishing Services CNC Milling And Turning Services Resources Materials Industries CNC Parts Custom Fixture Gear Manufacturing Injection Molding Machined Parts Lock Cylinder Machining Industries Semiconductor Industry Aerospace Industry Agricultural Industry Automotive Industry Electronic Industry Food industry High Tech Industry Machine Tool Industry Marine Industry Medical Industry Military Industry SGS Copyright © Junying Metal Manufacturing Co., Limited",
+  "published_at": "",
+  "requested_url": "https://www.cnclathing.com/guide/the-art-of-mastering-cnc-machining-manufacturing-defining-for-production-tolerances",
+  "schema_version": 2,
+  "sections": [
+    {
+      "hash": "d357f122bd38eb9fa6effbc51b2234a4037e6b1b",
+      "heading": "Related Articles：",
+      "level": "h3",
+      "text": "Related Articles： Straightness vs Flatness – Difference Between Flatness and Straightness GD&T Profile Tolerance: Basic Knowledge, Types, Symbol, Calculation, Uses Understanding Type 3 Hard Coat Anodizing: Thickness, Colors, Applications, Process & Comparison with Other Types GD&T MMC: Definition, Formula, Calculation, Bonus Tolerance, Uses, MMC vs LMC How To Master The Essence Of CNC Machining Manufacturing – What Impacts Tolerances During Production Black Anodizing Process, Benefits, Uses & How To Black Anodized Aluminum/Titanium?"
+    }
+  ],
+  "sitemap_lastmod": "2026-09-04T00:00:00+00:00",
+  "status": 200,
+  "structure_hash": "76c87ee51213fc066fe4623fa76c606a051ec21b",
+  "text_excerpt": "After understanding what makes a tolerance in CNC machining in our last chapter , here first we will be going slightly more in-depth into the main issues that we generally encounter when dealing with CNC machining parts with our customers; then we will be diving into the several issues that engineers or designers may encounter when dealing with tolerances. *assembly design One of the first issues we often encounter in our industry is design for assembly. You can simply put it like this: the targeted part you want to fit with other parts. If it’s not fitting or you would like it to fit, how should you tolerance it? So let’s say, we have a customer who wants to design two parts that go together. The first part must assemble with the second one, the male feature with the female feature. And then the part is standard tolerance 2768 fine, and then unfortunately the male feature has the same nominal diameter as the female feature. What’s going to happen in most cases if the two parts are at 25 millimeters diameter, for instance, they’re not going to fit in most times. If the first part has the same diameter as the second one, even with the margin of general tolerance, the two parts prob...",
+  "text_hash": "87fcdd39e2a84d040496b3ab83120787301a4940",
+  "title": "The Art Of Mastering CNC Machining Manufacturing - Defining For Production Tolerances",
+  "url": "https://www.cnclathing.com/guide/the-art-of-mastering-cnc-machining-manufacturing-defining-for-production-tolerances"
+}

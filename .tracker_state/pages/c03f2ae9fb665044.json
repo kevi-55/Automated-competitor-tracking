@@ -1,0 +1,121 @@
+{
+  "canonical": "https://www.cnclathing.com/guide/how-to-master-the-essence-of-cnc-machining-manufacturing-what-impacts-tolerances-during-production",
+  "category": "service",
+  "competitor": "CNCLATHING",
+  "ctas": [
+    {
+      "href": "https://www.cnclathing.com/contact-us",
+      "text": "Contact us"
+    },
+    {
+      "href": "https://www.cnclathing.com/semiconductor-industry",
+      "text": "Semiconductor Industry"
+    },
+    {
+      "href": "https://www.cnclathing.com/aerospace-industry",
+      "text": "Aerospace Industry"
+    },
+    {
+      "href": "https://www.cnclathing.com/agricultural-industry",
+      "text": "Agricultural Industry"
+    },
+    {
+      "href": "https://www.cnclathing.com/automotive-industry",
+      "text": "Automotive Industry"
+    },
+    {
+      "href": "https://www.cnclathing.com/electronic-industry",
+      "text": "Electronic Industry"
+    },
+    {
+      "href": "https://www.cnclathing.com/food-industry",
+      "text": "Food industry"
+    },
+    {
+      "href": "https://www.cnclathing.com/high-tech-industry",
+      "text": "High Tech Industry"
+    },
+    {
+      "href": "https://www.cnclathing.com/machine-tool-industry",
+      "text": "Machine Tool Industry"
+    },
+    {
+      "href": "https://www.cnclathing.com/marine-industry",
+      "text": "Marine Industry"
+    },
+    {
+      "href": "https://www.cnclathing.com/medical-industry",
+      "text": "Medical Industry"
+    },
+    {
+      "href": "https://www.cnclathing.com/military-industry",
+      "text": "Military Industry"
+    }
+  ],
+  "discovered_via": "sitemap",
+  "fetched_at": "2026-09-04T06:04:07+00:00",
+  "final_url": "https://www.cnclathing.com/guide/how-to-master-the-essence-of-cnc-machining-manufacturing-what-impacts-tolerances-during-production",
+  "first_seen_at": "2026-09-04T06:04:07+00:00",
+  "h1": "",
+  "headings": [
+    {
+      "level": "h3",
+      "text": "Related Articles："
+    }
+  ],
+  "images": [
+    {
+      "alt": "",
+      "src": "https://www.cnclathing.com/wp-content/uploads/2021/04/scale1-featured.jpg"
+    },
+    {
+      "alt": "Default Thumbnail",
+      "src": "https://www.cnclathing.com/wp-content/uploads/Circularity-Geometric-Tolerance.jpg"
+    },
+    {
+      "alt": "Default Thumbnail",
+      "src": "https://www.cnclathing.com/wp-content/uploads/CNC-programming-experience.png"
+    },
+    {
+      "alt": "Default Thumbnail",
+      "src": "https://www.cnclathing.com/wp-content/uploads/2021/03/CNC-Machining-Center-Vs-CNC-Mill-1.jpg"
+    },
+    {
+      "alt": "Default Thumbnail",
+      "src": "https://www.cnclathing.com/wp-content/uploads/2021/09/CNC-machine-types-system.bmp"
+    },
+    {
+      "alt": "Default Thumbnail",
+      "src": "https://www.cnclathing.com/wp-content/uploads/image-60.png"
+    },
+    {
+      "alt": "Default Thumbnail",
+      "src": "https://www.cnclathing.com/wp-content/uploads/advantages-of-cnc-turning-and-milling-parts.webp"
+    },
+    {
+      "alt": "certificate",
+      "src": "/images/you.png"
+    }
+  ],
+  "meta_description": "Tolerances in the context of CNC machining can be complicated, we won't talk about what we mean by CNC machining? The different processes and what impacts tolerances, and the different parameters of a part that may impact the tolerances. CNC machining is not one process, it is an assemble o...",
+  "modified_at": "",
+  "monitored_text": "Tolerances in the context of CNC machining can be complicated, we won’t talk about what we mean by CNC machining? The different processes and what impacts tolerances, and the different parameters of a part that may impact the tolerances. CNC machining is not one process, it is an assemble of several sub-processes that all work in the context of CNC with CAD files or CAD designs. However, it is possible to make one design or to manufacture one design in several possible ways. The two main sub-processes being milling and turning. It’s very important to decompose these two sub-processes because the two of them have different ways to make parts and that’s going to make the parts have very different properties and very different tolerances. * CNC milling Why is it so important to start with CNC milling? It’s the most widespread use when doing low-volume parts of prototyping that have a particular function. With CNC milling, take a block of aluminum, for example, we took some tools that went on a three-axis machine with two different settings. Remove the material out of the raw aluminum block and made the geometry. The geometry is custom at a microscopic level. You have to take a tool to remove almost every single bit of matter that you will see. If you have a circle, the circle is not going to be created automatically because you have to move point by point on a Cartesian, meaning x y-axis, you have to move your tool on an x y-axis to make a circle, but the CNC machine is not going to give you naturally the circle. Turning as opposed to CNC has a tool that does not move, it’s the part that moves. If taking a piece of raw material aluminum that’s been put in the lathe, then this billet of raw material has been turned while the tool was not moving. The raw material was turning is what made the part. By making sure you have parts mostly with round features that will be done on the lathe or parts with mostly square features done on the milling machines, you will ensure that the best machine is chosen for your application. You will have the most cost-effective solution for the tolerances that you need. *different CNC process tolerance impacts 1.tools For a given feature, you won’t have the same tolerance achieved whether you’re doing the part on the lathe or a CNC machine. That may sound obvious but it’s critical when thinking about the technology choice. There’s milling, turning, but also when you get into the realm of tight tolerances, you may have the usage of grinding machines, whether flat grinding machines or circular grinding machines, etc. So if you do need a tolerance that can only be made with a certain kind of process, it can be in certain circumstances good to let the manufacturer know. However, if you know that your tolerance can be achieved with several processes, It’s oftentimes better to leave that freedom to the manufacturer but to know that in return, they may have the freedom of choosing between turning or milling depending on what tools they have available and what they prefer. 2.design The second important point that impacts tolerances is the design. If you have a design with very intricate features and require a plus-minus 0.01 a millimeter on it. In some instances, it may be possible; in some instances, it may not be. So you must educate yourself and speak to fellow engineers if you’re an engineer yourself who designs parts, to know what generally is the best practice when considering tight tolerances. 3.material The third one some people may overlook sometimes is the material. The most common example being the difference between metals and plastics: plastics generally behave not as nicely as metals when dealing with tight tolerances, that is a very general case unless you deal with very specific high-end plastics, but generally speaking, it is slightly easier to achieve tight tolerance for the same design and same technology with metals as compared to plastics. 4.quantities & surface finish Two extra points are worth considering and impact tolerances to a lesser extent, but that is still interesting to note: quantities and surface finish. What does have the quantity of parts manufacturer do with the tolerance? Well, making one unit of a certain part of a thousand units, the manufacturing process chosen by the manufacturer will be different. Especially the setup on the machine will be different. If it’s mass production, the manufacturer will make a fixture and look much more into process control to can deliver a very reliable process throughout and have much more stability. Because given the quantities, the manufacturer will be able to research to bring you consistency. And with surface finish, that’s often a problem we encounter when dealing with a hard coat or secondary surface finishes that change the thickness of the part after the machining. Under tight tolerances requirements, it’s useful to know the hard coat finish or anodizing type 3 may add up to 50 microns at thickness. It will be more challenging to keep that tolerance after coating in a consistent way. So if you have some areas with very tight tolerances that you cannot sacrifice or may compromise on, it is better to look into a surface finish like chromate conversion coating that will not impact your tolerances or even altogether decide to mask those areas, so that they won’t be affected by the secondary surface finish. Facebook LinkedIn Tweet Related Articles： What is the Difference Between Circularity and Cylindricity Geometric Tolerance? Top 12 CNC Machining & Programming Experiences | CNCLATHING CNC Machining Center Vs CNC Mill – Difference Between Machining Center And Milling Machine In Programming Types & Classification Of CNC Machine Tools | Basics Of CNC Machining CNC Machine Block Diagram: Systems & Components (Parts) of CNC Lathe Machine What Are The Advantages of CNC Turning & Milling Parts? Junying Metal Manufacturing has developed high-level manufacturing technique in production fields of machining. COMPANY FAQ Certificate About us Contact us Quality Assurance Privacy Policy Jobs & Recruitment Shop Manufacturing Trends Location Services CNC Turning Services CNC Drilling Services CNC Milling Services CNC Machining Services 5 Axis Machining Services swiss machining Services 3D Printing Sheet Metal Fabrication Finishing Services CNC Milling And Turning Services Resources Materials Industries CNC Parts Custom Fixture Gear Manufacturing Injection Molding Machined Parts Lock Cylinder Machining Industries Semiconductor Industry Aerospace Industry Agricultural Industry Automotive Industry Electronic Industry Food industry High Tech Industry Machine Tool Industry Marine Industry Medical Industry Military Industry SGS Copyright © Junying Metal Manufacturing Co., Limited",
+  "published_at": "",
+  "requested_url": "https://www.cnclathing.com/guide/how-to-master-the-essence-of-cnc-machining-manufacturing-what-impacts-tolerances-during-production",
+  "schema_version": 2,
+  "sections": [
+    {
+      "hash": "855f90d8b27485ffb9065d31f59c7791928891b3",
+      "heading": "Related Articles：",
+      "level": "h3",
+      "text": "Related Articles： What is the Difference Between Circularity and Cylindricity Geometric Tolerance? Top 12 CNC Machining & Programming Experiences | CNCLATHING CNC Machining Center Vs CNC Mill – Difference Between Machining Center And Milling Machine In Programming Types & Classification Of CNC Machine Tools | Basics Of CNC Machining CNC Machine Block Diagram: Systems & Components (Parts) of CNC Lathe Machine What Are The Advantages of CNC Turning & Milling Parts?"
+    }
+  ],
+  "sitemap_lastmod": "2026-09-04T00:00:00+00:00",
+  "status": 200,
+  "structure_hash": "81d1216df67b3cb92e33267d6f6245e6058f1995",
+  "text_excerpt": "Tolerances in the context of CNC machining can be complicated, we won’t talk about what we mean by CNC machining? The different processes and what impacts tolerances, and the different parameters of a part that may impact the tolerances. CNC machining is not one process, it is an assemble of several sub-processes that all work in the context of CNC with CAD files or CAD designs. However, it is possible to make one design or to manufacture one design in several possible ways. The two main sub-processes being milling and turning. It’s very important to decompose these two sub-processes because the two of them have different ways to make parts and that’s going to make the parts have very different properties and very different tolerances. * CNC milling Why is it so important to start with CNC milling? It’s the most widespread use when doing low-volume parts of prototyping that have a particular function. With CNC milling, take a block of aluminum, for example, we took some tools that went on a three-axis machine with two different settings. Remove the material out of the raw aluminum block and made the geometry. The geometry is custom at a microscopic level. You have to take a tool t...",
+  "text_hash": "c4910dd1fb5857f2dac7b6bd5d711b005a676e2a",
+  "title": "How To Master The Essence Of CNC Machining Manufacturing - What Impacts Tolerances During Production",
+  "url": "https://www.cnclathing.com/guide/how-to-master-the-essence-of-cnc-machining-manufacturing-what-impacts-tolerances-during-production"
+}
