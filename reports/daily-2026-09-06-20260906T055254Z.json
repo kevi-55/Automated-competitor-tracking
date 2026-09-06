@@ -1,0 +1,398 @@
+{
+  "mode": "daily",
+  "date": "2026-09-06",
+  "subject": "[Competitor Tracking] 日报 2026-09-06 · 10 项变化",
+  "generated_at": "2026-09-06T14:07:31+08:00",
+  "events": [
+    {
+      "type": "visual_changed",
+      "priority": "high",
+      "competitor": "PCBWay",
+      "url": "https://www.pcbway.com/",
+      "category": "homepage",
+      "page_title": "China PCB Prototype & Fabrication Manufacturer - PCB Prototype the Easy Way",
+      "summary": "mobile 视图出现明显 UI/布局变化",
+      "details": [
+        "视口：mobile",
+        "RMS 差异：23.60",
+        "变化像素占比：2.67%"
+      ],
+      "before": null,
+      "after": null,
+      "added": [],
+      "removed": [],
+      "change_percent": 0.0,
+      "confidence": "high",
+      "published_at": "2026-09-06T00:00:00+00:00",
+      "first_seen_at": "2026-08-17T03:51:10+00:00",
+      "discovered_via": "priority"
+    },
+    {
+      "type": "visual_changed",
+      "priority": "medium",
+      "competitor": "CNCLATHING",
+      "url": "https://www.cnclathing.com/",
+      "category": "service",
+      "page_title": "China Top CNC Machining Service OEM Supplier & Manufacturer | Junying",
+      "summary": "desktop 视图出现明显 UI/布局变化",
+      "details": [
+        "视口：desktop",
+        "RMS 差异：50.91",
+        "变化像素占比：5.03%"
+      ],
+      "before": null,
+      "after": null,
+      "added": [],
+      "removed": [],
+      "change_percent": 0.0,
+      "confidence": "high",
+      "published_at": "",
+      "first_seen_at": "2026-08-17T03:54:41+00:00",
+      "discovered_via": "sitemap"
+    },
+    {
+      "type": "visual_changed",
+      "priority": "medium",
+      "competitor": "Fictiv",
+      "url": "https://www.fictiv.com/",
+      "category": "service",
+      "page_title": "Fictiv: Sourcing Simplified for Custom Manufacturing Services",
+      "summary": "desktop 视图出现明显 UI/布局变化",
+      "details": [
+        "视口：desktop",
+        "RMS 差异：84.44",
+        "变化像素占比：10.16%",
+        "页面截图高度变化：+38px"
+      ],
+      "before": null,
+      "after": null,
+      "added": [],
+      "removed": [],
+      "change_percent": 0.0,
+      "confidence": "high",
+      "published_at": "2020-09-09T21:32:10+00:00",
+      "first_seen_at": "2026-08-17T03:45:18+00:00",
+      "discovered_via": "feed"
+    },
+    {
+      "type": "section_copy_changed",
+      "priority": "medium",
+      "competitor": "PCBWay",
+      "url": "https://www.pcbway.com/",
+      "category": "homepage",
+      "page_title": "China PCB Prototype & Fabrication Manufacturer - PCB Prototype the Easy Way",
+      "summary": "板块文案更新：Affordable Prototype PCB Manufacturer in China",
+      "details": [],
+      "before": "Affordable Prototype PCB Manufacturer in China Last 30 days: 86024 Today's new order: 1470 Latest orders Date Buyer name Lead Time Progress 09-05 *** 3-4 days 18% 09-05 *** 4-5 days 28% 09-05 *** 3-4 days 18% 09-05 G****lj 24hours 43% 09-05 *** 5-6 days 23% 09-05 *** 24hours 47% 09-05 V****la 6-7 days 33% 09-05 A****do 24hours 33% 09-05 N****ER 24hours 11% 09-05 *** 5-6 days 28% 09-05 P****ps 24hours 29% 09-05 *** 4-5 days 14% 09-05 S****va 8-9 days 16% 09-05 G****ka 5-6 days 37% 09-05 R****no 4-5 days 21% 09-05 *** 4-5 days 28% 09-05 Z****rg 48hours 28% 09-05 *** 4-5 days 28% 09-05 *** 4-5 days 28% 09-05 *** 10-11 days 47%",
+      "after": "Affordable Prototype PCB Manufacturer in China Last 30 days: 84752 Today's new order: 908 Latest orders Date Buyer name Lead Time Progress 09-06 C****to 6-7 days 28% 09-06 O****iz 12-13 days 22% 09-06 *** 4-5 days 28% 09-06 *** 24hours 12% 09-06 M****TI 24hours 29% 09-06 *** 24hours 29% 09-06 *** 3-4 days 12% 09-06 A****ik 15-16 days 45% 09-06 O****ui 48hours 26% 09-06 *** 3-4 days 18% 09-06 *** 8-9 days 23% 09-06 *** 4-5 days 38% 09-06 B****ut 18-19 days 17% 09-06 *** 4-5 days 28% 09-06 S****on 7-8 days 26% 09-06 *** 4-5 days 27% 09-06 L****er 24hours 43% 09-06 *** 24hours 23% 09-06 A****an 5-6 days 12% 09-06 G****ka 13-14 days 18%",
+      "added": [
+        "84752",
+        "908",
+        "09-06 C****to 6-7 days 28% 09-06 O****iz 12-13 days 22% 09-06 *** 4-5 days 28% 09-06 *** 24hours 12% 09-06 M****TI 24hours 29% 09-06 *** 24hours 29% 09-06 *** 3-4 days 12% 09-06 A****ik 15-16 days 45% 09-06 O****ui 48hours 26% 09-06",
+        "09-06 *** 8-9 days 23% 09-06 *** 4-5 days 38% 09-06 B****ut 18-19 days 17% 09-06",
+        "09-06 S****on 7-8"
+      ],
+      "removed": [
+        "86024",
+        "1470",
+        "09-05",
+        "09-05",
+        "09-05 *** 3-4"
+      ],
+      "change_percent": 139.66,
+      "confidence": "high",
+      "published_at": "2026-09-06T00:00:00+00:00",
+      "first_seen_at": "2026-08-17T03:51:10+00:00",
+      "discovered_via": "priority"
+    },
+    {
+      "type": "ctas_changed",
+      "priority": "medium",
+      "competitor": "Xometry",
+      "url": "https://www.xometry.com/",
+      "category": "service",
+      "page_title": "Custom Manufacturing on Demand | Production Parts and Prototypes | Xometry",
+      "summary": "CTA发生变化",
+      "details": [],
+      "before": null,
+      "after": null,
+      "added": [
+        "3D Printing Service -> https://www.xometry.com/capabilities/3d-printing-service",
+        "Aerospace and Defense -> https://www.xometry.com/aerospace-and-defense",
+        "Assembly Services -> https://www.xometry.com/assembly-services",
+        "CNC Milling -> https://www.xometry.com/capabilities/cnc-machining-service/cnc-milling-service",
+        "CNC Routing -> https://www.xometry.com/capabilities/cnc-machining-service/cnc-routing",
+        "CNC Turning -> https://www.xometry.com/capabilities/cnc-machining-service/cnc-turning-service",
+        "Carbon DLS -> https://www.xometry.com/capabilities/3d-printing-service/carbon-dls",
+        "Compression Molding -> https://www.xometry.com/capabilities/compression-molding-service"
+      ],
+      "removed": [
+        "17.3M+ LBS OF CO2 OFFSET -> https://www.xometry.com/xometry-go-green",
+        "3D Printing -> https://www.xometry.com/capabilities/3d-printing-service",
+        "A&D Leaders Prioritize AI-Enabled Supply Chain Solutions January 2026 -> https://investors.xometry.com/news-releases/news-release-details/aerospace-defense-leaders-prioritize-ai-e...",
+        "AI, Reshoring to Reshape Manufacturing in 2026 December 2025 -> https://www.cnbc.com/video/2025/12/30/ai-and-reshoring-reshape-manufacturing-in-2026-randy-altschuler-of-xometry.ht...",
+        "About -> https://www.xometry.com/about-us",
+        "Aerospace & Defense -> https://www.xometry.com/aerospace-and-defense",
+        "Careers -> https://www.xometry.com/careers",
+        "Electric Motorcycle Maker Sourced and Scaled Critical Parts with Xometry -> https://xometry.pro/en/stories/black-tea-motorbikes-electric-motorcycle-xometry"
+      ],
+      "change_percent": 0.0,
+      "confidence": "high",
+      "published_at": "",
+      "first_seen_at": "2026-08-17T03:43:15+00:00",
+      "discovered_via": "priority"
+    },
+    {
+      "type": "visual_changed",
+      "priority": "medium",
+      "competitor": "Xometry",
+      "url": "https://www.xometry.com/",
+      "category": "service",
+      "page_title": "Custom Manufacturing on Demand | Production Parts and Prototypes | Xometry",
+      "summary": "desktop 视图出现明显 UI/布局变化",
+      "details": [
+        "视口：desktop",
+        "RMS 差异：80.12",
+        "变化像素占比：11.42%",
+        "页面截图高度变化：-14px"
+      ],
+      "before": null,
+      "after": null,
+      "added": [],
+      "removed": [],
+      "change_percent": 0.0,
+      "confidence": "high",
+      "published_at": "",
+      "first_seen_at": "2026-08-17T03:43:15+00:00",
+      "discovered_via": "priority"
+    },
+    {
+      "type": "section_copy_changed",
+      "priority": "low",
+      "competitor": "JLC CNC",
+      "url": "https://jlccnc.com/blog/bed-milling",
+      "category": "content",
+      "page_title": "Bed Milling Guide: History, Types, Materials & CNC Services | JLCCNC",
+      "summary": "板块文案更新：Bed Milling Explained: Structure, Core Advantages, and Application Guide",
+      "details": [],
+      "before": "Bed Milling Explained: Structure, Core Advantages, and Application Guide Published Oct 23, 2025, updated Oct 22, 2025 7 min Table of Contents What Is Bed Milling? History and Evolution of Bed Milling Types of Bed Milling Machines How Does a Bed Milling Machine Work? Understanding the Core Principles The 4 Core Advantages of Bed Milling Bed Milling vs. Vertical Machining Centers (VMCs) Suitable Materials and Machining Details Real-World Application Cases When to Choose Bed Milling Frequently Asked Questions (FAQ) Conclusion In modern manufacturing, precision and efficiency are the keys to competitiveness. Among the various CNC machining methods, bed milling stands out for its outstanding rigidity, heavy-duty cutting performance, and ability to handle large workpieces with high accuracy. At JLCCNC , an online CNC machining service platform, engineers and manufacturers can easily access professional bed milling and other precision machining solutions — from design to production — starting from just $1 per order and delivery as fast as 3 days . （from ResearchGate ） What Is Bed Milling? Bed milling is a machining process where the worktable remains fixed while the spindle head moves al...",
+      "after": "Bed Milling Explained: Structure, Core Advantages, and Application Guide Published Oct 22, 2025, updated Oct 22, 2025 7 min Table of Contents What Is Bed Milling? History and Evolution of Bed Milling Types of Bed Milling Machines How Does a Bed Milling Machine Work? Understanding the Core Principles The 4 Core Advantages of Bed Milling Bed Milling vs. Vertical Machining Centers (VMCs) Suitable Materials and Machining Details Real-World Application Cases When to Choose Bed Milling Frequently Asked Questions (FAQ) Conclusion In modern manufacturing, precision and efficiency are the keys to competitiveness. Among the various CNC machining methods, bed milling stands out for its outstanding rigidity, heavy-duty cutting performance, and ability to handle large workpieces with high accuracy. At JLCCNC , an online CNC machining service platform, engineers and manufacturers can easily access professional bed milling and other precision machining solutions — from design to production — starting from just $1 per order and delivery as fast as 3 days . （from ResearchGate ） What Is Bed Milling? Bed milling is a machining process where the worktable remains fixed while the spindle head moves al...",
+      "added": [
+        "22,"
+      ],
+      "removed": [
+        "23,"
+      ],
+      "change_percent": 1.09,
+      "confidence": "high",
+      "published_at": "2025-12-26T00:00:00+00:00",
+      "first_seen_at": "2026-08-17T03:50:58+00:00",
+      "discovered_via": "sitemap"
+    },
+    {
+      "type": "section_copy_changed",
+      "priority": "low",
+      "competitor": "JLC CNC",
+      "url": "https://jlccnc.com/blog/category/manufacturing-services",
+      "category": "content",
+      "page_title": "Manufacturing Services | JLCCNC",
+      "summary": "板块文案更新：Featured Posts",
+      "details": [],
+      "before": "Featured Posts Manufacturing Solutions Rapid Prototyping Guide: Processes Compared and How to Choose the Right Method for Manufacturing What Is Rapid Prototyping (AI generated) Various rapid prototyping parts including 3D printed, CNC machined, and sheet metal components on a workshop table. Rapid prototyping is a manufacturing approach that produces physical parts directly from CAD data within hours or days, enabling engineers to quickly validate design, fit, and function before full-scale production. Modern shops use several methods under this umbrella. 3D printing, CNC machining, and sheet processes all fall into the rapid prototyp...... Mar 20, 2026 Manufacturing Solutions CNC Rapid Prototyping: Cost, Lead Time, Design Tips & Machining Service Oct 24, 2025 Manufacturing Solutions How is the Cost of CNC Machining Determined Dec 27, 2023 Manufacturing Solutions CNC machining solutions for DIY project designers Manufacturing Solutions The true cost of CNC machining services what are the main factors affecting price",
+      "after": "Featured Posts Manufacturing Solutions Rapid Prototyping Guide: Processes Compared and How to Choose the Right Method for Manufacturing What Is Rapid Prototyping (AI generated) Various rapid prototyping parts including 3D printed, CNC machined, and sheet metal components on a workshop table. Rapid prototyping is a manufacturing approach that produces physical parts directly from CAD data within hours or days, enabling engineers to quickly validate design, fit, and function before full-scale production. Modern shops use several methods under this umbrella. 3D printing, CNC machining, and sheet processes all fall into the rapid prototyp...... Mar 20, 2026 Manufacturing Solutions CNC Rapid Prototyping: Cost, Lead Time, Design Tips & Machining Service Oct 25, 2025 Manufacturing Solutions How is the Cost of CNC Machining Determined Dec 27, 2023 Manufacturing Solutions CNC machining solutions for DIY project designers Manufacturing Solutions The true cost of CNC machining services what are the main factors affecting price",
+      "added": [
+        "25,"
+      ],
+      "removed": [
+        "24,"
+      ],
+      "change_percent": 1.34,
+      "confidence": "high",
+      "published_at": "2026-03-20T00:00:00+00:00",
+      "first_seen_at": "2026-08-17T03:50:40+00:00",
+      "discovered_via": "sitemap"
+    },
+    {
+      "type": "section_copy_changed",
+      "priority": "low",
+      "competitor": "JLC CNC",
+      "url": "https://jlccnc.com/blog/category/tools-cutting-instruments",
+      "category": "content",
+      "page_title": "Tools & Cutting Instruments | JLCCNC",
+      "summary": "板块文案更新：Featured Posts",
+      "details": [],
+      "before": "Featured Posts Tools & Cutting Instruments End Milling Explained: Types, Uses & Best End Mills for Metal & Wood If you’re serious about machining precision parts, end milling isn’t just another operation, it’s the backbone of modern subtractive manufacturing. But despite how common end mills are in workshops and factories, many still underestimate how nuanced they can be. From tool geometry and coating to matching the right end mill to the material (yes, there's a difference between what cuts wood cleanly and what survives stainless steel), the details make or break your result. This blog isn’t a surface-level ...... Jun 30, 2025 Tools & Cutting Instruments End Milling vs Face Milling: Key Differences, Tools & Applications Jul 22, 2025 Tools & Cutting Instruments CNC Tooling 101: Choosing the Right End Mills and Cutters Oct 27, 2025 Tools & Cutting Instruments How to Choose the Right Cutting Tool Material (CNC & Lathe Guide) Sep 06, 2025 Tools & Cutting Instruments A Complete Guide to Tool Wear Detection and Maintenance in CNC Machining",
+      "after": "Featured Posts Tools & Cutting Instruments End Milling Explained: Types, Uses & Best End Mills for Metal & Wood If you’re serious about machining precision parts, end milling isn’t just another operation, it’s the backbone of modern subtractive manufacturing. But despite how common end mills are in workshops and factories, many still underestimate how nuanced they can be. From tool geometry and coating to matching the right end mill to the material (yes, there's a difference between what cuts wood cleanly and what survives stainless steel), the details make or break your result. This blog isn’t a surface-level ...... Jun 30, 2025 Tools & Cutting Instruments End Milling vs Face Milling: Key Differences, Tools & Applications Jul 22, 2025 Tools & Cutting Instruments CNC Tooling 101: Choosing the Right End Mills and Cutters Oct 26, 2025 Tools & Cutting Instruments How to Choose the Right Cutting Tool Material (CNC & Lathe Guide) Sep 06, 2025 Tools & Cutting Instruments A Complete Guide to Tool Wear Detection and Maintenance in CNC Machining",
+      "added": [
+        "26,"
+      ],
+      "removed": [
+        "27,"
+      ],
+      "change_percent": 1.17,
+      "confidence": "high",
+      "published_at": "2025-06-30T00:00:00+00:00",
+      "first_seen_at": "2026-08-17T03:50:35+00:00",
+      "discovered_via": "sitemap"
+    },
+    {
+      "type": "section_copy_changed",
+      "priority": "low",
+      "competitor": "JLC CNC",
+      "url": "https://jlccnc.com/blog/thread-milling-vs-tapping",
+      "category": "content",
+      "page_title": "Thread Milling vs. Tapping: What’s the Difference and When to Use Each?",
+      "summary": "板块文案更新：Thread Milling vs. Tapping: What’s the Difference and When to Use Each?",
+      "details": [],
+      "before": "Thread Milling vs. Tapping: What’s the Difference and When to Use Each? Published Jul 30, 2025, updated Jul 28, 2025 5 min Threading a hole sounds simple, until you’re deciding between thread milling and tapping . Both methods are staples in CNC machining and manual operations, but they serve different purposes, machines, and tolerances. Whether you're threading aluminum, stainless steel, or titanium, choosing the wrong method can mean broken tools, scrapped parts, or wasted hours. Let’s break down the real differences between thread milling vs tapping , when to use one over the other, and how to choose the right tool for your part. What is Tapping? Tapping is the traditional method of creating internal threads by driving a tap, a hardened cutting tool, into a pre-drilled hole. It’s fast, easy to set up, and widely used in manual and CNC operations. There are three common types of taps: ● Hand taps – used manually with a T-handle ● Spiral point taps – best for through holes ● Spiral flute taps – best for blind holes Taps are typically specific to one thread size and pitch, which makes them convenient but rigid in flexibility. What is Thread Milling? Thread milling , on the other h...",
+      "after": "Thread Milling vs. Tapping: What’s the Difference and When to Use Each? Published Jul 29, 2025, updated Jul 28, 2025 5 min Threading a hole sounds simple, until you’re deciding between thread milling and tapping . Both methods are staples in CNC machining and manual operations, but they serve different purposes, machines, and tolerances. Whether you're threading aluminum, stainless steel, or titanium, choosing the wrong method can mean broken tools, scrapped parts, or wasted hours. Let’s break down the real differences between thread milling vs tapping , when to use one over the other, and how to choose the right tool for your part. What is Tapping? Tapping is the traditional method of creating internal threads by driving a tap, a hardened cutting tool, into a pre-drilled hole. It’s fast, easy to set up, and widely used in manual and CNC operations. There are three common types of taps: ● Hand taps – used manually with a T-handle ● Spiral point taps – best for through holes ● Spiral flute taps – best for blind holes Taps are typically specific to one thread size and pitch, which makes them convenient but rigid in flexibility. What is Thread Milling? Thread milling , on the other h...",
+      "added": [
+        "29,"
+      ],
+      "removed": [
+        "30,"
+      ],
+      "change_percent": 0.98,
+      "confidence": "high",
+      "published_at": "2025-12-26T00:00:00+00:00",
+      "first_seen_at": "2026-08-17T03:50:55+00:00",
+      "discovered_via": "sitemap"
+    }
+  ],
+  "errors": [
+    "Seed page failed: https://www.hubs.com/manufacturing-services (HTTP 404)",
+    "Hubs | https://www.hubs.com/manufacturing-services | HTTP 404",
+    "Hubs | https://www.hubs.com/knowledgebasearticle | HTTP 404",
+    "Hubs | https://www.hubs.com/articleblogarticle | HTTP 404",
+    "Hubs | https://www.hubs.com/knowledgebasecollection | HTTP 404",
+    "Xometry | https://investors.xometry.com/news-releases/news-release-details/xometry-foundation-announces-partnership-mxd-expand | HTTP 403",
+    "Xometry | https://investors.xometry.com/news-releases/news-release-details/xometry-releases-comprehensive-upgrades-its-ai-model | HTTP 403",
+    "Xometry | https://investors.xometry.com/news-releases/news-release-details/xometry-launches-foundation-committing-1-million-advance | HTTP 403",
+    "Xometry | https://investors.xometry.com/news-releases/news-release-details/xometry-appoints-lukas-biewald-its-board-directors | HTTP 403",
+    "Xometry | https://investors.xometry.com/news-releases/news-release-details/xometry-streamlines-data-center-supply-chain-offering-single | HTTP 403",
+    "Xometry | https://investors.xometry.com/news-releases/news-release-details/xometry-and-siemens-partner-embed-ai-native-supply-chain | HTTP 403",
+    "Xometry | https://investors.xometry.com/news-releases/news-release-details/xometry-deepens-ai-native-marketplace-advantage-new-enterprise | HTTP 403",
+    "Xometry | https://investors.xometry.com/news-releases/news-release-details/xometry-announces-ceo-succession-plan | HTTP 403",
+    "Xometry | https://investors.xometry.com/news-releases/news-release-details/aerospace-defense-leaders-prioritize-ai-enabled-sourcing | HTTP 403",
+    "Xometry | https://investors.xometry.com/news-releases/news-release-details/xometry-marketplace-accelerates-solutions-complex-manufacturing | HTTP 403",
+    "Seed page failed: https://www.fictiv.com/services (HTTP 404)",
+    "Fictiv | https://www.fictiv.com/services | HTTP 404",
+    "Seed page failed: https://jlccnc.com/surface-finishes (HTTP 404)",
+    "Seed page failed: https://www.pcbway.com/rapid-prototyping (HTTP 404)",
+    "PCBWay | https://www.pcbway.com/rapid-prototyping/cnc-machining | HTTP 404",
+    "PCBWay | https://www.pcbway.com/rapid-prototyping/3d-printing | HTTP 404",
+    "Seed page failed: https://www.emachineshop.com/services (HTTP 404)",
+    "eMachineShop | https://www.emachineshop.com/services | HTTP 404",
+    "Seed page failed: https://www.cnclathing.com/blog (HTTP 404)",
+    "CNCLATHING | https://www.cnclathing.com/blog | HTTP 404"
+  ],
+  "discovery": [
+    {
+      "competitor": "Hubs",
+      "base_url": "https://www.hubs.com/",
+      "tracked_urls": 120,
+      "source_counts": {
+        "priority": 7,
+        "feed": 0,
+        "sitemap": 2870,
+        "links": 293
+      }
+    },
+    {
+      "competitor": "Xometry",
+      "base_url": "https://www.xometry.com/",
+      "tracked_urls": 120,
+      "source_counts": {
+        "priority": 6,
+        "feed": 100,
+        "sitemap": 0,
+        "links": 213
+      }
+    },
+    {
+      "competitor": "Fictiv",
+      "base_url": "https://www.fictiv.com/",
+      "tracked_urls": 120,
+      "source_counts": {
+        "priority": 6,
+        "feed": 31,
+        "sitemap": 1143,
+        "links": 131
+      }
+    },
+    {
+      "competitor": "Protolabs",
+      "base_url": "https://www.protolabs.com/",
+      "tracked_urls": 120,
+      "source_counts": {
+        "priority": 6,
+        "feed": 0,
+        "sitemap": 708,
+        "links": 141
+      }
+    },
+    {
+      "competitor": "JLC CNC",
+      "base_url": "https://jlccnc.com/",
+      "tracked_urls": 120,
+      "source_counts": {
+        "priority": 5,
+        "feed": 0,
+        "sitemap": 996,
+        "links": 84
+      }
+    },
+    {
+      "competitor": "PCBWay",
+      "base_url": "https://www.pcbway.com/",
+      "tracked_urls": 120,
+      "source_counts": {
+        "priority": 3,
+        "feed": 0,
+        "sitemap": 0,
+        "links": 127
+      }
+    },
+    {
+      "competitor": "eMachineShop",
+      "base_url": "https://www.emachineshop.com/",
+      "tracked_urls": 47,
+      "source_counts": {
+        "priority": 4,
+        "feed": 8,
+        "sitemap": 40,
+        "links": 16
+      }
+    },
+    {
+      "competitor": "SyBridge",
+      "base_url": "https://sybridge.com/",
+      "tracked_urls": 69,
+      "source_counts": {
+        "priority": 4,
+        "feed": 2,
+        "sitemap": 61,
+        "links": 21
+      }
+    },
+    {
+      "competitor": "CNCLATHING",
+      "base_url": "https://www.cnclathing.com/",
+      "tracked_urls": 120,
+      "source_counts": {
+        "priority": 4,
+        "feed": 0,
+        "sitemap": 732,
+        "links": 86
+      }
+    }
+  ],
+  "email": {
+    "text": "竞品追踪日报 · 2026-09-06\n\n今日概览：共检测到 10 项记录。 页面变化 10 项。 变化较多：JLC CNC, PCBWay, Xometry。\n\n【定价 & 首页变化】\n· PCBWay | China PCB Prototype & Fabrication Manufacturer - PCB Protot...\n  - 板块文案更新：Affordable Prototype PCB Manufacturer in China；新增：84752 / 908 / 09-06 C****to 6-7 days 28% 09-06 O****iz 12-13 days 22% 09-06 *** 4-5 days 28% 09-06 *** 24hours 12% 09-06 M****TI 24hours 29% 09-06 *** 24hours 29% 09-06 *** 3-4 days 12% 09-06 A...；删除：86024 / 1470 / 09-05；变更范围约 139.7%\n  https://www.pcbway.com/\n\n【文案 & 结构】\n· Xometry | Custom Manufacturing on Demand | Production Parts and Proto...\n  - CTA发生变化；新增：3D Printing Service -> https://www.xometry.com/capabilities/3d-printing-service / Aerospace and Defense -> https://www.xometry.com/aerospace-and-defense / Assembly Services -> https://www.xometry.com/assembly-services；删除：17.3M+ LBS OF CO2 OFFSET -> https://www.xometry.com/xometry-go-green / 3D Printing -> https://www.xometry.com/capabilities/3d-printing-service / A&D Leaders Prioritize AI-Enabled Supply Chain Solutions January 2026 -> https://investors.xometry.com/news-releases/news-release-details/aerospace-defense-leaders-prioritize-ai-e...\n  https://www.xometry.com/\n· JLC CNC | Bed Milling Guide: History, Types, Materials & CNC Services...\n  - 板块文案更新：Bed Milling Explained: Structure, Core Advantages, and Application Guide；新增：22,；删除：23,；变更范围约 1.1%\n  https://jlccnc.com/blog/bed-milling\n· JLC CNC | Manufacturing Services | JLCCNC\n  - 板块文案更新：Featured Posts；新增：25,；删除：24,；变更范围约 1.3%\n  https://jlccnc.com/blog/category/manufacturing-services\n· JLC CNC | Tools & Cutting Instruments | JLCCNC\n  - 板块文案更新：Featured Posts；新增：26,；删除：27,；变更范围约 1.2%\n  https://jlccnc.com/blog/category/tools-cutting-instruments\n· JLC CNC | Thread Milling vs. Tapping: What’s the Difference and When...\n  - 板块文案更新：Thread Milling vs. Tapping: What’s the Difference and When to Use Each?；新增：29,；删除：30,；变更范围约 1.0%\n  https://jlccnc.com/blog/thread-milling-vs-tapping\n\n【UI 布局变化】\n· PCBWay | China PCB Prototype & Fabrication Manufacturer - PCB Protot...\n  - China PCB Prototype & Fabrication Manufacturer - PCB Protot... mobile 端页面布局有明显变化（建议打开链接目视确认）\n  https://www.pcbway.com/\n· CNCLATHING | China Top CNC Machining Service OEM Supplier & Manufacturer...\n  - China Top CNC Machining Service OEM Supplier & Manufacturer... desktop 端页面布局有明显变化（建议打开链接目视确认）\n  https://www.cnclathing.com/\n· Fictiv | Fictiv: Sourcing Simplified for Custom Manufacturing Servic...\n  - Fictiv: Sourcing Simplified for Custom Manufacturing Servic... desktop 端页面布局有明显变化（建议打开链接目视确认）\n  https://www.fictiv.com/\n· Xometry | Custom Manufacturing on Demand | Production Parts and Proto...\n  - Custom Manufacturing on Demand | Production Parts and Proto... desktop 端页面布局有明显变化（建议打开链接目视确认）\n  https://www.xometry.com/\n\n抓取提醒：\n- Seed page failed: https://www.hubs.com/manufacturing-services (HTTP 404)\n- Hubs | https://www.hubs.com/manufacturing-services | HTTP 404\n- Hubs | https://www.hubs.com/knowledgebasearticle | HTTP 404\n- Hubs | https://www.hubs.com/articleblogarticle | HTTP 404\n- Hubs | https://www.hubs.com/knowledgebasecollection | HTTP 404\n- Xometry | https://investors.xometry.com/news-releases/news-release-details/xometry-foundation-announces-partnership-mxd-expand | HTTP 403\n- Xometry | https://investors.xometry.com/news-releases/news-release-details/xometry-releases-comprehensive-upgrades-its-ai-model | HTTP 403\n- Xometry | https://investors.xometry.com/news-releases/news-release-details/xometry-launches-foundation-committing-1-million-advance | HTTP 403\n- Xometry | https://investors.xometry.com/news-releases/news-release-details/xometry-appoints-lukas-biewald-its-board-directors | HTTP 403\n- Xometry | https://investors.xometry.com/news-releases/news-release-details/xometry-streamlines-data-center-supply-chain-offering-single | HTTP 403\n\n完整明细见仓库 reports/ 目录中的 HTML 报告。",
+    "html": "<!doctype html>\n<html lang=\"zh-CN\">\n<head>\n  <meta charset=\"utf-8\">\n  <meta name=\"viewport\" content=\"width=device-width, initial-scale=1\">\n  <title>竞品追踪日报 · 2026-09-06</title>\n  <style>\n    body { margin: 0; padding: 24px; font-family: Arial, 'Microsoft YaHei', sans-serif; color: #1a1a1a; background: #f4f5f7; line-height: 1.5; }\n    h1 { font-size: 22px; margin: 0 0 6px; }\n    h2 { font-size: 16px; margin: 24px 0 10px; color: #333; }\n    section { margin: 16px 0; }\n    table { width: 100%; border-collapse: collapse; background: #fff; border: 1px solid #e2e6ea; }\n    th, td { padding: 10px 12px; border-bottom: 1px solid #edf0f3; text-align: left; font-size: 13px; vertical-align: top; }\n    th { background: #f8f9fb; color: #555; font-weight: 600; }\n    tr:last-child td { border-bottom: none; }\n    a { color: #1565c0; text-decoration: none; }\n    .muted { color: #666; font-size: 13px; }\n    .summary { background: #fff; border: 1px solid #e2e6ea; padding: 14px 16px; border-radius: 4px; }\n    .summary-table td:first-child { width: 110px; color: #666; }\n    .summary-table td { border: none; padding: 4px 8px 4px 0; }\n    .changes { color: #222; }\n    .change-block { margin-bottom: 8px; }\n    .change-block:last-child { margin-bottom: 0; }\n    .diff-added { margin-top: 5px; padding: 5px 7px; color: #067647; background: #ecfdf3; border-left: 3px solid #12b76a; }\n    .diff-removed { margin-top: 5px; padding: 5px 7px; color: #b42318; background: #fef3f2; border-left: 3px solid #f04438; }\n    .timing { margin-top: 5px; color: #667085; font-size: 12px; }\n    .badge { display: inline-block; border-radius: 3px; padding: 2px 6px; font-size: 11px; font-weight: 600; text-transform: uppercase; }\n    .badge.high { background: #fde8e8; color: #b42318; }\n    .badge.medium { background: #fff4e5; color: #b54708; }\n    .badge.low { background: #eef4ff; color: #175cd3; }\n    .folded { background: #fafafa; border-left: 3px solid #d0d5dd; padding: 10px 14px; }\n    .footer { margin-top: 20px; font-size: 12px; color: #888; }\n    code { background: #f0f0f0; padding: 1px 4px; border-radius: 3px; }\n    ul { margin: 8px 0 0 18px; padding: 0; }\n  </style>\n</head>\n<body>\n<h1>竞品追踪日报</h1><p class='muted'>2026-09-06</p>\n<section class='summary'><p><strong>今日共检测到 10 项记录。</strong></p><table class='summary-table'><tbody><tr><td>近期新发布内容</td><td><strong>0</strong> 篇</td></tr><tr><td>历史内容补录</td><td>0 篇（不计入今日新闻）</td></tr><tr><td>监控异常</td><td><strong>0</strong> 项</td></tr><tr><td>新增其他页面</td><td><strong>0</strong> 个</td></tr><tr><td>内容页更新</td><td><strong>0</strong> 篇</td></tr><tr><td>页面变化</td><td><strong>10</strong> 项</td></tr><tr><td>已折叠</td><td>0 项</td></tr><tr><td>变化较多</td><td>JLC CNC, PCBWay, Xometry</td></tr></tbody></table></section>\n<section><h2>定价 &amp; 首页变化</h2><table><thead><tr><th>竞品</th><th>页面</th><th>具体改了什么</th></tr></thead><tbody><tr><td><span class='badge medium'>medium</span> PCBWay</td><td>China PCB Prototype &amp; Fabrication Manufacturer - PCB Protot...<br><a href='https://www.pcbway.com/'>pcbway.com/</a></td><td class='changes'><div class='change-block'><strong>板块文案更新：Affordable Prototype PCB Manufacturer in China</strong><div class='diff-added'>＋ 84752</div><div class='diff-added'>＋ 908</div><div class='diff-added'>＋ 09-06 C****to 6-7 days 28% 09-06 O****iz 12-13 days 22% 09-06 *** 4-5 days 28% 09-06 *** 24hours 12% 09-06 M****TI 24hours 29% 09-06 *** 24hours 29% 09-06 *** 3-4 days 12% 09-06 A****ik 15-16 days 45% 09-06 O****ui 48hours 26% 09-06</div><div class='diff-removed'>－ 86024</div><div class='diff-removed'>－ 1470</div><div class='diff-removed'>－ 09-05</div><span class='muted'>变更范围约 139.7%</span></div></td></tr></tbody></table></section>\n<section><h2>文案 &amp; 结构</h2><table><thead><tr><th>竞品</th><th>页面</th><th>具体改了什么</th></tr></thead><tbody><tr><td><span class='badge medium'>medium</span> Xometry</td><td>Custom Manufacturing on Demand | Production Parts and Proto...<br><a href='https://www.xometry.com/'>xometry.com/</a></td><td class='changes'><div class='change-block'><strong>CTA发生变化</strong><div class='diff-added'>＋ 3D Printing Service -&gt; https://www.xometry.com/capabilities/3d-printing-service</div><div class='diff-added'>＋ Aerospace and Defense -&gt; https://www.xometry.com/aerospace-and-defense</div><div class='diff-added'>＋ Assembly Services -&gt; https://www.xometry.com/assembly-services</div><div class='diff-removed'>－ 17.3M+ LBS OF CO2 OFFSET -&gt; https://www.xometry.com/xometry-go-green</div><div class='diff-removed'>－ 3D Printing -&gt; https://www.xometry.com/capabilities/3d-printing-service</div><div class='diff-removed'>－ A&amp;D Leaders Prioritize AI-Enabled Supply Chain Solutions January 2026 -&gt; https://investors.xometry.com/news-releases/news-release-details/aerospace-defense-leaders-prioritize-ai-e...</div></div></td></tr><tr><td><span class='badge low'>low</span> JLC CNC</td><td>Bed Milling Guide: History, Types, Materials &amp; CNC Services...<br><a href='https://jlccnc.com/blog/bed-milling'>jlccnc.com/blog/bed-milling</a></td><td class='changes'><div class='change-block'><strong>板块文案更新：Bed Milling Explained: Structure, Core Advantages, and Application Guide</strong><div class='diff-added'>＋ 22,</div><div class='diff-removed'>－ 23,</div><span class='muted'>变更范围约 1.1%</span></div></td></tr><tr><td><span class='badge low'>low</span> JLC CNC</td><td>Manufacturing Services | JLCCNC<br><a href='https://jlccnc.com/blog/category/manufacturing-services'>jlccnc.com/blog/category/manufacturing-services</a></td><td class='changes'><div class='change-block'><strong>板块文案更新：Featured Posts</strong><div class='diff-added'>＋ 25,</div><div class='diff-removed'>－ 24,</div><span class='muted'>变更范围约 1.3%</span></div></td></tr><tr><td><span class='badge low'>low</span> JLC CNC</td><td>Tools &amp; Cutting Instruments | JLCCNC<br><a href='https://jlccnc.com/blog/category/tools-cutting-instruments'>jlccnc.com/blog/category/tools-cutting-instruments</a></td><td class='changes'><div class='change-block'><strong>板块文案更新：Featured Posts</strong><div class='diff-added'>＋ 26,</div><div class='diff-removed'>－ 27,</div><span class='muted'>变更范围约 1.2%</span></div></td></tr><tr><td><span class='badge low'>low</span> JLC CNC</td><td>Thread Milling vs. Tapping: What’s the Difference and When...<br><a href='https://jlccnc.com/blog/thread-milling-vs-tapping'>jlccnc.com/blog/thread-milling-vs-tapping</a></td><td class='changes'><div class='change-block'><strong>板块文案更新：Thread Milling vs. Tapping: What’s the Difference and When to Use Each?</strong><div class='diff-added'>＋ 29,</div><div class='diff-removed'>－ 30,</div><span class='muted'>变更范围约 1.0%</span></div></td></tr></tbody></table></section>\n<section><h2>UI 布局变化</h2><table><thead><tr><th>竞品</th><th>页面</th><th>具体改了什么</th></tr></thead><tbody><tr><td><span class='badge high'>high</span> PCBWay</td><td>China PCB Prototype &amp; Fabrication Manufacturer - PCB Protot...<br><a href='https://www.pcbway.com/'>pcbway.com/</a></td><td class='changes'><div class='change-block'><strong>mobile 视图出现明显 UI/布局变化</strong>China PCB Prototype &amp; Fabrication Manufacturer - PCB Protot... mobile 端页面布局有明显变化（建议打开链接目视确认）</div></td></tr><tr><td><span class='badge medium'>medium</span> CNCLATHING</td><td>China Top CNC Machining Service OEM Supplier &amp; Manufacturer...<br><a href='https://www.cnclathing.com/'>cnclathing.com/</a></td><td class='changes'><div class='change-block'><strong>desktop 视图出现明显 UI/布局变化</strong>China Top CNC Machining Service OEM Supplier &amp; Manufacturer... desktop 端页面布局有明显变化（建议打开链接目视确认）</div></td></tr><tr><td><span class='badge medium'>medium</span> Fictiv</td><td>Fictiv: Sourcing Simplified for Custom Manufacturing Servic...<br><a href='https://www.fictiv.com/'>fictiv.com/</a></td><td class='changes'><div class='change-block'><strong>desktop 视图出现明显 UI/布局变化</strong>Fictiv: Sourcing Simplified for Custom Manufacturing Servic... desktop 端页面布局有明显变化（建议打开链接目视确认）</div></td></tr><tr><td><span class='badge medium'>medium</span> Xometry</td><td>Custom Manufacturing on Demand | Production Parts and Proto...<br><a href='https://www.xometry.com/'>xometry.com/</a></td><td class='changes'><div class='change-block'><strong>desktop 视图出现明显 UI/布局变化</strong>Custom Manufacturing on Demand | Production Parts and Proto... desktop 端页面布局有明显变化（建议打开链接目视确认）</div></td></tr></tbody></table></section>\n<section><h2>抓取提醒</h2><ul><li>Seed page failed: https://www.hubs.com/manufacturing-services (HTTP 404)</li><li>Hubs | https://www.hubs.com/manufacturing-services | HTTP 404</li><li>Hubs | https://www.hubs.com/knowledgebasearticle | HTTP 404</li><li>Hubs | https://www.hubs.com/articleblogarticle | HTTP 404</li><li>Hubs | https://www.hubs.com/knowledgebasecollection | HTTP 404</li><li>Xometry | https://investors.xometry.com/news-releases/news-release-details/xometry-foundation-announces-partnership-mxd-expand | HTTP 403</li><li>Xometry | https://investors.xometry.com/news-releases/news-release-details/xometry-releases-comprehensive-upgrades-its-ai-model | HTTP 403</li><li>Xometry | https://investors.xometry.com/news-releases/news-release-details/xometry-launches-foundation-committing-1-million-advance | HTTP 403</li><li>Xometry | https://investors.xometry.com/news-releases/news-release-details/xometry-appoints-lukas-biewald-its-board-directors | HTTP 403</li><li>Xometry | https://investors.xometry.com/news-releases/news-release-details/xometry-streamlines-data-center-supply-chain-offering-single | HTTP 403</li></ul></section>\n<p class='footer'>完整明细已保存到仓库 <code>reports/</code> 目录，可在 GitHub 上打开 HTML 文件查看全部变化。</p>\n</body></html>"
+  },
+  "run_id": "20260906T055254Z",
+  "baseline_run": false,
+  "upgrade_run": false,
+  "email_status": "Email sent with Resend."
+}
