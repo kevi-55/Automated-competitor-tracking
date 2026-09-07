@@ -1,0 +1,287 @@
+{
+  "canonical": "",
+  "category": "content",
+  "competitor": "PCBWay",
+  "ctas": [
+    {
+      "href": "https://www.pcbway.com/orderonline.aspx",
+      "text": "PCB Instant Quote"
+    },
+    {
+      "href": "javascript:void(0)",
+      "text": "Sign Up"
+    },
+    {
+      "href": "https://www.pcbway.com/project/shareproject?order=1",
+      "text": "By Source Files"
+    },
+    {
+      "href": "https://www.pcbway.com/project/shareproject?order=1",
+      "text": "View all source files projects"
+    },
+    {
+      "href": "https://www.pcbway.com/project/shareproject?order=1",
+      "text": "Source Files"
+    },
+    {
+      "href": "https://www.pcbway.com/blog/club-publish.html",
+      "text": "Submit for Publication"
+    },
+    {
+      "href": "https://www.pcbway.com/blog/Activities/Submit_for_Publication___Now_I_Write_Articles_in_PCBWay.html",
+      "text": "Write for PCBWay"
+    },
+    {
+      "href": "javascript:void(0)",
+      "text": "2. Core Design Rules and Industry Engineering Reference Data"
+    },
+    {
+      "href": "https://www.pcbway.com/blog?tag=PCB+industry",
+      "text": "PCB industry"
+    },
+    {
+      "href": "https://www.pcbway.com/contact.html",
+      "text": "Contact us"
+    }
+  ],
+  "discovered_via": "links",
+  "fetched_at": "2026-09-07T06:11:50+00:00",
+  "final_url": "https://www.pcbway.com/blog/CNC_Machining/Hardware_Installation_Design_Guidelines_15aa42f5.html",
+  "first_seen_at": "2026-09-07T06:11:50+00:00",
+  "h1": "Hardware Installation Design Guidelines",
+  "headings": [
+    {
+      "level": "h1",
+      "text": "Hardware Installation Design Guidelines"
+    },
+    {
+      "level": "h2",
+      "text": "1. Hardware Options and Selection"
+    },
+    {
+      "level": "h3",
+      "text": "Self-Clinching Nuts"
+    },
+    {
+      "level": "h3",
+      "text": "Self-Clinching Studs"
+    },
+    {
+      "level": "h3",
+      "text": "Standoffs"
+    },
+    {
+      "level": "h3",
+      "text": "Flush Hardware"
+    },
+    {
+      "level": "h2",
+      "text": "2. Core Design Rules and Industry Engineering Reference Data"
+    },
+    {
+      "level": "h3",
+      "text": "Minimum Edge Distance (Center-to-Edge Distance)"
+    },
+    {
+      "level": "h3",
+      "text": "Minimum Hole-to-Hole Spacing"
+    },
+    {
+      "level": "h3",
+      "text": "Bend Line Clearance"
+    },
+    {
+      "level": "h2",
+      "text": "3. Load Direction and Material Compatibility"
+    },
+    {
+      "level": "h3",
+      "text": "Load Direction Principle (Push-out vs. Pull-out)"
+    },
+    {
+      "level": "h3",
+      "text": "Sheet Hardness and Material Matching"
+    },
+    {
+      "level": "h2",
+      "text": "4. Surface Finishing and Installation Sequence"
+    },
+    {
+      "level": "h2",
+      "text": "5. File Preparation Requirements (CAD/DFM)"
+    },
+    {
+      "level": "h3",
+      "text": "2D DXF/DWG Files:"
+    },
+    {
+      "level": "h3",
+      "text": "3D STEP/STP/IGES Models:"
+    },
+    {
+      "level": "h2",
+      "text": "6. Hardware Installation Design Checklist"
+    }
+  ],
+  "images": [
+    {
+      "alt": "",
+      "src": "/project/img/images/avatar/user-pic.png"
+    },
+    {
+      "alt": "",
+      "src": "/project/img/images/loading-pro.gif"
+    },
+    {
+      "alt": "",
+      "src": "https://pcbwayfile.s3.us-west-2.amazonaws.com/web/23/10/03/1152415436848m.jpeg"
+    },
+    {
+      "alt": "",
+      "src": "https://pcbwayfile.s3.us-west-2.amazonaws.com/web/25/02/01/195239553dd028d967de6453aa74b91ac0e5423e73248m.png"
+    },
+    {
+      "alt": "",
+      "src": "https://pcbwayfile.s3-us-west-2.amazonaws.com/web/21/08/30/1823256917346m.png"
+    },
+    {
+      "alt": "",
+      "src": "https://pcb-files.s3.us-west-2.amazonaws.com/web/26/09/07/10213921613b39a8df477435b99a3583837f9052f2754t.png"
+    },
+    {
+      "alt": "",
+      "src": "https://pcb-files.s3.us-west-2.amazonaws.com/web/26/09/07/1024160003025cb4a63a44d27bb3f63641e1234f03323t.png"
+    },
+    {
+      "alt": "",
+      "src": "https://pcb-files.s3.us-west-2.amazonaws.com/web/26/09/07/102847646b614805961f6443a8160b3edca6469b54277t.png"
+    },
+    {
+      "alt": "",
+      "src": "/img/images/note-tips.png"
+    }
+  ],
+  "meta_description": "",
+  "modified_at": "",
+  "monitored_text": "PCBWay Community Search title or content Search PCBWay PCB Instant Quote CNC | 3D Printing Login Sign Up More Notifications No notifications. My Profile My projects My Likes My Deals My Goods for Bazaar Settings Sign Out Projects Categories DIY Electronics Arduino Hardware Audio Computers & USB Breakout Board Projects Home Automation LED Displays & Matrices IoT Robotics View all categories By Source Files Onju Voice - AI assistant replacement to Google Nest Mini by @justLV LogicAnalyzer V6.0 DIY 1kW Open Source MPPT Solar Charge Controller Tad Boy Color SummerCart64 - a fully open source N64 flashcart kv4p HT v1.7b QuinLED-Dig-Uno Arduino RC engine sound & light controller with inertia simulation for ESP32 Bike Fingerprint - PCB Solar Powered WiFi Weather Station V2.0 Frog Boy Color SIDKick pico 0.2 (SID 6581/8580-replacement for C64/C128) View all source files projects Featured Projects Onju Voice - AI assistant replacement to Google Nest Mini by @justLV LogicAnalyzer V6.0 DIY 1kW Open Source MPPT Solar Charge Controller Featured Source Files Video View all projects Questions Sponsorships Feedback Blog Store PCB Design Contest - 2026 KiCad PCB Design Contest - 8th Project Design Contest - 7th Project Design Contest - KiCad Design Contest - 6th Project Design Contest - 5th PCB Design Contest - 4th PCB Design Contest - Raspberry Pi Pico Contest - PCB Design Tutorial - 3rd PCB Design Contest - I CAN SOLDER Kit Contest - 2nd PCB Design Contest - 1st PCB Design Contest Add questions Create a project Please verify your email address so that you can enjoy our more comprehensive services. Verify Now Blog > Hardware Installation Design Guidelines Hardware Installation Design Guidelines by: Mila Sep 07,2026 <dynamic-value> <dynamic-value> Posted in CNC Machining Hardware installation adds threaded connection points, mounting features, and structural support directly to sheet metal parts. It is especially useful for thin sheet metal that is difficult to tap, applications where access to the back side is limited, and assemblies that require repeatable fastening. This guide covers key design considerations for sheet metal parts with press-fit or self-clinching (PEM) hardware, including hardware selection, mounting hole and spacing engineering data, edge clearance, bend clearance, load direction, and production file preparation standards. 1. Hardware Options and Selection Choosing the right hardware depends on how the finished part will be assembled and loaded. Self-Clinching Nuts Self-clinching nuts provide permanent internal threads in sheet metal parts. They are a practical alternative to tapping when the sheet is too thin to provide sufficient thread engagement. Common Applications: Electronic enclosures, control panels, mounting brackets, equipment housings, structural sheet metal assemblies. Typical Series: S/SS Series (standard steel), CLS Series (for stainless steel), SP Series (for corrosion-resistant hard stainless steel). Self-Clinching Studs Self-clinching studs provide a permanent threaded shaft extending from the sheet metal surface. They are useful when another component needs to be positioned over or mounted onto the sheet. Typical Applications: Panel mounting, PCB mounting, electrical assemblies, brackets and supports. Typical Series: FH (flush-head type), FHS (stainless steel type), TFH (thin-sheet type). Standoffs Standoffs create a fixed spacing between two components while providing a threaded mounting point. Common Applications: PCB mounting, electronic enclosures, multi-layer assemblies, panel-to-panel mounting. Typical Series: BSO (thru-hole threaded), SOO (blind threaded), CSOS (concealed-head type). Flush Hardware Flush or low-profile hardware is used when the installed fastener needs to remain close to or completely level with the sheet surface. Note that the final installed height varies depending on hardware type and sheet material. Always check specific hardware specifications before finalizing the design. 2. Core Design Rules and Industry Engineering Reference Data Before laying out mounting holes, general Design for Manufacturability (DFM) rules should be combined with fastener catalogs (such as PEM standards). Minimum Edge Distance (Center-to-Edge Distance) Hardware installed too close to an edge can weaken the sheet around the mounting point and cause the sheet edge to bulge or deform during installation or under load. Engineering Rules of Thumb: Rule Formula: Distance from the mounting hole center to the nearest edge C ≥ 1.5 × Dh (where Dh is the mounting hole diameter). Standard Recommendation: Check \"Min. Distance to Edge\" in PEM catalogs. For high-load or thin-sheet applications, C ≥ 2.0 × Dh is recommended. Minimum Hole-to-Hole Spacing Adjacent hardware holes positioned too closely can cause cumulative stress deformation and weaken the sheet metal between holes. Identical Hardware: Recommended center-to-center distance S ≥ 3 × Dh. Different Hardware Types: Follow the larger clearance requirement and ensure installation tooling envelopes do not intersect (installation anvil diameter is typically 3-5mm larger than the hole). Bend Line Clearance Bending creates a plastic deformation zone (bend allowance area) around the bend. Installing hardware inside or too close to this area can cause tooling interference during forming or distort the mounting hole. Clearance Formula (Hole center to bend tangent line): L_bend ≥ R + t + C_margin Where R is inner bend radius, t is sheet thickness, and C_margin is safety margin (typically 1.5 to 2 times fastener flange radius, or maintaining center distance to bend line at 2t + R + 3mm or greater). 3. Load Direction and Material Compatibility Load Direction Principle (Push-out vs. Pull-out) Self-clinching fasteners rely on knurling and clinician grooves pressed into sheet metal for cold-flow bonding, resulting in significant differences in retention strength along different axes. Nuts: Applied load must pull the nut into the sheet metal (Push-out force direction). Never apply bolt tension that directly pulls the nut out of the sheet (Pull-out force). Studs: Tightening force should press the stud head firmly against the sheet surface, avoiding direct axial tension pulling the stud out from the back. Sheet Hardness and Material Matching Successful clinch insertion requires the fastener material to be harder than the base sheet metal so that the knurled teeth can cold-extrude into the sheet. Aluminum Alloys (e.g., 5052-H32 / 6061-T6): Compatible with carbon steel (S series) or stainless steel (CLS series) fasteners. Recommended sheet hardness: HRB 50 max. Cold-Rolled Steel / Galvanized Steel (SPCC/SECC): Use carbon steel (S series) or hardened stainless steel fasteners. Recommended sheet hardness: HRB 80 max. Stainless Steel (e.g., 304 / 316): Hardened stainless steel fasteners (such as PEM SP series) must be used. Standard CLS stainless fasteners cannot extrude into 304 sheets. Recommended sheet hardness: HRB 88/90 max. 4. Surface Finishing and Installation Sequence Surface treatments (powder coating, plating, anodizing) significantly affect hardware installation and should follow these engineering guidelines: 5. File Preparation Requirements (CAD/DFM) 2D DXF/DWG Files: Maintain 1:1 scale, remove duplicate lines, construction geometry, and open contours. Draw hardware mounting holes directly at the manufacturer's recommended standard diameter (Dh) without manual scaling. 3D STEP/STP/IGES Models: Cloud Manufacturing Platforms (e.g., SCS, Xometry): Remove 3D hardware fastener models from exported STEP files, leaving only exact mounting holes to prevent automated DFM algorithms from misinterpreting fasteners as complex CNC milling features. Traditional Engineering Drawings: Call out fastener BOM part numbers, specifications (e.g., PEM S-M4-1), and installation faces on assembly drawings. 6. Hardware Installation Design Checklist Hardware type and thread size selected, with sheet hardness verified below fastener hardness limits (e.g., SP series for stainless steel). Mounting hole size matches specifications, with edge distance C ≥ 1.5 × Dh (≥ 6.4 mm recommended). Hole center to bend tangent line distance meets L_bend ≥ 2t + R + 3mm. Load direction verified to pull hardware into sheet (Push-out direction) rather than pulling it out. Installation area is accessible by tooling, free from interfering deep pockets, tight flanges, or narrow channels. Insertion sequence coordinated with powder coating/anodizing/plating processes. 3D STEP files prepared with hardware solids removed, leaving accurate mounting hole geometry. Enter the year of your birth and check your Chinese Zodiac. Join us Wanna be a dedicated PCBWay writer? We definately look forward to having you with us. Submit for Publication Become Our Writer Leave a Comment ( 0 ) Share to: Previous：Countersink & Counterbore Holes Design Guidelines Next：Sheet Cutting Design Guidelines Comments ( 0 ) Log in to post comments. Upload photo You can only upload 5 files in total. Each file cannot exceed 2MB. Supports JPG, JPEG, GIF, PNG, BMP 0 / 10000 It looks like you have not written anything. Please add a comment and try again. You can upload up to 5 images! Image size should not exceed 2MB! File format not supported! Post Comment Write for PCBWay Categories Select a Category 3D Printing Activities CNC Machining Engineering Technical Flexible PCB HDI PCB Help Center Injection Molding News PCB Assembly PCB Basic Information PCB Design & Layout PCB Design Tutorial PCB Layout Software PCB Manufacturing Information PCBWay Store Rigid-Flex PCB Sheet Metal Technology Table of Contents 1. Hardware Options and Selection 2. Core Design Rules and Industry Engineering Reference Data 3. Load Direction and Material Compatibility 4. Surface Finishing and Installation Sequence 5. File Preparation Requirements (CAD/DFM) 6. Hardware Installation Design Checklist HOT TAG PCB Printed Circuit Board PCB design PCB Board PCB layout Circuit Board Printed Circuit Boards PCB Design Tutorial PCB industry pcb manufacturing KiCad pcbway IF YOU MISSED IT 1 Hardware Installation Design Guidelines 2 Electrical Discharge Machining (EDM): Process Types & Technical Guide 3 Decorative Chrome vs. Hard Chrome: Core Differences Explained 4 Anodized Aluminum Samples Showcase: Real Finishes, Colors, and Surface Quality 5 10 Ways to Reduce CNC Machining Costs: Practical Design Tips 6 High Appearance Requirements in CNC Precision Machining Finished Parts 7 Why can't stl be converted to step files? 8 Hybrid Manufacturing Technology: Combining 3D Printing and CNC Machining 9 Emerging CNC machining technologies The PCB Way that recognize the talent and effort of the best ELECTRONIC designers in the World. © COPYRIGHT 2019 About us Contact us Follow us on Share to Facebook Share to Twitter Share to Reddit Share to Linkedin Back to top",
+  "published_at": "2026-09-07T00:00:00+00:00",
+  "requested_url": "https://www.pcbway.com/blog/CNC_Machining/Hardware_Installation_Design_Guidelines_15aa42f5.html",
+  "schema_version": 2,
+  "sections": [
+    {
+      "hash": "e7a56cf00ad5058239443779bc3dbabe115ae2fb",
+      "heading": "Hardware Installation Design Guidelines",
+      "level": "h1",
+      "text": "Hardware Installation Design Guidelines by: Mila Sep 07,2026 <dynamic-value> <dynamic-value> Posted in CNC Machining Hardware installation adds threaded connection points, mounting features, and structural support directly to sheet metal parts. It is especially useful for thin sheet metal that is difficult to tap, applications where access to the back side is limited, and assemblies that require repeatable fastening. This guide covers key design considerations for sheet metal parts with press-fit or self-clinching (PEM) hardware, including hardware selection, mounting hole and spacing engineering data, edge clearance, bend clearance, load direction, and production file preparation standards. 1. Hardware Options and Selection Choosing the right hardware depends on how the finished part will be assembled and loaded. Self-Clinching Nuts Self-clinching nuts provide permanent internal threads in sheet metal parts. They are a practical alternative to tapping when the sheet is too thin to provide sufficient thread engagement. Common Applications: Electronic enclosures, control panels, mounting brackets, equipment housings, structural sheet metal assemblies. Typical Series: S/SS Series (s..."
+    },
+    {
+      "hash": "4589f54efe61cae963ada87066e8b4d9967ae0c0",
+      "heading": "1. Hardware Options and Selection",
+      "level": "h2",
+      "text": "1. Hardware Options and Selection Choosing the right hardware depends on how the finished part will be assembled and loaded."
+    },
+    {
+      "hash": "a5eb7643d10e61a7938b34f19aa4f8178d2d3c23",
+      "heading": "Self-Clinching Nuts",
+      "level": "h3",
+      "text": "Self-Clinching Nuts Self-clinching nuts provide permanent internal threads in sheet metal parts. They are a practical alternative to tapping when the sheet is too thin to provide sufficient thread engagement. Common Applications: Electronic enclosures, control panels, mounting brackets, equipment housings, structural sheet metal assemblies. Typical Series: S/SS Series (standard steel), CLS Series (for stainless steel), SP Series (for corrosion-resistant hard stainless steel)."
+    },
+    {
+      "hash": "9d0152f4b2c024f14d30d360d6e61460cfd2af50",
+      "heading": "Self-Clinching Studs",
+      "level": "h3",
+      "text": "Self-Clinching Studs Self-clinching studs provide a permanent threaded shaft extending from the sheet metal surface. They are useful when another component needs to be positioned over or mounted onto the sheet. Typical Applications: Panel mounting, PCB mounting, electrical assemblies, brackets and supports. Typical Series: FH (flush-head type), FHS (stainless steel type), TFH (thin-sheet type)."
+    },
+    {
+      "hash": "ce4938f12385d9622d66b263980a03cdf6d5807d",
+      "heading": "Standoffs",
+      "level": "h3",
+      "text": "Standoffs Standoffs create a fixed spacing between two components while providing a threaded mounting point. Common Applications: PCB mounting, electronic enclosures, multi-layer assemblies, panel-to-panel mounting. Typical Series: BSO (thru-hole threaded), SOO (blind threaded), CSOS (concealed-head type)."
+    },
+    {
+      "hash": "a6ae8c704e7034e2f4d4d4feedd54cf5b7421cea",
+      "heading": "Flush Hardware",
+      "level": "h3",
+      "text": "Flush Hardware Flush or low-profile hardware is used when the installed fastener needs to remain close to or completely level with the sheet surface. Note that the final installed height varies depending on hardware type and sheet material. Always check specific hardware specifications before finalizing the design."
+    },
+    {
+      "hash": "8ed326ed2778d659a6d477f59867b594f311173b",
+      "heading": "2. Core Design Rules and Industry Engineering Reference Data",
+      "level": "h2",
+      "text": "2. Core Design Rules and Industry Engineering Reference Data Before laying out mounting holes, general Design for Manufacturability (DFM) rules should be combined with fastener catalogs (such as PEM standards)."
+    },
+    {
+      "hash": "b8e72fea80e36c1f2be4e20b1906bb6092fe8fc3",
+      "heading": "Minimum Edge Distance (Center-to-Edge Distance)",
+      "level": "h3",
+      "text": "Minimum Edge Distance (Center-to-Edge Distance) Hardware installed too close to an edge can weaken the sheet around the mounting point and cause the sheet edge to bulge or deform during installation or under load. Engineering Rules of Thumb: Rule Formula: Distance from the mounting hole center to the nearest edge C ≥ 1.5 × Dh (where Dh is the mounting hole diameter). Standard Recommendation: Check \"Min. Distance to Edge\" in PEM catalogs. For high-load or thin-sheet applications, C ≥ 2.0 × Dh is recommended."
+    },
+    {
+      "hash": "495cc89015ae563be77879b5a1c558fb3693d4cf",
+      "heading": "Minimum Hole-to-Hole Spacing",
+      "level": "h3",
+      "text": "Minimum Hole-to-Hole Spacing Adjacent hardware holes positioned too closely can cause cumulative stress deformation and weaken the sheet metal between holes. Identical Hardware: Recommended center-to-center distance S ≥ 3 × Dh. Different Hardware Types: Follow the larger clearance requirement and ensure installation tooling envelopes do not intersect (installation anvil diameter is typically 3-5mm larger than the hole)."
+    },
+    {
+      "hash": "4fe61fd1e70ebffdc606e8ae62705ff77aa9bf1a",
+      "heading": "Bend Line Clearance",
+      "level": "h3",
+      "text": "Bend Line Clearance Bending creates a plastic deformation zone (bend allowance area) around the bend. Installing hardware inside or too close to this area can cause tooling interference during forming or distort the mounting hole. Clearance Formula (Hole center to bend tangent line): L_bend ≥ R + t + C_margin Where R is inner bend radius, t is sheet thickness, and C_margin is safety margin (typically 1.5 to 2 times fastener flange radius, or maintaining center distance to bend line at 2t + R + 3mm or greater)."
+    },
+    {
+      "hash": "f66d05e532ffe3da677be257c9fe293d29925230",
+      "heading": "3. Load Direction and Material Compatibility",
+      "level": "h2",
+      "text": "3. Load Direction and Material Compatibility"
+    },
+    {
+      "hash": "f92c1abaae82186bb2489bf72741a6fef76e9e52",
+      "heading": "Load Direction Principle (Push-out vs. Pull-out)",
+      "level": "h3",
+      "text": "Load Direction Principle (Push-out vs. Pull-out) Self-clinching fasteners rely on knurling and clinician grooves pressed into sheet metal for cold-flow bonding, resulting in significant differences in retention strength along different axes. Nuts: Applied load must pull the nut into the sheet metal (Push-out force direction). Never apply bolt tension that directly pulls the nut out of the sheet (Pull-out force). Studs: Tightening force should press the stud head firmly against the sheet surface, avoiding direct axial tension pulling the stud out from the back."
+    },
+    {
+      "hash": "7f4a495f319207f1bbfbbfc5dd4c992a9f76767b",
+      "heading": "Sheet Hardness and Material Matching",
+      "level": "h3",
+      "text": "Sheet Hardness and Material Matching Successful clinch insertion requires the fastener material to be harder than the base sheet metal so that the knurled teeth can cold-extrude into the sheet. Aluminum Alloys (e.g., 5052-H32 / 6061-T6): Compatible with carbon steel (S series) or stainless steel (CLS series) fasteners. Recommended sheet hardness: HRB 50 max. Cold-Rolled Steel / Galvanized Steel (SPCC/SECC): Use carbon steel (S series) or hardened stainless steel fasteners. Recommended sheet hardness: HRB 80 max. Stainless Steel (e.g., 304 / 316): Hardened stainless steel fasteners (such as PEM SP series) must be used. Standard CLS stainless fasteners cannot extrude into 304 sheets. Recommended sheet hardness: HRB 88/90 max."
+    },
+    {
+      "hash": "021cdf9b6bbae97c65ce085516e3f5f672ee370d",
+      "heading": "4. Surface Finishing and Installation Sequence",
+      "level": "h2",
+      "text": "4. Surface Finishing and Installation Sequence Surface treatments (powder coating, plating, anodizing) significantly affect hardware installation and should follow these engineering guidelines:"
+    },
+    {
+      "hash": "7bb832942f0772e8341332330fb23a91f5b29f39",
+      "heading": "5. File Preparation Requirements (CAD/DFM)",
+      "level": "h2",
+      "text": "5. File Preparation Requirements (CAD/DFM)"
+    },
+    {
+      "hash": "fb70c9bf83277de0293a15622f456ea9e145468a",
+      "heading": "2D DXF/DWG Files:",
+      "level": "h3",
+      "text": "2D DXF/DWG Files: Maintain 1:1 scale, remove duplicate lines, construction geometry, and open contours. Draw hardware mounting holes directly at the manufacturer's recommended standard diameter (Dh) without manual scaling."
+    },
+    {
+      "hash": "d57af39a654e1054c0e9035fb84bbbee0492fba6",
+      "heading": "3D STEP/STP/IGES Models:",
+      "level": "h3",
+      "text": "3D STEP/STP/IGES Models: Cloud Manufacturing Platforms (e.g., SCS, Xometry): Remove 3D hardware fastener models from exported STEP files, leaving only exact mounting holes to prevent automated DFM algorithms from misinterpreting fasteners as complex CNC milling features. Traditional Engineering Drawings: Call out fastener BOM part numbers, specifications (e.g., PEM S-M4-1), and installation faces on assembly drawings."
+    },
+    {
+      "hash": "6edc1ee5404fe0b9e5eb787f598614fd1cd219e2",
+      "heading": "6. Hardware Installation Design Checklist",
+      "level": "h2",
+      "text": "6. Hardware Installation Design Checklist Hardware type and thread size selected, with sheet hardness verified below fastener hardness limits (e.g., SP series for stainless steel). Mounting hole size matches specifications, with edge distance C ≥ 1.5 × Dh (≥ 6.4 mm recommended). Hole center to bend tangent line distance meets L_bend ≥ 2t + R + 3mm. Load direction verified to pull hardware into sheet (Push-out direction) rather than pulling it out. Installation area is accessible by tooling, free from interfering deep pockets, tight flanges, or narrow channels. Insertion sequence coordinated with powder coating/anodizing/plating processes. 3D STEP files prepared with hardware solids removed, leaving accurate mounting hole geometry."
+    }
+  ],
+  "sitemap_lastmod": "",
+  "status": 200,
+  "structure_hash": "65599a03316aa1ffaff4211f4526bfbccb8aa976",
+  "text_excerpt": "PCBWay Community Search title or content Search PCBWay PCB Instant Quote CNC | 3D Printing Login Sign Up More Notifications No notifications. My Profile My projects My Likes My Deals My Goods for Bazaar Settings Sign Out Projects Categories DIY Electronics Arduino Hardware Audio Computers & USB Breakout Board Projects Home Automation LED Displays & Matrices IoT Robotics View all categories By Source Files Onju Voice - AI assistant replacement to Google Nest Mini by @justLV LogicAnalyzer V6.0 DIY 1kW Open Source MPPT Solar Charge Controller Tad Boy Color SummerCart64 - a fully open source N64 flashcart kv4p HT v1.7b QuinLED-Dig-Uno Arduino RC engine sound & light controller with inertia simulation for ESP32 Bike Fingerprint - PCB Solar Powered WiFi Weather Station V2.0 Frog Boy Color SIDKick pico 0.2 (SID 6581/8580-replacement for C64/C128) View all source files projects Featured Projects Onju Voice - AI assistant replacement to Google Nest Mini by @justLV LogicAnalyzer V6.0 DIY 1kW Open Source MPPT Solar Charge Controller Featured Source Files Video View all projects Questions Sponsorships Feedback Blog Store PCB Design Contest - 2026 KiCad PCB Design Contest - 8th Project Design...",
+  "text_hash": "b7744d17422c9fb081448ddd08d5c0c1e0764e82",
+  "title": "Hardware Installation Design Guidelines - CNC Machining - PCBway",
+  "url": "https://www.pcbway.com/blog/CNC_Machining/Hardware_Installation_Design_Guidelines_15aa42f5.html"
+}

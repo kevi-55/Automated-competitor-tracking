@@ -122,7 +122,6 @@
       "https://www.cnclathing.com/cnc-machining-copper"
     ],
     "Fictiv": [
-      "https://www.fictiv.com/",
       "https://www.fictiv.com/capabilities",
       "https://www.fictiv.com/resources",
       "https://www.fictiv.com/articles",
@@ -484,9 +483,9 @@
       "https://www.pcbway.com/",
       "https://www.pcbway.com/blog",
       "https://www.pcbway.com/blog/News/PCBWay_Plug_In_for_KiCad_3ea6219c.html",
-      "https://www.pcbway.com/blog/Sheet_Metal/Sheet_Metal_Bending_Design_Guidelines_cbefb6cf.html",
-      "https://www.pcbway.com/blog/PCB_Design_Layout/HDI_PCB_Layout_Guide_for_High_Speed_Optical_Module_PCB_Design_ebb877fe.html",
-      "https://www.pcbway.com/blog/CNC_Machining/Electrical_Discharge_Machining_EDM_Process_Types_Technical_Guide_3f35da5a.html",
+      "https://www.pcbway.com/blog/Sheet_Metal/Sheet_Cutting_Design_Guidelines_b0e8981b.html",
+      "https://www.pcbway.com/blog/CNC_Machining/Hardware_Installation_Design_Guidelines_15aa42f5.html",
+      "https://www.pcbway.com/blog/Sheet_Metal/Countersink_Counterbore_Holes_Design_Guidelines_f328f60a.html",
       "https://www.pcbway.com/blog/News/KPCA_Show_2026_Meet_PCBWay_at_Booth_R310_in_South_Korea_8033f91f.html",
       "https://www.pcbway.com/blog/help_center/How_to_Use_Payoneer_to_Pay_for_Orders_a72bb66b.html",
       "https://www.pcbway.com/blog/News/Impact_of_the_New_U_S_Tariff_Policy_on_Customs_Clearance_51dff4fd.html",
@@ -507,11 +506,14 @@
       "https://www.pcbway.com/blog/News/PCBWay_Fabrication_Toolkit_for_Kicad_23c41e77.html",
       "https://www.pcbway.com/blog/News/Explore_the_PCBWay_Brochure_to_learn_about_our_capabilities_d72a5dff.html",
       "https://www.pcbway.com/blog/Sheet_Metal",
+      "https://www.pcbway.com/blog/CNC_Machining",
+      "https://www.pcbway.com/blog/Sheet_Metal/Sheet_Metal_Bending_Design_Guidelines_cbefb6cf.html",
+      "https://www.pcbway.com/blog/PCB_Design_Layout/HDI_PCB_Layout_Guide_for_High_Speed_Optical_Module_PCB_Design_ebb877fe.html",
       "https://www.pcbway.com/blog?tag=hdi+pcb",
       "https://www.pcbway.com/blog?tag=HDI+pcb+design",
       "https://www.pcbway.com/blog?tag=optical+module+pcb",
       "https://www.pcbway.com/blog?tag=high+speed+pcb+layout",
-      "https://www.pcbway.com/blog/CNC_Machining",
+      "https://www.pcbway.com/blog/CNC_Machining/Electrical_Discharge_Machining_EDM_Process_Types_Technical_Guide_3f35da5a.html",
       "https://www.pcbway.com/blog?tag=electrical+discharge+machining",
       "https://www.pcbway.com/blog?tag=Wire+EDM",
       "https://www.pcbway.com/blog?tag=cnc+edm",
@@ -555,15 +557,6 @@
       "https://www.pcbway.com/blog?tag=high+speed+board+design",
       "https://www.pcbway.com/blog/PCB_Design_Layout/High_Speed_PCB_Design_Guidelines_for_Impedance_and_SI_69c86d49.html",
       "https://www.pcbway.com/blog?tag=high+speed+PCB+design",
-      "https://www.pcbway.com/blog/PCB_Design_Layout/9_Essential_PCB_Copper_Pour_Techniques_A_Complete_Guide_for_PCB_Layout_Design_04f052a1.html",
-      "https://www.pcbway.com/blog?tag=PCB+Layout+Design",
-      "https://www.pcbway.com/blog?tag=pcb+copper+pour",
-      "https://www.pcbway.com/blog/PCB_Design_Layout/Industrial_Grade_RS_485_Communication_Interface_Design_and_PCB_Layout_11eb36b2.html",
-      "https://www.pcbway.com/blog?tag=interface+design",
-      "https://www.pcbway.com/blog?tag=rs485+pcb",
-      "https://www.pcbway.com/blog/PCB_Design_Layout/Switching_Power_Supply_PCB_Layout_Guide_AC_DC_DC_DC_Digital_Power_Design_Bes_446b6fa4.html",
-      "https://www.pcbway.com/blog?tag=power+supply+pcb+layout",
-      "https://www.pcbway.com/blog?tag=power+supply+pcb+design",
       "https://www.pcbway.com/blog/Activities/Submit_for_Publication___Now_I_Write_Articles_in_PCBWay.html",
       "https://www.pcbway.com/blog/Engineering_Technical",
       "https://www.pcbway.com/blog/News/PCBWay_Plug_In_for_OpenSCAD_b39038d5.html",
@@ -598,7 +591,11 @@
       "https://www.pcbway.com/rapid-prototyping/3D-Printing/3D-Printing-SLA.html",
       "https://www.pcbway.com/rapid-prototyping/3D-Printing/3D-Printing-DLP.html",
       "https://www.pcbway.com/rapid-prototyping/3D-Printing/3D-Printing-FDM.html",
-      "https://www.pcbway.com/rapid-prototyping/3D-Printing/3D-Printing-SLM.html"
+      "https://www.pcbway.com/rapid-prototyping/3D-Printing/3D-Printing-SLM.html",
+      "https://www.pcbway.com/rapid-prototyping/3D-Printing/3D-Printing-SLS.html",
+      "https://www.pcbway.com/rapid-prototyping/3D-Printing/3D-Printing-PolyJet.html",
+      "https://www.pcbway.com/rapid-prototyping/3D-Printing/3D-Printing-VC.html",
+      "https://www.pcbway.com/rapid-prototyping/Sheet-metal/Laser-Cutting.html"
     ],
     "Protolabs": [
       "https://www.protolabs.com/",
@@ -932,7 +929,7 @@
       "https://quote.emachineshop.com/emachineshop/widget/upload"
     ]
   },
-  "last_run_at": "2026-09-06T06:07:31+00:00",
+  "last_run_at": "2026-09-07T06:16:33+00:00",
   "runs": [
     {
       "errors": 12,
@@ -1339,6 +1336,13 @@
       "finished_at": "2026-09-06T06:07:31+00:00",
       "mode": "daily",
       "run_id": "20260906T055254Z"
+    },
+    {
+      "errors": 28,
+      "events": 94,
+      "finished_at": "2026-09-07T06:16:33+00:00",
+      "mode": "daily",
+      "run_id": "20260907T060139Z"
     }
   ],
   "schema_version": 2

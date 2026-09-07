@@ -1,0 +1,457 @@
+{
+  "canonical": "",
+  "category": "content",
+  "competitor": "PCBWay",
+  "ctas": [
+    {
+      "href": "https://www.pcbway.com/orderonline.aspx",
+      "text": "PCB Instant Quote"
+    },
+    {
+      "href": "javascript:void(0)",
+      "text": "Sign Up"
+    },
+    {
+      "href": "https://www.pcbway.com/project/shareproject?order=1",
+      "text": "By Source Files"
+    },
+    {
+      "href": "https://www.pcbway.com/project/shareproject?order=1",
+      "text": "View all source files projects"
+    },
+    {
+      "href": "https://www.pcbway.com/project/shareproject?order=1",
+      "text": "Source Files"
+    },
+    {
+      "href": "https://www.pcbway.com/blog/club-publish.html",
+      "text": "Submit for Publication"
+    },
+    {
+      "href": "https://www.pcbway.com/blog/Activities/Submit_for_Publication___Now_I_Write_Articles_in_PCBWay.html",
+      "text": "Write for PCBWay"
+    },
+    {
+      "href": "https://www.pcbway.com/blog?tag=PCB+industry",
+      "text": "PCB industry"
+    },
+    {
+      "href": "https://www.pcbway.com/contact.html",
+      "text": "Contact us"
+    }
+  ],
+  "discovered_via": "links",
+  "fetched_at": "2026-09-07T06:11:46+00:00",
+  "final_url": "https://www.pcbway.com/blog/Sheet_Metal/Sheet_Cutting_Design_Guidelines_b0e8981b.html",
+  "first_seen_at": "2026-09-07T06:11:46+00:00",
+  "h1": "Sheet Cutting Design Guidelines",
+  "headings": [
+    {
+      "level": "h1",
+      "text": "Sheet Cutting Design Guidelines"
+    },
+    {
+      "level": "h2",
+      "text": "1. File Formats & Submission Requirements"
+    },
+    {
+      "level": "h2",
+      "text": "2. Vector & CAD File Cleaning"
+    },
+    {
+      "level": "h3",
+      "text": "Scale & Units"
+    },
+    {
+      "level": "h3",
+      "text": "Manufacturing Geometry Only"
+    },
+    {
+      "level": "h3",
+      "text": "Convert Text to Outlines"
+    },
+    {
+      "level": "h3",
+      "text": "Closed Cutting Profiles"
+    },
+    {
+      "level": "h3",
+      "text": "Duplicate & Overlapping Lines"
+    },
+    {
+      "level": "h3",
+      "text": "Dedicated Layer Usage"
+    },
+    {
+      "level": "h3",
+      "text": "Bridging Floating Interiors"
+    },
+    {
+      "level": "h2",
+      "text": "3. Part Dimensions & Multi-Part Nesting"
+    },
+    {
+      "level": "h3",
+      "text": "Part Size Limits"
+    },
+    {
+      "level": "h3",
+      "text": "Multi-Part Ordering & Pre-Nesting"
+    },
+    {
+      "level": "h3",
+      "text": "No Common-Line Nesting"
+    },
+    {
+      "level": "h3",
+      "text": "Directional & Mirrored Materials"
+    },
+    {
+      "level": "h2",
+      "text": "4. Feature Design Tolerances & Limits"
+    },
+    {
+      "level": "h3",
+      "text": "Feature Limits Summary"
+    },
+    {
+      "level": "h3",
+      "text": "Narrow Walls & Isolated Features"
+    },
+    {
+      "level": "h3",
+      "text": "Dense Cutout Patterns"
+    },
+    {
+      "level": "h2",
+      "text": "5. Process-Specific Design Guidelines"
+    },
+    {
+      "level": "h3",
+      "text": "Laser Cutting"
+    },
+    {
+      "level": "h3",
+      "text": "Waterjet Cutting"
+    },
+    {
+      "level": "h3",
+      "text": "CNC Routing"
+    },
+    {
+      "level": "h2",
+      "text": "6. Formed & Bent Sheet Metal Parts"
+    },
+    {
+      "level": "h3",
+      "text": "One Solid Body Per File"
+    },
+    {
+      "level": "h3",
+      "text": "Model True Sheet-Metal Geometry"
+    },
+    {
+      "level": "h3",
+      "text": "Uniform Thickness & Simple Features"
+    },
+    {
+      "level": "h3",
+      "text": "Reference Plane Alignment"
+    },
+    {
+      "level": "h3",
+      "text": "Material Rules & Bend Parameters"
+    },
+    {
+      "level": "h3",
+      "text": "STEP Export Verification"
+    },
+    {
+      "level": "h3",
+      "text": "Bending Geometric Guardrails (Keepout Zones)"
+    },
+    {
+      "level": "h2",
+      "text": "7. Troubleshooting Common File Errors"
+    },
+    {
+      "level": "h2",
+      "text": "8. Pre-Submission Checklist"
+    }
+  ],
+  "images": [
+    {
+      "alt": "",
+      "src": "/project/img/images/avatar/user-pic.png"
+    },
+    {
+      "alt": "",
+      "src": "/project/img/images/loading-pro.gif"
+    },
+    {
+      "alt": "",
+      "src": "https://pcbwayfile.s3.us-west-2.amazonaws.com/web/23/10/03/1152415436848m.jpeg"
+    },
+    {
+      "alt": "",
+      "src": "https://pcbwayfile.s3.us-west-2.amazonaws.com/web/25/02/01/195239553dd028d967de6453aa74b91ac0e5423e73248m.png"
+    },
+    {
+      "alt": "",
+      "src": "https://pcbwayfile.s3-us-west-2.amazonaws.com/web/21/08/30/1823256917346m.png"
+    },
+    {
+      "alt": "",
+      "src": "https://pcb-files.s3.us-west-2.amazonaws.com/web/26/09/07/1040015543ac4ecc8c29b47c0b9306bf2cf0936887858t.png"
+    },
+    {
+      "alt": "",
+      "src": "https://pcb-files.s3.us-west-2.amazonaws.com/web/26/09/07/10413272351f9e2fd01ae4e9580f33fd9c7a4d1d11024t.jpg"
+    },
+    {
+      "alt": "",
+      "src": "https://pcb-files.s3.us-west-2.amazonaws.com/web/26/09/07/104159967202430052a0b40fbae8d73e793f170256115t.jpg"
+    },
+    {
+      "alt": "",
+      "src": "https://pcb-files.s3.us-west-2.amazonaws.com/web/26/09/07/10424878146d8374a3851422da9357db1111608e78100t.jpg"
+    },
+    {
+      "alt": "",
+      "src": "https://pcb-files.s3.us-west-2.amazonaws.com/web/26/09/07/104342787d10606d97b514575878ed327a265fa018476t.jpg"
+    },
+    {
+      "alt": "",
+      "src": "https://pcb-files.s3.us-west-2.amazonaws.com/web/26/09/07/1044096733746eea39d27490fa40d823260a547eb3801t.jpg"
+    },
+    {
+      "alt": "",
+      "src": "https://pcb-files.s3.us-west-2.amazonaws.com/web/26/09/07/10472434918f3a32705b24cc780af81f6558839412035t.png"
+    },
+    {
+      "alt": "",
+      "src": "https://pcb-files.s3.us-west-2.amazonaws.com/web/26/09/07/104856958a01932e2b0f641e48ee45e47f7affdec5554t.png"
+    },
+    {
+      "alt": "",
+      "src": "https://pcb-files.s3.us-west-2.amazonaws.com/web/26/09/07/105624807f889800d67f0411fad1fa91c309da5220367t.png"
+    },
+    {
+      "alt": "",
+      "src": "/img/images/note-tips.png"
+    }
+  ],
+  "meta_description": "",
+  "modified_at": "",
+  "monitored_text": "PCBWay Community Search title or content Search PCBWay PCB Instant Quote CNC | 3D Printing Login Sign Up More Notifications No notifications. My Profile My projects My Likes My Deals My Goods for Bazaar Settings Sign Out Projects Categories DIY Electronics Arduino Hardware Audio Computers & USB Breakout Board Projects Home Automation LED Displays & Matrices IoT Robotics View all categories By Source Files Onju Voice - AI assistant replacement to Google Nest Mini by @justLV LogicAnalyzer V6.0 DIY 1kW Open Source MPPT Solar Charge Controller Tad Boy Color SummerCart64 - a fully open source N64 flashcart kv4p HT v1.7b QuinLED-Dig-Uno Arduino RC engine sound & light controller with inertia simulation for ESP32 Bike Fingerprint - PCB Solar Powered WiFi Weather Station V2.0 Frog Boy Color SIDKick pico 0.2 (SID 6581/8580-replacement for C64/C128) View all source files projects Featured Projects Onju Voice - AI assistant replacement to Google Nest Mini by @justLV LogicAnalyzer V6.0 DIY 1kW Open Source MPPT Solar Charge Controller Featured Source Files Video View all projects Questions Sponsorships Feedback Blog Store PCB Design Contest - 2026 KiCad PCB Design Contest - 8th Project Design Contest - 7th Project Design Contest - KiCad Design Contest - 6th Project Design Contest - 5th PCB Design Contest - 4th PCB Design Contest - Raspberry Pi Pico Contest - PCB Design Tutorial - 3rd PCB Design Contest - I CAN SOLDER Kit Contest - 2nd PCB Design Contest - 1st PCB Design Contest Add questions Create a project Please verify your email address so that you can enjoy our more comprehensive services. Verify Now Blog > Sheet Cutting Design Guidelines Sheet Cutting Design Guidelines by: Mila Sep 07,2026 <dynamic-value> <dynamic-value> Posted in Sheet Metal This guide is designed to help engineers and designers prepare CAD and STEP files that meet manufacturing standards. Following these design requirements prior to order submission helps prevent file rejections, shorten lead times, and reduce overall manufacturing costs. Note: Material-specific values—including minimum hole size, internal radius, and thickness limits—vary by material and process. 1. File Formats & Submission Requirements Select the appropriate file format based on whether your part is flat or contains 3D forms/bends. Unsupported Formats Mesh Files: .stl, .obj, etc., are not accepted for flat/formed sheet cutting. Raster Images: .jpg, .png, .tif, .bmp, etc. All raster artwork must be converted to vector geometry prior to submission. 2. Vector & CAD File Cleaning A production file should contain only the closed cutting geometry required to manufacture the part. Clean all construction elements and annotations before exporting. Scale & Units 1:1 Scale: Build files at full final cut size. Written dimensions inside drawings are ignored by automated processing systems. Units: Imperial (inches) is preferred. Metric (millimeters) is acceptable when used consistently between the file and quote. Centimeters and meters are not supported. Manufacturing Geometry Only Remove all dimensions, title blocks, borders, guides, notes, and annotations. Convert Text to Outlines Convert all text to vector outlines (or explode/expand text in CAD). Editable fonts/text boxes cannot be recognized as cutting geometry. Closed Cutting Profiles Every cut path must form a fully closed shape. Inspect geometry in wireframe/outline mode before export to detect unclosed paths or tiny gaps. Duplicate & Overlapping Lines Delete duplicate, overlapping, or intersecting vector entities. In multi-entity geometry, duplicated lines can be interpreted as double-cutting paths and ruin cut quality. Dedicated Layer Usage Place all final cut paths on a designated cut layer. Move construction geometry or annotations to separate layers or delete them entirely prior to export. Bridging Floating Interiors Internal \"islands\" (e.g., the centers of letters like O, A, B, or donut-shaped cutouts) will become detached during cutting. Add bridges or stencil connections to retain them. Bridge width depends on material thickness. 3. Part Dimensions & Multi-Part Nesting Establish part envelopes and multi-part arrangements early to avoid sizing and production rejection issues. Part Size Limits Size limits vary by material and manufacturing process. CNC Routing Size Limits: ○ Minimal part size: 2mm (0.08in) ○ Maximal part size: 1000 mm (40in) ○ Minimal diameter: 0.3mm (0.01in) These are general size restrictions; the specific restrictions vary depending on the material. For details, please upload your file and wait for an engineer to review it to determine if it is acceptable. Multi-Part Ordering & Pre-Nesting Single File Upload (Recommended): For multiple copies of the same part, upload one file containing a single part and set the desired quantity at checkout. Pre-Nesting Rules: Pre-nested layouts are permitted only when: All parts share the same material and thickness. The file is a supported 2D vector format (.dxf, .dwg). Pre-nested 3D formats (.step/.stp/.iges/.igs/.sldprt) are not accepted. Bending, tapping, or hardware-inserted parts must be uploaded as individual single-part files. No Common-Line Nesting Do not share a cutting line between adjacent parts. Common-line cutting does not account for kerf, beam width, tool diameter, or stream width (which introduces a gap ranging from ~0.006″ to 0.012″ depending on material). Separate each part geometry according to process tolerance limits. Directional & Mirrored Materials Materials with distinct surface finishes (e.g., brushed ACM, mirrored acrylic, textured ABS, hardboard) require specific top/bottom orientation. Save mirrored variations as separate files when orientation matters. 4. Feature Design Tolerances & Limits Check hole sizes, internal corners, narrow walls, and cutout density against process limitations before finalizing artwork. Feature Limits Summary Narrow Walls & Isolated Features Extremely narrow walls or small isolated features tend to distort or overheat during cutting. Maintain minimum feature dimensions as specified for your target material and process. Dense Cutout Patterns Intricate patterns (e.g., grilles, speaker grates) increase cutting times and heat buildup, potentially causing warping or thermal marks in thin stock. If burn marks occur on fiber laser cut samples, increase the line/web thickness between cutouts. 5. Process-Specific Design Guidelines Selection of laser, waterjet, or CNC routing depends on material composition, stock thickness, and required edge quality. Laser Cutting Ideal for sheet metals, acrylic, and select boards. Mind the heat-affected zone (HAZ) and kerf allowance on small, intricate features. Waterjet Cutting Preferred for heat-sensitive or thick materials (composites, rubber, foam). Internal corner radii are constrained by the ~0.032″ waterjet stream diameter. CNC Routing CNC routing uses a rotating bit for flatbed cutting on materials like ACM, plastics, wood, and boards. 2D Flatbed Limitation: CNC routers perform 2D flatbed cut-throughs only. They cannot produce V-grooves, 3D surface contours, partial-depth cuts, double-sided cuts, or counterbores. Tapping and countersinking are handled via separate post-processing services. Dogbone Fillets for Square Corners: Because a rotating bit leaves an internal radius (min. 0.063″), a square peg will not seat flush into a standard routed pocket. Add dogbone fillets (corner over-cuts) to provide proper clearance for mating components. Standard chamfers do not eliminate the tool radius.\\ Sizing Formula: Dogbone Diameter ≥ Tool Bit Diameter+ 0.005″(0.13mm) (Example: When routing with a standard 0.125″ bit, design your dogbone circles with a diameter of at least 0.130″.) Fixturing Tabs: Small perimeter tabs retain routed parts during cutting. ○Tab size: ~0.1875″ wide × 50% material thickness deep. ○Tabs are removed/sanded post-process and do not alter functional geometry. ○Edge geometry must allow at least 0.400″ spacing between vertex nodes for tab placement. Material Removal Limit: Do not remove more than 50% of total material on perforated or skeletal designs to prevent parts from shifting or breaking during routing. Edge Finish: Routed edges may display minor witness marks, steps, or friction discoloration. These are standard for the process and do not affect structural performance. 6. Formed & Bent Sheet Metal Parts When submitting parts that require bending, folding, or forming, follow true sheet-metal modeling rules. One Solid Body Per File Each .step or .stp file must contain exactly one solid sheet-metal body. Multi-body solids or assemblies cannot be processed within a single part file. Model True Sheet-Metal Geometry Use dedicated sheet-metal design tools in your CAD software. Extruded solids or mesh objects are not valid substitutes for sheet-metal bodies. Uniform Thickness & Simple Features Maintain uniform material thickness throughout the part. Include a flat edge face at every boundary. Do not model partial-depth features, tapered edges, or countersinks directly into the 3D model. Model simple through-holes only; specify secondary services (tapping, countersinks) during quoting. Reference Plane Alignment Align at least one major flat face parallel to a primary CAD reference plane to ensure accurate flat-pattern unfolding. Material Rules & Bend Parameters Apply a sheet-metal rule matching your target material thickness, bend radius, and K-factor. Mismatched bend parameters cause open-contour or flat-pattern export errors. STEP Export Verification Ensure the single sheet-metal body is selected before exporting. A file reading as 0″ × 0″ upon upload indicates an unselected body or missing solid geometry. Bending Geometric Guardrails (Keepout Zones) Placing holes or small features too close to a bend line will cause material stretching and feature distortion during die press braking. Follow these minimum spacing requirements: Hole-to-Bend Line Minimum Distance: Minimum Clearance= (2 × Material Thickness) + Bend Radius (Holes placed closer than this limit will deform into ovals during bending.) Minimum Flange Height (Bend Leg Length): Minimum Flange Length= 4 × Material Thickness (Flanges shorter than this limit cannot sit stably across the lower press brake die during forming.) Cutout Relief at Bends: When a cutout intersects a bend line, add bend relief slots extending at least 1× Material Thickness beyond the bend line on both sides to prevent material tearing. 7. Troubleshooting Common File Errors 8. Pre-Submission Checklist Verify the following before uploading your production file: File Format: Vector (.dxf, .dwg) for flat parts; 3D Solid (.step, .stp, .iges, .igs, .sldprt) for bent parts. Scale & Units: Created at 1:1 scale using consistent Inches or Millimeters. Clean Geometry: All dimensions, notes, construction lines, and borders removed. Text Outlined: All text converted to vector paths. Closed Paths: All cutting profiles form fully closed shapes. No Duplicate Lines: Overlapping and shared geometry removed. Islands Bridged: Floating interior cutouts connected with stencil bridges. Feature Limits: Hole diameters and internal radii satisfy selected process minimums. CNC Requirements: Dogbones added to internal square corners; material removal ≤ 50%. 3D Sheet Metal: Exactly one solid sheet-metal body per file with uniform thickness. Nesting Setup: Single part per file (no common-line cutting); separate directional or mirrored parts into distinct files. Enter the year of your birth and check your Chinese Zodiac. Join us Wanna be a dedicated PCBWay writer? We definately look forward to having you with us. Submit for Publication Become Our Writer Leave a Comment ( 0 ) Share to: Previous：Hardware Installation Design Guidelines Next：No next one Comments ( 0 ) Log in to post comments. Upload photo You can only upload 5 files in total. Each file cannot exceed 2MB. Supports JPG, JPEG, GIF, PNG, BMP 0 / 10000 It looks like you have not written anything. Please add a comment and try again. You can upload up to 5 images! Image size should not exceed 2MB! File format not supported! Post Comment Write for PCBWay Categories Select a Category 3D Printing Activities CNC Machining Engineering Technical Flexible PCB HDI PCB Help Center Injection Molding News PCB Assembly PCB Basic Information PCB Design & Layout PCB Design Tutorial PCB Layout Software PCB Manufacturing Information PCBWay Store Rigid-Flex PCB Sheet Metal Technology Table of Contents 1. File Formats & Submission Requirements 2. Vector & CAD File Cleaning 3. Part Dimensions & Multi-Part Nesting 4. Feature Design Tolerances & Limits 5. Process-Specific Design Guidelines 6. Formed & Bent Sheet Metal Parts 7. Troubleshooting Common File Errors 8. Pre-Submission Checklist HOT TAG PCB Printed Circuit Board PCB design PCB Board PCB layout Circuit Board Printed Circuit Boards PCB Design Tutorial PCB industry pcb manufacturing KiCad pcbway IF YOU MISSED IT 1 Sheet Cutting Design Guidelines 2 Countersink & Counterbore Holes Design Guidelines 3 Sheet Metal Bending Design Guidelines 4 Sheet Metal Bending DFM Guide to Prevent Warping Tearing and Bending Deformation 5 Introduction to Sheet Metal Processing Equipment 6 Combining 3D Printing and Sheet Metal Processing: Exploring Applications and Development Prospects 7 Introduction and comparison of laser cutting, waterjet cutting and plasma cutting 8 Design Points of Sheet Metal Structure—2 9 Design Points of Sheet Metal Structure—1 The PCB Way that recognize the talent and effort of the best ELECTRONIC designers in the World. © COPYRIGHT 2019 About us Contact us Follow us on Share to Facebook Share to Twitter Share to Reddit Share to Linkedin Back to top",
+  "published_at": "2026-09-07T00:00:00+00:00",
+  "requested_url": "https://www.pcbway.com/blog/Sheet_Metal/Sheet_Cutting_Design_Guidelines_b0e8981b.html",
+  "schema_version": 2,
+  "sections": [
+    {
+      "hash": "c7828ddccbfd16326c1bc4f5e0ebb8773a63bd1e",
+      "heading": "Sheet Cutting Design Guidelines",
+      "level": "h1",
+      "text": "Sheet Cutting Design Guidelines by: Mila Sep 07,2026 <dynamic-value> <dynamic-value> Posted in Sheet Metal This guide is designed to help engineers and designers prepare CAD and STEP files that meet manufacturing standards. Following these design requirements prior to order submission helps prevent file rejections, shorten lead times, and reduce overall manufacturing costs. Note: Material-specific values—including minimum hole size, internal radius, and thickness limits—vary by material and process. 1. File Formats & Submission Requirements Select the appropriate file format based on whether your part is flat or contains 3D forms/bends. Unsupported Formats Mesh Files: .stl, .obj, etc., are not accepted for flat/formed sheet cutting. Raster Images: .jpg, .png, .tif, .bmp, etc. All raster artwork must be converted to vector geometry prior to submission. 2. Vector & CAD File Cleaning A production file should contain only the closed cutting geometry required to manufacture the part. Clean all construction elements and annotations before exporting. Scale & Units 1:1 Scale: Build files at full final cut size. Written dimensions inside drawings are ignored by automated processing systems..."
+    },
+    {
+      "hash": "2bbd2dce08e37b591bc48d62a8ef023edd962ce8",
+      "heading": "1. File Formats & Submission Requirements",
+      "level": "h2",
+      "text": "1. File Formats & Submission Requirements Select the appropriate file format based on whether your part is flat or contains 3D forms/bends. Unsupported Formats Mesh Files: .stl, .obj, etc., are not accepted for flat/formed sheet cutting. Raster Images: .jpg, .png, .tif, .bmp, etc. All raster artwork must be converted to vector geometry prior to submission."
+    },
+    {
+      "hash": "f210d49e9d6264d517322d1eed6bf086d4fe5ae5",
+      "heading": "2. Vector & CAD File Cleaning",
+      "level": "h2",
+      "text": "2. Vector & CAD File Cleaning A production file should contain only the closed cutting geometry required to manufacture the part. Clean all construction elements and annotations before exporting."
+    },
+    {
+      "hash": "51e3ea6be3843819819bb1c355f495482afb0da8",
+      "heading": "Scale & Units",
+      "level": "h3",
+      "text": "Scale & Units 1:1 Scale: Build files at full final cut size. Written dimensions inside drawings are ignored by automated processing systems. Units: Imperial (inches) is preferred. Metric (millimeters) is acceptable when used consistently between the file and quote. Centimeters and meters are not supported."
+    },
+    {
+      "hash": "748750176d4e8ea0f98bf15c0b2a3dde35f26392",
+      "heading": "Manufacturing Geometry Only",
+      "level": "h3",
+      "text": "Manufacturing Geometry Only Remove all dimensions, title blocks, borders, guides, notes, and annotations."
+    },
+    {
+      "hash": "0469b381d17a84ce896a65e51bc651150aae80b8",
+      "heading": "Convert Text to Outlines",
+      "level": "h3",
+      "text": "Convert Text to Outlines Convert all text to vector outlines (or explode/expand text in CAD). Editable fonts/text boxes cannot be recognized as cutting geometry."
+    },
+    {
+      "hash": "8accc0c1b15241cfe55879d3139d00140ef44f24",
+      "heading": "Closed Cutting Profiles",
+      "level": "h3",
+      "text": "Closed Cutting Profiles Every cut path must form a fully closed shape. Inspect geometry in wireframe/outline mode before export to detect unclosed paths or tiny gaps."
+    },
+    {
+      "hash": "32289281d2a29714800e27f3048fc5d09fd64122",
+      "heading": "Duplicate & Overlapping Lines",
+      "level": "h3",
+      "text": "Duplicate & Overlapping Lines Delete duplicate, overlapping, or intersecting vector entities. In multi-entity geometry, duplicated lines can be interpreted as double-cutting paths and ruin cut quality."
+    },
+    {
+      "hash": "f152718d5d6a4b6d6f93d96da168f49b89ecd6d6",
+      "heading": "Dedicated Layer Usage",
+      "level": "h3",
+      "text": "Dedicated Layer Usage Place all final cut paths on a designated cut layer. Move construction geometry or annotations to separate layers or delete them entirely prior to export."
+    },
+    {
+      "hash": "e30da99c28b8939e8f28f9ddbf87848c02e2e677",
+      "heading": "Bridging Floating Interiors",
+      "level": "h3",
+      "text": "Bridging Floating Interiors Internal \"islands\" (e.g., the centers of letters like O, A, B, or donut-shaped cutouts) will become detached during cutting. Add bridges or stencil connections to retain them. Bridge width depends on material thickness."
+    },
+    {
+      "hash": "5515d82c5ae722bead2eaa61694a473a122789c4",
+      "heading": "3. Part Dimensions & Multi-Part Nesting",
+      "level": "h2",
+      "text": "3. Part Dimensions & Multi-Part Nesting Establish part envelopes and multi-part arrangements early to avoid sizing and production rejection issues."
+    },
+    {
+      "hash": "308c79f83b45ef287bc2e05196d06a208038cdb0",
+      "heading": "Part Size Limits",
+      "level": "h3",
+      "text": "Part Size Limits Size limits vary by material and manufacturing process. CNC Routing Size Limits: ○ Minimal part size: 2mm (0.08in) ○ Maximal part size: 1000 mm (40in) ○ Minimal diameter: 0.3mm (0.01in) These are general size restrictions; the specific restrictions vary depending on the material. For details, please upload your file and wait for an engineer to review it to determine if it is acceptable."
+    },
+    {
+      "hash": "4c43e9ffd4591555ce4f95adfbba95eab324f21a",
+      "heading": "Multi-Part Ordering & Pre-Nesting",
+      "level": "h3",
+      "text": "Multi-Part Ordering & Pre-Nesting Single File Upload (Recommended): For multiple copies of the same part, upload one file containing a single part and set the desired quantity at checkout. Pre-Nesting Rules: Pre-nested layouts are permitted only when: All parts share the same material and thickness. The file is a supported 2D vector format (.dxf, .dwg). Pre-nested 3D formats (.step/.stp/.iges/.igs/.sldprt) are not accepted. Bending, tapping, or hardware-inserted parts must be uploaded as individual single-part files."
+    },
+    {
+      "hash": "91b5d35920ba4126aead05663dbfa49c157a28f3",
+      "heading": "No Common-Line Nesting",
+      "level": "h3",
+      "text": "No Common-Line Nesting Do not share a cutting line between adjacent parts. Common-line cutting does not account for kerf, beam width, tool diameter, or stream width (which introduces a gap ranging from ~0.006″ to 0.012″ depending on material). Separate each part geometry according to process tolerance limits."
+    },
+    {
+      "hash": "7360efd4c6ccab43f025f69cc14967dfdbe53cc4",
+      "heading": "Directional & Mirrored Materials",
+      "level": "h3",
+      "text": "Directional & Mirrored Materials Materials with distinct surface finishes (e.g., brushed ACM, mirrored acrylic, textured ABS, hardboard) require specific top/bottom orientation. Save mirrored variations as separate files when orientation matters."
+    },
+    {
+      "hash": "fd2e41cb7dfc3ed5bb62dd34ee3eb31e9fb31baf",
+      "heading": "4. Feature Design Tolerances & Limits",
+      "level": "h2",
+      "text": "4. Feature Design Tolerances & Limits Check hole sizes, internal corners, narrow walls, and cutout density against process limitations before finalizing artwork."
+    },
+    {
+      "hash": "24258f7ffb056bbc90f3dee4796da4ff9948c6e0",
+      "heading": "Feature Limits Summary",
+      "level": "h3",
+      "text": "Feature Limits Summary"
+    },
+    {
+      "hash": "01eee3c13e3dc784df2f0333daa11c6fd27df5e2",
+      "heading": "Narrow Walls & Isolated Features",
+      "level": "h3",
+      "text": "Narrow Walls & Isolated Features Extremely narrow walls or small isolated features tend to distort or overheat during cutting. Maintain minimum feature dimensions as specified for your target material and process."
+    },
+    {
+      "hash": "6b6139bd5461fdd7e1a0fad57d41fdf796699876",
+      "heading": "Dense Cutout Patterns",
+      "level": "h3",
+      "text": "Dense Cutout Patterns Intricate patterns (e.g., grilles, speaker grates) increase cutting times and heat buildup, potentially causing warping or thermal marks in thin stock. If burn marks occur on fiber laser cut samples, increase the line/web thickness between cutouts."
+    },
+    {
+      "hash": "e442d7bd12bcc03cdf74d90bfbd037efae86cb71",
+      "heading": "5. Process-Specific Design Guidelines",
+      "level": "h2",
+      "text": "5. Process-Specific Design Guidelines Selection of laser, waterjet, or CNC routing depends on material composition, stock thickness, and required edge quality."
+    },
+    {
+      "hash": "4bdb08f7a2dbc0732ee62dcd874b744521647a2d",
+      "heading": "Laser Cutting",
+      "level": "h3",
+      "text": "Laser Cutting Ideal for sheet metals, acrylic, and select boards. Mind the heat-affected zone (HAZ) and kerf allowance on small, intricate features."
+    },
+    {
+      "hash": "7974743d9fb97ba9aa263a16c33ee20868920754",
+      "heading": "Waterjet Cutting",
+      "level": "h3",
+      "text": "Waterjet Cutting Preferred for heat-sensitive or thick materials (composites, rubber, foam). Internal corner radii are constrained by the ~0.032″ waterjet stream diameter."
+    },
+    {
+      "hash": "06570d1bee233d34b3309104d0164fe621fd5030",
+      "heading": "CNC Routing",
+      "level": "h3",
+      "text": "CNC Routing CNC routing uses a rotating bit for flatbed cutting on materials like ACM, plastics, wood, and boards. 2D Flatbed Limitation: CNC routers perform 2D flatbed cut-throughs only. They cannot produce V-grooves, 3D surface contours, partial-depth cuts, double-sided cuts, or counterbores. Tapping and countersinking are handled via separate post-processing services. Dogbone Fillets for Square Corners: Because a rotating bit leaves an internal radius (min. 0.063″), a square peg will not seat flush into a standard routed pocket. Add dogbone fillets (corner over-cuts) to provide proper clearance for mating components. Standard chamfers do not eliminate the tool radius.\\ Sizing Formula: Dogbone Diameter ≥ Tool Bit Diameter+ 0.005″(0.13mm) (Example: When routing with a standard 0.125″ bit, design your dogbone circles with a diameter of at least 0.130″.) Fixturing Tabs: Small perimeter tabs retain routed parts during cutting. ○Tab size: ~0.1875″ wide × 50% material thickness deep. ○Tabs are removed/sanded post-process and do not alter functional geometry."
+    },
+    {
+      "hash": "e0d0ed8a7ca40c874f00dae5e91ae3818abc429a",
+      "heading": "6. Formed & Bent Sheet Metal Parts",
+      "level": "h2",
+      "text": "6. Formed & Bent Sheet Metal Parts When submitting parts that require bending, folding, or forming, follow true sheet-metal modeling rules."
+    },
+    {
+      "hash": "8f1802028e673217e1a2b3cecf8261d0a75df02a",
+      "heading": "One Solid Body Per File",
+      "level": "h3",
+      "text": "One Solid Body Per File Each .step or .stp file must contain exactly one solid sheet-metal body. Multi-body solids or assemblies cannot be processed within a single part file."
+    },
+    {
+      "hash": "17fe9f9068040e7a860f88e7de439fdb8b46ba1d",
+      "heading": "Model True Sheet-Metal Geometry",
+      "level": "h3",
+      "text": "Model True Sheet-Metal Geometry Use dedicated sheet-metal design tools in your CAD software. Extruded solids or mesh objects are not valid substitutes for sheet-metal bodies."
+    },
+    {
+      "hash": "752c8fcf08cde14aa3d6fa2edcfe4b6199ef938f",
+      "heading": "Uniform Thickness & Simple Features",
+      "level": "h3",
+      "text": "Uniform Thickness & Simple Features Maintain uniform material thickness throughout the part. Include a flat edge face at every boundary. Do not model partial-depth features, tapered edges, or countersinks directly into the 3D model. Model simple through-holes only; specify secondary services (tapping, countersinks) during quoting."
+    },
+    {
+      "hash": "8f79b70602fb0303f19201c5fb373ed7c1671149",
+      "heading": "Reference Plane Alignment",
+      "level": "h3",
+      "text": "Reference Plane Alignment Align at least one major flat face parallel to a primary CAD reference plane to ensure accurate flat-pattern unfolding."
+    },
+    {
+      "hash": "d3e288b25d7a34a736cd40617335681811717e78",
+      "heading": "Material Rules & Bend Parameters",
+      "level": "h3",
+      "text": "Material Rules & Bend Parameters Apply a sheet-metal rule matching your target material thickness, bend radius, and K-factor. Mismatched bend parameters cause open-contour or flat-pattern export errors."
+    },
+    {
+      "hash": "5c96ae83ff10fa69a2a037b7d3bd88d47c9d45bd",
+      "heading": "STEP Export Verification",
+      "level": "h3",
+      "text": "STEP Export Verification Ensure the single sheet-metal body is selected before exporting. A file reading as 0″ × 0″ upon upload indicates an unselected body or missing solid geometry."
+    },
+    {
+      "hash": "76e454946b7070d38e0c4e8582ed7012c54b2acc",
+      "heading": "Bending Geometric Guardrails (Keepout Zones)",
+      "level": "h3",
+      "text": "Bending Geometric Guardrails (Keepout Zones) Placing holes or small features too close to a bend line will cause material stretching and feature distortion during die press braking. Follow these minimum spacing requirements: Hole-to-Bend Line Minimum Distance: Minimum Clearance= (2 × Material Thickness) + Bend Radius (Holes placed closer than this limit will deform into ovals during bending.) Minimum Flange Height (Bend Leg Length): Minimum Flange Length= 4 × Material Thickness (Flanges shorter than this limit cannot sit stably across the lower press brake die during forming.) Cutout Relief at Bends:"
+    },
+    {
+      "hash": "37cc52aeeec30f000cd92d1c84864a6f7611a3f4",
+      "heading": "7. Troubleshooting Common File Errors",
+      "level": "h2",
+      "text": "7. Troubleshooting Common File Errors"
+    },
+    {
+      "hash": "701e5d562c6b906c70e9da994b7f35ee91965292",
+      "heading": "8. Pre-Submission Checklist",
+      "level": "h2",
+      "text": "8. Pre-Submission Checklist Verify the following before uploading your production file: File Format: Vector (.dxf, .dwg) for flat parts; 3D Solid (.step, .stp, .iges, .igs, .sldprt) for bent parts. Scale & Units: Created at 1:1 scale using consistent Inches or Millimeters. Clean Geometry: All dimensions, notes, construction lines, and borders removed. Text Outlined: All text converted to vector paths. Closed Paths: All cutting profiles form fully closed shapes. No Duplicate Lines: Overlapping and shared geometry removed. Islands Bridged: Floating interior cutouts connected with stencil bridges. Feature Limits: Hole diameters and internal radii satisfy selected process minimums. CNC Requirements: Dogbones added to internal square corners; material removal ≤ 50%. 3D Sheet Metal: Exactly one solid sheet-metal body per file with uniform thickness. Nesting Setup: Single part per file (no common-line cutting); separate directional or mirrored parts into distinct files."
+    }
+  ],
+  "sitemap_lastmod": "",
+  "status": 200,
+  "structure_hash": "08661a534919f4eafaae2c0ab9ac78ca9d2e20dd",
+  "text_excerpt": "PCBWay Community Search title or content Search PCBWay PCB Instant Quote CNC | 3D Printing Login Sign Up More Notifications No notifications. My Profile My projects My Likes My Deals My Goods for Bazaar Settings Sign Out Projects Categories DIY Electronics Arduino Hardware Audio Computers & USB Breakout Board Projects Home Automation LED Displays & Matrices IoT Robotics View all categories By Source Files Onju Voice - AI assistant replacement to Google Nest Mini by @justLV LogicAnalyzer V6.0 DIY 1kW Open Source MPPT Solar Charge Controller Tad Boy Color SummerCart64 - a fully open source N64 flashcart kv4p HT v1.7b QuinLED-Dig-Uno Arduino RC engine sound & light controller with inertia simulation for ESP32 Bike Fingerprint - PCB Solar Powered WiFi Weather Station V2.0 Frog Boy Color SIDKick pico 0.2 (SID 6581/8580-replacement for C64/C128) View all source files projects Featured Projects Onju Voice - AI assistant replacement to Google Nest Mini by @justLV LogicAnalyzer V6.0 DIY 1kW Open Source MPPT Solar Charge Controller Featured Source Files Video View all projects Questions Sponsorships Feedback Blog Store PCB Design Contest - 2026 KiCad PCB Design Contest - 8th Project Design...",
+  "text_hash": "2f0db654470799341d9800654f7b729feaa4092c",
+  "title": "Sheet Cutting Design Guidelines - Sheet Metal - PCBway",
+  "url": "https://www.pcbway.com/blog/Sheet_Metal/Sheet_Cutting_Design_Guidelines_b0e8981b.html"
+}
