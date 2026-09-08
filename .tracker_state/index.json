@@ -122,6 +122,7 @@
       "https://www.cnclathing.com/cnc-machining-copper"
     ],
     "Fictiv": [
+      "https://www.fictiv.com/",
       "https://www.fictiv.com/capabilities",
       "https://www.fictiv.com/resources",
       "https://www.fictiv.com/articles",
@@ -241,8 +242,8 @@
       "https://www.fictiv.com/articles/rugged-hardware-design-for-harsh-environments"
     ],
     "Hubs": [
-      "https://www.hubs.com/injection-molding",
       "https://www.hubs.com/cnc-machining",
+      "https://www.hubs.com/injection-molding",
       "https://www.hubs.com/",
       "https://www.hubs.com/3d-printing",
       "https://www.hubs.com/knowledge-base",
@@ -483,9 +484,9 @@
       "https://www.pcbway.com/",
       "https://www.pcbway.com/blog",
       "https://www.pcbway.com/blog/News/PCBWay_Plug_In_for_KiCad_3ea6219c.html",
-      "https://www.pcbway.com/blog/Sheet_Metal/Sheet_Cutting_Design_Guidelines_b0e8981b.html",
-      "https://www.pcbway.com/blog/CNC_Machining/Hardware_Installation_Design_Guidelines_15aa42f5.html",
-      "https://www.pcbway.com/blog/Sheet_Metal/Countersink_Counterbore_Holes_Design_Guidelines_f328f60a.html",
+      "https://www.pcbway.com/blog/PCB_Design_Layout/Remote_Sense_Guidelines_in_Power_Supply_Design_for_DC_DC_Converters_ce4875c9.html",
+      "https://www.pcbway.com/blog/News/PCBWay_to_Exhibit_at_SIDO_Lyon_2026_Meet_Us_at_Booth_E122_5b4926c6.html",
+      "https://www.pcbway.com/blog/Sheet_Metal/Welded_Sheet_Metal_Parts_Design_Guidelines_a79851e3.html",
       "https://www.pcbway.com/blog/News/KPCA_Show_2026_Meet_PCBWay_at_Booth_R310_in_South_Korea_8033f91f.html",
       "https://www.pcbway.com/blog/help_center/How_to_Use_Payoneer_to_Pay_for_Orders_a72bb66b.html",
       "https://www.pcbway.com/blog/News/Impact_of_the_New_U_S_Tariff_Policy_on_Customs_Clearance_51dff4fd.html",
@@ -505,8 +506,16 @@
       "https://www.pcbway.com/blog?tag=PCB+design",
       "https://www.pcbway.com/blog/News/PCBWay_Fabrication_Toolkit_for_Kicad_23c41e77.html",
       "https://www.pcbway.com/blog/News/Explore_the_PCBWay_Brochure_to_learn_about_our_capabilities_d72a5dff.html",
+      "https://www.pcbway.com/blog?tag=power+supply+design",
+      "https://www.pcbway.com/blog?tag=power+module",
+      "https://www.pcbway.com/blog?tag=ir+drop",
+      "https://www.pcbway.com/blog?tag=remote+sens",
       "https://www.pcbway.com/blog/Sheet_Metal",
+      "https://www.pcbway.com/blog/Sheet_Metal/Tapped_Parts_Design_Guidelines_23598863.html",
+      "https://www.pcbway.com/blog/Sheet_Metal/Sheet_Cutting_Design_Guidelines_b0e8981b.html",
+      "https://www.pcbway.com/blog/CNC_Machining/Hardware_Installation_Design_Guidelines_15aa42f5.html",
       "https://www.pcbway.com/blog/CNC_Machining",
+      "https://www.pcbway.com/blog/Sheet_Metal/Countersink_Counterbore_Holes_Design_Guidelines_f328f60a.html",
       "https://www.pcbway.com/blog/Sheet_Metal/Sheet_Metal_Bending_Design_Guidelines_cbefb6cf.html",
       "https://www.pcbway.com/blog/PCB_Design_Layout/HDI_PCB_Layout_Guide_for_High_Speed_Optical_Module_PCB_Design_ebb877fe.html",
       "https://www.pcbway.com/blog?tag=hdi+pcb",
@@ -530,33 +539,16 @@
       "https://www.pcbway.com/blog?tag=dfm+for+sheet+metal",
       "https://www.pcbway.com/blog?tag=sheet+metal+dfm",
       "https://www.pcbway.com/blog/PCB_Design_Layout/LDO_Output_Capacitor_Selection_Why_Bigger_Isn_t_Always_Better_in_Power_Supply_D_3ddac52b.html",
-      "https://www.pcbway.com/blog?tag=power+supply+design",
       "https://www.pcbway.com/blog?tag=ldo+output+capacitor",
       "https://www.pcbway.com/blog?tag=output+capacitor",
       "https://www.pcbway.com/blog?tag=ldo+design",
       "https://www.pcbway.com/blog?tag=ldo+layout",
       "https://www.pcbway.com/blog/PCB_Design_Layout/PCB_Routing_Layer_Selection_for_High_Speed_Signals_Microstrip_vs_Stripline_60555810.html",
+      "https://www.pcbway.com/blog?tag=pcb+routing",
       "https://www.pcbway.com/blog?tag=high+speed+signals",
       "https://www.pcbway.com/blog?tag=high+speed+signal+design",
       "https://www.pcbway.com/blog?tag=high+speed+signal+pcb+design",
       "https://www.pcbway.com/blog?tag=high+speed+design",
-      "https://www.pcbway.com/blog/PCB_Design_Layout/Copper_Keep_out_Guidelines_for_PCB_Layout_and_Component_Design_b42bdabe.html",
-      "https://www.pcbway.com/blog?tag=component+layout",
-      "https://www.pcbway.com/blog?tag=pcb+keepout",
-      "https://www.pcbway.com/blog?tag=keep+out+area+in+pcb",
-      "https://www.pcbway.com/blog?tag=pcb+keepout+area",
-      "https://www.pcbway.com/blog/PCB_Design_Layout/Power_Supply_Capacitor_Layout_Placement_Rules_for_Bulk_and_Small_Capacitors_e2b9166f.html",
-      "https://www.pcbway.com/blog?tag=power+supply+capacitor",
-      "https://www.pcbway.com/blog?tag=capacitor+placement",
-      "https://www.pcbway.com/blog?tag=capacitor+layout",
-      "https://www.pcbway.com/blog?tag=decoupling+capacitor+placement",
-      "https://www.pcbway.com/blog/PCB_Design_Layout/Ground_Stitching_Vias_in_High_Speed_PCB_Differential_Via_Design_d4a1dccd.html",
-      "https://www.pcbway.com/blog?tag=stitching+vias",
-      "https://www.pcbway.com/blog?tag=differential+via+design",
-      "https://www.pcbway.com/blog?tag=high+speed+pcb",
-      "https://www.pcbway.com/blog?tag=high+speed+board+design",
-      "https://www.pcbway.com/blog/PCB_Design_Layout/High_Speed_PCB_Design_Guidelines_for_Impedance_and_SI_69c86d49.html",
-      "https://www.pcbway.com/blog?tag=high+speed+PCB+design",
       "https://www.pcbway.com/blog/Activities/Submit_for_Publication___Now_I_Write_Articles_in_PCBWay.html",
       "https://www.pcbway.com/blog/Engineering_Technical",
       "https://www.pcbway.com/blog/News/PCBWay_Plug_In_for_OpenSCAD_b39038d5.html",
@@ -595,7 +587,8 @@
       "https://www.pcbway.com/rapid-prototyping/3D-Printing/3D-Printing-SLS.html",
       "https://www.pcbway.com/rapid-prototyping/3D-Printing/3D-Printing-PolyJet.html",
       "https://www.pcbway.com/rapid-prototyping/3D-Printing/3D-Printing-VC.html",
-      "https://www.pcbway.com/rapid-prototyping/Sheet-metal/Laser-Cutting.html"
+      "https://www.pcbway.com/rapid-prototyping/Sheet-metal/Laser-Cutting.html",
+      "https://www.pcbway.com/rapid-prototyping/quality-control-cnc.html"
     ],
     "Protolabs": [
       "https://www.protolabs.com/",
@@ -929,7 +922,7 @@
       "https://quote.emachineshop.com/emachineshop/widget/upload"
     ]
   },
-  "last_run_at": "2026-09-07T06:16:33+00:00",
+  "last_run_at": "2026-09-08T06:11:51+00:00",
   "runs": [
     {
       "errors": 12,
@@ -1343,6 +1336,13 @@
       "finished_at": "2026-09-07T06:16:33+00:00",
       "mode": "daily",
       "run_id": "20260907T060139Z"
+    },
+    {
+      "errors": 27,
+      "events": 124,
+      "finished_at": "2026-09-08T06:11:51+00:00",
+      "mode": "daily",
+      "run_id": "20260908T055607Z"
     }
   ],
   "schema_version": 2
