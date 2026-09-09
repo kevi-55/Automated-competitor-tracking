@@ -24,10 +24,6 @@
       "text": "Source Files"
     },
     {
-      "href": "https://www.pcbway.com/rapid-prototyping/automotive.html",
-      "text": "Industry Applications"
-    },
-    {
       "href": "https://www.pcbway.com/rapid-prototyping/manufacture?reffercode=BA",
       "text": "Get Free CNC Quote"
     },
@@ -49,26 +45,18 @@
     }
   ],
   "discovered_via": "links",
-  "fetched_at": "2026-09-08T06:06:48+00:00",
+  "fetched_at": "2026-09-09T06:07:13+00:00",
   "final_url": "https://www.pcbway.com/blog/CNC_Machining/Electrical_Discharge_Machining_EDM_Process_Types_Technical_Guide_3f35da5a.html",
   "first_seen_at": "2026-09-02T05:57:20+00:00",
-  "h1": "Electrical Discharge Machining (EDM): Process Types & Technical Guide",
+  "h1": "Electrical Discharge Machining (EDM) Design Guidelines",
   "headings": [
     {
       "level": "h1",
-      "text": "Electrical Discharge Machining (EDM): Process Types & Technical Guide"
+      "text": "Electrical Discharge Machining (EDM) Design Guidelines"
     },
     {
       "level": "h2",
-      "text": "1. Core Working Principle of Electrical Discharge Machining"
-    },
-    {
-      "level": "h3",
-      "text": "Dielectric Mediums in EDM"
-    },
-    {
-      "level": "h3",
-      "text": "The Spark Discharge Cycle"
+      "text": "1. Manufacturing Limits & Tolerance Specifications"
     },
     {
       "level": "h2",
@@ -99,16 +87,44 @@
       "text": "4. Process Limitations & Design Considerations"
     },
     {
+      "level": "h3",
+      "text": "Internal Corner Radius"
+    },
+    {
+      "level": "h3",
+      "text": "Slot / Gap Aspect Ratio"
+    },
+    {
+      "level": "h3",
+      "text": "Sinker‑EDM Cavity Depth"
+    },
+    {
+      "level": "h3",
+      "text": "Micro‑hole Drilling EDM"
+    },
+    {
       "level": "h2",
       "text": "5. Electrical Discharge Machining vs. Traditional CNC Machining"
     },
     {
       "level": "h2",
-      "text": "6. Primary Industry Applications"
+      "text": "6. File Preparation Requirements(CAD/DFM)"
+    },
+    {
+      "level": "h3",
+      "text": "2D DXF/DWG Files"
+    },
+    {
+      "level": "h3",
+      "text": "3D STEP/STP/IGES"
+    },
+    {
+      "level": "h3",
+      "text": "Engineering Drawings"
     },
     {
       "level": "h2",
-      "text": "7. Conclusion"
+      "text": "7. EDM Design Checklist"
     },
     {
       "level": "h3",
@@ -142,6 +158,10 @@
     },
     {
       "alt": "",
+      "src": "https://pcb-files.s3.us-west-2.amazonaws.com/web/26/09/08/15152287005d8e49087ef45089331402ae532ef484440t.png"
+    },
+    {
+      "alt": "",
       "src": "https://pcb-files.s3.us-west-2.amazonaws.com/web/26/09/01/172517394e5ac6aa9609b461791ab8f5e93be94181202t.png"
     },
     {
@@ -151,34 +171,22 @@
   ],
   "meta_description": "",
   "modified_at": "",
-  "monitored_text": "PCBWay Community Search title or content Search PCBWay PCB Instant Quote CNC | 3D Printing Login Sign Up More Notifications No notifications. My Profile My projects My Likes My Deals My Goods for Bazaar Settings Sign Out Projects Categories DIY Electronics Arduino Hardware Audio Computers & USB Breakout Board Projects Home Automation LED Displays & Matrices IoT Robotics View all categories By Source Files Onju Voice - AI assistant replacement to Google Nest Mini by @justLV LogicAnalyzer V6.0 DIY 1kW Open Source MPPT Solar Charge Controller Tad Boy Color SummerCart64 - a fully open source N64 flashcart kv4p HT v1.7b QuinLED-Dig-Uno Arduino RC engine sound & light controller with inertia simulation for ESP32 Bike Fingerprint - PCB Solar Powered WiFi Weather Station V2.0 Frog Boy Color SIDKick pico 0.2 (SID 6581/8580-replacement for C64/C128) View all source files projects Featured Projects Onju Voice - AI assistant replacement to Google Nest Mini by @justLV LogicAnalyzer V6.0 DIY 1kW Open Source MPPT Solar Charge Controller Featured Source Files Video View all projects Questions Sponsorships PCBWay Future Innovators Program Feedback Blog Store PCB Design Contest - 2026 KiCad PCB Design Contest - 8th Project Design Contest - 7th Project Design Contest - KiCad Design Contest - 6th Project Design Contest - 5th PCB Design Contest - 4th PCB Design Contest - Raspberry Pi Pico Contest - PCB Design Tutorial - 3rd PCB Design Contest - I CAN SOLDER Kit Contest - 2nd PCB Design Contest - 1st PCB Design Contest Add questions Create a project Please verify your email address so that you can enjoy our more comprehensive services. Verify Now Blog > Electrical Discharge Machining (EDM): Process Types & Technical Guide Electrical Discharge Machining (EDM): Process Types & Technical Guide by: Mila Sep 01,2026 <dynamic-value> <dynamic-value> Posted in CNC Machining electrical discharge machining Wire EDM cnc edm cnc wire edm cnc wire cut Electrical discharge machining, also widely known as spark erosion, spark machining, or electro-erosion machining, is a non-traditional manufacturing process. By utilizing controlled pulse discharges between an electrode and a conductive workpiece, it generates localized extreme temperatures to remove material via electro-erosion. Today, electrical discharge machining has become an indispensable core technology in precision mold making, aerospace components, and medical device manufacturing . 1. Core Working Principle of Electrical Discharge Machining The fundamental principle of electrical discharge machining relies on thermal energy produced by high-frequency electric sparks to locally melt and vaporize material. During processing, a micro-gap is consistently maintained between the electrode and the conductive workpiece, where dielectric fluid flows to provide electrical insulation and continuous chip flushing. Dielectric Mediums in EDM Different non-traditional machining processes utilize specific dielectric media based on cooling and accuracy requirements: Precision Wire EDM: Typically utilizes deionized water for superior cooling and precise conductivity control. Sinker EDM: Uses specialized non-conductive hydrocarbon or synthetic spark erosion oils. The Spark Discharge Cycle Material removal follows a dynamic, highly controlled micro-erosion cycle: Voltage Breakdown: High-frequency pulse power outputs controlled voltage that breaks down the dielectric medium, establishing a plasma spark channel. Thermal Melting & Vaporization: Instantaneous localized temperatures in the spark channel reach thousands of degrees Celsius, rapidly melting and vaporizing a minuscule metal layer from the workpiece surface. Debris Flushing: Dielectric fluid rapidly cools the gap and flushes away the eroded microscopic debris. Servo Gap Regulation: Dynamic servo systems continuously adjust the micro-gap to sustain continuous pulse discharges and form the final geometry. Workpiece hardness presents minimal limitation to processing feasibility; however, electrical conductivity and thermophysical properties directly influence overall removal rate and final surface quality. （EDM Working Principle） 2. Major Types of EDM Processes Based on kinematics, electrode configuration, and target industrial applications, non-traditional electro-discharge manufacturing is categorized into four primary configurations: Wire EDM (Wire-Cut Electrical Discharge Machining) In a standard Wire EDM setup, a continuously traveling thin brass or coated wire (typically 0.1–0.3 mm in diameter) serves as the cutting electrode tool. Guided by computerized numerical control, high-precision trajectory planning and continuous wire feeding ensure high processing stability. Under optimal machine calibration, material selection, and parameters, modern cnc wire cut technology can easily achieve sub-micron dimensional control. Parts processed via cnc wire cut exhibit virtually no mechanical burrs common in conventional milling, although minor spark erosion tracks and a thin recast layer remain. This process is extensively applied to complex 2D profiles, narrow slots, irregular keyways, and tapered precision geometries. Sinker EDM (Ram / Die-Sinking EDM) Sinker EDM utilizes custom-machined 3D copper or graphite electrodes. Controlled spark erosion between the shaped electrode and workpiece gradually replicates the exact inverted form onto the part. This method excels at forming blind cavities and intricate concave structures. Because electrode wear occurs dynamically during operation, precise multi-stage tool switching is essential. Sinker units often incorporate advanced cnc edm controllers to compensate for wear paths, serving as a pillar process in injection mold, die casting, and stamping tool production. Hole Drilling EDM (Fast Hole Spark Drilling) Hole drilling EDM uses a tubular rotating electrode combined with internal high-pressure dielectric flushing to clear erosion debris. It specializes in drilling tiny deep holes or angled channels into hard metals such as cemented carbide and nickel superalloys. Widely used for turbine blade cooling holes and fuel nozzle micro-apertures, it eliminates traditional drill bit breakage issues. Additionally, high-speed hole drillers are regularly deployed to produce starting pilot holes for subsequent cnc wire edm cutting operations. Micro EDM Micro EDM utilizes ultra-fine electrodes and extremely small pulse discharge energy to produce micro-scale features down to a few micrometers. By minimizing single-discharge energy, the thermal affect zone (HAZ) is significantly reduced, making it ideal for medical implants, micro-fluidic channels, and micro-electronic components. 3. Key Advantages of Electrical Discharge Machining Machining Super-Hard Conductive Materials: Material hardness imposes almost no barrier. High-hardness alloys like quenched tool steels, tungsten carbide, titanium alloys, and Inconel can be machined easily. Ultra-High Precision Capability: Under controlled environment and parameters, electro-discharge equipment delivers micron-level dimensional accuracy across complex features. Near-Zero Mechanical Cutting Forces: Because physical tool-to-workpiece contact is avoided, mechanical cutting force is virtually non-existent, eliminating physical deformation risks on ultra-thin walls. Extreme Geometric Versatility: Capable of producing sharp internal corners, deep narrow cavities, micro-slots, and high aspect-ratio holes impossible for rotative cutters. Superior Surface Finish Potential: Multi-pass fine-finishing cycles yield extremely low surface roughness without directional tool marks, despite microscopic discharge pit textures. 4. Process Limitations & Design Considerations Manufacturing Note: While electro-discharge processing solves difficult geometry problems, design engineers must account for material conductivity limits, lower volumetric removal rates, and thermal surface alterations. Material Restrictions: Process applies exclusively to electrically conductive materials; polymers, ceramics, and glass cannot be eroded. Slower Material Removal Rate (MRR): Compared to heavy CNC milling or turning, removal rates are lower, making it ideal for finishing and specialized features rather than rough bulk removal. Higher Operational Costs: Equipment investments, electrode wear, dielectric management, and higher energy consumption make it best suited for high-value components. Recast Layer & Heat-Affected Zone (HAZ): Thermal erosion creates a micro-thin recast layer on the cut surface, which may require secondary polishing for critical fatigue-rated parts. Electrode Tool Wear: Unlike non-contact ideal states, spark erosion gradually degrades the electrode shape, requiring compensation in cnc edm sinker routines. 5. Electrical Discharge Machining vs. Traditional CNC Machining Traditional CNC milling relies on solid cutting tools to mechanically shear metal chips. Mechanical tool wear is present, internal sharp corners are limited by tool radii, and thin-walled parts risk mechanical deflection. In contrast, cnc edm relies on thermal spark erosion without physical cutter contact pressure. In modern toolrooms, these technologies are complementary rather than competing: heavy material removal and outer profiles are first handled by high-efficiency CNC milling, after which precision features are finished using a high-precision cnc wire edm unit or sinker machine. 6. Primary Industry Applications Electrical discharge techniques focus on high-precision, high-value manufacturing sectors: Precision Mold & Die Manufacturing: Cavities, cores, and ejector pin holes for injection molds, stamping dies, and die-casting tools. Aerospace Engineering: Turbine blade cooling passages, high-temperature alloy sensors, and fuel injection nozzles. Medical Device Manufacturing: Titanium orthopedic implants, micro-surgical instruments, and endoscope components. Electronics & Micro-Mechanics: Micro-connectors, lead frames, precision sensors, and custom cnc wire cut tooling inserts. 7. Conclusion Rather than replacing traditional CNC machining, electrical discharge machining serves as a crucial technical complement for hard metals, complex cavities, deep slots, and micro-scale features. Its low mechanical force and exceptional hard-material capability deliver immense value across aerospace, mold making, and medical industries. Combining conventional CNC roughing with final electro-discharge finishing remains the industry standard for achieving optimized cycle times, tight tolerances, and superior part quality. Enter the year of your birth and check your Chinese Zodiac. Get Free CNC Quote Join us Wanna be a dedicated PCBWay writer? We definately look forward to having you with us. Submit for Publication Become Our Writer Leave a Comment ( 0 ) Share to: Previous：PCB Impedance Control Guide: How to Fix Impedance Discontinuities in PCB Layout Next：HDI PCB Layout Guide for High Speed Optical Module PCB Design Related articles Electrical Discharge Machining (EDM): Process Types & Technical Guide Comments ( 0 ) Log in to post comments. Upload photo You can only upload 5 files in total. Each file cannot exceed 2MB. Supports JPG, JPEG, GIF, PNG, BMP 0 / 10000 It looks like you have not written anything. Please add a comment and try again. You can upload up to 5 images! Image size should not exceed 2MB! File format not supported! Post Comment View More Write for PCBWay Categories Select a Category 3D Printing Activities CNC Machining Engineering Technical Flexible PCB HDI PCB Help Center Injection Molding News PCB Assembly PCB Basic Information PCB Design & Layout PCB Design Tutorial PCB Layout Software PCB Manufacturing Information PCBWay Store Rigid-Flex PCB Sheet Metal Technology Table of Contents HOT TAG PCB Printed Circuit Board PCB design PCB Board PCB layout Circuit Board Printed Circuit Boards PCB Design Tutorial PCB industry pcb manufacturing KiCad pcbway IF YOU MISSED IT 1 Hardware Installation Design Guidelines 2 Electrical Discharge Machining (EDM): Process Types & Technical Guide 3 Decorative Chrome vs. Hard Chrome: Core Differences Explained 4 Anodized Aluminum Samples Showcase: Real Finishes, Colors, and Surface Quality 5 10 Ways to Reduce CNC Machining Costs: Practical Design Tips 6 High Appearance Requirements in CNC Precision Machining Finished Parts 7 Why can't stl be converted to step files? 8 Hybrid Manufacturing Technology: Combining 3D Printing and CNC Machining 9 Emerging CNC machining technologies The PCB Way that recognize the talent and effort of the best ELECTRONIC designers in the World. © COPYRIGHT 2019 About us Contact us Follow us on Share to Facebook Share to Twitter Share to Reddit Share to Linkedin Back to top",
+  "monitored_text": "PCBWay Community Search title or content Search PCBWay PCB Instant Quote CNC | 3D Printing Login Sign Up More Notifications No notifications. My Profile My projects My Likes My Deals My Goods for Bazaar Settings Sign Out Projects Categories DIY Electronics Arduino Hardware Audio Computers & USB Breakout Board Projects Home Automation LED Displays & Matrices IoT Robotics View all categories By Source Files Onju Voice - AI assistant replacement to Google Nest Mini by @justLV LogicAnalyzer V6.0 DIY 1kW Open Source MPPT Solar Charge Controller Tad Boy Color SummerCart64 - a fully open source N64 flashcart kv4p HT v1.7b QuinLED-Dig-Uno Arduino RC engine sound & light controller with inertia simulation for ESP32 Bike Fingerprint - PCB Solar Powered WiFi Weather Station V2.0 Frog Boy Color SIDKick pico 0.2 (SID 6581/8580-replacement for C64/C128) View all source files projects Featured Projects Onju Voice - AI assistant replacement to Google Nest Mini by @justLV LogicAnalyzer V6.0 DIY 1kW Open Source MPPT Solar Charge Controller Featured Source Files Video View all projects Questions Sponsorships PCBWay Future Innovators Program Feedback Blog Store PCB Design Contest - 2026 KiCad PCB Design Contest - 8th Project Design Contest - 7th Project Design Contest - KiCad Design Contest - 6th Project Design Contest - 5th PCB Design Contest - 4th PCB Design Contest - Raspberry Pi Pico Contest - PCB Design Tutorial - 3rd PCB Design Contest - I CAN SOLDER Kit Contest - 2nd PCB Design Contest - 1st PCB Design Contest Add questions Create a project Please verify your email address so that you can enjoy our more comprehensive services. Verify Now Blog > Electrical Discharge Machining (EDM) Design Guidelines Electrical Discharge Machining (EDM) Design Guidelines by: Mila Sep 01,2026 <dynamic-value> <dynamic-value> Posted in CNC Machining electrical discharge machining Wire EDM cnc edm cnc wire edm cnc wire cut This guideline provides DFM (Design for Manufacturability) specifications for EDM for structural and mechanical designers. It helps prevent common issues including excessive spark‑off corner radius, poor flushing‑caused defects, dimension deviation from electrode wear, recast‑layer fatigue cracks and out‑of‑tolerance dimensions during design‑and‑drawing stages. （EDM Working Principle） 1. Manufacturing Limits & Tolerance Specifications At the early design phase, verify that part dimensions and tolerances match EDM machine capability boundaries. Minimum Manufacturable Feature Size: Down to 0.05 mm (highly dependent on electrode diameter and geometry). Maximum Workpiece Dimensions: Limited by machine envelope, up to 800 x 600 mm travel range. Internal Corner Limitations: 0.025 mm ~ 0.10 mm. Determined by different wire-cut processes. Thickness & Accuracy Correlation: Thickness from 0.05 mm ~ 1.0 mm；Dimensional tolerance from ±0.002 mm ~ ±0.02 mm. Determined by different wire-cut processes. 2. Major Types of EDM Processes Based on kinematics, electrode configuration, and target industrial applications, non-traditional electro-discharge manufacturing is categorized into four primary configurations: Wire EDM (Wire-Cut Electrical Discharge Machining) In a standard Wire EDM setup, a continuously traveling thin brass or coated wire (typically 0.1–0.3 mm in diameter) serves as the cutting electrode tool. Guided by computerized numerical control, high-precision trajectory planning and continuous wire feeding ensure high processing stability. Under optimal machine calibration, material selection, and parameters, modern cnc wire cut technology can easily achieve sub-micron dimensional control. Parts processed via cnc wire cut exhibit virtually no mechanical burrs common in conventional milling, although minor spark erosion tracks and a thin recast layer remain. This process is extensively applied to complex 2D profiles, narrow slots, irregular keyways, and tapered precision geometries. Sinker EDM (Ram / Die-Sinking EDM) Sinker EDM utilizes custom-machined 3D copper or graphite electrodes. Controlled spark erosion between the shaped electrode and workpiece gradually replicates the exact inverted form onto the part. This method excels at forming blind cavities and intricate concave structures. Because electrode wear occurs dynamically during operation, precise multi-stage tool switching is essential. Sinker units often incorporate advanced cnc edm controllers to compensate for wear paths, serving as a pillar process in injection mold, die casting, and stamping tool production. Hole Drilling EDM (Fast Hole Spark Drilling) Hole drilling EDM uses a tubular rotating electrode combined with internal high-pressure dielectric flushing to clear erosion debris. It specializes in drilling tiny deep holes or angled channels into hard metals such as cemented carbide and nickel superalloys. Widely used for turbine blade cooling holes and fuel nozzle micro-apertures, it eliminates traditional drill bit breakage issues. Additionally, high-speed hole drillers are regularly deployed to produce starting pilot holes for subsequent cnc wire edm cutting operations. Micro EDM Micro EDM utilizes ultra-fine electrodes and extremely small pulse discharge energy to produce micro-scale features down to a few micrometers. By minimizing single-discharge energy, the thermal affect zone (HAZ) is significantly reduced, making it ideal for medical implants, micro-fluidic channels, and micro-electronic components. 3. Key Advantages of Electrical Discharge Machining Machining Super-Hard Conductive Materials: Material hardness imposes almost no barrier. High-hardness alloys like quenched tool steels, tungsten carbide, titanium alloys, and Inconel can be machined easily. Ultra-High Precision Capability: Under controlled environment and parameters, electro-discharge equipment delivers micron-level dimensional accuracy across complex features. Near-Zero Mechanical Cutting Forces: Because physical tool-to-workpiece contact is avoided, mechanical cutting force is virtually non-existent, eliminating physical deformation risks on ultra-thin walls. Extreme Geometric Versatility: Capable of producing sharp internal corners, deep narrow cavities, micro-slots, and high aspect-ratio holes impossible for rotative cutters. Superior Surface Finish Potential: Multi-pass fine-finishing cycles yield extremely low surface roughness without directional tool marks, despite microscopic discharge pit textures. 4. Process Limitations & Design Considerations Internal Corner Radius Rule: Minimum internal corner radius for wire-cut EDM is approximately equal to the wire radius + discharge gap. Theoretical zero-radius sharp internal corners cannot be manufactured and should not be specified on drawings. Engineering Example: Using a 0.2 mm diameter wire typically results in a minimum internal corner radius of ≥ 0.13 mm. Slot / Gap Aspect Ratio Rule : Avoid excessive depth-to-width ratios for narrow slots. An aspect ratio exceeding 20:1 severely restricts dielectric flushing, leading to secondary discharge, degraded dimensional accuracy, and exponential increases in machining time. Sinker‑EDM Cavity Depth Rule: Electrode wear increases progressively with cavity depth in sinker EDM. Dimensional wear compensation allowance is required for deep features. Recommendation: For deep cavities, pre-machining (e.g., rough milling via CNC) to remove bulk stock prior to EDM finishing is highly recommended to reduce electrode wear and cycle time. Micro‑hole Drilling EDM Rule : For blind micro-holes, dimensional stability and taper control decrease as hole depth increases. Through-hole EDM drilling provides significantly more stable accuracy and better flushing condition than blind holes. 5. Electrical Discharge Machining vs. Traditional CNC Machining Traditional CNC milling relies on solid cutting tools to mechanically shear metal chips. Mechanical tool wear is present, internal sharp corners are limited by tool radii, and thin-walled parts risk mechanical deflection. In contrast, cnc edm relies on thermal spark erosion without physical cutter contact pressure. In modern toolrooms, these technologies are complementary rather than competing: heavy material removal and outer profiles are first handled by high-efficiency CNC milling, after which precision features are finished using a high-precision cnc wire edm unit or sinker machine. 6. File Preparation Requirements(CAD/DFM) 2D DXF/DWG Files Maintain 1:1 scale. Remove duplicate lines, construction geometry and open contours. Draw target dimensions directly; do not manually compensate discharge gaps — leave gap compensation to manufacturing engineers. 3D STEP/STP/IGES Models Export complete solid‑part geometry. Do not embed electrode solids inside models. Cloud‑manufacturing‑platform DFM algorithms will identify part features automatically. Engineering Drawings Clearly mark tolerance requirements, recast‑layer‑removal requirements, Ra surface roughness, and whether holes are through‑holes or blind holes. 7. EDM Design Checklist Confirm that the part material is electrically conductive Provide reasonable discharge fillets at internal corners; do not design with theoretical sharp corners Ensure that the depth-to-width ratio of slits/deep grooves is within the process tolerance limits Clearly specify the removal of the EDM remelted layer for high-fatigue applications Prioritize CNC rough machining for deep cavities to reduce the material removal volume required for EDM Ensure dimensional tolerances match the actual capabilities of EDM; do not set tolerances that exceed process limits Ensure dimensions are completely consistent across drawings, DXF, and STEP files Enter the year of your birth and check your Chinese Zodiac. Get Free CNC Quote Join us Wanna be a dedicated PCBWay writer? We definately look forward to having you with us. Submit for Publication Become Our Writer Leave a Comment ( 0 ) Share to: Previous：PCB Impedance Control Guide: How to Fix Impedance Discontinuities in PCB Layout Next：HDI PCB Layout Guide for High Speed Optical Module PCB Design Related articles Electrical Discharge Machining (EDM) Design Guidelines Comments ( 0 ) Log in to post comments. Upload photo You can only upload 5 files in total. Each file cannot exceed 2MB. Supports JPG, JPEG, GIF, PNG, BMP 0 / 10000 It looks like you have not written anything. Please add a comment and try again. You can upload up to 5 images! Image size should not exceed 2MB! File format not supported! Post Comment View More Write for PCBWay Categories Select a Category 3D Printing Activities CNC Machining Engineering Technical Flexible PCB HDI PCB Help Center Injection Molding News PCB Assembly PCB Basic Information PCB Design & Layout PCB Design Tutorial PCB Layout Software PCB Manufacturing Information PCBWay Store Rigid-Flex PCB Sheet Metal Technology Table of Contents HOT TAG PCB Printed Circuit Board PCB design PCB Board PCB layout Circuit Board Printed Circuit Boards PCB Design Tutorial PCB industry pcb manufacturing KiCad pcbway IF YOU MISSED IT 1 Hardware Installation Design Guidelines 2 Electrical Discharge Machining (EDM) Design Guidelines 3 Decorative Chrome vs. Hard Chrome: Core Differences Explained 4 Anodized Aluminum Samples Showcase: Real Finishes, Colors, and Surface Quality 5 10 Ways to Reduce CNC Machining Costs: Practical Design Tips 6 High Appearance Requirements in CNC Precision Machining Finished Parts 7 Why can't stl be converted to step files? 8 Hybrid Manufacturing Technology: Combining 3D Printing and CNC Machining 9 Emerging CNC machining technologies The PCB Way that recognize the talent and effort of the best ELECTRONIC designers in the World. © COPYRIGHT 2019 About us Contact us Follow us on Share to Facebook Share to Twitter Share to Reddit Share to Linkedin Back to top",
   "published_at": "2026-09-01T00:00:00+00:00",
   "requested_url": "https://www.pcbway.com/blog/CNC_Machining/Electrical_Discharge_Machining_EDM_Process_Types_Technical_Guide_3f35da5a.html",
   "schema_version": 2,
   "sections": [
     {
-      "hash": "92e24440c2d983a67b9627d720b34df76e99023c",
-      "heading": "Electrical Discharge Machining (EDM): Process Types & Technical Guide",
+      "hash": "c7a5eede785010ae56185d11e5389146e794e732",
+      "heading": "Electrical Discharge Machining (EDM) Design Guidelines",
       "level": "h1",
-      "text": "Electrical Discharge Machining (EDM): Process Types & Technical Guide by: Mila Sep 01,2026 <dynamic-value> <dynamic-value> Posted in CNC Machining electrical discharge machining Wire EDM cnc edm cnc wire edm cnc wire cut Electrical discharge machining, also widely known as spark erosion, spark machining, or electro-erosion machining, is a non-traditional manufacturing process. By utilizing controlled pulse discharges between an electrode and a conductive workpiece, it generates localized extreme temperatures to remove material via electro-erosion. Today, electrical discharge machining has become an indispensable core technology in precision mold making, aerospace components, and medical device manufacturing . 1. Core Working Principle of Electrical Discharge Machining The fundamental principle of electrical discharge machining relies on thermal energy produced by high-frequency electric sparks to locally melt and vaporize material. During processing, a micro-gap is consistently maintained between the electrode and the conductive workpiece, where dielectric fluid flows to provide electrical insulation and continuous chip flushing. Dielectric Mediums in EDM Different non-traditional..."
+      "text": "Electrical Discharge Machining (EDM) Design Guidelines by: Mila Sep 01,2026 <dynamic-value> <dynamic-value> Posted in CNC Machining electrical discharge machining Wire EDM cnc edm cnc wire edm cnc wire cut This guideline provides DFM (Design for Manufacturability) specifications for EDM for structural and mechanical designers. It helps prevent common issues including excessive spark‑off corner radius, poor flushing‑caused defects, dimension deviation from electrode wear, recast‑layer fatigue cracks and out‑of‑tolerance dimensions during design‑and‑drawing stages. （EDM Working Principle） 1. Manufacturing Limits & Tolerance Specifications At the early design phase, verify that part dimensions and tolerances match EDM machine capability boundaries. Minimum Manufacturable Feature Size: Down to 0.05 mm (highly dependent on electrode diameter and geometry). Maximum Workpiece Dimensions: Limited by machine envelope, up to 800 x 600 mm travel range. Internal Corner Limitations: 0.025 mm ~ 0.10 mm. Determined by different wire-cut processes. Thickness & Accuracy Correlation: Thickness from 0.05 mm ~ 1.0 mm；Dimensional tolerance from ±0.002 mm ~ ±0.02 mm. Determined by different wire-cut pr..."
     },
     {
-      "hash": "afd5cca8d8d2aa2567e535937091d640043367e6",
-      "heading": "1. Core Working Principle of Electrical Discharge Machining",
+      "hash": "61b4ed8cb5e92eaa991739a107da93603c63d544",
+      "heading": "1. Manufacturing Limits & Tolerance Specifications",
       "level": "h2",
-      "text": "1. Core Working Principle of Electrical Discharge Machining The fundamental principle of electrical discharge machining relies on thermal energy produced by high-frequency electric sparks to locally melt and vaporize material. During processing, a micro-gap is consistently maintained between the electrode and the conductive workpiece, where dielectric fluid flows to provide electrical insulation and continuous chip flushing."
-    },
-    {
-      "hash": "8b3e375bb3e96f2b79d7817d5826e67c5e9fdd1b",
-      "heading": "Dielectric Mediums in EDM",
-      "level": "h3",
-      "text": "Dielectric Mediums in EDM Different non-traditional machining processes utilize specific dielectric media based on cooling and accuracy requirements: Precision Wire EDM: Typically utilizes deionized water for superior cooling and precise conductivity control. Sinker EDM: Uses specialized non-conductive hydrocarbon or synthetic spark erosion oils."
-    },
-    {
-      "hash": "f182652f111853fe8373d0f0f58471078e4eae2c",
-      "heading": "The Spark Discharge Cycle",
-      "level": "h3",
-      "text": "The Spark Discharge Cycle Material removal follows a dynamic, highly controlled micro-erosion cycle: Voltage Breakdown: High-frequency pulse power outputs controlled voltage that breaks down the dielectric medium, establishing a plasma spark channel. Thermal Melting & Vaporization: Instantaneous localized temperatures in the spark channel reach thousands of degrees Celsius, rapidly melting and vaporizing a minuscule metal layer from the workpiece surface. Debris Flushing: Dielectric fluid rapidly cools the gap and flushes away the eroded microscopic debris. Servo Gap Regulation: Dynamic servo systems continuously adjust the micro-gap to sustain continuous pulse discharges and form the final geometry. Workpiece hardness presents minimal limitation to processing feasibility; however, electrical conductivity and thermophysical properties directly influence overall removal rate and final surface quality. （EDM Working Principle）"
+      "text": "1. Manufacturing Limits & Tolerance Specifications At the early design phase, verify that part dimensions and tolerances match EDM machine capability boundaries. Minimum Manufacturable Feature Size: Down to 0.05 mm (highly dependent on electrode diameter and geometry). Maximum Workpiece Dimensions: Limited by machine envelope, up to 800 x 600 mm travel range. Internal Corner Limitations: 0.025 mm ~ 0.10 mm. Determined by different wire-cut processes. Thickness & Accuracy Correlation: Thickness from 0.05 mm ~ 1.0 mm；Dimensional tolerance from ±0.002 mm ~ ±0.02 mm. Determined by different wire-cut processes."
     },
     {
       "hash": "e4abbbb03d097520e23ea1c0307918e110b6cf43",
@@ -217,10 +225,34 @@
       "text": "3. Key Advantages of Electrical Discharge Machining Machining Super-Hard Conductive Materials: Material hardness imposes almost no barrier. High-hardness alloys like quenched tool steels, tungsten carbide, titanium alloys, and Inconel can be machined easily. Ultra-High Precision Capability: Under controlled environment and parameters, electro-discharge equipment delivers micron-level dimensional accuracy across complex features. Near-Zero Mechanical Cutting Forces: Because physical tool-to-workpiece contact is avoided, mechanical cutting force is virtually non-existent, eliminating physical deformation risks on ultra-thin walls. Extreme Geometric Versatility: Capable of producing sharp internal corners, deep narrow cavities, micro-slots, and high aspect-ratio holes impossible for rotative cutters. Superior Surface Finish Potential: Multi-pass fine-finishing cycles yield extremely low surface roughness without directional tool marks, despite microscopic discharge pit textures."
     },
     {
-      "hash": "d5d55f795e1e451996dc02c1c65ed9900a5cccab",
+      "hash": "a4db664c10516240b2ad1533a0cd6ff4d546cf13",
       "heading": "4. Process Limitations & Design Considerations",
       "level": "h2",
-      "text": "4. Process Limitations & Design Considerations Manufacturing Note: While electro-discharge processing solves difficult geometry problems, design engineers must account for material conductivity limits, lower volumetric removal rates, and thermal surface alterations. Material Restrictions: Process applies exclusively to electrically conductive materials; polymers, ceramics, and glass cannot be eroded. Slower Material Removal Rate (MRR): Compared to heavy CNC milling or turning, removal rates are lower, making it ideal for finishing and specialized features rather than rough bulk removal. Higher Operational Costs: Equipment investments, electrode wear, dielectric management, and higher energy consumption make it best suited for high-value components. Recast Layer & Heat-Affected Zone (HAZ): Thermal erosion creates a micro-thin recast layer on the cut surface, which may require secondary polishing for critical fatigue-rated parts. Electrode Tool Wear: Unlike non-contact ideal states, spark erosion gradually degrades the electrode shape, requiring compensation in cnc edm sinker routines."
+      "text": "4. Process Limitations & Design Considerations"
+    },
+    {
+      "hash": "0a0fe17cfb398004bb56d3eea8faf5f23976bc57",
+      "heading": "Internal Corner Radius",
+      "level": "h3",
+      "text": "Internal Corner Radius Rule: Minimum internal corner radius for wire-cut EDM is approximately equal to the wire radius + discharge gap. Theoretical zero-radius sharp internal corners cannot be manufactured and should not be specified on drawings. Engineering Example: Using a 0.2 mm diameter wire typically results in a minimum internal corner radius of ≥ 0.13 mm."
+    },
+    {
+      "hash": "791ef5cc6de42576cc1b1eff94f6685cedd96790",
+      "heading": "Slot / Gap Aspect Ratio",
+      "level": "h3",
+      "text": "Slot / Gap Aspect Ratio Rule : Avoid excessive depth-to-width ratios for narrow slots. An aspect ratio exceeding 20:1 severely restricts dielectric flushing, leading to secondary discharge, degraded dimensional accuracy, and exponential increases in machining time."
+    },
+    {
+      "hash": "6233d22d7932d0b4ed885cf64703c453d22daa0e",
+      "heading": "Sinker‑EDM Cavity Depth",
+      "level": "h3",
+      "text": "Sinker‑EDM Cavity Depth Rule: Electrode wear increases progressively with cavity depth in sinker EDM. Dimensional wear compensation allowance is required for deep features. Recommendation: For deep cavities, pre-machining (e.g., rough milling via CNC) to remove bulk stock prior to EDM finishing is highly recommended to reduce electrode wear and cycle time."
+    },
+    {
+      "hash": "aa60a4b792dce9aee864de4bfb797afc8d25648f",
+      "heading": "Micro‑hole Drilling EDM",
+      "level": "h3",
+      "text": "Micro‑hole Drilling EDM Rule : For blind micro-holes, dimensional stability and taper control decrease as hole depth increases. Through-hole EDM drilling provides significantly more stable accuracy and better flushing condition than blind holes."
     },
     {
       "hash": "dbb56b1a921451bb42f2cad6f2f5bc14d511fe58",
@@ -229,29 +261,47 @@
       "text": "5. Electrical Discharge Machining vs. Traditional CNC Machining Traditional CNC milling relies on solid cutting tools to mechanically shear metal chips. Mechanical tool wear is present, internal sharp corners are limited by tool radii, and thin-walled parts risk mechanical deflection. In contrast, cnc edm relies on thermal spark erosion without physical cutter contact pressure. In modern toolrooms, these technologies are complementary rather than competing: heavy material removal and outer profiles are first handled by high-efficiency CNC milling, after which precision features are finished using a high-precision cnc wire edm unit or sinker machine."
     },
     {
-      "hash": "5289a4dd4060f87ef086e6020f67a399a1e3aaf7",
-      "heading": "6. Primary Industry Applications",
+      "hash": "78dfdc240f65e180f21e9f6ed7a3f001e7c04e5f",
+      "heading": "6. File Preparation Requirements(CAD/DFM)",
       "level": "h2",
-      "text": "6. Primary Industry Applications Electrical discharge techniques focus on high-precision, high-value manufacturing sectors: Precision Mold & Die Manufacturing: Cavities, cores, and ejector pin holes for injection molds, stamping dies, and die-casting tools. Aerospace Engineering: Turbine blade cooling passages, high-temperature alloy sensors, and fuel injection nozzles. Medical Device Manufacturing: Titanium orthopedic implants, micro-surgical instruments, and endoscope components. Electronics & Micro-Mechanics: Micro-connectors, lead frames, precision sensors, and custom cnc wire cut tooling inserts."
+      "text": "6. File Preparation Requirements(CAD/DFM)"
     },
     {
-      "hash": "d0fa0751c7b8f255adfb1f74cea91c06d16cc031",
-      "heading": "7. Conclusion",
-      "level": "h2",
-      "text": "7. Conclusion Rather than replacing traditional CNC machining, electrical discharge machining serves as a crucial technical complement for hard metals, complex cavities, deep slots, and micro-scale features. Its low mechanical force and exceptional hard-material capability deliver immense value across aerospace, mold making, and medical industries. Combining conventional CNC roughing with final electro-discharge finishing remains the industry standard for achieving optimized cycle times, tight tolerances, and superior part quality."
+      "hash": "e7ef12826d03b8e50e3c5fdae0a4c31c68489081",
+      "heading": "2D DXF/DWG Files",
+      "level": "h3",
+      "text": "2D DXF/DWG Files Maintain 1:1 scale. Remove duplicate lines, construction geometry and open contours. Draw target dimensions directly; do not manually compensate discharge gaps — leave gap compensation to manufacturing engineers."
     },
     {
-      "hash": "1ded92b7c6d8f228de169af3737d36395dab82d9",
+      "hash": "71046a412cb0fa81146cb416ae4a131debe8bcf1",
+      "heading": "3D STEP/STP/IGES",
+      "level": "h3",
+      "text": "3D STEP/STP/IGES Models Export complete solid‑part geometry. Do not embed electrode solids inside models. Cloud‑manufacturing‑platform DFM algorithms will identify part features automatically."
+    },
+    {
+      "hash": "2240872b31cf12cb92e19c7490ca8f08b514a12d",
+      "heading": "Engineering Drawings",
+      "level": "h3",
+      "text": "Engineering Drawings Clearly mark tolerance requirements, recast‑layer‑removal requirements, Ra surface roughness, and whether holes are through‑holes or blind holes."
+    },
+    {
+      "hash": "329f7c20bdccdae9f9da8a27f64812ba79d881fa",
+      "heading": "7. EDM Design Checklist",
+      "level": "h2",
+      "text": "7. EDM Design Checklist Confirm that the part material is electrically conductive Provide reasonable discharge fillets at internal corners; do not design with theoretical sharp corners Ensure that the depth-to-width ratio of slits/deep grooves is within the process tolerance limits Clearly specify the removal of the EDM remelted layer for high-fatigue applications Prioritize CNC rough machining for deep cavities to reduce the material removal volume required for EDM Ensure dimensional tolerances match the actual capabilities of EDM; do not set tolerances that exceed process limits Ensure dimensions are completely consistent across drawings, DXF, and STEP files"
+    },
+    {
+      "hash": "fb9c6a566c4e2a131ff65ca7be20e0704fb8ecc8",
       "heading": "Related articles",
       "level": "h3",
-      "text": "Related articles Electrical Discharge Machining (EDM): Process Types & Technical Guide"
+      "text": "Related articles Electrical Discharge Machining (EDM) Design Guidelines"
     }
   ],
   "sitemap_lastmod": "",
   "status": 200,
-  "structure_hash": "4e05125e6551412b3606276878ba2f8b75817d8c",
+  "structure_hash": "072c9eda9d20166fb9c37179ebfc49ea8a2cea7e",
   "text_excerpt": "PCBWay Community Search title or content Search PCBWay PCB Instant Quote CNC | 3D Printing Login Sign Up More Notifications No notifications. My Profile My projects My Likes My Deals My Goods for Bazaar Settings Sign Out Projects Categories DIY Electronics Arduino Hardware Audio Computers & USB Breakout Board Projects Home Automation LED Displays & Matrices IoT Robotics View all categories By Source Files Onju Voice - AI assistant replacement to Google Nest Mini by @justLV LogicAnalyzer V6.0 DIY 1kW Open Source MPPT Solar Charge Controller Tad Boy Color SummerCart64 - a fully open source N64 flashcart kv4p HT v1.7b QuinLED-Dig-Uno Arduino RC engine sound & light controller with inertia simulation for ESP32 Bike Fingerprint - PCB Solar Powered WiFi Weather Station V2.0 Frog Boy Color SIDKick pico 0.2 (SID 6581/8580-replacement for C64/C128) View all source files projects Featured Projects Onju Voice - AI assistant replacement to Google Nest Mini by @justLV LogicAnalyzer V6.0 DIY 1kW Open Source MPPT Solar Charge Controller Featured Source Files Video View all projects Questions Sponsorships PCBWay Future Innovators Program Feedback Blog Store PCB Design Contest - 2026 KiCad PCB Des...",
-  "text_hash": "53abde53110d4a3c17207176a6a6d9b3c8e27784",
-  "title": "Electrical Discharge Machining (EDM): Process Types & Technical Guide - CNC Machining - PCBway",
+  "text_hash": "2337d9a961741986af2bb14ebe4b6e328f1942d4",
+  "title": "Electrical Discharge Machining (EDM) Design Guidelines - CNC Machining - PCBway",
   "url": "https://www.pcbway.com/blog/CNC_Machining/Electrical_Discharge_Machining_EDM_Process_Types_Technical_Guide_3f35da5a.html"
 }
