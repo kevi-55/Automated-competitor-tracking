@@ -126,9 +126,9 @@
       "https://www.fictiv.com/capabilities",
       "https://www.fictiv.com/resources",
       "https://www.fictiv.com/articles",
+      "https://www.fictiv.com/newsroom",
       "https://www.fictiv.com/articles/6-axis-cnc-machining",
       "https://www.fictiv.com/articles/fictiv-named-one-of-fast-companys-2026-best-workplaces-for-innovators",
-      "https://www.fictiv.com/newsroom",
       "https://www.fictiv.com/articles/food-grade-3dp-manufacturing",
       "https://www.fictiv.com/articles/progressive-sheet-metal-stamping",
       "https://www.fictiv.com/materials/cnc-machining-bronze",
@@ -484,10 +484,11 @@
       "https://www.pcbway.com/",
       "https://www.pcbway.com/blog",
       "https://www.pcbway.com/blog/News/PCBWay_Plug_In_for_KiCad_3ea6219c.html",
+      "https://www.pcbway.com/blog/PCB_Design_Layout/How_to_Properly_Handle_Unused_IC_Pins_in_Schematic_Design_718fc830.html",
       "https://www.pcbway.com/blog/PCB_Design_Layout/Mastering_USB_Type_C_Design_with_a_Practical_Hardware_Design_Guide_9ce03c4f.html",
       "https://www.pcbway.com/blog/PCB_Design_Layout/Remote_Sense_Guidelines_in_Power_Supply_Design_for_DC_DC_Converters_ce4875c9.html",
-      "https://www.pcbway.com/blog/News/PCBWay_to_Exhibit_at_SIDO_Lyon_2026_Meet_Us_at_Booth_E122_5b4926c6.html",
       "https://www.pcbway.com/blog/News/KPCA_Show_2026_Meet_PCBWay_at_Booth_R310_in_South_Korea_8033f91f.html",
+      "https://www.pcbway.com/blog/News/PCBWay_to_Exhibit_at_SIDO_Lyon_2026_Meet_Us_at_Booth_E122_5b4926c6.html",
       "https://www.pcbway.com/blog/help_center/How_to_Use_Payoneer_to_Pay_for_Orders_a72bb66b.html",
       "https://www.pcbway.com/blog/News/Impact_of_the_New_U_S_Tariff_Policy_on_Customs_Clearance_51dff4fd.html",
       "https://www.pcbway.com/blog/HDI_PCB/Congratulations_on_the_Successful_Development_of_PCBWay_s_24_Layer_6_Order_Arbi_76c36a5e.html",
@@ -506,6 +507,8 @@
       "https://www.pcbway.com/blog?tag=PCB+design",
       "https://www.pcbway.com/blog/News/PCBWay_Fabrication_Toolkit_for_Kicad_23c41e77.html",
       "https://www.pcbway.com/blog/News/Explore_the_PCBWay_Brochure_to_learn_about_our_capabilities_d72a5dff.html",
+      "https://www.pcbway.com/blog?tag=cmos+pins",
+      "https://www.pcbway.com/blog?tag=nc+pins",
       "https://www.pcbway.com/blog?tag=hardware+design",
       "https://www.pcbway.com/blog?tag=type+c+design",
       "https://www.pcbway.com/blog?tag=usb+design",
@@ -544,11 +547,6 @@
       "https://www.pcbway.com/blog?tag=bending+deformation",
       "https://www.pcbway.com/blog?tag=dfm+for+sheet+metal",
       "https://www.pcbway.com/blog?tag=sheet+metal+dfm",
-      "https://www.pcbway.com/blog/PCB_Design_Layout/LDO_Output_Capacitor_Selection_Why_Bigger_Isn_t_Always_Better_in_Power_Supply_D_3ddac52b.html",
-      "https://www.pcbway.com/blog?tag=ldo+output+capacitor",
-      "https://www.pcbway.com/blog?tag=output+capacitor",
-      "https://www.pcbway.com/blog?tag=ldo+design",
-      "https://www.pcbway.com/blog?tag=ldo+layout",
       "https://www.pcbway.com/blog/Activities/Submit_for_Publication___Now_I_Write_Articles_in_PCBWay.html",
       "https://www.pcbway.com/blog/Engineering_Technical",
       "https://www.pcbway.com/blog/News/PCBWay_Plug_In_for_OpenSCAD_b39038d5.html",
@@ -783,8 +781,8 @@
       "https://www.xometry.com/resources/data-center/edge",
       "https://www.xometry.com/resources/data-center/data-center-architecture",
       "https://www.xometry.com/resources/data-center/cloud",
-      "https://www.xometry.com/resources/data-center/data-center-power",
       "https://www.xometry.com/resources/data-center/enterprise",
+      "https://www.xometry.com/resources/data-center/data-center-power",
       "https://www.xometry.com/resources/data-center/data-center-tiers",
       "https://www.xometry.com/resources/data-center/data-center-networking",
       "https://www.xometry.com/resources/machining/datum-in-gd-t",
@@ -890,7 +888,6 @@
       "https://www.emachineshop.com/comparing-cnc-quotes-tolerances-finishing",
       "https://www.emachineshop.com/advanced-cnc-plasma-cutting-applications",
       "https://www.emachineshop.com/advanced-machining-services-industry-transformation",
-      "https://www.emachineshop.com/custom-sheet-metal-fabrication-techniques-tools-finishing",
       "https://www.emachineshop.com/blog",
       "https://www.emachineshop.com/what-you-need-to-know-about-powder-coating-service",
       "https://www.emachineshop.com/manufacturing-services",
@@ -910,6 +907,7 @@
       "https://www.emachineshop.com/revitalizing-classic-boats-with-custom-machining",
       "https://www.emachineshop.com/machining-overview",
       "https://www.emachineshop.com/cnc-bending",
+      "https://www.emachineshop.com/custom-sheet-metal-fabrication-techniques-tools-finishing",
       "https://www.emachineshop.com/sheet-metal-box-design-software",
       "https://www.emachineshop.com/rubber-molding",
       "https://www.emachineshop.com/cnc-routing",
@@ -922,15 +920,8 @@
       "https://quote.emachineshop.com/emachineshop/widget/upload"
     ]
   },
-  "last_run_at": "2026-09-09T06:11:43+00:00",
+  "last_run_at": "2026-09-10T06:12:57+00:00",
   "runs": [
-    {
-      "errors": 12,
-      "events": 560,
-      "finished_at": "2026-07-14T02:06:40+00:00",
-      "mode": "daily",
-      "run_id": "20260714T014922Z"
-    },
     {
       "errors": 12,
       "events": 232,
@@ -1343,6 +1334,13 @@
       "finished_at": "2026-09-09T06:11:43+00:00",
       "mode": "daily",
       "run_id": "20260909T055714Z"
+    },
+    {
+      "errors": 27,
+      "events": 93,
+      "finished_at": "2026-09-10T06:12:57+00:00",
+      "mode": "daily",
+      "run_id": "20260910T055531Z"
     }
   ],
   "schema_version": 2
