@@ -1,0 +1,907 @@
+{
+  "mode": "daily",
+  "date": "2026-09-13",
+  "subject": "[Competitor Tracking] 日报 2026-09-13 · 20 项变化",
+  "generated_at": "2026-09-13T14:17:38+08:00",
+  "events": [
+    {
+      "type": "visual_changed",
+      "priority": "high",
+      "competitor": "Protolabs",
+      "url": "https://www.protolabs.com/services/cnc-machining",
+      "category": "pricing",
+      "page_title": "Online CNC Machining Service | Get a Quote",
+      "summary": "mobile 视图出现明显 UI/布局变化",
+      "details": [
+        "视口：mobile",
+        "RMS 差异：122.99",
+        "变化像素占比：21.37%",
+        "页面截图高度变化：-30px"
+      ],
+      "before": null,
+      "after": null,
+      "added": [],
+      "removed": [],
+      "change_percent": 0.0,
+      "confidence": "high",
+      "published_at": "",
+      "first_seen_at": "2026-08-17T03:48:18+00:00",
+      "discovered_via": "sitemap"
+    },
+    {
+      "type": "visual_changed",
+      "priority": "high",
+      "competitor": "SyBridge",
+      "url": "https://sybridge.com/",
+      "category": "homepage",
+      "page_title": "SyBridge Technologies | Full-Lifecycle Injection Mold Tooling",
+      "summary": "desktop 视图出现明显 UI/布局变化",
+      "details": [
+        "视口：desktop",
+        "RMS 差异：27.49",
+        "变化像素占比：2.57%"
+      ],
+      "before": null,
+      "after": null,
+      "added": [],
+      "removed": [],
+      "change_percent": 0.0,
+      "confidence": "high",
+      "published_at": "2020-08-04T13:06:19+00:00",
+      "first_seen_at": "2026-08-17T03:53:24+00:00",
+      "discovered_via": "sitemap"
+    },
+    {
+      "type": "visual_changed",
+      "priority": "high",
+      "competitor": "SyBridge",
+      "url": "https://sybridge.com/optimizing-your-injection-molding-process",
+      "category": "pricing",
+      "page_title": "Optimizing Your Injection Molding Process for Cost-Effective Manufacturing Excellence - SyBridge Technologies",
+      "summary": "mobile 视图出现明显 UI/布局变化",
+      "details": [
+        "视口：mobile",
+        "RMS 差异：35.66",
+        "变化像素占比：2.73%",
+        "页面截图高度变化：-26px"
+      ],
+      "before": null,
+      "after": null,
+      "added": [],
+      "removed": [],
+      "change_percent": 0.0,
+      "confidence": "high",
+      "published_at": "2024-04-30T13:33:10+00:00",
+      "first_seen_at": "2026-08-17T03:53:37+00:00",
+      "discovered_via": "feed"
+    },
+    {
+      "type": "visual_changed",
+      "priority": "medium",
+      "competitor": "CNCLATHING",
+      "url": "https://www.cnclathing.com/",
+      "category": "service",
+      "page_title": "China Top CNC Machining Service OEM Supplier & Manufacturer | Junying",
+      "summary": "desktop 视图出现明显 UI/布局变化",
+      "details": [
+        "视口：desktop",
+        "RMS 差异：50.84",
+        "变化像素占比：5.01%"
+      ],
+      "before": null,
+      "after": null,
+      "added": [],
+      "removed": [],
+      "change_percent": 0.0,
+      "confidence": "high",
+      "published_at": "",
+      "first_seen_at": "2026-08-17T03:54:41+00:00",
+      "discovered_via": "sitemap"
+    },
+    {
+      "type": "visual_changed",
+      "priority": "medium",
+      "competitor": "Fictiv",
+      "url": "https://www.fictiv.com/",
+      "category": "service",
+      "page_title": "Fictiv: Sourcing Simplified for Custom Manufacturing Services",
+      "summary": "desktop 视图出现明显 UI/布局变化",
+      "details": [
+        "视口：desktop",
+        "RMS 差异：84.37",
+        "变化像素占比：10.06%",
+        "页面截图高度变化：+38px"
+      ],
+      "before": null,
+      "after": null,
+      "added": [],
+      "removed": [],
+      "change_percent": 0.0,
+      "confidence": "high",
+      "published_at": "2020-09-09T21:32:10+00:00",
+      "first_seen_at": "2026-08-17T03:45:18+00:00",
+      "discovered_via": "feed"
+    },
+    {
+      "type": "h1_changed",
+      "priority": "medium",
+      "competitor": "Hubs",
+      "url": "https://www.hubs.com/cnc-machining",
+      "category": "service",
+      "page_title": "Online CNC Machining Service : Custom part production",
+      "summary": "H1 标题发生变化",
+      "details": [],
+      "before": "CNC machining service online",
+      "after": "Online CNC machining service",
+      "added": [
+        "Online"
+      ],
+      "removed": [
+        "online"
+      ],
+      "change_percent": 50.0,
+      "confidence": "high",
+      "published_at": "2018-07-03T23:03:51+00:00",
+      "first_seen_at": "2026-08-17T03:41:06+00:00",
+      "discovered_via": "sitemap"
+    },
+    {
+      "type": "headings_changed",
+      "priority": "medium",
+      "competitor": "Hubs",
+      "url": "https://www.hubs.com/cnc-machining",
+      "category": "service",
+      "page_title": "Online CNC Machining Service : Custom part production",
+      "summary": "页面标题结构发生变化",
+      "details": [],
+      "before": null,
+      "after": null,
+      "added": [
+        "H1 Online CNC machining service",
+        "H2 Auto-quoted prices without surprises",
+        "H2 Order custom parts through a vetted global network of machine shops",
+        "H3 Configure and place your order",
+        "H3 Receive parts to spec",
+        "H3 Upload CAD files"
+      ],
+      "removed": [
+        "H1 CNC machining service online"
+      ],
+      "change_percent": 0.0,
+      "confidence": "high",
+      "published_at": "2018-07-03T23:03:51+00:00",
+      "first_seen_at": "2026-08-17T03:41:06+00:00",
+      "discovered_via": "sitemap"
+    },
+    {
+      "type": "ctas_changed",
+      "priority": "medium",
+      "competitor": "Hubs",
+      "url": "https://www.hubs.com/cnc-machining",
+      "category": "service",
+      "page_title": "Online CNC Machining Service : Custom part production",
+      "summary": "CTA发生变化",
+      "details": [],
+      "before": null,
+      "after": null,
+      "added": [
+        "Get an instant quote -> https://www.hubs.com/manufacture?technology=cnc-machining"
+      ],
+      "removed": [
+        "Get instant CNC machining quote -> https://www.hubs.com/manufacture?technology=cnc-machining"
+      ],
+      "change_percent": 0.0,
+      "confidence": "high",
+      "published_at": "2018-07-03T23:03:51+00:00",
+      "first_seen_at": "2026-08-17T03:41:06+00:00",
+      "discovered_via": "sitemap"
+    },
+    {
+      "type": "section_added",
+      "priority": "medium",
+      "competitor": "Hubs",
+      "url": "https://www.hubs.com/cnc-machining",
+      "category": "service",
+      "page_title": "Online CNC Machining Service : Custom part production",
+      "summary": "新增板块：Online CNC machining service",
+      "details": [],
+      "before": null,
+      "after": null,
+      "added": [
+        "Online CNC machining service For rapid prototyping and production parts — get a quote in seconds and receive custom machined parts in days. Get an instant quote All uploads are secure and confidential"
+      ],
+      "removed": [],
+      "change_percent": 0.0,
+      "confidence": "high",
+      "published_at": "2018-07-03T23:03:51+00:00",
+      "first_seen_at": "2026-08-17T03:41:06+00:00",
+      "discovered_via": "sitemap"
+    },
+    {
+      "type": "section_added",
+      "priority": "medium",
+      "competitor": "Hubs",
+      "url": "https://www.hubs.com/cnc-machining",
+      "category": "service",
+      "page_title": "Online CNC Machining Service : Custom part production",
+      "summary": "新增板块：Order custom parts through a vetted global network of machine shops",
+      "details": [],
+      "before": null,
+      "after": null,
+      "added": [
+        "Order custom parts through a vetted global network of machine shops Upload CAD files Catch machinability issues instantly with our free DfM tool, and see live prices for every part. Configure and place your order Set materials, finishes and lead times per part. We automatically match your order to the best-suited partner in our network. Receive parts to spe..."
+      ],
+      "removed": [],
+      "change_percent": 0.0,
+      "confidence": "high",
+      "published_at": "2018-07-03T23:03:51+00:00",
+      "first_seen_at": "2026-08-17T03:41:06+00:00",
+      "discovered_via": "sitemap"
+    },
+    {
+      "type": "section_added",
+      "priority": "medium",
+      "competitor": "Hubs",
+      "url": "https://www.hubs.com/cnc-machining",
+      "category": "service",
+      "page_title": "Online CNC Machining Service : Custom part production",
+      "summary": "新增板块：Upload CAD files",
+      "details": [],
+      "before": null,
+      "after": null,
+      "added": [
+        "Upload CAD files Catch machinability issues instantly with our free DfM tool, and see live prices for every part."
+      ],
+      "removed": [],
+      "change_percent": 0.0,
+      "confidence": "high",
+      "published_at": "2018-07-03T23:03:51+00:00",
+      "first_seen_at": "2026-08-17T03:41:06+00:00",
+      "discovered_via": "sitemap"
+    },
+    {
+      "type": "section_added",
+      "priority": "medium",
+      "competitor": "Hubs",
+      "url": "https://www.hubs.com/cnc-machining",
+      "category": "service",
+      "page_title": "Online CNC Machining Service : Custom part production",
+      "summary": "新增板块：Configure and place your order",
+      "details": [],
+      "before": null,
+      "after": null,
+      "added": [
+        "Configure and place your order Set materials, finishes and lead times per part. We automatically match your order to the best-suited partner in our network."
+      ],
+      "removed": [],
+      "change_percent": 0.0,
+      "confidence": "high",
+      "published_at": "2018-07-03T23:03:51+00:00",
+      "first_seen_at": "2026-08-17T03:41:06+00:00",
+      "discovered_via": "sitemap"
+    },
+    {
+      "type": "section_added",
+      "priority": "medium",
+      "competitor": "Hubs",
+      "url": "https://www.hubs.com/cnc-machining",
+      "category": "service",
+      "page_title": "Online CNC Machining Service : Custom part production",
+      "summary": "新增板块：Receive parts to spec",
+      "details": [],
+      "before": null,
+      "after": null,
+      "added": [
+        "Receive parts to spec Every part gets a full visual and dimensional inspection, and global orders get a second review at our cross-docks."
+      ],
+      "removed": [],
+      "change_percent": 0.0,
+      "confidence": "high",
+      "published_at": "2018-07-03T23:03:51+00:00",
+      "first_seen_at": "2026-08-17T03:41:06+00:00",
+      "discovered_via": "sitemap"
+    },
+    {
+      "type": "section_added",
+      "priority": "medium",
+      "competitor": "Hubs",
+      "url": "https://www.hubs.com/cnc-machining",
+      "category": "service",
+      "page_title": "Online CNC Machining Service : Custom part production",
+      "summary": "新增板块：Auto-quoted prices without surprises",
+      "details": [],
+      "before": null,
+      "after": null,
+      "added": [
+        "Auto-quoted prices without surprises We handle taxes, duties and customs clearance—the price you see is final. Get an instant quote"
+      ],
+      "removed": [],
+      "change_percent": 0.0,
+      "confidence": "high",
+      "published_at": "2018-07-03T23:03:51+00:00",
+      "first_seen_at": "2026-08-17T03:41:06+00:00",
+      "discovered_via": "sitemap"
+    },
+    {
+      "type": "section_removed",
+      "priority": "medium",
+      "competitor": "Hubs",
+      "url": "https://www.hubs.com/cnc-machining",
+      "category": "service",
+      "page_title": "Online CNC Machining Service : Custom part production",
+      "summary": "删除板块：CNC machining service online",
+      "details": [],
+      "before": null,
+      "after": null,
+      "added": [],
+      "removed": [
+        "CNC machining service online On-demand CNC machining service for rapid prototyping and production parts, through a network of specialized, experienced and thoroughly vetted local and global CNC machine shops. Get instant CNC machining quote All uploads are secure and confidential"
+      ],
+      "change_percent": 0.0,
+      "confidence": "high",
+      "published_at": "2018-07-03T23:03:51+00:00",
+      "first_seen_at": "2026-08-17T03:41:06+00:00",
+      "discovered_via": "sitemap"
+    },
+    {
+      "type": "section_removed",
+      "priority": "medium",
+      "competitor": "Hubs",
+      "url": "https://www.hubs.com/cnc-machining",
+      "category": "service",
+      "page_title": "Online CNC Machining Service : Custom part production",
+      "summary": "删除板块：14 proven design tips to reduce the cost of CNC machining",
+      "details": [],
+      "before": null,
+      "after": null,
+      "added": [],
+      "removed": [
+        "14 proven design tips to reduce the cost of CNC machining Read article 14 proven design tips to reduce the cost of CNC machining Read article"
+      ],
+      "change_percent": 0.0,
+      "confidence": "high",
+      "published_at": "2018-07-03T23:03:51+00:00",
+      "first_seen_at": "2026-08-17T03:41:06+00:00",
+      "discovered_via": "sitemap"
+    },
+    {
+      "type": "section_removed",
+      "priority": "medium",
+      "competitor": "Hubs",
+      "url": "https://www.hubs.com/cnc-machining",
+      "category": "service",
+      "page_title": "Online CNC Machining Service : Custom part production",
+      "summary": "删除板块：How to prepare a technical drawing for CNC machining",
+      "details": [],
+      "before": null,
+      "after": null,
+      "added": [],
+      "removed": [
+        "How to prepare a technical drawing for CNC machining Read article How to prepare a technical drawing for CNC machining Read article"
+      ],
+      "change_percent": 0.0,
+      "confidence": "high",
+      "published_at": "2018-07-03T23:03:51+00:00",
+      "first_seen_at": "2026-08-17T03:41:06+00:00",
+      "discovered_via": "sitemap"
+    },
+    {
+      "type": "section_removed",
+      "priority": "medium",
+      "competitor": "Hubs",
+      "url": "https://www.hubs.com/cnc-machining",
+      "category": "service",
+      "page_title": "Online CNC Machining Service : Custom part production",
+      "summary": "删除板块：How do you select the right materials for CNC machining?",
+      "details": [],
+      "before": null,
+      "after": null,
+      "added": [],
+      "removed": [
+        "How do you select the right materials for CNC machining? Read article How do you select the right materials for CNC machining? Read article"
+      ],
+      "change_percent": 0.0,
+      "confidence": "high",
+      "published_at": "2018-07-03T23:03:51+00:00",
+      "first_seen_at": "2026-08-17T03:41:06+00:00",
+      "discovered_via": "sitemap"
+    },
+    {
+      "type": "section_removed",
+      "priority": "medium",
+      "competitor": "Hubs",
+      "url": "https://www.hubs.com/cnc-machining",
+      "category": "service",
+      "page_title": "Online CNC Machining Service : Custom part production",
+      "summary": "删除板块：What are the types of surface finishes for CNC machining?",
+      "details": [],
+      "before": null,
+      "after": null,
+      "added": [],
+      "removed": [
+        "What are the types of surface finishes for CNC machining? Read article What are the types of surface finishes for CNC machining? Read article"
+      ],
+      "change_percent": 0.0,
+      "confidence": "high",
+      "published_at": "2018-07-03T23:03:51+00:00",
+      "first_seen_at": "2026-08-17T03:41:06+00:00",
+      "discovered_via": "sitemap"
+    },
+    {
+      "type": "section_removed",
+      "priority": "medium",
+      "competitor": "Hubs",
+      "url": "https://www.hubs.com/cnc-machining",
+      "category": "service",
+      "page_title": "Online CNC Machining Service : Custom part production",
+      "summary": "删除板块：What is heat treatment and how does it improve CNC-machined parts?",
+      "details": [],
+      "before": null,
+      "after": null,
+      "added": [],
+      "removed": [
+        "What is heat treatment and how does it improve CNC-machined parts? Read article What is heat treatment and how does it improve CNC-machined parts? Read article"
+      ],
+      "change_percent": 0.0,
+      "confidence": "high",
+      "published_at": "2018-07-03T23:03:51+00:00",
+      "first_seen_at": "2026-08-17T03:41:06+00:00",
+      "discovered_via": "sitemap"
+    },
+    {
+      "type": "visual_changed",
+      "priority": "medium",
+      "competitor": "Hubs",
+      "url": "https://www.hubs.com/cnc-machining",
+      "category": "service",
+      "page_title": "Online CNC Machining Service : Custom part production",
+      "summary": "desktop 视图出现明显 UI/布局变化",
+      "details": [
+        "视口：desktop",
+        "RMS 差异：129.54",
+        "变化像素占比：13.56%",
+        "页面截图高度变化：+1985px"
+      ],
+      "before": null,
+      "after": null,
+      "added": [],
+      "removed": [],
+      "change_percent": 0.0,
+      "confidence": "high",
+      "published_at": "2018-07-03T23:03:51+00:00",
+      "first_seen_at": "2026-08-17T03:41:06+00:00",
+      "discovered_via": "sitemap"
+    },
+    {
+      "type": "visual_changed",
+      "priority": "medium",
+      "competitor": "Hubs",
+      "url": "https://www.hubs.com/cnc-machining",
+      "category": "service",
+      "page_title": "Online CNC Machining Service : Custom part production",
+      "summary": "mobile 视图出现明显 UI/布局变化",
+      "details": [
+        "视口：mobile",
+        "RMS 差异：131.73",
+        "变化像素占比：18.35%",
+        "页面截图高度变化：+964px"
+      ],
+      "before": null,
+      "after": null,
+      "added": [],
+      "removed": [],
+      "change_percent": 0.0,
+      "confidence": "high",
+      "published_at": "2018-07-03T23:03:51+00:00",
+      "first_seen_at": "2026-08-17T03:41:06+00:00",
+      "discovered_via": "sitemap"
+    },
+    {
+      "type": "visual_changed",
+      "priority": "medium",
+      "competitor": "JLC CNC",
+      "url": "https://jlccnc.com/",
+      "category": "service",
+      "page_title": "Online CNC Machining Service - JLCCNC",
+      "summary": "desktop 视图出现明显 UI/布局变化",
+      "details": [
+        "视口：desktop",
+        "RMS 差异：47.35",
+        "变化像素占比：3.50%"
+      ],
+      "before": null,
+      "after": null,
+      "added": [],
+      "removed": [],
+      "change_percent": 0.0,
+      "confidence": "high",
+      "published_at": "2026-09-09T00:00:00+00:00",
+      "first_seen_at": "2026-08-17T03:49:31+00:00",
+      "discovered_via": "priority"
+    },
+    {
+      "type": "visual_changed",
+      "priority": "medium",
+      "competitor": "JLC CNC",
+      "url": "https://jlccnc.com/",
+      "category": "service",
+      "page_title": "Online CNC Machining Service - JLCCNC",
+      "summary": "mobile 视图出现明显 UI/布局变化",
+      "details": [
+        "视口：mobile",
+        "RMS 差异：61.45",
+        "变化像素占比：5.54%"
+      ],
+      "before": null,
+      "after": null,
+      "added": [],
+      "removed": [],
+      "change_percent": 0.0,
+      "confidence": "high",
+      "published_at": "2026-09-09T00:00:00+00:00",
+      "first_seen_at": "2026-08-17T03:49:31+00:00",
+      "discovered_via": "priority"
+    },
+    {
+      "type": "section_copy_changed",
+      "priority": "medium",
+      "competitor": "PCBWay",
+      "url": "https://www.pcbway.com/",
+      "category": "homepage",
+      "page_title": "China PCB Prototype & Fabrication Manufacturer - PCB Prototype the Easy Way",
+      "summary": "板块文案更新：Affordable Prototype PCB Manufacturer in China",
+      "details": [],
+      "before": "Affordable Prototype PCB Manufacturer in China Last 30 days: 87084 Today's new order: 1566 Latest orders Date Buyer name Lead Time Progress 09-12 *** 24hours 41% 09-12 *** 24hours 41% 09-12 *** 15-16 days 38% 09-12 D****th 24hours 41% 09-12 G****zi 24hours 41% 09-12 L****ik 5-6 days 12% 09-12 r****ad 4-5 days 33% 09-12 *** 9-10 days 27% 09-12 N****ek 24hours 29% 09-12 S****tt 7-8 days 25% 09-12 *** 3-4 days 18% 09-12 R****hy 9-10 days 47% 09-12 J****Jr 24hours 31% 09-12 E****ka 5-6 days 31% 09-12 G****te 6-7 days 27% 09-12 T****LE 5-6 days 11% 09-12 S****to 24hours 31% 09-12 *** 24hours 38% 09-12 p****rd 24hours 41% 09-12 *** 3-4 days 18%",
+      "after": "Affordable Prototype PCB Manufacturer in China Last 30 days: 85623 Today's new order: 966 Latest orders Date Buyer name Lead Time Progress 09-13 *** 8-9 days 35% 09-13 C****ys 17-18 days 26% 09-13 B****ed 5-6 days 30% 09-13 *** 7-8 days 28% 09-13 *** 3-4 days 18% 09-13 A****ac 3-4 days 12% 09-13 *** 4-5 days 40% 09-13 S****er 5-6 days 31% 09-13 T****IO 4-5 days 47% 09-13 L****ho 24hours 43% 09-13 R****ey 5-6 days 46% 09-13 *** 4-5 days 28% 09-13 T****LE 7-8 days 17% 09-13 T****IO 4-5 days 47% 09-13 *** 24hours 43% 09-13 *** 6-7 days 28% 09-13 D****ım 15-16 days 13% 09-13 J****op 5-6 days 12% 09-13 G****an 5-6 days 21% 09-13 *** 4-5 days 27%",
+      "added": [
+        "85623",
+        "966",
+        "09-13",
+        "8-9",
+        "35% 09-13 C****ys 17-18 days 26% 09-13 B****ed"
+      ],
+      "removed": [
+        "87084",
+        "1566",
+        "09-12",
+        "24hours 41% 09-12 *** 24hours 41% 09-12 *** 15-16",
+        "38% 09-12 D****th 24hours 41% 09-12 G****zi 24hours 41% 09-12 L****ik"
+      ],
+      "change_percent": 125.83,
+      "confidence": "high",
+      "published_at": "2026-09-13T00:00:00+00:00",
+      "first_seen_at": "2026-08-17T03:51:10+00:00",
+      "discovered_via": "priority"
+    },
+    {
+      "type": "content_changed",
+      "priority": "medium",
+      "competitor": "Xometry",
+      "url": "https://www.xometry.com/",
+      "category": "service",
+      "page_title": "Custom Manufacturing on Demand | Production Parts and Prototypes | Xometry",
+      "summary": "页面正文发生可定位的变化",
+      "details": [],
+      "before": "Plan ahead: Golden Week is October 1-7. Order now to keep your projects moving. Get an instant quote Get an Instant Quote Log In / Register Solutions Manufacturing Processes All Manufacturing Capabilities Additive Manufacturing 3D Printing Service Plastic 3D Printing Service Fused Deposition Modeling HP Multi Jet Fusion Selective Laser Sintering Stereolithography Polyjet Production 3D Printing Service Carbon DLS Metal 3D Printing Service Direct Metal Laser Sintering Metal Binder Jetting Vapor Smoothing 3D Prints CNC Machining CNC Machining CNC Milling CNC Turning CNC Routing Swiss-Type Turning Micro Machining Sheet and Tube Fabrication Sheet Metal Fabrication Sheet Cutting Laser Cutting Waterjet Cutting Laser Tube Cutting Tube Bending Injection Molding Injection Molding Services Plastic Injection Molding Prototype Molding Production Molding Insert Molding Overmolding Micro Molding Other Plastic Production Urethane and Silicone Casting Compression Molding Plastic Extrusion Metal Part Production Die Casting Metal Stamping Metal Extrusion Value-Added Services Assembly Services Rapid Prototyping High-Volume Production Finishing Services For Organizations Enterprise Solutions Industries Industries We Serve Aerospace and Defense Automotive Consumer Products Data Centers Electronics and Semiconductors Government Industrial Medical Motorsports Robotics Become a Supplier Quote Custom Parts in Seconds Upload your files, get an instant quote, and order online. Get an Instant Quote STEP • STP • SLDPRT • STL • DXF • IPT • X_T • X_B • 3DXML • CATPART • PRT • SAT • 3MF • JT files All uploads are secure and confidential. ISO 9001:2015 ISO 13485:2016 AS9100D IATF 16949:2016 ITAR CMMC Level 2 JCP Xometry Instant Quoting Engine® is covered by U.S. Patent Numbers shown here . Xometry values your privacy and security. Learn more . 85,000+ Buyers 5,000 Suppliers 4.8/5 Trustpilot Score 165M+ Parts Shipped Services Use Cases CNC Machining 3D Printing Sheet & Tube Fabrication Injection Molding High-Volume Metal Production Trusted Precision: Sub ±0.001′′ Accuracy, Zero Guesswork The trusted choice for precision components, delivering exceptional accuracy from prototype through high-volume production. Virtually any metal or plastic material, expertly finished your way Scalable capacity from one-offs and prototypes to production Includes: CNC milling (3/4/5-axis), CNC turning, CNC drilling, and wire EDM Learn More Get an Instant Quote CNC Machining 3D Printing Sheet & Tube Fabrication Injection Molding High-Volume Metal Production Accelerate Sourcing AI-powered quoting and platform intelligence move your ideas to production faster. Scale Without Limits On-demand capacity for any volume, process, or material, with no minimums required. Optimize Production A U.S. and global network of certified suppliers delivers precision and reliability. Seamless Project Delivery Integrated digital workflows deliver traceability, transparency, and quality from order to final part. Real Stories, Real Impact How SentriLock Overcame Supply Chain Disruption with Prototype-to-Production Support Electric Motorcycle Maker Sourced and Scaled Critical Parts with Xometry Intuitive Machines Returned to the Moon with Xometry-Built Precision Components Laser Tube Cutting Helped Sea Box Scale a Major Defense Project Pushing the Limits of Light: How Elettra 2.0 Is Built for Next-Gen Science Xometry has consistently delivered high-precision aluminum components to a very high standard. Sam Leu The part was perfect! They follow the drawing and 3D data to the letter! Charles Xometry’s prints were very accurate to my design and functioned perfectly! Their online quoting tool is very intuitive. Al The parts we ordered arrived earlier than expected and within the dimensional tolerances that were promised. Todd Wonderful experience SLS 3D-printing of very small nylon parts for a precision application. Mike T. Quality parts, fast! Grant Xometry quoted us a great price with quick turn around. Parts received were within spec. What more could you ask for? Brian The website makes it super easy to get a quote and select the appropriate technology options. Will NM Easy to use! Options on manufacturing, lead time and shipping to help with pricing. Great service, support and follow up. Otto Online platform is easy to use, price was reasonable, and job was done even faster than promised. Curtis Scale Production. Optimize for Tomorrow. Accelerate program efficiency, simplify collaboration, and strengthen your supply chain to achieve guaranteed momentum and seamless execution for every project. Talk to Our Team Life of a Part Turn your vision into reality with a vetted global network that manages your most important parts from design to final delivery. Your browser does not support the video tag. Partner Network Join our supplier network and access reliable demand and new jobs daily Enterprise Solutions Accelerate production and scale your capacity Your browser does not support the video tag. Injection Molding Services Validate and scale your design with confidence News and Views Rachel Zepernick on What's Next for U.S. Manufacturing September 2026 Sanjeev Singh Sahni Joins The Manufacturing Executive Podcast August 2026 Rachel Zepernick Talks Industrial Sourcing And Manufacturing August 2026 Xometry Foundation Announces Partnership with MxD July 2026 Randy Altschuler Talks Manufacturing on Machine Shop Mastery July 2026 Xometry Releases Upgrades to Its AI Model Architecture July 2026 Critical Infrastructure Runs at the Speed of Its Supply Chain July 2026 Xometry Launches Foundation and Innovators Program June 2026 Randy Altschuler sits down with Jim Cramer June 2026 Xometry CEO discusses AI, Partnerships and Record Earnings May 2026 Xometry Appoints Lukas Biewald to its Board of Directors May 2026 Xometry Makes Cramer's Lightning Round May 2026 Xometry Streamlines Data Center Supply Chain May 2026 Xometry and Siemens Partner to Embed AI-Native Supply Chain May 2026 Companies Are Deploying AI. Few Can Prove It Works. May 2026 Supply chain modernization is an urgent U.S. defense need April 2026 U.S. Manufacturing Success Requires Gen-Z's Buy-In April 2026 Opportunity Knocks for Gen Z in Tech-driven Plastics Manufacturing April 2026 Predictive risk detection and supplier selection March 2026 Xometry Deepens AI-Native Marketplace Advantage March 2026 Xometry Co-Founder Randy Altschuler to Exit CEO Post; Successor Named February 2026 Additive Manufacturing’s Next Chapter: From Prototype Tool to Operating Model February 2026 Xometry Announces CEO Succession Plan February 2026 A&D Leaders Prioritize AI-Enabled Supply Chain Solutions January 2026 Xometry Accelerates Marketplace Solutions for Complex Manufacturing Demands January 2026 AI, Reshoring to Reshape Manufacturing in 2026 December 2025 Xometry’s 2026 Outlook: Why AM Is Becoming Essential December 2025 WorkTech Predictions for 2026 and Beyond December 2025 CEO: ‘It’s a Speed War’ in AI-Driven Sourcing November 2025 Xometry Earns Spot on 2025 Deloitte Fast 500™ November 2025 How the U.S. Economy Has Defied Doomsday Predictions on Tariffs November 2025 Xometry CEO on ‘Record Year’ November 2025 Xometry Adds Injection Molding Auto-Quote Capability October 2025 The Future of Manufacturing Is Powered by AI October 2025 Xometry Launches Workcenter Mobile October 2025 How AI Moves Manufacturing from Hardware to Software September 2025 US Companies Are Using AI to Help Offset Increased Tariff Costs September 2025 2026 Manufacturing Outlook July 2025 How Thomas Is Quietly Powering America’s Manufacturing Revival July 2025 Get in Touch Ready to start your next manufacturing project? Our team is here to help with quotes, technical questions, and custom solutions. Phone +1-800-983-1959 Email hello@xometry.com * Company Email Address * First Name * Last Name * Company Name Job Title (optional) * Phone Number 🇺🇸 +1 * Message Submit By entering your contact information, you are agreeing to receive email communications about Xometry products and services. You may update your subscriptions or unsubscribe from these communications at any time using the link at the bottom of every marketing email or by contacting support. For more information, review our Privacy Policy . Digitizing manufacturing with smarter sourcing, instant quotes, and a global supplier network built for innovators. 17.3M+ LBS OF CO2 OFFSET Services CNC Machining 3D Printing Sheet Metal Fabrication Injection Molding Metal Forming & Die Casting Enterprise Industries Aerospace & Defense Automotive Medical Electronics & Semiconductors Data Centers Company About Careers Press Investor Relations Legal Resources Technical Hub Design Guides Get Started Case Studies Materials Guide Finishes Guide Manufacturing Standards CAD Add-ins Release Notes Partners Xometry Partner Network Become a Supplier Workcenter Supplier Network Quality Assurance Certifications Privacy & Security Support Help Center Contact Us © 2026 Xometry, Inc. All Rights Reserved. ISO 9001:2015 ISO13485:2016 AS9100D IATF 16949:2016 ITAR CMMC Level 2 JCP Cookie Policy Xometry stores cookies on your computer to provide more personalized services to you, both on this website and through other media. By using this website, you consent to the cookies we use and our Privacy Policy . Accept",
+      "after": "Plan ahead: Golden Week is October 1-7. Order now to keep your projects moving. Get an instant quote Get an Instant Quote Log In / Register Solutions Manufacturing Processes All Manufacturing Capabilities Additive Manufacturing 3D Printing Service Plastic 3D Printing Service Fused Deposition Modeling HP Multi Jet Fusion Selective Laser Sintering Stereolithography Polyjet Production 3D Printing Service Carbon DLS Metal 3D Printing Service Direct Metal Laser Sintering Metal Binder Jetting Vapor Smoothing 3D Prints CNC Machining CNC Machining CNC Milling CNC Turning CNC Routing Swiss-Type Turning Micro Machining Sheet and Tube Fabrication Sheet Metal Fabrication Sheet Cutting Laser Cutting Waterjet Cutting Laser Tube Cutting Tube Bending Injection Molding Injection Molding Services Plastic Injection Molding Prototype Molding Production Molding Insert Molding Overmolding Micro Molding Other Plastic Production Urethane and Silicone Casting Compression Molding Plastic Extrusion Metal Part Production Die Casting Metal Stamping Metal Extrusion Value-Added Services Assembly Services Rapid Prototyping High-Volume Production Finishing Services For Organizations Enterprise Solutions Industries Industries We Serve Aerospace and Defense Automotive Consumer Products Data Centers Electronics and Semiconductors Government Industrial Medical Motorsports Robotics Become a Supplier Quote Custom Parts in Seconds Upload your files, get an instant quote, and order online. Get an Instant Quote STEP • STP • SLDPRT • STL • DXF • IPT • X_T • X_B • 3DXML • CATPART • PRT • SAT • 3MF • JT files All uploads are secure and confidential. ISO 9001:2015 ISO 13485:2016 AS9100D IATF 16949:2016 ITAR CMMC Level 2 JCP Xometry Instant Quoting Engine® is covered by U.S. Patent Numbers shown here . Xometry values your privacy and security. Learn more . 83,245+ Buyers 4,589 Suppliers 4.7/5 Trustpilot Score 162M+ Parts Shipped Services Use Cases CNC Machining 3D Printing Sheet & Tube Fabrication Injection Molding High-Volume Metal Production Trusted Precision: Sub ±0.001′′ Accuracy, Zero Guesswork The trusted choice for precision components, delivering exceptional accuracy from prototype through high-volume production. Virtually any metal or plastic material, expertly finished your way Scalable capacity from one-offs and prototypes to production Includes: CNC milling (3/4/5-axis), CNC turning, CNC drilling, and wire EDM Learn More Get an Instant Quote CNC Machining 3D Printing Sheet & Tube Fabrication Injection Molding High-Volume Metal Production Accelerate Sourcing AI-powered quoting and platform intelligence move your ideas to production faster. Scale Without Limits On-demand capacity for any volume, process, or material, with no minimums required. Optimize Production A U.S. and global network of certified suppliers delivers precision and reliability. Seamless Project Delivery Integrated digital workflows deliver traceability, transparency, and quality from order to final part. Real Stories, Real Impact How SentriLock Overcame Supply Chain Disruption with Prototype-to-Production Support Electric Motorcycle Maker Sourced and Scaled Critical Parts with Xometry Intuitive Machines Returned to the Moon with Xometry-Built Precision Components Laser Tube Cutting Helped Sea Box Scale a Major Defense Project Pushing the Limits of Light: How Elettra 2.0 Is Built for Next-Gen Science Xometry has consistently delivered high-precision aluminum components to a very high standard. Sam Leu The part was perfect! They follow the drawing and 3D data to the letter! Charles Xometry’s prints were very accurate to my design and functioned perfectly! Their online quoting tool is very intuitive. Al The parts we ordered arrived earlier than expected and within the dimensional tolerances that were promised. Todd Wonderful experience SLS 3D-printing of very small nylon parts for a precision application. Mike T. Quality parts, fast! Grant Xometry quoted us a great price with quick turn around. Parts received were within spec. What more could you ask for? Brian The website makes it super easy to get a quote and select the appropriate technology options. Will NM Easy to use! Options on manufacturing, lead time and shipping to help with pricing. Great service, support and follow up. Otto Online platform is easy to use, price was reasonable, and job was done even faster than promised. Curtis Scale Production. Optimize for Tomorrow. Accelerate program efficiency, simplify collaboration, and strengthen your supply chain to achieve guaranteed momentum and seamless execution for every project. Talk to Our Team Life of a Part Turn your vision into reality with a vetted global network that manages your most important parts from design to final delivery. Your browser does not support the video tag. Partner Network Join our supplier network and access reliable demand and new jobs daily Enterprise Solutions Accelerate production and scale your capacity Your browser does not support the video tag. Injection Molding Services Validate and scale your design with confidence News and Views Rachel Zepernick on What's Next for U.S. Manufacturing September 2026 Sanjeev Singh Sahni Joins The Manufacturing Executive Podcast August 2026 Rachel Zepernick Talks Industrial Sourcing And Manufacturing August 2026 Xometry Foundation Announces Partnership with MxD July 2026 Randy Altschuler Talks Manufacturing on Machine Shop Mastery July 2026 Xometry Releases Upgrades to Its AI Model Architecture July 2026 Critical Infrastructure Runs at the Speed of Its Supply Chain July 2026 Xometry Launches Foundation and Innovators Program June 2026 Randy Altschuler sits down with Jim Cramer June 2026 Xometry CEO discusses AI, Partnerships and Record Earnings May 2026 Xometry Appoints Lukas Biewald to its Board of Directors May 2026 Xometry Makes Cramer's Lightning Round May 2026 Xometry Streamlines Data Center Supply Chain May 2026 Xometry and Siemens Partner to Embed AI-Native Supply Chain May 2026 Companies Are Deploying AI. Few Can Prove It Works. May 2026 Supply chain modernization is an urgent U.S. defense need April 2026 U.S. Manufacturing Success Requires Gen-Z's Buy-In April 2026 Opportunity Knocks for Gen Z in Tech-driven Plastics Manufacturing April 2026 Predictive risk detection and supplier selection March 2026 Xometry Deepens AI-Native Marketplace Advantage March 2026 Xometry Co-Founder Randy Altschuler to Exit CEO Post; Successor Named February 2026 Additive Manufacturing’s Next Chapter: From Prototype Tool to Operating Model February 2026 Xometry Announces CEO Succession Plan February 2026 A&D Leaders Prioritize AI-Enabled Supply Chain Solutions January 2026 Xometry Accelerates Marketplace Solutions for Complex Manufacturing Demands January 2026 AI, Reshoring to Reshape Manufacturing in 2026 December 2025 Xometry’s 2026 Outlook: Why AM Is Becoming Essential December 2025 WorkTech Predictions for 2026 and Beyond December 2025 CEO: ‘It’s a Speed War’ in AI-Driven Sourcing November 2025 Xometry Earns Spot on 2025 Deloitte Fast 500™ November 2025 How the U.S. Economy Has Defied Doomsday Predictions on Tariffs November 2025 Xometry CEO on ‘Record Year’ November 2025 Xometry Adds Injection Molding Auto-Quote Capability October 2025 The Future of Manufacturing Is Powered by AI October 2025 Xometry Launches Workcenter Mobile October 2025 How AI Moves Manufacturing from Hardware to Software September 2025 US Companies Are Using AI to Help Offset Increased Tariff Costs September 2025 2026 Manufacturing Outlook July 2025 How Thomas Is Quietly Powering America’s Manufacturing Revival July 2025 Get in Touch Ready to start your next manufacturing project? Our team is here to help with quotes, technical questions, and custom solutions. Phone +1-800-983-1959 Email hello@xometry.com * Company Email Address * First Name * Last Name * Company Name Job Title (optional) * Phone Number 🇺🇸 +1 * Message Submit By entering your contact information, you are agreeing to receive email communications about Xometry products and services. You may update your subscriptions or unsubscribe from these communications at any time using the link at the bottom of every marketing email or by contacting support. For more information, review our Privacy Policy . Digitizing manufacturing with smarter sourcing, instant quotes, and a global supplier network built for innovators. 17.3M+ LBS OF CO2 OFFSET Services CNC Machining 3D Printing Sheet Metal Fabrication Injection Molding Metal Forming & Die Casting Enterprise Industries Aerospace & Defense Automotive Medical Electronics & Semiconductors Data Centers Company About Careers Press Investor Relations Legal Resources Technical Hub Design Guides Get Started Case Studies Materials Guide Finishes Guide Manufacturing Standards CAD Add-ins Release Notes Partners Xometry Partner Network Become a Supplier Workcenter Supplier Network Quality Assurance Certifications Privacy & Security Support Help Center Contact Us © 2026 Xometry, Inc. All Rights Reserved. ISO 9001:2015 ISO13485:2016 AS9100D IATF 16949:2016 ITAR CMMC Level 2 JCP Cookie Policy Xometry stores cookies on your computer to provide more personalized services to you, both on this website and through other media. By using this website, you consent to the cookies we use and our Privacy Policy . Accept",
+      "added": [
+        "83,245+",
+        "4,589",
+        "4.7/5",
+        "162M+"
+      ],
+      "removed": [
+        "85,000+",
+        "5,000",
+        "4.8/5",
+        "165M+"
+      ],
+      "change_percent": 0.59,
+      "confidence": "high",
+      "published_at": "",
+      "first_seen_at": "2026-08-17T03:43:15+00:00",
+      "discovered_via": "priority"
+    },
+    {
+      "type": "section_copy_changed",
+      "priority": "low",
+      "competitor": "JLC CNC",
+      "url": "https://jlccnc.com/blog/category/cad-cam-software",
+      "category": "content",
+      "page_title": "CAD & CAM Software | JLCCNC",
+      "summary": "板块文案更新：Latest Posts",
+      "details": [],
+      "before": "Latest Posts CAD & CAM Software Types of CNC File Formats: How to Choose the Best Format for CNC Key Takeaways STEP is a practical choice for most 3D CNC parts because it carries the part's solid and surface geometry. IGES can store surfaces, wireframes, and other CAD geometry. It is still used with older CAD/CAM files, while STEP is more common for current 3D models. STL stores the shape as a triangular mesh. It can be used when the source geometry is available only as a mesh, but it does not retain the exact solid geometry or parametric design information of the original CAD model. DXF is mainl...... Sep 11, 2026 CAD & CAM Software Computer Aided Design: How CAD Works, Types, and Uses Key Takeaways Computer aided design (CAD) uses software to create, modify, analyze, and document 2D and 3D designs. 2D CAD is mainly used for drafting and documentation, while 3D CAD supports solid modeling, assemblies, simulation, and manufacturing workflows. Parametric and direct modeling offer different approaches to creating and modifying CAD geometry. Common CAD file formats include STEP and IGES for 3D geometry exchange, DWG and DXF for 2D drawings, and STL for 3D printing. In CNC machining,...",
+      "after": "Latest Posts CAD & CAM Software Computer Aided Design: How CAD Works, Types, and Uses Key Takeaways Computer aided design (CAD) uses software to create, modify, analyze, and document 2D and 3D designs. 2D CAD is mainly used for drafting and documentation, while 3D CAD supports solid modeling, assemblies, simulation, and manufacturing workflows. Parametric and direct modeling offer different approaches to creating and modifying CAD geometry. Common CAD file formats include STEP and IGES for 3D geometry exchange, DWG and DXF for 2D drawings, and STL for 3D printing. In CNC machining, CAD...... Sep 10, 2026 CAD & CAM Software A Comprehensive Guide to the Best Free CAM Software In order to accommodate the various demands and tastes of people involved in CNC production, many kinds of CAM software proposals for CNC design have been introduced. Users may choose CAM software that fits their needs, be it a certain machining technique, industry specialization, or feature set, by investigating a variety of solutions. With this thorough approach, users are certain to be able to make well-informed judgments and identify the optimal CAM software solution for their CNC design requireme...... Sep...",
+      "added": [
+        "machining, CAD...... Sep 10, 2026 CAD & CAM Software A Comprehensive Guide to the Best Free CAM Software In order to accommodate the various demands and tastes of people involved in CNC production, many kinds of CAM software proposals for CNC design have been introduced. Users may choose CAM software that fits their needs, be it a certain machining techniqu..."
+      ],
+      "removed": [
+        "CAD & CAM Software Types of CNC File Formats: How to Choose the Best Format for CNC Key Takeaways STEP is a practical choice for most 3D CNC parts because it carries the part's solid and surface geometry. IGES can store surfaces, wireframes, and other CAD geometry. It is still used with older CAD/CAM files, while STEP is more common for current 3D models. S...",
+        "machining,..."
+      ],
+      "change_percent": 103.47,
+      "confidence": "high",
+      "published_at": "2024-04-17T00:00:00+00:00",
+      "first_seen_at": "2026-08-17T03:50:38+00:00",
+      "discovered_via": "sitemap"
+    },
+    {
+      "type": "section_copy_changed",
+      "priority": "low",
+      "competitor": "JLC CNC",
+      "url": "https://jlccnc.com/blog/category/manufacturing-services",
+      "category": "content",
+      "page_title": "Manufacturing Services | JLCCNC",
+      "summary": "板块文案更新：Featured Posts",
+      "details": [],
+      "before": "Featured Posts Manufacturing Solutions Rapid Prototyping Guide: Processes Compared and How to Choose the Right Method for Manufacturing What Is Rapid Prototyping (AI generated) Various rapid prototyping parts including 3D printed, CNC machined, and sheet metal components on a workshop table. Rapid prototyping is a manufacturing approach that produces physical parts directly from CAD data within hours or days, enabling engineers to quickly validate design, fit, and function before full-scale production. Modern shops use several methods under this umbrella. 3D printing, CNC machining, and sheet processes all fall into the rapid prototyp...... Mar 20, 2026 Manufacturing Solutions CNC Rapid Prototyping: Cost, Lead Time, Design Tips & Machining Service Oct 24, 2025 Manufacturing Solutions How is the Cost of CNC Machining Determined Dec 27, 2023 Manufacturing Solutions CNC machining solutions for DIY project designers Manufacturing Solutions The true cost of CNC machining services what are the main factors affecting price",
+      "after": "Featured Posts Manufacturing Solutions Rapid Prototyping Guide: Processes Compared and How to Choose the Right Method for Manufacturing What Is Rapid Prototyping (AI generated) Various rapid prototyping parts including 3D printed, CNC machined, and sheet metal components on a workshop table. Rapid prototyping is a manufacturing approach that produces physical parts directly from CAD data within hours or days, enabling engineers to quickly validate design, fit, and function before full-scale production. Modern shops use several methods under this umbrella. 3D printing, CNC machining, and sheet processes all fall into the rapid prototyp...... Mar 20, 2026 Manufacturing Solutions CNC Rapid Prototyping: Cost, Lead Time, Design Tips & Machining Service Oct 25, 2025 Manufacturing Solutions How is the Cost of CNC Machining Determined Dec 27, 2023 Manufacturing Solutions CNC machining solutions for DIY project designers Manufacturing Solutions The true cost of CNC machining services what are the main factors affecting price",
+      "added": [
+        "25,"
+      ],
+      "removed": [
+        "24,"
+      ],
+      "change_percent": 1.34,
+      "confidence": "high",
+      "published_at": "2026-03-20T00:00:00+00:00",
+      "first_seen_at": "2026-08-17T03:50:40+00:00",
+      "discovered_via": "sitemap"
+    },
+    {
+      "type": "section_copy_changed",
+      "priority": "low",
+      "competitor": "JLC CNC",
+      "url": "https://jlccnc.com/blog/category/manufacturing-solutions",
+      "category": "content",
+      "page_title": "Manufacturing Solutions | JLCCNC",
+      "summary": "板块文案更新：Featured Posts",
+      "details": [],
+      "before": "Featured Posts Manufacturing Solutions Rapid Prototyping Guide: Processes Compared and How to Choose the Right Method for Manufacturing What Is Rapid Prototyping (AI generated) Various rapid prototyping parts including 3D printed, CNC machined, and sheet metal components on a workshop table. Rapid prototyping is a manufacturing approach that produces physical parts directly from CAD data within hours or days, enabling engineers to quickly validate design, fit, and function before full-scale production. Modern shops use several methods under this umbrella. 3D printing, CNC machining, and sheet processes all fall into the rapid prototyp...... Mar 20, 2026 Manufacturing Solutions CNC Rapid Prototyping: Cost, Lead Time, Design Tips & Machining Service Oct 24, 2025 Manufacturing Solutions How is the Cost of CNC Machining Determined Dec 27, 2023 Manufacturing Solutions CNC machining solutions for DIY project designers Manufacturing Solutions The true cost of CNC machining services what are the main factors affecting price",
+      "after": "Featured Posts Manufacturing Solutions Rapid Prototyping Guide: Processes Compared and How to Choose the Right Method for Manufacturing What Is Rapid Prototyping (AI generated) Various rapid prototyping parts including 3D printed, CNC machined, and sheet metal components on a workshop table. Rapid prototyping is a manufacturing approach that produces physical parts directly from CAD data within hours or days, enabling engineers to quickly validate design, fit, and function before full-scale production. Modern shops use several methods under this umbrella. 3D printing, CNC machining, and sheet processes all fall into the rapid prototyp...... Mar 20, 2026 Manufacturing Solutions CNC Rapid Prototyping: Cost, Lead Time, Design Tips & Machining Service Oct 25, 2025 Manufacturing Solutions How is the Cost of CNC Machining Determined Dec 27, 2023 Manufacturing Solutions CNC machining solutions for DIY project designers Manufacturing Solutions The true cost of CNC machining services what are the main factors affecting price",
+      "added": [
+        "25,"
+      ],
+      "removed": [
+        "24,"
+      ],
+      "change_percent": 1.34,
+      "confidence": "high",
+      "published_at": "2026-03-20T00:00:00+00:00",
+      "first_seen_at": "2026-08-17T03:50:39+00:00",
+      "discovered_via": "sitemap"
+    },
+    {
+      "type": "section_copy_changed",
+      "priority": "low",
+      "competitor": "JLC CNC",
+      "url": "https://jlccnc.com/blog/cnc-machining-vs-3d-printing",
+      "category": "content",
+      "page_title": "Differences between CNC machining and 3D printing",
+      "summary": "板块文案更新：CNC Machining vs 3D Printing: Complementary Technologies for Prototyping",
+      "details": [],
+      "before": "CNC Machining vs 3D Printing: Complementary Technologies for Prototyping Published Oct 29, 2025, updated Dec 22, 2025 11 min Table of Contents Introduction: Multiple Options for Rapid Prototyping Part 1 - Core Advantages and Limitations of CNC Machining Part 2 - Unique Advantages and Challenges of 3D Printing Part 3 - Cost and Time Efficiency Analysis Part 4 - Design Strategies for Selecting the Right Process Part 5 - Industry Applications Part 6 - FAQ & Practical Solutions Part 7 - Advantages of Online Manufacturing Platforms Introduction: Multiple Options for Rapid Prototyping In today’s fast-paced product development environment, rapid prototyping is a critical part of the design cycle. Engineers and designers need to validate their ideas quickly, test functionality, and optimize designs before moving to full-scale production. Two of the most widely used technologies are CNC machining and 3D printing . Each technology has unique advantages, limitations, and optimal use cases. By understanding their differences, companies can adopt a hybrid prototyping strategy that combines the speed of 3D printing with the precision of CNC machining. JLCCNC and JLC3DP, part of the JLC, provide...",
+      "after": "CNC Machining vs 3D Printing: Complementary Technologies for Prototyping Published Oct 28, 2025, updated Dec 22, 2025 11 min Table of Contents Introduction: Multiple Options for Rapid Prototyping Part 1 - Core Advantages and Limitations of CNC Machining Part 2 - Unique Advantages and Challenges of 3D Printing Part 3 - Cost and Time Efficiency Analysis Part 4 - Design Strategies for Selecting the Right Process Part 5 - Industry Applications Part 6 - FAQ & Practical Solutions Part 7 - Advantages of Online Manufacturing Platforms Introduction: Multiple Options for Rapid Prototyping In today’s fast-paced product development environment, rapid prototyping is a critical part of the design cycle. Engineers and designers need to validate their ideas quickly, test functionality, and optimize designs before moving to full-scale production. Two of the most widely used technologies are CNC machining and 3D printing . Each technology has unique advantages, limitations, and optimal use cases. By understanding their differences, companies can adopt a hybrid prototyping strategy that combines the speed of 3D printing with the precision of CNC machining. JLCCNC and JLC3DP, part of the JLC, provide...",
+      "added": [
+        "28,"
+      ],
+      "removed": [
+        "29,"
+      ],
+      "change_percent": 1.09,
+      "confidence": "high",
+      "published_at": "2025-12-26T00:00:00+00:00",
+      "first_seen_at": "2026-08-17T03:50:59+00:00",
+      "discovered_via": "sitemap"
+    },
+    {
+      "type": "section_copy_changed",
+      "priority": "low",
+      "competitor": "JLC CNC",
+      "url": "https://jlccnc.com/blog/cnc-milling",
+      "category": "content",
+      "page_title": "What is CNC Milling? Process, Advantages, and Applications",
+      "summary": "板块文案更新：What is CNC Milling? Process, Advantages, and Applications",
+      "details": [],
+      "before": "What is CNC Milling? Process, Advantages, and Applications Published Oct 16, 2025, updated Oct 16, 2025 13 min Table of Contents What Is CNC Milling? Key Concepts and How It Works The CNC Milling Process: From CAD Model to a Finished Part Common Types of CNC Milling Exploring Essential Milling Techniques: Core CNC Milling Methods Advantages of CNC Milling: Why Choose This Manufacturing Process? Limitations of CNC Milling How Do You Get Outstanding CNC Milling Service in JLCCNC? FAQ Conclusion: Mastering the Basics of CNC Milling Operation CNC milling is motion, metal, and math working in a computerized rhythm. You start with a block of raw material, feed the machine a few lines of code, and let it carve reality from coordinates. That’s the beauty of it: absolute precision, repeatable down to microns, yet flexible enough to shape anything from aerospace brackets to tiny medical implants. Most engineers know the end result, a perfect part, but not always the mechanics behind it. What actually happens between the model on your screen and the part cooling on the table? This guide breaks that gap wide open. We’ll dig into how CNC milling works, what makes 3-axis and 5-axis setups diffe...",
+      "after": "What is CNC Milling? Process, Advantages, and Applications Published Oct 17, 2025, updated Oct 16, 2025 13 min Table of Contents What Is CNC Milling? Key Concepts and How It Works The CNC Milling Process: From CAD Model to a Finished Part Common Types of CNC Milling Exploring Essential Milling Techniques: Core CNC Milling Methods Advantages of CNC Milling: Why Choose This Manufacturing Process? Limitations of CNC Milling How Do You Get Outstanding CNC Milling Service in JLCCNC? FAQ Conclusion: Mastering the Basics of CNC Milling Operation CNC milling is motion, metal, and math working in a computerized rhythm. You start with a block of raw material, feed the machine a few lines of code, and let it carve reality from coordinates. That’s the beauty of it: absolute precision, repeatable down to microns, yet flexible enough to shape anything from aerospace brackets to tiny medical implants. Most engineers know the end result, a perfect part, but not always the mechanics behind it. What actually happens between the model on your screen and the part cooling on the table? This guide breaks that gap wide open. We’ll dig into how CNC milling works, what makes 3-axis and 5-axis setups diffe...",
+      "added": [
+        "17,"
+      ],
+      "removed": [
+        "16,"
+      ],
+      "change_percent": 1.01,
+      "confidence": "high",
+      "published_at": "2025-12-26T00:00:00+00:00",
+      "first_seen_at": "2026-08-17T03:50:58+00:00",
+      "discovered_via": "sitemap"
+    },
+    {
+      "type": "section_copy_changed",
+      "priority": "low",
+      "competitor": "JLC CNC",
+      "url": "https://jlccnc.com/blog/thread-milling-vs-tapping",
+      "category": "content",
+      "page_title": "Thread Milling vs. Tapping: What’s the Difference and When to Use Each?",
+      "summary": "板块文案更新：Thread Milling vs. Tapping: What’s the Difference and When to Use Each?",
+      "details": [],
+      "before": "Thread Milling vs. Tapping: What’s the Difference and When to Use Each? Published Jul 29, 2025, updated Jul 28, 2025 5 min Threading a hole sounds simple, until you’re deciding between thread milling and tapping . Both methods are staples in CNC machining and manual operations, but they serve different purposes, machines, and tolerances. Whether you're threading aluminum, stainless steel, or titanium, choosing the wrong method can mean broken tools, scrapped parts, or wasted hours. Let’s break down the real differences between thread milling vs tapping , when to use one over the other, and how to choose the right tool for your part. What is Tapping? Tapping is the traditional method of creating internal threads by driving a tap, a hardened cutting tool, into a pre-drilled hole. It’s fast, easy to set up, and widely used in manual and CNC operations. There are three common types of taps: ● Hand taps – used manually with a T-handle ● Spiral point taps – best for through holes ● Spiral flute taps – best for blind holes Taps are typically specific to one thread size and pitch, which makes them convenient but rigid in flexibility. What is Thread Milling? Thread milling , on the other h...",
+      "after": "Thread Milling vs. Tapping: What’s the Difference and When to Use Each? Published Jul 30, 2025, updated Jul 28, 2025 5 min Threading a hole sounds simple, until you’re deciding between thread milling and tapping . Both methods are staples in CNC machining and manual operations, but they serve different purposes, machines, and tolerances. Whether you're threading aluminum, stainless steel, or titanium, choosing the wrong method can mean broken tools, scrapped parts, or wasted hours. Let’s break down the real differences between thread milling vs tapping , when to use one over the other, and how to choose the right tool for your part. What is Tapping? Tapping is the traditional method of creating internal threads by driving a tap, a hardened cutting tool, into a pre-drilled hole. It’s fast, easy to set up, and widely used in manual and CNC operations. There are three common types of taps: ● Hand taps – used manually with a T-handle ● Spiral point taps – best for through holes ● Spiral flute taps – best for blind holes Taps are typically specific to one thread size and pitch, which makes them convenient but rigid in flexibility. What is Thread Milling? Thread milling , on the other h...",
+      "added": [
+        "30,"
+      ],
+      "removed": [
+        "29,"
+      ],
+      "change_percent": 0.98,
+      "confidence": "high",
+      "published_at": "2025-12-26T00:00:00+00:00",
+      "first_seen_at": "2026-08-17T03:50:55+00:00",
+      "discovered_via": "sitemap"
+    },
+    {
+      "type": "visual_changed",
+      "priority": "low",
+      "competitor": "SyBridge",
+      "url": "https://sybridge.com/injection-molding-defects",
+      "category": "page",
+      "page_title": "7‌ ‌Common‌ ‌Injection‌ ‌Molding‌ ‌Defects‌ ‌and‌ ‌How‌ ‌to‌ ‌Avoid‌ ‌Them‌ - SyBridge Technologies",
+      "summary": "mobile 视图出现明显 UI/布局变化",
+      "details": [
+        "视口：mobile",
+        "RMS 差异：39.48",
+        "变化像素占比：3.43%",
+        "页面截图高度变化：+70px"
+      ],
+      "before": null,
+      "after": null,
+      "added": [],
+      "removed": [],
+      "change_percent": 0.0,
+      "confidence": "high",
+      "published_at": "2024-01-18T16:41:00+00:00",
+      "first_seen_at": "2026-08-17T03:53:40+00:00",
+      "discovered_via": "feed"
+    }
+  ],
+  "errors": [
+    "Seed page failed: https://www.hubs.com/manufacturing-services (HTTP 404)",
+    "Hubs | https://www.hubs.com/manufacturing-services | HTTP 404",
+    "Hubs | https://www.hubs.com/knowledgebasearticle | HTTP 404",
+    "Hubs | https://www.hubs.com/articleblogarticle | HTTP 404",
+    "Hubs | https://www.hubs.com/knowledgebasecollection | HTTP 404",
+    "Xometry | https://investors.xometry.com/news-releases/news-release-details/xometry-foundation-announces-partnership-mxd-expand | HTTP 403",
+    "Xometry | https://investors.xometry.com/news-releases/news-release-details/xometry-releases-comprehensive-upgrades-its-ai-model | HTTP 403",
+    "Xometry | https://investors.xometry.com/news-releases/news-release-details/xometry-launches-foundation-committing-1-million-advance | HTTP 403",
+    "Xometry | https://investors.xometry.com/news-releases/news-release-details/xometry-appoints-lukas-biewald-its-board-directors | HTTP 403",
+    "Xometry | https://investors.xometry.com/news-releases/news-release-details/xometry-streamlines-data-center-supply-chain-offering-single | HTTP 403",
+    "Xometry | https://investors.xometry.com/news-releases/news-release-details/xometry-and-siemens-partner-embed-ai-native-supply-chain | HTTP 403",
+    "Xometry | https://investors.xometry.com/news-releases/news-release-details/xometry-deepens-ai-native-marketplace-advantage-new-enterprise | HTTP 403",
+    "Xometry | https://investors.xometry.com/news-releases/news-release-details/xometry-announces-ceo-succession-plan | HTTP 403",
+    "Xometry | https://investors.xometry.com/news-releases/news-release-details/aerospace-defense-leaders-prioritize-ai-enabled-sourcing | HTTP 403",
+    "Xometry | https://investors.xometry.com/news-releases/news-release-details/xometry-marketplace-accelerates-solutions-complex-manufacturing | HTTP 403",
+    "Seed page failed: https://www.fictiv.com/services (HTTP 404)",
+    "Fictiv | https://www.fictiv.com/services | HTTP 404",
+    "Seed page failed: https://jlccnc.com/surface-finishes (HTTP 404)",
+    "Seed page failed: https://www.pcbway.com/rapid-prototyping (HTTP 404)",
+    "PCBWay | https://www.pcbway.com/rapid-prototyping/cnc-machining | HTTP 404",
+    "PCBWay | https://www.pcbway.com/rapid-prototyping/3d-printing | HTTP 404",
+    "PCBWay | https://www.pcbway.com/rapid-prototyping/sheet-metal | HTTP 404",
+    "PCBWay | https://www.pcbway.com/rapid-prototyping/injection-molding | HTTP 404",
+    "Seed page failed: https://www.emachineshop.com/services (HTTP 404)",
+    "eMachineShop | https://www.emachineshop.com/services | HTTP 404",
+    "Seed page failed: https://www.cnclathing.com/blog (HTTP 404)",
+    "CNCLATHING | https://www.cnclathing.com/blog | HTTP 404"
+  ],
+  "discovery": [
+    {
+      "competitor": "Hubs",
+      "base_url": "https://www.hubs.com/",
+      "tracked_urls": 120,
+      "source_counts": {
+        "priority": 7,
+        "feed": 0,
+        "sitemap": 2873,
+        "links": 296
+      }
+    },
+    {
+      "competitor": "Xometry",
+      "base_url": "https://www.xometry.com/",
+      "tracked_urls": 120,
+      "source_counts": {
+        "priority": 6,
+        "feed": 100,
+        "sitemap": 0,
+        "links": 211
+      }
+    },
+    {
+      "competitor": "Fictiv",
+      "base_url": "https://www.fictiv.com/",
+      "tracked_urls": 120,
+      "source_counts": {
+        "priority": 6,
+        "feed": 30,
+        "sitemap": 1145,
+        "links": 131
+      }
+    },
+    {
+      "competitor": "Protolabs",
+      "base_url": "https://www.protolabs.com/",
+      "tracked_urls": 120,
+      "source_counts": {
+        "priority": 6,
+        "feed": 0,
+        "sitemap": 708,
+        "links": 141
+      }
+    },
+    {
+      "competitor": "JLC CNC",
+      "base_url": "https://jlccnc.com/",
+      "tracked_urls": 120,
+      "source_counts": {
+        "priority": 5,
+        "feed": 0,
+        "sitemap": 1036,
+        "links": 88
+      }
+    },
+    {
+      "competitor": "PCBWay",
+      "base_url": "https://www.pcbway.com/",
+      "tracked_urls": 109,
+      "source_counts": {
+        "priority": 3,
+        "feed": 0,
+        "sitemap": 0,
+        "links": 109
+      }
+    },
+    {
+      "competitor": "eMachineShop",
+      "base_url": "https://www.emachineshop.com/",
+      "tracked_urls": 47,
+      "source_counts": {
+        "priority": 4,
+        "feed": 7,
+        "sitemap": 40,
+        "links": 16
+      }
+    },
+    {
+      "competitor": "SyBridge",
+      "base_url": "https://sybridge.com/",
+      "tracked_urls": 69,
+      "source_counts": {
+        "priority": 4,
+        "feed": 2,
+        "sitemap": 61,
+        "links": 21
+      }
+    },
+    {
+      "competitor": "CNCLATHING",
+      "base_url": "https://www.cnclathing.com/",
+      "tracked_urls": 120,
+      "source_counts": {
+        "priority": 4,
+        "feed": 0,
+        "sitemap": 732,
+        "links": 86
+      }
+    }
+  ],
+  "email": {
+    "text": "竞品追踪日报 · 2026-09-13\n\n今日概览：共检测到 33 项记录。 页面变化 20 项。 另有 13 项低优先级变化已折叠。 变化较多：Hubs, JLC CNC, SyBridge。\n\n【定价 & 首页变化】\n· PCBWay | China PCB Prototype & Fabrication Manufacturer - PCB Protot...\n  - 板块文案更新：Affordable Prototype PCB Manufacturer in China；新增：85623 / 966 / 09-13；删除：87084 / 1566 / 09-12；变更范围约 125.8%\n  https://www.pcbway.com/\n\n【SEO 变化】\n· Hubs | Online CNC Machining Service : Custom part production\n  - H1 标题发生变化；新增：Online；删除：online；变更范围约 50.0%\n  https://www.hubs.com/cnc-machining\n\n【文案 & 结构】\n· Hubs | Online CNC Machining Service : Custom part production\n  - 页面标题结构发生变化；新增：H1 Online CNC machining service / H2 Auto-quoted prices without surprises / H2 Order custom parts through a vetted global network of machine shops；删除：H1 CNC machining service online\n  - CTA发生变化；新增：Get an instant quote -> https://www.hubs.com/manufacture?technology=cnc-machining；删除：Get instant CNC machining quote -> https://www.hubs.com/manufacture?technology=cnc-machining\n  - 新增板块：Online CNC machining service；新增：Online CNC machining service For rapid prototyping and production parts — get a quote in seconds and receive custom machined parts in days. Get an instant quote All uploads are se...\n  - 新增板块：Order custom parts through a vetted global network of machine shops；新增：Order custom parts through a vetted global network of machine shops Upload CAD files Catch machinability issues instantly with our free DfM tool, and see live prices for every par...\n  - 新增板块：Upload CAD files；新增：Upload CAD files Catch machinability issues instantly with our free DfM tool, and see live prices for every part.\n  - 新增板块：Configure and place your order；新增：Configure and place your order Set materials, finishes and lead times per part. We automatically match your order to the best-suited partner in our network.\n  - 新增板块：Receive parts to spec；新增：Receive parts to spec Every part gets a full visual and dimensional inspection, and global orders get a second review at our cross-docks.\n  - 新增板块：Auto-quoted prices without surprises；新增：Auto-quoted prices without surprises We handle taxes, duties and customs clearance—the price you see is final. Get an instant quote\n  - 删除板块：CNC machining service online；删除：CNC machining service online On-demand CNC machining service for rapid prototyping and production parts, through a network of specialized, experienced and thoroughly vetted local...\n  - 删除板块：14 proven design tips to reduce the cost of CNC machining；删除：14 proven design tips to reduce the cost of CNC machining Read article 14 proven design tips to reduce the cost of CNC machining Read article\n  https://www.hubs.com/cnc-machining\n\n【UI 布局变化】\n· Protolabs | Online CNC Machining Service | Get a Quote\n  - Online CNC Machining Service | Get a Quote mobile 端页面布局有明显变化（建议打开链接目视确认）\n  https://www.protolabs.com/services/cnc-machining\n· SyBridge | SyBridge Technologies | Full-Lifecycle Injection Mold Tooli...\n  - SyBridge Technologies | Full-Lifecycle Injection Mold Tooli... desktop 端页面布局有明显变化（建议打开链接目视确认）\n  https://sybridge.com/\n· SyBridge | Optimizing Your Injection Molding Process for Cost-Effectiv...\n  - Optimizing Your Injection Molding Process for Cost-Effectiv... mobile 端页面布局有明显变化（建议打开链接目视确认）\n  https://sybridge.com/optimizing-your-injection-molding-process\n· CNCLATHING | China Top CNC Machining Service OEM Supplier & Manufacturer...\n  - China Top CNC Machining Service OEM Supplier & Manufacturer... desktop 端页面布局有明显变化（建议打开链接目视确认）\n  https://www.cnclathing.com/\n· Fictiv | Fictiv: Sourcing Simplified for Custom Manufacturing Servic...\n  - Fictiv: Sourcing Simplified for Custom Manufacturing Servic... desktop 端页面布局有明显变化（建议打开链接目视确认）\n  https://www.fictiv.com/\n· Hubs | Online CNC Machining Service : Custom part production\n  - Online CNC Machining Service : Custom part production desktop 端页面布局有明显变化（建议打开链接目视确认）\n  - Online CNC Machining Service : Custom part production mobile 端页面布局有明显变化（建议打开链接目视确认）\n  https://www.hubs.com/cnc-machining\n· JLC CNC | Online CNC Machining Service - JLCCNC\n  - Online CNC Machining Service - JLCCNC desktop 端页面布局有明显变化（建议打开链接目视确认）\n  https://jlccnc.com/\n\n已折叠不展示：删除板块 4 项, UI 布局 2 项, 正文微调 1 项, 板块文案 6 项。完整列表见 reports/ 目录。\n\n抓取提醒：\n- Seed page failed: https://www.hubs.com/manufacturing-services (HTTP 404)\n- Hubs | https://www.hubs.com/manufacturing-services | HTTP 404\n- Hubs | https://www.hubs.com/knowledgebasearticle | HTTP 404\n- Hubs | https://www.hubs.com/articleblogarticle | HTTP 404\n- Hubs | https://www.hubs.com/knowledgebasecollection | HTTP 404\n- Xometry | https://investors.xometry.com/news-releases/news-release-details/xometry-foundation-announces-partnership-mxd-expand | HTTP 403\n- Xometry | https://investors.xometry.com/news-releases/news-release-details/xometry-releases-comprehensive-upgrades-its-ai-model | HTTP 403\n- Xometry | https://investors.xometry.com/news-releases/news-release-details/xometry-launches-foundation-committing-1-million-advance | HTTP 403\n- Xometry | https://investors.xometry.com/news-releases/news-release-details/xometry-appoints-lukas-biewald-its-board-directors | HTTP 403\n- Xometry | https://investors.xometry.com/news-releases/news-release-details/xometry-streamlines-data-center-supply-chain-offering-single | HTTP 403\n\n完整明细见仓库 reports/ 目录中的 HTML 报告。",
+    "html": "<!doctype html>\n<html lang=\"zh-CN\">\n<head>\n  <meta charset=\"utf-8\">\n  <meta name=\"viewport\" content=\"width=device-width, initial-scale=1\">\n  <title>竞品追踪日报 · 2026-09-13</title>\n  <style>\n    body { margin: 0; padding: 24px; font-family: Arial, 'Microsoft YaHei', sans-serif; color: #1a1a1a; background: #f4f5f7; line-height: 1.5; }\n    h1 { font-size: 22px; margin: 0 0 6px; }\n    h2 { font-size: 16px; margin: 24px 0 10px; color: #333; }\n    section { margin: 16px 0; }\n    table { width: 100%; border-collapse: collapse; background: #fff; border: 1px solid #e2e6ea; }\n    th, td { padding: 10px 12px; border-bottom: 1px solid #edf0f3; text-align: left; font-size: 13px; vertical-align: top; }\n    th { background: #f8f9fb; color: #555; font-weight: 600; }\n    tr:last-child td { border-bottom: none; }\n    a { color: #1565c0; text-decoration: none; }\n    .muted { color: #666; font-size: 13px; }\n    .summary { background: #fff; border: 1px solid #e2e6ea; padding: 14px 16px; border-radius: 4px; }\n    .summary-table td:first-child { width: 110px; color: #666; }\n    .summary-table td { border: none; padding: 4px 8px 4px 0; }\n    .changes { color: #222; }\n    .change-block { margin-bottom: 8px; }\n    .change-block:last-child { margin-bottom: 0; }\n    .diff-added { margin-top: 5px; padding: 5px 7px; color: #067647; background: #ecfdf3; border-left: 3px solid #12b76a; }\n    .diff-removed { margin-top: 5px; padding: 5px 7px; color: #b42318; background: #fef3f2; border-left: 3px solid #f04438; }\n    .timing { margin-top: 5px; color: #667085; font-size: 12px; }\n    .badge { display: inline-block; border-radius: 3px; padding: 2px 6px; font-size: 11px; font-weight: 600; text-transform: uppercase; }\n    .badge.high { background: #fde8e8; color: #b42318; }\n    .badge.medium { background: #fff4e5; color: #b54708; }\n    .badge.low { background: #eef4ff; color: #175cd3; }\n    .folded { background: #fafafa; border-left: 3px solid #d0d5dd; padding: 10px 14px; }\n    .footer { margin-top: 20px; font-size: 12px; color: #888; }\n    code { background: #f0f0f0; padding: 1px 4px; border-radius: 3px; }\n    ul { margin: 8px 0 0 18px; padding: 0; }\n  </style>\n</head>\n<body>\n<h1>竞品追踪日报</h1><p class='muted'>2026-09-13</p>\n<section class='summary'><p><strong>今日共检测到 33 项记录。</strong></p><table class='summary-table'><tbody><tr><td>近期新发布内容</td><td><strong>0</strong> 篇</td></tr><tr><td>历史内容补录</td><td>0 篇（不计入今日新闻）</td></tr><tr><td>监控异常</td><td><strong>0</strong> 项</td></tr><tr><td>新增其他页面</td><td><strong>0</strong> 个</td></tr><tr><td>内容页更新</td><td><strong>0</strong> 篇</td></tr><tr><td>页面变化</td><td><strong>20</strong> 项</td></tr><tr><td>已折叠</td><td>13 项</td></tr><tr><td>变化较多</td><td>Hubs, JLC CNC, SyBridge</td></tr></tbody></table></section>\n<section><h2>定价 &amp; 首页变化</h2><table><thead><tr><th>竞品</th><th>页面</th><th>具体改了什么</th></tr></thead><tbody><tr><td><span class='badge medium'>medium</span> PCBWay</td><td>China PCB Prototype &amp; Fabrication Manufacturer - PCB Protot...<br><a href='https://www.pcbway.com/'>pcbway.com/</a></td><td class='changes'><div class='change-block'><strong>板块文案更新：Affordable Prototype PCB Manufacturer in China</strong><div class='diff-added'>＋ 85623</div><div class='diff-added'>＋ 966</div><div class='diff-added'>＋ 09-13</div><div class='diff-removed'>－ 87084</div><div class='diff-removed'>－ 1566</div><div class='diff-removed'>－ 09-12</div><span class='muted'>变更范围约 125.8%</span></div></td></tr></tbody></table></section>\n<section><h2>SEO 变化</h2><table><thead><tr><th>竞品</th><th>页面</th><th>具体改了什么</th></tr></thead><tbody><tr><td><span class='badge medium'>medium</span> Hubs</td><td>Online CNC Machining Service : Custom part production<br><a href='https://www.hubs.com/cnc-machining'>hubs.com/cnc-machining</a></td><td class='changes'><div class='change-block'><strong>H1 标题发生变化</strong><div class='diff-added'>＋ Online</div><div class='diff-removed'>－ online</div><span class='muted'>变更范围约 50.0%</span></div></td></tr></tbody></table></section>\n<section><h2>文案 &amp; 结构</h2><table><thead><tr><th>竞品</th><th>页面</th><th>具体改了什么</th></tr></thead><tbody><tr><td><span class='badge medium'>medium</span> Hubs</td><td>Online CNC Machining Service : Custom part production<br><a href='https://www.hubs.com/cnc-machining'>hubs.com/cnc-machining</a></td><td class='changes'><div class='change-block'><strong>页面标题结构发生变化</strong><div class='diff-added'>＋ H1 Online CNC machining service</div><div class='diff-added'>＋ H2 Auto-quoted prices without surprises</div><div class='diff-added'>＋ H2 Order custom parts through a vetted global network of machine shops</div><div class='diff-removed'>－ H1 CNC machining service online</div></div><div class='change-block'><strong>CTA发生变化</strong><div class='diff-added'>＋ Get an instant quote -&gt; https://www.hubs.com/manufacture?technology=cnc-machining</div><div class='diff-removed'>－ Get instant CNC machining quote -&gt; https://www.hubs.com/manufacture?technology=cnc-machining</div></div><div class='change-block'><strong>新增板块：Online CNC machining service</strong><div class='diff-added'>＋ Online CNC machining service For rapid prototyping and production parts — get a quote in seconds and receive custom machined parts in days. Get an instant quote All uploads are secure and confidential</div></div><div class='change-block'><strong>新增板块：Order custom parts through a vetted global network of machine shops</strong><div class='diff-added'>＋ Order custom parts through a vetted global network of machine shops Upload CAD files Catch machinability issues instantly with our free DfM tool, and see live prices for every part. Configure and place your order Set materials, finishes an...</div></div><div class='change-block'><strong>新增板块：Upload CAD files</strong><div class='diff-added'>＋ Upload CAD files Catch machinability issues instantly with our free DfM tool, and see live prices for every part.</div></div><div class='change-block'><strong>新增板块：Configure and place your order</strong><div class='diff-added'>＋ Configure and place your order Set materials, finishes and lead times per part. We automatically match your order to the best-suited partner in our network.</div></div><div class='change-block'><strong>新增板块：Receive parts to spec</strong><div class='diff-added'>＋ Receive parts to spec Every part gets a full visual and dimensional inspection, and global orders get a second review at our cross-docks.</div></div><div class='change-block'><strong>新增板块：Auto-quoted prices without surprises</strong><div class='diff-added'>＋ Auto-quoted prices without surprises We handle taxes, duties and customs clearance—the price you see is final. Get an instant quote</div></div><div class='change-block'><strong>删除板块：CNC machining service online</strong><div class='diff-removed'>－ CNC machining service online On-demand CNC machining service for rapid prototyping and production parts, through a network of specialized, experienced and thoroughly vetted local and global CNC machine shops. Get instant CNC machining quot...</div></div><div class='change-block'><strong>删除板块：14 proven design tips to reduce the cost of CNC machining</strong><div class='diff-removed'>－ 14 proven design tips to reduce the cost of CNC machining Read article 14 proven design tips to reduce the cost of CNC machining Read article</div></div></td></tr></tbody></table></section>\n<section><h2>UI 布局变化</h2><table><thead><tr><th>竞品</th><th>页面</th><th>具体改了什么</th></tr></thead><tbody><tr><td><span class='badge high'>high</span> Protolabs</td><td>Online CNC Machining Service | Get a Quote<br><a href='https://www.protolabs.com/services/cnc-machining'>protolabs.com/services/cnc-machining</a></td><td class='changes'><div class='change-block'><strong>mobile 视图出现明显 UI/布局变化</strong>Online CNC Machining Service | Get a Quote mobile 端页面布局有明显变化（建议打开链接目视确认）</div></td></tr><tr><td><span class='badge high'>high</span> SyBridge</td><td>SyBridge Technologies | Full-Lifecycle Injection Mold Tooli...<br><a href='https://sybridge.com/'>sybridge.com/</a></td><td class='changes'><div class='change-block'><strong>desktop 视图出现明显 UI/布局变化</strong>SyBridge Technologies | Full-Lifecycle Injection Mold Tooli... desktop 端页面布局有明显变化（建议打开链接目视确认）</div></td></tr><tr><td><span class='badge high'>high</span> SyBridge</td><td>Optimizing Your Injection Molding Process for Cost-Effectiv...<br><a href='https://sybridge.com/optimizing-your-injection-molding-process'>sybridge.com/optimizing-your-injection-molding-process</a></td><td class='changes'><div class='change-block'><strong>mobile 视图出现明显 UI/布局变化</strong>Optimizing Your Injection Molding Process for Cost-Effectiv... mobile 端页面布局有明显变化（建议打开链接目视确认）</div></td></tr><tr><td><span class='badge medium'>medium</span> CNCLATHING</td><td>China Top CNC Machining Service OEM Supplier &amp; Manufacturer...<br><a href='https://www.cnclathing.com/'>cnclathing.com/</a></td><td class='changes'><div class='change-block'><strong>desktop 视图出现明显 UI/布局变化</strong>China Top CNC Machining Service OEM Supplier &amp; Manufacturer... desktop 端页面布局有明显变化（建议打开链接目视确认）</div></td></tr><tr><td><span class='badge medium'>medium</span> Fictiv</td><td>Fictiv: Sourcing Simplified for Custom Manufacturing Servic...<br><a href='https://www.fictiv.com/'>fictiv.com/</a></td><td class='changes'><div class='change-block'><strong>desktop 视图出现明显 UI/布局变化</strong>Fictiv: Sourcing Simplified for Custom Manufacturing Servic... desktop 端页面布局有明显变化（建议打开链接目视确认）</div></td></tr><tr><td><span class='badge medium'>medium</span> Hubs</td><td>Online CNC Machining Service : Custom part production<br><a href='https://www.hubs.com/cnc-machining'>hubs.com/cnc-machining</a></td><td class='changes'><div class='change-block'><strong>desktop 视图出现明显 UI/布局变化</strong>Online CNC Machining Service : Custom part production desktop 端页面布局有明显变化（建议打开链接目视确认）</div><div class='change-block'><strong>mobile 视图出现明显 UI/布局变化</strong>Online CNC Machining Service : Custom part production mobile 端页面布局有明显变化（建议打开链接目视确认）</div></td></tr><tr><td><span class='badge medium'>medium</span> JLC CNC</td><td>Online CNC Machining Service - JLCCNC<br><a href='https://jlccnc.com/'>jlccnc.com/</a></td><td class='changes'><div class='change-block'><strong>desktop 视图出现明显 UI/布局变化</strong>Online CNC Machining Service - JLCCNC desktop 端页面布局有明显变化（建议打开链接目视确认）</div></td></tr></tbody></table></section>\n<section class='folded'><p class='muted'>另有 <strong>13</strong> 项低优先级变化未在邮件中展开：删除板块 4 项, UI 布局 2 项, 正文微调 1 项, 板块文案 6 项。完整明细见仓库 reports/ 目录。</p></section>\n<section><h2>抓取提醒</h2><ul><li>Seed page failed: https://www.hubs.com/manufacturing-services (HTTP 404)</li><li>Hubs | https://www.hubs.com/manufacturing-services | HTTP 404</li><li>Hubs | https://www.hubs.com/knowledgebasearticle | HTTP 404</li><li>Hubs | https://www.hubs.com/articleblogarticle | HTTP 404</li><li>Hubs | https://www.hubs.com/knowledgebasecollection | HTTP 404</li><li>Xometry | https://investors.xometry.com/news-releases/news-release-details/xometry-foundation-announces-partnership-mxd-expand | HTTP 403</li><li>Xometry | https://investors.xometry.com/news-releases/news-release-details/xometry-releases-comprehensive-upgrades-its-ai-model | HTTP 403</li><li>Xometry | https://investors.xometry.com/news-releases/news-release-details/xometry-launches-foundation-committing-1-million-advance | HTTP 403</li><li>Xometry | https://investors.xometry.com/news-releases/news-release-details/xometry-appoints-lukas-biewald-its-board-directors | HTTP 403</li><li>Xometry | https://investors.xometry.com/news-releases/news-release-details/xometry-streamlines-data-center-supply-chain-offering-single | HTTP 403</li></ul></section>\n<p class='footer'>完整明细已保存到仓库 <code>reports/</code> 目录，可在 GitHub 上打开 HTML 文件查看全部变化。</p>\n</body></html>"
+  },
+  "run_id": "20260913T060401Z",
+  "baseline_run": false,
+  "upgrade_run": false,
+  "email_status": "Email sent with Resend."
+}
