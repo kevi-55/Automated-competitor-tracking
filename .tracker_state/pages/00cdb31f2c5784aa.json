@@ -41,7 +41,7 @@
     }
   ],
   "discovered_via": "links",
-  "fetched_at": "2026-09-12T05:53:31+00:00",
+  "fetched_at": "2026-09-14T06:22:05+00:00",
   "final_url": "https://www.pcbway.com/blog/Sheet-Cutting/Sheet_Cutting_Design_Guidelines_b0e8981b.html",
   "first_seen_at": "2026-09-11T06:04:43+00:00",
   "h1": "Sheet Metal Cutting Design Guidelines",
@@ -231,6 +231,10 @@
     {
       "alt": "",
       "src": "https://pcb-files.s3.us-west-2.amazonaws.com/web/26/09/07/104856958a01932e2b0f641e48ee45e47f7affdec5554t.png"
+    },
+    {
+      "alt": "",
+      "src": "https://pcb-files.s3.us-west-2.amazonaws.com/web/26/09/14/13461819593e0a39aeb3c4835a22142b3241142be0086t.png"
     },
     {
       "alt": "",
@@ -429,10 +433,10 @@
       "text": "STEP Export Verification Ensure the single sheet-metal body is selected before exporting. A file reading as 0″ × 0″ upon upload indicates an unselected body or missing solid geometry."
     },
     {
-      "hash": "76e454946b7070d38e0c4e8582ed7012c54b2acc",
+      "hash": "5fa1ca1ee1bac09db6d189486bea92110894bc54",
       "heading": "Bending Geometric Guardrails (Keepout Zones)",
       "level": "h3",
-      "text": "Bending Geometric Guardrails (Keepout Zones) Placing holes or small features too close to a bend line will cause material stretching and feature distortion during die press braking. Follow these minimum spacing requirements: Hole-to-Bend Line Minimum Distance: Minimum Clearance= (2 × Material Thickness) + Bend Radius (Holes placed closer than this limit will deform into ovals during bending.) Minimum Flange Height (Bend Leg Length): Minimum Flange Length= 4 × Material Thickness (Flanges shorter than this limit cannot sit stably across the lower press brake die during forming.) Cutout Relief at Bends:"
+      "text": "Bending Geometric Guardrails (Keepout Zones) Placing holes or small features too close to a bend line will cause material stretching and feature distortion during die press braking. Follow these minimum spacing requirements: Hole-to-Bend Line Minimum Distance: Minimum Clearance= (2 × Material Thickness) + Bend Radius (Holes placed closer than this limit will deform into ovals during bending.) Minimum Flange Height (Bend Leg Length): Minimum Flange Length= 4 × Material Thickness (Flanges shorter than this limit cannot sit stably across the lower press brake die during forming.)"
     },
     {
       "hash": "37cc52aeeec30f000cd92d1c84864a6f7611a3f4",
@@ -449,7 +453,7 @@
   ],
   "sitemap_lastmod": "",
   "status": 200,
-  "structure_hash": "1b5b36771930affb97e2b4dd9ae4c73dae588e32",
+  "structure_hash": "a5e03d15075da46aa0befcb95d0ba2ad400f7b71",
   "text_excerpt": "PCBWay Community Search title or content Search PCBWay PCB Instant Quote CNC | 3D Printing Login Sign Up More Notifications No notifications. My Profile My projects My Likes My Deals My Goods for Bazaar Settings Sign Out Projects Categories DIY Electronics Arduino Hardware Audio Computers & USB Breakout Board Projects Home Automation LED Displays & Matrices IoT Robotics View all categories By Source Files Onju Voice - AI assistant replacement to Google Nest Mini by @justLV LogicAnalyzer V6.0 DIY 1kW Open Source MPPT Solar Charge Controller Tad Boy Color SummerCart64 - a fully open source N64 flashcart kv4p HT v1.7b QuinLED-Dig-Uno Arduino RC engine sound & light controller with inertia simulation for ESP32 Bike Fingerprint - PCB Solar Powered WiFi Weather Station V2.0 Frog Boy Color RIP-Felix PS3 Tantalizer View all source files projects Featured Projects Onju Voice - AI assistant replacement to Google Nest Mini by @justLV LogicAnalyzer V6.0 DIY 1kW Open Source MPPT Solar Charge Controller Featured Source Files Video View all projects Questions Sponsorships PCBWay Future Innovators Program Feedback Blog Store PCB Design Contest - 9th Project Design Contest - 2026 KiCad PCB Design...",
   "text_hash": "b5586b64e619904d6b0b5911f22a47aa90ff6aab",
   "title": "Sheet Metal Cutting Design Guidelines - Sheet Cutting - PCBway",
