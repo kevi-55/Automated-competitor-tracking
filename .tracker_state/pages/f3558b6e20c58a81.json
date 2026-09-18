@@ -1,0 +1,116 @@
+{
+  "canonical": "https://www.protolabs.com/resources/blog/threading-and-inserts-for-3d-printing",
+  "category": "content",
+  "competitor": "Protolabs",
+  "ctas": [],
+  "discovered_via": "sitemap",
+  "fetched_at": "2026-09-18T05:58:51+00:00",
+  "final_url": "https://www.protolabs.com/resources/blog/threading-and-inserts-for-3d-printing",
+  "first_seen_at": "2026-09-18T05:58:51+00:00",
+  "h1": "Threading in 3D Printing: Heat Set and Press Fit Inserts, Tapping",
+  "headings": [
+    {
+      "level": "h1",
+      "text": "Threading in 3D Printing: Heat Set and Press Fit Inserts, Tapping"
+    },
+    {
+      "level": "h2",
+      "text": "Adding Threads to Plastic Printed Parts"
+    },
+    {
+      "level": "h3",
+      "text": "Available Tap Sizes"
+    },
+    {
+      "level": "h3",
+      "text": "Available Insert Sizes"
+    },
+    {
+      "level": "h2",
+      "text": "Adding Threads to Metal 3D-Printed Parts"
+    },
+    {
+      "level": "h2",
+      "text": "Special Request Inserts and More"
+    },
+    {
+      "level": "h2",
+      "text": "Final Thoughts"
+    }
+  ],
+  "images": [
+    {
+      "alt": "",
+      "src": "/images/Protolabs-mark-dark.jpg"
+    },
+    {
+      "alt": "Example highlighting the difference in threading options",
+      "src": "/media/acodwcd5/blog-threading-_-inserts-3dp_additional-example.jpg"
+    },
+    {
+      "alt": "Example of brass inserts in a plastic part",
+      "src": "/media/5znnax05/threading-and-insets_3dp_no-tint-01-1.jpg"
+    },
+    {
+      "alt": "Adding threads to DMLS 3D-printed parts",
+      "src": "/media/grchbhwm/threading-and-insets_3dp_no-tint-02-1.jpg"
+    }
+  ],
+  "meta_description": "There’s one fundamental thing you need to know about threading and assembling inserts into 3D-printed parts: What you can and can’t manufacture depends on the material properties of both the part and the insert. Second, it pays to design for standard taps and inserts whenever possible.",
+  "modified_at": "",
+  "monitored_text": "Tech Tips October 29, 2024 Threading in 3D Printing: Heat Set and Press Fit Inserts, Tapping By Protolabs Engineers often have questions about the best way to add threaded features to their CAD models for 3D-printed parts. That's no surprise as additive manufacturing technologies are increasingly being used for both prototyping and end-use production. Threads can be tricky to print for a few reasons. Threads with tapered edges will lose material once they get thinner than the minimum feature size for the selected material and technology. In some cases, this means that the threads won’t print at all. In other cases, the minor diameter enlarges, and the threads won’t engage well. Technologies like selective laser sintering (SLS) and direct metal laser sintering (DMLS) can also leave a rougher surface finish, which impedes thread function. In summary, the success of as-printed threads (those that are created during the printing process) will vary greatly depending on the chosen printing technology, material, and thread size. With that, we don’t recommend as-printed threads if functionality is critical. But all is not lost! There are several ways you can get functional threads on your printed parts. Adding Threads to Plastic Printed Parts For plastic parts, we offer hand-tapping post-build and threaded inserts. If you intend to have threads added post-build, make sure any threads or inserts have been removed from the CAD model. We recommend inserts over tapping for threaded holes on printed plastic parts. Our standard inserts are brass, and may be either heat staked or press fit with epoxy depending on the base material. If you require non-standard inserts or a mix of taps and inserts please pick 'Custom' and upload a drawing identifying the thread type and location. Taps and Inserts Plastic parts can be hand-tapped after printing. For a stronger thread, threaded inserts are recommended. Protolabs has taps and inserts available for a wide range of common threads, both standard and metric. For stereolithography (SLA), screw-to-expand inserts held in place with epoxy are used. Since SLA materials are sensitive to heat, heat stake inserts should be avoided. Tapered heat stake inserts can be used for selective last sintering (SLS) and MultiJet Fusion (MJF). These inserts, often made of brass, are heated with a soldering iron and pressed into the part. The locally melted plastic flows around the insert to provide a robust grip around the insert once it cools. Available Tap Sizes Tap Sizes for SLS & MJF Tap Sizes for SLA chevron_left chevron_right Standard Metric 2-56 M2 x 0.4 4-40 M2.5 x 0.45 6-32 M3 x 0.5 8-32 M3.5 x 0.06 10-24 M4 x 0.7 10-32 M5 x 0.8 1/8-27 M6 x 1.0 1/4-20 M8 x 1.0 1/4-28 M8 x 1.25 5/16-18 M10 x 1.0 Standard Metric NPT 0 - 80 M1.0 x .25 1/16-27 1 - 64 M1.2 x .25 1/8-27 1 - 72 M1.4 x .3 1/4-18 2 - 56 M1.6 x .35 1/2 3 - 48 M2 x 0.4 3/8-18 3 - 56 M2.5 x 0.45 3/4-14 4 - 40 M3 x 0.5 4 - 48 M4 x 0.7 5 - 40 M5 x 0.8 6 - 32 M6 x 1.0 6 - 40 M8 x 1.0 8 - 32 M8 x 1.25 8 - 36 M10 x 1.5 10 - 24 M12 x 1.75 10 - 28 M14 x 1.0 10 - 32 M14 x 1.5 12 - 24 M16 x 1.5 1/4 - 20 M18 x 1.0 1/4 - 28 M20 x 1.5 5/16 - 18 5/16 - 24 3/8 - 16 3/8 - 18 3/8 - 24 7/16 - 20 7/16 - 14 1/2 - 12 1/2 - 20 9/16 - 18 5/8 - 18 3/4 - 16 15/16 - 16 Available Insert Sizes Inserts for SLS & MJF Parts Inserts for SLA Parts chevron_left chevron_right Standard Metric 0 - 80 M1.6 x 0.35 2 - 56 M2 x 0.4 4 - 40 M2.5 x 0.45 6 - 32 M3 x 0.5 8 - 32 M4 x 0.7 10 - 24 M5 x 0.8 10 - 32 M6 x 1.0 1/4 - 20 M8 x 1.25 Standard Metric 0 - 80 M1.4 x 0.3 2 - 56 M1.6 x 0.35 4 - 40 M2 x 0.4 6 - 32 M2.5 x 0.45 8 - 32 M3 x 0.5 10 - 24 M3.5 x 0.6 10 - 32 M4 x 0.7 1/4 - 20 M5 x 0.8 5/16 - 18 M6 x 1.0 3/8 - 16 M8 x 1.25 As-Printed Threads While not recommended or guaranteed to function, as-printed threads will sometimes work out. If you are printing threads into the part, the bigger the thread the better. Make sure to check on the minimum feature size of the material and technology you choose. Any areas of the thread that taper below this minimum size will not form. Although the functionality of as-printed threads is not guaranteed, the threads may work as intended if you're taking minimum feature size into consideration. Here is an actual part highlighting the differences in precision you can expect with a printed, chased, and tapped thread. Advantages of Chasing or Tapping for Metal Parts Chasing Threads Tapping Threads Faster Lead Time ✔ Economical Pricing ✔ Functional Prototype ✔ Precision Part ✔ Design Considerations We will make sure that holes on your part are correctly sized for the tap or insert requested before building—no need to size them perfectly beforehand. For both taps and inserts, make sure no features block access to the hold being threaded. With inserts, the diameter of the insert is larger than the diameter of the thread. Holes getting inserts should have plenty of room around them so that once the hole is sized for the insert, the walls around the insert are still thick enough to form. For SLS and MJF, specifically, you need to consider the geometry surrounding the hole receiving the insert. Heat stake inserts are installed using a soldering iron, which heats the insert and the plastic around it. The insert is pressed into the softened plastic until it is flush with the surrounding surface. A soldering iron is often used to perfect the alignment of the insert after it's pressed into the part. Because of the heat and maneuvering room to ensure proper alignment, plenty of room between the insert and adjacent features is necessary so that nothing gets melted accidentally in the process. Brass heat-set inserts are possible for components built with SLS or MJF. In a perfect world, there would be 0.25 in. (6.35mm) of space around an insert if it is surrounded by features on all sides. However, if the insert is near a wall—but otherwise has no nearby features—the wall can be a bit closer because plenty of space is available in all other directions to install the insert without risking damage to the wall. How to Request For plastic parts, taps and inserts fall under our Standard Finishing option. In the Special Instructions , let us know you'd like taps/inserts and attach an image showing which holes need threads. Remember to include the thread size. This can be a formal drawing, or a quick markup of a screen shot. If we're threading through-holes, let us know the direction in which we should tap or install the inserts. By default, we install inserts flush with the surrounding surface, but if you need them sub-flush, please let us know. Once everything is ready, click Request for Quote to send the quote to our analyst team. After submission, we'll review and add the cost of the taps and/or inserts. Adding Threads to Metal 3D-Printed Parts For metal parts, we offer chasing as-printed threads and post-machining threads. Chasing Threads One way to get functional threads is to print them into the model and chase them with a hand tap afterwards. This is typically enough for many non-precision applications, and it's a lot cheaper and faster because it eliminates the need for a full machining setup. You'll need to check the minimum feature size for the material and the resolution you plan to use so that enough of the thread forms to enable chasing. Be aware that DMLS parts typically have a rough surface finish, similar to a cast part, and that can prevent threads from working properly. The downside to self-chasing threads is that the alignment and quality of the threads won't be as precise. If you have an odd orientation on your printed threads, that could lead to a very minor loss of final position accuracy or alignment. For this reason, if your part has a production design requirement, we recommend that the final threads are machined post-build to ensure accuracy. As a bonus: Machined threads can hold much tighter tolerances. Tapping Threads For the cleanest possible thread on your part, the threads should be tapped after the part has been printed. This applies to both internal and external threads. All threads should be removed from the CAD model before printing begins. If you're planning to tap threads after receiving parts, make sure the holes are all sized correctly. Our machine shop can also tap the threads for you using a thread mill. Because we're post-machining, the list of available threads is virtually unlimited. As-Printed Threads Between material loss and rough surface finish, as-printed threads are rarely functional with metal 3D-printed parts. Some threads may also require support structures between the teeth if the thread creates overhangs larger than 0.02 in. (0.5mm). If the threads, use the Special Instructions field in the quote to reference the order for which the threads came out functional. This will allow us to keep everything as similar to the previous order as possible, yielding the most consistent results. Threading is possible in metal 3D-printed parts, but it can be challenging to chase threads in parts built in Inconel and cobalt chrome materials. Design Considerations As previously mentioned, avoiding as-printed threads is recommended if you can. All requests for tapping or chasing threads go through the machine shop at our DMLS facility, which is dedicated to machining printed parts. Out ability to tap or chase threads will vary based on material and accessibility of the threaded features. Inconel 718 and cobalt chrome (CoCr) are notoriously difficult to machine so our capability to tap threads on parts in these materials will be limited compared to what we can achieve on a stainless steel or aluminum part. Accessibility—how easy it is to reach the threads—will also affect our capabilities. Very long threaded holes or holes surrounded by tall features require longer tools, limiting our ability to add threads. Anything we are unable to do will be communicated in the Manufacturing Notes on the quote. How to Request For DMLS, you can request threads under Custom Finishing. Once the finish option is selected, you'll see a text box where you can let us know if you need threads tapped or chased. In the Special Instructions , you can attach images or .PDF drawings to let us know which holes need to be threaded or chased and the type of thread for each hole. If you have a formal drawing with more than just thread callouts, please let us know which operations to include in the quote. For example, your original drawing designed for machining the part from stock should note whether you only need the threads tapped or if you need us to both tap the threads and machine the sealing groove. Adding dimensions that aren't part of the print build might force extensive post-production work, adding cost and time. For tapping, our machinists work with a STEP (.STP) file. If the file you uploaded to quote is already an .STP or SolidWorks file, then nothing else is required. If you've uploaded an .STL file to the quote, please use the Special Instructions to attach an .STP file. For requests involving multiple machining operations, we prefer to receive an as-printed .STP file, and an as-machined .STP file, as well as a .PDF drawing. Special Request Inserts and More If your project requires something that we didn't cover, don't be afraid to ask! In many cases, we're able to accommodate additional requests for other inserts or hardware such as stainless steel inserts, compression limiters, or dowel pins. We'll review your request and see what we can do for you. Keep in mind that we may be limited by the availability of the requested hardware. Also, don't forget that our applications engineers are here to help guide you through lead time, cost analysis, and design goals when it comes to threading and inserts in 3D-printed parts. Final Thoughts Threading of 3D-printed parts can be tricky, but it certainly can be done. When it comes to applying these concepts, we're more than happy to help. You can call our applications engineering team at 877-479-3680 or email us at [email protected] and we will discuss your specific project with you and provide part-specific suggestions. Tagged: 3D Printing, Additive Manufacturing, Threading",
+  "published_at": "",
+  "requested_url": "https://www.protolabs.com/resources/blog/threading-and-inserts-for-3d-printing",
+  "schema_version": 2,
+  "sections": [
+    {
+      "hash": "7107a686c628d5dd591b6d22375340aadfec8820",
+      "heading": "Threading in 3D Printing: Heat Set and Press Fit Inserts, Tapping",
+      "level": "h1",
+      "text": "Threading in 3D Printing: Heat Set and Press Fit Inserts, Tapping By Protolabs Tech Tips October 29, 2024 Threading in 3D Printing: Heat Set and Press Fit Inserts, Tapping By Protolabs"
+    },
+    {
+      "hash": "26779f205c55d3d4d3b9ba6db8f8bebc3f3629ef",
+      "heading": "Adding Threads to Plastic Printed Parts",
+      "level": "h2",
+      "text": "Adding Threads to Plastic Printed Parts For plastic parts, we offer hand-tapping post-build and threaded inserts. If you intend to have threads added post-build, make sure any threads or inserts have been removed from the CAD model. We recommend inserts over tapping for threaded holes on printed plastic parts. Our standard inserts are brass, and may be either heat staked or press fit with epoxy depending on the base material. If you require non-standard inserts or a mix of taps and inserts please pick 'Custom' and upload a drawing identifying the thread type and location. Taps and Inserts Plastic parts can be hand-tapped after printing. For a stronger thread, threaded inserts are recommended. Protolabs has taps and inserts available for a wide range of common threads, both standard and metric. For stereolithography (SLA), screw-to-expand inserts held in place with epoxy are used. Since SLA materials are sensitive to heat, heat stake inserts should be avoided. Tapered heat stake inserts can be used for selective last sintering (SLS) and MultiJet Fusion (MJF). These inserts, often made of brass, are heated with a soldering iron and pressed into the part. The locally melted plastic f..."
+    },
+    {
+      "hash": "c58a41850a0fce99d47295a3d8e7628e4a945167",
+      "heading": "Available Tap Sizes",
+      "level": "h3",
+      "text": "Available Tap Sizes Tap Sizes for SLS & MJF Tap Sizes for SLA chevron_left chevron_right Standard Metric 2-56 M2 x 0.4 4-40 M2.5 x 0.45 6-32 M3 x 0.5 8-32 M3.5 x 0.06 10-24 M4 x 0.7 10-32 M5 x 0.8 1/8-27 M6 x 1.0 1/4-20 M8 x 1.0 1/4-28 M8 x 1.25 5/16-18 M10 x 1.0 Standard Metric NPT 0 - 80 M1.0 x .25 1/16-27 1 - 64 M1.2 x .25 1/8-27 1 - 72 M1.4 x .3 1/4-18 2 - 56 M1.6 x .35 1/2 3 - 48 M2 x 0.4 3/8-18 3 - 56 M2.5 x 0.45 3/4-14 4 - 40 M3 x 0.5 4 - 48 M4 x 0.7 5 - 40 M5 x 0.8 6 - 32 M6 x 1.0 6 - 40 M8 x 1.0 8 - 32 M8 x 1.25 8 - 36 M10 x 1.5 10 - 24 M12 x 1.75 10 - 28 M14 x 1.0 10 - 32 M14 x 1.5 12 - 24 M16 x 1.5 1/4 - 20 M18 x 1.0 1/4 - 28 M20 x 1.5 5/16 - 18 5/16 - 24 3/8 - 16 3/8 - 18 3/8 - 24 7/16 - 20 7/16 - 14 1/2 - 12 1/2 - 20 9/16 - 18 5/8 - 18 3/4 - 16 15/16 - 16"
+    },
+    {
+      "hash": "25b1e0eac41a857dafd5677a2d77c0b64833c069",
+      "heading": "Available Insert Sizes",
+      "level": "h3",
+      "text": "Available Insert Sizes Inserts for SLS & MJF Parts Inserts for SLA Parts chevron_left chevron_right Standard Metric 0 - 80 M1.6 x 0.35 2 - 56 M2 x 0.4 4 - 40 M2.5 x 0.45 6 - 32 M3 x 0.5 8 - 32 M4 x 0.7 10 - 24 M5 x 0.8 10 - 32 M6 x 1.0 1/4 - 20 M8 x 1.25 Standard Metric 0 - 80 M1.4 x 0.3 2 - 56 M1.6 x 0.35 4 - 40 M2 x 0.4 6 - 32 M2.5 x 0.45 8 - 32 M3 x 0.5 10 - 24 M3.5 x 0.6 10 - 32 M4 x 0.7 1/4 - 20 M5 x 0.8 5/16 - 18 M6 x 1.0 3/8 - 16 M8 x 1.25"
+    },
+    {
+      "hash": "ca1094fab752ca77a17719e0c1e96089763f77ce",
+      "heading": "Adding Threads to Metal 3D-Printed Parts",
+      "level": "h2",
+      "text": "Adding Threads to Metal 3D-Printed Parts For metal parts, we offer chasing as-printed threads and post-machining threads. Chasing Threads One way to get functional threads is to print them into the model and chase them with a hand tap afterwards. This is typically enough for many non-precision applications, and it's a lot cheaper and faster because it eliminates the need for a full machining setup. You'll need to check the minimum feature size for the material and the resolution you plan to use so that enough of the thread forms to enable chasing. Be aware that DMLS parts typically have a rough surface finish, similar to a cast part, and that can prevent threads from working properly. The downside to self-chasing threads is that the alignment and quality of the threads won't be as precise. If you have an odd orientation on your printed threads, that could lead to a very minor loss of final position accuracy or alignment. For this reason, if your part has a production design requirement, we recommend that the final threads are machined post-build to ensure accuracy. As a bonus: Machined threads can hold much tighter tolerances."
+    },
+    {
+      "hash": "d2c28324786805e17a1a23c9cc70d6e61230d9d9",
+      "heading": "Special Request Inserts and More",
+      "level": "h2",
+      "text": "Special Request Inserts and More If your project requires something that we didn't cover, don't be afraid to ask! In many cases, we're able to accommodate additional requests for other inserts or hardware such as stainless steel inserts, compression limiters, or dowel pins. We'll review your request and see what we can do for you. Keep in mind that we may be limited by the availability of the requested hardware. Also, don't forget that our applications engineers are here to help guide you through lead time, cost analysis, and design goals when it comes to threading and inserts in 3D-printed parts."
+    },
+    {
+      "hash": "b9a74b40229eda43e73be5737237bb0551bd4b4d",
+      "heading": "Final Thoughts",
+      "level": "h2",
+      "text": "Final Thoughts Threading of 3D-printed parts can be tricky, but it certainly can be done. When it comes to applying these concepts, we're more than happy to help. You can call our applications engineering team at 877-479-3680 or email us at [email protected] and we will discuss your specific project with you and provide part-specific suggestions."
+    }
+  ],
+  "sitemap_lastmod": "2026-09-17T17:37:00+00:00",
+  "status": 200,
+  "structure_hash": "eb9b452985a2651e3b54bdac24c639e919925e6f",
+  "text_excerpt": "Tech Tips October 29, 2024 Threading in 3D Printing: Heat Set and Press Fit Inserts, Tapping By Protolabs Engineers often have questions about the best way to add threaded features to their CAD models for 3D-printed parts. That's no surprise as additive manufacturing technologies are increasingly being used for both prototyping and end-use production. Threads can be tricky to print for a few reasons. Threads with tapered edges will lose material once they get thinner than the minimum feature size for the selected material and technology. In some cases, this means that the threads won’t print at all. In other cases, the minor diameter enlarges, and the threads won’t engage well. Technologies like selective laser sintering (SLS) and direct metal laser sintering (DMLS) can also leave a rougher surface finish, which impedes thread function. In summary, the success of as-printed threads (those that are created during the printing process) will vary greatly depending on the chosen printing technology, material, and thread size. With that, we don’t recommend as-printed threads if functionality is critical. But all is not lost! There are several ways you can get functional threads on your...",
+  "text_hash": "f45a06742806c412f6b2724a7d5673779532a4c7",
+  "title": "Threading in 3D Printing: Heat Set and Press Fit Inserts, Tapping",
+  "url": "https://www.protolabs.com/resources/blog/threading-and-inserts-for-3d-printing"
+}
