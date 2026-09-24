@@ -22,18 +22,10 @@
     {
       "href": "https://www.emachineshop.com/comparing-cnc-quotes-tolerances-finishing",
       "text": "read more"
-    },
-    {
-      "href": "https://www.emachineshop.com/advanced-machining-services-industry-transformation",
-      "text": "Revolutionizing Manufacturing: Advanced Machining Services Unleashed"
-    },
-    {
-      "href": "https://www.emachineshop.com/advanced-machining-services-industry-transformation",
-      "text": "read more"
     }
   ],
   "discovered_via": "sitemap",
-  "fetched_at": "2026-09-10T06:08:44+00:00",
+  "fetched_at": "2026-09-24T06:19:29+00:00",
   "final_url": "https://www.emachineshop.com/blog",
   "first_seen_at": "2026-08-17T03:52:44+00:00",
   "h1": "eMachineShop Blog",
@@ -41,6 +33,14 @@
     {
       "level": "h1",
       "text": "eMachineShop Blog"
+    },
+    {
+      "level": "h2",
+      "text": "Prototype vs. Production: When Should You Change the Manufacturing Process?"
+    },
+    {
+      "level": "h2",
+      "text": "Tolerance Stack-Up: Why Parts That Each Pass Inspection Still Don’t Fit Together"
     },
     {
       "level": "h2",
@@ -69,17 +69,17 @@
     {
       "level": "h2",
       "text": "Case Hardening vs. Through Hardening: Which One Does Your Part Actually Need?"
-    },
-    {
-      "level": "h2",
-      "text": "Advanced CNC Plasma Cutting: Efficiency, Precision, and Applications"
-    },
-    {
-      "level": "h2",
-      "text": "Revolutionizing Manufacturing: Advanced Machining Services Unleashed"
     }
   ],
   "images": [
+    {
+      "alt": "Prototype vs. Production: When Should You Change the Manufacturing Process?",
+      "src": "https://www.emachineshop.com/wp-content/uploads/prototype-vs-production-manufacturing-400x250.jpg"
+    },
+    {
+      "alt": "Tolerance Stack-Up: Why Parts That Each Pass Inspection Still Don’t Fit Together",
+      "src": "https://www.emachineshop.com/wp-content/uploads/tolerance-stack-up-parts-assembly-400x250.jpg"
+    },
     {
       "alt": "ITAR vs. CMMC: What’s the Difference?",
       "src": "https://www.emachineshop.com/wp-content/uploads/itar-vs-cmmc-400x250.jpg"
@@ -107,19 +107,11 @@
     {
       "alt": "Case Hardening vs. Through Hardening: Which One Does Your Part Actually Need?",
       "src": "https://www.emachineshop.com/wp-content/uploads/steel-gear-heat-treatment-hardening-400x250.jpg"
-    },
-    {
-      "alt": "Advanced CNC Plasma Cutting: Efficiency, Precision, and Applications",
-      "src": "https://www.emachineshop.com/wp-content/uploads/plasma-cutting-01-400x250.jpg"
-    },
-    {
-      "alt": "Revolutionizing Manufacturing: Advanced Machining Services Unleashed",
-      "src": "https://www.emachineshop.com/wp-content/uploads/comprehensive-01-400x250.jpg"
     }
   ],
   "meta_description": "eMachineShop Blog - the latest eMachineShop product updates, news, and trends in designing for manufacturability.",
   "modified_at": "2026-09-02T13:13:02+00:00",
-  "monitored_text": "eMachineShop Blog by eMachineShop | Nov 12, 2020 « Back to all posts ITAR vs. CMMC: What’s the Difference? by James Wright | Sep 9, 2026 ITAR controls who is allowed to access certain defense-related technical data and hardware. CMMC governs how that data has to be protected once you have access to it. They’re related, but they... read more Why Inside Corners Are Never Truly Square by eMachineShop | Sep 2, 2026 A CNC end mill is round. It cannot cut a perfectly square internal corner — physically impossible with a rotating cutting tool. Every internal corner on a machined part carries a radius equal to at... read more CNC vs. Laser vs. Waterjet: Which Process Should You Use? by James Wright | Aug 28, 2026 If your part is flat and 2D, laser or waterjet is often faster and cheaper than CNC. If it needs 3D features — pockets, threaded holes, contoured surfaces — CNC is usually the only option of the... read more Why Does My CNC Part Cost So Much? 10 Factors That Actually Drive the Price by James Wright | Aug 24, 2026 A $40 bracket and a $400 bracket can look nearly identical on a drawing. The difference almost never comes down to greed or an inflated shop rate — it comes down to ten specific variables, and most... read more Design for Manufacturability: Why Your CNC Quote Costs More Than You Expected by James Wright | Aug 17, 2026 Most surprise CNC quotes trace back to four or five design choices, not the part itself — a tight tolerance on a feature that didn't need it, a wall left too thin, a corner that should've had a... read more Comparing CNC Quotes? Here’s What Tolerance and Finishing Line Items Actually Mean by James Wright | Aug 5, 2026 Two quotes for the same part can differ by a real margin and both be \"correct\" — because they're not always quoting the same thing. Tolerance defaults vary by process, and a \"standard finish\" isn't... read more Case Hardening vs. Through Hardening: Which One Does Your Part Actually Need? by James Wright | Jul 17, 2026 If your part needs to survive wear at the surface but can't afford to be brittle all the way through, case hardening is almost always the right call over through hardening — and picking the wrong... read more Advanced CNC Plasma Cutting: Efficiency, Precision, and Applications by James Wright | Mar 18, 2024 Mastering the Craft: Best Practices and Applications of CNC Plasma Cutting In the realm of metal fabrication, CNC plasma cutting stands as a beacon of efficiency, precision, and versatility. This... read more Revolutionizing Manufacturing: Advanced Machining Services Unleashed by James Wright | Mar 15, 2024 Advanced Machining Unlocked: Powering Industries with Precision Services Discover how waterjet service, CNC laser cutting, milling, turning, and press brake services are revolutionizing part... read more « Older Entries",
+  "monitored_text": "eMachineShop Blog by eMachineShop | Nov 12, 2020 « Back to all posts Prototype vs. Production: When Should You Change the Manufacturing Process? by eMachineShop | Sep 18, 2026 The process that’s right for one prototype is often the wrong process for 5,000 units — and the reverse is just as true. Knowing when to switch is a cost decision, not a maturity milestone. Quick... read more Tolerance Stack-Up: Why Parts That Each Pass Inspection Still Don’t Fit Together by James Wright | Sep 15, 2026 Every individual part can measure perfectly within its own tolerance and the assembly still won't go together — because tolerance stack-up isn't about whether any one part is correct, it's about... read more ITAR vs. CMMC: What’s the Difference? by James Wright | Sep 9, 2026 ITAR controls who is allowed to access certain defense-related technical data and hardware. CMMC governs how that data has to be protected once you have access to it. They’re related, but they... read more Why Inside Corners Are Never Truly Square by eMachineShop | Sep 2, 2026 A CNC end mill is round. It cannot cut a perfectly square internal corner — physically impossible with a rotating cutting tool. Every internal corner on a machined part carries a radius equal to at... read more CNC vs. Laser vs. Waterjet: Which Process Should You Use? by James Wright | Aug 28, 2026 If your part is flat and 2D, laser or waterjet is often faster and cheaper than CNC. If it needs 3D features — pockets, threaded holes, contoured surfaces — CNC is usually the only option of the... read more Why Does My CNC Part Cost So Much? 10 Factors That Actually Drive the Price by James Wright | Aug 24, 2026 A $40 bracket and a $400 bracket can look nearly identical on a drawing. The difference almost never comes down to greed or an inflated shop rate — it comes down to ten specific variables, and most... read more Design for Manufacturability: Why Your CNC Quote Costs More Than You Expected by James Wright | Aug 17, 2026 Most surprise CNC quotes trace back to four or five design choices, not the part itself — a tight tolerance on a feature that didn't need it, a wall left too thin, a corner that should've had a... read more Comparing CNC Quotes? Here’s What Tolerance and Finishing Line Items Actually Mean by James Wright | Aug 5, 2026 Two quotes for the same part can differ by a real margin and both be \"correct\" — because they're not always quoting the same thing. Tolerance defaults vary by process, and a \"standard finish\" isn't... read more Case Hardening vs. Through Hardening: Which One Does Your Part Actually Need? by James Wright | Jul 17, 2026 If your part needs to survive wear at the surface but can't afford to be brittle all the way through, case hardening is almost always the right call over through hardening — and picking the wrong... read more « Older Entries",
   "published_at": "2020-11-12T14:23:39+00:00",
   "requested_url": "https://www.emachineshop.com/blog",
   "schema_version": 2,
@@ -129,6 +121,18 @@
       "heading": "eMachineShop Blog",
       "level": "h1",
       "text": "eMachineShop Blog by eMachineShop | Nov 12, 2020 « Back to all posts"
+    },
+    {
+      "hash": "2dd1fcc1ba59203de30d3844e0452e7caa10f03f",
+      "heading": "Prototype vs. Production: When Should You Change the Manufacturing Process?",
+      "level": "h2",
+      "text": "Prototype vs. Production: When Should You Change the Manufacturing Process? by eMachineShop | Sep 18, 2026 The process that’s right for one prototype is often the wrong process for 5,000 units — and the reverse is just as true. Knowing when to switch is a cost decision, not a maturity milestone. Quick... read more"
+    },
+    {
+      "hash": "029a469c72b7836a9f72437d4666b8151f66ef8c",
+      "heading": "Tolerance Stack-Up: Why Parts That Each Pass Inspection Still Don’t Fit Together",
+      "level": "h2",
+      "text": "Tolerance Stack-Up: Why Parts That Each Pass Inspection Still Don’t Fit Together by James Wright | Sep 15, 2026 Every individual part can measure perfectly within its own tolerance and the assembly still won't go together — because tolerance stack-up isn't about whether any one part is correct, it's about... read more"
     },
     {
       "hash": "a63c93ec56f56cd8fa40c47fd5f03c6c502abb7f",
@@ -171,25 +175,13 @@
       "heading": "Case Hardening vs. Through Hardening: Which One Does Your Part Actually Need?",
       "level": "h2",
       "text": "Case Hardening vs. Through Hardening: Which One Does Your Part Actually Need? by James Wright | Jul 17, 2026 If your part needs to survive wear at the surface but can't afford to be brittle all the way through, case hardening is almost always the right call over through hardening — and picking the wrong... read more"
-    },
-    {
-      "hash": "72a90c85739929c3c59ffe1d22a1bb81828737da",
-      "heading": "Advanced CNC Plasma Cutting: Efficiency, Precision, and Applications",
-      "level": "h2",
-      "text": "Advanced CNC Plasma Cutting: Efficiency, Precision, and Applications by James Wright | Mar 18, 2024 Mastering the Craft: Best Practices and Applications of CNC Plasma Cutting In the realm of metal fabrication, CNC plasma cutting stands as a beacon of efficiency, precision, and versatility. This... read more"
-    },
-    {
-      "hash": "ab297345ac17a0eefda8f99eb3ffa3b2b8db9b3f",
-      "heading": "Revolutionizing Manufacturing: Advanced Machining Services Unleashed",
-      "level": "h2",
-      "text": "Revolutionizing Manufacturing: Advanced Machining Services Unleashed by James Wright | Mar 15, 2024 Advanced Machining Unlocked: Powering Industries with Precision Services Discover how waterjet service, CNC laser cutting, milling, turning, and press brake services are revolutionizing part... read more"
     }
   ],
   "sitemap_lastmod": "2026-09-02T13:13:02+00:00",
   "status": 200,
-  "structure_hash": "b8554f8c5c86fae19ddaf9016fa9a213beac8f3c",
-  "text_excerpt": "eMachineShop Blog by eMachineShop | Nov 12, 2020 « Back to all posts ITAR vs. CMMC: What’s the Difference? by James Wright | Sep 9, 2026 ITAR controls who is allowed to access certain defense-related technical data and hardware. CMMC governs how that data has to be protected once you have access to it. They’re related, but they... read more Why Inside Corners Are Never Truly Square by eMachineShop | Sep 2, 2026 A CNC end mill is round. It cannot cut a perfectly square internal corner — physically impossible with a rotating cutting tool. Every internal corner on a machined part carries a radius equal to at... read more CNC vs. Laser vs. Waterjet: Which Process Should You Use? by James Wright | Aug 28, 2026 If your part is flat and 2D, laser or waterjet is often faster and cheaper than CNC. If it needs 3D features — pockets, threaded holes, contoured surfaces — CNC is usually the only option of the... read more Why Does My CNC Part Cost So Much? 10 Factors That Actually Drive the Price by James Wright | Aug 24, 2026 A $40 bracket and a $400 bracket can look nearly identical on a drawing. The difference almost never comes down to greed or an inflated shop rate — it comes down to ten...",
-  "text_hash": "c057ad8163367b7e83778c644d555d9f5c8c4b8c",
+  "structure_hash": "ef920faa16eaa54afa15bce1077a185f346edca1",
+  "text_excerpt": "eMachineShop Blog by eMachineShop | Nov 12, 2020 « Back to all posts Prototype vs. Production: When Should You Change the Manufacturing Process? by eMachineShop | Sep 18, 2026 The process that’s right for one prototype is often the wrong process for 5,000 units — and the reverse is just as true. Knowing when to switch is a cost decision, not a maturity milestone. Quick... read more Tolerance Stack-Up: Why Parts That Each Pass Inspection Still Don’t Fit Together by James Wright | Sep 15, 2026 Every individual part can measure perfectly within its own tolerance and the assembly still won't go together — because tolerance stack-up isn't about whether any one part is correct, it's about... read more ITAR vs. CMMC: What’s the Difference? by James Wright | Sep 9, 2026 ITAR controls who is allowed to access certain defense-related technical data and hardware. CMMC governs how that data has to be protected once you have access to it. They’re related, but they... read more Why Inside Corners Are Never Truly Square by eMachineShop | Sep 2, 2026 A CNC end mill is round. It cannot cut a perfectly square internal corner — physically impossible with a rotating cutting tool. Every internal corne...",
+  "text_hash": "056579ffce145f249a9bfd191767c3111e524437",
   "title": "eMachineShop Blog",
   "url": "https://www.emachineshop.com/blog"
 }

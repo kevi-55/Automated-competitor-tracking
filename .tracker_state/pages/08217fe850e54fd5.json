@@ -1,0 +1,271 @@
+{
+  "canonical": "",
+  "category": "content",
+  "competitor": "PCBWay",
+  "ctas": [
+    {
+      "href": "https://www.pcbway.com/orderonline.aspx",
+      "text": "PCB Instant Quote"
+    },
+    {
+      "href": "javascript:void(0)",
+      "text": "Sign Up"
+    },
+    {
+      "href": "https://www.pcbway.com/project/shareproject?order=1",
+      "text": "By Source Files"
+    },
+    {
+      "href": "https://www.pcbway.com/project/shareproject?order=1",
+      "text": "View all source files projects"
+    },
+    {
+      "href": "https://www.pcbway.com/project/shareproject?order=1",
+      "text": "Source Files"
+    },
+    {
+      "href": "https://www.pcbway.com/pcbdesign/quotedesign",
+      "text": "PCB design"
+    },
+    {
+      "href": "https://www.pcbway.com/pcbdesign/quotedesign",
+      "text": "Get Free Design Quote"
+    },
+    {
+      "href": "https://www.pcbway.com/blog/club-publish.html",
+      "text": "Submit for Publication"
+    },
+    {
+      "href": "https://www.pcbway.com/blog/Activities/Submit_for_Publication___Now_I_Write_Articles_in_PCBWay.html",
+      "text": "Write for PCBWay"
+    },
+    {
+      "href": "https://www.pcbway.com/blog?tag=PCB+industry",
+      "text": "PCB industry"
+    },
+    {
+      "href": "https://www.pcbway.com/contact.html",
+      "text": "Contact us"
+    }
+  ],
+  "discovered_via": "links",
+  "fetched_at": "2026-09-24T06:18:15+00:00",
+  "final_url": "https://www.pcbway.com/blog/PCB_Design_Layout/Why_Antipads_Matter_for_Signal_Integrity_in_High_Speed_PCB_Design_c4a6b5dc.html",
+  "first_seen_at": "2026-09-24T06:18:15+00:00",
+  "h1": "Why Antipads Matter for Signal Integrity in High-Speed PCB Design",
+  "headings": [
+    {
+      "level": "h1",
+      "text": "Why Antipads Matter for Signal Integrity in High-Speed PCB Design"
+    },
+    {
+      "level": "h2",
+      "text": "What Is a PCB Antipad Actually “Removing”?"
+    },
+    {
+      "level": "h2",
+      "text": "How Does Parasitic Capacitance Affect Via Impedance?"
+    },
+    {
+      "level": "h2",
+      "text": "What Problems Can Improper Antipad Design Cause?"
+    },
+    {
+      "level": "h3",
+      "text": "1. Impedance Discontinuity, Signal Reflection, and Reduced Eye Opening"
+    },
+    {
+      "level": "h3",
+      "text": "2. Poorer Return Loss and Reflected Signal Energy"
+    },
+    {
+      "level": "h3",
+      "text": "3. Via Resonance and Stub Effects Can Increase Loss at Specific Frequencies"
+    },
+    {
+      "level": "h3",
+      "text": "4. Reference Plane Discontinuity and Poorer Return Current Paths"
+    },
+    {
+      "level": "h2",
+      "text": "Not Just Vias: BGA Areas Also Need Attention"
+    },
+    {
+      "level": "h2",
+      "text": "How Should a Differential Via Antipad Be Designed?"
+    },
+    {
+      "level": "h3",
+      "text": "1. Separate Circular Antipads May Introduce Additional Coupling"
+    },
+    {
+      "level": "h3",
+      "text": "2. Connected Oval or “Dog-Bone” Antipad"
+    },
+    {
+      "level": "h2",
+      "text": "How Large Should a PCB Antipad Be?"
+    },
+    {
+      "level": "h3",
+      "text": "Key Guidelines for High-Speed PCB Antipad Design"
+    },
+    {
+      "level": "h2",
+      "text": "Conclusion"
+    },
+    {
+      "level": "h3",
+      "text": "Related articles"
+    }
+  ],
+  "images": [
+    {
+      "alt": "",
+      "src": "/project/img/images/avatar/user-pic.png"
+    },
+    {
+      "alt": "",
+      "src": "/project/img/images/loading-pro.gif"
+    },
+    {
+      "alt": "",
+      "src": "https://pcbwayfile.s3.us-west-2.amazonaws.com/web/23/10/03/1152415436848m.jpeg"
+    },
+    {
+      "alt": "",
+      "src": "https://pcbwayfile.s3.us-west-2.amazonaws.com/web/25/02/01/195239553dd028d967de6453aa74b91ac0e5423e73248m.png"
+    },
+    {
+      "alt": "",
+      "src": "https://pcbwayfile.s3-us-west-2.amazonaws.com/web/21/08/30/1823256917346m.png"
+    },
+    {
+      "alt": "",
+      "src": "https://pcb-files.s3.us-west-2.amazonaws.com/web/26/09/23/1616087798bfb21cb293b435b9cea21ed1fadddcd0105t.png"
+    },
+    {
+      "alt": "",
+      "src": "https://pcb-files.s3.us-west-2.amazonaws.com/web/26/09/23/1625241478086b088183a44d695e53ed3ccaee35c8618t.png"
+    },
+    {
+      "alt": "",
+      "src": "https://pcb-files.s3.us-west-2.amazonaws.com/web/26/09/21/1714250053d740224aa15461d9b1c8105ea8085333048t.png"
+    },
+    {
+      "alt": "",
+      "src": "/img/images/note-tips.png"
+    }
+  ],
+  "meta_description": "",
+  "modified_at": "",
+  "monitored_text": "PCBWay Community Search title or content Search PCBWay PCB Instant Quote CNC | 3D Printing Login Sign Up More Notifications No notifications. My Profile My projects My Likes My Deals My Goods for Bazaar Settings Sign Out Projects Categories DIY Electronics Arduino Hardware Audio Computers & USB Breakout Board Projects Home Automation LED Displays & Matrices IoT Robotics View all categories By Source Files Onju Voice - AI assistant replacement to Google Nest Mini by @justLV LogicAnalyzer V6.0 DIY 1kW Open Source MPPT Solar Charge Controller Tad Boy Color SummerCart64 - a fully open source N64 flashcart kv4p HT v1.7b QuinLED-Dig-Uno Arduino RC engine sound & light controller with inertia simulation for ESP32 Bike Fingerprint - PCB Solar Powered WiFi Weather Station V2.0 RIP-Felix PS3 Tantalizer Frog Boy Color View all source files projects Featured Projects Onju Voice - AI assistant replacement to Google Nest Mini by @justLV LogicAnalyzer V6.0 DIY 1kW Open Source MPPT Solar Charge Controller Featured Source Files Video View all projects Questions Sponsorships PCBWay Future Innovators Program Feedback Blog Store PCB Design Contest - 9th Project Design Contest - 2026 KiCad PCB Design Contest - 8th Project Design Contest - 7th Project Design Contest - KiCad Design Contest - 6th Project Design Contest - 5th PCB Design Contest - 4th PCB Design Contest - Raspberry Pi Pico Contest - PCB Design Tutorial - 3rd PCB Design Contest - I CAN SOLDER Kit Contest - 2nd PCB Design Contest - 1st PCB Design Contest Add questions Create a project Please verify your email address so that you can enjoy our more comprehensive services. Verify Now Blog > Why Antipads Matter for Signal Integrity in High-Speed PCB Design Why Antipads Matter for Signal Integrity in High-Speed PCB Design by: Mila Sep 21,2026 <dynamic-value> <dynamic-value> Posted in PCB Design & Layout signal integrity PCB antipad high-speed PCB design anti pad pcb In high-speed PCB design , via antipads are often treated as simple clearance features. In fact, the size of a PCB antipad directly affects the parasitic capacitance and local impedance around a via, making it an important parameter for maintaining impedance continuity and signal integrity. If the antipad is too small, it can introduce excessive capacitive loading and cause local impedance to drop. If it is too large, it may affect the integrity of the power or ground plane. Especially in Gbps-level high-speed links, simply using the default parameters in PCB design software can result in significant impedance discontinuities around the via transition, potentially affecting signal integrity. The purpose of an anti pad PCB design is not limited to preventing electrical shorts. By changing the electromagnetic coupling between the via and reference plane, a properly designed antipad can reduce via parasitic capacitance, optimize local impedance, and minimize signal reflections. Therefore, antipad design is an important part of optimizing high-speed vias. What Is a PCB Antipad Actually “Removing”? Let's put aside the abstract definition and look at it from a straightforward engineering perspective. When a PCB via changes layers, its metal barrel and pad pass through portions of the power and ground planes. The metal conductor, dielectric material, and surrounding plane copper naturally form parasitic capacitance. The impedance of a transmission line is mainly determined by the dielectric material, trace width, and stackup. However, the additional parasitic capacitance around a via introduces extra capacitive loading, causing the local via impedance to deviate from the target impedance of the transmission line. This creates an impedance discontinuity that can affect high-speed signal transmission. A PCB antipad is a copper clearance area created around the via pad on the power or ground plane layers through which the via passes. Its main purposes are: Increase the distance between the via barrel and plane copper to prevent electrical shorts; Reduce the parasitic capacitance between the via and reference plane, optimize local via impedance, and reduce reflections caused by impedance discontinuity. A high-speed signal trace can be compared to a smooth road with a constant speed limit. The via is an unavoidable intersection, while parasitic capacitance is like a sudden dip in the road. When the signal travels through this discontinuity at high speed, impedance changes can cause reflections, ringing, and waveform distortion. The purpose of an antipad is to adjust the electromagnetic coupling between the via and reference plane, reducing the impact of this “dip” and making the via transition smoother. （Anti-pad Structure） How Does Parasitic Capacitance Affect Via Impedance? A via is not an ideal conductor. Its equivalent model can include parasitic inductance L and parasitic capacitance C. For high-speed signals, the actual impedance characteristics of a via are also affected by factors such as via length, hole diameter, pad size, antipad size, reference plane position, and via stub. The antipad size is one of the important parameters affecting via parasitic capacitance. If the antipad is too small, the distance between the via barrel or pad and the reference plane becomes smaller, increasing the capacitive loading between the via and plane. This can cause a more significant drop in local via impedance. For example, when a transmission line with a target impedance of 50 Ω passes through an unoptimized via structure, the local impedance may decrease around the via transition, creating a structure such as: 50 Ω trace → lower impedance at via → 50 Ω trace. This impedance discontinuity can cause signal reflections, energy loss, and waveform distortion. Therefore, an antipad is not simply a matter of making the clearance as large or as small as possible. In high-speed PCB design, its size needs to be optimized together with the stackup, via structure, and target impedance. （Small antipad vs Large antipad） What Problems Can Improper Antipad Design Cause? It is easy to assume that a small dimensional difference will not matter. However, in Gbps-level high-speed links, even small geometric changes in the via structure can affect impedance and signal integrity. 1. Impedance Discontinuity, Signal Reflection, and Reduced Eye Opening A smaller antipad → higher parasitic capacitance → potentially lower local via impedance. When a high-speed signal reaches this region, a significant impedance change can cause signal reflection, edge distortion, increased jitter, and reduced eye opening. These effects may ultimately degrade the performance of the high-speed link. 2. Poorer Return Loss and Reflected Signal Energy Impedance discontinuities increase signal reflection, causing part of the signal energy to return toward the transmitter instead of reaching the receiver effectively. For high-speed SerDes links, reflections from multiple vias, connectors, and package structures can accumulate. Therefore, maintaining impedance continuity across the via transition is an important part of signal integrity optimization. 3. Via Resonance and Stub Effects Can Increase Loss at Specific Frequencies The parasitic inductance and capacitance of a via, together with unused via stubs, can create frequency-dependent resonance and reflection characteristics. When the effective frequency range of a high-speed signal approaches these resonant regions, return loss and insertion loss may deteriorate significantly. This is one reason why some links may work normally at lower speeds but show degraded performance at higher data rates. Therefore, in addition to PCB antipad design, high-speed via design also needs to consider via stubs. For loss-sensitive high-speed links, techniques such as back drilling, blind vias, or buried vias can be used to shorten or eliminate unnecessary via stubs. 4. Reference Plane Discontinuity and Poorer Return Current Paths An antipad should not simply be made as large as possible. If the plane clearance becomes excessively large, it may affect the continuity of the local reference plane and force the high-speed return current to take a longer path. This can increase return-path inductance and introduce additional impedance discontinuities. In high-density high-speed PCB design, the locations of adjacent vias, return vias, and reference planes should also be considered together to avoid creating new signal integrity or EMI problems through excessive plane clearance. Not Just Vias: BGA Areas Also Need Attention Most high-speed PCB designs focus heavily on via antipads, but in high-density BGA regions, the parasitic capacitance between component pads and reference planes also deserves attention. A typical high-speed trace may be only 3–4 mil wide, while a BGA pad is usually much larger than the trace. The larger the pad area and the closer it is to the reference plane, the greater the potential capacitive loading. A large pad located close to a reference plane can introduce additional capacitive loading, making the BGA breakout region another potential impedance transition in a high-speed signal path. Therefore, high-speed BGA design should consider: BGA pad size; Distance between the pad and reference plane; Trace width and impedance; Breakout method; Reference plane continuity. When necessary, local plane clearance can be used to reduce the parasitic capacitance associated with the pad. However, not every BGA pad requires an enlarged antipad. Excessive plane clearance can also disrupt reference plane continuity and force the return current to detour. Therefore, the appropriate clearance should be determined based on the stackup, pad geometry, target impedance, and simulation results. How Should a Differential Via Antipad Be Designed? A single-ended signal via can typically use a circular antipad, but differential vias should not simply follow the same design approach. 1. Separate Circular Antipads May Introduce Additional Coupling If the positive and negative differential vias each use an independent circular antipad, a narrow strip of reference plane copper may remain between the two antipads. This remaining copper can change the electromagnetic coupling between the two vias. For high-speed differential signals, such a structural change may affect: Differential impedance Symmetry between the two signal paths Differential-to-common-mode conversion Insertion loss and return loss around the via transition 2. Connected Oval or “Dog-Bone” Antipad When space allows and simulation confirms the design, the antipads around the two differential vias can be partially connected to form an oval or “dog-bone” clearance area. This approach can reduce unnecessary plane copper between the two vias and create a more symmetrical electromagnetic environment around the differential via pair. The main benefits include: Better control of differential impedance toward the target value; Improved structural symmetry and reduced risk of differential-to-common-mode conversion; Reduced unnecessary local electromagnetic coupling between the vias. However, a dog-bone-shaped antipad is not a universal solution for every differential via structure. The final shape and dimensions should still be determined based on via spacing, stackup, target impedance, and simulation results. How Large Should a PCB Antipad Be? Antipad design is a typical case of “too much of a good thing.” If the antipad is too small, electromagnetic coupling between the via and reference plane increases, potentially increasing parasitic capacitance. If it is too large, reference plane continuity may be affected. Therefore, the PCB antipad needs to balance impedance control, return current paths, and manufacturing capability. Key Guidelines for High-Speed PCB Antipad Design 1. Do Not Simply Apply a Fixed Mil Value There is no universal antipad size that works for every high-speed PCB. The actual dimensions should be optimized according to via hole diameter, pad size, dielectric thickness, material Dk, reference plane position, and target impedance. 2. Meet Manufacturing Rules Before Optimizing Impedance An initial antipad size can be established according to the PCB manufacturer's design rules and then refined through impedance calculation or simulation. 3. Maintain Symmetry in Differential Vias For differential via structures, the geometry and electromagnetic environment around the positive and negative vias should be as symmetrical as possible to maintain differential impedance and reduce mode conversion. 4. Simulate the Complete Via Transition for High-Speed Links For high-speed links above 10 Gbps, as well as interfaces such as PCIe, USB, and SerDes that have strict requirements for channel loss and impedance continuity, fixed empirical dimensions should not be applied directly. The complete stackup, material Dk/Df, via geometry, reference planes, return vias, and target impedance should be considered together. For complex three-dimensional via structures, tools such as HFSS, CST, or Simbeor can be used for electromagnetic analysis, while tools such as Polar SI9000 are more suitable for PCB stackup and transmission-line impedance analysis. The acceptable impedance variation should ultimately be determined according to the specific interface specification and channel budget rather than applying a single universal ±10% requirement. Conclusion Effective high-speed PCB design is not simply about creating an antipad around a via. It requires an understanding of the relationship between parasitic capacitance, via impedance, reference planes, return current paths, and signal integrity. An antipad that is too small may increase capacitive loading and cause local impedance to decrease, while an oversized antipad may affect reference plane continuity. For high-speed differential vias, designers must also consider structural symmetry, differential impedance, and mode conversion. Therefore, there is no single antipad size that is suitable for every PCB. A properly designed PCB antipad should be optimized according to the target impedance and signal integrity requirements, together with the PCB stackup, via geometry, manufacturing capability, and simulation results. This helps maintain a more continuous and stable electromagnetic environment throughout the high-speed signal path. Enter the year of your birth and check your Chinese Zodiac. Get Free Design Quote Join us Wanna be a dedicated PCBWay writer? We definately look forward to having you with us. Submit for Publication Become Our Writer Leave a Comment ( 0 ) Share to: Previous：Holiday Schedule of Mid-Autumn Festival & National Day 2026 Next：When vibration meets LoRa (and bandwidth fights back) Related articles Why Antipads Matter for Signal Integrity in High-Speed PCB Design Differential Pair Routing Guidelines for High-Speed PCB Design Best High-Speed PCB Design Practices How to Ensure PCB Design Signal Integrity？ Comments ( 0 ) Log in to post comments. Upload photo You can only upload 5 files in total. Each file cannot exceed 2MB. Supports JPG, JPEG, GIF, PNG, BMP 0 / 10000 It looks like you have not written anything. Please add a comment and try again. You can upload up to 5 images! Image size should not exceed 2MB! File format not supported! Post Comment View More Write for PCBWay Categories Select a Category 3D Printing Activities CNC Machining Engineering Technical Flexible PCB HDI PCB Help Center Injection Molding News PCB Assembly PCB Basic Information PCB Design & Layout PCB Design Tutorial PCB Layout Software PCB Manufacturing Information PCBWay Store Rigid-Flex PCB Sheet Metal Technology Table of Contents HOT TAG PCB Printed Circuit Board PCB design PCB Board PCB layout Circuit Board Printed Circuit Boards PCB Design Tutorial PCB industry pcb manufacturing KiCad pcbway IF YOU MISSED IT 1 PCB Layout Design Process from Schematic to Manufacturing 2 Can AGND and DGND Be Connected Directly in ADC PCB Design? 3 PCB Conformal Coating: Which Components Need Masking? 4 Why Antipads Matter for Signal Integrity in High-Speed PCB Design 5 0402 vs 0603 Capacitor for High-Speed PCB Decoupling 6 Why ICs Fail After Passing ESD Tests and How ESD Differs from EOS 7 PCB Layout Guide to Interface Driver and Connector Placement 8 High-Speed ADC PCB Layout Guide: EPAD, PDS, and Grounding Best Practices 9 How to Properly Handle Unused IC Pins in Schematic Design The PCB Way that recognize the talent and effort of the best ELECTRONIC designers in the World. © COPYRIGHT 2019 About us Contact us Follow us on Share to Facebook Share to Twitter Share to Reddit Share to Linkedin Back to top",
+  "published_at": "2026-09-21T00:00:00+00:00",
+  "requested_url": "https://www.pcbway.com/blog/PCB_Design_Layout/Why_Antipads_Matter_for_Signal_Integrity_in_High_Speed_PCB_Design_c4a6b5dc.html",
+  "schema_version": 2,
+  "sections": [
+    {
+      "hash": "b1c3f2a45070a80a21c3df60af8f254237efc4c3",
+      "heading": "Why Antipads Matter for Signal Integrity in High-Speed PCB Design",
+      "level": "h1",
+      "text": "Why Antipads Matter for Signal Integrity in High-Speed PCB Design by: Mila Sep 21,2026 <dynamic-value> <dynamic-value> Posted in PCB Design & Layout signal integrity PCB antipad high-speed PCB design anti pad pcb In high-speed PCB design , via antipads are often treated as simple clearance features. In fact, the size of a PCB antipad directly affects the parasitic capacitance and local impedance around a via, making it an important parameter for maintaining impedance continuity and signal integrity. If the antipad is too small, it can introduce excessive capacitive loading and cause local impedance to drop. If it is too large, it may affect the integrity of the power or ground plane. Especially in Gbps-level high-speed links, simply using the default parameters in PCB design software can result in significant impedance discontinuities around the via transition, potentially affecting signal integrity. The purpose of an anti pad PCB design is not limited to preventing electrical shorts. By changing the electromagnetic coupling between the via and reference plane, a properly designed antipad can reduce via parasitic capacitance, optimize local impedance, and minimize signal reflectio..."
+    },
+    {
+      "hash": "a8883e9edc814141713614b8a5af3bf8c207744d",
+      "heading": "What Is a PCB Antipad Actually “Removing”?",
+      "level": "h2",
+      "text": "What Is a PCB Antipad Actually “Removing”? Let's put aside the abstract definition and look at it from a straightforward engineering perspective. When a PCB via changes layers, its metal barrel and pad pass through portions of the power and ground planes. The metal conductor, dielectric material, and surrounding plane copper naturally form parasitic capacitance. The impedance of a transmission line is mainly determined by the dielectric material, trace width, and stackup. However, the additional parasitic capacitance around a via introduces extra capacitive loading, causing the local via impedance to deviate from the target impedance of the transmission line. This creates an impedance discontinuity that can affect high-speed signal transmission. A PCB antipad is a copper clearance area created around the via pad on the power or ground plane layers through which the via passes. Its main purposes are: Increase the distance between the via barrel and plane copper to prevent electrical shorts; Reduce the parasitic capacitance between the via and reference plane, optimize local via impedance, and reduce reflections caused by impedance discontinuity. A high-speed signal trace can be com..."
+    },
+    {
+      "hash": "284a695ea3ea39c9de1293b57e83837325d4c797",
+      "heading": "How Does Parasitic Capacitance Affect Via Impedance?",
+      "level": "h2",
+      "text": "How Does Parasitic Capacitance Affect Via Impedance? A via is not an ideal conductor. Its equivalent model can include parasitic inductance L and parasitic capacitance C. For high-speed signals, the actual impedance characteristics of a via are also affected by factors such as via length, hole diameter, pad size, antipad size, reference plane position, and via stub. The antipad size is one of the important parameters affecting via parasitic capacitance. If the antipad is too small, the distance between the via barrel or pad and the reference plane becomes smaller, increasing the capacitive loading between the via and plane. This can cause a more significant drop in local via impedance. For example, when a transmission line with a target impedance of 50 Ω passes through an unoptimized via structure, the local impedance may decrease around the via transition, creating a structure such as: 50 Ω trace → lower impedance at via → 50 Ω trace. This impedance discontinuity can cause signal reflections, energy loss, and waveform distortion. Therefore, an antipad is not simply a matter of making the clearance as large or as small as possible. In high-speed PCB design, its size needs to be op..."
+    },
+    {
+      "hash": "444fc463ffe626348686395a2d8df6417b8296fd",
+      "heading": "What Problems Can Improper Antipad Design Cause?",
+      "level": "h2",
+      "text": "What Problems Can Improper Antipad Design Cause? It is easy to assume that a small dimensional difference will not matter. However, in Gbps-level high-speed links, even small geometric changes in the via structure can affect impedance and signal integrity."
+    },
+    {
+      "hash": "df80eab86975e5119421bbe51e35e285fba5e0b2",
+      "heading": "1. Impedance Discontinuity, Signal Reflection, and Reduced Eye Opening",
+      "level": "h3",
+      "text": "1. Impedance Discontinuity, Signal Reflection, and Reduced Eye Opening A smaller antipad → higher parasitic capacitance → potentially lower local via impedance. When a high-speed signal reaches this region, a significant impedance change can cause signal reflection, edge distortion, increased jitter, and reduced eye opening. These effects may ultimately degrade the performance of the high-speed link."
+    },
+    {
+      "hash": "926fd40dddaea5515f8bb0577ec4a71453ee060e",
+      "heading": "2. Poorer Return Loss and Reflected Signal Energy",
+      "level": "h3",
+      "text": "2. Poorer Return Loss and Reflected Signal Energy Impedance discontinuities increase signal reflection, causing part of the signal energy to return toward the transmitter instead of reaching the receiver effectively. For high-speed SerDes links, reflections from multiple vias, connectors, and package structures can accumulate. Therefore, maintaining impedance continuity across the via transition is an important part of signal integrity optimization."
+    },
+    {
+      "hash": "0719cafdc844213ae15f4ac83513d46b2f1cfa2d",
+      "heading": "3. Via Resonance and Stub Effects Can Increase Loss at Specific Frequencies",
+      "level": "h3",
+      "text": "3. Via Resonance and Stub Effects Can Increase Loss at Specific Frequencies The parasitic inductance and capacitance of a via, together with unused via stubs, can create frequency-dependent resonance and reflection characteristics. When the effective frequency range of a high-speed signal approaches these resonant regions, return loss and insertion loss may deteriorate significantly. This is one reason why some links may work normally at lower speeds but show degraded performance at higher data rates. Therefore, in addition to PCB antipad design, high-speed via design also needs to consider via stubs. For loss-sensitive high-speed links, techniques such as back drilling, blind vias, or buried vias can be used to shorten or eliminate unnecessary via stubs."
+    },
+    {
+      "hash": "b87c393f8a7507c38e544f23dde7736dc2fa274f",
+      "heading": "4. Reference Plane Discontinuity and Poorer Return Current Paths",
+      "level": "h3",
+      "text": "4. Reference Plane Discontinuity and Poorer Return Current Paths An antipad should not simply be made as large as possible. If the plane clearance becomes excessively large, it may affect the continuity of the local reference plane and force the high-speed return current to take a longer path. This can increase return-path inductance and introduce additional impedance discontinuities. In high-density high-speed PCB design, the locations of adjacent vias, return vias, and reference planes should also be considered together to avoid creating new signal integrity or EMI problems through excessive plane clearance."
+    },
+    {
+      "hash": "22d8b1477c98fc8a961c301549ac07442d5610dd",
+      "heading": "Not Just Vias: BGA Areas Also Need Attention",
+      "level": "h2",
+      "text": "Not Just Vias: BGA Areas Also Need Attention Most high-speed PCB designs focus heavily on via antipads, but in high-density BGA regions, the parasitic capacitance between component pads and reference planes also deserves attention. A typical high-speed trace may be only 3–4 mil wide, while a BGA pad is usually much larger than the trace. The larger the pad area and the closer it is to the reference plane, the greater the potential capacitive loading. A large pad located close to a reference plane can introduce additional capacitive loading, making the BGA breakout region another potential impedance transition in a high-speed signal path. Therefore, high-speed BGA design should consider: BGA pad size; Distance between the pad and reference plane; Trace width and impedance; Breakout method; Reference plane continuity. When necessary, local plane clearance can be used to reduce the parasitic capacitance associated with the pad. However, not every BGA pad requires an enlarged antipad. Excessive plane clearance can also disrupt reference plane continuity and force the return current to detour. Therefore, the appropriate clearance should be determined based on the stackup, pad geometry,..."
+    },
+    {
+      "hash": "64e469497cb4d3d0732fcb1bdf8570b0febfca1b",
+      "heading": "How Should a Differential Via Antipad Be Designed?",
+      "level": "h2",
+      "text": "How Should a Differential Via Antipad Be Designed? A single-ended signal via can typically use a circular antipad, but differential vias should not simply follow the same design approach."
+    },
+    {
+      "hash": "2b41413b9417f81c91bacbd3974899a7b2512ddf",
+      "heading": "1. Separate Circular Antipads May Introduce Additional Coupling",
+      "level": "h3",
+      "text": "1. Separate Circular Antipads May Introduce Additional Coupling If the positive and negative differential vias each use an independent circular antipad, a narrow strip of reference plane copper may remain between the two antipads. This remaining copper can change the electromagnetic coupling between the two vias. For high-speed differential signals, such a structural change may affect: Differential impedance Symmetry between the two signal paths Differential-to-common-mode conversion Insertion loss and return loss around the via transition"
+    },
+    {
+      "hash": "1361eb85a49022a324278b3fe9dd2acb4d969ea9",
+      "heading": "2. Connected Oval or “Dog-Bone” Antipad",
+      "level": "h3",
+      "text": "2. Connected Oval or “Dog-Bone” Antipad When space allows and simulation confirms the design, the antipads around the two differential vias can be partially connected to form an oval or “dog-bone” clearance area. This approach can reduce unnecessary plane copper between the two vias and create a more symmetrical electromagnetic environment around the differential via pair. The main benefits include: Better control of differential impedance toward the target value; Improved structural symmetry and reduced risk of differential-to-common-mode conversion; Reduced unnecessary local electromagnetic coupling between the vias. However, a dog-bone-shaped antipad is not a universal solution for every differential via structure. The final shape and dimensions should still be determined based on via spacing, stackup, target impedance, and simulation results."
+    },
+    {
+      "hash": "656afff0ca9316abdeda47154bf7d31fc2ec824c",
+      "heading": "How Large Should a PCB Antipad Be?",
+      "level": "h2",
+      "text": "How Large Should a PCB Antipad Be? Antipad design is a typical case of “too much of a good thing.” If the antipad is too small, electromagnetic coupling between the via and reference plane increases, potentially increasing parasitic capacitance. If it is too large, reference plane continuity may be affected. Therefore, the PCB antipad needs to balance impedance control, return current paths, and manufacturing capability."
+    },
+    {
+      "hash": "620f0f4e10723ab8bf249720a2acc0f769420a1b",
+      "heading": "Key Guidelines for High-Speed PCB Antipad Design",
+      "level": "h3",
+      "text": "Key Guidelines for High-Speed PCB Antipad Design 1. Do Not Simply Apply a Fixed Mil Value There is no universal antipad size that works for every high-speed PCB. The actual dimensions should be optimized according to via hole diameter, pad size, dielectric thickness, material Dk, reference plane position, and target impedance. 2. Meet Manufacturing Rules Before Optimizing Impedance An initial antipad size can be established according to the PCB manufacturer's design rules and then refined through impedance calculation or simulation. 3. Maintain Symmetry in Differential Vias For differential via structures, the geometry and electromagnetic environment around the positive and negative vias should be as symmetrical as possible to maintain differential impedance and reduce mode conversion. 4. Simulate the Complete Via Transition for High-Speed Links For high-speed links above 10 Gbps, as well as interfaces such as PCIe, USB, and SerDes that have strict requirements for channel loss and impedance continuity, fixed empirical dimensions should not be applied directly."
+    },
+    {
+      "hash": "171ddd4ed0b72f0a9dbb0e11c87b51db5a0a8109",
+      "heading": "Conclusion",
+      "level": "h2",
+      "text": "Conclusion Effective high-speed PCB design is not simply about creating an antipad around a via. It requires an understanding of the relationship between parasitic capacitance, via impedance, reference planes, return current paths, and signal integrity. An antipad that is too small may increase capacitive loading and cause local impedance to decrease, while an oversized antipad may affect reference plane continuity. For high-speed differential vias, designers must also consider structural symmetry, differential impedance, and mode conversion. Therefore, there is no single antipad size that is suitable for every PCB. A properly designed PCB antipad should be optimized according to the target impedance and signal integrity requirements, together with the PCB stackup, via geometry, manufacturing capability, and simulation results. This helps maintain a more continuous and stable electromagnetic environment throughout the high-speed signal path."
+    },
+    {
+      "hash": "2d64685a412221e66c81d02c4195787053ac5c62",
+      "heading": "Related articles",
+      "level": "h3",
+      "text": "Related articles Why Antipads Matter for Signal Integrity in High-Speed PCB Design Differential Pair Routing Guidelines for High-Speed PCB Design Best High-Speed PCB Design Practices How to Ensure PCB Design Signal Integrity？"
+    }
+  ],
+  "sitemap_lastmod": "",
+  "status": 200,
+  "structure_hash": "f77fc53fd556859efb2697e903aeda145602f4f4",
+  "text_excerpt": "PCBWay Community Search title or content Search PCBWay PCB Instant Quote CNC | 3D Printing Login Sign Up More Notifications No notifications. My Profile My projects My Likes My Deals My Goods for Bazaar Settings Sign Out Projects Categories DIY Electronics Arduino Hardware Audio Computers & USB Breakout Board Projects Home Automation LED Displays & Matrices IoT Robotics View all categories By Source Files Onju Voice - AI assistant replacement to Google Nest Mini by @justLV LogicAnalyzer V6.0 DIY 1kW Open Source MPPT Solar Charge Controller Tad Boy Color SummerCart64 - a fully open source N64 flashcart kv4p HT v1.7b QuinLED-Dig-Uno Arduino RC engine sound & light controller with inertia simulation for ESP32 Bike Fingerprint - PCB Solar Powered WiFi Weather Station V2.0 RIP-Felix PS3 Tantalizer Frog Boy Color View all source files projects Featured Projects Onju Voice - AI assistant replacement to Google Nest Mini by @justLV LogicAnalyzer V6.0 DIY 1kW Open Source MPPT Solar Charge Controller Featured Source Files Video View all projects Questions Sponsorships PCBWay Future Innovators Program Feedback Blog Store PCB Design Contest - 9th Project Design Contest - 2026 KiCad PCB Design...",
+  "text_hash": "5e884900582c0b943e7fd95d3760ade730946ff9",
+  "title": "Why Antipads Matter for Signal Integrity in High-Speed PCB Design - PCB Design & Layout - PCBway",
+  "url": "https://www.pcbway.com/blog/PCB_Design_Layout/Why_Antipads_Matter_for_Signal_Integrity_in_High_Speed_PCB_Design_c4a6b5dc.html"
+}

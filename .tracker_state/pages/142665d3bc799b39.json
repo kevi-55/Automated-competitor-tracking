@@ -1,0 +1,235 @@
+{
+  "canonical": "",
+  "category": "content",
+  "competitor": "PCBWay",
+  "ctas": [
+    {
+      "href": "https://www.pcbway.com/orderonline.aspx",
+      "text": "PCB Instant Quote"
+    },
+    {
+      "href": "javascript:void(0)",
+      "text": "Sign Up"
+    },
+    {
+      "href": "https://www.pcbway.com/project/shareproject?order=1",
+      "text": "By Source Files"
+    },
+    {
+      "href": "https://www.pcbway.com/project/shareproject?order=1",
+      "text": "View all source files projects"
+    },
+    {
+      "href": "https://www.pcbway.com/project/shareproject?order=1",
+      "text": "Source Files"
+    },
+    {
+      "href": "https://www.pcbway.com/order/QuoteLayout?designType=1",
+      "text": "PCB layout"
+    },
+    {
+      "href": "https://www.pcbway.com/pcbdesign/quotedesign",
+      "text": "PCB design"
+    },
+    {
+      "href": "https://www.pcbway.com/pcbdesign/quotedesign",
+      "text": "Get Free Design Quote"
+    },
+    {
+      "href": "https://www.pcbway.com/blog/club-publish.html",
+      "text": "Submit for Publication"
+    },
+    {
+      "href": "https://www.pcbway.com/blog/Activities/Submit_for_Publication___Now_I_Write_Articles_in_PCBWay.html",
+      "text": "Write for PCBWay"
+    },
+    {
+      "href": "https://www.pcbway.com/blog?tag=PCB+industry",
+      "text": "PCB industry"
+    },
+    {
+      "href": "https://www.pcbway.com/contact.html",
+      "text": "Contact us"
+    }
+  ],
+  "discovered_via": "links",
+  "fetched_at": "2026-09-24T06:18:06+00:00",
+  "final_url": "https://www.pcbway.com/blog/PCB_Design_Layout/Can_AGND_and_DGND_Be_Connected_Directly_in_ADC_PCB_Design_6fee109f.html",
+  "first_seen_at": "2026-09-24T06:18:06+00:00",
+  "h1": "Can AGND and DGND Be Connected Directly in ADC PCB Design?",
+  "headings": [
+    {
+      "level": "h1",
+      "text": "Can AGND and DGND Be Connected Directly in ADC PCB Design?"
+    },
+    {
+      "level": "h2",
+      "text": "Why Do ADCs and DACs Have Separate AGND and DGND Pins?"
+    },
+    {
+      "level": "h2",
+      "text": "Should AGND and DGND Be Connected Directly?"
+    },
+    {
+      "level": "h2",
+      "text": "Why Ground Plane Splitting Can Cause More Problems"
+    },
+    {
+      "level": "h2",
+      "text": "Four Critical Return Paths in ADC PCB Layout"
+    },
+    {
+      "level": "h3",
+      "text": "1. Analog Input Return"
+    },
+    {
+      "level": "h3",
+      "text": "2. ADC Power Return"
+    },
+    {
+      "level": "h3",
+      "text": "3. Digital Interface Return"
+    },
+    {
+      "level": "h3",
+      "text": "4. AGND/DGND Connection Inside the PCB Layout"
+    },
+    {
+      "level": "h2",
+      "text": "Should You Use a Ferrite Bead Between AGND and DGND?"
+    },
+    {
+      "level": "h2",
+      "text": "Key AGND vs DGND Considerations for Mixed-Signal PCB Design"
+    },
+    {
+      "level": "h3",
+      "text": "Related articles"
+    }
+  ],
+  "images": [
+    {
+      "alt": "",
+      "src": "/project/img/images/avatar/user-pic.png"
+    },
+    {
+      "alt": "",
+      "src": "/project/img/images/loading-pro.gif"
+    },
+    {
+      "alt": "",
+      "src": "https://pcbwayfile.s3.us-west-2.amazonaws.com/web/23/10/03/1152415436848m.jpeg"
+    },
+    {
+      "alt": "",
+      "src": "https://pcbwayfile.s3.us-west-2.amazonaws.com/web/25/02/01/195239553dd028d967de6453aa74b91ac0e5423e73248m.png"
+    },
+    {
+      "alt": "",
+      "src": "https://pcbwayfile.s3-us-west-2.amazonaws.com/web/21/08/30/1823256917346m.png"
+    },
+    {
+      "alt": "",
+      "src": "https://pcb-files.s3.us-west-2.amazonaws.com/web/26/09/24/112005015929397338485495086a7f138be892a5a7024t.png"
+    },
+    {
+      "alt": "",
+      "src": "https://pcb-files.s3.us-west-2.amazonaws.com/web/26/09/24/112255327cbbd21ea267b4023bd49ec4ef7de54d47427t.png"
+    },
+    {
+      "alt": "",
+      "src": "https://pcb-files.s3.us-west-2.amazonaws.com/web/26/09/24/1132203443a9ffb40372a41a0a4da6d3b41b0cd9d5638t.png"
+    },
+    {
+      "alt": "",
+      "src": "/img/images/note-tips.png"
+    }
+  ],
+  "meta_description": "",
+  "modified_at": "",
+  "monitored_text": "PCBWay Community Search title or content Search PCBWay PCB Instant Quote CNC | 3D Printing Login Sign Up More Notifications No notifications. My Profile My projects My Likes My Deals My Goods for Bazaar Settings Sign Out Projects Categories DIY Electronics Arduino Hardware Audio Computers & USB Breakout Board Projects Home Automation LED Displays & Matrices IoT Robotics View all categories By Source Files Onju Voice - AI assistant replacement to Google Nest Mini by @justLV LogicAnalyzer V6.0 DIY 1kW Open Source MPPT Solar Charge Controller Tad Boy Color SummerCart64 - a fully open source N64 flashcart kv4p HT v1.7b QuinLED-Dig-Uno Arduino RC engine sound & light controller with inertia simulation for ESP32 Bike Fingerprint - PCB Solar Powered WiFi Weather Station V2.0 RIP-Felix PS3 Tantalizer Frog Boy Color View all source files projects Featured Projects Onju Voice - AI assistant replacement to Google Nest Mini by @justLV LogicAnalyzer V6.0 DIY 1kW Open Source MPPT Solar Charge Controller Featured Source Files Video View all projects Questions Sponsorships PCBWay Future Innovators Program Feedback Blog Store PCB Design Contest - 9th Project Design Contest - 2026 KiCad PCB Design Contest - 8th Project Design Contest - 7th Project Design Contest - KiCad Design Contest - 6th Project Design Contest - 5th PCB Design Contest - 4th PCB Design Contest - Raspberry Pi Pico Contest - PCB Design Tutorial - 3rd PCB Design Contest - I CAN SOLDER Kit Contest - 2nd PCB Design Contest - 1st PCB Design Contest Add questions Create a project Please verify your email address so that you can enjoy our more comprehensive services. Verify Now Blog > Can AGND and DGND Be Connected Directly in ADC PCB Design? Can AGND and DGND Be Connected Directly in ADC PCB Design? by: Mila Sep 24,2026 <dynamic-value> <dynamic-value> Posted in PCB Design & Layout PCB layout agnd vs dgnd mixed-signal PCB design ADC PCB layout When designing an ADC or DAC, one of the most common questions in PCB layout is how to handle the AGND and DGND pins. If a device has separate analog and digital ground pins, should they be connected directly, separated into different ground planes, or joined at a single point? This question is especially important in ADC PCB layout and mixed-signal PCB design, where fast digital switching currents can potentially interfere with sensitive analog circuits. To understand the right approach to AGND vs DGND, the key is not simply whether the two grounds are connected, but how the return currents flow through the PCB. (schematic with AGND & GND) Why Do ADCs and DACs Have Separate AGND and DGND Pins? An ADC can be roughly understood as having two different domains. One side contains the sampling circuit, op amp, reference, comparator, PGA, DAC core, and analog bias circuits. These belong to the analog domain. The other side contains the SPI/I²C interface, digital logic, registers, clock, state machine, and other digital circuits. These belong to the digital domain. One of the biggest characteristics of digital circuits is that their current can change very quickly. For example, when an SPI interface operates at tens of MHz, every clock transition can generate transient current. These currents need to form a complete return path through the power and ground network. This is where the problem begins. Assume the digital return current is: ID = 50 mA and it flows through a PCB trace with only: R = 20 mΩ The resulting ground voltage variation is: V = IR = 50 mA × 20 mΩ = 1 mV. 1 mV may look very small, but it is not necessarily negligible for a high-resolution ADC. For example, consider a 16-bit ADC with a 2.5 V full-scale range: 1 LSB ≈ 2.5 V / 65536 ≈ 38.1 μV Therefore, a 1 mV ground voltage variation corresponds to approximately: 1 mV / 38.1 μV ≈ 26 LSB Of course, the actual ADC conversion error depends on how this ground disturbance couples into the analog input, reference, and internal circuits. However, this example illustrates an important point: For a high-precision ADC, the key concern is not simply how low the ground resistance is, but where the digital return current flows. This is one of the fundamental considerations in ADC PCB layout and mixed-signal PCB design. Should AGND and DGND Be Connected Directly? In many designs, AGND and DGND ultimately connect to the same ground reference. However, there is an important condition: this does not mean that AGND and DGND can simply be connected with two arbitrary traces and left at that. If the ADC or DAC datasheet specifies that AGND and DGND should be connected close to the device, follow the manufacturer's recommended layout. For many high-precision ADCs and DACs, the recommended PCB layout is designed to maintain a low-impedance, low-inductance connection between AGND and DGND while preventing digital return currents from flowing through sensitive analog areas. Therefore, AGND and DGND do not necessarily need to be electrically isolated. What matters more is controlling the return-current path. (return-current path) Why Ground Plane Splitting Can Cause More Problems In traditional PCB layout, it is common to see analog and digital areas separated into AGND and DGND regions, with the two planes connected at a single point. It may look like a professional solution, but there is an important question: What happens to the return current when a digital signal crosses from the digital area into the analog area? For high-speed digital signals, return current tends to follow the lowest-impedance path in the reference plane and is concentrated near the area directly underneath the signal trace. If the ground plane is split, the return current can no longer follow a short path underneath the signal. Instead, it may have to travel around the split. As the return path becomes longer, the loop area increases and parasitic inductance can also increase. This may result in more EMI and crosstalk rather than less. Therefore, splitting the ground plane does not automatically reduce noise. In some cases, it can actually make signal integrity and EMI problems worse. This is especially important when a high-speed signal crosses a ground-plane split. The return current is forced to take a longer path, which can increase the loop area and introduce additional noise. For this reason, a good mixed-signal PCB design does not simply focus on physically separating analog and digital grounds. It focuses on keeping the return-current paths controlled and predictable. (AGND plane & DGND plane) Four Critical Return Paths in ADC PCB Layout For an ADC, the most important consideration is not simply whether the analog and digital grounds are physically separated. Instead, different types of return current should follow appropriate paths and avoid sensitive circuits whenever possible. 1. Analog Input Return The reference ground for the analog input should be located as close as practical to the ADC's AGND. Avoid allowing the analog input return current to travel through the MCU area or other high-noise digital regions. 2. ADC Power Return The return path from the AVDD decoupling capacitor should be kept short and should return to the analog ground near the ADC. The effectiveness of a decoupling capacitor depends not only on whether the capacitor is present, but also on the loop formed by the power pin, capacitor, and ground connection. Keeping this loop small is an important part of good ADC PCB layout . 3. Digital Interface Return High-speed transitions on SPI signals such as SCLK, MOSI, MISO, and CS can generate high-frequency transient currents. These return currents should form a compact loop near the digital interface whenever possible, rather than flowing through sensitive analog ground regions. 4. AGND/DGND Connection Inside the PCB Layout Regardless of how the PCB is partitioned, AGND and DGND ultimately need to return to the same system reference ground. Whether the connection should use a single-point connection, a local connection, or a continuous ground plane depends on the ADC/DAC manufacturer's datasheet and recommended PCB layout. So, what you really want to achieve is: Keep different types of return current on controlled paths rather than simply separating the two ground planes. Should You Use a Ferrite Bead Between AGND and DGND? This is one area where I would strongly recommend against blindly applying a common rule. A design like this is sometimes seen: AGND ─── Ferrite Bead ─── DGND The idea is that the ferrite bead can block digital noise from reaching the analog ground. In certain power-filtering applications, ferrite beads can indeed provide frequency-dependent impedance and help suppress high-frequency noise. However, ground is not simply a noise path. It is an important system reference and also provides return-current paths for signals. Once a frequency-dependent component is inserted between AGND and DGND, a voltage difference between the two ground domains can develop depending on the current and frequency. For high-precision ADCs and DACs, this ground potential difference can itself become a source of error or noise. Therefore, unless the device manufacturer specifically recommends it, do not add a ferrite bead between AGND and DGND simply because you have heard that analog and digital grounds should be isolated. Key AGND vs DGND Considerations for Mixed-Signal PCB Design In summary, AGND and DGND can often share the same ground reference, but the exact connection method should always follow the ADC/DAC manufacturer's datasheet and recommended PCB layout. When designing the board, pay particular attention to: Whether digital return current flows through sensitive analog areas Whether the analog input return path is short and well controlled Whether the ADC power-decoupling loop is compact Whether high-speed digital signals cross a ground-plane split Whether unnecessary impedance exists between AGND and DGND So, instead of simply thinking: \"Analog ground must always be separated from digital ground.\" A more accurate way to think about AGND vs DGND is: The grounds can be shared, but the return currents should be controlled. The ground plane can remain continuous, but the paths taken by noise currents must be carefully managed. For ADCs, DACs, and other mixed-signal devices, good mixed-signal PCB design is not simply about physically isolating analog and digital ground. It is about using proper PCB layout, routing, decoupling, and return-path control to prevent digital noise from coupling into sensitive analog circuits. Enter the year of your birth and check your Chinese Zodiac. Get Free Design Quote Join us Wanna be a dedicated PCBWay writer? We definately look forward to having you with us. Submit for Publication Become Our Writer Leave a Comment ( 0 ) Share to: Previous：PCB Conformal Coating: Which Components Need Masking? Next：PCBWay Store NewArrival Product - M5StackChan AI Desktop Robot Kit Related articles Can AGND and DGND Be Connected Directly in ADC PCB Design? PCB Layout Guide to Interface Driver and Connector Placement PCB Impedance Control Guide: How to Fix Impedance Discontinuities in PCB Layout Copper Keep-out Guidelines for PCB Layout and Component Layout Comments ( 0 ) Log in to post comments. Upload photo You can only upload 5 files in total. Each file cannot exceed 2MB. Supports JPG, JPEG, GIF, PNG, BMP 0 / 10000 It looks like you have not written anything. Please add a comment and try again. You can upload up to 5 images! Image size should not exceed 2MB! File format not supported! Post Comment Write for PCBWay Categories Select a Category 3D Printing Activities CNC Machining Engineering Technical Flexible PCB HDI PCB Help Center Injection Molding News PCB Assembly PCB Basic Information PCB Design & Layout PCB Design Tutorial PCB Layout Software PCB Manufacturing Information PCBWay Store Rigid-Flex PCB Sheet Metal Technology Table of Contents Why Do ADCs and DACs Have Separate AGND and DGND Pins? Should AGND and DGND Be Connected Directly? Why Ground Plane Splitting Can Cause More Problems Four Critical Return Paths in ADC PCB Layout Should You Use a Ferrite Bead Between AGND and DGND? Key AGND vs DGND Considerations for Mixed-Signal PCB Design HOT TAG PCB Printed Circuit Board PCB design PCB Board PCB layout Circuit Board Printed Circuit Boards PCB Design Tutorial PCB industry pcb manufacturing KiCad pcbway IF YOU MISSED IT 1 PCB Layout Design Process from Schematic to Manufacturing 2 Can AGND and DGND Be Connected Directly in ADC PCB Design? 3 PCB Conformal Coating: Which Components Need Masking? 4 Why Antipads Matter for Signal Integrity in High-Speed PCB Design 5 0402 vs 0603 Capacitor for High-Speed PCB Decoupling 6 Why ICs Fail After Passing ESD Tests and How ESD Differs from EOS 7 PCB Layout Guide to Interface Driver and Connector Placement 8 High-Speed ADC PCB Layout Guide: EPAD, PDS, and Grounding Best Practices 9 How to Properly Handle Unused IC Pins in Schematic Design The PCB Way that recognize the talent and effort of the best ELECTRONIC designers in the World. © COPYRIGHT 2019 About us Contact us Follow us on Share to Facebook Share to Twitter Share to Reddit Share to Linkedin Back to top",
+  "published_at": "2026-09-24T00:00:00+00:00",
+  "requested_url": "https://www.pcbway.com/blog/PCB_Design_Layout/Can_AGND_and_DGND_Be_Connected_Directly_in_ADC_PCB_Design_6fee109f.html",
+  "schema_version": 2,
+  "sections": [
+    {
+      "hash": "1bd88d46616126d234b792f3c6d353e06bebb7b3",
+      "heading": "Can AGND and DGND Be Connected Directly in ADC PCB Design?",
+      "level": "h1",
+      "text": "Can AGND and DGND Be Connected Directly in ADC PCB Design? by: Mila Sep 24,2026 <dynamic-value> <dynamic-value> Posted in PCB Design & Layout PCB layout agnd vs dgnd mixed-signal PCB design ADC PCB layout When designing an ADC or DAC, one of the most common questions in PCB layout is how to handle the AGND and DGND pins. If a device has separate analog and digital ground pins, should they be connected directly, separated into different ground planes, or joined at a single point? This question is especially important in ADC PCB layout and mixed-signal PCB design, where fast digital switching currents can potentially interfere with sensitive analog circuits. To understand the right approach to AGND vs DGND, the key is not simply whether the two grounds are connected, but how the return currents flow through the PCB. (schematic with AGND & GND) Why Do ADCs and DACs Have Separate AGND and DGND Pins? An ADC can be roughly understood as having two different domains. One side contains the sampling circuit, op amp, reference, comparator, PGA, DAC core, and analog bias circuits. These belong to the analog domain. The other side contains the SPI/I²C interface, digital logic, registers, cloc..."
+    },
+    {
+      "hash": "f970866599d78b3f45b13ceba424af287a9f10d1",
+      "heading": "Why Do ADCs and DACs Have Separate AGND and DGND Pins?",
+      "level": "h2",
+      "text": "Why Do ADCs and DACs Have Separate AGND and DGND Pins? An ADC can be roughly understood as having two different domains. One side contains the sampling circuit, op amp, reference, comparator, PGA, DAC core, and analog bias circuits. These belong to the analog domain. The other side contains the SPI/I²C interface, digital logic, registers, clock, state machine, and other digital circuits. These belong to the digital domain. One of the biggest characteristics of digital circuits is that their current can change very quickly. For example, when an SPI interface operates at tens of MHz, every clock transition can generate transient current. These currents need to form a complete return path through the power and ground network. This is where the problem begins. Assume the digital return current is: ID = 50 mA and it flows through a PCB trace with only: R = 20 mΩ The resulting ground voltage variation is: V = IR = 50 mA × 20 mΩ = 1 mV. 1 mV may look very small, but it is not necessarily negligible for a high-resolution ADC. For example, consider a 16-bit ADC with a 2.5 V full-scale range: 1 LSB ≈ 2.5 V / 65536 ≈ 38.1 μV"
+    },
+    {
+      "hash": "a8a95b1622b90a761ae86480321207c2b86307e6",
+      "heading": "Should AGND and DGND Be Connected Directly?",
+      "level": "h2",
+      "text": "Should AGND and DGND Be Connected Directly? In many designs, AGND and DGND ultimately connect to the same ground reference. However, there is an important condition: this does not mean that AGND and DGND can simply be connected with two arbitrary traces and left at that. If the ADC or DAC datasheet specifies that AGND and DGND should be connected close to the device, follow the manufacturer's recommended layout. For many high-precision ADCs and DACs, the recommended PCB layout is designed to maintain a low-impedance, low-inductance connection between AGND and DGND while preventing digital return currents from flowing through sensitive analog areas. Therefore, AGND and DGND do not necessarily need to be electrically isolated. What matters more is controlling the return-current path. (return-current path)"
+    },
+    {
+      "hash": "e7bd2b12a09ec58b0d8fcf7e8fb9dcc906074a8d",
+      "heading": "Why Ground Plane Splitting Can Cause More Problems",
+      "level": "h2",
+      "text": "Why Ground Plane Splitting Can Cause More Problems In traditional PCB layout, it is common to see analog and digital areas separated into AGND and DGND regions, with the two planes connected at a single point. It may look like a professional solution, but there is an important question: What happens to the return current when a digital signal crosses from the digital area into the analog area? For high-speed digital signals, return current tends to follow the lowest-impedance path in the reference plane and is concentrated near the area directly underneath the signal trace. If the ground plane is split, the return current can no longer follow a short path underneath the signal. Instead, it may have to travel around the split. As the return path becomes longer, the loop area increases and parasitic inductance can also increase. This may result in more EMI and crosstalk rather than less. Therefore, splitting the ground plane does not automatically reduce noise. In some cases, it can actually make signal integrity and EMI problems worse. This is especially important when a high-speed signal crosses a ground-plane split. The return current is forced to take a longer path, which can in..."
+    },
+    {
+      "hash": "75b6beb094add9920b7a36455bbcf0d484162cec",
+      "heading": "Four Critical Return Paths in ADC PCB Layout",
+      "level": "h2",
+      "text": "Four Critical Return Paths in ADC PCB Layout For an ADC, the most important consideration is not simply whether the analog and digital grounds are physically separated. Instead, different types of return current should follow appropriate paths and avoid sensitive circuits whenever possible."
+    },
+    {
+      "hash": "c865c21bedb6423ee837f77c1d59acdf18be1638",
+      "heading": "1. Analog Input Return",
+      "level": "h3",
+      "text": "1. Analog Input Return The reference ground for the analog input should be located as close as practical to the ADC's AGND. Avoid allowing the analog input return current to travel through the MCU area or other high-noise digital regions."
+    },
+    {
+      "hash": "d76bbf8705648c1d026de23414518cd3eb834711",
+      "heading": "2. ADC Power Return",
+      "level": "h3",
+      "text": "2. ADC Power Return The return path from the AVDD decoupling capacitor should be kept short and should return to the analog ground near the ADC. The effectiveness of a decoupling capacitor depends not only on whether the capacitor is present, but also on the loop formed by the power pin, capacitor, and ground connection. Keeping this loop small is an important part of good ADC PCB layout ."
+    },
+    {
+      "hash": "7f7b6be9cd024c306651f818dd71ce189e524540",
+      "heading": "3. Digital Interface Return",
+      "level": "h3",
+      "text": "3. Digital Interface Return High-speed transitions on SPI signals such as SCLK, MOSI, MISO, and CS can generate high-frequency transient currents. These return currents should form a compact loop near the digital interface whenever possible, rather than flowing through sensitive analog ground regions."
+    },
+    {
+      "hash": "16d1b54c1b547da7357bff7eb24268e80d7aa2a6",
+      "heading": "4. AGND/DGND Connection Inside the PCB Layout",
+      "level": "h3",
+      "text": "4. AGND/DGND Connection Inside the PCB Layout Regardless of how the PCB is partitioned, AGND and DGND ultimately need to return to the same system reference ground. Whether the connection should use a single-point connection, a local connection, or a continuous ground plane depends on the ADC/DAC manufacturer's datasheet and recommended PCB layout. So, what you really want to achieve is: Keep different types of return current on controlled paths rather than simply separating the two ground planes."
+    },
+    {
+      "hash": "30864bd19c1be37ebf3d3a244fd7f199e2b3b2a7",
+      "heading": "Should You Use a Ferrite Bead Between AGND and DGND?",
+      "level": "h2",
+      "text": "Should You Use a Ferrite Bead Between AGND and DGND? This is one area where I would strongly recommend against blindly applying a common rule. A design like this is sometimes seen: AGND ─── Ferrite Bead ─── DGND The idea is that the ferrite bead can block digital noise from reaching the analog ground. In certain power-filtering applications, ferrite beads can indeed provide frequency-dependent impedance and help suppress high-frequency noise. However, ground is not simply a noise path. It is an important system reference and also provides return-current paths for signals. Once a frequency-dependent component is inserted between AGND and DGND, a voltage difference between the two ground domains can develop depending on the current and frequency. For high-precision ADCs and DACs, this ground potential difference can itself become a source of error or noise. Therefore, unless the device manufacturer specifically recommends it, do not add a ferrite bead between AGND and DGND simply because you have heard that analog and digital grounds should be isolated."
+    },
+    {
+      "hash": "97f36d0686029512959e8d563e839a39f22c264b",
+      "heading": "Key AGND vs DGND Considerations for Mixed-Signal PCB Design",
+      "level": "h2",
+      "text": "Key AGND vs DGND Considerations for Mixed-Signal PCB Design In summary, AGND and DGND can often share the same ground reference, but the exact connection method should always follow the ADC/DAC manufacturer's datasheet and recommended PCB layout. When designing the board, pay particular attention to: Whether digital return current flows through sensitive analog areas Whether the analog input return path is short and well controlled Whether the ADC power-decoupling loop is compact Whether high-speed digital signals cross a ground-plane split Whether unnecessary impedance exists between AGND and DGND So, instead of simply thinking: \"Analog ground must always be separated from digital ground.\" A more accurate way to think about AGND vs DGND is: The grounds can be shared, but the return currents should be controlled. The ground plane can remain continuous, but the paths taken by noise currents must be carefully managed. For ADCs, DACs, and other mixed-signal devices, good mixed-signal PCB design is not simply about physically isolating analog and digital ground. It is about using proper PCB layout, routing, decoupling, and return-path control to prevent digital noise from coupling int..."
+    },
+    {
+      "hash": "c19a534595cc54a03642097e20044081ab97f68d",
+      "heading": "Related articles",
+      "level": "h3",
+      "text": "Related articles Can AGND and DGND Be Connected Directly in ADC PCB Design? PCB Layout Guide to Interface Driver and Connector Placement PCB Impedance Control Guide: How to Fix Impedance Discontinuities in PCB Layout Copper Keep-out Guidelines for PCB Layout and Component Layout"
+    }
+  ],
+  "sitemap_lastmod": "",
+  "status": 200,
+  "structure_hash": "85091ae3a73cc0fc834f40e0dda327b53f5ee50d",
+  "text_excerpt": "PCBWay Community Search title or content Search PCBWay PCB Instant Quote CNC | 3D Printing Login Sign Up More Notifications No notifications. My Profile My projects My Likes My Deals My Goods for Bazaar Settings Sign Out Projects Categories DIY Electronics Arduino Hardware Audio Computers & USB Breakout Board Projects Home Automation LED Displays & Matrices IoT Robotics View all categories By Source Files Onju Voice - AI assistant replacement to Google Nest Mini by @justLV LogicAnalyzer V6.0 DIY 1kW Open Source MPPT Solar Charge Controller Tad Boy Color SummerCart64 - a fully open source N64 flashcart kv4p HT v1.7b QuinLED-Dig-Uno Arduino RC engine sound & light controller with inertia simulation for ESP32 Bike Fingerprint - PCB Solar Powered WiFi Weather Station V2.0 RIP-Felix PS3 Tantalizer Frog Boy Color View all source files projects Featured Projects Onju Voice - AI assistant replacement to Google Nest Mini by @justLV LogicAnalyzer V6.0 DIY 1kW Open Source MPPT Solar Charge Controller Featured Source Files Video View all projects Questions Sponsorships PCBWay Future Innovators Program Feedback Blog Store PCB Design Contest - 9th Project Design Contest - 2026 KiCad PCB Design...",
+  "text_hash": "ec6f5d3ef93006fd04cdab951b483c8151e02c32",
+  "title": "Can AGND and DGND Be Connected Directly in ADC PCB Design? - PCB Design & Layout - PCBway",
+  "url": "https://www.pcbway.com/blog/PCB_Design_Layout/Can_AGND_and_DGND_Be_Connected_Directly_in_ADC_PCB_Design_6fee109f.html"
+}
