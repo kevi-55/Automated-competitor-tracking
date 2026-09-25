@@ -2,9 +2,14 @@
   "canonical": "https://www.xometry.com/resources/data-center/raised-floor",
   "category": "content",
   "competitor": "Xometry",
-  "ctas": [],
+  "ctas": [
+    {
+      "href": "https://www.xometry.com/resources/case-studies/partner-m3-aerospace",
+      "text": "How M3 Aerospace Grew Its Machine Shop 4x in 12 Months With Xometry"
+    }
+  ],
   "discovered_via": "feed",
-  "fetched_at": "2026-09-22T06:10:36+00:00",
+  "fetched_at": "2026-09-25T06:11:12+00:00",
   "final_url": "https://www.xometry.com/resources/data-center/raised-floor",
   "first_seen_at": "2026-09-16T06:01:37+00:00",
   "h1": "Raised Floor in Data Centers: Systems, Specifications, and Best Practices",
@@ -250,9 +255,9 @@
   ],
   "sitemap_lastmod": "",
   "status": 200,
-  "structure_hash": "072473a19b365fed207574c084a34332bc5cac70",
+  "structure_hash": "08fb1b5ff4c732727d78ce7abbc147e62c7d6383",
   "text_excerpt": "Resources Data Centers Raised Floor in Data Centers: Systems, Specifications, and Best Practices Raised Floor in Data Centers: Systems, Specifications, and Best Practices 30 min read Published September 15, 2026 Raised Floor in Data Centers defines the elevated flooring structures used to route cables, distribute cooling air, and support server infrastructure within modern facilities. Raised Floor in Data Centers spans panel types, pedestal support systems, load ratings, and airflow management strategies applied across enterprise and colocation environments. Elevated flooring creates a plenum space beneath server rows, separating structural concrete from equipment mounting surfaces. The guide covers core components (pedestals, stringers, panels), system types, panel construction options, load and height specifications, tile selection for cooling, installation procedures, and maintenance practices. Height selection depends on cable volume, cooling requirements, and equipment density, with common ranges spanning 12 to 36 inches depending on facility scale. Panel construction varies between encapsulated steel, concrete-filled, and aluminum designs, each offering different strength an...",
-  "text_hash": "77f9df148c8389587f6cca8bbfd2f5c3665f2d42",
+  "text_hash": "162ca7be027b82ec5feaa82eac7be19a6d9fbd1e",
   "title": "Raised Floor in Data Centers: Systems, Specifications, and Best Practices",
   "url": "https://www.xometry.com/resources/data-center/raised-floor"
 }

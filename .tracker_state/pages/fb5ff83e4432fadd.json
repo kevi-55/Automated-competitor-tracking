@@ -2,9 +2,14 @@
   "canonical": "https://www.xometry.com/resources/data-center/data-center-storage",
   "category": "content",
   "competitor": "Xometry",
-  "ctas": [],
+  "ctas": [
+    {
+      "href": "https://www.xometry.com/resources/case-studies/partner-m3-aerospace",
+      "text": "How M3 Aerospace Grew Its Machine Shop 4x in 12 Months With Xometry"
+    }
+  ],
   "discovered_via": "feed",
-  "fetched_at": "2026-09-22T06:10:35+00:00",
+  "fetched_at": "2026-09-25T06:11:11+00:00",
   "final_url": "https://www.xometry.com/resources/data-center/data-center-storage",
   "first_seen_at": "2026-09-16T06:01:35+00:00",
   "h1": "Data Center Storage: Systems and Architecture",
@@ -296,9 +301,9 @@
   ],
   "sitemap_lastmod": "",
   "status": 200,
-  "structure_hash": "498a45b8c2870032abcb6c215027b0ca50e3febf",
+  "structure_hash": "b24fec8640aaa26e5c6af7af501a2421a972bf64",
   "text_excerpt": "Resources Data Centers Data Center Storage: Systems and Architecture Data Center Storage: Systems and Architecture Written by Megan Conniff Updated by Audrius Zidonis PhD 26 min read Published September 15, 2026 Data Center Storage refers to the technologies, storage systems, hardware, and architectural frameworks that store, organize, protect, and deliver digital data across enterprise computing environments. Data Center Storage establishes the foundation for reliable business operations by supporting databases, virtual machines, cloud platforms, enterprise applications, backup repositories, and analytics workloads. Enterprise environments rely on storage platforms that maintain high data availability, fast retrieval speeds, and consistent performance under heavy workloads. Modern storage environments combine enterprise storage hardware, intelligent management software, redundancy mechanisms, and security controls that preserve data integrity throughout the storage lifecycle. Data Center Storage covers storage architecture, storage technologies, deployment models, hardware platforms, protection strategies, and performance management across enterprise facilities. Storage environme...",
-  "text_hash": "3f8cd41a842539ee0bf3a99d79a564f9697fcc68",
+  "text_hash": "cacb5b1675c8e301392e57e38907f601faf3ed93",
   "title": "Data Center Storage: Systems and Architecture",
   "url": "https://www.xometry.com/resources/data-center/data-center-storage"
 }

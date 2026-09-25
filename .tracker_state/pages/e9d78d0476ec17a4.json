@@ -46,10 +46,14 @@
     {
       "href": "https://www.xometry.com/authors/megan-conniff",
       "text": "Read more articles by Megan Conniff"
+    },
+    {
+      "href": "https://www.xometry.com/resources/case-studies/partner-m3-aerospace",
+      "text": "How M3 Aerospace Grew Its Machine Shop 4x in 12 Months With Xometry"
     }
   ],
   "discovered_via": "feed",
-  "fetched_at": "2026-09-22T06:10:40+00:00",
+  "fetched_at": "2026-09-25T06:11:16+00:00",
   "final_url": "https://www.xometry.com/resources/machining/draft-angle",
   "first_seen_at": "2026-09-11T05:57:15+00:00",
   "h1": "Draft Angle: Calculations and Best Practices",
@@ -337,9 +341,9 @@
   ],
   "sitemap_lastmod": "",
   "status": 200,
-  "structure_hash": "8a74e9ac2eb133efe71631cfc7351e0c9f31d4ea",
+  "structure_hash": "47f3df9ff87b3ab77b302b554cd220b4b946ed7b",
   "text_excerpt": "Resources / Machining Design / Draft Angle: Calculations and Best Practices Draft Angle: Calculations and Best Practices Written by Megan Conniff Updated by Audrius Zidonis PhD 28 min read Published September 10, 2026 A draft angle is a controlled taper built into the vertical walls of a mold cavity or part, allowing the molded component to release from the mold during the opening and ejection cycle. The taper magnitude falls from 0.5 to 5 degrees, varying with cavity depth, material shrinkage rate, and the texture applied to the mold surface. Draft angle governs manufacturability, motion efficiency during ejection, and the interaction between the part surface and mold wall, serving as a foundational design parameter across injection molding, die casting, and thermoforming operations. Parts produced without sufficient taper bind against the mold, develop drag marks, warp on removal, or place excessive load on ejector pins and tooling components. The dimensional parameter shapes part quality, mold longevity, and cycle efficiency across repeated production runs. A shallow or absent draft increases contact friction between the molded surface and cavity wall, resulting in scuffed fini...",
-  "text_hash": "c19c57e9bea346e334187c312ab2e8907652a281",
+  "text_hash": "ec56357280c36b7c1cc7dc25bb22830385bfb0f6",
   "title": "Draft Angle: Calculations and Best Practices",
   "url": "https://www.xometry.com/resources/machining/draft-angle"
 }
