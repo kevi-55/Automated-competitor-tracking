@@ -1,0 +1,1012 @@
+{
+  "mode": "daily",
+  "date": "2026-09-26",
+  "subject": "[Competitor Tracking] 日报 2026-09-26 · 2 篇新内容，22 项变化",
+  "generated_at": "2026-09-26T14:22:31+08:00",
+  "events": [
+    {
+      "type": "monitor_health",
+      "priority": "high",
+      "competitor": "Fictiv",
+      "url": "https://www.fictiv.com/",
+      "category": "system",
+      "page_title": "监控健康告警",
+      "summary": "监控覆盖率明显下降",
+      "details": [
+        "上次成功页面：99",
+        "本次成功页面：59",
+        "下降：40.4%"
+      ],
+      "before": null,
+      "after": null,
+      "added": [],
+      "removed": [],
+      "change_percent": 0.0,
+      "confidence": "high"
+    },
+    {
+      "type": "monitor_health",
+      "priority": "high",
+      "competitor": "Fictiv",
+      "url": "https://www.fictiv.com/",
+      "category": "system",
+      "page_title": "监控健康告警",
+      "summary": "抓取失败率过高",
+      "details": [
+        "尝试页面：120",
+        "失败页面：60",
+        "失败率：50.0%"
+      ],
+      "before": null,
+      "after": null,
+      "added": [],
+      "removed": [],
+      "change_percent": 0.0,
+      "confidence": "high"
+    },
+    {
+      "type": "new_content",
+      "priority": "high",
+      "competitor": "Fictiv",
+      "url": "https://www.fictiv.com/articles/industrial-ai-in-manufacturing",
+      "category": "content",
+      "page_title": "Industrial AI in Manufacturing: Key Applications | Fictiv",
+      "summary": "新发布内容：Industrial AI in Manufacturing: Key Applications | Fictiv",
+      "details": [
+        "标题：Industrial AI in Manufacturing: Key Applications | Fictiv",
+        "实际发布时间：2026-09-25",
+        "系统首次发现：2026-09-26",
+        "发现延迟：0 天"
+      ],
+      "before": null,
+      "after": null,
+      "added": [],
+      "removed": [],
+      "change_percent": 0.0,
+      "confidence": "high",
+      "published_at": "2026-09-25T22:45:05+00:00",
+      "first_seen_at": "2026-09-26T06:12:37+00:00",
+      "discovered_via": "feed"
+    },
+    {
+      "type": "new_content",
+      "priority": "high",
+      "competitor": "Fictiv",
+      "url": "https://www.fictiv.com/articles/injection-molding-tolerances-an-in-depth-look",
+      "category": "content",
+      "page_title": "Injection Molding Tolerances | The Ultimate Guide",
+      "summary": "新发布内容：Injection Molding Tolerances | The Ultimate Guide",
+      "details": [
+        "标题：Injection Molding Tolerances | The Ultimate Guide",
+        "实际发布时间：2026-09-25",
+        "系统首次发现：2026-09-26",
+        "发现延迟：0 天"
+      ],
+      "before": null,
+      "after": null,
+      "added": [],
+      "removed": [],
+      "change_percent": 0.0,
+      "confidence": "high",
+      "published_at": "2026-09-25T20:53:42+00:00",
+      "first_seen_at": "2026-09-26T06:12:38+00:00",
+      "discovered_via": "feed"
+    },
+    {
+      "type": "content_changed",
+      "priority": "high",
+      "competitor": "JLC CNC",
+      "url": "https://jlccnc.com/blog/cnc-parts",
+      "category": "content",
+      "page_title": "What Are CNC Parts and How Are They Made?",
+      "summary": "页面正文发生可定位的变化",
+      "details": [],
+      "before": "Blog Knowledge Hub Materials Design & Engineering Manufacturing Services Blog Blog Knowledge Hub Fundamental knowledge covering CNC machining and sheet metal fabrication. CNC Machining Fundamentals Core CNC machining principles, cutting mechanics, and machine basics. CNC Machines & Equipment Overview of CNC machines and supporting fabrication equipment. Sheet Metal Fabrication Forming, cutting, bending, and joining fundamentals. Tools & Cutting Instruments Cutting tools, tool materials, and forming instruments. Surface Finishing Processes Finishes and treatments for machined and formed parts. Knowledge Hub Materials Material properties, machining behavior, and forming suitability. Plastics for CNC Plastic materials, machining behavior, and use cases. Metals for CNC Metal properties, machinability, and forming suitability. Material Selection Guide Choose materials based on performance, cost, and manufacturability. Materials Design & Engineering Technical design guidance for CNC parts and sheet metal components. CAD & CAM Software Modeling, toolpaths, and sheet metal design workflows. Design Tips & Best Practices Practical guidelines for manufacturable CNC and formed parts. CNC Programming G-code, programming logic, and machining strategies. Design & Engineering Manufacturing Services Process explanations, workflows, and manufacturing guidance. Custom Projects & Gifts Creative, personalized projects using machining and fabrication. Industry Use Cases Applications across engineering, consumer products, and industrial sectors. Manufacturing Solutions Process choices, workflows, and production guidance. Manufacturing Services Blog Blog Home Blog Knowledge Hub CNC Machining Fundamentals What Are CNC Parts and How Are They Made? Published Nov 20, 2024, updated Feb 08, 2025 6 min CNC machining is a cornerstone of modern manufacturing. It's a process that allows industries to produce precise, complex parts with a level of consistency that would be hard to achieve with traditional methods. But what exactly are CNC parts, and how are they made? Let's break it down in a way that's easy to understand, so whether you're a DIY enthusiast or part of a business looking to create custom parts, you'll know how CNC machining can benefit you. What Exactly Are CNC Parts? In simple terms, CNC parts are components made by Computer Numerical Control (CNC) machines. These machines are controlled by computers that follow a set of precise instructions, allowing them to carve or mill a raw material—whether it's metal , plastic , or composite materials —into the exact shape needed. The magic happens with CAD (Computer-Aided Design) software. Designers create a 3D model of the part they need, and that design is then translated into G-code , which tells the CNC machine exactly what to do. From there, the CNC machine gets to work, automatically producing parts with incredible accuracy. How Are CNC Parts Made? Here's the step-by-step process of how CNC parts come to life: Designing the Part The first step in making any CNC part is the design. Using CAD software , you or your design team create a detailed model of the part. This could be a simple bracket, or something more intricate like a custom gear. Once the design is complete, it's converted into G-code , a language that the CNC machine can understand. Setting Up the CNC Machine With the design ready, it's time to set up the CNC machine. This involves loading the material, whether it's a block of aluminum , steel , plastic , or any other material, and securing it in place. Next, the machine's tools are loaded (cutters, drills, etc.), and the G-code is programmed into the system. The Machining Process Now for the fun part—the machining! The CNC machine starts working, following the G-code to precisely cut, mill, or drill the material into the shape of the part. This is done in stages, removing material layer by layer until the part takes shape. Whether it's milling , turning , or drilling , each operation is designed to achieve the most accurate result. Finishing Touches After the main machining is complete, the part may need a little polishing, deburring, or surface finishing to smooth out rough edges or to add a special coating. This ensures that the part functions perfectly while also having a polished, professional appearance. Why Are CNC Parts So Important? CNC parts are important because they provide a level of precision and adaptability that traditional manufacturing methods simply can't achieve. Here's why they're so crucial: Precision CNC machines are incredibly precise, making them perfect for parts that need to fit together perfectly. Whether you're creating a single prototype or manufacturing parts at scale, CNC machining guarantees each component is made to precise specifications. Flexibility Across Materials CNC machining isn't limited to just one type of material. CNC machines can handle a wide variety of materials—metals like aluminum , titanium , or stainless steel , as well as plastics like ABS and nylon . This flexibility makes CNC a great option for almost any type of project. Custom Designs One of the key advantages of CNC machining is its ability to create custom parts . If you need a unique component or have a specific design in mind, CNC gives you the flexibility to create exactly what you need, with no need for expensive molds or tooling. Efficiency Once a CNC machine is set up, it can run with minimal human intervention, often running for hours or even days on end. This efficiency makes CNC machining ideal for both low-volume runs and high-volume production, saving time and reducing labor costs. Where Can You Find CNC Parts? CNC parts are everywhere around us, even in places you might not immediately think of. Here are a few industries and areas where CNC machining plays a key role: Automotive Industry : Whether it's a custom suspension component or a high-precision engine block, CNC machines are behind many of the critical parts that keep vehicles running smoothly. The ability to create intricate, accurate parts is what makes CNC a go-to choice for automotive manufacturers. Consumer Electronics : From the sleek casing of smartphones to the sturdy frames of laptops, CNC machines are integral in producing the precision parts that make up our electronic devices. These machines help create everything from small internal components to external housings, ensuring they fit together perfectly. Medical Devices : In healthcare, where accuracy is paramount, CNC machining ensures that medical devices and equipment—like surgical instruments, implants, and diagnostic tools—are made with the utmost precision. This technology helps save lives by producing parts that meet the highest standards of quality and reliability. DIY Projects : If you're a maker or hobbyist, CNC machines can help you produce custom parts for your personal projects, whether it's a custom tool, a unique gift, or a specialized component. Why CNC Parts Are the Best Choice for Your Project Choosing CNC machining for your next project is a great decision. Whether you're looking to create a single prototype or need a batch of parts for production, CNC offers: · Unmatched Precision : CNC parts are made with extremely tight tolerances, ensuring they fit together perfectly. · Complete Customization : CNC allows you to design and create parts tailored to your specific needs, with no limitations. · Speed and Efficiency : Once set up, CNC machines can produce parts quickly, making them ideal for both small and large production runs. · Material Variety : CNC machines can work with metals, plastics, and more, giving you flexibility in material choice for your project. Wrapping Up CNC parts are at the heart of many industries and applications. Whether you're working on an automotive project, building electronic devices, or just tinkering with DIY ideas, CNC machining provides the precision and versatility you need to bring your ideas to life. It's a technology that bridges the gap between design and reality, making it possible to produce parts that are accurate, reliable, and cost-effective. If you're considering CNC for your next project, you'll find that it offers unbeatable precision, flexibility, and efficiency. So, get designing, and bring your next project to life with CNC! Popular Articles What Steps Are Taken To Minimize Waste In CNC Machining Processes? • What Steps Are Taken To Minimize Waste In CNC Machining Processes? Cutting with Precision: A Comprehensive Guide to CNC Water Jet Technology • Cutting with Precision: A Comprehensive Guide to CNC Water Jet Technology CNC Coolant Explained: Types, Maintenance & Safety • CNC Coolant Explained: Types, Maintenance & Safety Rake Angle in Machining: Machinists’ Guide to Perfect Cuts • Rake Angle in Machining: Machinists’ Guide to Perfect Cuts How EDM Wire Cutting Works: Complete Guide to Precision CNC Wire Cutting • How EDM Wire Cutting Works: Complete Guide to Precision CNC Wire Cutting Keep Learning CNC Automation: Systems, Software, and Manufacturing Solutions Explained Key Takeaways • CNC automation combines machine tools, software, and material handling into a system that reduces direct labor per part and improves process consistency. • The core components are the CNC machine, the control software, and whatever handles part movement, robot, conveyor, pallet system, or some combination. • Automation doesn't eliminate the need for skilled engineers and machinists. It shifts where their time goes, from operating machines to programming, setting up, and maintaining sys...... What Is Tempering? Metal Tempering Process and Applications Key Takeaways In conventional quench-and-temper treatment, tempering reheats previously hardened steel below its lower critical temperature. Temperature and holding time affect the final mechanical properties. Tempered steel is used for tools, gears, shafts, and loaded components. CNC planning must account for heat-treatment distortion and final tolerances. Tempering differs from quenching, annealing, and normalizing in purpose and sequence. Tempering steel parts in an industrial furnace Hardening giv...... Sheet Metal vs CNC Machining: A Guide to Choosing the Right Method for Your Metal Parts Sheet Metal vs CNC Machining: How to Choose the Right Method for Your Metal Parts Quick Answer: Choose sheet metal for uniform-thickness enclosures, panels, and formed brackets when bends and production volume support lower unit cost. Choose CNC machining for variable wall thickness, precision bores, tight feature relationships, and complex 3D geometry. Use a hybrid design when a formed structure needs precision-machined interfaces. A quote comes back for a bracket, and it's priced as a CNC part — mac...... How Precise Is CNC Machining Compared To Other Manufacturing Methods? How Precise Is CNC Machining Compared to Other Manufacturing Methods? Quick Answer: CNC machining generally holds tighter tolerances than forming, casting, and most additive processes, because it removes material directly rather than relying on shrinkage, springback, or layer deposition. But \"how precise\" depends on the specific process variant, material, geometry, and inspection method — there's no single number that applies across an entire process category. A part spec calls for a tolerance of ±0.0...... CNC Milling vs. CNC Turning: Which is Better? CNC Milling vs. CNC Turning: Which Process Fits Your Part? Quick Answer: Choose CNC milling for prismatic, flat, pocketed, and complex 3D parts. Choose CNC turning for parts whose primary geometry is cylindrical or rotationally symmetric. Use mill-turn or secondary milling when a turned part also needs flats, keyways, cross-holes, or other non-round features. A shaft and a bracket can come from the same material, hold similar tolerances, and still need completely different machines to make — not becau...... How Does CNC Machining Differ From Traditional Machining Methods? How Does CNC Machining Differ From Traditional Machining Methods? Quick Answer: Choose CNC machining when repeatability, complex geometry, tight feature relationships, or production quantity justify programming and setup. Choose traditional or manual machining for simple one-off parts, repairs, and highly variable work where a skilled operator can work directly from a sample or drawing. The right choice depends on geometry, tolerance, quantity, and available data. A machinist trained on manual lathes ...... Popular Articles What Steps Are Taken To Minimize Waste In CNC Machining Processes? • What Steps Are Taken To Minimize Waste In CNC Machining Processes? Cutting with Precision: A Comprehensive Guide to CNC Water Jet Technology • Cutting with Precision: A Comprehensive Guide to CNC Water Jet Technology CNC Coolant Explained: Types, Maintenance & Safety • CNC Coolant Explained: Types, Maintenance & Safety Rake Angle in Machining: Machinists’ Guide to Perfect Cuts • Rake Angle in Machining: Machinists’ Guide to Perfect Cuts How EDM Wire Cutting Works: Complete Guide to Precision CNC Wire Cutting • How EDM Wire Cutting Works: Complete Guide to Precision CNC Wire Cutting",
+      "after": "Blog Knowledge Hub Materials Design & Engineering Manufacturing Services Blog Blog Knowledge Hub Fundamental knowledge covering CNC machining and sheet metal fabrication. CNC Machining Fundamentals Core CNC machining principles, cutting mechanics, and machine basics. CNC Machines & Equipment Overview of CNC machines and supporting fabrication equipment. Sheet Metal Fabrication Forming, cutting, bending, and joining fundamentals. Tools & Cutting Instruments Cutting tools, tool materials, and forming instruments. Surface Finishing Processes Finishes and treatments for machined and formed parts. Knowledge Hub Materials Material properties, machining behavior, and forming suitability. Plastics for CNC Plastic materials, machining behavior, and use cases. Metals for CNC Metal properties, machinability, and forming suitability. Material Selection Guide Choose materials based on performance, cost, and manufacturability. Materials Design & Engineering Technical design guidance for CNC parts and sheet metal components. CAD & CAM Software Modeling, toolpaths, and sheet metal design workflows. Design Tips & Best Practices Practical guidelines for manufacturable CNC and formed parts. CNC Programming G-code, programming logic, and machining strategies. Design & Engineering Manufacturing Services Process explanations, workflows, and manufacturing guidance. Custom Projects & Gifts Creative, personalized projects using machining and fabrication. Industry Use Cases Applications across engineering, consumer products, and industrial sectors. Manufacturing Solutions Process choices, workflows, and production guidance. Manufacturing Services Blog Blog Home Blog Knowledge Hub CNC Machining Fundamentals What Are CNC Parts and How Are They Made? Published Nov 20, 2024, updated Feb 08, 2025 6 min CNC machining is a cornerstone of modern manufacturing. It's a process that allows industries to produce precise, complex parts with a level of consistency that would be hard to achieve with traditional methods. But what exactly are CNC parts, and how are they made? Let's break it down in a way that's easy to understand, so whether you're a DIY enthusiast or part of a business looking to create custom parts, you'll know how CNC machining can benefit you. What Exactly Are CNC Parts? In simple terms, CNC parts are components made by Computer Numerical Control (CNC) machines. These machines are controlled by computers that follow a set of precise instructions, allowing them to carve or mill a raw material—whether it's metal , plastic , or composite materials —into the exact shape needed. The magic happens with CAD (Computer-Aided Design) software. Designers create a 3D model of the part they need, and that design is then translated into G-code , which tells the CNC machine exactly what to do. From there, the CNC machine gets to work, automatically producing parts with incredible accuracy. How Are CNC Parts Made? Here's the step-by-step process of how CNC parts come to life: Designing the Part The first step in making any CNC part is the design. Using CAD software , you or your design team create a detailed model of the part. This could be a simple bracket, or something more intricate like a custom gear. Once the design is complete, it's converted into G-code , a language that the CNC machine can understand. Setting Up the CNC Machine With the design ready, it's time to set up the CNC machine. This involves loading the material, whether it's a block of aluminum , steel , plastic , or any other material, and securing it in place. Next, the machine's tools are loaded (cutters, drills, etc.), and the G-code is programmed into the system. The Machining Process Now for the fun part—the machining! The CNC machine starts working, following the G-code to precisely cut, mill, or drill the material into the shape of the part. This is done in stages, removing material layer by layer until the part takes shape. Whether it's milling , turning , or drilling , each operation is designed to achieve the most accurate result. Finishing Touches After the main machining is complete, the part may need a little polishing, deburring, or surface finishing to smooth out rough edges or to add a special coating. This ensures that the part functions perfectly while also having a polished, professional appearance. Why Are CNC Parts So Important? CNC parts are important because they provide a level of precision and adaptability that traditional manufacturing methods simply can't achieve. Here's why they're so crucial: Precision CNC machines are incredibly precise, making them perfect for parts that need to fit together perfectly. Whether you're creating a single prototype or manufacturing parts at scale, CNC machining guarantees each component is made to precise specifications. Flexibility Across Materials CNC machining isn't limited to just one type of material. CNC machines can handle a wide variety of materials—metals like aluminum , titanium , or stainless steel , as well as plastics like ABS and nylon . This flexibility makes CNC a great option for almost any type of project. Custom Designs One of the key advantages of CNC machining is its ability to create custom parts . If you need a unique component or have a specific design in mind, CNC gives you the flexibility to create exactly what you need, with no need for expensive molds or tooling. Efficiency Once a CNC machine is set up, it can run with minimal human intervention, often running for hours or even days on end. This efficiency makes CNC machining ideal for both low-volume runs and high-volume production, saving time and reducing labor costs. Where Can You Find CNC Parts? CNC parts are everywhere around us, even in places you might not immediately think of. Here are a few industries and areas where CNC machining plays a key role: Automotive Industry : Whether it's a custom suspension component or a high-precision engine block, CNC machines are behind many of the critical parts that keep vehicles running smoothly. The ability to create intricate, accurate parts is what makes CNC a go-to choice for automotive manufacturers. Consumer Electronics : From the sleek casing of smartphones to the sturdy frames of laptops, CNC machines are integral in producing the precision parts that make up our electronic devices. These machines help create everything from small internal components to external housings, ensuring they fit together perfectly. Medical Devices : In healthcare, where accuracy is paramount, CNC machining ensures that medical devices and equipment—like surgical instruments, implants, and diagnostic tools—are made with the utmost precision. This technology helps save lives by producing parts that meet the highest standards of quality and reliability. DIY Projects : If you're a maker or hobbyist, CNC machines can help you produce custom parts for your personal projects, whether it's a custom tool, a unique gift, or a specialized component. Why CNC Parts Are the Best Choice for Your Project Choosing CNC machining for your next project is a great decision. Whether you're looking to create a single prototype or need a batch of parts for production, CNC offers: · Unmatched Precision : CNC parts are made with extremely tight tolerances, ensuring they fit together perfectly. · Complete Customization : CNC allows you to design and create parts tailored to your specific needs, with no limitations. · Speed and Efficiency : Once set up, CNC machines can produce parts quickly, making them ideal for both small and large production runs. · Material Variety : CNC machines can work with metals, plastics, and more, giving you flexibility in material choice for your project. Wrapping Up CNC parts are at the heart of many industries and applications. Whether you're working on an automotive project, building electronic devices, or just tinkering with DIY ideas, CNC machining provides the precision and versatility you need to bring your ideas to life. It's a technology that bridges the gap between design and reality, making it possible to produce parts that are accurate, reliable, and cost-effective. If you're considering CNC for your next project, you'll find that it offers unbeatable precision, flexibility, and efficiency. So, get designing, and bring your next project to life with CNC! Popular Articles What Steps Are Taken To Minimize Waste In CNC Machining Processes? • What Steps Are Taken To Minimize Waste In CNC Machining Processes? Cutting with Precision: A Comprehensive Guide to CNC Water Jet Technology • Cutting with Precision: A Comprehensive Guide to CNC Water Jet Technology CNC Coolant Explained: Types, Maintenance & Safety • CNC Coolant Explained: Types, Maintenance & Safety Rake Angle in Machining: Machinists’ Guide to Perfect Cuts • Rake Angle in Machining: Machinists’ Guide to Perfect Cuts How EDM Wire Cutting Works: Complete Guide to Precision CNC Wire Cutting • How EDM Wire Cutting Works: Complete Guide to Precision CNC Wire Cutting Keep Learning Sheet Metal vs CNC Machining: A Guide to Choosing the Right Method for Your Metal Parts Sheet Metal vs CNC Machining: How to Choose the Right Method for Your Metal Parts Quick Answer: Choose sheet metal for uniform-thickness enclosures, panels, and formed brackets when bends and production volume support lower unit cost. Choose CNC machining for variable wall thickness, precision bores, tight feature relationships, and complex 3D geometry. Use a hybrid design when a formed structure needs precision-machined interfaces. A quote comes back for a bracket, and it's priced as a CNC part — mac...... How Precise Is CNC Machining Compared To Other Manufacturing Methods? How Precise Is CNC Machining Compared to Other Manufacturing Methods? Quick Answer: CNC machining generally holds tighter tolerances than forming, casting, and most additive processes, because it removes material directly rather than relying on shrinkage, springback, or layer deposition. But \"how precise\" depends on the specific process variant, material, geometry, and inspection method — there's no single number that applies across an entire process category. A part spec calls for a tolerance of ±0.0...... CNC Milling vs. CNC Turning: Which is Better? CNC Milling vs. CNC Turning: Which Process Fits Your Part? Quick Answer: Choose CNC milling for prismatic, flat, pocketed, and complex 3D parts. Choose CNC turning for parts whose primary geometry is cylindrical or rotationally symmetric. Use mill-turn or secondary milling when a turned part also needs flats, keyways, cross-holes, or other non-round features. A shaft and a bracket can come from the same material, hold similar tolerances, and still need completely different machines to make — not becau...... How Does CNC Machining Differ From Traditional Machining Methods? How Does CNC Machining Differ From Traditional Machining Methods? Quick Answer: Choose CNC machining when repeatability, complex geometry, tight feature relationships, or production quantity justify programming and setup. Choose traditional or manual machining for simple one-off parts, repairs, and highly variable work where a skilled operator can work directly from a sample or drawing. The right choice depends on geometry, tolerance, quantity, and available data. A machinist trained on manual lathes ...... What Steps Are Taken To Minimize Waste In CNC Machining Processes? How to Reduce Waste in CNC Machining: 5 Practical Strategies Quick Answer: CNC machining waste is reduced mainly through DFM, near-net stock, efficient toolpaths, preventive tool maintenance, and alloy-segregated recycling. The biggest gains usually come before cutting: reduce unnecessary material removal and prevent scrap or rework. Every CNC-machined part starts as more material than it ends up being. A pocket gets milled out, a profile gets cut away, a boss gets faced down to size — and all of that...... Flange Machining: CNC Process and Custom Manufacturing Guide Key Takeaways Flange machining can create faces, bores, grooves, holes, threads, hubs, and steps. Material affects machinability, corrosion resistance, weight, and mechanical performance. Datum relationships and flange geometry can influence sealing, alignment, and assembly. Custom production supports non-standard interfaces, prototypes, and low-volume orders. Inspection verifies dimensions, geometry, surface condition, and drawing requirements. An RFQ should include design files, mating information, ...... Popular Articles What Steps Are Taken To Minimize Waste In CNC Machining Processes? • What Steps Are Taken To Minimize Waste In CNC Machining Processes? Cutting with Precision: A Comprehensive Guide to CNC Water Jet Technology • Cutting with Precision: A Comprehensive Guide to CNC Water Jet Technology CNC Coolant Explained: Types, Maintenance & Safety • CNC Coolant Explained: Types, Maintenance & Safety Rake Angle in Machining: Machinists’ Guide to Perfect Cuts • Rake Angle in Machining: Machinists’ Guide to Perfect Cuts How EDM Wire Cutting Works: Complete Guide to Precision CNC Wire Cutting • How EDM Wire Cutting Works: Complete Guide to Precision CNC Wire Cutting",
+      "added": [
+        "What Steps Are Taken To Minimize Waste In CNC Machining Processes? How to Reduce Waste in CNC Machining: 5 Practical Strategies Quick Answer: CNC machining waste is reduced mainly through DFM, near-net stock, efficient toolpaths, preventive tool maintenance, and alloy-segregated recycling. The biggest gains usually come before cutting: reduce unnecessary ma..."
+      ],
+      "removed": [
+        "CNC Automation: Systems, Software, and Manufacturing Solutions Explained Key Takeaways • CNC automation combines machine tools, software, and material handling into a system that reduces direct labor per part and improves process consistency. • The core components are the CNC machine, the control software, and whatever handles part movement, robot, conveyor..."
+      ],
+      "change_percent": 15.65,
+      "confidence": "high",
+      "published_at": "2025-12-26T00:00:00+00:00",
+      "first_seen_at": "2026-08-17T03:50:46+00:00",
+      "discovered_via": "sitemap"
+    },
+    {
+      "type": "content_changed",
+      "priority": "high",
+      "competitor": "JLC CNC",
+      "url": "https://jlccnc.com/blog/edm-hole-drilling-vs-conventional",
+      "category": "content",
+      "page_title": "EDM Hole Drilling vs Conventional Drilling: Precision and Use Cases Compared",
+      "summary": "页面正文发生可定位的变化",
+      "details": [],
+      "before": "Blog Knowledge Hub Materials Design & Engineering Manufacturing Services Blog Blog Knowledge Hub Fundamental knowledge covering CNC machining and sheet metal fabrication. CNC Machining Fundamentals Core CNC machining principles, cutting mechanics, and machine basics. CNC Machines & Equipment Overview of CNC machines and supporting fabrication equipment. Sheet Metal Fabrication Forming, cutting, bending, and joining fundamentals. Tools & Cutting Instruments Cutting tools, tool materials, and forming instruments. Surface Finishing Processes Finishes and treatments for machined and formed parts. Knowledge Hub Materials Material properties, machining behavior, and forming suitability. Plastics for CNC Plastic materials, machining behavior, and use cases. Metals for CNC Metal properties, machinability, and forming suitability. Material Selection Guide Choose materials based on performance, cost, and manufacturability. Materials Design & Engineering Technical design guidance for CNC parts and sheet metal components. CAD & CAM Software Modeling, toolpaths, and sheet metal design workflows. Design Tips & Best Practices Practical guidelines for manufacturable CNC and formed parts. CNC Programming G-code, programming logic, and machining strategies. Design & Engineering Manufacturing Services Process explanations, workflows, and manufacturing guidance. Custom Projects & Gifts Creative, personalized projects using machining and fabrication. Industry Use Cases Applications across engineering, consumer products, and industrial sectors. Manufacturing Solutions Process choices, workflows, and production guidance. Manufacturing Services Blog Blog Home Blog Knowledge Hub CNC Machining Fundamentals EDM Hole Drilling vs Conventional Drilling: Precision and Use Cases Compared Published Jul 24, 2025, updated Jul 18, 2025 5 min Table of Contents What Is Conventional CNC Hole Drilling? EDM vs Drilling: The Core Differences When to Use EDM Hole Drilling When to Use Conventional CNC Drilling EDM Holes vs Drilled Holes: What About Quality? Limitations to Consider EDM Hole Drilling Machines: What Makes Them Special? Want Extreme Accuracy? EDM Might Be the Way Drilling a hole sounds simple, until you need to do it with extreme precision, into hardened materials, or to microscopic depths. That’s when you start comparing EDM hole drilling and conventional CNC drilling side by side. While both are designed to create holes, their technologies, capabilities, and ideal use cases couldn’t be more different. So, which method should you choose for your next project? Let’s dig in. What Is EDM Hole Drilling? EDM (Electrical Discharge Machining) hole drilling , also called hole popping EDM or EDM deep hole drilling , uses electrical sparks to erode material. Instead of a rotating drill bit, it uses a tubular electrode and dielectric fluid to remove metal through high-frequency discharges. It’s a non-contact process, meaning the tool doesn’t make direct physical contact with the material during machining. The result? It can drill extremely precise, burr-free holes even in hardened steel, carbides, or exotic alloys . What Is Conventional CNC Hole Drilling? CNC hole drilling uses rotating cutting tools<dynamic-value> twist drills or end mills, to cut into material. It's what most people imagine when they think about machining a hole. From high-speed spindles to peck drilling cycles, CNC machines are versatile and fast, especially when you're working with softer materials or mass production. But it’s still a contact-based process , and precision can degrade with wear, heat, or vibration. EDM vs Drilling: The Core Differences Feature EDM Hole Drilling CNC Drilling Material Type Conductive materials only (e.g., steel, titanium) Any machinable material Tool Contact No physical contact Direct contact via tool Hole Size Micro to medium (0.1 mm to 6 mm) Wide range (0.5 mm to 50+ mm) Tolerance Extremely tight (±0.002 mm possible) Moderate (±0.05 mm typical) Hole Depth Excellent for deep, narrow holes (30:1+ depth-to-diameter) Limited by tool rigidity and chip evacuation Speed Slower Faster for larger holes Surface Finish Very smooth, no burrs May require deburring or finishing Tool Wear Minimal due to no mechanical contact High, especially in hard materials Are you unsure about which process is right for your metal part? We can help you choose the most precise and cost-effective method for your job. Get a free quote here and let's make your design manufacturable. When to Use EDM Hole Drilling The EDM hole drilling process shines in high-precision, small-diameter, deep-hole situations, especially where conventional drilling fails or causes tool breakage. Use cases include: ● Turbine blades (for cooling holes) ● Fuel injector nozzles ● Aerospace components ● Medical devices requiring micro holes ● Hard tool steels or materials like Inconel and titanium Also, EDM is ideal when you need starter holes for wire EDM , which conventional tools can’t drill due to hardness or geometry. When to Use Conventional CNC Drilling For general-purpose hole making in aluminum, plastics, or mild steel, CNC hole drilling is faster and more cost-effective. Use cases include: ● Bolt holes, pilot holes, tapped holes ● Large hole drilling in brackets or frames ● Machining production parts in batches ● Applications where tight tolerance is not critical And yes, to answer a common question, can a CNC machine drill holes? Absolutely. In fact, it’s one of the most common operations in any CNC shop. EDM Holes vs Drilled Holes: What About Quality? EDM holes tend to be cleaner and burr-free straight off the machine. Their surface finish is smoother, with no mechanical stress or deformation around the hole. This makes them ideal for critical applications where dimensional stability and fatigue resistance matter. CNC-drilled holes, on the other hand, often need secondary processes , like deburring or reaming, to meet similar tolerances and finishes, especially in small diameters or deep holes. Limitations to Consider While EDM hole drilling offers unmatched precision, it’s not ideal for every scenario . ● It can’t be used on non-conductive materials (like plastic or glass). ● It’s relatively slow for large-diameter holes. ● Machines and electrodes are more expensive and require specialized operators. Conversely, CNC drilling tools wear faster in hardened materials, and the deeper you go, the higher the risk of tool deflection, chatter, or breakage . EDM Hole Drilling Machines: What Makes Them Special? A dedicated hole drilling EDM machine is typically compact, automated, and capable of producing holes as small as 0.1 mm in tough metals. Many come with automatic electrode changers and multi-axis positioning. For shops working with aerospace, mold making, or die sinking, having one on the floor is a game-changer for precision parts. Want Extreme Accuracy? EDM Might Be the Way If you're prototyping intricate components or producing parts where one imperfect hole can ruin the entire build , go for EDM. But if you’re running production batches, drilling aluminum brackets, or cutting costs, CNC drilling is often more practical. Choose the Right Tool for the Hole Not every hole is created equal, and neither are the tools that make them. Whether you choose EDM hole drilling for ultra-precision or CNC hole drilling for speed and efficiency, understanding their strengths is the first step toward better manufacturing outcomes. If you’re unsure what your application calls for, talk to your machinist, or even better, partner with a shop that offers both options . Popular Articles What Steps Are Taken To Minimize Waste In CNC Machining Processes? • What Steps Are Taken To Minimize Waste In CNC Machining Processes? Cutting with Precision: A Comprehensive Guide to CNC Water Jet Technology • Cutting with Precision: A Comprehensive Guide to CNC Water Jet Technology CNC Coolant Explained: Types, Maintenance & Safety • CNC Coolant Explained: Types, Maintenance & Safety Rake Angle in Machining: Machinists’ Guide to Perfect Cuts • Rake Angle in Machining: Machinists’ Guide to Perfect Cuts How EDM Wire Cutting Works: Complete Guide to Precision CNC Wire Cutting • How EDM Wire Cutting Works: Complete Guide to Precision CNC Wire Cutting Keep Learning Sheet Metal vs CNC Machining: A Guide to Choosing the Right Method for Your Metal Parts Sheet Metal vs CNC Machining: How to Choose the Right Method for Your Metal Parts Quick Answer: Choose sheet metal for uniform-thickness enclosures, panels, and formed brackets when bends and production volume support lower unit cost. Choose CNC machining for variable wall thickness, precision bores, tight feature relationships, and complex 3D geometry. Use a hybrid design when a formed structure needs precision-machined interfaces. A quote comes back for a bracket, and it's priced as a CNC part — mac...... How Precise Is CNC Machining Compared To Other Manufacturing Methods? How Precise Is CNC Machining Compared to Other Manufacturing Methods? Quick Answer: CNC machining generally holds tighter tolerances than forming, casting, and most additive processes, because it removes material directly rather than relying on shrinkage, springback, or layer deposition. But \"how precise\" depends on the specific process variant, material, geometry, and inspection method — there's no single number that applies across an entire process category. A part spec calls for a tolerance of ±0.0...... CNC Milling vs. CNC Turning: Which is Better? CNC Milling vs. CNC Turning: Which Process Fits Your Part? Quick Answer: Choose CNC milling for prismatic, flat, pocketed, and complex 3D parts. Choose CNC turning for parts whose primary geometry is cylindrical or rotationally symmetric. Use mill-turn or secondary milling when a turned part also needs flats, keyways, cross-holes, or other non-round features. A shaft and a bracket can come from the same material, hold similar tolerances, and still need completely different machines to make — not becau...... How Does CNC Machining Differ From Traditional Machining Methods? How Does CNC Machining Differ From Traditional Machining Methods? Quick Answer: Choose CNC machining when repeatability, complex geometry, tight feature relationships, or production quantity justify programming and setup. Choose traditional or manual machining for simple one-off parts, repairs, and highly variable work where a skilled operator can work directly from a sample or drawing. The right choice depends on geometry, tolerance, quantity, and available data. A machinist trained on manual lathes ...... What Steps Are Taken To Minimize Waste In CNC Machining Processes? How to Reduce Waste in CNC Machining: 5 Practical Strategies Quick Answer: CNC machining waste is reduced mainly through DFM, near-net stock, efficient toolpaths, preventive tool maintenance, and alloy-segregated recycling. The biggest gains usually come before cutting: reduce unnecessary material removal and prevent scrap or rework. Every CNC-machined part starts as more material than it ends up being. A pocket gets milled out, a profile gets cut away, a boss gets faced down to size — and all of that...... Flange Machining: CNC Process and Custom Manufacturing Guide Key Takeaways Flange machining can create faces, bores, grooves, holes, threads, hubs, and steps. Material affects machinability, corrosion resistance, weight, and mechanical performance. Datum relationships and flange geometry can influence sealing, alignment, and assembly. Custom production supports non-standard interfaces, prototypes, and low-volume orders. Inspection verifies dimensions, geometry, surface condition, and drawing requirements. An RFQ should include design files, mating information, ...... Table of Contents What Is Conventional CNC Hole Drilling? EDM vs Drilling: The Core Differences When to Use EDM Hole Drilling When to Use Conventional CNC Drilling EDM Holes vs Drilled Holes: What About Quality? Limitations to Consider EDM Hole Drilling Machines: What Makes Them Special? Want Extreme Accuracy? EDM Might Be the Way Popular Articles What Steps Are Taken To Minimize Waste In CNC Machining Processes? • What Steps Are Taken To Minimize Waste In CNC Machining Processes? Cutting with Precision: A Comprehensive Guide to CNC Water Jet Technology • Cutting with Precision: A Comprehensive Guide to CNC Water Jet Technology CNC Coolant Explained: Types, Maintenance & Safety • CNC Coolant Explained: Types, Maintenance & Safety Rake Angle in Machining: Machinists’ Guide to Perfect Cuts • Rake Angle in Machining: Machinists’ Guide to Perfect Cuts How EDM Wire Cutting Works: Complete Guide to Precision CNC Wire Cutting • How EDM Wire Cutting Works: Complete Guide to Precision CNC Wire Cutting",
+      "after": "Blog Knowledge Hub Materials Design & Engineering Manufacturing Services Blog Blog Knowledge Hub Fundamental knowledge covering CNC machining and sheet metal fabrication. CNC Machining Fundamentals Core CNC machining principles, cutting mechanics, and machine basics. CNC Machines & Equipment Overview of CNC machines and supporting fabrication equipment. Sheet Metal Fabrication Forming, cutting, bending, and joining fundamentals. Tools & Cutting Instruments Cutting tools, tool materials, and forming instruments. Surface Finishing Processes Finishes and treatments for machined and formed parts. Knowledge Hub Materials Material properties, machining behavior, and forming suitability. Plastics for CNC Plastic materials, machining behavior, and use cases. Metals for CNC Metal properties, machinability, and forming suitability. Material Selection Guide Choose materials based on performance, cost, and manufacturability. Materials Design & Engineering Technical design guidance for CNC parts and sheet metal components. CAD & CAM Software Modeling, toolpaths, and sheet metal design workflows. Design Tips & Best Practices Practical guidelines for manufacturable CNC and formed parts. CNC Programming G-code, programming logic, and machining strategies. Design & Engineering Manufacturing Services Process explanations, workflows, and manufacturing guidance. Custom Projects & Gifts Creative, personalized projects using machining and fabrication. Industry Use Cases Applications across engineering, consumer products, and industrial sectors. Manufacturing Solutions Process choices, workflows, and production guidance. Manufacturing Services Blog Blog Home Blog Knowledge Hub CNC Machining Fundamentals EDM Hole Drilling vs Conventional Drilling: Precision and Use Cases Compared Published Jul 24, 2025, updated Jul 18, 2025 5 min Table of Contents What Is Conventional CNC Hole Drilling? EDM vs Drilling: The Core Differences When to Use EDM Hole Drilling When to Use Conventional CNC Drilling EDM Holes vs Drilled Holes: What About Quality? Limitations to Consider EDM Hole Drilling Machines: What Makes Them Special? Want Extreme Accuracy? EDM Might Be the Way Drilling a hole sounds simple, until you need to do it with extreme precision, into hardened materials, or to microscopic depths. That’s when you start comparing EDM hole drilling and conventional CNC drilling side by side. While both are designed to create holes, their technologies, capabilities, and ideal use cases couldn’t be more different. So, which method should you choose for your next project? Let’s dig in. What Is EDM Hole Drilling? EDM (Electrical Discharge Machining) hole drilling , also called hole popping EDM or EDM deep hole drilling , uses electrical sparks to erode material. Instead of a rotating drill bit, it uses a tubular electrode and dielectric fluid to remove metal through high-frequency discharges. It’s a non-contact process, meaning the tool doesn’t make direct physical contact with the material during machining. The result? It can drill extremely precise, burr-free holes even in hardened steel, carbides, or exotic alloys . What Is Conventional CNC Hole Drilling? CNC hole drilling uses rotating cutting tools<dynamic-value> twist drills or end mills, to cut into material. It's what most people imagine when they think about machining a hole. From high-speed spindles to peck drilling cycles, CNC machines are versatile and fast, especially when you're working with softer materials or mass production. But it’s still a contact-based process , and precision can degrade with wear, heat, or vibration. EDM vs Drilling: The Core Differences Feature EDM Hole Drilling CNC Drilling Material Type Conductive materials only (e.g., steel, titanium) Any machinable material Tool Contact No physical contact Direct contact via tool Hole Size Micro to medium (0.1 mm to 6 mm) Wide range (0.5 mm to 50+ mm) Tolerance Extremely tight (±0.002 mm possible) Moderate (±0.05 mm typical) Hole Depth Excellent for deep, narrow holes (30:1+ depth-to-diameter) Limited by tool rigidity and chip evacuation Speed Slower Faster for larger holes Surface Finish Very smooth, no burrs May require deburring or finishing Tool Wear Minimal due to no mechanical contact High, especially in hard materials Are you unsure about which process is right for your metal part? We can help you choose the most precise and cost-effective method for your job. Get a free quote here and let's make your design manufacturable. When to Use EDM Hole Drilling The EDM hole drilling process shines in high-precision, small-diameter, deep-hole situations, especially where conventional drilling fails or causes tool breakage. Use cases include: ● Turbine blades (for cooling holes) ● Fuel injector nozzles ● Aerospace components ● Medical devices requiring micro holes ● Hard tool steels or materials like Inconel and titanium Also, EDM is ideal when you need starter holes for wire EDM , which conventional tools can’t drill due to hardness or geometry. When to Use Conventional CNC Drilling For general-purpose hole making in aluminum, plastics, or mild steel, CNC hole drilling is faster and more cost-effective. Use cases include: ● Bolt holes, pilot holes, tapped holes ● Large hole drilling in brackets or frames ● Machining production parts in batches ● Applications where tight tolerance is not critical And yes, to answer a common question, can a CNC machine drill holes? Absolutely. In fact, it’s one of the most common operations in any CNC shop. EDM Holes vs Drilled Holes: What About Quality? EDM holes tend to be cleaner and burr-free straight off the machine. Their surface finish is smoother, with no mechanical stress or deformation around the hole. This makes them ideal for critical applications where dimensional stability and fatigue resistance matter. CNC-drilled holes, on the other hand, often need secondary processes , like deburring or reaming, to meet similar tolerances and finishes, especially in small diameters or deep holes. Limitations to Consider While EDM hole drilling offers unmatched precision, it’s not ideal for every scenario . ● It can’t be used on non-conductive materials (like plastic or glass). ● It’s relatively slow for large-diameter holes. ● Machines and electrodes are more expensive and require specialized operators. Conversely, CNC drilling tools wear faster in hardened materials, and the deeper you go, the higher the risk of tool deflection, chatter, or breakage . EDM Hole Drilling Machines: What Makes Them Special? A dedicated hole drilling EDM machine is typically compact, automated, and capable of producing holes as small as 0.1 mm in tough metals. Many come with automatic electrode changers and multi-axis positioning. For shops working with aerospace, mold making, or die sinking, having one on the floor is a game-changer for precision parts. Want Extreme Accuracy? EDM Might Be the Way If you're prototyping intricate components or producing parts where one imperfect hole can ruin the entire build , go for EDM. But if you’re running production batches, drilling aluminum brackets, or cutting costs, CNC drilling is often more practical. Choose the Right Tool for the Hole Not every hole is created equal, and neither are the tools that make them. Whether you choose EDM hole drilling for ultra-precision or CNC hole drilling for speed and efficiency, understanding their strengths is the first step toward better manufacturing outcomes. If you’re unsure what your application calls for, talk to your machinist, or even better, partner with a shop that offers both options . Popular Articles What Steps Are Taken To Minimize Waste In CNC Machining Processes? • What Steps Are Taken To Minimize Waste In CNC Machining Processes? Cutting with Precision: A Comprehensive Guide to CNC Water Jet Technology • Cutting with Precision: A Comprehensive Guide to CNC Water Jet Technology CNC Coolant Explained: Types, Maintenance & Safety • CNC Coolant Explained: Types, Maintenance & Safety Rake Angle in Machining: Machinists’ Guide to Perfect Cuts • Rake Angle in Machining: Machinists’ Guide to Perfect Cuts How EDM Wire Cutting Works: Complete Guide to Precision CNC Wire Cutting • How EDM Wire Cutting Works: Complete Guide to Precision CNC Wire Cutting Keep Learning CNC Automation: Systems, Software, and Manufacturing Solutions Explained Key Takeaways • CNC automation combines machine tools, software, and material handling into a system that reduces direct labor per part and improves process consistency. • The core components are the CNC machine, the control software, and whatever handles part movement, robot, conveyor, pallet system, or some combination. • Automation doesn't eliminate the need for skilled engineers and machinists. It shifts where their time goes, from operating machines to programming, setting up, and maintaining sys...... What Is Tempering? Metal Tempering Process and Applications Key Takeaways In conventional quench-and-temper treatment, tempering reheats previously hardened steel below its lower critical temperature. Temperature and holding time affect the final mechanical properties. Tempered steel is used for tools, gears, shafts, and loaded components. CNC planning must account for heat-treatment distortion and final tolerances. Tempering differs from quenching, annealing, and normalizing in purpose and sequence. Tempering steel parts in an industrial furnace Hardening giv...... Sheet Metal vs CNC Machining: A Guide to Choosing the Right Method for Your Metal Parts Sheet Metal vs CNC Machining: How to Choose the Right Method for Your Metal Parts Quick Answer: Choose sheet metal for uniform-thickness enclosures, panels, and formed brackets when bends and production volume support lower unit cost. Choose CNC machining for variable wall thickness, precision bores, tight feature relationships, and complex 3D geometry. Use a hybrid design when a formed structure needs precision-machined interfaces. A quote comes back for a bracket, and it's priced as a CNC part — mac...... How Precise Is CNC Machining Compared To Other Manufacturing Methods? How Precise Is CNC Machining Compared to Other Manufacturing Methods? Quick Answer: CNC machining generally holds tighter tolerances than forming, casting, and most additive processes, because it removes material directly rather than relying on shrinkage, springback, or layer deposition. But \"how precise\" depends on the specific process variant, material, geometry, and inspection method — there's no single number that applies across an entire process category. A part spec calls for a tolerance of ±0.0...... CNC Milling vs. CNC Turning: Which is Better? CNC Milling vs. CNC Turning: Which Process Fits Your Part? Quick Answer: Choose CNC milling for prismatic, flat, pocketed, and complex 3D parts. Choose CNC turning for parts whose primary geometry is cylindrical or rotationally symmetric. Use mill-turn or secondary milling when a turned part also needs flats, keyways, cross-holes, or other non-round features. A shaft and a bracket can come from the same material, hold similar tolerances, and still need completely different machines to make — not becau...... How Does CNC Machining Differ From Traditional Machining Methods? How Does CNC Machining Differ From Traditional Machining Methods? Quick Answer: Choose CNC machining when repeatability, complex geometry, tight feature relationships, or production quantity justify programming and setup. Choose traditional or manual machining for simple one-off parts, repairs, and highly variable work where a skilled operator can work directly from a sample or drawing. The right choice depends on geometry, tolerance, quantity, and available data. A machinist trained on manual lathes ...... Table of Contents What Is Conventional CNC Hole Drilling? EDM vs Drilling: The Core Differences When to Use EDM Hole Drilling When to Use Conventional CNC Drilling EDM Holes vs Drilled Holes: What About Quality? Limitations to Consider EDM Hole Drilling Machines: What Makes Them Special? Want Extreme Accuracy? EDM Might Be the Way Popular Articles What Steps Are Taken To Minimize Waste In CNC Machining Processes? • What Steps Are Taken To Minimize Waste In CNC Machining Processes? Cutting with Precision: A Comprehensive Guide to CNC Water Jet Technology • Cutting with Precision: A Comprehensive Guide to CNC Water Jet Technology CNC Coolant Explained: Types, Maintenance & Safety • CNC Coolant Explained: Types, Maintenance & Safety Rake Angle in Machining: Machinists’ Guide to Perfect Cuts • Rake Angle in Machining: Machinists’ Guide to Perfect Cuts How EDM Wire Cutting Works: Complete Guide to Precision CNC Wire Cutting • How EDM Wire Cutting Works: Complete Guide to Precision CNC Wire Cutting",
+      "added": [
+        "CNC Automation: Systems, Software, and Manufacturing Solutions Explained Key Takeaways • CNC automation combines machine tools, software, and material handling into a system that reduces direct labor per part and improves process consistency. • The core components are the CNC machine, the control software, and whatever handles part movement, robot, conveyor..."
+      ],
+      "removed": [
+        "What Steps Are Taken To Minimize Waste In CNC Machining Processes? How to Reduce Waste in CNC Machining: 5 Practical Strategies Quick Answer: CNC machining waste is reduced mainly through DFM, near-net stock, efficient toolpaths, preventive tool maintenance, and alloy-segregated recycling. The biggest gains usually come before cutting: reduce unnecessary ma..."
+      ],
+      "change_percent": 16.47,
+      "confidence": "high",
+      "published_at": "2025-12-26T00:00:00+00:00",
+      "first_seen_at": "2026-08-17T03:50:54+00:00",
+      "discovered_via": "sitemap"
+    },
+    {
+      "type": "content_changed",
+      "priority": "high",
+      "competitor": "JLC CNC",
+      "url": "https://jlccnc.com/blog/laser-cutting-vs-cnc-milling",
+      "category": "content",
+      "page_title": "The Advantages of Laser Cutting vs. CNC Milling for Sheet Metal Fabrication",
+      "summary": "页面正文发生可定位的变化",
+      "details": [],
+      "before": "Blog Knowledge Hub Materials Design & Engineering Manufacturing Services Blog Blog Knowledge Hub Fundamental knowledge covering CNC machining and sheet metal fabrication. CNC Machining Fundamentals Core CNC machining principles, cutting mechanics, and machine basics. CNC Machines & Equipment Overview of CNC machines and supporting fabrication equipment. Sheet Metal Fabrication Forming, cutting, bending, and joining fundamentals. Tools & Cutting Instruments Cutting tools, tool materials, and forming instruments. Surface Finishing Processes Finishes and treatments for machined and formed parts. Knowledge Hub Materials Material properties, machining behavior, and forming suitability. Plastics for CNC Plastic materials, machining behavior, and use cases. Metals for CNC Metal properties, machinability, and forming suitability. Material Selection Guide Choose materials based on performance, cost, and manufacturability. Materials Design & Engineering Technical design guidance for CNC parts and sheet metal components. CAD & CAM Software Modeling, toolpaths, and sheet metal design workflows. Design Tips & Best Practices Practical guidelines for manufacturable CNC and formed parts. CNC Programming G-code, programming logic, and machining strategies. Design & Engineering Manufacturing Services Process explanations, workflows, and manufacturing guidance. Custom Projects & Gifts Creative, personalized projects using machining and fabrication. Industry Use Cases Applications across engineering, consumer products, and industrial sectors. Manufacturing Solutions Process choices, workflows, and production guidance. Manufacturing Services Blog Blog Home Blog Knowledge Hub CNC Machining Fundamentals The Advantages of Laser Cutting vs. CNC Milling for Sheet Metal Fabrication Published null, updated Mar 13, 2025 4 min In the field of sheet metal processing, laser cutting and CNC milling are two core processes known for their high precision, high efficiency and ability to process complex structures. Whether it's aerospace parts or consumer electronics housings, choosing the right processing technology has a direct impact on cost, efficiency and product quality. This article will be an in-depth comparison of laser cutting and CNC milling process advantages, analysis of its application scenarios, and provide companies with technology selection of the practical guide. I. Laser cutting: the perfect balance of speed and precision 1. Core process advantages Ultra-high precision: fibre laser cutting machine can achieve ±0.05mm tolerance (such as TruLaser 5030), smooth and burr-free cut. Wide material adaptability: support for stainless steel (0.5-30mm), aluminium alloy (0.5-25mm), copper plate (0.5-15mm) and so on. Processing efficiency: cutting speed up to 40m/min (1mm carbon steel), 3 times faster than traditional plasma cutting. 2. Typical application scenarios Thin plate precision processing: Electronic equipment shell (thickness 0.5-3mm), contour accuracy ≤ ± 0.1mm. Automotive sheet metal parts (such as door liners), cutting efficiency of 200 pieces / hour. Complex graphics processing: Artistic decorative metal screens, minimum hole diameter up to 0.2mm. 3. Cost-effectiveness analysis Case: a home appliance company processing 10,000 pieces of stainless steel panels: Laser cutting: single piece cost $ 8.5, time-consuming 3 days. Traditional stamping: mould cost $ 50,000 + single piece cost $ 6.2, the total cost is higher. II. CNC Milling: the ultimate solution for complex structures and high surface quality. 1. Core process advantages Three-dimensional machining capacity: five-axis CNC milling machine can process deep cavities, curved surfaces, shaped structures (such as impellers, mould cavities). Surface quality control: surface roughness Ra≤0.8μm after fine milling, directly achieve mirror effect. Batch consistency: Dimensional fluctuation of processing 1000 pieces of aluminium ≤ ± 0.02mm (CPK ≥ 1.67). 2. Typical application scenarios Thick plate precision parts: Aircraft engine bracket (50mm aluminium alloy), flatness ≤ 0.03mm. Hydraulic valve block (40CrMo steel), multi-hole system positional degree tolerance ± 0.01mm. Functional surface treatment: Mould insert nibble processing (VDI 3400 standard), texture depth 0.05-0.2mm. 3. Cost-effectiveness analysis Case: a medical device company processing titanium alloy joint implants: CNC milling: single piece cost $ 220, yield rate of 98%. 3D printing: single piece cost $ 380, need to follow up machining correction. III. Laser cutting vs CNC milling: four dimensions of comparison and selection guide Comparison Dimension Laser Cutting CNC Milling Applicable thickness Thin plate (0.5-25mm) Thick plate (5-300mm) Machining accuracy ±0.05mm (2D contour) ±0.01mm (3D structure) Material utilisation Nested nesting saves 15-30% of material. Clamping allowance needs to be reserved, lower utilisation rate Processing cycle Fast (no tool change, continuous cutting) Slow (multi-process tool change, suitable for complex parts) IV. How to choose the best machining process? 1. Selection decision tree Demand priority for ‘speed + cost’ → choose laser cutting. Demand priority is ‘complex structure + surface quality’ → choose CNC milling. Mixed demand: laser cutting + CNC milling finishing (20% lower overall cost). 2. Industry Matching Table Industries Recommended Processes Typical Cases Consumer Electronics Laser Cutting Mobile phone centre frames (stainless steel 0.8mm) Automotive Manufacturing Laser cutting + CNC milling Transmission Housing (Aluminium Die Casting) Aerospace CNC Milling Titanium wing ribs (5-axis machining) V. JLCCNC: One-Stop Service Expert for Sheet Metal Processing JLCCNC integrates laser cutting and CNC milling technologies to provide high-precision and high-efficiency metal processing solutions for customers worldwide: Technical Advantage: Process co-innovation: laser cutting down (accuracy ±0.05mm) + CNC milling finishing (Ra 0.4μm), comprehensive efficiency increased by 35%. Full material coverage: stainless steel, aluminium alloy, titanium alloy, etc. Service highlights: Fast response: 24-hour online quotation, 72-hour delivery of first sample. Transparent cost: no hidden cost per piece, support small batch trial production. Global delivery: as fast as 3 days to the world. Contact JLCCNC today to unlock the endless possibilities of sheet metal processing! Popular Articles What Steps Are Taken To Minimize Waste In CNC Machining Processes? • What Steps Are Taken To Minimize Waste In CNC Machining Processes? Cutting with Precision: A Comprehensive Guide to CNC Water Jet Technology • Cutting with Precision: A Comprehensive Guide to CNC Water Jet Technology CNC Coolant Explained: Types, Maintenance & Safety • CNC Coolant Explained: Types, Maintenance & Safety Rake Angle in Machining: Machinists’ Guide to Perfect Cuts • Rake Angle in Machining: Machinists’ Guide to Perfect Cuts How EDM Wire Cutting Works: Complete Guide to Precision CNC Wire Cutting • How EDM Wire Cutting Works: Complete Guide to Precision CNC Wire Cutting Keep Learning What Is Tempering? Metal Tempering Process and Applications Key Takeaways In conventional quench-and-temper treatment, tempering reheats previously hardened steel below its lower critical temperature. Temperature and holding time affect the final mechanical properties. Tempered steel is used for tools, gears, shafts, and loaded components. CNC planning must account for heat-treatment distortion and final tolerances. Tempering differs from quenching, annealing, and normalizing in purpose and sequence. Tempering steel parts in an industrial furnace Hardening giv...... Sheet Metal vs CNC Machining: A Guide to Choosing the Right Method for Your Metal Parts Sheet Metal vs CNC Machining: How to Choose the Right Method for Your Metal Parts Quick Answer: Choose sheet metal for uniform-thickness enclosures, panels, and formed brackets when bends and production volume support lower unit cost. Choose CNC machining for variable wall thickness, precision bores, tight feature relationships, and complex 3D geometry. Use a hybrid design when a formed structure needs precision-machined interfaces. A quote comes back for a bracket, and it's priced as a CNC part — mac...... How Precise Is CNC Machining Compared To Other Manufacturing Methods? How Precise Is CNC Machining Compared to Other Manufacturing Methods? Quick Answer: CNC machining generally holds tighter tolerances than forming, casting, and most additive processes, because it removes material directly rather than relying on shrinkage, springback, or layer deposition. But \"how precise\" depends on the specific process variant, material, geometry, and inspection method — there's no single number that applies across an entire process category. A part spec calls for a tolerance of ±0.0...... CNC Milling vs. CNC Turning: Which is Better? CNC Milling vs. CNC Turning: Which Process Fits Your Part? Quick Answer: Choose CNC milling for prismatic, flat, pocketed, and complex 3D parts. Choose CNC turning for parts whose primary geometry is cylindrical or rotationally symmetric. Use mill-turn or secondary milling when a turned part also needs flats, keyways, cross-holes, or other non-round features. A shaft and a bracket can come from the same material, hold similar tolerances, and still need completely different machines to make — not becau...... How Does CNC Machining Differ From Traditional Machining Methods? How Does CNC Machining Differ From Traditional Machining Methods? Quick Answer: Choose CNC machining when repeatability, complex geometry, tight feature relationships, or production quantity justify programming and setup. Choose traditional or manual machining for simple one-off parts, repairs, and highly variable work where a skilled operator can work directly from a sample or drawing. The right choice depends on geometry, tolerance, quantity, and available data. A machinist trained on manual lathes ...... What Steps Are Taken To Minimize Waste In CNC Machining Processes? How to Reduce Waste in CNC Machining: 5 Practical Strategies Quick Answer: CNC machining waste is reduced mainly through DFM, near-net stock, efficient toolpaths, preventive tool maintenance, and alloy-segregated recycling. The biggest gains usually come before cutting: reduce unnecessary material removal and prevent scrap or rework. Every CNC-machined part starts as more material than it ends up being. A pocket gets milled out, a profile gets cut away, a boss gets faced down to size — and all of that...... Popular Articles What Steps Are Taken To Minimize Waste In CNC Machining Processes? • What Steps Are Taken To Minimize Waste In CNC Machining Processes? Cutting with Precision: A Comprehensive Guide to CNC Water Jet Technology • Cutting with Precision: A Comprehensive Guide to CNC Water Jet Technology CNC Coolant Explained: Types, Maintenance & Safety • CNC Coolant Explained: Types, Maintenance & Safety Rake Angle in Machining: Machinists’ Guide to Perfect Cuts • Rake Angle in Machining: Machinists’ Guide to Perfect Cuts How EDM Wire Cutting Works: Complete Guide to Precision CNC Wire Cutting • How EDM Wire Cutting Works: Complete Guide to Precision CNC Wire Cutting",
+      "after": "Blog Knowledge Hub Materials Design & Engineering Manufacturing Services Blog Blog Knowledge Hub Fundamental knowledge covering CNC machining and sheet metal fabrication. CNC Machining Fundamentals Core CNC machining principles, cutting mechanics, and machine basics. CNC Machines & Equipment Overview of CNC machines and supporting fabrication equipment. Sheet Metal Fabrication Forming, cutting, bending, and joining fundamentals. Tools & Cutting Instruments Cutting tools, tool materials, and forming instruments. Surface Finishing Processes Finishes and treatments for machined and formed parts. Knowledge Hub Materials Material properties, machining behavior, and forming suitability. Plastics for CNC Plastic materials, machining behavior, and use cases. Metals for CNC Metal properties, machinability, and forming suitability. Material Selection Guide Choose materials based on performance, cost, and manufacturability. Materials Design & Engineering Technical design guidance for CNC parts and sheet metal components. CAD & CAM Software Modeling, toolpaths, and sheet metal design workflows. Design Tips & Best Practices Practical guidelines for manufacturable CNC and formed parts. CNC Programming G-code, programming logic, and machining strategies. Design & Engineering Manufacturing Services Process explanations, workflows, and manufacturing guidance. Custom Projects & Gifts Creative, personalized projects using machining and fabrication. Industry Use Cases Applications across engineering, consumer products, and industrial sectors. Manufacturing Solutions Process choices, workflows, and production guidance. Manufacturing Services Blog Blog Home Blog Knowledge Hub CNC Machining Fundamentals The Advantages of Laser Cutting vs. CNC Milling for Sheet Metal Fabrication Published null, updated Mar 13, 2025 4 min In the field of sheet metal processing, laser cutting and CNC milling are two core processes known for their high precision, high efficiency and ability to process complex structures. Whether it's aerospace parts or consumer electronics housings, choosing the right processing technology has a direct impact on cost, efficiency and product quality. This article will be an in-depth comparison of laser cutting and CNC milling process advantages, analysis of its application scenarios, and provide companies with technology selection of the practical guide. I. Laser cutting: the perfect balance of speed and precision 1. Core process advantages Ultra-high precision: fibre laser cutting machine can achieve ±0.05mm tolerance (such as TruLaser 5030), smooth and burr-free cut. Wide material adaptability: support for stainless steel (0.5-30mm), aluminium alloy (0.5-25mm), copper plate (0.5-15mm) and so on. Processing efficiency: cutting speed up to 40m/min (1mm carbon steel), 3 times faster than traditional plasma cutting. 2. Typical application scenarios Thin plate precision processing: Electronic equipment shell (thickness 0.5-3mm), contour accuracy ≤ ± 0.1mm. Automotive sheet metal parts (such as door liners), cutting efficiency of 200 pieces / hour. Complex graphics processing: Artistic decorative metal screens, minimum hole diameter up to 0.2mm. 3. Cost-effectiveness analysis Case: a home appliance company processing 10,000 pieces of stainless steel panels: Laser cutting: single piece cost $ 8.5, time-consuming 3 days. Traditional stamping: mould cost $ 50,000 + single piece cost $ 6.2, the total cost is higher. II. CNC Milling: the ultimate solution for complex structures and high surface quality. 1. Core process advantages Three-dimensional machining capacity: five-axis CNC milling machine can process deep cavities, curved surfaces, shaped structures (such as impellers, mould cavities). Surface quality control: surface roughness Ra≤0.8μm after fine milling, directly achieve mirror effect. Batch consistency: Dimensional fluctuation of processing 1000 pieces of aluminium ≤ ± 0.02mm (CPK ≥ 1.67). 2. Typical application scenarios Thick plate precision parts: Aircraft engine bracket (50mm aluminium alloy), flatness ≤ 0.03mm. Hydraulic valve block (40CrMo steel), multi-hole system positional degree tolerance ± 0.01mm. Functional surface treatment: Mould insert nibble processing (VDI 3400 standard), texture depth 0.05-0.2mm. 3. Cost-effectiveness analysis Case: a medical device company processing titanium alloy joint implants: CNC milling: single piece cost $ 220, yield rate of 98%. 3D printing: single piece cost $ 380, need to follow up machining correction. III. Laser cutting vs CNC milling: four dimensions of comparison and selection guide Comparison Dimension Laser Cutting CNC Milling Applicable thickness Thin plate (0.5-25mm) Thick plate (5-300mm) Machining accuracy ±0.05mm (2D contour) ±0.01mm (3D structure) Material utilisation Nested nesting saves 15-30% of material. Clamping allowance needs to be reserved, lower utilisation rate Processing cycle Fast (no tool change, continuous cutting) Slow (multi-process tool change, suitable for complex parts) IV. How to choose the best machining process? 1. Selection decision tree Demand priority for ‘speed + cost’ → choose laser cutting. Demand priority is ‘complex structure + surface quality’ → choose CNC milling. Mixed demand: laser cutting + CNC milling finishing (20% lower overall cost). 2. Industry Matching Table Industries Recommended Processes Typical Cases Consumer Electronics Laser Cutting Mobile phone centre frames (stainless steel 0.8mm) Automotive Manufacturing Laser cutting + CNC milling Transmission Housing (Aluminium Die Casting) Aerospace CNC Milling Titanium wing ribs (5-axis machining) V. JLCCNC: One-Stop Service Expert for Sheet Metal Processing JLCCNC integrates laser cutting and CNC milling technologies to provide high-precision and high-efficiency metal processing solutions for customers worldwide: Technical Advantage: Process co-innovation: laser cutting down (accuracy ±0.05mm) + CNC milling finishing (Ra 0.4μm), comprehensive efficiency increased by 35%. Full material coverage: stainless steel, aluminium alloy, titanium alloy, etc. Service highlights: Fast response: 24-hour online quotation, 72-hour delivery of first sample. Transparent cost: no hidden cost per piece, support small batch trial production. Global delivery: as fast as 3 days to the world. Contact JLCCNC today to unlock the endless possibilities of sheet metal processing! Popular Articles What Steps Are Taken To Minimize Waste In CNC Machining Processes? • What Steps Are Taken To Minimize Waste In CNC Machining Processes? Cutting with Precision: A Comprehensive Guide to CNC Water Jet Technology • Cutting with Precision: A Comprehensive Guide to CNC Water Jet Technology CNC Coolant Explained: Types, Maintenance & Safety • CNC Coolant Explained: Types, Maintenance & Safety Rake Angle in Machining: Machinists’ Guide to Perfect Cuts • Rake Angle in Machining: Machinists’ Guide to Perfect Cuts How EDM Wire Cutting Works: Complete Guide to Precision CNC Wire Cutting • How EDM Wire Cutting Works: Complete Guide to Precision CNC Wire Cutting Keep Learning CNC Automation: Systems, Software, and Manufacturing Solutions Explained Key Takeaways • CNC automation combines machine tools, software, and material handling into a system that reduces direct labor per part and improves process consistency. • The core components are the CNC machine, the control software, and whatever handles part movement, robot, conveyor, pallet system, or some combination. • Automation doesn't eliminate the need for skilled engineers and machinists. It shifts where their time goes, from operating machines to programming, setting up, and maintaining sys...... What Is Tempering? Metal Tempering Process and Applications Key Takeaways In conventional quench-and-temper treatment, tempering reheats previously hardened steel below its lower critical temperature. Temperature and holding time affect the final mechanical properties. Tempered steel is used for tools, gears, shafts, and loaded components. CNC planning must account for heat-treatment distortion and final tolerances. Tempering differs from quenching, annealing, and normalizing in purpose and sequence. Tempering steel parts in an industrial furnace Hardening giv...... Sheet Metal vs CNC Machining: A Guide to Choosing the Right Method for Your Metal Parts Sheet Metal vs CNC Machining: How to Choose the Right Method for Your Metal Parts Quick Answer: Choose sheet metal for uniform-thickness enclosures, panels, and formed brackets when bends and production volume support lower unit cost. Choose CNC machining for variable wall thickness, precision bores, tight feature relationships, and complex 3D geometry. Use a hybrid design when a formed structure needs precision-machined interfaces. A quote comes back for a bracket, and it's priced as a CNC part — mac...... How Precise Is CNC Machining Compared To Other Manufacturing Methods? How Precise Is CNC Machining Compared to Other Manufacturing Methods? Quick Answer: CNC machining generally holds tighter tolerances than forming, casting, and most additive processes, because it removes material directly rather than relying on shrinkage, springback, or layer deposition. But \"how precise\" depends on the specific process variant, material, geometry, and inspection method — there's no single number that applies across an entire process category. A part spec calls for a tolerance of ±0.0...... CNC Milling vs. CNC Turning: Which is Better? CNC Milling vs. CNC Turning: Which Process Fits Your Part? Quick Answer: Choose CNC milling for prismatic, flat, pocketed, and complex 3D parts. Choose CNC turning for parts whose primary geometry is cylindrical or rotationally symmetric. Use mill-turn or secondary milling when a turned part also needs flats, keyways, cross-holes, or other non-round features. A shaft and a bracket can come from the same material, hold similar tolerances, and still need completely different machines to make — not becau...... How Does CNC Machining Differ From Traditional Machining Methods? How Does CNC Machining Differ From Traditional Machining Methods? Quick Answer: Choose CNC machining when repeatability, complex geometry, tight feature relationships, or production quantity justify programming and setup. Choose traditional or manual machining for simple one-off parts, repairs, and highly variable work where a skilled operator can work directly from a sample or drawing. The right choice depends on geometry, tolerance, quantity, and available data. A machinist trained on manual lathes ...... Popular Articles What Steps Are Taken To Minimize Waste In CNC Machining Processes? • What Steps Are Taken To Minimize Waste In CNC Machining Processes? Cutting with Precision: A Comprehensive Guide to CNC Water Jet Technology • Cutting with Precision: A Comprehensive Guide to CNC Water Jet Technology CNC Coolant Explained: Types, Maintenance & Safety • CNC Coolant Explained: Types, Maintenance & Safety Rake Angle in Machining: Machinists’ Guide to Perfect Cuts • Rake Angle in Machining: Machinists’ Guide to Perfect Cuts How EDM Wire Cutting Works: Complete Guide to Precision CNC Wire Cutting • How EDM Wire Cutting Works: Complete Guide to Precision CNC Wire Cutting",
+      "added": [
+        "CNC Automation: Systems, Software, and Manufacturing Solutions Explained Key Takeaways • CNC automation combines machine tools, software, and material handling into a system that reduces direct labor per part and improves process consistency. • The core components are the CNC machine, the control software, and whatever handles part movement, robot, conveyor..."
+      ],
+      "removed": [
+        "What Steps Are Taken To Minimize Waste In CNC Machining Processes? How to Reduce Waste in CNC Machining: 5 Practical Strategies Quick Answer: CNC machining waste is reduced mainly through DFM, near-net stock, efficient toolpaths, preventive tool maintenance, and alloy-segregated recycling. The biggest gains usually come before cutting: reduce unnecessary ma..."
+      ],
+      "change_percent": 10.86,
+      "confidence": "high",
+      "published_at": "2025-12-26T00:00:00+00:00",
+      "first_seen_at": "2026-08-17T03:50:49+00:00",
+      "discovered_via": "sitemap"
+    },
+    {
+      "type": "visual_changed",
+      "priority": "high",
+      "competitor": "Protolabs",
+      "url": "https://www.protolabs.com/services/3d-printing",
+      "category": "pricing",
+      "page_title": "Online 3D Printing Service | Instant 3D Printing Quote",
+      "summary": "mobile 视图出现明显 UI/布局变化",
+      "details": [
+        "视口：mobile",
+        "RMS 差异：90.10",
+        "变化像素占比：9.76%",
+        "页面截图高度变化：-34px"
+      ],
+      "before": null,
+      "after": null,
+      "added": [],
+      "removed": [],
+      "change_percent": 0.0,
+      "confidence": "high",
+      "published_at": "",
+      "first_seen_at": "2026-08-17T03:48:24+00:00",
+      "discovered_via": "sitemap"
+    },
+    {
+      "type": "visual_changed",
+      "priority": "high",
+      "competitor": "Protolabs",
+      "url": "https://www.protolabs.com/services/cnc-machining",
+      "category": "pricing",
+      "page_title": "Online CNC Machining Service | Get a Quote",
+      "summary": "mobile 视图出现明显 UI/布局变化",
+      "details": [
+        "视口：mobile",
+        "RMS 差异：123.00",
+        "变化像素占比：21.40%",
+        "页面截图高度变化：-30px"
+      ],
+      "before": null,
+      "after": null,
+      "added": [],
+      "removed": [],
+      "change_percent": 0.0,
+      "confidence": "high",
+      "published_at": "",
+      "first_seen_at": "2026-08-17T03:48:18+00:00",
+      "discovered_via": "sitemap"
+    },
+    {
+      "type": "visual_changed",
+      "priority": "medium",
+      "competitor": "CNCLATHING",
+      "url": "https://www.cnclathing.com/",
+      "category": "service",
+      "page_title": "China Top CNC Machining Service OEM Supplier & Manufacturer | Junying",
+      "summary": "desktop 视图出现明显 UI/布局变化",
+      "details": [
+        "视口：desktop",
+        "RMS 差异：51.09",
+        "变化像素占比：5.10%"
+      ],
+      "before": null,
+      "after": null,
+      "added": [],
+      "removed": [],
+      "change_percent": 0.0,
+      "confidence": "high",
+      "published_at": "",
+      "first_seen_at": "2026-08-17T03:54:41+00:00",
+      "discovered_via": "sitemap"
+    },
+    {
+      "type": "visual_changed",
+      "priority": "medium",
+      "competitor": "Fictiv",
+      "url": "https://www.fictiv.com/",
+      "category": "service",
+      "page_title": "Fictiv: Sourcing Simplified for Custom Manufacturing Services",
+      "summary": "mobile 视图出现明显 UI/布局变化",
+      "details": [
+        "视口：mobile",
+        "RMS 差异：9.96",
+        "变化像素占比：0.22%",
+        "页面截图高度变化：+1053px"
+      ],
+      "before": null,
+      "after": null,
+      "added": [],
+      "removed": [],
+      "change_percent": 0.0,
+      "confidence": "high",
+      "published_at": "2020-09-09T21:32:10+00:00",
+      "first_seen_at": "2026-08-17T03:45:18+00:00",
+      "discovered_via": "feed"
+    },
+    {
+      "type": "new_page",
+      "priority": "medium",
+      "competitor": "Hubs",
+      "url": "https://www.hubs.com/knowledge-base/cnc-machining/polypropylene",
+      "category": "content",
+      "page_title": "What is polypropylene plastic and what are its uses | Protolabs Network",
+      "summary": "新发现页面：What is polypropylene plastic and what are its uses | Protolabs Network",
+      "details": [
+        "标题：What is polypropylene plastic and what are its uses | Protolabs Network",
+        "系统首次发现：2026-09-26",
+        "发布时间：页面未提供，需人工确认"
+      ],
+      "before": null,
+      "after": null,
+      "added": [],
+      "removed": [],
+      "change_percent": 0.0,
+      "confidence": "medium",
+      "published_at": "",
+      "first_seen_at": "2026-09-26T06:08:38+00:00",
+      "discovered_via": "sitemap"
+    },
+    {
+      "type": "visual_changed",
+      "priority": "medium",
+      "competitor": "JLC CNC",
+      "url": "https://jlccnc.com/",
+      "category": "service",
+      "page_title": "Online CNC Machining Service - JLCCNC",
+      "summary": "desktop 视图出现明显 UI/布局变化",
+      "details": [
+        "视口：desktop",
+        "RMS 差异：24.80",
+        "变化像素占比：3.57%"
+      ],
+      "before": null,
+      "after": null,
+      "added": [],
+      "removed": [],
+      "change_percent": 0.0,
+      "confidence": "high",
+      "published_at": "2026-09-15T00:00:00+00:00",
+      "first_seen_at": "2026-08-17T03:49:31+00:00",
+      "discovered_via": "priority"
+    },
+    {
+      "type": "visual_changed",
+      "priority": "medium",
+      "competitor": "JLC CNC",
+      "url": "https://jlccnc.com/",
+      "category": "service",
+      "page_title": "Online CNC Machining Service - JLCCNC",
+      "summary": "mobile 视图出现明显 UI/布局变化",
+      "details": [
+        "视口：mobile",
+        "RMS 差异：44.68",
+        "变化像素占比：3.18%"
+      ],
+      "before": null,
+      "after": null,
+      "added": [],
+      "removed": [],
+      "change_percent": 0.0,
+      "confidence": "high",
+      "published_at": "2026-09-15T00:00:00+00:00",
+      "first_seen_at": "2026-08-17T03:49:31+00:00",
+      "discovered_via": "priority"
+    },
+    {
+      "type": "section_copy_changed",
+      "priority": "medium",
+      "competitor": "PCBWay",
+      "url": "https://www.pcbway.com/",
+      "category": "homepage",
+      "page_title": "China PCB Prototype & Fabrication Manufacturer - PCB Prototype the Easy Way",
+      "summary": "板块文案更新：Affordable Prototype PCB Manufacturer in China",
+      "details": [],
+      "before": "Affordable Prototype PCB Manufacturer in China Last 30 days: 90381 Today's new order: 1821 Latest orders Date Buyer name Lead Time Progress 09-25 R****ey 4-5 days 45% 09-25 V****or 4-5 days 42% 09-25 K****RD 15-16 days 35% 09-25 *** 24hours 25% 09-25 *** 24hours 18% 09-25 *** 4-5 days 45% 09-25 D****ki 3-4 days 17% 09-25 S****er 72hours 38% 09-25 C****nd 15-16 days 14% 09-25 B****er 4-5 days 38% 09-25 *** 3-4 days 25% 09-25 *** 8-9 days 33% 09-25 *** 5-6 days 20% 09-25 *** 24hours 43% 09-25 *** 7-8 days 28% 09-25 S****to 24hours 37% 09-25 R****ez 24hours 18% 09-25 d****es 4-5 days 36% 09-25 *** 24hours 43% 09-25 *** 4-5 days 42%",
+      "after": "Affordable Prototype PCB Manufacturer in China Last 30 days: 89946 Today's new order: 1470 Latest orders Date Buyer name Lead Time Progress 09-26 K****ey 7-8 days 33% 09-26 J****os 12-13 days 32% 09-26 M****hr 11-12 days 31% 09-26 J****er 6-7 days 23% 09-26 *** 9-10 days 27% 09-26 *** 7-8 days 38% 09-26 W****ms 5-6 days 25% 09-26 *** 5-6 days 11% 09-26 *** 3-4 days 12% 09-26 M****ck 4-5 days 45% 09-26 N****er 5-6 days 47% 09-26 R****lo 24hours 12% 09-26 M****ck 4-5 days 45% 09-26 K****er 6-7 days 40% 09-26 D****ey 5-6 days 12% 09-26 *** 3-4 days 37% 09-26 G****pe 7-8 days 21% 09-26 D****ki 5-6 days 29% 09-26 G****ro 4-5 days 12% 09-26 A****ny 6-7 days 21%",
+      "added": [
+        "89946",
+        "1470",
+        "09-26 K****ey 7-8 days 33% 09-26 J****os 12-13 days 32% 09-26 M****hr 11-12 days 31% 09-26 J****er 6-7 days 23% 09-26 *** 9-10 days 27% 09-26 *** 7-8 days 38% 09-26 W****ms 5-6 days 25% 09-26 *** 5-6 days 11% 09-26 *** 3-4 days 12% 09-26 M****ck",
+        "09-26 N****er 5-6",
+        "47% 09-26 R****lo"
+      ],
+      "removed": [
+        "90381",
+        "1821",
+        "09-25 R****ey",
+        "09-25 V****or 4-5",
+        "42% 09-25 K****RD 15-16 days 35% 09-25 ***"
+      ],
+      "change_percent": 130.58,
+      "confidence": "high",
+      "published_at": "2026-09-26T00:00:00+00:00",
+      "first_seen_at": "2026-08-17T03:51:10+00:00",
+      "discovered_via": "priority"
+    },
+    {
+      "type": "section_copy_changed",
+      "priority": "medium",
+      "competitor": "PCBWay",
+      "url": "https://www.pcbway.com/rapid-prototyping/3D-Printing/3D-Printing-DLP.html",
+      "category": "service",
+      "page_title": "Digital Light Processing (DLP) 3D Printing Service | Instant Quoting - PCBWay",
+      "summary": "板块文案更新：Customer reviews about 3D printing Service",
+      "details": [],
+      "before": "Customer reviews about 3D printing Service Tool steel Williamson Very good, to tolerence, survived intended application. <dynamic-value> Sep 19,2026 Stainless steel 316L Working well for my application, the dimensions were very accurate. There was a slight amount of support material stuck in some of the internal holes, but I was able to remove this with a drill. The s... <dynamic-value> Sep 13,2026 Aluminum (AlSi10Mg) So basically I needed a custom 2 stroke intake pipe for my new carburator, had designed one and 3d printed few prototypes to confirm the design and then got it metal printed for good. Honnestly, when ... <dynamic-value> Sep 06,2026 Standard white material (UTR 8360) Behn 2 Part design to be able to screw this into some LED Matrix panels while able to avoid larger holes in the structure. Unfortunately the Angle of Attack I designed into this means that while being sta... <dynamic-value> Sep 04,2026 Aluminum (AlSi10Mg) Maire Tolerances not yet checked, but it seems to fit properly needs. <dynamic-value> Sep 04,2026 Aluminum (AlSi10Mg) Aebi Top quality, only drawback the lead time was over a week longer than estimated <dynamic-value> Aug 26,2026 Aluminum (AlSi10Mg) Kast...",
+      "after": "Customer reviews about 3D printing Service Standard white material (UTR 8360) Balmer This was one of my first 3d prints, there were a couple of hiccups along the way, whoever I was helped by the pcbway team in correcting a couple of mistakes I made in the model. The finished product w... <dynamic-value> Sep 24,2026 Tool steel Williamson Very good, to tolerence, survived intended application. <dynamic-value> Sep 19,2026 Stainless steel 316L Working well for my application, the dimensions were very accurate. There was a slight amount of support material stuck in some of the internal holes, but I was able to remove this with a drill. The s... <dynamic-value> Sep 13,2026 Aluminum (AlSi10Mg) So basically I needed a custom 2 stroke intake pipe for my new carburator, had designed one and 3d printed few prototypes to confirm the design and then got it metal printed for good. Honnestly, when ... <dynamic-value> Sep 06,2026 Standard white material (UTR 8360) Behn 2 Part design to be able to screw this into some LED Matrix panels while able to avoid larger holes in the structure. Unfortunately the Angle of Attack I designed into this means that while being sta... <dynamic-value> Sep 04,2026...",
+      "added": [
+        "Standard white material (UTR 8360) Balmer This was one of my first 3d prints, there were a couple of hiccups along the way, whoever I was helped by the pcbway team in correcting a couple of mistakes I made in the model. The finished product w... <dynamic-value> Sep 24,2026",
+        "04,2026..."
+      ],
+      "removed": [
+        "04,2026 Aluminum (AlSi10Mg) Maire Tolerances not yet checked, but it seems to fit properly needs. <dynamic-value> Sep 04,2026 Aluminum (AlSi10Mg) Aebi Top quality, only drawback the lead time was over a week longer than estimated <dynamic-value> Aug 26,2026 Aluminum (AlSi10Mg) Kast..."
+      ],
+      "change_percent": 45.73,
+      "confidence": "high",
+      "published_at": "2026-09-24T00:00:00+00:00",
+      "first_seen_at": "2026-08-17T03:52:00+00:00",
+      "discovered_via": "links"
+    },
+    {
+      "type": "section_copy_changed",
+      "priority": "medium",
+      "competitor": "PCBWay",
+      "url": "https://www.pcbway.com/rapid-prototyping/3D-Printing/3D-Printing-FDM.html",
+      "category": "service",
+      "page_title": "Fused Deposition Modeling (FDM) 3D Printing Service | Instant Quoting - PCBWay",
+      "summary": "板块文案更新：Customer reviews about 3D printing Service",
+      "details": [],
+      "before": "Customer reviews about 3D printing Service Tool steel Williamson Very good, to tolerence, survived intended application. <dynamic-value> Sep 19,2026 Stainless steel 316L Working well for my application, the dimensions were very accurate. There was a slight amount of support material stuck in some of the internal holes, but I was able to remove this with a drill. The s... <dynamic-value> Sep 13,2026 Aluminum (AlSi10Mg) So basically I needed a custom 2 stroke intake pipe for my new carburator, had designed one and 3d printed few prototypes to confirm the design and then got it metal printed for good. Honnestly, when ... <dynamic-value> Sep 06,2026 Standard white material (UTR 8360) Behn 2 Part design to be able to screw this into some LED Matrix panels while able to avoid larger holes in the structure. Unfortunately the Angle of Attack I designed into this means that while being sta... <dynamic-value> Sep 04,2026 Aluminum (AlSi10Mg) Maire Tolerances not yet checked, but it seems to fit properly needs. <dynamic-value> Sep 04,2026 Aluminum (AlSi10Mg) Aebi Top quality, only drawback the lead time was over a week longer than estimated <dynamic-value> Aug 26,2026 Aluminum (AlSi10Mg) Kast...",
+      "after": "Customer reviews about 3D printing Service Standard white material (UTR 8360) Balmer This was one of my first 3d prints, there were a couple of hiccups along the way, whoever I was helped by the pcbway team in correcting a couple of mistakes I made in the model. The finished product w... <dynamic-value> Sep 24,2026 Tool steel Williamson Very good, to tolerence, survived intended application. <dynamic-value> Sep 19,2026 Stainless steel 316L Working well for my application, the dimensions were very accurate. There was a slight amount of support material stuck in some of the internal holes, but I was able to remove this with a drill. The s... <dynamic-value> Sep 13,2026 Aluminum (AlSi10Mg) So basically I needed a custom 2 stroke intake pipe for my new carburator, had designed one and 3d printed few prototypes to confirm the design and then got it metal printed for good. Honnestly, when ... <dynamic-value> Sep 06,2026 Standard white material (UTR 8360) Behn 2 Part design to be able to screw this into some LED Matrix panels while able to avoid larger holes in the structure. Unfortunately the Angle of Attack I designed into this means that while being sta... <dynamic-value> Sep 04,2026...",
+      "added": [
+        "Standard white material (UTR 8360) Balmer This was one of my first 3d prints, there were a couple of hiccups along the way, whoever I was helped by the pcbway team in correcting a couple of mistakes I made in the model. The finished product w... <dynamic-value> Sep 24,2026",
+        "04,2026..."
+      ],
+      "removed": [
+        "04,2026 Aluminum (AlSi10Mg) Maire Tolerances not yet checked, but it seems to fit properly needs. <dynamic-value> Sep 04,2026 Aluminum (AlSi10Mg) Aebi Top quality, only drawback the lead time was over a week longer than estimated <dynamic-value> Aug 26,2026 Aluminum (AlSi10Mg) Kast..."
+      ],
+      "change_percent": 45.73,
+      "confidence": "high",
+      "published_at": "2026-09-24T00:00:00+00:00",
+      "first_seen_at": "2026-08-17T03:52:00+00:00",
+      "discovered_via": "links"
+    },
+    {
+      "type": "section_copy_changed",
+      "priority": "medium",
+      "competitor": "PCBWay",
+      "url": "https://www.pcbway.com/rapid-prototyping/3D-Printing/3D-Printing-PolyJet.html",
+      "category": "service",
+      "page_title": "Photopolymer Jetting (PolyJet) 3D Printing Service | Instant Quoting - PCBWay",
+      "summary": "板块文案更新：Customer reviews about 3D printing Service",
+      "details": [],
+      "before": "Customer reviews about 3D printing Service Tool steel Williamson Very good, to tolerence, survived intended application. <dynamic-value> Sep 19,2026 Stainless steel 316L Working well for my application, the dimensions were very accurate. There was a slight amount of support material stuck in some of the internal holes, but I was able to remove this with a drill. The s... <dynamic-value> Sep 13,2026 Aluminum (AlSi10Mg) So basically I needed a custom 2 stroke intake pipe for my new carburator, had designed one and 3d printed few prototypes to confirm the design and then got it metal printed for good. Honnestly, when ... <dynamic-value> Sep 06,2026 Standard white material (UTR 8360) Behn 2 Part design to be able to screw this into some LED Matrix panels while able to avoid larger holes in the structure. Unfortunately the Angle of Attack I designed into this means that while being sta... <dynamic-value> Sep 04,2026 Aluminum (AlSi10Mg) Maire Tolerances not yet checked, but it seems to fit properly needs. <dynamic-value> Sep 04,2026 Aluminum (AlSi10Mg) Aebi Top quality, only drawback the lead time was over a week longer than estimated <dynamic-value> Aug 26,2026 Aluminum (AlSi10Mg) Kast...",
+      "after": "Customer reviews about 3D printing Service Standard white material (UTR 8360) Balmer This was one of my first 3d prints, there were a couple of hiccups along the way, whoever I was helped by the pcbway team in correcting a couple of mistakes I made in the model. The finished product w... <dynamic-value> Sep 24,2026 Tool steel Williamson Very good, to tolerence, survived intended application. <dynamic-value> Sep 19,2026 Stainless steel 316L Working well for my application, the dimensions were very accurate. There was a slight amount of support material stuck in some of the internal holes, but I was able to remove this with a drill. The s... <dynamic-value> Sep 13,2026 Aluminum (AlSi10Mg) So basically I needed a custom 2 stroke intake pipe for my new carburator, had designed one and 3d printed few prototypes to confirm the design and then got it metal printed for good. Honnestly, when ... <dynamic-value> Sep 06,2026 Standard white material (UTR 8360) Behn 2 Part design to be able to screw this into some LED Matrix panels while able to avoid larger holes in the structure. Unfortunately the Angle of Attack I designed into this means that while being sta... <dynamic-value> Sep 04,2026...",
+      "added": [
+        "Standard white material (UTR 8360) Balmer This was one of my first 3d prints, there were a couple of hiccups along the way, whoever I was helped by the pcbway team in correcting a couple of mistakes I made in the model. The finished product w... <dynamic-value> Sep 24,2026",
+        "04,2026..."
+      ],
+      "removed": [
+        "04,2026 Aluminum (AlSi10Mg) Maire Tolerances not yet checked, but it seems to fit properly needs. <dynamic-value> Sep 04,2026 Aluminum (AlSi10Mg) Aebi Top quality, only drawback the lead time was over a week longer than estimated <dynamic-value> Aug 26,2026 Aluminum (AlSi10Mg) Kast..."
+      ],
+      "change_percent": 45.73,
+      "confidence": "high",
+      "published_at": "2026-09-24T00:00:00+00:00",
+      "first_seen_at": "2026-08-17T03:52:01+00:00",
+      "discovered_via": "links"
+    },
+    {
+      "type": "section_copy_changed",
+      "priority": "medium",
+      "competitor": "PCBWay",
+      "url": "https://www.pcbway.com/rapid-prototyping/3D-Printing/3D-Printing-SLA.html",
+      "category": "service",
+      "page_title": "Stereolithography (SLA) 3D Printing Service | Instant Quoting - PCBWay",
+      "summary": "板块文案更新：Customer reviews about 3D printing Service",
+      "details": [],
+      "before": "Customer reviews about 3D printing Service Tool steel Williamson Very good, to tolerence, survived intended application. <dynamic-value> Sep 19,2026 Stainless steel 316L Working well for my application, the dimensions were very accurate. There was a slight amount of support material stuck in some of the internal holes, but I was able to remove this with a drill. The s... <dynamic-value> Sep 13,2026 Aluminum (AlSi10Mg) So basically I needed a custom 2 stroke intake pipe for my new carburator, had designed one and 3d printed few prototypes to confirm the design and then got it metal printed for good. Honnestly, when ... <dynamic-value> Sep 06,2026 Standard white material (UTR 8360) Behn 2 Part design to be able to screw this into some LED Matrix panels while able to avoid larger holes in the structure. Unfortunately the Angle of Attack I designed into this means that while being sta... <dynamic-value> Sep 04,2026 Aluminum (AlSi10Mg) Maire Tolerances not yet checked, but it seems to fit properly needs. <dynamic-value> Sep 04,2026 Aluminum (AlSi10Mg) Aebi Top quality, only drawback the lead time was over a week longer than estimated <dynamic-value> Aug 26,2026 Aluminum (AlSi10Mg) Kast...",
+      "after": "Customer reviews about 3D printing Service Standard white material (UTR 8360) Balmer This was one of my first 3d prints, there were a couple of hiccups along the way, whoever I was helped by the pcbway team in correcting a couple of mistakes I made in the model. The finished product w... <dynamic-value> Sep 24,2026 Tool steel Williamson Very good, to tolerence, survived intended application. <dynamic-value> Sep 19,2026 Stainless steel 316L Working well for my application, the dimensions were very accurate. There was a slight amount of support material stuck in some of the internal holes, but I was able to remove this with a drill. The s... <dynamic-value> Sep 13,2026 Aluminum (AlSi10Mg) So basically I needed a custom 2 stroke intake pipe for my new carburator, had designed one and 3d printed few prototypes to confirm the design and then got it metal printed for good. Honnestly, when ... <dynamic-value> Sep 06,2026 Standard white material (UTR 8360) Behn 2 Part design to be able to screw this into some LED Matrix panels while able to avoid larger holes in the structure. Unfortunately the Angle of Attack I designed into this means that while being sta... <dynamic-value> Sep 04,2026...",
+      "added": [
+        "Standard white material (UTR 8360) Balmer This was one of my first 3d prints, there were a couple of hiccups along the way, whoever I was helped by the pcbway team in correcting a couple of mistakes I made in the model. The finished product w... <dynamic-value> Sep 24,2026",
+        "04,2026..."
+      ],
+      "removed": [
+        "04,2026 Aluminum (AlSi10Mg) Maire Tolerances not yet checked, but it seems to fit properly needs. <dynamic-value> Sep 04,2026 Aluminum (AlSi10Mg) Aebi Top quality, only drawback the lead time was over a week longer than estimated <dynamic-value> Aug 26,2026 Aluminum (AlSi10Mg) Kast..."
+      ],
+      "change_percent": 45.73,
+      "confidence": "high",
+      "published_at": "2026-09-24T00:00:00+00:00",
+      "first_seen_at": "2026-08-17T03:51:59+00:00",
+      "discovered_via": "links"
+    },
+    {
+      "type": "section_copy_changed",
+      "priority": "medium",
+      "competitor": "PCBWay",
+      "url": "https://www.pcbway.com/rapid-prototyping/3D-Printing/3D-Printing-SLM.html",
+      "category": "service",
+      "page_title": "Selective laser melting (SLM) 3D Printing Service | Instant Quoting - PCBWay",
+      "summary": "板块文案更新：Customer reviews about 3D printing Service",
+      "details": [],
+      "before": "Customer reviews about 3D printing Service Tool steel Williamson Very good, to tolerence, survived intended application. <dynamic-value> Sep 19,2026 Stainless steel 316L Working well for my application, the dimensions were very accurate. There was a slight amount of support material stuck in some of the internal holes, but I was able to remove this with a drill. The s... <dynamic-value> Sep 13,2026 Aluminum (AlSi10Mg) So basically I needed a custom 2 stroke intake pipe for my new carburator, had designed one and 3d printed few prototypes to confirm the design and then got it metal printed for good. Honnestly, when ... <dynamic-value> Sep 06,2026 Standard white material (UTR 8360) Behn 2 Part design to be able to screw this into some LED Matrix panels while able to avoid larger holes in the structure. Unfortunately the Angle of Attack I designed into this means that while being sta... <dynamic-value> Sep 04,2026 Aluminum (AlSi10Mg) Maire Tolerances not yet checked, but it seems to fit properly needs. <dynamic-value> Sep 04,2026 Aluminum (AlSi10Mg) Aebi Top quality, only drawback the lead time was over a week longer than estimated <dynamic-value> Aug 26,2026 Aluminum (AlSi10Mg) Kast...",
+      "after": "Customer reviews about 3D printing Service Standard white material (UTR 8360) Balmer This was one of my first 3d prints, there were a couple of hiccups along the way, whoever I was helped by the pcbway team in correcting a couple of mistakes I made in the model. The finished product w... <dynamic-value> Sep 24,2026 Tool steel Williamson Very good, to tolerence, survived intended application. <dynamic-value> Sep 19,2026 Stainless steel 316L Working well for my application, the dimensions were very accurate. There was a slight amount of support material stuck in some of the internal holes, but I was able to remove this with a drill. The s... <dynamic-value> Sep 13,2026 Aluminum (AlSi10Mg) So basically I needed a custom 2 stroke intake pipe for my new carburator, had designed one and 3d printed few prototypes to confirm the design and then got it metal printed for good. Honnestly, when ... <dynamic-value> Sep 06,2026 Standard white material (UTR 8360) Behn 2 Part design to be able to screw this into some LED Matrix panels while able to avoid larger holes in the structure. Unfortunately the Angle of Attack I designed into this means that while being sta... <dynamic-value> Sep 04,2026...",
+      "added": [
+        "Standard white material (UTR 8360) Balmer This was one of my first 3d prints, there were a couple of hiccups along the way, whoever I was helped by the pcbway team in correcting a couple of mistakes I made in the model. The finished product w... <dynamic-value> Sep 24,2026",
+        "04,2026..."
+      ],
+      "removed": [
+        "04,2026 Aluminum (AlSi10Mg) Maire Tolerances not yet checked, but it seems to fit properly needs. <dynamic-value> Sep 04,2026 Aluminum (AlSi10Mg) Aebi Top quality, only drawback the lead time was over a week longer than estimated <dynamic-value> Aug 26,2026 Aluminum (AlSi10Mg) Kast..."
+      ],
+      "change_percent": 45.73,
+      "confidence": "high",
+      "published_at": "2026-09-24T00:00:00+00:00",
+      "first_seen_at": "2026-08-17T03:52:01+00:00",
+      "discovered_via": "links"
+    },
+    {
+      "type": "section_copy_changed",
+      "priority": "medium",
+      "competitor": "PCBWay",
+      "url": "https://www.pcbway.com/rapid-prototyping/3D-Printing/3D-Printing-SLS.html",
+      "category": "service",
+      "page_title": "Selective laser sintering(SLS) 3D Printing Service | Instant Quoting - PCBWay",
+      "summary": "板块文案更新：Customer reviews about 3D printing Service",
+      "details": [],
+      "before": "Customer reviews about 3D printing Service Tool steel Williamson Very good, to tolerence, survived intended application. <dynamic-value> Sep 19,2026 Stainless steel 316L Working well for my application, the dimensions were very accurate. There was a slight amount of support material stuck in some of the internal holes, but I was able to remove this with a drill. The s... <dynamic-value> Sep 13,2026 Aluminum (AlSi10Mg) So basically I needed a custom 2 stroke intake pipe for my new carburator, had designed one and 3d printed few prototypes to confirm the design and then got it metal printed for good. Honnestly, when ... <dynamic-value> Sep 06,2026 Standard white material (UTR 8360) Behn 2 Part design to be able to screw this into some LED Matrix panels while able to avoid larger holes in the structure. Unfortunately the Angle of Attack I designed into this means that while being sta... <dynamic-value> Sep 04,2026 Aluminum (AlSi10Mg) Maire Tolerances not yet checked, but it seems to fit properly needs. <dynamic-value> Sep 04,2026 Aluminum (AlSi10Mg) Aebi Top quality, only drawback the lead time was over a week longer than estimated <dynamic-value> Aug 26,2026 Aluminum (AlSi10Mg) Kast...",
+      "after": "Customer reviews about 3D printing Service Standard white material (UTR 8360) Balmer This was one of my first 3d prints, there were a couple of hiccups along the way, whoever I was helped by the pcbway team in correcting a couple of mistakes I made in the model. The finished product w... <dynamic-value> Sep 24,2026 Tool steel Williamson Very good, to tolerence, survived intended application. <dynamic-value> Sep 19,2026 Stainless steel 316L Working well for my application, the dimensions were very accurate. There was a slight amount of support material stuck in some of the internal holes, but I was able to remove this with a drill. The s... <dynamic-value> Sep 13,2026 Aluminum (AlSi10Mg) So basically I needed a custom 2 stroke intake pipe for my new carburator, had designed one and 3d printed few prototypes to confirm the design and then got it metal printed for good. Honnestly, when ... <dynamic-value> Sep 06,2026 Standard white material (UTR 8360) Behn 2 Part design to be able to screw this into some LED Matrix panels while able to avoid larger holes in the structure. Unfortunately the Angle of Attack I designed into this means that while being sta... <dynamic-value> Sep 04,2026...",
+      "added": [
+        "Standard white material (UTR 8360) Balmer This was one of my first 3d prints, there were a couple of hiccups along the way, whoever I was helped by the pcbway team in correcting a couple of mistakes I made in the model. The finished product w... <dynamic-value> Sep 24,2026",
+        "04,2026..."
+      ],
+      "removed": [
+        "04,2026 Aluminum (AlSi10Mg) Maire Tolerances not yet checked, but it seems to fit properly needs. <dynamic-value> Sep 04,2026 Aluminum (AlSi10Mg) Aebi Top quality, only drawback the lead time was over a week longer than estimated <dynamic-value> Aug 26,2026 Aluminum (AlSi10Mg) Kast..."
+      ],
+      "change_percent": 45.73,
+      "confidence": "high",
+      "published_at": "2026-09-24T00:00:00+00:00",
+      "first_seen_at": "2026-08-17T03:52:01+00:00",
+      "discovered_via": "links"
+    },
+    {
+      "type": "section_copy_changed",
+      "priority": "medium",
+      "competitor": "PCBWay",
+      "url": "https://www.pcbway.com/rapid-prototyping/3D-Printing/3D-Printing-VC.html",
+      "category": "service",
+      "page_title": "Vacuum Casting 3D Printing Service | Instant Quoting - PCBWay",
+      "summary": "板块文案更新：Customer reviews about 3D printing Service",
+      "details": [],
+      "before": "Customer reviews about 3D printing Service Tool steel Williamson Very good, to tolerence, survived intended application. <dynamic-value> Sep 19,2026 Stainless steel 316L Working well for my application, the dimensions were very accurate. There was a slight amount of support material stuck in some of the internal holes, but I was able to remove this with a drill. The s... <dynamic-value> Sep 13,2026 Aluminum (AlSi10Mg) So basically I needed a custom 2 stroke intake pipe for my new carburator, had designed one and 3d printed few prototypes to confirm the design and then got it metal printed for good. Honnestly, when ... <dynamic-value> Sep 06,2026 Standard white material (UTR 8360) Behn 2 Part design to be able to screw this into some LED Matrix panels while able to avoid larger holes in the structure. Unfortunately the Angle of Attack I designed into this means that while being sta... <dynamic-value> Sep 04,2026 Aluminum (AlSi10Mg) Maire Tolerances not yet checked, but it seems to fit properly needs. <dynamic-value> Sep 04,2026 Aluminum (AlSi10Mg) Aebi Top quality, only drawback the lead time was over a week longer than estimated <dynamic-value> Aug 26,2026 Aluminum (AlSi10Mg) Kast...",
+      "after": "Customer reviews about 3D printing Service Standard white material (UTR 8360) Balmer This was one of my first 3d prints, there were a couple of hiccups along the way, whoever I was helped by the pcbway team in correcting a couple of mistakes I made in the model. The finished product w... <dynamic-value> Sep 24,2026 Tool steel Williamson Very good, to tolerence, survived intended application. <dynamic-value> Sep 19,2026 Stainless steel 316L Working well for my application, the dimensions were very accurate. There was a slight amount of support material stuck in some of the internal holes, but I was able to remove this with a drill. The s... <dynamic-value> Sep 13,2026 Aluminum (AlSi10Mg) So basically I needed a custom 2 stroke intake pipe for my new carburator, had designed one and 3d printed few prototypes to confirm the design and then got it metal printed for good. Honnestly, when ... <dynamic-value> Sep 06,2026 Standard white material (UTR 8360) Behn 2 Part design to be able to screw this into some LED Matrix panels while able to avoid larger holes in the structure. Unfortunately the Angle of Attack I designed into this means that while being sta... <dynamic-value> Sep 04,2026...",
+      "added": [
+        "Standard white material (UTR 8360) Balmer This was one of my first 3d prints, there were a couple of hiccups along the way, whoever I was helped by the pcbway team in correcting a couple of mistakes I made in the model. The finished product w... <dynamic-value> Sep 24,2026",
+        "04,2026..."
+      ],
+      "removed": [
+        "04,2026 Aluminum (AlSi10Mg) Maire Tolerances not yet checked, but it seems to fit properly needs. <dynamic-value> Sep 04,2026 Aluminum (AlSi10Mg) Aebi Top quality, only drawback the lead time was over a week longer than estimated <dynamic-value> Aug 26,2026 Aluminum (AlSi10Mg) Kast..."
+      ],
+      "change_percent": 45.73,
+      "confidence": "high",
+      "published_at": "2026-09-24T00:00:00+00:00",
+      "first_seen_at": "2026-08-17T03:52:02+00:00",
+      "discovered_via": "links"
+    },
+    {
+      "type": "section_copy_changed",
+      "priority": "medium",
+      "competitor": "PCBWay",
+      "url": "https://www.pcbway.com/rapid-prototyping/Sheet-metal/Laser-Cutting.html",
+      "category": "service",
+      "page_title": "CNC Laser Cutting Services | Fast & Reliable for Custom Parts - PCBWay",
+      "summary": "板块文案更新：Customer reviews about Sheet metal Service",
+      "details": [],
+      "before": "Customer reviews about Sheet metal Service Stainless Steel 316/316L The experience was great, as they were delivered on time. They were only slightly bent, but it was fixed through screwing them in. Thank you for the support. <dynamic-value> Sep 16,2026 Stainless steel 304 Seymour Very good quality and strength, so strong it broke my drill bit. Only complaint is that the edges were slightly rough and the tolerances were ever so slightly off but not by more than 0.1mm <dynamic-value> Sep 10,2026 Stainless Steel 316/316L Ormston My project parts were manufactured out of beautifully finished 316 stainless plate. The dimensions were millimetre perfect, the edges were nicely de-burred, the countersinks drilled to perfect depths.... <dynamic-value> Sep 08,2026 Stainless Steel 316/316L Ormston My project parts were manufactured out of beautifully finished 316 stainless plate. The dimensions were millimetre perfect, the edges were nicely de-burred, the countersinks drilled to perfect depths.... <dynamic-value> Sep 08,2026 Stainless Steel 316/316L Ormston My project parts were manufactured out of beautifully finished 316 stainless plate. The dimensions were millimetre perfect, the edges we...",
+      "after": "Customer reviews about Sheet metal Service Stainless Steel 316/316L The parts arrived and overall they look great. I am very happy with the material, finish, and overall quality. However, I noticed that the two upper holes appear to be approximately 1–1.5 mm away fro... <dynamic-value> Sep 25,2026 Stainless Steel 316/316L The parts arrived and overall they look great. I am very happy with the material, finish, and overall quality. However, I noticed that the two upper holes appear to be approximately 1–1.5 mm away fro... <dynamic-value> Sep 25,2026 Stainless Steel 316/316L The experience was great, as they were delivered on time. They were only slightly bent, but it was fixed through screwing them in. Thank you for the support. <dynamic-value> Sep 16,2026 Stainless steel 304 Seymour Very good quality and strength, so strong it broke my drill bit. Only complaint is that the edges were slightly rough and the tolerances were ever so slightly off but not by more than 0.1mm <dynamic-value> Sep 10,2026 Stainless Steel 316/316L Ormston My project parts were manufactured out of beautifully finished 316 stainless plate. The dimensions were millimetre perfect, the edges were nicely de-burre...",
+      "added": [
+        "Stainless Steel 316/316L The parts arrived and overall they look great. I am very happy with the material, finish, and overall quality. However, I noticed that the two upper holes appear to be approximately 1–1.5 mm away fro... <dynamic-value> Sep 25,2026 Stainless Steel 316/316L The parts arrived and overall they look great. I am very happy with the materi...",
+        "de-burre..."
+      ],
+      "removed": [
+        "de-burred, the countersinks drilled to perfect depths.... <dynamic-value> Sep 08,2026 Stainless Steel 316/316L Ormston My project parts were manufactured out of beautifully finished 316 stainless plate. The dimensions were millimetre perfect, the edges were nicely de-burred, the countersinks drilled to perfect depths.... <dynamic-value> Sep 08,2026 Stainles..."
+      ],
+      "change_percent": 80.0,
+      "confidence": "high",
+      "published_at": "2026-09-25T00:00:00+00:00",
+      "first_seen_at": "2026-08-17T03:52:02+00:00",
+      "discovered_via": "links"
+    },
+    {
+      "type": "new_page",
+      "priority": "medium",
+      "competitor": "Protolabs",
+      "url": "https://www.protolabs.com/resources/blog/stiffness-vs-strength-definitions-comparisons-for-better-performing-parts",
+      "category": "content",
+      "page_title": "Stiffness vs. Strength: Key Differences for Part Performance",
+      "summary": "新发现页面：Stiffness vs. Strength: Key Differences for Part Performance",
+      "details": [
+        "标题：Stiffness vs. Strength: Key Differences for Part Performance",
+        "H1：Stiffness vs. Strength: Definitions & Comparisons for Better Performing Parts",
+        "系统首次发现：2026-09-26",
+        "发布时间：页面未提供，需人工确认"
+      ],
+      "before": null,
+      "after": null,
+      "added": [],
+      "removed": [],
+      "change_percent": 0.0,
+      "confidence": "medium",
+      "published_at": "",
+      "first_seen_at": "2026-09-26T06:14:13+00:00",
+      "discovered_via": "sitemap"
+    },
+    {
+      "type": "ctas_changed",
+      "priority": "medium",
+      "competitor": "SyBridge",
+      "url": "https://sybridge.com/digital-manufacturing-circular-economy",
+      "category": "service",
+      "page_title": "How Digital Manufacturing Contributes to the Circular Economy - SyBridge Technologies",
+      "summary": "CTA发生变化",
+      "details": [],
+      "before": null,
+      "after": null,
+      "added": [
+        "complex geometry -> https://sybridge.com/complex-geometries"
+      ],
+      "removed": [
+        "complex geometry -> http://corpweb-dev.sybridge.tech/complex-geometries"
+      ],
+      "change_percent": 0.0,
+      "confidence": "high",
+      "published_at": "2020-07-08T00:53:00+00:00",
+      "first_seen_at": "2026-08-17T03:53:58+00:00",
+      "discovered_via": "sitemap"
+    },
+    {
+      "type": "visual_changed",
+      "priority": "low",
+      "competitor": "Fictiv",
+      "url": "https://www.fictiv.com/articles",
+      "category": "content",
+      "page_title": "Articles - Fictiv",
+      "summary": "desktop 视图出现明显 UI/布局变化",
+      "details": [
+        "视口：desktop",
+        "RMS 差异：58.56",
+        "变化像素占比：8.72%"
+      ],
+      "before": null,
+      "after": null,
+      "added": [],
+      "removed": [],
+      "change_percent": 0.0,
+      "confidence": "high",
+      "published_at": "",
+      "first_seen_at": "2026-08-17T03:45:51+00:00",
+      "discovered_via": "priority"
+    },
+    {
+      "type": "visual_changed",
+      "priority": "low",
+      "competitor": "Fictiv",
+      "url": "https://www.fictiv.com/articles",
+      "category": "content",
+      "page_title": "Articles - Fictiv",
+      "summary": "mobile 视图出现明显 UI/布局变化",
+      "details": [
+        "视口：mobile",
+        "RMS 差异：86.74",
+        "变化像素占比：18.91%",
+        "页面截图高度变化：-119px"
+      ],
+      "before": null,
+      "after": null,
+      "added": [],
+      "removed": [],
+      "change_percent": 0.0,
+      "confidence": "high",
+      "published_at": "",
+      "first_seen_at": "2026-08-17T03:45:51+00:00",
+      "discovered_via": "priority"
+    },
+    {
+      "type": "section_copy_changed",
+      "priority": "low",
+      "competitor": "Hubs",
+      "url": "https://www.hubs.com/knowledge-base",
+      "category": "content",
+      "page_title": "Knowledge base | Protolabs Network",
+      "summary": "板块文案更新：What engineers are reading now",
+      "details": [],
+      "before": "What engineers are reading now 42CrMoS4 alloy steel: properties and machinability 42CrMoS4 is the free-machining variant of 42CrMo4. Learn more about its composition, mechanical properties, heat treatment specs and machinability advantages. Understanding clearance, transition and interference fits Ensure interchangeability by understanding clearance, transition and interference fit types. Compare running, sliding, and press fit specs. Types of taps: A practical guide for machining Explore the essential types of taps for CNC machining. Learn how to choose the right tool geometry for your project and get instant feedback. 3D-printing innovations: Discover our modern techniques Discover the latest 3D-printing innovations. We use modern techniques, the best hardware and high-quality materials. Upload your CAD-files.",
+      "after": "What engineers are reading now PETG 3D filament properties PETG balances the strength of ABS with the printability of PLA. Compare properties, print settings and applications for this versatile 3D printing filament. 42CrMoS4 alloy steel: properties and machinability 42CrMoS4 is the free-machining variant of 42CrMo4. Learn more about its composition, mechanical properties, heat treatment specs and machinability advantages. Understanding clearance, transition and interference fits Ensure interchangeability by understanding clearance, transition and interference fit types. Compare running, sliding, and press fit specs. Types of taps: A practical guide for machining Explore the essential types of taps for CNC machining. Learn how to choose the right tool geometry for your project and get instant feedback.",
+      "added": [
+        "PETG 3D filament properties PETG balances the strength of ABS with the printability of PLA. Compare properties, print settings and applications for this versatile 3D printing filament."
+      ],
+      "removed": [
+        "3D-printing innovations: Discover our modern techniques Discover the latest 3D-printing innovations. We use modern techniques, the best hardware and high-quality materials. Upload your CAD-files."
+      ],
+      "change_percent": 45.13,
+      "confidence": "high",
+      "published_at": "",
+      "first_seen_at": "2026-08-17T03:41:36+00:00",
+      "discovered_via": "sitemap"
+    },
+    {
+      "type": "visual_changed",
+      "priority": "low",
+      "competitor": "Hubs",
+      "url": "https://www.hubs.com/knowledge-base",
+      "category": "content",
+      "page_title": "Knowledge base | Protolabs Network",
+      "summary": "desktop 视图出现明显 UI/布局变化",
+      "details": [
+        "视口：desktop",
+        "RMS 差异：29.06",
+        "变化像素占比：3.07%"
+      ],
+      "before": null,
+      "after": null,
+      "added": [],
+      "removed": [],
+      "change_percent": 0.0,
+      "confidence": "high",
+      "published_at": "",
+      "first_seen_at": "2026-08-17T03:41:36+00:00",
+      "discovered_via": "sitemap"
+    },
+    {
+      "type": "visual_changed",
+      "priority": "low",
+      "competitor": "Hubs",
+      "url": "https://www.hubs.com/knowledge-base",
+      "category": "content",
+      "page_title": "Knowledge base | Protolabs Network",
+      "summary": "mobile 视图出现明显 UI/布局变化",
+      "details": [
+        "视口：mobile",
+        "RMS 差异：29.62",
+        "变化像素占比：2.57%"
+      ],
+      "before": null,
+      "after": null,
+      "added": [],
+      "removed": [],
+      "change_percent": 0.0,
+      "confidence": "high",
+      "published_at": "",
+      "first_seen_at": "2026-08-17T03:41:36+00:00",
+      "discovered_via": "sitemap"
+    },
+    {
+      "type": "section_copy_changed",
+      "priority": "low",
+      "competitor": "JLC CNC",
+      "url": "https://jlccnc.com/blog/category/design-engineering",
+      "category": "content",
+      "page_title": "Design & Engineering | JLCCNC",
+      "summary": "板块文案更新：Latest Posts",
+      "details": [],
+      "before": "Latest Posts CNC Programming Are There Any Design Limitations or Restrictions for CNC Machining Are There Any Design Limitations or Restrictions for CNC Machining? Quick Answer: CNC design is limited mainly by tool access, cutter radius, part rigidity, workholding, machine travel, material behavior, and tolerance requirements. Review those constraints before finalizing CAD, especially for deep pockets, thin walls, internal corners, undercuts, small threads, and critical fits. A design that looks completely reasonable in CAD can turn out to be genuinely difficult — or impossible — to machine as d...... Sep 15, 2026 CAD & CAM Software Types of CNC File Formats: How to Choose the Best Format for CNC Key Takeaways STEP is a practical choice for most 3D CNC parts because it carries the part's solid and surface geometry. IGES can store surfaces, wireframes, and other CAD geometry. It is still used with older CAD/CAM files, while STEP is more common for current 3D models. STL stores the shape as a triangular mesh. It can be used when the source geometry is available only as a mesh, but it does not retain the exact solid geometry or parametric design information of the original CAD model....",
+      "after": "Latest Posts Design Tips & Best Practices GD&T Runout: Definition, Symbol, Measurement & Tolerance Key Takeaways Runout limits surface variation while a part rotates around its specified datum axis. The datum feature establishes the axis used for the runout requirement. You compare the full indicator variation during rotation with the tolerance stated on the drawing. Circular runout applies at individual circular sections of the controlled surface. Total runout evaluates the controlled surface across its specified extent. Runout is not a size tolerance, and its value is not determined by the diamet...... Sep 24, 2026 Design Tips & Best Practices GD&T Perpendicularity: Definition, Tolerance & Examples Key Takeaways Perpendicularity is an orientation control used for a feature specified at 90° to a datum. A surface callout controls the complete surface within two parallel planes set perpendicular to the referenced datum. An axis callout controls the derived axis inside the specified tolerance zone instead of controlling the physical surface directly. Perpendicularity does not establish the location of a feature. A drawing can require another geometric control when position also need...",
+      "added": [
+        "Tips",
+        "Practices GD&T Runout: Definition, Symbol, Measurement & Tolerance",
+        "Runout limits surface variation while a part rotates around its specified datum axis. The datum feature establishes the axis used for the runout requirement. You compare the full indicator variation during rotation with the tolerance stated on the drawing. Circular runout applies at individual circular sections of the controlled surface. Total runout evalua...",
+        "not",
+        "size tolerance, and its value is not determined by the diamet...... Sep 24, 2026 Design Tips & Best Practices GD&T Perpendicularity: Definition, Tolerance & Examples Key Takeaways Perpendicularity is an orientation control used"
+      ],
+      "removed": [
+        "CNC Programming Are There Any",
+        "Limitations or Restrictions for CNC Machining Are There Any Design Limitations or Restrictions for CNC Machining? Quick Answer: CNC design is limited mainly by tool access, cutter radius, part rigidity, workholding, machine travel, material behavior, and tolerance requirements. Review those constraints before finalizing CAD, especially for deep pockets, thi...",
+        "CAM Software Types of CNC File Formats: How to Choose the",
+        "Format for CNC",
+        "STEP"
+      ],
+      "change_percent": 172.45,
+      "confidence": "high",
+      "published_at": "2023-12-29T00:00:00+00:00",
+      "first_seen_at": "2026-08-17T03:50:37+00:00",
+      "discovered_via": "sitemap"
+    },
+    {
+      "type": "section_copy_changed",
+      "priority": "low",
+      "competitor": "JLC CNC",
+      "url": "https://jlccnc.com/blog/category/tools-cutting-instruments",
+      "category": "content",
+      "page_title": "Tools & Cutting Instruments | JLCCNC",
+      "summary": "板块文案更新：Featured Posts",
+      "details": [],
+      "before": "Featured Posts Tools & Cutting Instruments End Milling Explained: Types, Uses & Best End Mills for Metal & Wood If you’re serious about machining precision parts, end milling isn’t just another operation, it’s the backbone of modern subtractive manufacturing. But despite how common end mills are in workshops and factories, many still underestimate how nuanced they can be. From tool geometry and coating to matching the right end mill to the material (yes, there's a difference between what cuts wood cleanly and what survives stainless steel), the details make or break your result. This blog isn’t a surface-level ...... Jun 30, 2025 Tools & Cutting Instruments End Milling vs Face Milling: Key Differences, Tools & Applications Jul 22, 2025 Tools & Cutting Instruments CNC Tooling 101: Choosing the Right End Mills and Cutters Oct 27, 2025 Tools & Cutting Instruments How to Choose the Right Cutting Tool Material (CNC & Lathe Guide) Sep 06, 2025 Tools & Cutting Instruments A Complete Guide to Tool Wear Detection and Maintenance in CNC Machining",
+      "after": "Featured Posts Tools & Cutting Instruments End Milling Explained: Types, Uses & Best End Mills for Metal & Wood If you’re serious about machining precision parts, end milling isn’t just another operation, it’s the backbone of modern subtractive manufacturing. But despite how common end mills are in workshops and factories, many still underestimate how nuanced they can be. From tool geometry and coating to matching the right end mill to the material (yes, there's a difference between what cuts wood cleanly and what survives stainless steel), the details make or break your result. This blog isn’t a surface-level ...... Jun 30, 2025 Tools & Cutting Instruments End Milling vs Face Milling: Key Differences, Tools & Applications Jul 22, 2025 Tools & Cutting Instruments CNC Tooling 101: Choosing the Right End Mills and Cutters Oct 26, 2025 Tools & Cutting Instruments How to Choose the Right Cutting Tool Material (CNC & Lathe Guide) Sep 06, 2025 Tools & Cutting Instruments A Complete Guide to Tool Wear Detection and Maintenance in CNC Machining",
+      "added": [
+        "26,"
+      ],
+      "removed": [
+        "27,"
+      ],
+      "change_percent": 1.17,
+      "confidence": "high",
+      "published_at": "2025-06-30T00:00:00+00:00",
+      "first_seen_at": "2026-08-17T03:50:35+00:00",
+      "discovered_via": "sitemap"
+    },
+    {
+      "type": "section_copy_changed",
+      "priority": "low",
+      "competitor": "JLC CNC",
+      "url": "https://jlccnc.com/blog/cnc-milling",
+      "category": "content",
+      "page_title": "What is CNC Milling? Process, Advantages, and Applications",
+      "summary": "板块文案更新：What is CNC Milling? Process, Advantages, and Applications",
+      "details": [],
+      "before": "What is CNC Milling? Process, Advantages, and Applications Published Oct 17, 2025, updated Oct 16, 2025 13 min Table of Contents What Is CNC Milling? Key Concepts and How It Works The CNC Milling Process: From CAD Model to a Finished Part Common Types of CNC Milling Exploring Essential Milling Techniques: Core CNC Milling Methods Advantages of CNC Milling: Why Choose This Manufacturing Process? Limitations of CNC Milling How Do You Get Outstanding CNC Milling Service in JLCCNC? FAQ Conclusion: Mastering the Basics of CNC Milling Operation CNC milling is motion, metal, and math working in a computerized rhythm. You start with a block of raw material, feed the machine a few lines of code, and let it carve reality from coordinates. That’s the beauty of it: absolute precision, repeatable down to microns, yet flexible enough to shape anything from aerospace brackets to tiny medical implants. Most engineers know the end result, a perfect part, but not always the mechanics behind it. What actually happens between the model on your screen and the part cooling on the table? This guide breaks that gap wide open. We’ll dig into how CNC milling works, what makes 3-axis and 5-axis setups diffe...",
+      "after": "What is CNC Milling? Process, Advantages, and Applications Published Oct 16, 2025, updated Oct 16, 2025 13 min Table of Contents What Is CNC Milling? Key Concepts and How It Works The CNC Milling Process: From CAD Model to a Finished Part Common Types of CNC Milling Exploring Essential Milling Techniques: Core CNC Milling Methods Advantages of CNC Milling: Why Choose This Manufacturing Process? Limitations of CNC Milling How Do You Get Outstanding CNC Milling Service in JLCCNC? FAQ Conclusion: Mastering the Basics of CNC Milling Operation CNC milling is motion, metal, and math working in a computerized rhythm. You start with a block of raw material, feed the machine a few lines of code, and let it carve reality from coordinates. That’s the beauty of it: absolute precision, repeatable down to microns, yet flexible enough to shape anything from aerospace brackets to tiny medical implants. Most engineers know the end result, a perfect part, but not always the mechanics behind it. What actually happens between the model on your screen and the part cooling on the table? This guide breaks that gap wide open. We’ll dig into how CNC milling works, what makes 3-axis and 5-axis setups diffe...",
+      "added": [
+        "16,"
+      ],
+      "removed": [
+        "17,"
+      ],
+      "change_percent": 1.01,
+      "confidence": "high",
+      "published_at": "2025-12-26T00:00:00+00:00",
+      "first_seen_at": "2026-08-17T03:50:58+00:00",
+      "discovered_via": "sitemap"
+    },
+    {
+      "type": "section_copy_changed",
+      "priority": "low",
+      "competitor": "Protolabs",
+      "url": "https://www.protolabs.com/resources/blog/soft-vs-hard-tooling",
+      "category": "content",
+      "page_title": "Soft vs. Hard Tooling: Aluminum vs. Steel Molds | Protolabs",
+      "summary": "板块文案更新：Soft vs. Hard Tooling: Injection Molding Comparison Guide",
+      "details": [],
+      "before": "Soft vs. Hard Tooling: Injection Molding Comparison Guide Soft vs. Hard Tooling: Injection Molding Comparison Guide By Protolabs",
+      "after": "Soft vs. Hard Tooling: Injection Molding Comparison Guide By Protolabs Injection Molding August 25, 2026 Soft vs. Hard Tooling: Injection Molding Comparison Guide By Protolabs",
+      "added": [
+        "Injection Molding August 25, 2026 Soft vs. Hard Tooling: Injection Molding Comparison Guide By Protolabs"
+      ],
+      "removed": [
+        "Soft vs. Hard Tooling: Injection Molding Comparison Guide"
+      ],
+      "change_percent": 92.0,
+      "confidence": "high",
+      "published_at": "",
+      "first_seen_at": "2026-08-26T02:45:29+00:00",
+      "discovered_via": "sitemap"
+    }
+  ],
+  "errors": [
+    "Seed page failed: https://www.hubs.com/manufacturing-services (HTTP 404)",
+    "Hubs | https://www.hubs.com/manufacturing-services | HTTP 404",
+    "Hubs | https://www.hubs.com/knowledgebasearticle | HTTP 404",
+    "Hubs | https://www.hubs.com/articleblogarticle | HTTP 404",
+    "Hubs | https://www.hubs.com/knowledgebasecollection | HTTP 404",
+    "Xometry | https://investors.xometry.com/news-releases/news-release-details/xometry-foundation-announces-partnership-mxd-expand | HTTP 403",
+    "Xometry | https://investors.xometry.com/news-releases/news-release-details/xometry-releases-comprehensive-upgrades-its-ai-model | HTTP 403",
+    "Xometry | https://investors.xometry.com/news-releases/news-release-details/xometry-launches-foundation-committing-1-million-advance | HTTP 403",
+    "Xometry | https://investors.xometry.com/news-releases/news-release-details/xometry-appoints-lukas-biewald-its-board-directors | HTTP 403",
+    "Xometry | https://investors.xometry.com/news-releases/news-release-details/xometry-streamlines-data-center-supply-chain-offering-single | HTTP 403",
+    "Xometry | https://investors.xometry.com/news-releases/news-release-details/xometry-and-siemens-partner-embed-ai-native-supply-chain | HTTP 403",
+    "Xometry | https://investors.xometry.com/news-releases/news-release-details/xometry-deepens-ai-native-marketplace-advantage-new-enterprise | HTTP 403",
+    "Xometry | https://investors.xometry.com/news-releases/news-release-details/xometry-announces-ceo-succession-plan | HTTP 403",
+    "Xometry | https://investors.xometry.com/news-releases/news-release-details/aerospace-defense-leaders-prioritize-ai-enabled-sourcing | HTTP 403",
+    "Xometry | https://investors.xometry.com/news-releases/news-release-details/xometry-marketplace-accelerates-solutions-complex-manufacturing | HTTP 403",
+    "Xometry | https://investors.xometry.com/news-releases/news-release-details/xometry-recognized-one-north-americas-fastest-growing-companies | HTTP 403",
+    "Seed page failed: https://www.fictiv.com/services (HTTP 404)",
+    "Fictiv | https://www.fictiv.com/services | HTTP 404",
+    "Fictiv | https://www.fictiv.com/articles/mro-obsolescence-mismatch | HTTP 429",
+    "Fictiv | https://www.fictiv.com/articles/manufacturing-partner-evaluation | HTTP 429",
+    "Fictiv | https://www.fictiv.com/articles/ai-in-mechanical-engineering | HTTP 429",
+    "Fictiv | https://www.fictiv.com/articles/how-to-build-a-bom | HTTP 429",
+    "Fictiv | https://www.fictiv.com/articles/custom-and-standard-components-single-source-bom | HTTP 429",
+    "Fictiv | https://www.fictiv.com/articles/2025-u-s-tariff-updates-key-trade-policy-changes | HTTP 429",
+    "Fictiv | https://www.fictiv.com/articles/4-axis-cnc-machining | HTTP 429",
+    "Fictiv | https://www.fictiv.com/articles/bridge-production-manufacturing | HTTP 429",
+    "Fictiv | https://www.fictiv.com/articles/design-for-testability-dft | HTTP 429",
+    "Fictiv | https://www.fictiv.com/articles/gravity-casting-permanent-mold | HTTP 429",
+    "Fictiv | https://www.fictiv.com/articles/as9100-v-iso-9001-aerospace-quality-standards | HTTP 429",
+    "Fictiv | https://www.fictiv.com/articles/doing-better-than-good-how-whill-is-redefining-the-wheelchair | HTTP 429",
+    "Fictiv | https://www.fictiv.com/articles/built-tough-built-loud-the-development-story-behind-the-loudest-speaker-on-the-market | HTTP 429",
+    "Fictiv | https://www.fictiv.com/articles/accelerating-through-success-start-local-scale-global | HTTP 429",
+    "Fictiv | https://www.fictiv.com/articles/manufacturing-simplicity-how-an-innovative-firm-is-redefining-the-everyday | HTTP 429",
+    "Fictiv | https://www.fictiv.com/articles/how-one-startup-harnessed-the-sunand-taught-people-how-to-fish-off-grid-electric-spotlight | HTTP 429",
+    "Fictiv | https://www.fictiv.com/articles/3d-tlc-best-practices-at-one-of-the-bay-areas-top-3d-print-shops | HTTP 429",
+    "Fictiv | https://www.fictiv.com/articles/getting-intimate-with-your-prototype-lioness-spotlight | HTTP 429",
+    "Fictiv | https://www.fictiv.com/articles/how-to-work-with-community-and-come-out-with-a-product-thats-better-not-worse | HTTP 429",
+    "Fictiv | https://www.fictiv.com/articles/large-format-3d-printing | HTTP 429",
+    "Fictiv | https://www.fictiv.com/articles/lpdc-low-pressure-die-casting | HTTP 429",
+    "Fictiv | https://www.fictiv.com/articles/how-to-prototype-rubber-designs | HTTP 429",
+    "Fictiv | https://www.fictiv.com/articles/practical-guide-to-prototype-testing | HTTP 429",
+    "Fictiv | https://www.fictiv.com/articles/fictiv-receives-2026-supplytech-breakthrough-award | HTTP 429",
+    "Fictiv | https://www.fictiv.com/articles/infographic-4-manufacturing-predictions-for-2021 | HTTP 429",
+    "Fictiv | https://www.fictiv.com/articles/how-to-accelerate-your-engineering-builds-and-ensure-you-get-parts-that-fit | HTTP 429",
+    "Fictiv | https://www.fictiv.com/articles/mro-inventory-management-jit-strategy | HTTP 429",
+    "Fictiv | https://www.fictiv.com/articles/5-options-for-building-large-scale-prototypes | HTTP 429",
+    "Fictiv | https://www.fictiv.com/articles/advanced-materials-guide-for-injection-molding | HTTP 429",
+    "Fictiv | https://www.fictiv.com/articles/misumi-americas-unveils-ai-powered-supply-chain-platform | HTTP 429",
+    "Fictiv | https://www.fictiv.com/articles/misumi-americas-launch | HTTP 429",
+    "Fictiv | https://www.fictiv.com/articles/3-axis-cnc-machining-guide | HTTP 429",
+    "Fictiv | https://www.fictiv.com/articles/ai-powered-digital-manufacturing-platforms-for-engineers | HTTP 429",
+    "Fictiv | https://www.fictiv.com/articles/cnc-vs-die-casting-qualification-scorecard | HTTP 429",
+    "Fictiv | https://www.fictiv.com/articles/types-of-springs-and-their-applications-an-overview | HTTP 429",
+    "Fictiv | https://www.fictiv.com/articles/best-practices-for-fixing-solidworks-import-errors | HTTP 429",
+    "Fictiv | https://www.fictiv.com/articles/scaling-cnc-machining-to-casting-transition-guide | HTTP 429",
+    "Fictiv | https://www.fictiv.com/articles/semiconductor-equipment-manufacturing | HTTP 429",
+    "Fictiv | https://www.fictiv.com/articles/prototyping-cost-process-pricing | HTTP 429",
+    "Fictiv | https://www.fictiv.com/articles/misumi-vending-machines-mro-supply-chain | HTTP 429",
+    "Fictiv | https://www.fictiv.com/articles/stage-gate-product-development-process-models | HTTP 429",
+    "Fictiv | https://www.fictiv.com/articles/cleanroom-manufacturing-iso-standards-design-applications | HTTP 429",
+    "Fictiv | https://www.fictiv.com/articles/prototyping-lead-time-process-timelines-and-how-to-reduce-delays | HTTP 429",
+    "Fictiv | https://www.fictiv.com/articles/simulation-vs-reality-hardware-development | HTTP 429",
+    "Fictiv | https://www.fictiv.com/articles/ai-data-center-infrastructure-design | HTTP 429",
+    "Fictiv | https://www.fictiv.com/articles/stage-gate-product-development-process-models/thank-you | HTTP 429",
+    "Fictiv | https://www.fictiv.com/articles/announcing-fictivs-automated-injection-molding-dfm | HTTP 429",
+    "Fictiv | https://www.fictiv.com/articles/how-to-design-snap-fit-components | HTTP 429",
+    "Fictiv | https://www.fictiv.com/articles/the-zen-of-product-design-how-lockitron-let-go-of-the-extraneous-and-non-essential | HTTP 429",
+    "Fictiv | https://www.fictiv.com/articles/gdt-101-an-introduction-to-geometric-dimensioning-and-tolerancing | HTTP 429",
+    "Fictiv | https://www.fictiv.com/articles/aerospace-materials-finishes-for-spacecraft-and-satellites | HTTP 429",
+    "Fictiv | https://www.fictiv.com/articles/building-the-world-they-want-to-live-in | HTTP 429",
+    "Fictiv | https://www.fictiv.com/articles/teflon-ptfe-explained-properties-applications-and-best-practices | HTTP 429",
+    "Fictiv | https://www.fictiv.com/articles/exploring-ductility-its-importance-in-engineering-and-material-science | HTTP 429",
+    "Fictiv | https://www.fictiv.com/articles/tool-steel-manufacturing-your-guide-to-precision-parts | HTTP 429",
+    "Fictiv | https://www.fictiv.com/articles/what-is-bakelite | HTTP 429",
+    "Fictiv | https://www.fictiv.com/articles/what-is-2017-aluminum | HTTP 429",
+    "Fictiv | https://www.fictiv.com/articles/what-is-6061aluminum | HTTP 429",
+    "Fictiv | https://www.fictiv.com/articles/material-overview-for-engineering-pet | HTTP 429",
+    "Seed page failed: https://jlccnc.com/surface-finishes (HTTP 404)",
+    "Seed page failed: https://www.pcbway.com/rapid-prototyping (HTTP 404)",
+    "PCBWay | https://www.pcbway.com/rapid-prototyping/cnc-machining | HTTP 404",
+    "PCBWay | https://www.pcbway.com/rapid-prototyping/3d-printing | HTTP 404",
+    "PCBWay | https://www.pcbway.com/rapid-prototyping/sheet-metal | HTTP 404",
+    "Seed page failed: https://www.emachineshop.com/services (HTTP 404)",
+    "eMachineShop | https://www.emachineshop.com/services | HTTP 404",
+    "Seed page failed: https://www.cnclathing.com/blog (HTTP 404)",
+    "CNCLATHING | https://www.cnclathing.com/blog | HTTP 404"
+  ],
+  "discovery": [
+    {
+      "competitor": "Hubs",
+      "base_url": "https://www.hubs.com/",
+      "tracked_urls": 120,
+      "source_counts": {
+        "priority": 7,
+        "feed": 0,
+        "sitemap": 2875,
+        "links": 296
+      }
+    },
+    {
+      "competitor": "Xometry",
+      "base_url": "https://www.xometry.com/",
+      "tracked_urls": 120,
+      "source_counts": {
+        "priority": 6,
+        "feed": 100,
+        "sitemap": 0,
+        "links": 210
+      }
+    },
+    {
+      "competitor": "Fictiv",
+      "base_url": "https://www.fictiv.com/",
+      "tracked_urls": 120,
+      "source_counts": {
+        "priority": 6,
+        "feed": 36,
+        "sitemap": 1153,
+        "links": 131
+      }
+    },
+    {
+      "competitor": "Protolabs",
+      "base_url": "https://www.protolabs.com/",
+      "tracked_urls": 120,
+      "source_counts": {
+        "priority": 6,
+        "feed": 0,
+        "sitemap": 713,
+        "links": 143
+      }
+    },
+    {
+      "competitor": "JLC CNC",
+      "base_url": "https://jlccnc.com/",
+      "tracked_urls": 120,
+      "source_counts": {
+        "priority": 5,
+        "feed": 0,
+        "sitemap": 1051,
+        "links": 88
+      }
+    },
+    {
+      "competitor": "PCBWay",
+      "base_url": "https://www.pcbway.com/",
+      "tracked_urls": 120,
+      "source_counts": {
+        "priority": 3,
+        "feed": 0,
+        "sitemap": 0,
+        "links": 128
+      }
+    },
+    {
+      "competitor": "eMachineShop",
+      "base_url": "https://www.emachineshop.com/",
+      "tracked_urls": 48,
+      "source_counts": {
+        "priority": 4,
+        "feed": 6,
+        "sitemap": 41,
+        "links": 16
+      }
+    },
+    {
+      "competitor": "SyBridge",
+      "base_url": "https://sybridge.com/",
+      "tracked_urls": 69,
+      "source_counts": {
+        "priority": 4,
+        "feed": 2,
+        "sitemap": 61,
+        "links": 21
+      }
+    },
+    {
+      "competitor": "CNCLATHING",
+      "base_url": "https://www.cnclathing.com/",
+      "tracked_urls": 120,
+      "source_counts": {
+        "priority": 4,
+        "feed": 0,
+        "sitemap": 732,
+        "links": 86
+      }
+    }
+  ],
+  "email": {
+    "text": "竞品追踪日报 · 2026-09-26\n\n今日概览：共检测到 34 项记录。 近期新发布内容 2 篇。 监控异常 2 项。 新增其他页面 2 个。 内容页更新 3 篇。 页面变化 22 项。 另有 8 项低优先级变化已折叠。 变化较多：PCBWay, JLC CNC, Fictiv。\n\n【监控异常（优先处理）】\n· Fictiv | 监控健康告警\n  - 监控覆盖率明显下降：上次成功页面：99；本次成功页面：59；下降：40.4%\n  - 抓取失败率过高：尝试页面：120；失败页面：60；失败率：50.0%\n  https://www.fictiv.com/\n\n【近期新发布内容】\n· Fictiv | Industrial AI in Manufacturing: Key Applications | Fictiv\n  - 新发布内容：Industrial AI in Manufacturing: Key Applications | Fictiv。实际发布时间：2026-09-25；系统首次发现：2026-09-26；发现延迟：0 天\n  https://www.fictiv.com/articles/industrial-ai-in-manufacturing\n· Fictiv | Injection Molding Tolerances | The Ultimate Guide\n  - 新发布内容：Injection Molding Tolerances | The Ultimate Guide。实际发布时间：2026-09-25；系统首次发现：2026-09-26；发现延迟：0 天\n  https://www.fictiv.com/articles/injection-molding-tolerances-an-in-depth-look\n\n【新发现页面 / 日期待确认】\n· Hubs | What is polypropylene plastic and what are its uses | Proto...\n  - 新发现页面：What is polypropylene plastic and what are its uses | Protolabs Network。标题：What is polypropylene plastic and what are its uses | Protolabs Network；系统首次发现：2026-09-26；发布时间：页面未提供，需人工确认\n  https://www.hubs.com/knowledge-base/cnc-machining/polypropylene\n· Protolabs | Stiffness vs. Strength: Key Differences for Part Performance\n  - 新发现页面：Stiffness vs. Strength: Key Differences for Part Performance。H1：Stiffness vs. Strength: Definitions & Comparisons for Better Performing Parts；系统首次发现：2026-09-26；发布时间：页面未提供，需人工确认\n  https://www.protolabs.com/resources/blog/stiffness-vs-strength-definitions-comparisons-for-better-performing-parts\n\n【内容页更新】\n· JLC CNC | What Are CNC Parts and How Are They Made?\n  - 页面正文发生可定位的变化；新增：What Steps Are Taken To Minimize Waste In CNC Machining Processes? How to Reduce Waste in CNC Machining: 5 Practical Strategies Quick Answer: CNC machining waste is reduced mainly...；删除：CNC Automation: Systems, Software, and Manufacturing Solutions Explained Key Takeaways • CNC automation combines machine tools, software, and material handling into a system that...；变更范围约 15.7%\n  https://jlccnc.com/blog/cnc-parts\n· JLC CNC | EDM Hole Drilling vs Conventional Drilling: Precision and U...\n  - 页面正文发生可定位的变化；新增：CNC Automation: Systems, Software, and Manufacturing Solutions Explained Key Takeaways • CNC automation combines machine tools, software, and material handling into a system that...；删除：What Steps Are Taken To Minimize Waste In CNC Machining Processes? How to Reduce Waste in CNC Machining: 5 Practical Strategies Quick Answer: CNC machining waste is reduced mainly...；变更范围约 16.5%\n  https://jlccnc.com/blog/edm-hole-drilling-vs-conventional\n· JLC CNC | The Advantages of Laser Cutting vs. CNC Milling for Sheet M...\n  - 页面正文发生可定位的变化；新增：CNC Automation: Systems, Software, and Manufacturing Solutions Explained Key Takeaways • CNC automation combines machine tools, software, and material handling into a system that...；删除：What Steps Are Taken To Minimize Waste In CNC Machining Processes? How to Reduce Waste in CNC Machining: 5 Practical Strategies Quick Answer: CNC machining waste is reduced mainly...；变更范围约 10.9%\n  https://jlccnc.com/blog/laser-cutting-vs-cnc-milling\n\n【定价 & 首页变化】\n· PCBWay | China PCB Prototype & Fabrication Manufacturer - PCB Protot...\n  - 板块文案更新：Affordable Prototype PCB Manufacturer in China；新增：89946 / 1470 / 09-26 K****ey 7-8 days 33% 09-26 J****os 12-13 days 32% 09-26 M****hr 11-12 days 31% 09-26 J****er 6-7 days 23% 09-26 *** 9-10 days 27% 09-26 *** 7-8 days 38% 09-26 W****ms 5-6 da...；删除：90381 / 1821 / 09-25 R****ey；变更范围约 130.6%\n  https://www.pcbway.com/\n\n【文案 & 结构】\n· PCBWay | Digital Light Processing (DLP) 3D Printing Service | Instan...\n  - 板块文案更新：Customer reviews about 3D printing Service；新增：Standard white material (UTR 8360) Balmer This was one of my first 3d prints, there were a couple of hiccups along the way, whoever I was helped by the pcbway team in correcting a... / 04,2026...；删除：04,2026 Aluminum (AlSi10Mg) Maire Tolerances not yet checked, but it seems to fit properly needs. <dynamic-value> Sep 04,2026 Aluminum (AlSi10Mg) Aebi Top quality, only drawback t...；变更范围约 45.7%\n  https://www.pcbway.com/rapid-prototyping/3D-Printing/3D-Printing-DLP.html\n· PCBWay | Fused Deposition Modeling (FDM) 3D Printing Service | Insta...\n  - 板块文案更新：Customer reviews about 3D printing Service；新增：Standard white material (UTR 8360) Balmer This was one of my first 3d prints, there were a couple of hiccups along the way, whoever I was helped by the pcbway team in correcting a... / 04,2026...；删除：04,2026 Aluminum (AlSi10Mg) Maire Tolerances not yet checked, but it seems to fit properly needs. <dynamic-value> Sep 04,2026 Aluminum (AlSi10Mg) Aebi Top quality, only drawback t...；变更范围约 45.7%\n  https://www.pcbway.com/rapid-prototyping/3D-Printing/3D-Printing-FDM.html\n· PCBWay | Photopolymer Jetting (PolyJet) 3D Printing Service | Instan...\n  - 板块文案更新：Customer reviews about 3D printing Service；新增：Standard white material (UTR 8360) Balmer This was one of my first 3d prints, there were a couple of hiccups along the way, whoever I was helped by the pcbway team in correcting a... / 04,2026...；删除：04,2026 Aluminum (AlSi10Mg) Maire Tolerances not yet checked, but it seems to fit properly needs. <dynamic-value> Sep 04,2026 Aluminum (AlSi10Mg) Aebi Top quality, only drawback t...；变更范围约 45.7%\n  https://www.pcbway.com/rapid-prototyping/3D-Printing/3D-Printing-PolyJet.html\n· PCBWay | Stereolithography (SLA) 3D Printing Service | Instant Quoti...\n  - 板块文案更新：Customer reviews about 3D printing Service；新增：Standard white material (UTR 8360) Balmer This was one of my first 3d prints, there were a couple of hiccups along the way, whoever I was helped by the pcbway team in correcting a... / 04,2026...；删除：04,2026 Aluminum (AlSi10Mg) Maire Tolerances not yet checked, but it seems to fit properly needs. <dynamic-value> Sep 04,2026 Aluminum (AlSi10Mg) Aebi Top quality, only drawback t...；变更范围约 45.7%\n  https://www.pcbway.com/rapid-prototyping/3D-Printing/3D-Printing-SLA.html\n· PCBWay | Selective laser melting (SLM) 3D Printing Service | Instant...\n  - 板块文案更新：Customer reviews about 3D printing Service；新增：Standard white material (UTR 8360) Balmer This was one of my first 3d prints, there were a couple of hiccups along the way, whoever I was helped by the pcbway team in correcting a... / 04,2026...；删除：04,2026 Aluminum (AlSi10Mg) Maire Tolerances not yet checked, but it seems to fit properly needs. <dynamic-value> Sep 04,2026 Aluminum (AlSi10Mg) Aebi Top quality, only drawback t...；变更范围约 45.7%\n  https://www.pcbway.com/rapid-prototyping/3D-Printing/3D-Printing-SLM.html\n· PCBWay | Selective laser sintering(SLS) 3D Printing Service | Instan...\n  - 板块文案更新：Customer reviews about 3D printing Service；新增：Standard white material (UTR 8360) Balmer This was one of my first 3d prints, there were a couple of hiccups along the way, whoever I was helped by the pcbway team in correcting a... / 04,2026...；删除：04,2026 Aluminum (AlSi10Mg) Maire Tolerances not yet checked, but it seems to fit properly needs. <dynamic-value> Sep 04,2026 Aluminum (AlSi10Mg) Aebi Top quality, only drawback t...；变更范围约 45.7%\n  https://www.pcbway.com/rapid-prototyping/3D-Printing/3D-Printing-SLS.html\n· PCBWay | Vacuum Casting 3D Printing Service | Instant Quoting - PCBW...\n  - 板块文案更新：Customer reviews about 3D printing Service；新增：Standard white material (UTR 8360) Balmer This was one of my first 3d prints, there were a couple of hiccups along the way, whoever I was helped by the pcbway team in correcting a... / 04,2026...；删除：04,2026 Aluminum (AlSi10Mg) Maire Tolerances not yet checked, but it seems to fit properly needs. <dynamic-value> Sep 04,2026 Aluminum (AlSi10Mg) Aebi Top quality, only drawback t...；变更范围约 45.7%\n  https://www.pcbway.com/rapid-prototyping/3D-Printing/3D-Printing-VC.html\n· PCBWay | CNC Laser Cutting Services | Fast & Reliable for Custom Par...\n  - 板块文案更新：Customer reviews about Sheet metal Service；新增：Stainless Steel 316/316L The parts arrived and overall they look great. I am very happy with the material, finish, and overall quality. However, I noticed that the two upper holes... / de-burre...；删除：de-burred, the countersinks drilled to perfect depths.... <dynamic-value> Sep 08,2026 Stainless Steel 316/316L Ormston My project parts were manufactured out of beautifully finish...；变更范围约 80.0%\n  https://www.pcbway.com/rapid-prototyping/Sheet-metal/Laser-Cutting.html\n· SyBridge | How Digital Manufacturing Contributes to the Circular Econo...\n  - CTA发生变化；新增：complex geometry -> https://sybridge.com/complex-geometries；删除：complex geometry -> http://corpweb-dev.sybridge.tech/complex-geometries\n  https://sybridge.com/digital-manufacturing-circular-economy\n· Hubs | Knowledge base | Protolabs Network\n  - 板块文案更新：What engineers are reading now；新增：PETG 3D filament properties PETG balances the strength of ABS with the printability of PLA. Compare properties, print settings and applications for this versatile 3D printing fila...；删除：3D-printing innovations: Discover our modern techniques Discover the latest 3D-printing innovations. We use modern techniques, the best hardware and high-quality materials. Upload...；变更范围约 45.1%\n  https://www.hubs.com/knowledge-base\n\n【UI 布局变化】\n· Protolabs | Online 3D Printing Service | Instant 3D Printing Quote\n  - Online 3D Printing Service | Instant 3D Printing Quote mobile 端页面布局有明显变化（建议打开链接目视确认）\n  https://www.protolabs.com/services/3d-printing\n· Protolabs | Online CNC Machining Service | Get a Quote\n  - Online CNC Machining Service | Get a Quote mobile 端页面布局有明显变化（建议打开链接目视确认）\n  https://www.protolabs.com/services/cnc-machining\n· CNCLATHING | China Top CNC Machining Service OEM Supplier & Manufacturer...\n  - China Top CNC Machining Service OEM Supplier & Manufacturer... desktop 端页面布局有明显变化（建议打开链接目视确认）\n  https://www.cnclathing.com/\n· Fictiv | Fictiv: Sourcing Simplified for Custom Manufacturing Servic...\n  - Fictiv: Sourcing Simplified for Custom Manufacturing Servic... mobile 端页面布局有明显变化（建议打开链接目视确认）\n  https://www.fictiv.com/\n· JLC CNC | Online CNC Machining Service - JLCCNC\n  - Online CNC Machining Service - JLCCNC desktop 端页面布局有明显变化（建议打开链接目视确认）\n  - Online CNC Machining Service - JLCCNC mobile 端页面布局有明显变化（建议打开链接目视确认）\n  https://jlccnc.com/\n\n已折叠不展示：UI 布局 4 项, 板块文案 4 项。完整列表见 reports/ 目录。\n\n抓取提醒：\n- Seed page failed: https://www.hubs.com/manufacturing-services (HTTP 404)\n- Hubs | https://www.hubs.com/manufacturing-services | HTTP 404\n- Hubs | https://www.hubs.com/knowledgebasearticle | HTTP 404\n- Hubs | https://www.hubs.com/articleblogarticle | HTTP 404\n- Hubs | https://www.hubs.com/knowledgebasecollection | HTTP 404\n- Xometry | https://investors.xometry.com/news-releases/news-release-details/xometry-foundation-announces-partnership-mxd-expand | HTTP 403\n- Xometry | https://investors.xometry.com/news-releases/news-release-details/xometry-releases-comprehensive-upgrades-its-ai-model | HTTP 403\n- Xometry | https://investors.xometry.com/news-releases/news-release-details/xometry-launches-foundation-committing-1-million-advance | HTTP 403\n- Xometry | https://investors.xometry.com/news-releases/news-release-details/xometry-appoints-lukas-biewald-its-board-directors | HTTP 403\n- Xometry | https://investors.xometry.com/news-releases/news-release-details/xometry-streamlines-data-center-supply-chain-offering-single | HTTP 403\n\n完整明细见仓库 reports/ 目录中的 HTML 报告。",
+    "html": "<!doctype html>\n<html lang=\"zh-CN\">\n<head>\n  <meta charset=\"utf-8\">\n  <meta name=\"viewport\" content=\"width=device-width, initial-scale=1\">\n  <title>竞品追踪日报 · 2026-09-26</title>\n  <style>\n    body { margin: 0; padding: 24px; font-family: Arial, 'Microsoft YaHei', sans-serif; color: #1a1a1a; background: #f4f5f7; line-height: 1.5; }\n    h1 { font-size: 22px; margin: 0 0 6px; }\n    h2 { font-size: 16px; margin: 24px 0 10px; color: #333; }\n    section { margin: 16px 0; }\n    table { width: 100%; border-collapse: collapse; background: #fff; border: 1px solid #e2e6ea; }\n    th, td { padding: 10px 12px; border-bottom: 1px solid #edf0f3; text-align: left; font-size: 13px; vertical-align: top; }\n    th { background: #f8f9fb; color: #555; font-weight: 600; }\n    tr:last-child td { border-bottom: none; }\n    a { color: #1565c0; text-decoration: none; }\n    .muted { color: #666; font-size: 13px; }\n    .summary { background: #fff; border: 1px solid #e2e6ea; padding: 14px 16px; border-radius: 4px; }\n    .summary-table td:first-child { width: 110px; color: #666; }\n    .summary-table td { border: none; padding: 4px 8px 4px 0; }\n    .changes { color: #222; }\n    .change-block { margin-bottom: 8px; }\n    .change-block:last-child { margin-bottom: 0; }\n    .diff-added { margin-top: 5px; padding: 5px 7px; color: #067647; background: #ecfdf3; border-left: 3px solid #12b76a; }\n    .diff-removed { margin-top: 5px; padding: 5px 7px; color: #b42318; background: #fef3f2; border-left: 3px solid #f04438; }\n    .timing { margin-top: 5px; color: #667085; font-size: 12px; }\n    .badge { display: inline-block; border-radius: 3px; padding: 2px 6px; font-size: 11px; font-weight: 600; text-transform: uppercase; }\n    .badge.high { background: #fde8e8; color: #b42318; }\n    .badge.medium { background: #fff4e5; color: #b54708; }\n    .badge.low { background: #eef4ff; color: #175cd3; }\n    .folded { background: #fafafa; border-left: 3px solid #d0d5dd; padding: 10px 14px; }\n    .footer { margin-top: 20px; font-size: 12px; color: #888; }\n    code { background: #f0f0f0; padding: 1px 4px; border-radius: 3px; }\n    ul { margin: 8px 0 0 18px; padding: 0; }\n  </style>\n</head>\n<body>\n<h1>竞品追踪日报</h1><p class='muted'>2026-09-26</p>\n<section class='summary'><p><strong>今日共检测到 34 项记录。</strong></p><table class='summary-table'><tbody><tr><td>近期新发布内容</td><td><strong>2</strong> 篇</td></tr><tr><td>历史内容补录</td><td>0 篇（不计入今日新闻）</td></tr><tr><td>监控异常</td><td><strong>2</strong> 项</td></tr><tr><td>新增其他页面</td><td><strong>2</strong> 个</td></tr><tr><td>内容页更新</td><td><strong>3</strong> 篇</td></tr><tr><td>页面变化</td><td><strong>22</strong> 项</td></tr><tr><td>已折叠</td><td>8 项</td></tr><tr><td>变化较多</td><td>PCBWay, JLC CNC, Fictiv</td></tr></tbody></table></section>\n<section><h2>监控异常（优先处理）</h2><table><thead><tr><th>竞品</th><th>页面</th><th>具体改了什么</th></tr></thead><tbody><tr><td><span class='badge high'>high</span> Fictiv</td><td>监控健康告警<br><a href='https://www.fictiv.com/'>fictiv.com/</a></td><td class='changes'><div class='change-block'>监控覆盖率明显下降：上次成功页面：99；本次成功页面：59；下降：40.4%</div><div class='change-block'>抓取失败率过高：尝试页面：120；失败页面：60；失败率：50.0%</div></td></tr></tbody></table></section>\n<section><h2>近期新发布内容</h2><table><thead><tr><th>竞品</th><th>页面标题 / 链接</th><th>说明</th></tr></thead><tbody><tr><td><span class='badge high'>high</span> Fictiv</td><td><strong>Industrial AI in Manufacturing: Key Applications | Fictiv</strong><br><a href='https://www.fictiv.com/articles/industrial-ai-in-manufacturing'>https://www.fictiv.com/articles/industrial-ai-in-manufacturing</a><div class='timing'>发布：2026-09-25 · 发现：2026-09-26 · 可信度：high</div></td><td class='changes'><div class='change-block'>新发布内容：Industrial AI in Manufacturing: Key Applications | Fictiv。实际发布时间：2026-09-25；系统首次发现：2026-09-26；发现延迟：0 天</div></td></tr><tr><td><span class='badge high'>high</span> Fictiv</td><td><strong>Injection Molding Tolerances | The Ultimate Guide</strong><br><a href='https://www.fictiv.com/articles/injection-molding-tolerances-an-in-depth-look'>https://www.fictiv.com/articles/injection-molding-tolerances-an-in-depth-look</a><div class='timing'>发布：2026-09-25 · 发现：2026-09-26 · 可信度：high</div></td><td class='changes'><div class='change-block'>新发布内容：Injection Molding Tolerances | The Ultimate Guide。实际发布时间：2026-09-25；系统首次发现：2026-09-26；发现延迟：0 天</div></td></tr></tbody></table></section>\n<section><h2>新发现页面 / 日期待确认</h2><table><thead><tr><th>竞品</th><th>页面标题 / 链接</th><th>说明</th></tr></thead><tbody><tr><td><span class='badge medium'>medium</span> Hubs</td><td><strong>What is polypropylene plastic and what are its uses | Proto...</strong><br><a href='https://www.hubs.com/knowledge-base/cnc-machining/polypropylene'>https://www.hubs.com/knowledge-base/cnc-machining/polypropylene</a><div class='timing'>发现：2026-09-26 · 可信度：medium</div></td><td class='changes'><div class='change-block'>新发现页面：What is polypropylene plastic and what are its uses | Protolabs Network。标题：What is polypropylene plastic and what are its uses | Protolabs Network；系统首次发现：2026-09-26；发布时间：页面未提供，需人工确认</div></td></tr><tr><td><span class='badge medium'>medium</span> Protolabs</td><td><strong>Stiffness vs. Strength: Key Differences for Part Performance</strong><br><a href='https://www.protolabs.com/resources/blog/stiffness-vs-strength-definitions-comparisons-for-better-performing-parts'>https://www.protolabs.com/resources/blog/stiffness-vs-strength-definitions-comparisons-for-better-performing-parts</a><div class='timing'>发现：2026-09-26 · 可信度：medium</div></td><td class='changes'><div class='change-block'>新发现页面：Stiffness vs. Strength: Key Differences for Part Performance。H1：Stiffness vs. Strength: Definitions &amp; Comparisons for Better Performing Parts；系统首次发现：2026-09-26；发布时间：页面未提供，需人工确认</div></td></tr></tbody></table></section>\n<section><h2>内容页更新</h2><table><thead><tr><th>竞品</th><th>页面</th><th>具体改了什么</th></tr></thead><tbody><tr><td><span class='badge high'>high</span> JLC CNC</td><td>What Are CNC Parts and How Are They Made?<br><a href='https://jlccnc.com/blog/cnc-parts'>jlccnc.com/blog/cnc-parts</a></td><td class='changes'><div class='change-block'><strong>页面正文发生可定位的变化</strong><div class='diff-added'>＋ What Steps Are Taken To Minimize Waste In CNC Machining Processes? How to Reduce Waste in CNC Machining: 5 Practical Strategies Quick Answer: CNC machining waste is reduced mainly through DFM, near-net stock, efficient toolpaths, preventiv...</div><div class='diff-removed'>－ CNC Automation: Systems, Software, and Manufacturing Solutions Explained Key Takeaways • CNC automation combines machine tools, software, and material handling into a system that reduces direct labor per part and improves process consisten...</div><span class='muted'>变更范围约 15.7%</span></div></td></tr><tr><td><span class='badge high'>high</span> JLC CNC</td><td>EDM Hole Drilling vs Conventional Drilling: Precision and U...<br><a href='https://jlccnc.com/blog/edm-hole-drilling-vs-conventional'>jlccnc.com/blog/edm-hole-drilling-vs-conventional</a></td><td class='changes'><div class='change-block'><strong>页面正文发生可定位的变化</strong><div class='diff-added'>＋ CNC Automation: Systems, Software, and Manufacturing Solutions Explained Key Takeaways • CNC automation combines machine tools, software, and material handling into a system that reduces direct labor per part and improves process consisten...</div><div class='diff-removed'>－ What Steps Are Taken To Minimize Waste In CNC Machining Processes? How to Reduce Waste in CNC Machining: 5 Practical Strategies Quick Answer: CNC machining waste is reduced mainly through DFM, near-net stock, efficient toolpaths, preventiv...</div><span class='muted'>变更范围约 16.5%</span></div></td></tr><tr><td><span class='badge high'>high</span> JLC CNC</td><td>The Advantages of Laser Cutting vs. CNC Milling for Sheet M...<br><a href='https://jlccnc.com/blog/laser-cutting-vs-cnc-milling'>jlccnc.com/blog/laser-cutting-vs-cnc-milling</a></td><td class='changes'><div class='change-block'><strong>页面正文发生可定位的变化</strong><div class='diff-added'>＋ CNC Automation: Systems, Software, and Manufacturing Solutions Explained Key Takeaways • CNC automation combines machine tools, software, and material handling into a system that reduces direct labor per part and improves process consisten...</div><div class='diff-removed'>－ What Steps Are Taken To Minimize Waste In CNC Machining Processes? How to Reduce Waste in CNC Machining: 5 Practical Strategies Quick Answer: CNC machining waste is reduced mainly through DFM, near-net stock, efficient toolpaths, preventiv...</div><span class='muted'>变更范围约 10.9%</span></div></td></tr></tbody></table></section>\n<section><h2>定价 &amp; 首页变化</h2><table><thead><tr><th>竞品</th><th>页面</th><th>具体改了什么</th></tr></thead><tbody><tr><td><span class='badge medium'>medium</span> PCBWay</td><td>China PCB Prototype &amp; Fabrication Manufacturer - PCB Protot...<br><a href='https://www.pcbway.com/'>pcbway.com/</a></td><td class='changes'><div class='change-block'><strong>板块文案更新：Affordable Prototype PCB Manufacturer in China</strong><div class='diff-added'>＋ 89946</div><div class='diff-added'>＋ 1470</div><div class='diff-added'>＋ 09-26 K****ey 7-8 days 33% 09-26 J****os 12-13 days 32% 09-26 M****hr 11-12 days 31% 09-26 J****er 6-7 days 23% 09-26 *** 9-10 days 27% 09-26 *** 7-8 days 38% 09-26 W****ms 5-6 days 25% 09-26 *** 5-6 days 11% 09-26 *** 3-4 days 12% 09-26 M...</div><div class='diff-removed'>－ 90381</div><div class='diff-removed'>－ 1821</div><div class='diff-removed'>－ 09-25 R****ey</div><span class='muted'>变更范围约 130.6%</span></div></td></tr></tbody></table></section>\n<section><h2>文案 &amp; 结构</h2><table><thead><tr><th>竞品</th><th>页面</th><th>具体改了什么</th></tr></thead><tbody><tr><td><span class='badge medium'>medium</span> PCBWay</td><td>Digital Light Processing (DLP) 3D Printing Service | Instan...<br><a href='https://www.pcbway.com/rapid-prototyping/3D-Printing/3D-Printing-DLP.html'>pcbway.com/rapid-prototyping/3D-Printing/3D-Printing-DL...</a></td><td class='changes'><div class='change-block'><strong>板块文案更新：Customer reviews about 3D printing Service</strong><div class='diff-added'>＋ Standard white material (UTR 8360) Balmer This was one of my first 3d prints, there were a couple of hiccups along the way, whoever I was helped by the pcbway team in correcting a couple of mistakes I made in the model. The finished produc...</div><div class='diff-added'>＋ 04,2026...</div><div class='diff-removed'>－ 04,2026 Aluminum (AlSi10Mg) Maire Tolerances not yet checked, but it seems to fit properly needs. &lt;dynamic-value&gt; Sep 04,2026 Aluminum (AlSi10Mg) Aebi Top quality, only drawback the lead time was over a week longer than estimated &lt;dynamic-...</div><span class='muted'>变更范围约 45.7%</span></div></td></tr><tr><td><span class='badge medium'>medium</span> PCBWay</td><td>Fused Deposition Modeling (FDM) 3D Printing Service | Insta...<br><a href='https://www.pcbway.com/rapid-prototyping/3D-Printing/3D-Printing-FDM.html'>pcbway.com/rapid-prototyping/3D-Printing/3D-Printing-FD...</a></td><td class='changes'><div class='change-block'><strong>板块文案更新：Customer reviews about 3D printing Service</strong><div class='diff-added'>＋ Standard white material (UTR 8360) Balmer This was one of my first 3d prints, there were a couple of hiccups along the way, whoever I was helped by the pcbway team in correcting a couple of mistakes I made in the model. The finished produc...</div><div class='diff-added'>＋ 04,2026...</div><div class='diff-removed'>－ 04,2026 Aluminum (AlSi10Mg) Maire Tolerances not yet checked, but it seems to fit properly needs. &lt;dynamic-value&gt; Sep 04,2026 Aluminum (AlSi10Mg) Aebi Top quality, only drawback the lead time was over a week longer than estimated &lt;dynamic-...</div><span class='muted'>变更范围约 45.7%</span></div></td></tr><tr><td><span class='badge medium'>medium</span> PCBWay</td><td>Photopolymer Jetting (PolyJet) 3D Printing Service | Instan...<br><a href='https://www.pcbway.com/rapid-prototyping/3D-Printing/3D-Printing-PolyJet.html'>pcbway.com/rapid-prototyping/3D-Printing/3D-Printing-Po...</a></td><td class='changes'><div class='change-block'><strong>板块文案更新：Customer reviews about 3D printing Service</strong><div class='diff-added'>＋ Standard white material (UTR 8360) Balmer This was one of my first 3d prints, there were a couple of hiccups along the way, whoever I was helped by the pcbway team in correcting a couple of mistakes I made in the model. The finished produc...</div><div class='diff-added'>＋ 04,2026...</div><div class='diff-removed'>－ 04,2026 Aluminum (AlSi10Mg) Maire Tolerances not yet checked, but it seems to fit properly needs. &lt;dynamic-value&gt; Sep 04,2026 Aluminum (AlSi10Mg) Aebi Top quality, only drawback the lead time was over a week longer than estimated &lt;dynamic-...</div><span class='muted'>变更范围约 45.7%</span></div></td></tr><tr><td><span class='badge medium'>medium</span> PCBWay</td><td>Stereolithography (SLA) 3D Printing Service | Instant Quoti...<br><a href='https://www.pcbway.com/rapid-prototyping/3D-Printing/3D-Printing-SLA.html'>pcbway.com/rapid-prototyping/3D-Printing/3D-Printing-SL...</a></td><td class='changes'><div class='change-block'><strong>板块文案更新：Customer reviews about 3D printing Service</strong><div class='diff-added'>＋ Standard white material (UTR 8360) Balmer This was one of my first 3d prints, there were a couple of hiccups along the way, whoever I was helped by the pcbway team in correcting a couple of mistakes I made in the model. The finished produc...</div><div class='diff-added'>＋ 04,2026...</div><div class='diff-removed'>－ 04,2026 Aluminum (AlSi10Mg) Maire Tolerances not yet checked, but it seems to fit properly needs. &lt;dynamic-value&gt; Sep 04,2026 Aluminum (AlSi10Mg) Aebi Top quality, only drawback the lead time was over a week longer than estimated &lt;dynamic-...</div><span class='muted'>变更范围约 45.7%</span></div></td></tr><tr><td><span class='badge medium'>medium</span> PCBWay</td><td>Selective laser melting (SLM) 3D Printing Service | Instant...<br><a href='https://www.pcbway.com/rapid-prototyping/3D-Printing/3D-Printing-SLM.html'>pcbway.com/rapid-prototyping/3D-Printing/3D-Printing-SL...</a></td><td class='changes'><div class='change-block'><strong>板块文案更新：Customer reviews about 3D printing Service</strong><div class='diff-added'>＋ Standard white material (UTR 8360) Balmer This was one of my first 3d prints, there were a couple of hiccups along the way, whoever I was helped by the pcbway team in correcting a couple of mistakes I made in the model. The finished produc...</div><div class='diff-added'>＋ 04,2026...</div><div class='diff-removed'>－ 04,2026 Aluminum (AlSi10Mg) Maire Tolerances not yet checked, but it seems to fit properly needs. &lt;dynamic-value&gt; Sep 04,2026 Aluminum (AlSi10Mg) Aebi Top quality, only drawback the lead time was over a week longer than estimated &lt;dynamic-...</div><span class='muted'>变更范围约 45.7%</span></div></td></tr><tr><td><span class='badge medium'>medium</span> PCBWay</td><td>Selective laser sintering(SLS) 3D Printing Service | Instan...<br><a href='https://www.pcbway.com/rapid-prototyping/3D-Printing/3D-Printing-SLS.html'>pcbway.com/rapid-prototyping/3D-Printing/3D-Printing-SL...</a></td><td class='changes'><div class='change-block'><strong>板块文案更新：Customer reviews about 3D printing Service</strong><div class='diff-added'>＋ Standard white material (UTR 8360) Balmer This was one of my first 3d prints, there were a couple of hiccups along the way, whoever I was helped by the pcbway team in correcting a couple of mistakes I made in the model. The finished produc...</div><div class='diff-added'>＋ 04,2026...</div><div class='diff-removed'>－ 04,2026 Aluminum (AlSi10Mg) Maire Tolerances not yet checked, but it seems to fit properly needs. &lt;dynamic-value&gt; Sep 04,2026 Aluminum (AlSi10Mg) Aebi Top quality, only drawback the lead time was over a week longer than estimated &lt;dynamic-...</div><span class='muted'>变更范围约 45.7%</span></div></td></tr><tr><td><span class='badge medium'>medium</span> PCBWay</td><td>Vacuum Casting 3D Printing Service | Instant Quoting - PCBW...<br><a href='https://www.pcbway.com/rapid-prototyping/3D-Printing/3D-Printing-VC.html'>pcbway.com/rapid-prototyping/3D-Printing/3D-Printing-VC...</a></td><td class='changes'><div class='change-block'><strong>板块文案更新：Customer reviews about 3D printing Service</strong><div class='diff-added'>＋ Standard white material (UTR 8360) Balmer This was one of my first 3d prints, there were a couple of hiccups along the way, whoever I was helped by the pcbway team in correcting a couple of mistakes I made in the model. The finished produc...</div><div class='diff-added'>＋ 04,2026...</div><div class='diff-removed'>－ 04,2026 Aluminum (AlSi10Mg) Maire Tolerances not yet checked, but it seems to fit properly needs. &lt;dynamic-value&gt; Sep 04,2026 Aluminum (AlSi10Mg) Aebi Top quality, only drawback the lead time was over a week longer than estimated &lt;dynamic-...</div><span class='muted'>变更范围约 45.7%</span></div></td></tr><tr><td><span class='badge medium'>medium</span> PCBWay</td><td>CNC Laser Cutting Services | Fast &amp; Reliable for Custom Par...<br><a href='https://www.pcbway.com/rapid-prototyping/Sheet-metal/Laser-Cutting.html'>pcbway.com/rapid-prototyping/Sheet-metal/Laser-Cutting....</a></td><td class='changes'><div class='change-block'><strong>板块文案更新：Customer reviews about Sheet metal Service</strong><div class='diff-added'>＋ Stainless Steel 316/316L The parts arrived and overall they look great. I am very happy with the material, finish, and overall quality. However, I noticed that the two upper holes appear to be approximately 1–1.5 mm away fro... &lt;dynamic-va...</div><div class='diff-added'>＋ de-burre...</div><div class='diff-removed'>－ de-burred, the countersinks drilled to perfect depths.... &lt;dynamic-value&gt; Sep 08,2026 Stainless Steel 316/316L Ormston My project parts were manufactured out of beautifully finished 316 stainless plate. The dimensions were millimetre perfe...</div><span class='muted'>变更范围约 80.0%</span></div></td></tr><tr><td><span class='badge medium'>medium</span> SyBridge</td><td>How Digital Manufacturing Contributes to the Circular Econo...<br><a href='https://sybridge.com/digital-manufacturing-circular-economy'>sybridge.com/digital-manufacturing-circular-economy</a></td><td class='changes'><div class='change-block'><strong>CTA发生变化</strong><div class='diff-added'>＋ complex geometry -&gt; https://sybridge.com/complex-geometries</div><div class='diff-removed'>－ complex geometry -&gt; http://corpweb-dev.sybridge.tech/complex-geometries</div></div></td></tr><tr><td><span class='badge low'>low</span> Hubs</td><td>Knowledge base | Protolabs Network<br><a href='https://www.hubs.com/knowledge-base'>hubs.com/knowledge-base</a></td><td class='changes'><div class='change-block'><strong>板块文案更新：What engineers are reading now</strong><div class='diff-added'>＋ PETG 3D filament properties PETG balances the strength of ABS with the printability of PLA. Compare properties, print settings and applications for this versatile 3D printing filament.</div><div class='diff-removed'>－ 3D-printing innovations: Discover our modern techniques Discover the latest 3D-printing innovations. We use modern techniques, the best hardware and high-quality materials. Upload your CAD-files.</div><span class='muted'>变更范围约 45.1%</span></div></td></tr></tbody></table></section>\n<section><h2>UI 布局变化</h2><table><thead><tr><th>竞品</th><th>页面</th><th>具体改了什么</th></tr></thead><tbody><tr><td><span class='badge high'>high</span> Protolabs</td><td>Online 3D Printing Service | Instant 3D Printing Quote<br><a href='https://www.protolabs.com/services/3d-printing'>protolabs.com/services/3d-printing</a></td><td class='changes'><div class='change-block'><strong>mobile 视图出现明显 UI/布局变化</strong>Online 3D Printing Service | Instant 3D Printing Quote mobile 端页面布局有明显变化（建议打开链接目视确认）</div></td></tr><tr><td><span class='badge high'>high</span> Protolabs</td><td>Online CNC Machining Service | Get a Quote<br><a href='https://www.protolabs.com/services/cnc-machining'>protolabs.com/services/cnc-machining</a></td><td class='changes'><div class='change-block'><strong>mobile 视图出现明显 UI/布局变化</strong>Online CNC Machining Service | Get a Quote mobile 端页面布局有明显变化（建议打开链接目视确认）</div></td></tr><tr><td><span class='badge medium'>medium</span> CNCLATHING</td><td>China Top CNC Machining Service OEM Supplier &amp; Manufacturer...<br><a href='https://www.cnclathing.com/'>cnclathing.com/</a></td><td class='changes'><div class='change-block'><strong>desktop 视图出现明显 UI/布局变化</strong>China Top CNC Machining Service OEM Supplier &amp; Manufacturer... desktop 端页面布局有明显变化（建议打开链接目视确认）</div></td></tr><tr><td><span class='badge medium'>medium</span> Fictiv</td><td>Fictiv: Sourcing Simplified for Custom Manufacturing Servic...<br><a href='https://www.fictiv.com/'>fictiv.com/</a></td><td class='changes'><div class='change-block'><strong>mobile 视图出现明显 UI/布局变化</strong>Fictiv: Sourcing Simplified for Custom Manufacturing Servic... mobile 端页面布局有明显变化（建议打开链接目视确认）</div></td></tr><tr><td><span class='badge medium'>medium</span> JLC CNC</td><td>Online CNC Machining Service - JLCCNC<br><a href='https://jlccnc.com/'>jlccnc.com/</a></td><td class='changes'><div class='change-block'><strong>desktop 视图出现明显 UI/布局变化</strong>Online CNC Machining Service - JLCCNC desktop 端页面布局有明显变化（建议打开链接目视确认）</div><div class='change-block'><strong>mobile 视图出现明显 UI/布局变化</strong>Online CNC Machining Service - JLCCNC mobile 端页面布局有明显变化（建议打开链接目视确认）</div></td></tr></tbody></table></section>\n<section class='folded'><p class='muted'>另有 <strong>8</strong> 项低优先级变化未在邮件中展开：UI 布局 4 项, 板块文案 4 项。完整明细见仓库 reports/ 目录。</p></section>\n<section><h2>抓取提醒</h2><ul><li>Seed page failed: https://www.hubs.com/manufacturing-services (HTTP 404)</li><li>Hubs | https://www.hubs.com/manufacturing-services | HTTP 404</li><li>Hubs | https://www.hubs.com/knowledgebasearticle | HTTP 404</li><li>Hubs | https://www.hubs.com/articleblogarticle | HTTP 404</li><li>Hubs | https://www.hubs.com/knowledgebasecollection | HTTP 404</li><li>Xometry | https://investors.xometry.com/news-releases/news-release-details/xometry-foundation-announces-partnership-mxd-expand | HTTP 403</li><li>Xometry | https://investors.xometry.com/news-releases/news-release-details/xometry-releases-comprehensive-upgrades-its-ai-model | HTTP 403</li><li>Xometry | https://investors.xometry.com/news-releases/news-release-details/xometry-launches-foundation-committing-1-million-advance | HTTP 403</li><li>Xometry | https://investors.xometry.com/news-releases/news-release-details/xometry-appoints-lukas-biewald-its-board-directors | HTTP 403</li><li>Xometry | https://investors.xometry.com/news-releases/news-release-details/xometry-streamlines-data-center-supply-chain-offering-single | HTTP 403</li></ul></section>\n<p class='footer'>完整明细已保存到仓库 <code>reports/</code> 目录，可在 GitHub 上打开 HTML 文件查看全部变化。</p>\n</body></html>"
+  },
+  "run_id": "20260926T060742Z",
+  "baseline_run": false,
+  "upgrade_run": false,
+  "email_status": "Email sent with Resend."
+}
