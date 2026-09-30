@@ -1,0 +1,291 @@
+{
+  "canonical": "",
+  "category": "content",
+  "competitor": "PCBWay",
+  "ctas": [
+    {
+      "href": "https://www.pcbway.com/orderonline.aspx",
+      "text": "PCB Instant Quote"
+    },
+    {
+      "href": "javascript:void(0)",
+      "text": "Sign Up"
+    },
+    {
+      "href": "https://www.pcbway.com/project/shareproject?order=1",
+      "text": "By Source Files"
+    },
+    {
+      "href": "https://www.pcbway.com/project/shareproject?order=1",
+      "text": "View all source files projects"
+    },
+    {
+      "href": "https://www.pcbway.com/project/shareproject?order=1",
+      "text": "Source Files"
+    },
+    {
+      "href": "https://www.pcbway.com/pcbdesign/quotedesign",
+      "text": "PCB design"
+    },
+    {
+      "href": "https://www.pcbway.com/pcbdesign/quotedesign",
+      "text": "Get Free Design Quote"
+    },
+    {
+      "href": "https://www.pcbway.com/blog/club-publish.html",
+      "text": "Submit for Publication"
+    },
+    {
+      "href": "https://www.pcbway.com/blog/Activities/Submit_for_Publication___Now_I_Write_Articles_in_PCBWay.html",
+      "text": "Write for PCBWay"
+    },
+    {
+      "href": "https://www.pcbway.com/blog?tag=PCB+industry",
+      "text": "PCB industry"
+    },
+    {
+      "href": "https://www.pcbway.com/contact.html",
+      "text": "Contact us"
+    }
+  ],
+  "discovered_via": "links",
+  "fetched_at": "2026-09-30T06:48:50+00:00",
+  "final_url": "https://www.pcbway.com/blog/PCB_Design_Layout/How_Vias_Affect_Signal_Integrity_in_High_Speed_PCB_Design_03cb8590.html",
+  "first_seen_at": "2026-09-30T06:48:50+00:00",
+  "h1": "How Vias Affect Signal Integrity in High-Speed PCB Design",
+  "headings": [
+    {
+      "level": "h1",
+      "text": "How Vias Affect Signal Integrity in High-Speed PCB Design"
+    },
+    {
+      "level": "h2",
+      "text": "1. What Parasitic Parameters Does a PCB Via Introduce?"
+    },
+    {
+      "level": "h3",
+      "text": "Parasitic Capacitance (C_via)"
+    },
+    {
+      "level": "h3",
+      "text": "Parasitic Inductance (L_via)"
+    },
+    {
+      "level": "h2",
+      "text": "2. Why Is Via Stub a Major Concern?"
+    },
+    {
+      "level": "h2",
+      "text": "3. Why Does a PCB Via Cause Impedance Discontinuity?"
+    },
+    {
+      "level": "h2",
+      "text": "4. Why Should You Consider the Return Path During Layer Transitions?"
+    },
+    {
+      "level": "h2",
+      "text": "5. When Do Vias Significantly Affect High-Speed Signals?"
+    },
+    {
+      "level": "h2",
+      "text": "6. Why Is a Via a Weak Point in a High-Speed Link?"
+    },
+    {
+      "level": "h2",
+      "text": "7. How Can You Reduce the Impact of Vias?"
+    },
+    {
+      "level": "h3",
+      "text": "Minimize Unnecessary Vias"
+    },
+    {
+      "level": "h3",
+      "text": "Use Back Drilling"
+    },
+    {
+      "level": "h3",
+      "text": "Optimize Via Anti-Pads"
+    },
+    {
+      "level": "h3",
+      "text": "Add Ground Return Vias"
+    },
+    {
+      "level": "h3",
+      "text": "Optimize Via Dimensions"
+    },
+    {
+      "level": "h3",
+      "text": "Choose an Appropriate Stackup"
+    },
+    {
+      "level": "h2",
+      "text": "Conclusion"
+    },
+    {
+      "level": "h3",
+      "text": "Related articles"
+    }
+  ],
+  "images": [
+    {
+      "alt": "",
+      "src": "/project/img/images/avatar/user-pic.png"
+    },
+    {
+      "alt": "",
+      "src": "/project/img/images/loading-pro.gif"
+    },
+    {
+      "alt": "",
+      "src": "https://pcbwayfile.s3.us-west-2.amazonaws.com/web/23/10/03/1152415436848m.jpeg"
+    },
+    {
+      "alt": "",
+      "src": "https://pcbwayfile.s3.us-west-2.amazonaws.com/web/25/02/01/195239553dd028d967de6453aa74b91ac0e5423e73248m.png"
+    },
+    {
+      "alt": "",
+      "src": "https://pcbwayfile.s3-us-west-2.amazonaws.com/web/21/08/30/1823256917346m.png"
+    },
+    {
+      "alt": "",
+      "src": "https://pcb-files.s3.us-west-2.amazonaws.com/web/26/09/29/174218804309c8dbe4c7643ff9b2fcb0bcdab915b4503t.jpg"
+    },
+    {
+      "alt": "",
+      "src": "https://pcb-files.s3.us-west-2.amazonaws.com/web/26/09/29/174347629b2deb2cca53844368a03de1947710b6b8447t.png"
+    },
+    {
+      "alt": "",
+      "src": "https://pcb-files.s3.us-west-2.amazonaws.com/web/26/09/29/17445573120c5e2bdaa574b1f8407eeeac95b62d63533t.png"
+    },
+    {
+      "alt": "",
+      "src": "/img/images/note-tips.png"
+    }
+  ],
+  "meta_description": "",
+  "modified_at": "",
+  "monitored_text": "PCBWay Community Search title or content Search PCBWay PCB Instant Quote CNC | 3D Printing Login Sign Up More Notifications No notifications. My Profile My projects My Likes My Deals My Goods for Bazaar Settings Sign Out Projects Categories DIY Electronics Arduino Hardware Audio Computers & USB Breakout Board Projects Home Automation LED Displays & Matrices IoT Robotics View all categories By Source Files Onju Voice - AI assistant replacement to Google Nest Mini by @justLV LogicAnalyzer V6.0 DIY 1kW Open Source MPPT Solar Charge Controller Tad Boy Color SummerCart64 - a fully open source N64 flashcart kv4p HT v1.7b QuinLED-Dig-Uno Arduino RC engine sound & light controller with inertia simulation for ESP32 Bike Fingerprint - PCB Solar Powered WiFi Weather Station V2.0 RIP-Felix PS3 Tantalizer Frog Boy Color View all source files projects Featured Projects Onju Voice - AI assistant replacement to Google Nest Mini by @justLV LogicAnalyzer V6.0 DIY 1kW Open Source MPPT Solar Charge Controller Featured Source Files Video View all projects Questions Sponsorships PCBWay Future Innovators Program Feedback Blog Store PCB Design Contest - 9th Project Design Contest - 2026 KiCad PCB Design Contest - 8th Project Design Contest - 7th Project Design Contest - KiCad Design Contest - 6th Project Design Contest - 5th PCB Design Contest - 4th PCB Design Contest - Raspberry Pi Pico Contest - PCB Design Tutorial - 3rd PCB Design Contest - I CAN SOLDER Kit Contest - 2nd PCB Design Contest - 1st PCB Design Contest Add questions Create a project Please verify your email address so that you can enjoy our more comprehensive services. Verify Now Blog > How Vias Affect Signal Integrity in High-Speed PCB Design How Vias Affect Signal Integrity in High-Speed PCB Design by: Mila Sep 28,2026 <dynamic-value> <dynamic-value> Posted in PCB Design & Layout signal integrity high-speed PCB design via stub Anyone involved in high-speed PCB design has probably heard this rule of thumb: minimize vias in high-speed routing whenever possible. But many engineers know they should do this without fully understanding why. Some consider a via simply a “wire” and assume a few extra vias will not matter. Others believe that as long as the impedance is controlled, everything will be fine. It is often only after the board comes back for testing—with a collapsed eye diagram, increased bit errors, or EMC test failures—that they realize those seemingly insignificant vias may be part of the problem. A PCB via is one of the structures in a high-speed link that can introduce impedance discontinuities and parasitic effects. It introduces parasitic capacitance, parasitic inductance, via stubs, and changes in the return-current path. As signal edges become faster, these effects become increasingly important to signal integrity. 1. What Parasitic Parameters Does a PCB Via Introduce? Many engineers think of a via as simply a “vertical wire.” At high frequencies, however, a PCB via is actually a three-dimensional interconnect structure with parasitic capacitance, parasitic inductance, and transmission-line effects. Parasitic Capacitance (C_via) Parasitic capacitance forms between the via pad and the surrounding reference plane, such as a ground or power plane. Its value depends on factors including the via pad, anti-pad, distance to the reference plane, and dielectric material. T: Length of the via passing through the reference plane D₁: Via pad diameter D₂: Anti-pad diameter εr: Relative dielectric constant In typical structures, via parasitic capacitance is usually on the order of several hundred femtofarads (fF). Parasitic capacitance lowers the local impedance around the via and, together with other parasitic parameters, creates an impedance discontinuity that can cause signal reflections. Parasitic Inductance (L_via) The copper barrel and the vertical current path of a via also introduce parasitic inductance. h: Via length in the vertical direction d: Via diameter For a typical 1.6 mm PCB with common via dimensions, the parasitic inductance can be around the 1 nH range. Parasitic inductance increases the local impedance around the via and interacts with parasitic capacitance to affect high-speed signals. If the return path is not properly controlled during layer transitions, the additional loop inductance can also increase EMI radiation. Combined Effects of Capacitance and Inductance The actual electrical behavior of a via is not determined by capacitance or inductance alone. Multiple parasitic effects work together. By properly optimizing via dimensions, pads, and anti-pads, the impedance discontinuity can be reduced to some extent. However, when a relatively long via stub is present, the frequency response of the via structure can still exhibit significant resonance. 2. Why Is Via Stub a Major Concern? （Through Via and Via Stub） This is one of the easily overlooked issues in high-speed PCB design. When a signal travels through a through-hole via from the top layer to an inner layer, such as from the Top Layer to L3, the unused portion of the plated hole extending from L3 to the bottom layer L10 becomes a via stub. The Physical Nature of a Via Stub A via stub is essentially an open-ended transmission-line section. At certain frequencies, it can produce a significant resonance. The resonant frequency can be approximately expressed as: c: Speed of light (3×10⁸ m/s) L_stub: Via stub length εr: Relative dielectric constant When the via stub's resonant frequency enters the main frequency range of the signal, it can cause a pronounced notch in insertion loss. This can result in signal attenuation and waveform distortion and, in severe cases, lead to eye-diagram closure. Therefore, for high-speed signals, via stub length can be more important than considering the parasitic capacitance and inductance of the via alone. 3. Why Does a PCB Via Cause Impedance Discontinuity? （Via Impedance Discontinuities and Reflections） The impedance of a via, Z_via, is usually not exactly the same as the characteristic impedance of the transmission line, Z₀. For example, a common target impedance for a high-speed single-ended signal is 50 Ω. When a signal transitions from a transmission line into a via structure with a different impedance, part of the signal is reflected. The reflection coefficient can be expressed as: Γ = (Z_via - Z₀) / (Z_via + Z₀) If Z_via = 40 Ω and Z₀ = 50 Ω, then Γ ≈ -0.11. If Z_via = 30 Ω, then Γ ≈ -0.25. This shows that a larger impedance mismatch between the via and transmission line generally results in stronger local reflections. For this reason, via optimization in high-speed PCB design is not simply about avoiding vias. The goal is to minimize the impedance discontinuity between the via structure and the transmission line. 4. Why Should You Consider the Return Path During Layer Transitions? （Layer Transition and Return Current Path） A via can affect not only the signal itself but also its return-current path. When a signal changes layers, its reference plane may also change. For example, a signal may transition between routing layers associated with different reference planes. If there is no suitable return path near the layer transition, the return current may be forced to take a longer route, creating a larger current loop. This can lead to: Increased loop inductance Increased EMI radiation Degraded signal integrity Increased crosstalk Therefore, high-speed via design needs to consider not only how the signal travels, but also how its return current flows back. 5. When Do Vias Significantly Affect High-Speed Signals? Many engineers have the same question: if the parasitic parameters of a via are so small, can a via really affect a high-speed signal? When evaluating the impact of a PCB via, data rate alone is not enough. Signal rise time, via propagation delay, and via stub resonance also need to be considered. Rise Time vs. Via Propagation Delay The propagation delay of a via can be approximately expressed as: For a typical via with L = 1.2 nH and C = 0.4 pF: This time scale is usually relatively small. Therefore, for many common high-speed digital signals, the impact of the via's lumped L/C parameters alone may not be as significant as the resonance caused by a long via stub. However, as signal edges become faster, via geometry, impedance discontinuity, and return-path design become increasingly important to signal integrity. Via Stub Resonance vs. Signal Spectrum Instead of using data rate alone as the criterion, it is more important to consider whether the via stub resonance falls within the main frequency range of the signal. When these frequencies become close, the via stub can create a significant notch in the frequency response, affecting insertion loss, waveform quality, and eye diagrams. Therefore, there is no single data-rate threshold that determines whether a via will cause problems. The actual design should consider data rate, rise time, via stub length, Nyquist frequency, and channel loss together. 6. Why Is a Via a Weak Point in a High-Speed Link? A PCB trace can be designed as a relatively continuous transmission structure by controlling parameters such as trace width, dielectric thickness, and copper thickness. A via, however, has to perform a three-dimensional transition over a very short distance. As a result, a single PCB via may introduce: Parasitic capacitance Parasitic inductance Impedance discontinuity Via stub resonance Return-path discontinuity The trace is like a “highway,” while the via is more like a combination of a “toll station + sharp turn + dead-end road.” A single via may not cause a significant problem by itself. However, when multiple discontinuities appear along the same high-speed link, their effects can accumulate and eventually appear as increased insertion loss, return loss, or eye-diagram degradation. 7. How Can You Reduce the Impact of Vias? Minimize Unnecessary Vias High-speed signals should avoid unnecessary layer transitions and multiple vias within a short routing distance. During BGA fanout, optimize the component placement and routing-layer strategy to minimize the number of layer transitions for critical high-speed signals. Use Back Drilling For high-speed SerDes links and other applications with demanding signal integrity requirements, if the via stub enters the effective frequency range of the signal, back drilling can be used to remove most of the unused plated barrel. The primary purpose of back drilling is to shorten the via stub and reduce the impact of via stub resonance on high-speed signals. The required back-drilling depth and remaining stub length should be determined based on the PCB stackup, signal characteristics, and manufacturing capabilities rather than a fixed data-rate threshold. Optimize Via Anti-Pads The anti-pad affects the parasitic capacitance between the via and the reference plane. Anti-pad too small: Higher parasitic capacitance, which may reduce the local impedance. Anti-pad too large: Although it can reduce some parasitic capacitance, it may also create a larger opening in the reference plane and affect the return path. Therefore, via anti-pad dimensions should be optimized based on via size, stackup, reference-plane spacing, and target impedance, rather than using a fixed dimension. Add Ground Return Vias During a high-speed layer transition, ground vias can be placed near the signal via to provide a shorter, lower-inductance return-current path. For differential signals, the ground vias should also be arranged as symmetrically as practical to avoid significant differences in the return environment of the two traces. Optimize Via Dimensions Within the limits of manufacturing capability, via diameter, pad size, and via length can be optimized to reduce parasitic effects. For example: A smaller drill diameter can reduce some parasitic effects. A smaller pad can reduce coupling to the reference plane. A shorter via can reduce parasitic inductance and via stub length. However, smaller is not always better. Very small vias can increase PCB manufacturing difficulty and cost. Choose an Appropriate Stackup High-speed signal layers should be placed close to continuous reference planes to maintain strong coupling between the signal and its return path. For high-density, high-speed designs, blind vias, buried vias, and HDI structures can also be used to shorten the via length and reduce the impact of through-hole via stubs. Conclusion A via is not simply a “vertical wire.” In high-speed PCB design , it is a complex three-dimensional interconnect structure involving parasitic capacitance, parasitic inductance, impedance discontinuity, via stub resonance, and return-path changes. In many cases, the lumped parasitic parameters of a single via are not the dominant source of signal degradation. However, when a via creates a significant impedance discontinuity or its via stub resonance enters the effective frequency range of the signal, it can have a noticeable impact on insertion loss, waveform quality, and eye diagrams. Therefore, the key question in high-speed PCB design is not simply whether a via can be used, but: Will this via structure introduce an unacceptable discontinuity within the effective frequency range of the target signal? Minimizing unnecessary vias, controlling via stub length, using back drilling or HDI structures when appropriate, and maintaining a continuous return path are all effective ways to improve signal integrity in high-speed links. Enter the year of your birth and check your Chinese Zodiac. Get Free Design Quote Join us Wanna be a dedicated PCBWay writer? We definately look forward to having you with us. Submit for Publication Become Our Writer Leave a Comment ( 0 ) Share to: Previous：Why No Traces Under a Crystal Oscillator in PCB Layout? Next：Threaded Holes in CNC Machining: Thread Types, Depth, and Design Tips Related articles How Vias Affect Signal Integrity in High-Speed PCB Design Why Antipads Matter for Signal Integrity in High-Speed PCB Design Differential Pair Routing Guidelines for High-Speed PCB Design Best High-Speed PCB Design Practices Comments ( 0 ) Log in to post comments. Upload photo You can only upload 5 files in total. Each file cannot exceed 2MB. Supports JPG, JPEG, GIF, PNG, BMP 0 / 10000 It looks like you have not written anything. Please add a comment and try again. You can upload up to 5 images! Image size should not exceed 2MB! File format not supported! Post Comment View More Write for PCBWay Categories Select a Category 3D Printing Activities CNC Machining Engineering Technical Flexible PCB HDI PCB Help Center Injection Molding News PCB Assembly PCB Basic Information PCB Design & Layout PCB Design Tutorial PCB Layout Software PCB Manufacturing Information PCBWay Store Rigid-Flex PCB Sheet Metal Technology Table of Contents HOT TAG PCB Printed Circuit Board PCB design PCB Board PCB layout Circuit Board Printed Circuit Boards PCB Design Tutorial PCB industry pcb manufacturing KiCad pcbway IF YOU MISSED IT 1 PCB Layout Design Process from Schematic to Manufacturing 2 Power Supply Design and Layout Guidelines for LDO and DCDC 3 How Vias Affect Signal Integrity in High-Speed PCB Design 4 Why No Traces Under a Crystal Oscillator in PCB Layout? 5 Can AGND and DGND Be Connected Directly in ADC PCB Design? 6 PCB Conformal Coating: Which Components Need Masking? 7 Why Antipads Matter for Signal Integrity in High-Speed PCB Design 8 0402 vs 0603 Capacitor for High-Speed PCB Decoupling 9 Why ICs Fail After Passing ESD Tests and How ESD Differs from EOS The PCB Way that recognize the talent and effort of the best ELECTRONIC designers in the World. © COPYRIGHT 2019 About us Contact us Follow us on Share to Facebook Share to Twitter Share to Reddit Share to Linkedin Back to top",
+  "published_at": "2026-09-28T00:00:00+00:00",
+  "requested_url": "https://www.pcbway.com/blog/PCB_Design_Layout/How_Vias_Affect_Signal_Integrity_in_High_Speed_PCB_Design_03cb8590.html",
+  "schema_version": 2,
+  "sections": [
+    {
+      "hash": "c213343f5e692564254902fe297fe6a62d25b2df",
+      "heading": "How Vias Affect Signal Integrity in High-Speed PCB Design",
+      "level": "h1",
+      "text": "How Vias Affect Signal Integrity in High-Speed PCB Design by: Mila Sep 28,2026 <dynamic-value> <dynamic-value> Posted in PCB Design & Layout signal integrity high-speed PCB design via stub Anyone involved in high-speed PCB design has probably heard this rule of thumb: minimize vias in high-speed routing whenever possible. But many engineers know they should do this without fully understanding why. Some consider a via simply a “wire” and assume a few extra vias will not matter. Others believe that as long as the impedance is controlled, everything will be fine. It is often only after the board comes back for testing—with a collapsed eye diagram, increased bit errors, or EMC test failures—that they realize those seemingly insignificant vias may be part of the problem. A PCB via is one of the structures in a high-speed link that can introduce impedance discontinuities and parasitic effects. It introduces parasitic capacitance, parasitic inductance, via stubs, and changes in the return-current path. As signal edges become faster, these effects become increasingly important to signal integrity. 1. What Parasitic Parameters Does a PCB Via Introduce? Many engineers think of a via as simp..."
+    },
+    {
+      "hash": "ee0303c14bbef31c4dbc7d6ab3076f092fe1c3f2",
+      "heading": "1. What Parasitic Parameters Does a PCB Via Introduce?",
+      "level": "h2",
+      "text": "1. What Parasitic Parameters Does a PCB Via Introduce? Many engineers think of a via as simply a “vertical wire.” At high frequencies, however, a PCB via is actually a three-dimensional interconnect structure with parasitic capacitance, parasitic inductance, and transmission-line effects."
+    },
+    {
+      "hash": "78742b05f5032478c57170a31d22053647ff9704",
+      "heading": "Parasitic Capacitance (C_via)",
+      "level": "h3",
+      "text": "Parasitic Capacitance (C_via) Parasitic capacitance forms between the via pad and the surrounding reference plane, such as a ground or power plane. Its value depends on factors including the via pad, anti-pad, distance to the reference plane, and dielectric material. T: Length of the via passing through the reference plane D₁: Via pad diameter D₂: Anti-pad diameter εr: Relative dielectric constant In typical structures, via parasitic capacitance is usually on the order of several hundred femtofarads (fF). Parasitic capacitance lowers the local impedance around the via and, together with other parasitic parameters, creates an impedance discontinuity that can cause signal reflections."
+    },
+    {
+      "hash": "244a1cfb854ef4b2cfaf9845880d705b3a1f302d",
+      "heading": "Parasitic Inductance (L_via)",
+      "level": "h3",
+      "text": "Parasitic Inductance (L_via) The copper barrel and the vertical current path of a via also introduce parasitic inductance. h: Via length in the vertical direction d: Via diameter For a typical 1.6 mm PCB with common via dimensions, the parasitic inductance can be around the 1 nH range. Parasitic inductance increases the local impedance around the via and interacts with parasitic capacitance to affect high-speed signals. If the return path is not properly controlled during layer transitions, the additional loop inductance can also increase EMI radiation. Combined Effects of Capacitance and Inductance The actual electrical behavior of a via is not determined by capacitance or inductance alone. Multiple parasitic effects work together. By properly optimizing via dimensions, pads, and anti-pads, the impedance discontinuity can be reduced to some extent. However, when a relatively long via stub is present, the frequency response of the via structure can still exhibit significant resonance."
+    },
+    {
+      "hash": "9632fd344c042c5db7206d9f9a11538384729ee5",
+      "heading": "2. Why Is Via Stub a Major Concern?",
+      "level": "h2",
+      "text": "2. Why Is Via Stub a Major Concern? （Through Via and Via Stub） This is one of the easily overlooked issues in high-speed PCB design. When a signal travels through a through-hole via from the top layer to an inner layer, such as from the Top Layer to L3, the unused portion of the plated hole extending from L3 to the bottom layer L10 becomes a via stub. The Physical Nature of a Via Stub A via stub is essentially an open-ended transmission-line section. At certain frequencies, it can produce a significant resonance. The resonant frequency can be approximately expressed as: c: Speed of light (3×10⁸ m/s) L_stub: Via stub length εr: Relative dielectric constant"
+    },
+    {
+      "hash": "a9fddad5ec597812e173d8579bea408f9eab88e2",
+      "heading": "3. Why Does a PCB Via Cause Impedance Discontinuity?",
+      "level": "h2",
+      "text": "3. Why Does a PCB Via Cause Impedance Discontinuity? （Via Impedance Discontinuities and Reflections） The impedance of a via, Z_via, is usually not exactly the same as the characteristic impedance of the transmission line, Z₀. For example, a common target impedance for a high-speed single-ended signal is 50 Ω. When a signal transitions from a transmission line into a via structure with a different impedance, part of the signal is reflected. The reflection coefficient can be expressed as: Γ = (Z_via - Z₀) / (Z_via + Z₀) If Z_via = 40 Ω and Z₀ = 50 Ω, then Γ ≈ -0.11. If Z_via = 30 Ω, then Γ ≈ -0.25."
+    },
+    {
+      "hash": "39f97f9e18a38139509334d8dd0ca1c718999261",
+      "heading": "4. Why Should You Consider the Return Path During Layer Transitions?",
+      "level": "h2",
+      "text": "4. Why Should You Consider the Return Path During Layer Transitions? （Layer Transition and Return Current Path） A via can affect not only the signal itself but also its return-current path. When a signal changes layers, its reference plane may also change. For example, a signal may transition between routing layers associated with different reference planes. If there is no suitable return path near the layer transition, the return current may be forced to take a longer route, creating a larger current loop. This can lead to: Increased loop inductance Increased EMI radiation Degraded signal integrity Increased crosstalk Therefore, high-speed via design needs to consider not only how the signal travels, but also how its return current flows back."
+    },
+    {
+      "hash": "8c6d63bb30b077c945ecfe927e03e78a1635f39b",
+      "heading": "5. When Do Vias Significantly Affect High-Speed Signals?",
+      "level": "h2",
+      "text": "5. When Do Vias Significantly Affect High-Speed Signals? Many engineers have the same question: if the parasitic parameters of a via are so small, can a via really affect a high-speed signal? When evaluating the impact of a PCB via, data rate alone is not enough. Signal rise time, via propagation delay, and via stub resonance also need to be considered. Rise Time vs. Via Propagation Delay The propagation delay of a via can be approximately expressed as: For a typical via with L = 1.2 nH and C = 0.4 pF: This time scale is usually relatively small. Therefore, for many common high-speed digital signals, the impact of the via's lumped L/C parameters alone may not be as significant as the resonance caused by a long via stub. However, as signal edges become faster, via geometry, impedance discontinuity, and return-path design become increasingly important to signal integrity. Via Stub Resonance vs. Signal Spectrum Instead of using data rate alone as the criterion, it is more important to consider whether the via stub resonance falls within the main frequency range of the signal."
+    },
+    {
+      "hash": "aaa7ab7c758b506f1c2ee9f1b4ccc57680860723",
+      "heading": "6. Why Is a Via a Weak Point in a High-Speed Link?",
+      "level": "h2",
+      "text": "6. Why Is a Via a Weak Point in a High-Speed Link? A PCB trace can be designed as a relatively continuous transmission structure by controlling parameters such as trace width, dielectric thickness, and copper thickness. A via, however, has to perform a three-dimensional transition over a very short distance. As a result, a single PCB via may introduce: Parasitic capacitance Parasitic inductance Impedance discontinuity Via stub resonance Return-path discontinuity The trace is like a “highway,” while the via is more like a combination of a “toll station + sharp turn + dead-end road.” A single via may not cause a significant problem by itself. However, when multiple discontinuities appear along the same high-speed link, their effects can accumulate and eventually appear as increased insertion loss, return loss, or eye-diagram degradation."
+    },
+    {
+      "hash": "6bfda85bf087e054590f6b830723db0f54315d6d",
+      "heading": "7. How Can You Reduce the Impact of Vias?",
+      "level": "h2",
+      "text": "7. How Can You Reduce the Impact of Vias?"
+    },
+    {
+      "hash": "38db10d42a563f9d14e2ff5357f52ddd2408c5e5",
+      "heading": "Minimize Unnecessary Vias",
+      "level": "h3",
+      "text": "Minimize Unnecessary Vias High-speed signals should avoid unnecessary layer transitions and multiple vias within a short routing distance. During BGA fanout, optimize the component placement and routing-layer strategy to minimize the number of layer transitions for critical high-speed signals."
+    },
+    {
+      "hash": "139840e012093058d10f7413fda2e3581c9dbbc3",
+      "heading": "Use Back Drilling",
+      "level": "h3",
+      "text": "Use Back Drilling For high-speed SerDes links and other applications with demanding signal integrity requirements, if the via stub enters the effective frequency range of the signal, back drilling can be used to remove most of the unused plated barrel. The primary purpose of back drilling is to shorten the via stub and reduce the impact of via stub resonance on high-speed signals. The required back-drilling depth and remaining stub length should be determined based on the PCB stackup, signal characteristics, and manufacturing capabilities rather than a fixed data-rate threshold."
+    },
+    {
+      "hash": "722a763469ed58070e27f3d02e6bbe8f5c3727bc",
+      "heading": "Optimize Via Anti-Pads",
+      "level": "h3",
+      "text": "Optimize Via Anti-Pads The anti-pad affects the parasitic capacitance between the via and the reference plane. Anti-pad too small: Higher parasitic capacitance, which may reduce the local impedance. Anti-pad too large: Although it can reduce some parasitic capacitance, it may also create a larger opening in the reference plane and affect the return path. Therefore, via anti-pad dimensions should be optimized based on via size, stackup, reference-plane spacing, and target impedance, rather than using a fixed dimension."
+    },
+    {
+      "hash": "3efff63edb5a4b59a0027c0e30f5aa25505fb315",
+      "heading": "Add Ground Return Vias",
+      "level": "h3",
+      "text": "Add Ground Return Vias During a high-speed layer transition, ground vias can be placed near the signal via to provide a shorter, lower-inductance return-current path. For differential signals, the ground vias should also be arranged as symmetrically as practical to avoid significant differences in the return environment of the two traces."
+    },
+    {
+      "hash": "84acd4ad083cbc13598a15e2c947d42a969c0fd5",
+      "heading": "Optimize Via Dimensions",
+      "level": "h3",
+      "text": "Optimize Via Dimensions Within the limits of manufacturing capability, via diameter, pad size, and via length can be optimized to reduce parasitic effects. For example: A smaller drill diameter can reduce some parasitic effects. A smaller pad can reduce coupling to the reference plane. A shorter via can reduce parasitic inductance and via stub length. However, smaller is not always better. Very small vias can increase PCB manufacturing difficulty and cost."
+    },
+    {
+      "hash": "556bb12ce5160152168ae12ab98ad47bc101e814",
+      "heading": "Choose an Appropriate Stackup",
+      "level": "h3",
+      "text": "Choose an Appropriate Stackup High-speed signal layers should be placed close to continuous reference planes to maintain strong coupling between the signal and its return path. For high-density, high-speed designs, blind vias, buried vias, and HDI structures can also be used to shorten the via length and reduce the impact of through-hole via stubs."
+    },
+    {
+      "hash": "de6cf4859af5cdb3273d0f2a7e39a292dd7b2092",
+      "heading": "Conclusion",
+      "level": "h2",
+      "text": "Conclusion A via is not simply a “vertical wire.” In high-speed PCB design , it is a complex three-dimensional interconnect structure involving parasitic capacitance, parasitic inductance, impedance discontinuity, via stub resonance, and return-path changes. In many cases, the lumped parasitic parameters of a single via are not the dominant source of signal degradation. However, when a via creates a significant impedance discontinuity or its via stub resonance enters the effective frequency range of the signal, it can have a noticeable impact on insertion loss, waveform quality, and eye diagrams. Therefore, the key question in high-speed PCB design is not simply whether a via can be used, but: Will this via structure introduce an unacceptable discontinuity within the effective frequency range of the target signal? Minimizing unnecessary vias, controlling via stub length, using back drilling or HDI structures when appropriate, and maintaining a continuous return path are all effective ways to improve signal integrity in high-speed links."
+    },
+    {
+      "hash": "2d1b6e0be9bd2e9249562f52d47f08d498b775c9",
+      "heading": "Related articles",
+      "level": "h3",
+      "text": "Related articles How Vias Affect Signal Integrity in High-Speed PCB Design Why Antipads Matter for Signal Integrity in High-Speed PCB Design Differential Pair Routing Guidelines for High-Speed PCB Design Best High-Speed PCB Design Practices"
+    }
+  ],
+  "sitemap_lastmod": "",
+  "status": 200,
+  "structure_hash": "897ee470b614c3ff126a4e7895071ffc38ec8891",
+  "text_excerpt": "PCBWay Community Search title or content Search PCBWay PCB Instant Quote CNC | 3D Printing Login Sign Up More Notifications No notifications. My Profile My projects My Likes My Deals My Goods for Bazaar Settings Sign Out Projects Categories DIY Electronics Arduino Hardware Audio Computers & USB Breakout Board Projects Home Automation LED Displays & Matrices IoT Robotics View all categories By Source Files Onju Voice - AI assistant replacement to Google Nest Mini by @justLV LogicAnalyzer V6.0 DIY 1kW Open Source MPPT Solar Charge Controller Tad Boy Color SummerCart64 - a fully open source N64 flashcart kv4p HT v1.7b QuinLED-Dig-Uno Arduino RC engine sound & light controller with inertia simulation for ESP32 Bike Fingerprint - PCB Solar Powered WiFi Weather Station V2.0 RIP-Felix PS3 Tantalizer Frog Boy Color View all source files projects Featured Projects Onju Voice - AI assistant replacement to Google Nest Mini by @justLV LogicAnalyzer V6.0 DIY 1kW Open Source MPPT Solar Charge Controller Featured Source Files Video View all projects Questions Sponsorships PCBWay Future Innovators Program Feedback Blog Store PCB Design Contest - 9th Project Design Contest - 2026 KiCad PCB Design...",
+  "text_hash": "b190a8bb960c537f6df8b11dc6ea02402544174f",
+  "title": "How Vias Affect Signal Integrity in High-Speed PCB Design - PCB Design & Layout - PCBway",
+  "url": "https://www.pcbway.com/blog/PCB_Design_Layout/How_Vias_Affect_Signal_Integrity_in_High_Speed_PCB_Design_03cb8590.html"
+}
