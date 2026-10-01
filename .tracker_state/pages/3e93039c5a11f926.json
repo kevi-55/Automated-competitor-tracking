@@ -1,0 +1,67 @@
+{
+  "canonical": "https://www.protolabs.com/resources/design-tips/industrial-3d-printing-for-production-parts",
+  "category": "content",
+  "competitor": "Protolabs",
+  "ctas": [
+    {
+      "href": "https://www.protolabs.com/ecom/get-a-quote",
+      "text": "upload a 3D CAD model at protolabs.com"
+    }
+  ],
+  "discovered_via": "sitemap",
+  "fetched_at": "2026-10-01T07:17:21+00:00",
+  "final_url": "https://www.protolabs.com/resources/design-tips/industrial-3d-printing-for-production-parts",
+  "first_seen_at": "2026-10-01T07:17:21+00:00",
+  "h1": "Industrial 3D Printing for Production Parts",
+  "headings": [
+    {
+      "level": "h1",
+      "text": "Industrial 3D Printing for Production Parts"
+    },
+    {
+      "level": "h2",
+      "text": "Focus on process, materials, part geometry when designing for additive manufacturing"
+    }
+  ],
+  "images": [
+    {
+      "alt": "Design Tip",
+      "src": "/media/5119/design-tip-hero.jpg?width=1920&height=290&v=1d2603cc8595e50"
+    },
+    {
+      "alt": "3D-printed parts",
+      "src": "/media/1011222/cnc-vs-3d-printing.jpg?width=570&height=308&v=1da0597973deef0"
+    },
+    {
+      "alt": "Support structures help prevent warp",
+      "src": "/media/epggq2km/68_3dp_industrial-printing-for-production-parts.jpg?width=570&height=308&v=1da38c165dd5aa0"
+    }
+  ],
+  "meta_description": "Using industrial 3D printing for production parts requires some ground rules. You need to focus on the process, materials, and part geometry when designing.",
+  "modified_at": "",
+  "monitored_text": "Industrial 3D Printing for Production Parts Focus on process, materials, part geometry when designing for additive manufacturing Consider this list: Fuel nozzles for General Electric’s LEAP engine; cabin brackets for Airbus A350 aircraft; patient-specific hearing aids and skull, hip, and ribcage replacements; and LED power-indicator housings for battling robots. These are just a few examples of fully functional end-use parts produced by industrial 3D printing technology, also known as additive manufacturing, shattering any lingering reputation that it’s a “prototype only” manufacturing process. Some Ground Rules Everyone knows that 3D printing is an excellent way to produce prototypes for concept review or form-fit-function testing, but the examples listed are evidence that it’s becoming an increasingly popular method for producing “real” parts. This is especially true when volumes are low enough that casting and molding are not cost effective, or where part complexity prohibits processes like machining. Before you begin work on your next medical device or aerospace component, however, consider the following: Technology : Protolabs uses three different additive manufacturing processes: direct metal laser sintering (DMLS), selective laser sintering (SLS), and stereolithography (SL). By virtue of its ability to create fully dense metal parts on demand, DMLS is a tested and proven option for end-use applications, although SLS is often an excellent solution for low-volume plastic end-use components. SL has always been a prototype-centric process, although secondary coating technologies exist to add durability to SL’s resin-based parts. Material selection : The nearly two dozen 3D-printable resins and powders available at Protolabs address many of the mechanical and electrical requirements in parts today, and most are suitable for long-term use. From cobalt chrome to glass-filled nylon, a variety of end-use parts can be manufactured in cost-effective quantities, accurately enough to compete with machining and injection molding. Design considerations : In many cases, there’s limited differences between a prototype part design and one destined for years of service. What’s important is that product designers and engineers recognize 3D printing’s potential for such use. The ability to create organic shapes and complex lattices opens doors otherwise closed to traditional manufacturing. Production quantities : Despite its many strengths, 3D printing is relegated to relatively smaller part quantities, limiting its use for most high-volume applications. Because of this, understanding what quantities are appropriate for end-use parts is an important step in any design project. Anything from a single replacement part for a vintage automobile to on-demand production runs of complex componentry may be practical, provided the part cannot be produced more cost-effectively via alternative manufacturing methods. DMLS Decisions Let’s start with one of the first basic questions of end-use part design: metal or plastic? The answer determines which process will be used to build your parts, and their subsequent material properties. If metal parts are needed, DMLS is the logical (albeit only) choice. DMLS produces several medical- and aerospace-friendly metals that include stainless steel, aluminum, and titanium, among others. Judging by its acceptance at GE and Airbus, regulatory concerns over the metal powders used to produce DMLS parts are not the constraint they once were. Yet material validation remains a factor in any end-use product rollout, especially with flight-critical aerospace components and medical products for use inside the human body. Protolabs will work with customers to develop a quality plan to support a higher level of control while processing their DMLS parts. This can include processing per industry or customer specifications, providing documentation and test specimens if needed. These test specimens can be built and sent to a lab for validation well in advance of product launch, or built alongside the actual parts during the production build for testing afterwards. The choice is yours. Support structures are key to preventing warp and curl on SL and DMLS parts. Just because the metal is suitable for end-use parts doesn’t mean DMLS is the right process to build them, however. DMLS uses a high-power laser to melt and fuse metal particles one paper-thin layer at a time. Because of the extreme heat involved, warp and curl must be controlled using scaffold-like support structures, which have to be removed after the build process. This additional time and effort makes DMLS most cost-effective for complex metal parts that can’t be built with another process<dynamic-value> machining, or where substantial opportunities for assembly simplification exist, such as GE’s fuel nozzle, which reduced the part count of the original assembly from 20 separate pieces to a single, DMLS-printed part. Selecting SLS DMLS might be the top contender in the low-volume, end-use part contest, but SLS comes in a close second. From a technology perspective, it is quite similar to DMLS. Both use a laser to fuse layers of material in a powder bed. Plastic is less energy-intensive to melt than is metal, so support structures are not required with SLS. This makes it easier to use the entire volume of the build chamber, thus simplifying part setup and post-processing, and therefore reducing costs. SLS is limited to plastics from the nylon family, although glass and fiber-filled materials are also available. Unlike DMLS, SLS is offered in only one resolution in a layer thickness of 0.004 inches. Check protolabs.com for more information. Other SLS Considerations Many customers opt for unfilled nylon where more “give” is needed in the finished part—the seat back to a chair, for example—whereas filled material is a better choice in gears, pulleys, and other mechanical applications. Nylon can be sterilized via autoclaving, so it’s often used for medical parts such as instrument handles and device cases, but it’s also “hydroscopic” (absorbs water) and slightly porous, making it less applicable in very wet conditions. Plastic warps, and nylon is no exception. The same design practices that increase stability and accuracy in injection-molded parts—uniform wall thicknesses, ribbing on large flat areas, etc.—also improve quality in those made with SLS. Nylon is widely used for injection-molded parts so SLS is an excellent interim solution for those customers waiting on delivery of a production tool, or where investment in such a tool doesn’t make sense. Don’t Discount SL If DMLS is the new kid on the additive block, stereolithography is its grandfather. The original and undisputed king of rapid prototyping, SL produces very accurate and finely detailed parts, but is generally overlooked for end-use parts. That’s because the photo-curable resin used with SL reacts poorly to long-term exposure to UV light, leading to material degradation and part movement. However, add Metal Plated Ceramic (PerFORM), a lightweight, ceramic-filled nickel plating offered by Protolabs, and your part can achieve enhanced durability, wear resistance, and dimensional stability for long-term use. Regardless of which method is used, the important thing to remember with any 3D printing project is that complexity is free. This creates endless potential for product improvement. Lightweighting, assembly simplification, manufacturing cost reduction—the list of benefits is extensive. As designers continue to explore 3D printing, ever more end-use applications will be discovered, which will in turn spawn additional growth of 3D printing and its capabilities. Want to dive a bit deeper into the material properties of SL, SLS and DMLS, read our white paper on choosing the right 3D printing materials . And if you’re currently in need of small quantities of functional, end-use parts, 3D printing might be the answer. Contact Protolabs at 877.479.3680 or [email protected] to discuss the possibilities or simply upload a 3D CAD model at protolabs.com for an instant quote.",
+  "published_at": "",
+  "requested_url": "https://www.protolabs.com/resources/design-tips/industrial-3d-printing-for-production-parts",
+  "schema_version": 2,
+  "sections": [
+    {
+      "hash": "a13afe6fd722bd3f7e19a8f2d9aa15915855ffa6",
+      "heading": "Industrial 3D Printing for Production Parts",
+      "level": "h1",
+      "text": "Industrial 3D Printing for Production Parts"
+    },
+    {
+      "hash": "194aab91b70b8c98bda18bbd90c9b9a903b245b3",
+      "heading": "Focus on process, materials, part geometry when designing for additive manufacturing",
+      "level": "h2",
+      "text": "Focus on process, materials, part geometry when designing for additive manufacturing"
+    }
+  ],
+  "sitemap_lastmod": "2026-09-30T14:39:00+00:00",
+  "status": 200,
+  "structure_hash": "a46ed4c46a74cf28aaab0f4acda74a5a312d61d5",
+  "text_excerpt": "Industrial 3D Printing for Production Parts Focus on process, materials, part geometry when designing for additive manufacturing Consider this list: Fuel nozzles for General Electric’s LEAP engine; cabin brackets for Airbus A350 aircraft; patient-specific hearing aids and skull, hip, and ribcage replacements; and LED power-indicator housings for battling robots. These are just a few examples of fully functional end-use parts produced by industrial 3D printing technology, also known as additive manufacturing, shattering any lingering reputation that it’s a “prototype only” manufacturing process. Some Ground Rules Everyone knows that 3D printing is an excellent way to produce prototypes for concept review or form-fit-function testing, but the examples listed are evidence that it’s becoming an increasingly popular method for producing “real” parts. This is especially true when volumes are low enough that casting and molding are not cost effective, or where part complexity prohibits processes like machining. Before you begin work on your next medical device or aerospace component, however, consider the following: Technology : Protolabs uses three different additive manufacturing proce...",
+  "text_hash": "7bc8f8a6442ec16fe5f91165f6ff2401a14bd686",
+  "title": "Design Tip: Industrial 3D printing for production parts",
+  "url": "https://www.protolabs.com/resources/design-tips/industrial-3d-printing-for-production-parts"
+}

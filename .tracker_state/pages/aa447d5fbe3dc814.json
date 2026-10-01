@@ -1,0 +1,144 @@
+{
+  "canonical": "https://www.protolabs.com/resources/design-tips/resin-3d-printing",
+  "category": "content",
+  "competitor": "Protolabs",
+  "ctas": [],
+  "discovered_via": "sitemap",
+  "fetched_at": "2026-10-01T07:17:21+00:00",
+  "final_url": "https://www.protolabs.com/resources/design-tips/resin-3d-printing",
+  "first_seen_at": "2026-10-01T07:17:21+00:00",
+  "h1": "Resin 3D Printing: Use Cases and Key Benefits",
+  "headings": [
+    {
+      "level": "h1",
+      "text": "Resin 3D Printing: Use Cases and Key Benefits"
+    },
+    {
+      "level": "h2",
+      "text": "What is Resin 3D Printing?"
+    },
+    {
+      "level": "h2",
+      "text": "How Do Different Resin 3D Printers Work?"
+    },
+    {
+      "level": "h3",
+      "text": "Stereolithography (SLA)"
+    },
+    {
+      "level": "h3",
+      "text": "PolyJet"
+    },
+    {
+      "level": "h2",
+      "text": "Materials Used in Resin 3D Printing"
+    },
+    {
+      "level": "h2",
+      "text": "Comparing Industrial and Desktop Resin 3D Printers"
+    },
+    {
+      "level": "h3",
+      "text": "Outsourced vs. In-house 3D-Printing: Side-by-Side Comparison"
+    },
+    {
+      "level": "h2",
+      "text": "Post-Processing for Resin 3D Prints"
+    }
+  ],
+  "images": [
+    {
+      "alt": "Black 3D printed parts",
+      "src": "/media/ylnml5oz/sla-dt.jpg"
+    },
+    {
+      "alt": "Polyjet Parts",
+      "src": "/media/jgrll2hz/polyjet.jpg"
+    },
+    {
+      "alt": "cover of 3d printing definitive guide",
+      "src": "/media/j2gajqid/3dp-definitive-guide-cover-293x200.png?width=293&height=200&v=1d8da3afc7ae360"
+    },
+    {
+      "alt": "plastic printing",
+      "src": "/media/856716/sla-3dp-blog-size.jpg?width=115&height=115&v=1da0597c571efb0"
+    },
+    {
+      "alt": "Rapid Prototyping Processes",
+      "src": "/media/hdzcpmax/rapid-manufacturing-processes.png?width=115&height=115&v=1d850bd79109300"
+    },
+    {
+      "alt": "plastic comparison chart",
+      "src": "/media/jjziztb4/horiz-3dp-services-sl-new-1-1-1.png?width=115&height=115&v=1d7c73b4fe00bc0"
+    }
+  ],
+  "meta_description": "Resin 3D printing describes a subset of manufacturing technologies that additively build parts by curing liquid resin.",
+  "modified_at": "",
+  "monitored_text": "Resin 3D Printing: Use Cases and Key Benefits How does stereolithography and its several variants stack up against other polymer-based prototyping options? Many people in the manufacturing industry associate the term “rapid prototyping” with the invention of stereolithography (SLA). First commercialized in 1986, this resin-based printing process soon became a favorite of product developers looking for fast and accurate 3D models of their designs. Competing technologies quickly followed using a variety of materials, including non-resins, and today, designers have a selection of rapid prototyping options at their disposal. Popular non-resin 3D printing technologies include fused deposition modeling (FDM), selective laser sintering (SLS), and Multi Jet Fusion (MJF), as well as several newer SLA variants. The question then becomes: Which one is best for my application? What is Resin 3D Printing? Resin 3D printing is an umbrella term used to describe additive manufacturing technologies that build parts from a liquid photopolymer resin that hardens or “cures” when exposed to a light source. Conversely, filament-based printers like FDM melt a spool of plastic filament feedstock to create parts layer-by-layer, while powder-based printers ( SLS and MJF ) fuse powder particles using a laser, fusing agents, or other heat source. We’ll explore the details behind the different resin-based processes shortly, but all share some common attributes. Chief among them are higher resolution and finer part details compared to filament or powder printers, with less of the “stair-stepping” common to 3D printing. This is due to precise control of the light source and the ability to generate thinner layers, thus leaving smoother finishes than the alternatives. In addition, these parts require less post-processing than those made via the other methods, reducing part cost and improving accuracy. Because of this, resin-based 3D printing is often the preferred method for parts with intricate designs, as well as small or miniature parts and those with fine features. Some prototype and low-volume uses cases for stereolithography include: Patient-specific surgical guides Dental aligners Jewelry molds and patterns Knobs and covers for automotive use Electronic housings How Do Different Resin 3D Printers Work? Despite its many uses and applications, it’s important to understand the mechanics behind the different types of resin-based 3D printing. Here’s a brief outline of the available technologies, followed by some considerations for each: Stereolithography (SLA) The grandfather of additive manufacturing, SLA has not sat on its 3D-printed laurels during the past 40 years, and today’s machines are much faster and more accurate than their predecessors. That said, all rely on an ultraviolet (UV) laser to trace the outline and interior of each layer, curing the liquid resin as it goes. Once each “slice” is complete, the build platform drops slightly, fresh resin is pulled across the cured surface, and the process repeats until the build is complete. Again, very fine detail is possible, albeit at lower speeds than the other resin-based processes. PolyJet Imagine an inkjet printer that, instead of ink, deposits a liquid photopolymer resin onto a build tray; and with the completion of each layer, a UV light passes overhead, curing the resin. PolyJet is one of the few AM technologies that supports multiple types of material in a single build, including a wax-like support material that is washed away from the finished workpiece once it leaves the build chamber. This capability allows designers to create prototypes that combine two colors or durometers (hardness), making it ideal for flexible parts like gaskets and seals. PolyJet allows you to add overmolds to your designs, so you can get parts that incorporate multiple durometers. Materials Used in Resin 3D Printing These printers can also process resins that exhibit diverse properties, allowing them to be used in a wide range of applications. Among them are soft and squishy silicone-like materials, resins that become hard and heat-resistant like ceramic when cured, general-purpose workhorse resins that mimic ABS or polypropylene (PP), and polycarbonate-like resins that deliver clear or translucent parts with a high stiffness. By comparison, non-resin SLS and MJF printers are mainly limited to nylon and PP, while FDM can print a variety of thermoplastic materials, albeit at nowhere near the accuracy or speed of its competitors. It's important to note that resins require careful storage, typically away from light and at controlled temperatures. And because they contain volatile organic compounds (VOCs), they must be used in well-ventilated areas, and contact with human skin should also be avoided. Resins are generally more expensive than filament and powder and are often proprietary to the 3D printer manufacturer. But given the variety of available materials and robust physical characteristics, the cost delta is often secondary to product performance. Comparing Industrial and Desktop Resin 3D Printers Those reading this might look at the relatively low cost of desktop printers and wonder: why not take control of our prototyping destiny and buy our own machine? That's certainly possible and some companies have done just that, although many have quickly come to realize that industrial-grade printers typically provide higher precision and smoother surface finishes, not to mention significantly greater speed and build volumes. Industrial printers also offer a more comprehensive material selection than desktop machines. This is likely not a huge differentiator for basic prototype work, but where functional testing is concerned, getting as close to the end-use material as possible is critical. And again, whatever resins are used must be stored properly and consumed within their limited shelf life. But perhaps the biggest reason to “go industrial” is experience. One example of this comes from Daniel Lubiner, a special education teacher working with blind and low-vision children, who ran into problems taking his BrailleDoodle design from paper to prototype. After investing in several iterations that didn’t meet the device’s accuracy or surface finish requirements, he turned to us for help. The 3D printing team used industrial SLA to manufacture the prototype’s three main components from ABS-like plastic, some of which have features as small as 0.002 in. (0.0508mm). Another example? Medical device startup UVision360 leveraged micro-resolution SLA and MicroFine Green thermoset resin from Protolabs to build miniature parts for its Luminelle hysteroscopy system. Doing so helped the small company avoid roughly $250,000 in tooling costs and shaved months off the development cycle. In these and other cases, the companies could have assumed that investing a few thousand dollars in a desktop SLA printer would be “good enough” for their prototyping purposes. They would be wrong, however; as many novice users have found, there’s much more to successful 3D printing than the equipment, and it’s only through extensive experience and no small amount of trial by fire that companies master this deeply technical process. Outsourced vs. In-house 3D-Printing: Side-by-Side Comparison Advantages Disadvantages Outsourced 3D Printing More processes and materials available Greater production capacity Potentially longer lead time Higher unit price In-house 3D Printing Convenient No need to wait for a quote Fastest part delivery Limited in terms of part quality and accuracy, and material selection Workplace environmental considerations Upfront investment in machines Post-Processing for Resin 3D Prints Resin-based 3D printing technologies share several additional commonalities. Chief among them is the need for build supports, which must be removed after printing. As suggested earlier, support removal with the PolyJet process can be quite simple—just wash the parts—whereas DLS and SLA parts require a bit more effort, namely breaking away the supports and using a little sandpaper to smooth the resultant nub. Other potential post-processing options include vapor smoothing , dyeing, decaling, painting, and texturing, all of which are also available with Protolabs' other polymer 3D printing services. Note that not all of these finishing options are available for every printing process. Another thing to know is that DLS parts require additional thermal curing post-build, although this step is negligible time-wise in light of Carbon's greater speed. In summary, each of these resin-based 3D printing processes delivers high-quality parts with fine details and superior accuracy—the decision as to which one is most appropriate for your application depends on numerous factors, among them part size, quantity, material availability, and numerous other considerations that are best reviewed with one of our 3D printing experts. Email us at [email protected] or call 877-479-3680. By Alex Lothspeich, 3D printing applications engineer If you have any issues getting your guide, click here to download . Definitive Guide to 3D Printing Our comprehensive guide navigates the entire additive manufacturing process—from prototyping to production. United States of America Afghanistan Åland Islands Albania Algeria American Samoa Andorra Angola Anguilla Antarctica Antigua and Barbuda Argentina Armenia Aruba Australia Austria Azerbaijan Bahamas Bahrain Bangladesh Barbados Belarus Belgium Belize Benin Bermuda Bhutan Bolivia, Plurinational State of Bonaire, Sint Eustatius and Saba Bosnia and Herzegovina Botswana Bouvet Island Brazil British Indian Ocean Territory Brunei Darussalam Bulgaria Burkina Faso Burundi Cambodia Cameroon Canada Cape Verde Cayman Islands Central African Republic Chad Chile China Christmas Island Cocos (Keeling) Islands Colombia Comoros Congo Congo, the Democratic Republic of the Cook Islands Costa Rica Côte d'Ivoire Croatia Cuba Curaçao Cyprus Czech Republic Denmark Djibouti Dominica Dominican Republic Ecuador Egypt El Salvador Equatorial Guinea Eritrea Estonia Ethiopia Falkland Islands (Malvinas) Faroe Islands Fiji Finland France French Guiana French Polynesia French Southern Territories Gabon Gambia Georgia Germany Ghana Gibraltar Greece Greenland Grenada Guadeloupe Guam Guatemala Guernsey Guinea Guinea-Bissau Guyana Haiti Heard Island and McDonald Islands Holy See (Vatican City State) Honduras Hong Kong Hungary Iceland India Indonesia Iran, Islamic Republic of Iraq Ireland Isle of Man Israel Italy Jamaica Japan Jersey Jordan Kazakhstan Kenya Kiribati Korea, Democratic People's Republic of Korea, Republic of Kuwait Kyrgyzstan Lao People's Democratic Republic Latvia Lebanon Lesotho Liberia Libya Liechtenstein Lithuania Luxembourg Macao Macedonia, the Former Yugoslav Republic of Madagascar Malawi Malaysia Maldives Mali Malta Marshall Islands Martinique Mauritania Mauritius Mayotte Mexico Micronesia, Federated States of Moldova, Republic of Monaco Mongolia Montenegro Montserrat Morocco Mozambique Myanmar Namibia Nauru Nepal Netherlands New Caledonia New Zealand Nicaragua Niger Nigeria Niue Norfolk Island Northern Mariana Islands Norway Oman Pakistan Palau Palestine, State of Panama Papua New Guinea Paraguay Peru Philippines Pitcairn Poland Portugal Puerto Rico Qatar Réunion Romania Russian Federation Rwanda Saint Barthélemy Saint Helena, Ascension and Tristan da Cunha Saint Kitts and Nevis Saint Lucia Saint Martin (French part) Saint Pierre and Miquelon Saint Vincent and the Grenadines Samoa San Marino Sao Tome and Principe Saudi Arabia Senegal Serbia Seychelles Sierra Leone Singapore Sint Maarten (Dutch part) Slovakia Slovenia Solomon Islands Somalia South Africa South Georgia and the South Sandwich Islands South Sudan Spain Sri Lanka Sudan SuriName Svalbard and Jan Mayen Swaziland Sweden Switzerland Syrian Arab Republic Taiwan, Province of China Tajikistan Tanzania, United Republic of Thailand Timor-Leste Togo Tokelau Tonga Trinidad and Tobago Tunisia Turkey Turkmenistan Turks and Caicos Islands Tuvalu Uganda Ukraine United Arab Emirates United Kingdom United States Minor Outlying Islands Uruguay Uzbekistan Vanuatu Venezuela, Bolivarian Republic of Viet Nam Virgin Islands, British Virgin Islands, U.S. Wallis and Futuna Western Sahara Yemen Zambia Zimbabwe I agree to receive email messages containing service updates and Design Tips from Protolabs and its affiliates Download Guide You Might Also Like... Plastic 3D Printing What is Rapid Prototyping? SLA Materials Selection Guide",
+  "published_at": "",
+  "requested_url": "https://www.protolabs.com/resources/design-tips/resin-3d-printing",
+  "schema_version": 2,
+  "sections": [
+    {
+      "hash": "ed63109ee61e57a7852721b0dee797669907cf44",
+      "heading": "Resin 3D Printing: Use Cases and Key Benefits",
+      "level": "h1",
+      "text": "Resin 3D Printing: Use Cases and Key Benefits How does stereolithography and its several variants stack up against other polymer-based prototyping options?"
+    },
+    {
+      "hash": "d1bdc0c49f0eed0481a99380d62d0336ff1aa5f0",
+      "heading": "What is Resin 3D Printing?",
+      "level": "h2",
+      "text": "What is Resin 3D Printing? Resin 3D printing is an umbrella term used to describe additive manufacturing technologies that build parts from a liquid photopolymer resin that hardens or “cures” when exposed to a light source. Conversely, filament-based printers like FDM melt a spool of plastic filament feedstock to create parts layer-by-layer, while powder-based printers ( SLS and MJF ) fuse powder particles using a laser, fusing agents, or other heat source. We’ll explore the details behind the different resin-based processes shortly, but all share some common attributes. Chief among them are higher resolution and finer part details compared to filament or powder printers, with less of the “stair-stepping” common to 3D printing. This is due to precise control of the light source and the ability to generate thinner layers, thus leaving smoother finishes than the alternatives. In addition, these parts require less post-processing than those made via the other methods, reducing part cost and improving accuracy. Because of this, resin-based 3D printing is often the preferred method for parts with intricate designs, as well as small or miniature parts and those with fine features. Some..."
+    },
+    {
+      "hash": "8691faf35c931ed3dab0fadfe8813edaa3254363",
+      "heading": "How Do Different Resin 3D Printers Work?",
+      "level": "h2",
+      "text": "How Do Different Resin 3D Printers Work? Despite its many uses and applications, it’s important to understand the mechanics behind the different types of resin-based 3D printing. Here’s a brief outline of the available technologies, followed by some considerations for each:"
+    },
+    {
+      "hash": "719daac06ec5fcd4f2fdc494af15694c4abbf736",
+      "heading": "Stereolithography (SLA)",
+      "level": "h3",
+      "text": "Stereolithography (SLA) The grandfather of additive manufacturing, SLA has not sat on its 3D-printed laurels during the past 40 years, and today’s machines are much faster and more accurate than their predecessors. That said, all rely on an ultraviolet (UV) laser to trace the outline and interior of each layer, curing the liquid resin as it goes. Once each “slice” is complete, the build platform drops slightly, fresh resin is pulled across the cured surface, and the process repeats until the build is complete. Again, very fine detail is possible, albeit at lower speeds than the other resin-based processes."
+    },
+    {
+      "hash": "e8fdac04c03f4a1d116f076eeba2f434d77383b1",
+      "heading": "PolyJet",
+      "level": "h3",
+      "text": "PolyJet Imagine an inkjet printer that, instead of ink, deposits a liquid photopolymer resin onto a build tray; and with the completion of each layer, a UV light passes overhead, curing the resin. PolyJet is one of the few AM technologies that supports multiple types of material in a single build, including a wax-like support material that is washed away from the finished workpiece once it leaves the build chamber. This capability allows designers to create prototypes that combine two colors or durometers (hardness), making it ideal for flexible parts like gaskets and seals."
+    },
+    {
+      "hash": "27de1e13190f830b8a8de67e440f291c73ca85ef",
+      "heading": "Materials Used in Resin 3D Printing",
+      "level": "h2",
+      "text": "Materials Used in Resin 3D Printing These printers can also process resins that exhibit diverse properties, allowing them to be used in a wide range of applications. Among them are soft and squishy silicone-like materials, resins that become hard and heat-resistant like ceramic when cured, general-purpose workhorse resins that mimic ABS or polypropylene (PP), and polycarbonate-like resins that deliver clear or translucent parts with a high stiffness. By comparison, non-resin SLS and MJF printers are mainly limited to nylon and PP, while FDM can print a variety of thermoplastic materials, albeit at nowhere near the accuracy or speed of its competitors. It's important to note that resins require careful storage, typically away from light and at controlled temperatures. And because they contain volatile organic compounds (VOCs), they must be used in well-ventilated areas, and contact with human skin should also be avoided. Resins are generally more expensive than filament and powder and are often proprietary to the 3D printer manufacturer. But given the variety of available materials and robust physical characteristics, the cost delta is often secondary to product performance."
+    },
+    {
+      "hash": "cd7c14476186bb2fddc51d17704b8fa658c54f07",
+      "heading": "Comparing Industrial and Desktop Resin 3D Printers",
+      "level": "h2",
+      "text": "Comparing Industrial and Desktop Resin 3D Printers Those reading this might look at the relatively low cost of desktop printers and wonder: why not take control of our prototyping destiny and buy our own machine? That's certainly possible and some companies have done just that, although many have quickly come to realize that industrial-grade printers typically provide higher precision and smoother surface finishes, not to mention significantly greater speed and build volumes. Industrial printers also offer a more comprehensive material selection than desktop machines. This is likely not a huge differentiator for basic prototype work, but where functional testing is concerned, getting as close to the end-use material as possible is critical. And again, whatever resins are used must be stored properly and consumed within their limited shelf life. But perhaps the biggest reason to “go industrial” is experience. One example of this comes from Daniel Lubiner, a special education teacher working with blind and low-vision children, who ran into problems taking his BrailleDoodle design from paper to prototype. After investing in several iterations that didn’t meet the device’s accuracy or..."
+    },
+    {
+      "hash": "14c671b4f4fcd9886994c4e1025bc80664bc19a4",
+      "heading": "Outsourced vs. In-house 3D-Printing: Side-by-Side Comparison",
+      "level": "h3",
+      "text": "Outsourced vs. In-house 3D-Printing: Side-by-Side Comparison Advantages Disadvantages Outsourced 3D Printing More processes and materials available Greater production capacity Potentially longer lead time Higher unit price In-house 3D Printing Convenient No need to wait for a quote Fastest part delivery Limited in terms of part quality and accuracy, and material selection Workplace environmental considerations Upfront investment in machines"
+    },
+    {
+      "hash": "af109f5bfab0eb13591b9a03593c72dd04aeb81f",
+      "heading": "Post-Processing for Resin 3D Prints",
+      "level": "h2",
+      "text": "Post-Processing for Resin 3D Prints Resin-based 3D printing technologies share several additional commonalities. Chief among them is the need for build supports, which must be removed after printing. As suggested earlier, support removal with the PolyJet process can be quite simple—just wash the parts—whereas DLS and SLA parts require a bit more effort, namely breaking away the supports and using a little sandpaper to smooth the resultant nub. Other potential post-processing options include vapor smoothing , dyeing, decaling, painting, and texturing, all of which are also available with Protolabs' other polymer 3D printing services. Note that not all of these finishing options are available for every printing process. Another thing to know is that DLS parts require additional thermal curing post-build, although this step is negligible time-wise in light of Carbon's greater speed. In summary, each of these resin-based 3D printing processes delivers high-quality parts with fine details and superior accuracy—the decision as to which one is most appropriate for your application depends on numerous factors, among them part size, quantity, material availability, and numerous other consi..."
+    }
+  ],
+  "sitemap_lastmod": "2026-09-30T14:47:00+00:00",
+  "status": 200,
+  "structure_hash": "38e47f9a8e16d166da02d83216dcec85fd1c570f",
+  "text_excerpt": "Resin 3D Printing: Use Cases and Key Benefits How does stereolithography and its several variants stack up against other polymer-based prototyping options? Many people in the manufacturing industry associate the term “rapid prototyping” with the invention of stereolithography (SLA). First commercialized in 1986, this resin-based printing process soon became a favorite of product developers looking for fast and accurate 3D models of their designs. Competing technologies quickly followed using a variety of materials, including non-resins, and today, designers have a selection of rapid prototyping options at their disposal. Popular non-resin 3D printing technologies include fused deposition modeling (FDM), selective laser sintering (SLS), and Multi Jet Fusion (MJF), as well as several newer SLA variants. The question then becomes: Which one is best for my application? What is Resin 3D Printing? Resin 3D printing is an umbrella term used to describe additive manufacturing technologies that build parts from a liquid photopolymer resin that hardens or “cures” when exposed to a light source. Conversely, filament-based printers like FDM melt a spool of plastic filament feedstock to create...",
+  "text_hash": "10c199cd1bdcb0343238f29302b4d699b73c0ca4",
+  "title": "Resin 3D Printing: Use Cases and Key Benefits",
+  "url": "https://www.protolabs.com/resources/design-tips/resin-3d-printing"
+}
