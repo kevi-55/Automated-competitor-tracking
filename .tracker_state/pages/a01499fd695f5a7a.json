@@ -1,0 +1,243 @@
+{
+  "canonical": "https://www.hubs.com/knowledge-base/ul-94-classification-in-materials",
+  "category": "content",
+  "competitor": "Hubs",
+  "ctas": [
+    {
+      "href": "https://www.hubs.com/contact",
+      "text": "Contact"
+    },
+    {
+      "href": "https://www.hubs.com/manufacture?technology=cnc-machining",
+      "text": "Upload your CAD file"
+    }
+  ],
+  "discovered_via": "sitemap",
+  "fetched_at": "2026-10-02T06:59:23+00:00",
+  "final_url": "https://www.hubs.com/knowledge-base/ul-94-classification-in-materials",
+  "first_seen_at": "2026-10-02T06:59:23+00:00",
+  "h1": "",
+  "headings": [
+    {
+      "level": "h2",
+      "text": "The science of flame retardancy: How it works"
+    },
+    {
+      "level": "h2",
+      "text": "Understanding the UL 94 classification system"
+    },
+    {
+      "level": "h3",
+      "text": "Horizontal burning (HB)"
+    },
+    {
+      "level": "h3",
+      "text": "Vertical burning (V-0, V-1, V-2)"
+    },
+    {
+      "level": "h2",
+      "text": "Comparison table: UL 94 ratings at a glance"
+    },
+    {
+      "level": "h2",
+      "text": "Why part thickness matters for UL 94 ratings"
+    },
+    {
+      "level": "h2",
+      "text": "Flame retardant materials by manufacturing process"
+    },
+    {
+      "level": "h2",
+      "text": "Common industrial applications for FR plastics"
+    },
+    {
+      "level": "h2",
+      "text": "Get started"
+    },
+    {
+      "level": "h2",
+      "text": "Frequently asked questions"
+    },
+    {
+      "level": "h3",
+      "text": "What is UL 94?"
+    },
+    {
+      "level": "h3",
+      "text": "What’s the difference between UL 94 HB and UL 94 V-0?"
+    },
+    {
+      "level": "h3",
+      "text": "Which UL 94 rating is best?"
+    },
+    {
+      "level": "h3",
+      "text": "Why does wall thickness affect UL 94 ratings?"
+    },
+    {
+      "level": "h3",
+      "text": "Are flame-retardant plastics the same as heat-resistant plastics?"
+    },
+    {
+      "level": "h3",
+      "text": "What materials commonly achieve UL 94 V-0 ratings?"
+    },
+    {
+      "level": "h3",
+      "text": "What industries require UL 94-rated materials?"
+    },
+    {
+      "level": "h3",
+      "text": "What are flaming drips in UL 94 testing?"
+    },
+    {
+      "level": "h3",
+      "text": "Can a material's UL 94 rating change after manufacturing?"
+    },
+    {
+      "level": "h3",
+      "text": "How do I choose the right UL 94-rated material?"
+    }
+  ],
+  "images": [
+    {
+      "alt": "CNC machining, 3D printing and sheet metal fabrication parts",
+      "src": "/images/trans.gif"
+    }
+  ],
+  "meta_description": "Discover the flame retardant plastics we work with. These meet the claims in the UL 94 classification in materials. Upload your CAD file.",
+  "modified_at": "",
+  "monitored_text": "UL 94 classification in materials is the globally recognized standard for determining the tendency of plastic materials to either extinguish or spread flames once ignited. This classification system provides a critical safety benchmark for evaluating how polymers behave under thermal stress. Selecting the right material is often dependent on safety compliance rather than purely mechanical strength. The UL 94 standard does not measure simple heat resistance but rather focuses specifically on a material's ability to self-extinguish and prevent the spread of fire through flaming drips. By categorizing resins and filaments based on their reaction to standardized flame tests, you ensure that your components meet the strict safety requirements of your specific industry. The science of flame retardancy: How it works Materials achieve flame resistance through two primary additives. Some additives create a strong layer, which acts as a protective heat shield for the rest of the component. Others release free radicals that physically stop the chemical reaction that takes place in the fire. The carbon layer acts as a thermal barrier that slows the transfer of heat to the deeper, unburned polymer chains. This prevents further thermal degradation. There is a significant difference between materials like PEEK , which are inherently flame-resistant, and plastics like FR-ABS, which require additives to achieve flame resistance. While PEEK stays stable under heat on its own, ABS requires added chemicals to meet safety standards. Keep in mind that these additives can sometimes change how strong your part is or how it appears. Understanding the UL 94 classification system The UL 94 system is divided into two primary test orientations: horizontal (HB) and vertical (V). These positions determine how aggressively the flame interacts with the material. In a horizontal test, the flame moves across the surface, representing a lower safety threshold. In contrast, vertical testing is much more standardized, as the rising heat and flames directly attack the bulk of the material. By understanding these two orientations, you better interpret why a vertical rating is generally required for high-risk applications such as electrical housings. Horizontal burning (HB) The HB (Horizontal Burning) test represents the lowest level of flame resistance within the UL 94 classification of materials. During this procedure, a specimen is held horizontally and exposed to a flame for a specific duration. After this, the rate of combustion is carefully measured. Unlike the vertical tests, an HB rating does not require the material to self-extinguish. Instead, it simply confirms that the plastic burns slower than a predetermined limit based on its thickness. While this classification offers minimal protection against fire spread, it serves as a baseline for non-critical consumer products where fire hazards are negligible. Vertical burning (V-0, V-1, V-2) Vertical testing involves a significantly more demanding environment, where the material is positioned upright and exposed to a flame from below. This orientation is challenging because the upward heat flow accelerates combustion and encourages dripping. The resulting V-0, V-1, and V-2 ratings are determined by the total burn time and whether the material releases burning particles. While a V-2 rating allows for some flaming drips, a V-1 or V-0 rating demands higher stability. These classifications ensure that critical components, such as power supply housings, can effectively contain a fire and prevent it from migrating to surrounding components. At V-2, the material is allowed to drip (and ignite a cotton layer underneath). This is not suitable for V-1 ratings. This determines whether you as an engineer must design a drip tray in its housing. Comparison table: UL 94 ratings at a glance The following table provides a quick reference for comparing standard UL 94 ratings and their specific performance requirements. This information outlines the differences in test orientation, burn times, and drip behavior to help you identify the right safety level for your component. Use this summary to evaluate how different materials will behave in the event of ignition. Rating Orientation Self-extinguishes? Flaming drips allowed? HB Horizontal No (slow burn rate) Yes V-2 Vertical Yes (<30s) Yes (can ignite cotton) V-1 Vertical Yes (<30s) No V-0 Vertical Yes (<10s) No Why part thickness matters for UL 94 ratings When specifying a material for flame resistance, it is important to consult the material datasheet for the minimum wall thickness required to achieve a specific rating. A polymer that is rated V-0 at a thickness of 3.0 millimeters, may only meet V-2 or even HB standards when designed with a 1.0 millimeter wall. Because thinner sections have less mass to dissipate heat, they tend to ignite more easily and burn more rapidly. Thinner walls also have less thermal mass. They are less able to dissipate heat from a flame to the rest of the part. As a result, the local temperature rises to the ignition point faster. Always verify that your piece’s thinnest geometry aligns with the certified thickness listed by the manufacturer to ensure that the final product remains fully compliant. Flame retardant materials by manufacturing process Protolabs Network offers several materials that meet the strict UL 94 standards, across different manufacturing processes. 3D printing , ULTEM 9085 ( FDM ) and PA 2241 FR ( SLS ) are the primary high-performance choices. If your project requires CNC machining, PEEK or PTFE provide inherent resistance, while FR-Nylon is a reliable treated option. For high-volume injection molding, Polycarbonate-FR and specialized Polyamides are frequently used for electrical housings. Regardless of the method, always verify that the wall thickness of your products meets the minimum requirements stated on the material datasheet to ensure the final product remains fully compliant with safety regulations. Common industrial applications for FR plastics Regulatory compliance is the primary driver for material selection in specialized sections. In aerospace for instance, meeting FAA requirements often needs UL 94 V-0 or 5VA ratings to ensure passenger safety. For EV batteries, materials must prevent thermal runaway. This makes flame-retardant polymers essential for cell spacers and enclosures. Similarly, consumer electronics demand strict adherence to safety codes to prevent fire hazards in high-density PCB housings. Whether you’re navigating aerospace certifications or consumer safety laws, choosing the correct UL 94-rated material is non-negotiable for market entry. Get started Contact our experts today to finalize your material selection. Do you need support with your project? Upload your CAD file and we will help you as soon as possible. Subscribe Get the latest manufacturing news delivered to your mailbox. Sign up for our newsletter Sign me up Please enter a valid email address. Leave this field empty Thanks! You're now subscribed to our newsletter. Frequently asked questions What is UL 94? UL 94 is an internationally recognized flammability standard that classifies plastic materials based on how they react when exposed to a flame. It evaluates factors such as burn rate, self-extinguishing behavior, and flaming drips. What’s the difference between UL 94 HB and UL 94 V-0? HB is the lowest flame-resistance rating and measures the horizontal burn rate of a material. V-0 is a much stricter vertical rating that requires the material to self-extinguish within 10 seconds without producing flaming drips. Which UL 94 rating is best? V-0 is generally considered the most desirable rating among the common UL 94 classifications because it offers the highest level of flame-retardant performance and self-extinguishing capability. Why does wall thickness affect UL 94 ratings? Flame-retardant performance depends on part thickness. A material that achieves a V-0 rating at a thicker section may only meet V-2 or HB requirements at a thinner wall thickness. Are flame-retardant plastics the same as heat-resistant plastics? No. Heat resistance describes a material's ability to withstand elevated temperatures, while flame retardancy measures how a material behaves when exposed to a flame and whether it can self-extinguish or not. What materials commonly achieve UL 94 V-0 ratings? Common UL 94 V-0 materials include flame-retardant grades of polycarbonate, nylon, and certain high-performance engineering plastics designed for electrical and industrial applications. What industries require UL 94-rated materials? UL 94-rated materials are commonly used in aerospace, electric vehicles, consumer electronics, industrial equipment, and electrical enclosures where fire safety and regulatory compliance are critical. What are flaming drips in UL 94 testing? Flaming drips are burning droplets that fall from a material during testing. Higher UL 94 ratings, such as V-1 and V-0, limit or prohibit flaming drips because they can spread fire to nearby components. Can a material's UL 94 rating change after manufacturing? The certified UL 94 rating remains valid only when the material is processed according to the manufacturer's specifications, including minimum wall thickness requirements. Design changes can affect real-world flame performance. How do I choose the right UL 94-rated material? Material selection should consider the required flammability rating, operating environment, wall thickness, manufacturing process, and any industry-specific regulations.",
+  "published_at": "",
+  "requested_url": "https://www.hubs.com/knowledge-base/ul-94-classification-in-materials",
+  "schema_version": 2,
+  "sections": [
+    {
+      "hash": "9e017fc0b70762c52a3ea9e6d0898b60d0173b46",
+      "heading": "The science of flame retardancy: How it works",
+      "level": "h2",
+      "text": "The science of flame retardancy: How it works Materials achieve flame resistance through two primary additives. Some additives create a strong layer, which acts as a protective heat shield for the rest of the component. Others release free radicals that physically stop the chemical reaction that takes place in the fire. The carbon layer acts as a thermal barrier that slows the transfer of heat to the deeper, unburned polymer chains. This prevents further thermal degradation. There is a significant difference between materials like PEEK , which are inherently flame-resistant, and plastics like FR-ABS, which require additives to achieve flame resistance. While PEEK stays stable under heat on its own, ABS requires added chemicals to meet safety standards. Keep in mind that these additives can sometimes change how strong your part is or how it appears."
+    },
+    {
+      "hash": "82e77661a6e690b7b004c6ae247345871f486219",
+      "heading": "Understanding the UL 94 classification system",
+      "level": "h2",
+      "text": "Understanding the UL 94 classification system The UL 94 system is divided into two primary test orientations: horizontal (HB) and vertical (V). These positions determine how aggressively the flame interacts with the material. In a horizontal test, the flame moves across the surface, representing a lower safety threshold. In contrast, vertical testing is much more standardized, as the rising heat and flames directly attack the bulk of the material. By understanding these two orientations, you better interpret why a vertical rating is generally required for high-risk applications such as electrical housings."
+    },
+    {
+      "hash": "1f9d612e2b4325175ae9196211264cb307da3b2b",
+      "heading": "Horizontal burning (HB)",
+      "level": "h3",
+      "text": "Horizontal burning (HB) The HB (Horizontal Burning) test represents the lowest level of flame resistance within the UL 94 classification of materials. During this procedure, a specimen is held horizontally and exposed to a flame for a specific duration. After this, the rate of combustion is carefully measured. Unlike the vertical tests, an HB rating does not require the material to self-extinguish. Instead, it simply confirms that the plastic burns slower than a predetermined limit based on its thickness. While this classification offers minimal protection against fire spread, it serves as a baseline for non-critical consumer products where fire hazards are negligible."
+    },
+    {
+      "hash": "1da42c032d2c6da7c8741166b0812c8d0725c1b6",
+      "heading": "Vertical burning (V-0, V-1, V-2)",
+      "level": "h3",
+      "text": "Vertical burning (V-0, V-1, V-2) Vertical testing involves a significantly more demanding environment, where the material is positioned upright and exposed to a flame from below. This orientation is challenging because the upward heat flow accelerates combustion and encourages dripping. The resulting V-0, V-1, and V-2 ratings are determined by the total burn time and whether the material releases burning particles. While a V-2 rating allows for some flaming drips, a V-1 or V-0 rating demands higher stability. These classifications ensure that critical components, such as power supply housings, can effectively contain a fire and prevent it from migrating to surrounding components. At V-2, the material is allowed to drip (and ignite a cotton layer underneath). This is not suitable for V-1 ratings. This determines whether you as an engineer must design a drip tray in its housing."
+    },
+    {
+      "hash": "6aa511b7ceae7d0373723b5d0d6198240cf11090",
+      "heading": "Comparison table: UL 94 ratings at a glance",
+      "level": "h2",
+      "text": "Comparison table: UL 94 ratings at a glance The following table provides a quick reference for comparing standard UL 94 ratings and their specific performance requirements. This information outlines the differences in test orientation, burn times, and drip behavior to help you identify the right safety level for your component. Use this summary to evaluate how different materials will behave in the event of ignition."
+    },
+    {
+      "hash": "01f417de11a0d036fa8b281b2a1b2acaef2ac1ea",
+      "heading": "Why part thickness matters for UL 94 ratings",
+      "level": "h2",
+      "text": "Why part thickness matters for UL 94 ratings When specifying a material for flame resistance, it is important to consult the material datasheet for the minimum wall thickness required to achieve a specific rating. A polymer that is rated V-0 at a thickness of 3.0 millimeters, may only meet V-2 or even HB standards when designed with a 1.0 millimeter wall. Because thinner sections have less mass to dissipate heat, they tend to ignite more easily and burn more rapidly. Thinner walls also have less thermal mass. They are less able to dissipate heat from a flame to the rest of the part. As a result, the local temperature rises to the ignition point faster. Always verify that your piece’s thinnest geometry aligns with the certified thickness listed by the manufacturer to ensure that the final product remains fully compliant."
+    },
+    {
+      "hash": "c481fb0ade6142981dc673dd9be81053fbb157e6",
+      "heading": "Flame retardant materials by manufacturing process",
+      "level": "h2",
+      "text": "Flame retardant materials by manufacturing process Protolabs Network offers several materials that meet the strict UL 94 standards, across different manufacturing processes. 3D printing , ULTEM 9085 ( FDM ) and PA 2241 FR ( SLS ) are the primary high-performance choices. If your project requires CNC machining, PEEK or PTFE provide inherent resistance, while FR-Nylon is a reliable treated option. For high-volume injection molding, Polycarbonate-FR and specialized Polyamides are frequently used for electrical housings. Regardless of the method, always verify that the wall thickness of your products meets the minimum requirements stated on the material datasheet to ensure the final product remains fully compliant with safety regulations."
+    },
+    {
+      "hash": "1d30413c518031d1af3210bca46afe2353caffe6",
+      "heading": "Common industrial applications for FR plastics",
+      "level": "h2",
+      "text": "Common industrial applications for FR plastics Regulatory compliance is the primary driver for material selection in specialized sections. In aerospace for instance, meeting FAA requirements often needs UL 94 V-0 or 5VA ratings to ensure passenger safety. For EV batteries, materials must prevent thermal runaway. This makes flame-retardant polymers essential for cell spacers and enclosures. Similarly, consumer electronics demand strict adherence to safety codes to prevent fire hazards in high-density PCB housings. Whether you’re navigating aerospace certifications or consumer safety laws, choosing the correct UL 94-rated material is non-negotiable for market entry."
+    },
+    {
+      "hash": "2634a1a91a66e0a941d413a2774abb70742642f5",
+      "heading": "Get started",
+      "level": "h2",
+      "text": "Get started Contact our experts today to finalize your material selection. Do you need support with your project? Upload your CAD file and we will help you as soon as possible."
+    },
+    {
+      "hash": "02842b08377539be654ab1179cf41e1d947c4424",
+      "heading": "Frequently asked questions",
+      "level": "h2",
+      "text": "Frequently asked questions Frequently asked questions"
+    },
+    {
+      "hash": "7dc0cdefa9e39e9a0773cbeee47dbb4b6d683958",
+      "heading": "What is UL 94?",
+      "level": "h3",
+      "text": "What is UL 94? UL 94 is an internationally recognized flammability standard that classifies plastic materials based on how they react when exposed to a flame. It evaluates factors such as burn rate, self-extinguishing behavior, and flaming drips."
+    },
+    {
+      "hash": "1240b8253f9170710e18bc689a500cb6756bc380",
+      "heading": "What’s the difference between UL 94 HB and UL 94 V-0?",
+      "level": "h3",
+      "text": "What’s the difference between UL 94 HB and UL 94 V-0? HB is the lowest flame-resistance rating and measures the horizontal burn rate of a material. V-0 is a much stricter vertical rating that requires the material to self-extinguish within 10 seconds without producing flaming drips."
+    },
+    {
+      "hash": "3eab6e00ce9af4d7c9b939c9d38784894f33ef96",
+      "heading": "Which UL 94 rating is best?",
+      "level": "h3",
+      "text": "Which UL 94 rating is best? V-0 is generally considered the most desirable rating among the common UL 94 classifications because it offers the highest level of flame-retardant performance and self-extinguishing capability."
+    },
+    {
+      "hash": "91450ba0936daba5469498e837e5e38929aefab4",
+      "heading": "Why does wall thickness affect UL 94 ratings?",
+      "level": "h3",
+      "text": "Why does wall thickness affect UL 94 ratings? Flame-retardant performance depends on part thickness. A material that achieves a V-0 rating at a thicker section may only meet V-2 or HB requirements at a thinner wall thickness."
+    },
+    {
+      "hash": "6a29e15fe54f5710505b5287eeb544248f5da64a",
+      "heading": "Are flame-retardant plastics the same as heat-resistant plastics?",
+      "level": "h3",
+      "text": "Are flame-retardant plastics the same as heat-resistant plastics? No. Heat resistance describes a material's ability to withstand elevated temperatures, while flame retardancy measures how a material behaves when exposed to a flame and whether it can self-extinguish or not."
+    },
+    {
+      "hash": "1a61be79af71275fbca430790e3f11c11068c2fc",
+      "heading": "What materials commonly achieve UL 94 V-0 ratings?",
+      "level": "h3",
+      "text": "What materials commonly achieve UL 94 V-0 ratings? Common UL 94 V-0 materials include flame-retardant grades of polycarbonate, nylon, and certain high-performance engineering plastics designed for electrical and industrial applications."
+    },
+    {
+      "hash": "f436248b4a7a5af247c7bf689b282204a0064ad0",
+      "heading": "What industries require UL 94-rated materials?",
+      "level": "h3",
+      "text": "What industries require UL 94-rated materials? UL 94-rated materials are commonly used in aerospace, electric vehicles, consumer electronics, industrial equipment, and electrical enclosures where fire safety and regulatory compliance are critical."
+    },
+    {
+      "hash": "93b2c64f16ed4fde3190e1ed6514090e72a6ddf1",
+      "heading": "What are flaming drips in UL 94 testing?",
+      "level": "h3",
+      "text": "What are flaming drips in UL 94 testing? Flaming drips are burning droplets that fall from a material during testing. Higher UL 94 ratings, such as V-1 and V-0, limit or prohibit flaming drips because they can spread fire to nearby components."
+    },
+    {
+      "hash": "40166530b077153d5e2192ae9ed480dfcd491e20",
+      "heading": "Can a material's UL 94 rating change after manufacturing?",
+      "level": "h3",
+      "text": "Can a material's UL 94 rating change after manufacturing? The certified UL 94 rating remains valid only when the material is processed according to the manufacturer's specifications, including minimum wall thickness requirements. Design changes can affect real-world flame performance."
+    },
+    {
+      "hash": "4ce1efde48e07e7c11ed1e3a899ef672e3a6f22d",
+      "heading": "How do I choose the right UL 94-rated material?",
+      "level": "h3",
+      "text": "How do I choose the right UL 94-rated material? Material selection should consider the required flammability rating, operating environment, wall thickness, manufacturing process, and any industry-specific regulations."
+    }
+  ],
+  "sitemap_lastmod": "2026-10-01T11:03:49+00:00",
+  "status": 200,
+  "structure_hash": "d7e9352fb8a579ddd6993e9d28038345c4e10ea3",
+  "text_excerpt": "UL 94 classification in materials is the globally recognized standard for determining the tendency of plastic materials to either extinguish or spread flames once ignited. This classification system provides a critical safety benchmark for evaluating how polymers behave under thermal stress. Selecting the right material is often dependent on safety compliance rather than purely mechanical strength. The UL 94 standard does not measure simple heat resistance but rather focuses specifically on a material's ability to self-extinguish and prevent the spread of fire through flaming drips. By categorizing resins and filaments based on their reaction to standardized flame tests, you ensure that your components meet the strict safety requirements of your specific industry. The science of flame retardancy: How it works Materials achieve flame resistance through two primary additives. Some additives create a strong layer, which acts as a protective heat shield for the rest of the component. Others release free radicals that physically stop the chemical reaction that takes place in the fire. The carbon layer acts as a thermal barrier that slows the transfer of heat to the deeper, unburned pol...",
+  "text_hash": "dc1c6219933bfe544d32d5ce11062673d5e228f7",
+  "title": "UL 94 classification in materials: A guide to flame retardant plastics | Protolabs Network",
+  "url": "https://www.hubs.com/knowledge-base/ul-94-classification-in-materials"
+}
