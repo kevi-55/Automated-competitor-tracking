@@ -124,6 +124,7 @@
       "https://www.fictiv.com/capabilities",
       "https://www.fictiv.com/resources",
       "https://www.fictiv.com/articles",
+      "https://www.fictiv.com/articles/turret-punching-laser-cutting-and-combination-guide",
       "https://www.fictiv.com/articles/fictiv-cnc-machining-design-guide",
       "https://www.fictiv.com/articles/aerospace-manufacturing-guide",
       "https://www.fictiv.com/case-studies/battlebots-valkyrie",
@@ -143,30 +144,15 @@
       "https://www.fictiv.com/articles/dfs-design-for-sustainability",
       "https://www.fictiv.com/articles/6-axis-cnc-machining",
       "https://www.fictiv.com/articles/fictiv-named-one-of-fast-companys-2026-best-workplaces-for-innovators",
+      "https://www.fictiv.com/articles/food-grade-3dp-manufacturing",
+      "https://www.fictiv.com/articles/progressive-sheet-metal-stamping",
       "https://www.fictiv.com/materials/cnc-machining-bronze",
+      "https://www.fictiv.com/materials/cnc-machining-garolite-g-10",
+      "https://www.fictiv.com/materials/cnc-machining-cast-iron",
       "https://www.fictiv.com/materials/acrylic-cnc",
-      "https://www.fictiv.com/articles/pilot-production-manufacturing",
-      "https://www.fictiv.com/articles/metal-parts-manufacturing",
-      "https://www.fictiv.com/articles/dfm-design-for-manufacturing-guide",
-      "https://www.fictiv.com/articles/common-tolerance-mistakes-and-how-to-fix",
-      "https://www.fictiv.com/articles/injection-molding-cycle-time",
       "https://www.fictiv.com/articles/engineering-fits-clearance-transition-interference",
-      "https://www.fictiv.com/articles/mro-parts-reverse-engineering-guide",
-      "https://www.fictiv.com/articles/custom-and-standard-components-single-source-bom",
-      "https://www.fictiv.com/articles/doing-better-than-good-how-whill-is-redefining-the-wheelchair",
-      "https://www.fictiv.com/articles/accelerating-through-success-start-local-scale-global",
-      "https://www.fictiv.com/articles/manufacturing-simplicity-how-an-innovative-firm-is-redefining-the-everyday",
-      "https://www.fictiv.com/articles/how-one-startup-harnessed-the-sunand-taught-people-how-to-fish-off-grid-electric-spotlight",
-      "https://www.fictiv.com/articles/evtol-aircraft-components-custom-vs-standard-parts",
-      "https://www.fictiv.com/articles/ai-powered-digital-manufacturing-platforms-for-engineers",
-      "https://www.fictiv.com/articles/semiconductor-equipment-manufacturing",
-      "https://www.fictiv.com/articles/prototyping-cost-process-pricing",
-      "https://www.fictiv.com/articles/prototyping-lead-time-process-timelines-and-how-to-reduce-delays",
-      "https://www.fictiv.com/articles/simulation-vs-reality-hardware-development",
-      "https://www.fictiv.com/articles/ai-data-center-infrastructure-design",
-      "https://www.fictiv.com/articles/how-to-design-snap-fit-components",
-      "https://www.fictiv.com/articles/the-zen-of-product-design-how-lockitron-let-go-of-the-extraneous-and-non-essential",
-      "https://www.fictiv.com/articles/exploring-ductility-its-importance-in-engineering-and-material-science"
+      "https://www.fictiv.com/articles/mro-inventory-management-jit-strategy",
+      "https://www.fictiv.com/articles/5-options-for-building-large-scale-prototypes"
     ],
     "Hubs": [
       "https://www.hubs.com/cnc-machining",
@@ -740,8 +726,8 @@
       "https://www.xometry.com/resources/case-studies/partner-m3-aerospace",
       "https://www.xometry.com/resources/sheet/roll-forming",
       "https://www.xometry.com/resources/data-center/data-center-security",
-      "https://www.xometry.com/resources/data-center/server-rack",
       "https://www.xometry.com/resources/data-center/data-center-storage",
+      "https://www.xometry.com/resources/data-center/server-rack",
       "https://www.xometry.com/resources/data-center/raised-floor",
       "https://www.xometry.com/resources/materials/fractography",
       "https://www.xometry.com/resources/case-studies/uvm",
@@ -783,8 +769,8 @@
       "https://www.xometry.com/resources/3d-printing/full-color-3d-printing",
       "https://www.xometry.com/resources/materials/polycarbonate-vs-abs",
       "https://www.xometry.com/resources/materials/what-is-pla",
-      "https://www.xometry.com/resources/materials/7075-aluminum-alloy",
       "https://www.xometry.com/resources/materials/6061-aluminum-alloy",
+      "https://www.xometry.com/resources/materials/7075-aluminum-alloy",
       "https://www.xometry.com/resources/machining/sinker-edm-machining",
       "https://www.xometry.com/resources/3d-printing/types-of-3d-printer-filaments",
       "https://www.xometry.com/resources/3d-printing/3d-printing-stl-files",
@@ -874,15 +860,8 @@
       "https://quote.emachineshop.com/emachineshop/widget/upload"
     ]
   },
-  "last_run_at": "2026-10-02T07:14:00+00:00",
+  "last_run_at": "2026-10-03T06:37:27+00:00",
   "runs": [
-    {
-      "errors": 7,
-      "events": 679,
-      "finished_at": "2026-08-04T04:41:44+00:00",
-      "mode": "daily",
-      "run_id": "20260804T042828Z"
-    },
     {
       "errors": 7,
       "events": 712,
@@ -1295,6 +1274,13 @@
       "finished_at": "2026-10-02T07:14:00+00:00",
       "mode": "daily",
       "run_id": "20261002T065826Z"
+    },
+    {
+      "errors": 112,
+      "events": 24,
+      "finished_at": "2026-10-03T06:37:27+00:00",
+      "mode": "daily",
+      "run_id": "20261003T062540Z"
     }
   ],
   "schema_version": 2
