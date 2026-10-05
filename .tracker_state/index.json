@@ -195,9 +195,16 @@
       "https://www.fictiv.com/articles/doing-better-than-good-how-whill-is-redefining-the-wheelchair",
       "https://www.fictiv.com/articles/built-tough-built-loud-the-development-story-behind-the-loudest-speaker-on-the-market",
       "https://www.fictiv.com/articles/accelerating-through-success-start-local-scale-global",
+      "https://www.fictiv.com/articles/manufacturing-simplicity-how-an-innovative-firm-is-redefining-the-everyday",
       "https://www.fictiv.com/articles/how-one-startup-harnessed-the-sunand-taught-people-how-to-fish-off-grid-electric-spotlight",
       "https://www.fictiv.com/articles/3d-tlc-best-practices-at-one-of-the-bay-areas-top-3d-print-shops",
       "https://www.fictiv.com/articles/getting-intimate-with-your-prototype-lioness-spotlight",
+      "https://www.fictiv.com/articles/how-to-work-with-community-and-come-out-with-a-product-thats-better-not-worse",
+      "https://www.fictiv.com/articles/large-format-3d-printing",
+      "https://www.fictiv.com/articles/lpdc-low-pressure-die-casting",
+      "https://www.fictiv.com/articles/evtol-aircraft-components-custom-vs-standard-parts",
+      "https://www.fictiv.com/articles/how-to-prototype-rubber-designs",
+      "https://www.fictiv.com/articles/practical-guide-to-prototype-testing",
       "https://www.fictiv.com/articles/fictiv-receives-2026-supplytech-breakthrough-award",
       "https://www.fictiv.com/articles/infographic-4-manufacturing-predictions-for-2021",
       "https://www.fictiv.com/articles/how-to-accelerate-your-engineering-builds-and-ensure-you-get-parts-that-fit",
@@ -938,15 +945,8 @@
       "https://quote.emachineshop.com/emachineshop/widget/upload"
     ]
   },
-  "last_run_at": "2026-10-04T07:03:45+00:00",
+  "last_run_at": "2026-10-05T07:13:28+00:00",
   "runs": [
-    {
-      "errors": 7,
-      "events": 635,
-      "finished_at": "2026-08-06T04:39:26+00:00",
-      "mode": "daily",
-      "run_id": "20260806T042631Z"
-    },
     {
       "errors": 7,
       "events": 584,
@@ -1359,6 +1359,13 @@
       "finished_at": "2026-10-04T07:03:45+00:00",
       "mode": "daily",
       "run_id": "20261004T064940Z"
+    },
+    {
+      "errors": 27,
+      "events": 73,
+      "finished_at": "2026-10-05T07:13:28+00:00",
+      "mode": "daily",
+      "run_id": "20261005T065743Z"
     }
   ],
   "schema_version": 2
