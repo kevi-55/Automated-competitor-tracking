@@ -124,6 +124,7 @@
       "https://www.fictiv.com/capabilities",
       "https://www.fictiv.com/resources",
       "https://www.fictiv.com/articles",
+      "https://www.fictiv.com/articles/misumi-americas-launches-misumi-ventures",
       "https://www.fictiv.com/articles/turret-punching-laser-cutting-and-combination-guide",
       "https://www.fictiv.com/articles/fictiv-cnc-machining-design-guide",
       "https://www.fictiv.com/articles/aerospace-manufacturing-guide",
@@ -138,7 +139,6 @@
       "https://www.fictiv.com/ebooks/cnc-to-casting-design-guide/thank-you",
       "https://www.fictiv.com/articles/precision-grinding-guide",
       "https://www.fictiv.com/articles/medical-device-cnc-machining",
-      "https://www.fictiv.com/articles/misumi-americas-launches-misumi-ventures",
       "https://www.fictiv.com/articles/flame-retardant-plastics-ul-94-guide",
       "https://www.fictiv.com/articles/us-manufacturing-reaches-record-workforce-gap",
       "https://www.fictiv.com/articles/dfs-design-for-sustainability",
@@ -486,6 +486,7 @@
       "https://www.pcbway.com/blog/News/PCBWay_Plug_In_for_KiCad_3ea6219c.html",
       "https://www.pcbway.com/blog/Tapping/Threaded_Holes_in_CNC_Machining_Thread_Types_Depth_and_Design_Tips_4496b79a.html",
       "https://www.pcbway.com/blog/CNC_Machining/Electrical_Discharge_Machining_EDM_Process_Types_Technical_Guide_3f35da5a.html",
+      "https://www.pcbway.com/blog/News/Meet_the_Winners_of_PCBWay_s_12th_Badge_Design_Contest_cfe34a25.html",
       "https://www.pcbway.com/blog/PCBWay_Store/PCBWay_Store_NewArrival_Product_M5Stack_NanoC6_Dev_Kit_ef45c758.html",
       "https://www.pcbway.com/blog/PCB_Design_Layout/Power_Supply_Design_and_Layout_Guidelines_for_LDO_and_DCDC_b194d0e8.html",
       "https://www.pcbway.com/blog/Welding/Welded_Sheet_Metal_Parts_Design_Guidelines_a79851e3.html",
@@ -548,10 +549,6 @@
       "https://www.pcbway.com/blog/PCB_Design_Layout/Why_ICs_Fail_After_Passing_ESD_Tests_and_How_ESD_Differs_from_EOS_76c788f8.html",
       "https://www.pcbway.com/blog?tag=ESD+protection",
       "https://www.pcbway.com/blog?tag=esd+protection+circuit",
-      "https://www.pcbway.com/blog/PCB_Design_Layout/PCB_Layout_Guide_to_Interface_Driver_and_Connector_Placement_0a973124.html",
-      "https://www.pcbway.com/blog?tag=interface+driver",
-      "https://www.pcbway.com/blog?tag=PCB+connector+placement",
-      "https://www.pcbway.com/blog?tag=interface+PCB+design",
       "https://www.pcbway.com/blog/Activities/Submit_for_Publication___Now_I_Write_Articles_in_PCBWay.html",
       "https://www.pcbway.com/blog/Engineering_Technical",
       "https://www.pcbway.com/blog/help_center/How_to_Use_Payoneer_to_Pay_for_Orders_a72bb66b.html",
@@ -596,7 +593,9 @@
       "https://www.pcbway.com/rapid-prototyping/Sheet-metal/sheet-cutting.html",
       "https://www.pcbway.com/rapid-prototyping/Sheet-metal/bending.html",
       "https://www.pcbway.com/rapid-prototyping/Sheet-metal/countersink-counterbore.html",
-      "https://www.pcbway.com/rapid-prototyping/Sheet-metal/hardware-insertion.html"
+      "https://www.pcbway.com/rapid-prototyping/Sheet-metal/hardware-insertion.html",
+      "https://www.pcbway.com/rapid-prototyping/Sheet-metal/tapping.html",
+      "https://www.pcbway.com/rapid-prototyping/Sheet-metal/welding.html"
     ],
     "Protolabs": [
       "https://www.protolabs.com/services/3d-printing",
@@ -605,6 +604,7 @@
       "https://www.protolabs.com/services/injection-molding",
       "https://www.protolabs.com/resources",
       "https://www.protolabs.com/services",
+      "https://www.protolabs.com/resources/guides-and-trend-reports/rapid-prototyping-processes",
       "https://www.protolabs.com/resources/events-trade-shows",
       "https://www.protolabs.com/resources/guides-and-trend-reports/reducing-component-weight-for-automotive-applications",
       "https://www.protolabs.com/resources/design-tips/resin-3d-printing",
@@ -717,8 +717,7 @@
       "https://www.protolabs.com/resources/design-tips/integrating-hardware-into-sheet-metal",
       "https://www.protolabs.com/resources/partnerships/lockheed-martin-and-nasa",
       "https://www.protolabs.com/resources/partnerships/hemosonics",
-      "https://www.protolabs.com/resources/partnerships/parker-hannifin",
-      "https://www.protolabs.com/resources/partnerships/purpl"
+      "https://www.protolabs.com/resources/partnerships/parker-hannifin"
     ],
     "SyBridge": [
       "https://sybridge.com/",
@@ -945,15 +944,8 @@
       "https://quote.emachineshop.com/emachineshop/widget/upload"
     ]
   },
-  "last_run_at": "2026-10-05T07:13:28+00:00",
+  "last_run_at": "2026-10-06T07:46:26+00:00",
   "runs": [
-    {
-      "errors": 7,
-      "events": 584,
-      "finished_at": "2026-08-07T04:16:05+00:00",
-      "mode": "daily",
-      "run_id": "20260807T040257Z"
-    },
     {
       "errors": 7,
       "events": 783,
@@ -1366,6 +1358,13 @@
       "finished_at": "2026-10-05T07:13:28+00:00",
       "mode": "daily",
       "run_id": "20261005T065743Z"
+    },
+    {
+      "errors": 28,
+      "events": 92,
+      "finished_at": "2026-10-06T07:46:26+00:00",
+      "mode": "daily",
+      "run_id": "20261006T073054Z"
     }
   ],
   "schema_version": 2
