@@ -1,0 +1,926 @@
+{
+  "mode": "daily",
+  "date": "2026-10-10",
+  "subject": "[Competitor Tracking] 日报 2026-10-10 · 2 篇新内容，23 项变化",
+  "generated_at": "2026-10-10T15:15:02+08:00",
+  "events": [
+    {
+      "type": "monitor_health",
+      "priority": "high",
+      "competitor": "Fictiv",
+      "url": "https://www.fictiv.com/",
+      "category": "system",
+      "page_title": "监控健康告警",
+      "summary": "抓取失败率过高",
+      "details": [
+        "尝试页面：120",
+        "失败页面：80",
+        "失败率：66.7%"
+      ],
+      "before": null,
+      "after": null,
+      "added": [],
+      "removed": [],
+      "change_percent": 0.0,
+      "confidence": "high"
+    },
+    {
+      "type": "new_content",
+      "priority": "high",
+      "competitor": "Fictiv",
+      "url": "https://www.fictiv.com/articles/anisotropic-vs-isotropic-materials",
+      "category": "content",
+      "page_title": "Anisotropic vs. Isotropic Materials for Engineers: A Manufacturing Guide",
+      "summary": "新发布内容：Anisotropic vs. Isotropic Materials for Engineers: A Manufacturing Guide",
+      "details": [
+        "标题：Anisotropic vs. Isotropic Materials for Engineers: A Manufacturing Guide",
+        "实际发布时间：2026-10-09",
+        "系统首次发现：2026-10-10",
+        "发现延迟：0 天"
+      ],
+      "before": null,
+      "after": null,
+      "added": [],
+      "removed": [],
+      "change_percent": 0.0,
+      "confidence": "high",
+      "published_at": "2026-10-09T23:24:34+00:00",
+      "first_seen_at": "2026-10-10T07:04:13+00:00",
+      "discovered_via": "feed"
+    },
+    {
+      "type": "new_content",
+      "priority": "high",
+      "competitor": "Fictiv",
+      "url": "https://www.fictiv.com/articles/surgical-robotics-hardware-manufacturing",
+      "category": "content",
+      "page_title": "Surgical Robotics Hardware Manufacturing Guide | Fictiv",
+      "summary": "新发布内容：Surgical Robotics Hardware Manufacturing Guide | Fictiv",
+      "details": [
+        "标题：Surgical Robotics Hardware Manufacturing Guide | Fictiv",
+        "实际发布时间：2026-10-09",
+        "系统首次发现：2026-10-10",
+        "发现延迟：0 天"
+      ],
+      "before": null,
+      "after": null,
+      "added": [],
+      "removed": [],
+      "change_percent": 0.0,
+      "confidence": "high",
+      "published_at": "2026-10-09T22:45:20+00:00",
+      "first_seen_at": "2026-10-10T07:04:14+00:00",
+      "discovered_via": "feed"
+    },
+    {
+      "type": "content_changed",
+      "priority": "high",
+      "competitor": "JLC CNC",
+      "url": "https://jlccnc.com/blog/cnc-vs-traditional-machining",
+      "category": "content",
+      "page_title": "How Does CNC Machining Differ From Traditional Machining Methods?",
+      "summary": "页面正文发生可定位的变化",
+      "details": [],
+      "before": "Blog Knowledge Hub Materials Design & Engineering Manufacturing Services Blog Blog Knowledge Hub Fundamental knowledge covering CNC machining and sheet metal fabrication. CNC Machining Fundamentals Core CNC machining principles, cutting mechanics, and machine basics. CNC Machines & Equipment Overview of CNC machines and supporting fabrication equipment. Sheet Metal Fabrication Forming, cutting, bending, and joining fundamentals. Tools & Cutting Instruments Cutting tools, tool materials, and forming instruments. Surface Finishing Processes Finishes and treatments for machined and formed parts. Knowledge Hub Materials Material properties, machining behavior, and forming suitability. Plastics for CNC Plastic materials, machining behavior, and use cases. Metals for CNC Metal properties, machinability, and forming suitability. Material Selection Guide Choose materials based on performance, cost, and manufacturability. Materials Design & Engineering Technical design guidance for CNC parts and sheet metal components. CAD & CAM Software Modeling, toolpaths, and sheet metal design workflows. Design Tips & Best Practices Practical guidelines for manufacturable CNC and formed parts. CNC Programming G-code, programming logic, and machining strategies. Design & Engineering Manufacturing Services Process explanations, workflows, and manufacturing guidance. Custom Projects & Gifts Creative, personalized projects using machining and fabrication. Industry Use Cases Applications across engineering, consumer products, and industrial sectors. Manufacturing Solutions Process choices, workflows, and production guidance. Manufacturing Services Blog Blog Home Blog Knowledge Hub CNC Machining Fundamentals How Does CNC Machining Differ From Traditional Machining Methods? Published Dec 29, 2023, updated Sep 15, 2026 8 min Table of Contents What \"Traditional Machining\" Means What CNC Machining Changes Direct Comparison Where CNC Machining Genuinely Wins Where Traditional Machining Still Makes Sense Cost and How to Choose A Common Misconception Worth Correcting FAQ Have a Part That Needs CNC Machining? How Does CNC Machining Differ From Traditional Machining Methods? Quick Answer: Choose CNC machining when repeatability, complex geometry, tight feature relationships, or production quantity justify programming and setup. Choose traditional or manual machining for simple one-off parts, repairs, and highly variable work where a skilled operator can work directly from a sample or drawing. The right choice depends on geometry, tolerance, quantity, and available data. A machinist trained on manual lathes and mills can absolutely produce precise parts — plenty of skilled work still gets done that way. But hand someone a drawing calling for five hundred identical brackets, each holding a tolerance of a few thousandths of an inch, and the practical difference between CNC and traditional machining stops being academic. Both processes use fundamentally the same cutting principles — a tool removes material from a workpiece — but how that motion gets controlled changes almost everything else about what each is actually good for. Precision CNC Machining Service Professional manufacturing, fast turnaround, and quality assurance. Get Instant Quote What \"Traditional Machining\" Means Conventional or traditional machining covers turning, milling, drilling, grinding, and sawing operations where a human operator directly controls the tool's motion — hand cranks, levers, and dials guiding the cut in real time, with the operator's skill and judgment determining accuracy. It's not an outdated or inferior process; it's a manually-controlled version of the same underlying material-removal principles CNC machining automates. What CNC Machining Changes CNC (Computer Numerical Control) machining replaces that manual control with pre-programmed instructions — a G-code program dictates exactly where the tool moves, how fast, and in what sequence, and the machine executes it without an operator adjusting the cut in real time. The core cutting physics are unchanged; what's automated is the control and repeatability of the motion. Direct Comparison Factor Traditional Machining CNC Machining Control Manual, operator-guided Computer-programmed Repeatability Varies with operator skill and fatigue Consistent across a run — though still affected by tool wear, thermal drift, and fixturing over long runs Typical tolerance Around ±0.1mm and looser, operator-dependent Tighter than manual work, commonly cited around ±0.01–0.05mm depending on equipment, material, and inspection — not a universal guarantee for any given shop Setup time for a new part Often faster for a single simple part Requires programming, but reusable for repeat runs Production speed Bounded by operator pace per part Faster per part once running, especially across a repeat batch Cost structure Closer to linear with labor time per part, no programming overhead Upfront programming and setup cost that amortizes across the run Best suited volume One-off, low volume, highly custom work Low volume through high volume production Operator skill required High — direct hands-on control High, but different — programming and setup, not real-time cutting control Complex geometry Limited by what's practical to control manually Handles complex 3D geometry reliably via CAM-generated toolpaths The tolerance figures above are typical reference ranges, not fixed capabilities of any specific machine or shop — actual achievable tolerance on either process depends on the equipment, workholding, tooling, material, and inspection method involved. Where CNC Machining Genuinely Wins Repeatability is the clearest advantage — a CNC program produces a much more consistent result on part 500 than it did on part 1, in a way manual machining struggles to match, since manual accuracy depends on operator consistency across an entire run and fatigue or attention lapses are a real factor at volume. That said, CNC doesn't eliminate variation entirely — it significantly reduces variation introduced by manual motion control, but tool wear, thermal drift in the machine and workpiece, and fixturing still affect a long CNC run and need to be managed with process controls and inspection, not assumed away. Complex geometry that would be impractical to hold manually — coordinated multi-axis toolpaths, precise contoured surfaces — is typically impractical or uneconomical to produce by hand, since manually controlling that many simultaneous variables accurately at any consistent rate isn't realistic for most shops. Tight tolerances held consistently across a production run are also a CNC strength, since the process meaningfully reduces the operator variability that shows up run after run in manual work. Where Traditional Machining Still Makes Sense This is the part that often gets glossed over: traditional machining isn't simply an inferior, older version of CNC. For a genuine one-off part — a single custom fitting, a repair part with no digital file and no plan to make a second one — setting up and programming a CNC job can take longer than a skilled machinist simply cutting the part by hand. Small job shops and repair work, where the next job rarely resembles the last one, often favor manual equipment specifically because there's no setup or programming overhead to justify. Highly experienced machinists can also make real-time adjustments mid-cut in response to how the material is actually behaving — reading chip formation, sound, and vibration — in a way that requires deliberate sensor-based process monitoring to replicate on a CNC setup. A worn-out part on decades-old equipment, with no CAD file and no plan to ever make a second one, is a common example — a skilled machinist measuring the original and cutting a replacement by hand is often faster and cheaper than modeling it, programming it, and verifying a CNC job for a single part that will never be ordered again. And for extremely simple features on a single part, the overhead of writing and verifying a CNC program can genuinely exceed just cutting it by hand. Cost and How to Choose CNC machining's upfront cost — programming, CAM work, first-article verification — doesn't pay off on a true one-off; it amortizes across a production run. Traditional machining's cost structure is closer to linear with labor time per part, without that upfront investment, but without CNC's scaling advantage either. Exactly where the crossover sits between the two isn't a fixed quantity — it depends on how the specific job's programming time, fixturing setup, first-article verification, cycle time, labor rate, geometric complexity, and order quantity all combine. A simple part might favor traditional machining even at a moderate quantity if it's easy for a skilled machinist to hold by hand; a complex part can favor CNC even at very low volume, if manually holding that geometry's accuracy consistently would take a skilled machinist longer per part than programming and running it on a CNC machine. Rather than anchoring on a specific unit count, the more reliable approach is weighing those factors against the actual part and quantity in question — which is exactly what an engineering review before quoting is for. A Common Misconception Worth Correcting Framing this as CNC machining having simply \"replaced\" traditional machining industry-wide oversimplifies what actually happened. CNC dominates high-volume, high-precision, and complex-geometry production for good reason, but traditional machining hasn't disappeared — it persists specifically where its lack of setup overhead and real-time adjustability genuinely outperform CNC's strengths: true one-offs, repair work, and highly variable small-shop jobs. The right framing isn't \"which one won,\" it's \"which one fits this specific job's volume, complexity, and variability.\" FAQ Is CNC machining always more precise than traditional machining? Generally yes in terms of consistency across a run — CNC significantly reduces the variation introduced by manual motion control. A highly skilled machinist can achieve comparable precision on a single part manually, but holding that same precision consistently across many parts is where CNC's advantage becomes clear. Is traditional machining cheaper than CNC for small jobs? Often, for a true one-off or very low quantity — CNC's programming and setup overhead doesn't amortize on a single part the way it does across a production run, and a skilled machinist can sometimes cut a simple one-off part manually faster than programming and verifying a CNC job for it. There's no fixed quantity where this flips; it depends on the part's complexity and the specific job's setup requirements. Do machinists still need to learn traditional machining skills if CNC is more common? Many shops consider it valuable — understanding manual machining builds an intuitive sense of cutting forces, tool behavior, and material response that translates into better CNC programming and troubleshooting, even for machinists who primarily work on CNC equipment. Can traditional machining achieve the same complex geometry as CNC? Not reliably for genuinely complex 3D geometry — coordinating multiple simultaneous axes accurately by hand isn't practical the way a CNC program executes it. Traditional machining is better suited to simpler geometry where manual control is sufficient to hold the required accuracy. Have a Part That Needs CNC Machining? For a production run, a complex geometry, or anything needing tight tolerances held consistently across multiple parts, CNC is generally the more practical route — and getting a clear picture of cost and feasibility starts with an actual quote against your design. Engineering Review : Manufacturability feedback with every quote Multi-Axis Capability : 3-, 4-, and 5-axis CNC milling for complex geometry Fast Quotes : Upload your 3D CAD files (.STEP / .IGES) for a rapid review and quote Popular Articles Cutting with Precision: A Comprehensive Guide to CNC Water Jet Technology • Cutting with Precision: A Comprehensive Guide to CNC Water Jet Technology CNC Coolant Explained: Types, Maintenance & Safety • CNC Coolant Explained: Types, Maintenance & Safety Rake Angle in Machining: Machinists’ Guide to Perfect Cuts • Rake Angle in Machining: Machinists’ Guide to Perfect Cuts How EDM Wire Cutting Works: Complete Guide to Precision CNC Wire Cutting • How EDM Wire Cutting Works: Complete Guide to Precision CNC Wire Cutting Keep Learning What Is EDM? How Electrical Discharge Machining Works What Is EDM (Electrical Discharge Machining)? How It Works & Applications A mold shop needs to cut a cavity into hardened tool steel — the kind of material that would dull a carbide end mill before the cut is even halfway done. A medical device maker needs a slot 0.05mm wide in a titanium component, thinner than most drill bits can even produce. Neither job is solvable with a spinning cutting tool, because the material is either too hard, the geometry too fine, or both. That's the gap EDM was built to...... Wire EDM Machine: Types, Specs & How to Choose One Wire EDM Machine: Types, Specs & How to Choose One Our guide on how EDM wire cutting works covers the process itself — the spark erosion, the dielectric fluid, the tolerances the technique can hold. This one is about the machine that runs that process: what actually differentiates one wire EDM machine from another, and what matters when you're evaluating or specifying one. 💡 Need Precision Wire EDM Services? Understanding machine specs is crucial, but actually running them takes experience. At JLCCNC...... Titanium CNC Machining: Properties, Challenges & Best Practices Titanium CNC Machining: Properties, Challenges & Best Practices A shop that's comfortable machining aluminum all day can still get caught off guard the first time a titanium job comes through. The part looks the same on the CAD screen, the toolpath strategy looks reasonable, and then the tool overheats, work-hardens the surface it just cut, and the finish comes out nothing like what aluminum would have produced at the same settings. Titanium isn't just \"harder aluminum\" — it behaves differently enough...... High Volume CNC Machining: What Changes When You Scale Production High Volume CNC Machining: What Changes When You Scale Production Ten prototypes and ten thousand production parts are not the same problem wearing different clothes. A process that works fine for a handful of pieces — a bit of manual deburring here, a quick visual check there, tooling that gets swapped whenever it feels a little dull — falls apart the moment volume multiplies by a thousand. High volume CNC machining isn't just \"the same thing, more of it.\" It's a different set of priorities, where de...... PTFE CNC Machining: Properties, Applications & Best Practices PTFE CNC Machining: Properties, Applications & Best Practices PTFE — better known by the DuPont trade name Teflon — is a strange material to put on a CNC machine. It's soft, it barely holds a sharp edge itself, and it deforms under clamping pressure in ways that would ruin tolerance on almost any other engineering plastic. And yet it gets machined constantly, because nothing else offers PTFE's combination of an almost unbelievably low coefficient of friction and near-universal chemical resistance. Mac...... PEEK CNC Machining: Properties, Applications & Best Practices PEEK CNC Machining: Properties, Applications & Best Practices Most plastics get chosen for CNC machining because they're easy to cut and cheap enough that the ease doesn't matter much either way. PEEK gets chosen for the opposite reason — it's genuinely difficult and expensive to machine, and engineers spec it anyway because nothing else in the plastic world does what it does at the temperatures and loads it's asked to handle. Understanding why PEEK earns that reputation, and what it actually takes to...... Table of Contents What \"Traditional Machining\" Means What CNC Machining Changes Direct Comparison Where CNC Machining Genuinely Wins Where Traditional Machining Still Makes Sense Cost and How to Choose A Common Misconception Worth Correcting FAQ Have a Part That Needs CNC Machining? Popular Articles Cutting with Precision: A Comprehensive Guide to CNC Water Jet Technology • Cutting with Precision: A Comprehensive Guide to CNC Water Jet Technology CNC Coolant Explained: Types, Maintenance & Safety • CNC Coolant Explained: Types, Maintenance & Safety Rake Angle in Machining: Machinists’ Guide to Perfect Cuts • Rake Angle in Machining: Machinists’ Guide to Perfect Cuts How EDM Wire Cutting Works: Complete Guide to Precision CNC Wire Cutting • How EDM Wire Cutting Works: Complete Guide to Precision CNC Wire Cutting",
+      "after": "Blog Knowledge Hub Materials Design & Engineering Manufacturing Services Blog Blog Knowledge Hub Fundamental knowledge covering CNC machining and sheet metal fabrication. CNC Machining Fundamentals Core CNC machining principles, cutting mechanics, and machine basics. CNC Machines & Equipment Overview of CNC machines and supporting fabrication equipment. Sheet Metal Fabrication Forming, cutting, bending, and joining fundamentals. Tools & Cutting Instruments Cutting tools, tool materials, and forming instruments. Surface Finishing Processes Finishes and treatments for machined and formed parts. Knowledge Hub Materials Material properties, machining behavior, and forming suitability. Plastics for CNC Plastic materials, machining behavior, and use cases. Metals for CNC Metal properties, machinability, and forming suitability. Material Selection Guide Choose materials based on performance, cost, and manufacturability. Materials Design & Engineering Technical design guidance for CNC parts and sheet metal components. CAD & CAM Software Modeling, toolpaths, and sheet metal design workflows. Design Tips & Best Practices Practical guidelines for manufacturable CNC and formed parts. CNC Programming G-code, programming logic, and machining strategies. Design & Engineering Manufacturing Services Process explanations, workflows, and manufacturing guidance. Custom Projects & Gifts Creative, personalized projects using machining and fabrication. Industry Use Cases Applications across engineering, consumer products, and industrial sectors. Manufacturing Solutions Process choices, workflows, and production guidance. Manufacturing Services Blog Blog Home Blog Knowledge Hub CNC Machining Fundamentals How Does CNC Machining Differ From Traditional Machining Methods? Published Dec 29, 2023, updated Sep 15, 2026 8 min Table of Contents What \"Traditional Machining\" Means What CNC Machining Changes Direct Comparison Where CNC Machining Genuinely Wins Where Traditional Machining Still Makes Sense Cost and How to Choose A Common Misconception Worth Correcting FAQ Have a Part That Needs CNC Machining? How Does CNC Machining Differ From Traditional Machining Methods? Quick Answer: Choose CNC machining when repeatability, complex geometry, tight feature relationships, or production quantity justify programming and setup. Choose traditional or manual machining for simple one-off parts, repairs, and highly variable work where a skilled operator can work directly from a sample or drawing. The right choice depends on geometry, tolerance, quantity, and available data. A machinist trained on manual lathes and mills can absolutely produce precise parts — plenty of skilled work still gets done that way. But hand someone a drawing calling for five hundred identical brackets, each holding a tolerance of a few thousandths of an inch, and the practical difference between CNC and traditional machining stops being academic. Both processes use fundamentally the same cutting principles — a tool removes material from a workpiece — but how that motion gets controlled changes almost everything else about what each is actually good for. Precision CNC Machining Service Professional manufacturing, fast turnaround, and quality assurance. Get Instant Quote What \"Traditional Machining\" Means Conventional or traditional machining covers turning, milling, drilling, grinding, and sawing operations where a human operator directly controls the tool's motion — hand cranks, levers, and dials guiding the cut in real time, with the operator's skill and judgment determining accuracy. It's not an outdated or inferior process; it's a manually-controlled version of the same underlying material-removal principles CNC machining automates. What CNC Machining Changes CNC (Computer Numerical Control) machining replaces that manual control with pre-programmed instructions — a G-code program dictates exactly where the tool moves, how fast, and in what sequence, and the machine executes it without an operator adjusting the cut in real time. The core cutting physics are unchanged; what's automated is the control and repeatability of the motion. Direct Comparison Factor Traditional Machining CNC Machining Control Manual, operator-guided Computer-programmed Repeatability Varies with operator skill and fatigue Consistent across a run — though still affected by tool wear, thermal drift, and fixturing over long runs Typical tolerance Around ±0.1mm and looser, operator-dependent Tighter than manual work, commonly cited around ±0.01–0.05mm depending on equipment, material, and inspection — not a universal guarantee for any given shop Setup time for a new part Often faster for a single simple part Requires programming, but reusable for repeat runs Production speed Bounded by operator pace per part Faster per part once running, especially across a repeat batch Cost structure Closer to linear with labor time per part, no programming overhead Upfront programming and setup cost that amortizes across the run Best suited volume One-off, low volume, highly custom work Low volume through high volume production Operator skill required High — direct hands-on control High, but different — programming and setup, not real-time cutting control Complex geometry Limited by what's practical to control manually Handles complex 3D geometry reliably via CAM-generated toolpaths The tolerance figures above are typical reference ranges, not fixed capabilities of any specific machine or shop — actual achievable tolerance on either process depends on the equipment, workholding, tooling, material, and inspection method involved. Where CNC Machining Genuinely Wins Repeatability is the clearest advantage — a CNC program produces a much more consistent result on part 500 than it did on part 1, in a way manual machining struggles to match, since manual accuracy depends on operator consistency across an entire run and fatigue or attention lapses are a real factor at volume. That said, CNC doesn't eliminate variation entirely — it significantly reduces variation introduced by manual motion control, but tool wear, thermal drift in the machine and workpiece, and fixturing still affect a long CNC run and need to be managed with process controls and inspection, not assumed away. Complex geometry that would be impractical to hold manually — coordinated multi-axis toolpaths, precise contoured surfaces — is typically impractical or uneconomical to produce by hand, since manually controlling that many simultaneous variables accurately at any consistent rate isn't realistic for most shops. Tight tolerances held consistently across a production run are also a CNC strength, since the process meaningfully reduces the operator variability that shows up run after run in manual work. Where Traditional Machining Still Makes Sense This is the part that often gets glossed over: traditional machining isn't simply an inferior, older version of CNC. For a genuine one-off part — a single custom fitting, a repair part with no digital file and no plan to make a second one — setting up and programming a CNC job can take longer than a skilled machinist simply cutting the part by hand. Small job shops and repair work, where the next job rarely resembles the last one, often favor manual equipment specifically because there's no setup or programming overhead to justify. Highly experienced machinists can also make real-time adjustments mid-cut in response to how the material is actually behaving — reading chip formation, sound, and vibration — in a way that requires deliberate sensor-based process monitoring to replicate on a CNC setup. A worn-out part on decades-old equipment, with no CAD file and no plan to ever make a second one, is a common example — a skilled machinist measuring the original and cutting a replacement by hand is often faster and cheaper than modeling it, programming it, and verifying a CNC job for a single part that will never be ordered again. And for extremely simple features on a single part, the overhead of writing and verifying a CNC program can genuinely exceed just cutting it by hand. Cost and How to Choose CNC machining's upfront cost — programming, CAM work, first-article verification — doesn't pay off on a true one-off; it amortizes across a production run. Traditional machining's cost structure is closer to linear with labor time per part, without that upfront investment, but without CNC's scaling advantage either. Exactly where the crossover sits between the two isn't a fixed quantity — it depends on how the specific job's programming time, fixturing setup, first-article verification, cycle time, labor rate, geometric complexity, and order quantity all combine. A simple part might favor traditional machining even at a moderate quantity if it's easy for a skilled machinist to hold by hand; a complex part can favor CNC even at very low volume, if manually holding that geometry's accuracy consistently would take a skilled machinist longer per part than programming and running it on a CNC machine. Rather than anchoring on a specific unit count, the more reliable approach is weighing those factors against the actual part and quantity in question — which is exactly what an engineering review before quoting is for. A Common Misconception Worth Correcting Framing this as CNC machining having simply \"replaced\" traditional machining industry-wide oversimplifies what actually happened. CNC dominates high-volume, high-precision, and complex-geometry production for good reason, but traditional machining hasn't disappeared — it persists specifically where its lack of setup overhead and real-time adjustability genuinely outperform CNC's strengths: true one-offs, repair work, and highly variable small-shop jobs. The right framing isn't \"which one won,\" it's \"which one fits this specific job's volume, complexity, and variability.\" FAQ Is CNC machining always more precise than traditional machining? Generally yes in terms of consistency across a run — CNC significantly reduces the variation introduced by manual motion control. A highly skilled machinist can achieve comparable precision on a single part manually, but holding that same precision consistently across many parts is where CNC's advantage becomes clear. Is traditional machining cheaper than CNC for small jobs? Often, for a true one-off or very low quantity — CNC's programming and setup overhead doesn't amortize on a single part the way it does across a production run, and a skilled machinist can sometimes cut a simple one-off part manually faster than programming and verifying a CNC job for it. There's no fixed quantity where this flips; it depends on the part's complexity and the specific job's setup requirements. Do machinists still need to learn traditional machining skills if CNC is more common? Many shops consider it valuable — understanding manual machining builds an intuitive sense of cutting forces, tool behavior, and material response that translates into better CNC programming and troubleshooting, even for machinists who primarily work on CNC equipment. Can traditional machining achieve the same complex geometry as CNC? Not reliably for genuinely complex 3D geometry — coordinating multiple simultaneous axes accurately by hand isn't practical the way a CNC program executes it. Traditional machining is better suited to simpler geometry where manual control is sufficient to hold the required accuracy. Have a Part That Needs CNC Machining? For a production run, a complex geometry, or anything needing tight tolerances held consistently across multiple parts, CNC is generally the more practical route — and getting a clear picture of cost and feasibility starts with an actual quote against your design. Engineering Review : Manufacturability feedback with every quote Multi-Axis Capability : 3-, 4-, and 5-axis CNC milling for complex geometry Fast Quotes : Upload your 3D CAD files (.STEP / .IGES) for a rapid review and quote Popular Articles Cutting with Precision: A Comprehensive Guide to CNC Water Jet Technology • Cutting with Precision: A Comprehensive Guide to CNC Water Jet Technology CNC Coolant Explained: Types, Maintenance & Safety • CNC Coolant Explained: Types, Maintenance & Safety Rake Angle in Machining: Machinists’ Guide to Perfect Cuts • Rake Angle in Machining: Machinists’ Guide to Perfect Cuts How EDM Wire Cutting Works: Complete Guide to Precision CNC Wire Cutting • How EDM Wire Cutting Works: Complete Guide to Precision CNC Wire Cutting Keep Learning CNC Automation: Systems, Software, and Manufacturing Solutions Explained Key Takeaways • CNC automation combines machine tools, software, and material handling into a system that reduces direct labor per part and improves process consistency. • The core components are the CNC machine, the control software, and whatever handles part movement, robot, conveyor, pallet system, or some combination. • Automation doesn't eliminate the need for skilled engineers and machinists. It shifts where their time goes, from operating machines to programming, setting up, and maintaining sys...... What Is Tempering? Metal Tempering Process and Applications Key Takeaways In conventional quench-and-temper treatment, tempering reheats previously hardened steel below its lower critical temperature. Temperature and holding time affect the final mechanical properties. Tempered steel is used for tools, gears, shafts, and loaded components. CNC planning must account for heat-treatment distortion and final tolerances. Tempering differs from quenching, annealing, and normalizing in purpose and sequence. Tempering steel parts in an industrial furnace Hardening giv...... Sheet Metal vs CNC Machining: A Guide to Choosing the Right Method for Your Metal Parts Sheet Metal vs CNC Machining: How to Choose the Right Method for Your Metal Parts Quick Answer: Choose sheet metal for uniform-thickness enclosures, panels, and formed brackets when bends and production volume support lower unit cost. Choose CNC machining for variable wall thickness, precision bores, tight feature relationships, and complex 3D geometry. Use a hybrid design when a formed structure needs precision-machined interfaces. A quote comes back for a bracket, and it's priced as a CNC part — mac...... How Precise Is CNC Machining Compared To Other Manufacturing Methods? How Precise Is CNC Machining Compared to Other Manufacturing Methods? Quick Answer: CNC machining generally holds tighter tolerances than forming, casting, and most additive processes, because it removes material directly rather than relying on shrinkage, springback, or layer deposition. But \"how precise\" depends on the specific process variant, material, geometry, and inspection method — there's no single number that applies across an entire process category. A part spec calls for a tolerance of ±0.0...... CNC Milling vs. CNC Turning: Which is Better? CNC Milling vs. CNC Turning: Which Process Fits Your Part? Quick Answer: Choose CNC milling for prismatic, flat, pocketed, and complex 3D parts. Choose CNC turning for parts whose primary geometry is cylindrical or rotationally symmetric. Use mill-turn or secondary milling when a turned part also needs flats, keyways, cross-holes, or other non-round features. A shaft and a bracket can come from the same material, hold similar tolerances, and still need completely different machines to make — not becau...... How Does CNC Machining Differ From Traditional Machining Methods? How Does CNC Machining Differ From Traditional Machining Methods? Quick Answer: Choose CNC machining when repeatability, complex geometry, tight feature relationships, or production quantity justify programming and setup. Choose traditional or manual machining for simple one-off parts, repairs, and highly variable work where a skilled operator can work directly from a sample or drawing. The right choice depends on geometry, tolerance, quantity, and available data. A machinist trained on manual lathes ...... Table of Contents What \"Traditional Machining\" Means What CNC Machining Changes Direct Comparison Where CNC Machining Genuinely Wins Where Traditional Machining Still Makes Sense Cost and How to Choose A Common Misconception Worth Correcting FAQ Have a Part That Needs CNC Machining? Popular Articles Cutting with Precision: A Comprehensive Guide to CNC Water Jet Technology • Cutting with Precision: A Comprehensive Guide to CNC Water Jet Technology CNC Coolant Explained: Types, Maintenance & Safety • CNC Coolant Explained: Types, Maintenance & Safety Rake Angle in Machining: Machinists’ Guide to Perfect Cuts • Rake Angle in Machining: Machinists’ Guide to Perfect Cuts How EDM Wire Cutting Works: Complete Guide to Precision CNC Wire Cutting • How EDM Wire Cutting Works: Complete Guide to Precision CNC Wire Cutting",
+      "added": [
+        "CNC Automation: Systems, Software, and Manufacturing Solutions Explained Key Takeaways • CNC automation combines machine tools, software, and material handling into a system that reduces direct labor per part and improves process consistency. • The core components are the CNC machine, the control software, and whatever handles part movement, robot, conveyor...",
+        "Tempering? Metal Tempering Process and",
+        "Key Takeaways In conventional quench-and-temper treatment, tempering reheats previously hardened steel below its lower critical temperature. Temperature and holding time affect the final mechanical properties. Tempered steel is used for tools, gears, shafts, and loaded components. CNC planning must account for heat-treatment distortion and final tolerances....",
+        "Guide",
+        "Choosing"
+      ],
+      "removed": [
+        "EDM? How Electrical Discharge Machining Works What Is EDM (Electrical Discharge Machining)? How It Works &",
+        "mold shop needs",
+        "cut a cavity into hardened tool steel —",
+        "kind of material that would dull a carbide end mill before the cut is even halfway done. A medical device maker needs a slot 0.05mm wide in a titanium component, thinner than most drill bits can even produce. Neither job is solvable with a spinning cutting tool, because the material is either too hard, the geometry too fine, or both. That's the gap EDM was...",
+        "One Wire EDM Machine: Types, Specs &"
+      ],
+      "change_percent": 39.48,
+      "confidence": "high",
+      "published_at": "2025-12-26T00:00:00+00:00",
+      "first_seen_at": "2026-08-17T03:50:43+00:00",
+      "discovered_via": "sitemap"
+    },
+    {
+      "type": "content_changed",
+      "priority": "high",
+      "competitor": "JLC CNC",
+      "url": "https://jlccnc.com/blog/what-is-a-cnc-lathe",
+      "category": "content",
+      "page_title": "What Is a CNC Lathe? Everything You Need to Know About CNC Lathing",
+      "summary": "页面正文发生可定位的变化",
+      "details": [],
+      "before": "Blog Knowledge Hub Materials Design & Engineering Manufacturing Services Blog Blog Knowledge Hub Fundamental knowledge covering CNC machining and sheet metal fabrication. CNC Machining Fundamentals Core CNC machining principles, cutting mechanics, and machine basics. CNC Machines & Equipment Overview of CNC machines and supporting fabrication equipment. Sheet Metal Fabrication Forming, cutting, bending, and joining fundamentals. Tools & Cutting Instruments Cutting tools, tool materials, and forming instruments. Surface Finishing Processes Finishes and treatments for machined and formed parts. Knowledge Hub Materials Material properties, machining behavior, and forming suitability. Plastics for CNC Plastic materials, machining behavior, and use cases. Metals for CNC Metal properties, machinability, and forming suitability. Material Selection Guide Choose materials based on performance, cost, and manufacturability. Materials Design & Engineering Technical design guidance for CNC parts and sheet metal components. CAD & CAM Software Modeling, toolpaths, and sheet metal design workflows. Design Tips & Best Practices Practical guidelines for manufacturable CNC and formed parts. CNC Programming G-code, programming logic, and machining strategies. Design & Engineering Manufacturing Services Process explanations, workflows, and manufacturing guidance. Custom Projects & Gifts Creative, personalized projects using machining and fabrication. Industry Use Cases Applications across engineering, consumer products, and industrial sectors. Manufacturing Solutions Process choices, workflows, and production guidance. Manufacturing Services Blog Blog Home Blog Knowledge Hub CNC Machining Fundamentals What Is a CNC Lathe? Everything You Need to Know About CNC Lathing Published Nov 30, 2025, updated Nov 29, 2025 11 min Table of Contents Understanding CNC Lathes How CNC Lathe Machines Work Common Types of CNC Lathe Machines CNC Lathe vs Other CNC Machines How Much Does a CNC Lathe Cost? Applications of CNC Lathes FAQ (AI-generated) CNC lathes remain one of the most important machine types in modern manufacturing, powering industries from automotive to aerospace with accuracy, speed, and repeatability. If you're researching CNC lathing for your next project—or comparing CNC lathe machines, CNC machine lathes, or even trying to understand what is a CNC lathe —this guide gives you everything you need to make informed decisions. And if you're looking for fast, reliable machining services, JLCCNC provides high-precision CNC turning and milling with instant quoting and a wide selection of materials to support both prototyping and production. Understanding CNC Lathes Definition and Key Components of a CNC Lathe A CNC lathe is a computer-controlled machine tool designed to rotate a workpiece while cutting tools remove material to create cylindrical or conical geometries. Unlike manual lathes, CNC lathe machines operate through programmed commands, ensuring consistent dimensions even across large production batches. A typical CNC lathe machine includes: Headstock : houses the spindle that rotates the part Chuck : grips the material Tool turret : holds multiple CNC tools Bed & carriage : provide machine rigidity Control system : executes CNC turning programs Tailstock (optional): supports long workpieces These elements work together to deliver smooth, accurate cutting, making CNC lathing suitable for both simple shafts and highly complex components. Differences Between CNC Lathes and Conventional Lathes Conventional lathes require manual adjustments, which slows down production and introduces human error. A CNC machine lathe, by contrast, runs automated toolpaths defined in G-code. The benefits include: Faster cycle times Higher precision and repeatability Better safety Ability to handle complex geometries Automated multi-tool operations For manufacturers needing accuracy within microns or consistent production day after day, CNC lathes outperform manual machines in every category. Core Advantages of CNC Lathing CNC lathing offers several strong advantages: Superior roundness and concentricity for rotational parts Excellent surface finish due to continuous cutting Strong material compatibility , including aluminum, steel, stainless steel, copper, brass, plastics, and more Great scalability , from prototypes to mass production Tight tolerances , often ±0.005 mm on high-end systems These strengths explain why CNC lathe machines remain foundational in nearly all manufacturing sectors. How CNC Lathe Machines Work (AI-generated) Overview of the Lathing Process The CNC lathing process begins by mounting raw material—typically a bar or billet—into the chuck. As the spindle rotates the workpiece, CNC cutting tools move linearly along X and Z axes to remove material and create the desired geometry. CNC lathing is especially efficient for: Shafts Pins Bushings Sleeves Threads Custom cylindrical forms Because the workpiece rotates while the tool moves, the process is optimized for parts where diameter features dominate. CNC Programming Basics for Turning Operations At the heart of every CNC lathe machine is a program composed of G-code and M-code . These commands tell the machine: How fast to the spindle rotate How quickly do cutting tools feed into the material Which tools to activate What path should the tool follow Programs are often written manually for simple parts or generated with CAD/CAM software for complex geometries. Understanding these fundamentals is essential for efficient CNC lathing. Motion Control and Spindle Operation CNC lathes synchronize motion between the spindle and cutting tools. Toolpaths rely on precise feed rates, calculated surface speeds, and appropriate depth of cut. Advanced CNC machine lathes use: Servo motors for precise tool motion Variable-frequency drives to control spindle speed Automatic tool changers for seamless multi-operation machining Together, these systems deliver both speed and accuracy. Common Types of CNC Lathe Machines Horizontal CNC Lathes Horizontal CNC lathes are the most widely used type of turning equipment, with the spindle oriented parallel to the machine bed. They excel at machining long, cylindrical parts and support both small-batch and mass production. Because chips naturally fall away from the cutting zone, these machines offer excellent chip evacuation, stable cutting conditions, and flexible turret configurations. Sizes range from compact turning centers—ideal for small parts—to heavy-duty industrial lathes capable of handling workpieces hundreds of millimeters in diameter. Many horizontal machines can be equipped with bar feeders, automatic loading systems, and sub-spindles to improve throughput. Key factors to evaluate include bed rigidity, spindle torque and speed, turret capacity, and the maximum turning diameter/length ratio (L/D), which influences stability and machining efficiency. Typical applications: shafts, bearing housings, cylinders, gear blanks, and various rotational components. Vertical CNC Lathes Vertical CNC lathes position the spindle vertically, with the workpiece mounted on a horizontal table. This configuration is ideal for large-diameter, short-height components, as gravity assists with part positioning and workholding stability. It also makes loading heavy parts safer and easier. Vertical lathes are known for exceptional rigidity when handling large, heavy, or wide workpieces, making them a staple in industries requiring oversized components. Important considerations include maximum turning diameter, table load capacity, machine rigidity, and spindle power. Typical applications: large flanges, disks, turbine housings, rotors, and components for wind power, construction, and heavy machinery. Precision CNC Lathes and Multi-Axis Machines Precision CNC lathes and multi-axis turning centers are designed for complex geometries and ultra-tight tolerances. These machines often include high-precision linear guides, thermal compensation systems, scale feedback, and advanced CNC controls. Multi-axis machines may integrate C-axis, Y-axis, sub-spindles, and driven tooling, allowing complete machining—turning, milling, drilling, and tapping—in a single setup. This reduces cycle time, improves accuracy, and eliminates secondary operations. Precision machines commonly use high-speed, low-vibration spindles and rigid tooling systems (such as HSK or BT holders) to deliver micron-level accuracy and excellent surface finishes. Typical applications: medical implants, aerospace components, precision instrument parts, high-end mold components, and any part requiring complex profiles or tight tolerances. CNC Lathe vs Other CNC Machines Key differences between CNC lathes and mills A CNC lathe operates by rotating the workpiece at high speed while the cutting tool remains stationary or moves along a controlled axis. This turning-based process makes it exceptionally effective for producing round, tubular, and symmetrical shapes with consistent concentricity. CNC mills, on the other hand, remove material using a rotating cutting tool that moves across multiple axes. Milling machines are better suited for flat surfaces, slots, pockets, and complex 3D forms. Compared with milling, a CNC lathe generally delivers higher efficiency for rotational components, faster material removal for cylindrical profiles, and tighter geometric tolerances for features such as diameters, tapers, and threads. If you're interested in understanding milling processes in more depth, you can continue with our Bed Milling Explained . Advantages of using a lathe for specific parts When manufacturing shafts, bushings, pins, spacers, and threaded connectors, a CNC lathe offers superior stability and repeatability. The continuous rotation of the workpiece allows for smooth surface finishes and accurate dimensional control, especially on long or slender parts. For high-volume production, the turning process significantly reduces cycle time, lowering overall machining costs. Modern CNC lathes can also integrate operations such as drilling, tapping, grooving, and parting directly into the same setup, minimizing repositioning errors. This combined functionality is highly beneficial for parts that require multiple machining steps but must maintain tight tolerance alignment across all features. Application scenarios A CNC lathe is widely applied across automotive, aerospace, medical devices, consumer electronics, industrial automation, and custom hardware manufacturing. Common examples include motor shafts, gear blanks, threaded inserts, precision fasteners, hydraulic fittings, valve components, connector housings, bearing parts, and high-accuracy prototypes. It is especially valuable in scenarios where roundness, diameter precision, and concentricity are critical. In prototyping, a CNC lathe supports quick iteration with consistent dimensional results, while in mass production, it ensures stable quality with efficient material utilization and reduced machining time. How Much Does a CNC Lathe Cost? Factors Affecting CNC Lathe Pricing CNC lathe machine cost varies widely. Key pricing factors include: Machine size and rigidity Horizontal vs vertical configuration Precision and number of axes Control system brand Maximum spindle speed Tool turret capacity Production-grade CNC lathes typically cost more because they offer tighter tolerances and faster cycle times. Typical Cost Ranges Approximate global pricing: Entry-level CNC lathes : $6,000–$15,000 Mid-range industrial machines : $20,000–$80,000 High-end multi-axis lathes : $100,000–$350,000+ Operational costs—tooling, maintenance, power—should also be considered. Tips to Optimize Machining Cost Choose the right machine size for your parts Avoid unnecessary tolerances Select easily machinable materials Minimize tool changes Optimize programming to reduce air-cutting time For outsourcing, JLCCNC offers instant quoting that automatically identifies cost-drivers, helping teams refine designs early. Applications of CNC Lathes (AI-generated) CNC lathes play a foundational role in modern manufacturing because they can produce rotational, symmetric, and highly accurate parts at scale. Their precision, repeatability, and ability to cut complex geometries with minimal human intervention make them essential across countless industries. Whether the requirement is tight tolerances, smooth surface finishes, or efficient mass production, CNC lathing remains one of the most reliable machining processes in use today. Industries Using CNC Lathes CNC lathes are used in nearly every engineering sector, but several industries rely on them heavily due to the demanding tolerances and durability their components require: Automotive & Transportation Engine components, shafts, bushings, fasteners, gearbox parts, and custom aftermarket components are frequently produced by CNC lathes. High-volume turning ensures consistent performance under thermal and mechanical stress. Aerospace & Defense Precision is non-negotiable in aerospace. CNC lathes produce lightweight, high-strength components such as actuator housings, turbine rings, hydraulic fittings, and threaded connectors with strict tolerance control. Industrial Machinery & Robotics CNC lathes create spindle components, couplings, rollers, sleeves, and automation parts that require stable roundness and wear resistance for long-term performance. Electronics & Energy Connectors, insulators, sensor housings, and precision terminals are often lathe-machined. In the energy sector, CNC lathes support oil & gas tools, power equipment, and high-pressure fittings. Medical Devices Surgical instruments, orthopedic implants, dental components, and small precision parts benefit from the lathe's ability to deliver micron-level accuracy and clean surface finishes. Custom Manufacturing & Prototyping For low-volume custom parts, CNC lathes provide fast turnaround, tight tolerances, and cost-effective production—ideal for R&D teams and product development. Common Parts Produced by CNC Lathes Because lathes specialize in rotational parts, the most frequently produced components include: Shafts, rods, axles, and pins Sleeves, bushings, spacers Nuts, bolts, threaded inserts Fittings and couplings Housings and cylindrical enclosures Hydraulic and pneumatic components Bearings rings and precision rollers These parts typically require excellent concentricity, smooth surface finish, and predictable dimensional accuracy—strengths that CNC lathes consistently deliver. Benefits in Manufacturing The widespread use of CNC lathes stems from several tangible advantages that make them valuable in both prototype and production environments: Outstanding repeatability Once programmed, CNC lathes replicate parts with minimal deviation, making them ideal for mass production. High efficiency and speed Automated turning dramatically shortens cycle times for cylindrical components compared with manual lathes or milling solutions. Superior surface finishes Lathes can achieve extremely smooth finishes—often without secondary grinding—reducing total manufacturing time. Wide material compatibility Metals (aluminum, steel, stainless steel, brass, copper, titanium), plastics, and composites can all be effectively machined. Cost-effective production For cylindrical parts, CNC lathing is often the most economical manufacturing method due to optimized toolpaths and reduced machining passes. Whether for precision machining, high-volume production, or rapid prototyping, CNC lathes remain one of the most versatile and indispensable tools in modern manufacturing. FAQ Q1: What is a CNC lathe used for? A CNC lathe is used to machine round or cylindrical parts with high precision, such as shafts, bushings, and threaded components. Q2: Is CNC lathing different from CNC turning? No. CNC lathing and CNC turning refer to the same subtractive manufacturing process. Q3: What materials can be machined on a CNC lathe machine? Common materials include aluminum, steel, stainless steel, copper alloys, brass, titanium, plastics, and composites. Q4: Do CNC lathes support automation? Yes. Many CNC lathe machines integrate automatic bar feeders, robotic loading, and tool monitoring for continuous production. Q5: What is the difference between CNC lathes and CNC mills? Lathes rotate the workpiece; mills rotate the tool. Lathes are ideal for round parts; mills are ideal for prismatic shapes. Popular Articles Cutting with Precision: A Comprehensive Guide to CNC Water Jet Technology • Cutting with Precision: A Comprehensive Guide to CNC Water Jet Technology CNC Coolant Explained: Types, Maintenance & Safety • CNC Coolant Explained: Types, Maintenance & Safety Rake Angle in Machining: Machinists’ Guide to Perfect Cuts • Rake Angle in Machining: Machinists’ Guide to Perfect Cuts How EDM Wire Cutting Works: Complete Guide to Precision CNC Wire Cutting • How EDM Wire Cutting Works: Complete Guide to Precision CNC Wire Cutting Keep Learning What Are Secondary Operations in Manufacturing? Key Takeaways Secondary operations refine a part after its main production stage. Their classification depends on the production route. Typical tasks include machining, heat treatment, finishing, joining, and marking. Final drawing requirements help determine which added steps are needed. Extra stages can influence cost, lead time, handling, and inspection. Secondary operations are additional manufacturing steps performed after an earlier production stage to bring a part to its required final conditio...... What Is EDM? How Electrical Discharge Machining Works What Is EDM (Electrical Discharge Machining)? How It Works & Applications A mold shop needs to cut a cavity into hardened tool steel — the kind of material that would dull a carbide end mill before the cut is even halfway done. A medical device maker needs a slot 0.05mm wide in a titanium component, thinner than most drill bits can even produce. Neither job is solvable with a spinning cutting tool, because the material is either too hard, the geometry too fine, or both. That's the gap EDM was built to...... Wire EDM Machine: Types, Specs & How to Choose One Wire EDM Machine: Types, Specs & How to Choose One Our guide on how EDM wire cutting works covers the process itself — the spark erosion, the dielectric fluid, the tolerances the technique can hold. This one is about the machine that runs that process: what actually differentiates one wire EDM machine from another, and what matters when you're evaluating or specifying one. 💡 Need Precision Wire EDM Services? Understanding machine specs is crucial, but actually running them takes experience. At JLCCNC...... Titanium CNC Machining: Properties, Challenges & Best Practices Titanium CNC Machining: Properties, Challenges & Best Practices A shop that's comfortable machining aluminum all day can still get caught off guard the first time a titanium job comes through. The part looks the same on the CAD screen, the toolpath strategy looks reasonable, and then the tool overheats, work-hardens the surface it just cut, and the finish comes out nothing like what aluminum would have produced at the same settings. Titanium isn't just \"harder aluminum\" — it behaves differently enough...... High Volume CNC Machining: What Changes When You Scale Production High Volume CNC Machining: What Changes When You Scale Production Ten prototypes and ten thousand production parts are not the same problem wearing different clothes. A process that works fine for a handful of pieces — a bit of manual deburring here, a quick visual check there, tooling that gets swapped whenever it feels a little dull — falls apart the moment volume multiplies by a thousand. High volume CNC machining isn't just \"the same thing, more of it.\" It's a different set of priorities, where de...... PTFE CNC Machining: Properties, Applications & Best Practices PTFE CNC Machining: Properties, Applications & Best Practices PTFE — better known by the DuPont trade name Teflon — is a strange material to put on a CNC machine. It's soft, it barely holds a sharp edge itself, and it deforms under clamping pressure in ways that would ruin tolerance on almost any other engineering plastic. And yet it gets machined constantly, because nothing else offers PTFE's combination of an almost unbelievably low coefficient of friction and near-universal chemical resistance. Mac...... Table of Contents Understanding CNC Lathes How CNC Lathe Machines Work Common Types of CNC Lathe Machines CNC Lathe vs Other CNC Machines How Much Does a CNC Lathe Cost? Applications of CNC Lathes FAQ Popular Articles Cutting with Precision: A Comprehensive Guide to CNC Water Jet Technology • Cutting with Precision: A Comprehensive Guide to CNC Water Jet Technology CNC Coolant Explained: Types, Maintenance & Safety • CNC Coolant Explained: Types, Maintenance & Safety Rake Angle in Machining: Machinists’ Guide to Perfect Cuts • Rake Angle in Machining: Machinists’ Guide to Perfect Cuts How EDM Wire Cutting Works: Complete Guide to Precision CNC Wire Cutting • How EDM Wire Cutting Works: Complete Guide to Precision CNC Wire Cutting",
+      "after": "Blog Knowledge Hub Materials Design & Engineering Manufacturing Services Blog Blog Knowledge Hub Fundamental knowledge covering CNC machining and sheet metal fabrication. CNC Machining Fundamentals Core CNC machining principles, cutting mechanics, and machine basics. CNC Machines & Equipment Overview of CNC machines and supporting fabrication equipment. Sheet Metal Fabrication Forming, cutting, bending, and joining fundamentals. Tools & Cutting Instruments Cutting tools, tool materials, and forming instruments. Surface Finishing Processes Finishes and treatments for machined and formed parts. Knowledge Hub Materials Material properties, machining behavior, and forming suitability. Plastics for CNC Plastic materials, machining behavior, and use cases. Metals for CNC Metal properties, machinability, and forming suitability. Material Selection Guide Choose materials based on performance, cost, and manufacturability. Materials Design & Engineering Technical design guidance for CNC parts and sheet metal components. CAD & CAM Software Modeling, toolpaths, and sheet metal design workflows. Design Tips & Best Practices Practical guidelines for manufacturable CNC and formed parts. CNC Programming G-code, programming logic, and machining strategies. Design & Engineering Manufacturing Services Process explanations, workflows, and manufacturing guidance. Custom Projects & Gifts Creative, personalized projects using machining and fabrication. Industry Use Cases Applications across engineering, consumer products, and industrial sectors. Manufacturing Solutions Process choices, workflows, and production guidance. Manufacturing Services Blog Blog Home Blog Knowledge Hub CNC Machining Fundamentals What Is a CNC Lathe? Everything You Need to Know About CNC Lathing Published Nov 30, 2025, updated Nov 29, 2025 11 min Table of Contents Understanding CNC Lathes How CNC Lathe Machines Work Common Types of CNC Lathe Machines CNC Lathe vs Other CNC Machines How Much Does a CNC Lathe Cost? Applications of CNC Lathes FAQ (AI-generated) CNC lathes remain one of the most important machine types in modern manufacturing, powering industries from automotive to aerospace with accuracy, speed, and repeatability. If you're researching CNC lathing for your next project—or comparing CNC lathe machines, CNC machine lathes, or even trying to understand what is a CNC lathe —this guide gives you everything you need to make informed decisions. And if you're looking for fast, reliable machining services, JLCCNC provides high-precision CNC turning and milling with instant quoting and a wide selection of materials to support both prototyping and production. Understanding CNC Lathes Definition and Key Components of a CNC Lathe A CNC lathe is a computer-controlled machine tool designed to rotate a workpiece while cutting tools remove material to create cylindrical or conical geometries. Unlike manual lathes, CNC lathe machines operate through programmed commands, ensuring consistent dimensions even across large production batches. A typical CNC lathe machine includes: Headstock : houses the spindle that rotates the part Chuck : grips the material Tool turret : holds multiple CNC tools Bed & carriage : provide machine rigidity Control system : executes CNC turning programs Tailstock (optional): supports long workpieces These elements work together to deliver smooth, accurate cutting, making CNC lathing suitable for both simple shafts and highly complex components. Differences Between CNC Lathes and Conventional Lathes Conventional lathes require manual adjustments, which slows down production and introduces human error. A CNC machine lathe, by contrast, runs automated toolpaths defined in G-code. The benefits include: Faster cycle times Higher precision and repeatability Better safety Ability to handle complex geometries Automated multi-tool operations For manufacturers needing accuracy within microns or consistent production day after day, CNC lathes outperform manual machines in every category. Core Advantages of CNC Lathing CNC lathing offers several strong advantages: Superior roundness and concentricity for rotational parts Excellent surface finish due to continuous cutting Strong material compatibility , including aluminum, steel, stainless steel, copper, brass, plastics, and more Great scalability , from prototypes to mass production Tight tolerances , often ±0.005 mm on high-end systems These strengths explain why CNC lathe machines remain foundational in nearly all manufacturing sectors. How CNC Lathe Machines Work (AI-generated) Overview of the Lathing Process The CNC lathing process begins by mounting raw material—typically a bar or billet—into the chuck. As the spindle rotates the workpiece, CNC cutting tools move linearly along X and Z axes to remove material and create the desired geometry. CNC lathing is especially efficient for: Shafts Pins Bushings Sleeves Threads Custom cylindrical forms Because the workpiece rotates while the tool moves, the process is optimized for parts where diameter features dominate. CNC Programming Basics for Turning Operations At the heart of every CNC lathe machine is a program composed of G-code and M-code . These commands tell the machine: How fast to the spindle rotate How quickly do cutting tools feed into the material Which tools to activate What path should the tool follow Programs are often written manually for simple parts or generated with CAD/CAM software for complex geometries. Understanding these fundamentals is essential for efficient CNC lathing. Motion Control and Spindle Operation CNC lathes synchronize motion between the spindle and cutting tools. Toolpaths rely on precise feed rates, calculated surface speeds, and appropriate depth of cut. Advanced CNC machine lathes use: Servo motors for precise tool motion Variable-frequency drives to control spindle speed Automatic tool changers for seamless multi-operation machining Together, these systems deliver both speed and accuracy. Common Types of CNC Lathe Machines Horizontal CNC Lathes Horizontal CNC lathes are the most widely used type of turning equipment, with the spindle oriented parallel to the machine bed. They excel at machining long, cylindrical parts and support both small-batch and mass production. Because chips naturally fall away from the cutting zone, these machines offer excellent chip evacuation, stable cutting conditions, and flexible turret configurations. Sizes range from compact turning centers—ideal for small parts—to heavy-duty industrial lathes capable of handling workpieces hundreds of millimeters in diameter. Many horizontal machines can be equipped with bar feeders, automatic loading systems, and sub-spindles to improve throughput. Key factors to evaluate include bed rigidity, spindle torque and speed, turret capacity, and the maximum turning diameter/length ratio (L/D), which influences stability and machining efficiency. Typical applications: shafts, bearing housings, cylinders, gear blanks, and various rotational components. Vertical CNC Lathes Vertical CNC lathes position the spindle vertically, with the workpiece mounted on a horizontal table. This configuration is ideal for large-diameter, short-height components, as gravity assists with part positioning and workholding stability. It also makes loading heavy parts safer and easier. Vertical lathes are known for exceptional rigidity when handling large, heavy, or wide workpieces, making them a staple in industries requiring oversized components. Important considerations include maximum turning diameter, table load capacity, machine rigidity, and spindle power. Typical applications: large flanges, disks, turbine housings, rotors, and components for wind power, construction, and heavy machinery. Precision CNC Lathes and Multi-Axis Machines Precision CNC lathes and multi-axis turning centers are designed for complex geometries and ultra-tight tolerances. These machines often include high-precision linear guides, thermal compensation systems, scale feedback, and advanced CNC controls. Multi-axis machines may integrate C-axis, Y-axis, sub-spindles, and driven tooling, allowing complete machining—turning, milling, drilling, and tapping—in a single setup. This reduces cycle time, improves accuracy, and eliminates secondary operations. Precision machines commonly use high-speed, low-vibration spindles and rigid tooling systems (such as HSK or BT holders) to deliver micron-level accuracy and excellent surface finishes. Typical applications: medical implants, aerospace components, precision instrument parts, high-end mold components, and any part requiring complex profiles or tight tolerances. CNC Lathe vs Other CNC Machines Key differences between CNC lathes and mills A CNC lathe operates by rotating the workpiece at high speed while the cutting tool remains stationary or moves along a controlled axis. This turning-based process makes it exceptionally effective for producing round, tubular, and symmetrical shapes with consistent concentricity. CNC mills, on the other hand, remove material using a rotating cutting tool that moves across multiple axes. Milling machines are better suited for flat surfaces, slots, pockets, and complex 3D forms. Compared with milling, a CNC lathe generally delivers higher efficiency for rotational components, faster material removal for cylindrical profiles, and tighter geometric tolerances for features such as diameters, tapers, and threads. If you're interested in understanding milling processes in more depth, you can continue with our Bed Milling Explained . Advantages of using a lathe for specific parts When manufacturing shafts, bushings, pins, spacers, and threaded connectors, a CNC lathe offers superior stability and repeatability. The continuous rotation of the workpiece allows for smooth surface finishes and accurate dimensional control, especially on long or slender parts. For high-volume production, the turning process significantly reduces cycle time, lowering overall machining costs. Modern CNC lathes can also integrate operations such as drilling, tapping, grooving, and parting directly into the same setup, minimizing repositioning errors. This combined functionality is highly beneficial for parts that require multiple machining steps but must maintain tight tolerance alignment across all features. Application scenarios A CNC lathe is widely applied across automotive, aerospace, medical devices, consumer electronics, industrial automation, and custom hardware manufacturing. Common examples include motor shafts, gear blanks, threaded inserts, precision fasteners, hydraulic fittings, valve components, connector housings, bearing parts, and high-accuracy prototypes. It is especially valuable in scenarios where roundness, diameter precision, and concentricity are critical. In prototyping, a CNC lathe supports quick iteration with consistent dimensional results, while in mass production, it ensures stable quality with efficient material utilization and reduced machining time. How Much Does a CNC Lathe Cost? Factors Affecting CNC Lathe Pricing CNC lathe machine cost varies widely. Key pricing factors include: Machine size and rigidity Horizontal vs vertical configuration Precision and number of axes Control system brand Maximum spindle speed Tool turret capacity Production-grade CNC lathes typically cost more because they offer tighter tolerances and faster cycle times. Typical Cost Ranges Approximate global pricing: Entry-level CNC lathes : $6,000–$15,000 Mid-range industrial machines : $20,000–$80,000 High-end multi-axis lathes : $100,000–$350,000+ Operational costs—tooling, maintenance, power—should also be considered. Tips to Optimize Machining Cost Choose the right machine size for your parts Avoid unnecessary tolerances Select easily machinable materials Minimize tool changes Optimize programming to reduce air-cutting time For outsourcing, JLCCNC offers instant quoting that automatically identifies cost-drivers, helping teams refine designs early. Applications of CNC Lathes (AI-generated) CNC lathes play a foundational role in modern manufacturing because they can produce rotational, symmetric, and highly accurate parts at scale. Their precision, repeatability, and ability to cut complex geometries with minimal human intervention make them essential across countless industries. Whether the requirement is tight tolerances, smooth surface finishes, or efficient mass production, CNC lathing remains one of the most reliable machining processes in use today. Industries Using CNC Lathes CNC lathes are used in nearly every engineering sector, but several industries rely on them heavily due to the demanding tolerances and durability their components require: Automotive & Transportation Engine components, shafts, bushings, fasteners, gearbox parts, and custom aftermarket components are frequently produced by CNC lathes. High-volume turning ensures consistent performance under thermal and mechanical stress. Aerospace & Defense Precision is non-negotiable in aerospace. CNC lathes produce lightweight, high-strength components such as actuator housings, turbine rings, hydraulic fittings, and threaded connectors with strict tolerance control. Industrial Machinery & Robotics CNC lathes create spindle components, couplings, rollers, sleeves, and automation parts that require stable roundness and wear resistance for long-term performance. Electronics & Energy Connectors, insulators, sensor housings, and precision terminals are often lathe-machined. In the energy sector, CNC lathes support oil & gas tools, power equipment, and high-pressure fittings. Medical Devices Surgical instruments, orthopedic implants, dental components, and small precision parts benefit from the lathe's ability to deliver micron-level accuracy and clean surface finishes. Custom Manufacturing & Prototyping For low-volume custom parts, CNC lathes provide fast turnaround, tight tolerances, and cost-effective production—ideal for R&D teams and product development. Common Parts Produced by CNC Lathes Because lathes specialize in rotational parts, the most frequently produced components include: Shafts, rods, axles, and pins Sleeves, bushings, spacers Nuts, bolts, threaded inserts Fittings and couplings Housings and cylindrical enclosures Hydraulic and pneumatic components Bearings rings and precision rollers These parts typically require excellent concentricity, smooth surface finish, and predictable dimensional accuracy—strengths that CNC lathes consistently deliver. Benefits in Manufacturing The widespread use of CNC lathes stems from several tangible advantages that make them valuable in both prototype and production environments: Outstanding repeatability Once programmed, CNC lathes replicate parts with minimal deviation, making them ideal for mass production. High efficiency and speed Automated turning dramatically shortens cycle times for cylindrical components compared with manual lathes or milling solutions. Superior surface finishes Lathes can achieve extremely smooth finishes—often without secondary grinding—reducing total manufacturing time. Wide material compatibility Metals (aluminum, steel, stainless steel, brass, copper, titanium), plastics, and composites can all be effectively machined. Cost-effective production For cylindrical parts, CNC lathing is often the most economical manufacturing method due to optimized toolpaths and reduced machining passes. Whether for precision machining, high-volume production, or rapid prototyping, CNC lathes remain one of the most versatile and indispensable tools in modern manufacturing. FAQ Q1: What is a CNC lathe used for? A CNC lathe is used to machine round or cylindrical parts with high precision, such as shafts, bushings, and threaded components. Q2: Is CNC lathing different from CNC turning? No. CNC lathing and CNC turning refer to the same subtractive manufacturing process. Q3: What materials can be machined on a CNC lathe machine? Common materials include aluminum, steel, stainless steel, copper alloys, brass, titanium, plastics, and composites. Q4: Do CNC lathes support automation? Yes. Many CNC lathe machines integrate automatic bar feeders, robotic loading, and tool monitoring for continuous production. Q5: What is the difference between CNC lathes and CNC mills? Lathes rotate the workpiece; mills rotate the tool. Lathes are ideal for round parts; mills are ideal for prismatic shapes. Popular Articles What Steps Are Taken To Minimize Waste In CNC Machining Processes? • What Steps Are Taken To Minimize Waste In CNC Machining Processes? Cutting with Precision: A Comprehensive Guide to CNC Water Jet Technology • Cutting with Precision: A Comprehensive Guide to CNC Water Jet Technology CNC Coolant Explained: Types, Maintenance & Safety • CNC Coolant Explained: Types, Maintenance & Safety Rake Angle in Machining: Machinists’ Guide to Perfect Cuts • Rake Angle in Machining: Machinists’ Guide to Perfect Cuts How EDM Wire Cutting Works: Complete Guide to Precision CNC Wire Cutting • How EDM Wire Cutting Works: Complete Guide to Precision CNC Wire Cutting Keep Learning CNC Automation: Systems, Software, and Manufacturing Solutions Explained Key Takeaways • CNC automation combines machine tools, software, and material handling into a system that reduces direct labor per part and improves process consistency. • The core components are the CNC machine, the control software, and whatever handles part movement, robot, conveyor, pallet system, or some combination. • Automation doesn't eliminate the need for skilled engineers and machinists. It shifts where their time goes, from operating machines to programming, setting up, and maintaining sys...... What Is Tempering? Metal Tempering Process and Applications Key Takeaways In conventional quench-and-temper treatment, tempering reheats previously hardened steel below its lower critical temperature. Temperature and holding time affect the final mechanical properties. Tempered steel is used for tools, gears, shafts, and loaded components. CNC planning must account for heat-treatment distortion and final tolerances. Tempering differs from quenching, annealing, and normalizing in purpose and sequence. Tempering steel parts in an industrial furnace Hardening giv...... Sheet Metal vs CNC Machining: A Guide to Choosing the Right Method for Your Metal Parts Sheet Metal vs CNC Machining: How to Choose the Right Method for Your Metal Parts Quick Answer: Choose sheet metal for uniform-thickness enclosures, panels, and formed brackets when bends and production volume support lower unit cost. Choose CNC machining for variable wall thickness, precision bores, tight feature relationships, and complex 3D geometry. Use a hybrid design when a formed structure needs precision-machined interfaces. A quote comes back for a bracket, and it's priced as a CNC part — mac...... How Precise Is CNC Machining Compared To Other Manufacturing Methods? How Precise Is CNC Machining Compared to Other Manufacturing Methods? Quick Answer: CNC machining generally holds tighter tolerances than forming, casting, and most additive processes, because it removes material directly rather than relying on shrinkage, springback, or layer deposition. But \"how precise\" depends on the specific process variant, material, geometry, and inspection method — there's no single number that applies across an entire process category. A part spec calls for a tolerance of ±0.0...... CNC Milling vs. CNC Turning: Which is Better? CNC Milling vs. CNC Turning: Which Process Fits Your Part? Quick Answer: Choose CNC milling for prismatic, flat, pocketed, and complex 3D parts. Choose CNC turning for parts whose primary geometry is cylindrical or rotationally symmetric. Use mill-turn or secondary milling when a turned part also needs flats, keyways, cross-holes, or other non-round features. A shaft and a bracket can come from the same material, hold similar tolerances, and still need completely different machines to make — not becau...... How Does CNC Machining Differ From Traditional Machining Methods? How Does CNC Machining Differ From Traditional Machining Methods? Quick Answer: Choose CNC machining when repeatability, complex geometry, tight feature relationships, or production quantity justify programming and setup. Choose traditional or manual machining for simple one-off parts, repairs, and highly variable work where a skilled operator can work directly from a sample or drawing. The right choice depends on geometry, tolerance, quantity, and available data. A machinist trained on manual lathes ...... Table of Contents Understanding CNC Lathes How CNC Lathe Machines Work Common Types of CNC Lathe Machines CNC Lathe vs Other CNC Machines How Much Does a CNC Lathe Cost? Applications of CNC Lathes FAQ Popular Articles What Steps Are Taken To Minimize Waste In CNC Machining Processes? • What Steps Are Taken To Minimize Waste In CNC Machining Processes? Cutting with Precision: A Comprehensive Guide to CNC Water Jet Technology • Cutting with Precision: A Comprehensive Guide to CNC Water Jet Technology CNC Coolant Explained: Types, Maintenance & Safety • CNC Coolant Explained: Types, Maintenance & Safety Rake Angle in Machining: Machinists’ Guide to Perfect Cuts • Rake Angle in Machining: Machinists’ Guide to Perfect Cuts How EDM Wire Cutting Works: Complete Guide to Precision CNC Wire Cutting • How EDM Wire Cutting Works: Complete Guide to Precision CNC Wire Cutting",
+      "added": [
+        "What Steps Are Taken To Minimize Waste In CNC Machining Processes? • What Steps Are Taken To Minimize Waste In CNC Machining Processes?",
+        "CNC Automation: Systems, Software, and Manufacturing Solutions Explained",
+        "• CNC automation combines machine tools, software, and material handling into",
+        "system that reduces direct labor per",
+        "and improves process consistency. • The core components are the CNC machine, the control software, and whatever handles part movement, robot, conveyor, pallet system, or some combination. • Automation doesn't eliminate the need for skilled engineers and machinists. It shifts where their time goes, from operating machines to programming, setting up, and main..."
+      ],
+      "removed": [
+        "What Are Secondary Operations in Manufacturing?",
+        "Secondary operations refine",
+        "after",
+        "main",
+        "stage. Their classification"
+      ],
+      "change_percent": 34.66,
+      "confidence": "high",
+      "published_at": "2025-12-26T00:00:00+00:00",
+      "first_seen_at": "2026-08-17T03:51:01+00:00",
+      "discovered_via": "sitemap"
+    },
+    {
+      "type": "visual_changed",
+      "priority": "high",
+      "competitor": "SyBridge",
+      "url": "https://sybridge.com/optimizing-your-injection-molding-process",
+      "category": "pricing",
+      "page_title": "Optimizing Your Injection Molding Process for Cost-Effective Manufacturing Excellence - SyBridge Technologies",
+      "summary": "mobile 视图出现明显 UI/布局变化",
+      "details": [
+        "视口：mobile",
+        "RMS 差异：35.12",
+        "变化像素占比：2.63%",
+        "页面截图高度变化：+24px"
+      ],
+      "before": null,
+      "after": null,
+      "added": [],
+      "removed": [],
+      "change_percent": 0.0,
+      "confidence": "high",
+      "published_at": "2024-04-30T13:33:10+00:00",
+      "first_seen_at": "2026-08-17T03:53:37+00:00",
+      "discovered_via": "feed"
+    },
+    {
+      "type": "visual_changed",
+      "priority": "medium",
+      "competitor": "CNCLATHING",
+      "url": "https://www.cnclathing.com/",
+      "category": "service",
+      "page_title": "China Top CNC Machining Service OEM Supplier & Manufacturer | Junying",
+      "summary": "desktop 视图出现明显 UI/布局变化",
+      "details": [
+        "视口：desktop",
+        "RMS 差异：50.86",
+        "变化像素占比：5.01%"
+      ],
+      "before": null,
+      "after": null,
+      "added": [],
+      "removed": [],
+      "change_percent": 0.0,
+      "confidence": "high",
+      "published_at": "",
+      "first_seen_at": "2026-08-17T03:54:41+00:00",
+      "discovered_via": "sitemap"
+    },
+    {
+      "type": "visual_changed",
+      "priority": "medium",
+      "competitor": "CNCLATHING",
+      "url": "https://www.cnclathing.com/cnc-machining-services",
+      "category": "service",
+      "page_title": "CNC Machining Services & Precision Machined Parts Manufacturer - Online Rapid China CNC Machining Metal Company",
+      "summary": "desktop 视图出现明显 UI/布局变化",
+      "details": [
+        "视口：desktop",
+        "RMS 差异：75.28",
+        "变化像素占比：9.14%",
+        "页面截图高度变化：-10px"
+      ],
+      "before": null,
+      "after": null,
+      "added": [],
+      "removed": [],
+      "change_percent": 0.0,
+      "confidence": "high",
+      "published_at": "",
+      "first_seen_at": "2026-08-17T03:54:54+00:00",
+      "discovered_via": "sitemap"
+    },
+    {
+      "type": "visual_changed",
+      "priority": "medium",
+      "competitor": "CNCLATHING",
+      "url": "https://www.cnclathing.com/cnc-machining-services",
+      "category": "service",
+      "page_title": "CNC Machining Services & Precision Machined Parts Manufacturer - Online Rapid China CNC Machining Metal Company",
+      "summary": "mobile 视图出现明显 UI/布局变化",
+      "details": [
+        "视口：mobile",
+        "RMS 差异：129.50",
+        "变化像素占比：23.09%",
+        "页面截图高度变化：-197px"
+      ],
+      "before": null,
+      "after": null,
+      "added": [],
+      "removed": [],
+      "change_percent": 0.0,
+      "confidence": "high",
+      "published_at": "",
+      "first_seen_at": "2026-08-17T03:54:54+00:00",
+      "discovered_via": "sitemap"
+    },
+    {
+      "type": "visual_changed",
+      "priority": "medium",
+      "competitor": "Fictiv",
+      "url": "https://www.fictiv.com/",
+      "category": "service",
+      "page_title": "Fictiv: Sourcing Simplified for Custom Manufacturing Services",
+      "summary": "desktop 视图出现明显 UI/布局变化",
+      "details": [
+        "视口：desktop",
+        "RMS 差异：78.56",
+        "变化像素占比：9.52%"
+      ],
+      "before": null,
+      "after": null,
+      "added": [],
+      "removed": [],
+      "change_percent": 0.0,
+      "confidence": "high",
+      "published_at": "2020-09-09T21:32:10+00:00",
+      "first_seen_at": "2026-08-17T03:45:18+00:00",
+      "discovered_via": "feed"
+    },
+    {
+      "type": "visual_changed",
+      "priority": "medium",
+      "competitor": "JLC CNC",
+      "url": "https://jlccnc.com/",
+      "category": "service",
+      "page_title": "Online CNC Machining Service - JLCCNC",
+      "summary": "desktop 视图出现明显 UI/布局变化",
+      "details": [
+        "视口：desktop",
+        "RMS 差异：47.38",
+        "变化像素占比：3.20%"
+      ],
+      "before": null,
+      "after": null,
+      "added": [],
+      "removed": [],
+      "change_percent": 0.0,
+      "confidence": "high",
+      "published_at": "2026-09-15T00:00:00+00:00",
+      "first_seen_at": "2026-08-17T03:49:31+00:00",
+      "discovered_via": "priority"
+    },
+    {
+      "type": "visual_changed",
+      "priority": "medium",
+      "competitor": "JLC CNC",
+      "url": "https://jlccnc.com/",
+      "category": "service",
+      "page_title": "Online CNC Machining Service - JLCCNC",
+      "summary": "mobile 视图出现明显 UI/布局变化",
+      "details": [
+        "视口：mobile",
+        "RMS 差异：62.29",
+        "变化像素占比：4.77%",
+        "页面截图高度变化：-409px"
+      ],
+      "before": null,
+      "after": null,
+      "added": [],
+      "removed": [],
+      "change_percent": 0.0,
+      "confidence": "high",
+      "published_at": "2026-09-15T00:00:00+00:00",
+      "first_seen_at": "2026-08-17T03:49:31+00:00",
+      "discovered_via": "priority"
+    },
+    {
+      "type": "section_copy_changed",
+      "priority": "medium",
+      "competitor": "PCBWay",
+      "url": "https://www.pcbway.com/",
+      "category": "homepage",
+      "page_title": "China PCB Prototype & Fabrication Manufacturer - PCB Prototype the Easy Way",
+      "summary": "板块文案更新：Affordable Prototype PCB Manufacturer in China",
+      "details": [],
+      "before": "Affordable Prototype PCB Manufacturer in China Last 30 days: 91557 Today's new order: 2275 Latest orders Date Buyer name Lead Time Progress 10-09 A****or 3-4 days 18% 10-09 e****io 24hours 18% 10-09 I****ka 4-5 days 31% 10-09 *** 4-5 days 47% 10-09 C****on 24hours 43% 10-09 P****er 3-4 days 31% 10-09 *** 48hours 34% 10-09 *** 13-14 days 45% 10-09 K****in 5-6 days 29% 10-09 W****ta 5-6 days 30% 10-09 A****or 6-7 days 19% 10-09 M****ek 24hours 17% 10-09 *** 24hours 18% 10-09 I****IA 4-5 days 45% 10-09 F****ck 6-7 days 14% 10-09 K****er 6-7 days 47% 10-09 G****ge 24hours 16% 10-09 J****er 14-15 days 33% 10-09 I****rd 5-6 days 31% 10-09 B****er 6-7 days 38%",
+      "after": "Affordable Prototype PCB Manufacturer in China Last 30 days: 92322 Today's new order: 1608 Latest orders Date Buyer name Lead Time Progress 10-10 I****in 5-6 days 33% 10-10 *** 4-5 days 28% 10-10 G****ge 24hours 47% 10-10 y****ah 5-6 days 47% 10-10 M****sz 7-8 days 25% 10-10 *** 24hours 18% 10-10 *** 4-5 days 31% 10-10 *** 5-6 days 46% 10-10 D****on 6-7 days 28% 10-10 M****en 72hours 26% 10-10 G****EZ 24hours 18% 10-10 B****me 10-11 days 19% 10-10 P****IS 5-6 days 43% 10-10 C****pa 7-8 days 42% 10-10 *** 7-8 days 26% 10-10 O****ng 4-5 days 27% 10-10 S****ks 4-5 days 38% 10-10 Z****ar 7 days 11% 10-10 *** 3-4 days 21% 10-10 G****ek 7-8 days 33%",
+      "added": [
+        "92322",
+        "1608",
+        "10-10 I****in 5-6",
+        "33% 10-10 *** 4-5 days 28% 10-10 G****ge 24hours 47% 10-10 y****ah 5-6 days 47% 10-10 M****sz 7-8 days 25% 10-10 ***",
+        "10-10 ***"
+      ],
+      "removed": [
+        "91557",
+        "2275",
+        "10-09 A****or 3-4",
+        "18% 10-09 e****io",
+        "10-09 I****ka"
+      ],
+      "change_percent": 142.37,
+      "confidence": "high",
+      "published_at": "2026-10-10T00:00:00+00:00",
+      "first_seen_at": "2026-08-17T03:51:10+00:00",
+      "discovered_via": "priority"
+    },
+    {
+      "type": "title_changed",
+      "priority": "medium",
+      "competitor": "SyBridge",
+      "url": "https://sybridge.com/component-manufacturing",
+      "category": "service",
+      "page_title": "Fast Radius | SyBridge Technologies",
+      "summary": "SEO 标题发生变化",
+      "details": [],
+      "before": "Specialty Manufacturing Services | SyBridge Technologies",
+      "after": "Fast Radius | SyBridge Technologies",
+      "added": [
+        "Fast Radius"
+      ],
+      "removed": [
+        "Specialty Manufacturing Services"
+      ],
+      "change_percent": 83.33,
+      "confidence": "high",
+      "published_at": "2023-05-12T14:34:51+00:00",
+      "first_seen_at": "2026-09-30T06:51:36+00:00",
+      "discovered_via": "sitemap"
+    },
+    {
+      "type": "meta_description_changed",
+      "priority": "medium",
+      "competitor": "SyBridge",
+      "url": "https://sybridge.com/component-manufacturing",
+      "category": "service",
+      "page_title": "Fast Radius | SyBridge Technologies",
+      "summary": "Meta 描述发生变化",
+      "details": [],
+      "before": "Explore SyBridge Technologies’ specialty manufacturing services, including high-volume 3D printing and quick-turn injection molded parts. Delivering speed, precision, and scalable solutions for product development and production.",
+      "after": "Explore services from Fast Radius, a SyBridge brand, including high-volume 3D printing and quick-turn injection molded parts. Delivering speed, precision, and scalable solutions for product development and production.",
+      "added": [
+        "services from Fast Radius, a",
+        "brand,"
+      ],
+      "removed": [
+        "Technologies’ specialty manufacturing services,"
+      ],
+      "change_percent": 35.71,
+      "confidence": "high",
+      "published_at": "2023-05-12T14:34:51+00:00",
+      "first_seen_at": "2026-09-30T06:51:36+00:00",
+      "discovered_via": "sitemap"
+    },
+    {
+      "type": "title_changed",
+      "priority": "medium",
+      "competitor": "SyBridge",
+      "url": "https://sybridge.com/component-manufacturing/3d-printing",
+      "category": "service",
+      "page_title": "High-Volume 3D Printing Services | Fast Radius",
+      "summary": "SEO 标题发生变化",
+      "details": [],
+      "before": "High-Volume 3D Printing Services | SyBridge Technologies",
+      "after": "High-Volume 3D Printing Services | Fast Radius",
+      "added": [
+        "Fast Radius"
+      ],
+      "removed": [
+        "SyBridge Technologies"
+      ],
+      "change_percent": 57.14,
+      "confidence": "high",
+      "published_at": "2023-04-27T17:04:45+00:00",
+      "first_seen_at": "2026-09-30T06:51:36+00:00",
+      "discovered_via": "sitemap"
+    },
+    {
+      "type": "title_changed",
+      "priority": "medium",
+      "competitor": "SyBridge",
+      "url": "https://sybridge.com/component-manufacturing/cnc-machining",
+      "category": "service",
+      "page_title": "CNC Machining - Fast Radius",
+      "summary": "SEO 标题发生变化",
+      "details": [],
+      "before": "CNC Machining - SyBridge Technologies",
+      "after": "CNC Machining - Fast Radius",
+      "added": [
+        "Fast Radius"
+      ],
+      "removed": [
+        "SyBridge Technologies"
+      ],
+      "change_percent": 80.0,
+      "confidence": "high",
+      "published_at": "2026-09-29T15:53:38+00:00",
+      "first_seen_at": "2026-09-30T06:51:38+00:00",
+      "discovered_via": "sitemap"
+    },
+    {
+      "type": "title_changed",
+      "priority": "medium",
+      "competitor": "SyBridge",
+      "url": "https://sybridge.com/component-manufacturing/injection-molding-production",
+      "category": "service",
+      "page_title": "Injection Molding Production - Fast Radius",
+      "summary": "SEO 标题发生变化",
+      "details": [],
+      "before": "Injection Molding Production - SyBridge Technologies",
+      "after": "Injection Molding Production - Fast Radius",
+      "added": [
+        "Fast Radius"
+      ],
+      "removed": [
+        "SyBridge Technologies"
+      ],
+      "change_percent": 66.67,
+      "confidence": "high",
+      "published_at": "2026-09-29T16:27:59+00:00",
+      "first_seen_at": "2026-09-30T06:51:37+00:00",
+      "discovered_via": "sitemap"
+    },
+    {
+      "type": "title_changed",
+      "priority": "medium",
+      "competitor": "SyBridge",
+      "url": "https://sybridge.com/component-manufacturing/sheet-metal-fabrication",
+      "category": "service",
+      "page_title": "Sheet Metal Fabrication - Fast Radius",
+      "summary": "SEO 标题发生变化",
+      "details": [],
+      "before": "Sheet Metal Fabrication - SyBridge Technologies",
+      "after": "Sheet Metal Fabrication - Fast Radius",
+      "added": [
+        "Fast Radius"
+      ],
+      "removed": [
+        "SyBridge Technologies"
+      ],
+      "change_percent": 66.67,
+      "confidence": "high",
+      "published_at": "2026-09-29T16:04:47+00:00",
+      "first_seen_at": "2026-09-30T06:51:37+00:00",
+      "discovered_via": "sitemap"
+    },
+    {
+      "type": "title_changed",
+      "priority": "medium",
+      "competitor": "SyBridge",
+      "url": "https://sybridge.com/component-manufacturing/urethane-casting",
+      "category": "service",
+      "page_title": "Urethane Casting - Fast Radius",
+      "summary": "SEO 标题发生变化",
+      "details": [],
+      "before": "Urethane Casting - SyBridge Technologies",
+      "after": "Urethane Casting - Fast Radius",
+      "added": [
+        "Fast Radius"
+      ],
+      "removed": [
+        "SyBridge Technologies"
+      ],
+      "change_percent": 80.0,
+      "confidence": "high",
+      "published_at": "2026-09-29T16:14:29+00:00",
+      "first_seen_at": "2026-09-30T06:51:35+00:00",
+      "discovered_via": "sitemap"
+    },
+    {
+      "type": "content_changed",
+      "priority": "medium",
+      "competitor": "Xometry",
+      "url": "https://www.xometry.com/",
+      "category": "service",
+      "page_title": "Custom Manufacturing on Demand | Production Parts and Prototypes | Xometry",
+      "summary": "页面正文发生可定位的变化",
+      "details": [],
+      "before": "The Trends Shaping Manufacturing in 2027 | Download the Report Get an Instant Quote Log In / Register Solutions Manufacturing Processes All Manufacturing Capabilities Additive Manufacturing 3D Printing Service Plastic 3D Printing Service Fused Deposition Modeling HP Multi Jet Fusion Selective Laser Sintering Stereolithography Polyjet Production 3D Printing Service Carbon DLS Metal 3D Printing Service Direct Metal Laser Sintering Metal Binder Jetting Vapor Smoothing 3D Prints CNC Machining CNC Machining CNC Milling CNC Turning CNC Routing Swiss-Type Turning Micro Machining Sheet and Tube Fabrication Sheet Metal Fabrication Sheet Cutting Laser Cutting Waterjet Cutting Laser Tube Cutting Tube Bending Injection Molding Injection Molding Services Plastic Injection Molding Prototype Molding Production Molding Insert Molding Overmolding Micro Molding Other Plastic Production Urethane and Silicone Casting Compression Molding Plastic Extrusion Metal Part Production Die Casting Metal Stamping Metal Extrusion Value-Added Services Assembly Services Rapid Prototyping High-Volume Production Finishing Services For Organizations Enterprise Solutions Industries Industries We Serve Aerospace and Defense Automotive Consumer Products Data Centers Electronics and Semiconductors Government Industrial Medical Motorsports Robotics Become a Supplier Quote Custom Parts in Seconds Upload your files, get an instant quote, and order online. Get an Instant Quote STEP • STP • SLDPRT • STL • DXF • IPT • X_T • X_B • 3DXML • CATPART • PRT • SAT • 3MF • JT files All uploads are secure and confidential. ISO 9001:2015 ISO 13485:2016 AS9100D IATF 16949:2016 ITAR CMMC Level 2 JCP Xometry Instant Quoting Engine® is covered by U.S. Patent Numbers shown here . Xometry values your privacy and security. Learn more . 90,000 Buyers 5,000 Suppliers 4.8/5 Trustpilot Score 165M+ Parts Shipped Services Use Cases CNC Machining 3D Printing Sheet & Tube Fabrication Injection Molding High-Volume Metal Production Trusted Precision: Sub ±0.001′′ Accuracy, Zero Guesswork The trusted choice for precision components, delivering exceptional accuracy from prototype through high-volume production. Virtually any metal or plastic material, expertly finished your way Scalable capacity from one-offs and prototypes to production Includes: CNC milling (3/4/5-axis), CNC turning, CNC drilling, and wire EDM Learn More Get an Instant Quote CNC Machining 3D Printing Sheet & Tube Fabrication Injection Molding High-Volume Metal Production Accelerate Sourcing AI-powered quoting and platform intelligence move your ideas to production faster. Scale Without Limits On-demand capacity for any volume, process, or material, with no minimums required. Optimize Production A U.S. and global network of certified suppliers delivers precision and reliability. Seamless Project Delivery Integrated digital workflows deliver traceability, transparency, and quality from order to final part. Real Stories, Real Impact How SentriLock Overcame Supply Chain Disruption with Prototype-to-Production Support Electric Motorcycle Maker Sourced and Scaled Critical Parts with Xometry Intuitive Machines Returned to the Moon with Xometry-Built Precision Components Laser Tube Cutting Helped Sea Box Scale a Major Defense Project Pushing the Limits of Light: How Elettra 2.0 Is Built for Next-Gen Science Xometry has consistently delivered high-precision aluminum components to a very high standard. Sam Leu The part was perfect! They follow the drawing and 3D data to the letter! Charles Xometry’s prints were very accurate to my design and functioned perfectly! Their online quoting tool is very intuitive. Al The parts we ordered arrived earlier than expected and within the dimensional tolerances that were promised. Todd Wonderful experience SLS 3D-printing of very small nylon parts for a precision application. Mike T. Quality parts, fast! Grant Xometry quoted us a great price with quick turn around. Parts received were within spec. What more could you ask for? Brian The website makes it super easy to get a quote and select the appropriate technology options. Will NM Easy to use! Options on manufacturing, lead time and shipping to help with pricing. Great service, support and follow up. Otto Online platform is easy to use, price was reasonable, and job was done even faster than promised. Curtis Scale Production. Optimize for Tomorrow. Accelerate program efficiency, simplify collaboration, and strengthen your supply chain to achieve guaranteed momentum and seamless execution for every project. Talk to Our Team Life of a Part Turn your vision into reality with a vetted global network that manages your most important parts from design to final delivery. Your browser does not support the video tag. Partner Network Join our supplier network and access reliable demand and new jobs daily Manufacturing Outlook Download the 2027 Manufacturing Outlook report Your browser does not support the video tag. Injection Molding Services Validate and scale your design with confidence News and Views Xometry CEO Talks Manufacturing in Australia October 2026 Xometry Releases the 2027 Manufacturing Outlook October 2026 Manufacturing's role in tomorrow’s data center buildouts September 2026 Rachel Zepernick on What's Next for U.S. Manufacturing September 2026 Sanjeev Singh Sahni Joins The Manufacturing Executive Podcast August 2026 Rachel Zepernick Talks Industrial Sourcing And Manufacturing August 2026 Xometry Foundation Announces Partnership with MxD July 2026 Randy Altschuler Talks Manufacturing on Machine Shop Mastery July 2026 Xometry Releases Upgrades to Its AI Model Architecture July 2026 Critical Infrastructure Runs at the Speed of Its Supply Chain July 2026 Xometry Launches Foundation and Innovators Program June 2026 Randy Altschuler sits down with Jim Cramer June 2026 Xometry CEO discusses AI, Partnerships and Record Earnings May 2026 Xometry Appoints Lukas Biewald to its Board of Directors May 2026 Xometry Makes Cramer's Lightning Round May 2026 Xometry Streamlines Data Center Supply Chain May 2026 Xometry and Siemens Partner to Embed AI-Native Supply Chain May 2026 Companies Are Deploying AI. Few Can Prove It Works. May 2026 Supply chain modernization is an urgent U.S. defense need April 2026 U.S. Manufacturing Success Requires Gen-Z's Buy-In April 2026 Opportunity Knocks for Gen Z in Tech-driven Plastics Manufacturing April 2026 Predictive risk detection and supplier selection March 2026 Xometry Deepens AI-Native Marketplace Advantage March 2026 Xometry Co-Founder Randy Altschuler to Exit CEO Post; Successor Named February 2026 Additive Manufacturing’s Next Chapter: From Prototype Tool to Operating Model February 2026 Xometry Announces CEO Succession Plan February 2026 A&D Leaders Prioritize AI-Enabled Supply Chain Solutions January 2026 Xometry Accelerates Marketplace Solutions for Complex Manufacturing Demands January 2026 AI, Reshoring to Reshape Manufacturing in 2026 December 2025 Xometry’s 2026 Outlook: Why AM Is Becoming Essential December 2025 WorkTech Predictions for 2026 and Beyond December 2025 CEO: ‘It’s a Speed War’ in AI-Driven Sourcing November 2025 Xometry Earns Spot on 2025 Deloitte Fast 500™ November 2025 How the U.S. Economy Has Defied Doomsday Predictions on Tariffs November 2025 Xometry CEO on ‘Record Year’ November 2025 Xometry Adds Injection Molding Auto-Quote Capability October 2025 The Future of Manufacturing Is Powered by AI October 2025 Xometry Launches Workcenter Mobile October 2025 How AI Moves Manufacturing from Hardware to Software September 2025 US Companies Are Using AI to Help Offset Increased Tariff Costs September 2025 2026 Manufacturing Outlook July 2025 How Thomas Is Quietly Powering America’s Manufacturing Revival July 2025 Get in Touch Ready to start your next manufacturing project? Our team is here to help with quotes, technical questions, and custom solutions. Phone +1-800-983-1959 Email hello@xometry.com * Company Email Address * First Name * Last Name * Company Name Job Title (optional) * Phone Number 🇺🇸 +1 * Message Submit By entering your contact information, you are agreeing to receive email communications about Xometry products and services. You may update your subscriptions or unsubscribe from these communications at any time using the link at the bottom of every marketing email or by contacting support. For more information, review our Privacy Policy . Digitizing manufacturing with smarter sourcing, instant quotes, and a global supplier network built for innovators. 17.3M+ LBS OF CO2 OFFSET Services CNC Machining 3D Printing Sheet Metal Fabrication Injection Molding Metal Forming & Die Casting Enterprise Industries Aerospace & Defense Automotive Medical Electronics & Semiconductors Data Centers Company About Careers Press Investor Relations Legal Resources Technical Hub Design Guides Get Started Case Studies Materials Guide Finishes Guide Manufacturing Standards CAD Add-ins Release Notes Partners Xometry Partner Network Become a Supplier Workcenter Supplier Network Quality Assurance Certifications Privacy & Security Support Help Center Contact Us © 2026 Xometry, Inc. All Rights Reserved. ISO 9001:2015 ISO13485:2016 AS9100D IATF 16949:2016 ITAR CMMC Level 2 JCP Cookie Policy Xometry stores cookies on your computer to provide more personalized services to you, both on this website and through other media. By using this website, you consent to the cookies we use and our Privacy Policy . Accept",
+      "after": "The Trends Shaping Manufacturing in 2027 | Download the Report Get an Instant Quote Log In / Register Solutions Manufacturing Processes All Manufacturing Capabilities Additive Manufacturing 3D Printing Service Plastic 3D Printing Service Fused Deposition Modeling HP Multi Jet Fusion Selective Laser Sintering Stereolithography Polyjet Production 3D Printing Service Carbon DLS Metal 3D Printing Service Direct Metal Laser Sintering Metal Binder Jetting Vapor Smoothing 3D Prints CNC Machining CNC Machining CNC Milling CNC Turning CNC Routing Swiss-Type Turning Micro Machining Sheet and Tube Fabrication Sheet Metal Fabrication Sheet Cutting Laser Cutting Waterjet Cutting Laser Tube Cutting Tube Bending Injection Molding Injection Molding Services Plastic Injection Molding Prototype Molding Production Molding Insert Molding Overmolding Micro Molding Other Plastic Production Urethane and Silicone Casting Compression Molding Plastic Extrusion Metal Part Production Die Casting Metal Stamping Metal Extrusion Value-Added Services Assembly Services Rapid Prototyping High-Volume Production Finishing Services For Organizations Enterprise Solutions Industries Industries We Serve Aerospace and Defense Automotive Consumer Products Data Centers Electronics and Semiconductors Government Industrial Medical Motorsports Robotics Become a Supplier Quote Custom Parts in Seconds Upload your files, get an instant quote, and order online. Get an Instant Quote STEP • STP • SLDPRT • STL • DXF • IPT • X_T • X_B • 3DXML • CATPART • PRT • SAT • 3MF • JT files All uploads are secure and confidential. ISO 9001:2015 ISO 13485:2016 AS9100D IATF 16949:2016 ITAR CMMC Level 2 JCP Xometry Instant Quoting Engine® is covered by U.S. Patent Numbers shown here . Xometry values your privacy and security. Learn more . 90,000 Buyers 5,000 Suppliers 4.8/5 Trustpilot Score 165M+ Parts Shipped Services Use Cases CNC Machining 3D Printing Sheet & Tube Fabrication Injection Molding High-Volume Metal Production Trusted Precision: Sub ±0.001′′ Accuracy, Zero Guesswork The trusted choice for precision components, delivering exceptional accuracy from prototype through high-volume production. Virtually any metal or plastic material, expertly finished your way Scalable capacity from one-offs and prototypes to production Includes: CNC milling (3/4/5-axis), CNC turning, CNC drilling, and wire EDM Learn More Get an Instant Quote CNC Machining 3D Printing Sheet & Tube Fabrication Injection Molding High-Volume Metal Production Accelerate Sourcing AI-powered quoting and platform intelligence move your ideas to production faster. Scale Without Limits On-demand capacity for any volume, process, or material, with no minimums required. Optimize Production A U.S. and global network of certified suppliers delivers precision and reliability. Seamless Project Delivery Integrated digital workflows deliver traceability, transparency, and quality from order to final part. Real Stories, Real Impact How SentriLock Overcame Supply Chain Disruption with Prototype-to-Production Support Electric Motorcycle Maker Sourced and Scaled Critical Parts with Xometry Intuitive Machines Returned to the Moon with Xometry-Built Precision Components Laser Tube Cutting Helped Sea Box Scale a Major Defense Project Pushing the Limits of Light: How Elettra 2.0 Is Built for Next-Gen Science Xometry has consistently delivered high-precision aluminum components to a very high standard. Sam Leu The part was perfect! They follow the drawing and 3D data to the letter! Charles Xometry’s prints were very accurate to my design and functioned perfectly! Their online quoting tool is very intuitive. Al The parts we ordered arrived earlier than expected and within the dimensional tolerances that were promised. Todd Wonderful experience SLS 3D-printing of very small nylon parts for a precision application. Mike T. Quality parts, fast! Grant Xometry quoted us a great price with quick turn around. Parts received were within spec. What more could you ask for? Brian The website makes it super easy to get a quote and select the appropriate technology options. Will NM Easy to use! Options on manufacturing, lead time and shipping to help with pricing. Great service, support and follow up. Otto Online platform is easy to use, price was reasonable, and job was done even faster than promised. Curtis Scale Production. Optimize for Tomorrow. Accelerate program efficiency, simplify collaboration, and strengthen your supply chain to achieve guaranteed momentum and seamless execution for every project. Talk to Our Team Life of a Part Turn your vision into reality with a vetted global network that manages your most important parts from design to final delivery. Your browser does not support the video tag. Partner Network Join our supplier network and access reliable demand and new jobs daily Manufacturing Outlook Download the 2027 Manufacturing Outlook report Your browser does not support the video tag. Injection Molding Services Validate and scale your design with confidence News and Views Xometry CEO Talks Manufacturing in Australia October 2026 Defense Firms Plan Big AI Investments, Report Says October 2026 Xometry Releases the 2027 Manufacturing Outlook October 2026 Manufacturing's role in tomorrow’s data center buildouts September 2026 Rachel Zepernick on What's Next for U.S. Manufacturing September 2026 Sanjeev Singh Sahni Joins The Manufacturing Executive Podcast August 2026 Rachel Zepernick Talks Industrial Sourcing And Manufacturing August 2026 Xometry Foundation Announces Partnership with MxD July 2026 Randy Altschuler Talks Manufacturing on Machine Shop Mastery July 2026 Xometry Releases Upgrades to Its AI Model Architecture July 2026 Critical Infrastructure Runs at the Speed of Its Supply Chain July 2026 Xometry Launches Foundation and Innovators Program June 2026 Randy Altschuler sits down with Jim Cramer June 2026 Xometry CEO discusses AI, Partnerships and Record Earnings May 2026 Xometry Appoints Lukas Biewald to its Board of Directors May 2026 Xometry Makes Cramer's Lightning Round May 2026 Xometry Streamlines Data Center Supply Chain May 2026 Xometry and Siemens Partner to Embed AI-Native Supply Chain May 2026 Companies Are Deploying AI. Few Can Prove It Works. May 2026 Supply chain modernization is an urgent U.S. defense need April 2026 U.S. Manufacturing Success Requires Gen-Z's Buy-In April 2026 Opportunity Knocks for Gen Z in Tech-driven Plastics Manufacturing April 2026 Predictive risk detection and supplier selection March 2026 Xometry Deepens AI-Native Marketplace Advantage March 2026 Xometry Co-Founder Randy Altschuler to Exit CEO Post; Successor Named February 2026 Additive Manufacturing’s Next Chapter: From Prototype Tool to Operating Model February 2026 Xometry Announces CEO Succession Plan February 2026 A&D Leaders Prioritize AI-Enabled Supply Chain Solutions January 2026 Xometry Accelerates Marketplace Solutions for Complex Manufacturing Demands January 2026 AI, Reshoring to Reshape Manufacturing in 2026 December 2025 Xometry’s 2026 Outlook: Why AM Is Becoming Essential December 2025 WorkTech Predictions for 2026 and Beyond December 2025 CEO: ‘It’s a Speed War’ in AI-Driven Sourcing November 2025 Xometry Earns Spot on 2025 Deloitte Fast 500™ November 2025 How the U.S. Economy Has Defied Doomsday Predictions on Tariffs November 2025 Xometry CEO on ‘Record Year’ November 2025 Xometry Adds Injection Molding Auto-Quote Capability October 2025 The Future of Manufacturing Is Powered by AI October 2025 Xometry Launches Workcenter Mobile October 2025 How AI Moves Manufacturing from Hardware to Software September 2025 US Companies Are Using AI to Help Offset Increased Tariff Costs September 2025 2026 Manufacturing Outlook July 2025 How Thomas Is Quietly Powering America’s Manufacturing Revival July 2025 Get in Touch Ready to start your next manufacturing project? Our team is here to help with quotes, technical questions, and custom solutions. Phone +1-800-983-1959 Email hello@xometry.com * Company Email Address * First Name * Last Name * Company Name Job Title (optional) * Phone Number 🇺🇸 +1 * Message Submit By entering your contact information, you are agreeing to receive email communications about Xometry products and services. You may update your subscriptions or unsubscribe from these communications at any time using the link at the bottom of every marketing email or by contacting support. For more information, review our Privacy Policy . Digitizing manufacturing with smarter sourcing, instant quotes, and a global supplier network built for innovators. 17.3M+ LBS OF CO2 OFFSET Services CNC Machining 3D Printing Sheet Metal Fabrication Injection Molding Metal Forming & Die Casting Enterprise Industries Aerospace & Defense Automotive Medical Electronics & Semiconductors Data Centers Company About Careers Press Investor Relations Legal Resources Technical Hub Design Guides Get Started Case Studies Materials Guide Finishes Guide Manufacturing Standards CAD Add-ins Release Notes Partners Xometry Partner Network Become a Supplier Workcenter Supplier Network Quality Assurance Certifications Privacy & Security Support Help Center Contact Us © 2026 Xometry, Inc. All Rights Reserved. ISO 9001:2015 ISO13485:2016 AS9100D IATF 16949:2016 ITAR CMMC Level 2 JCP Cookie Policy Xometry stores cookies on your computer to provide more personalized services to you, both on this website and through other media. By using this website, you consent to the cookies we use and our Privacy Policy . Accept",
+      "added": [
+        "Defense Firms Plan Big AI Investments, Report Says October 2026"
+      ],
+      "removed": [],
+      "change_percent": 0.72,
+      "confidence": "high",
+      "published_at": "",
+      "first_seen_at": "2026-08-17T03:43:15+00:00",
+      "discovered_via": "priority"
+    },
+    {
+      "type": "ctas_changed",
+      "priority": "medium",
+      "competitor": "Xometry",
+      "url": "https://www.xometry.com/resources",
+      "category": "content",
+      "page_title": "Xometry Resources",
+      "summary": "CTA发生变化",
+      "details": [],
+      "before": null,
+      "after": null,
+      "added": [
+        "Shot Peening: Definition, Process, and Industrial Applications -> https://www.xometry.com/resources/materials/shot-peening"
+      ],
+      "removed": [
+        "Powder Metallurgy: Definition, Process, and Manufacturing Applications -> https://www.xometry.com/resources/materials/powder-metallurgy"
+      ],
+      "change_percent": 0.0,
+      "confidence": "high",
+      "published_at": "",
+      "first_seen_at": "2026-08-17T03:43:48+00:00",
+      "discovered_via": "priority"
+    },
+    {
+      "type": "visual_changed",
+      "priority": "low",
+      "competitor": "Fictiv",
+      "url": "https://www.fictiv.com/articles",
+      "category": "content",
+      "page_title": "Articles - Fictiv",
+      "summary": "desktop 视图出现明显 UI/布局变化",
+      "details": [
+        "视口：desktop",
+        "RMS 差异：91.64",
+        "变化像素占比：15.39%",
+        "页面截图高度变化：-48px"
+      ],
+      "before": null,
+      "after": null,
+      "added": [],
+      "removed": [],
+      "change_percent": 0.0,
+      "confidence": "high",
+      "published_at": "",
+      "first_seen_at": "2026-08-17T03:45:51+00:00",
+      "discovered_via": "priority"
+    },
+    {
+      "type": "visual_changed",
+      "priority": "low",
+      "competitor": "Fictiv",
+      "url": "https://www.fictiv.com/articles",
+      "category": "content",
+      "page_title": "Articles - Fictiv",
+      "summary": "mobile 视图出现明显 UI/布局变化",
+      "details": [
+        "视口：mobile",
+        "RMS 差异：116.44",
+        "变化像素占比：27.99%",
+        "页面截图高度变化：-48px"
+      ],
+      "before": null,
+      "after": null,
+      "added": [],
+      "removed": [],
+      "change_percent": 0.0,
+      "confidence": "high",
+      "published_at": "",
+      "first_seen_at": "2026-08-17T03:45:51+00:00",
+      "discovered_via": "priority"
+    },
+    {
+      "type": "visual_changed",
+      "priority": "low",
+      "competitor": "JLC CNC",
+      "url": "https://jlccnc.com/blog",
+      "category": "content",
+      "page_title": "CNC Machining & Sheet metal Fabrication Blog - Insights, Tutorials & Case Studies | JLCCNC",
+      "summary": "mobile 视图出现明显 UI/布局变化",
+      "details": [
+        "视口：mobile",
+        "RMS 差异：38.28",
+        "变化像素占比：3.64%"
+      ],
+      "before": null,
+      "after": null,
+      "added": [],
+      "removed": [],
+      "change_percent": 0.0,
+      "confidence": "high",
+      "published_at": "2026-03-26T00:00:00+00:00",
+      "first_seen_at": "2026-08-17T03:49:55+00:00",
+      "discovered_via": "priority"
+    },
+    {
+      "type": "section_copy_changed",
+      "priority": "low",
+      "competitor": "JLC CNC",
+      "url": "https://jlccnc.com/blog/category/metals-for-cnc",
+      "category": "content",
+      "page_title": "Metals for CNC | JLCCNC",
+      "summary": "板块文案更新：Featured Posts",
+      "details": [],
+      "before": "Featured Posts Metals for CNC Top 5 Heat-Resistant Metals for CNC Machining and How to Choose You choose a metal you think can take the heat. Specs are tight, tolerances unforgiving, but mid-flight, thermal expansion warps the part just enough to cause failure. Now multiply that risk by thousands of dollars in losses or a life-critical application. That’s the hidden danger of not choosing the right heat-resistant metal for CNC machining. It’s not just about melting points, it’s about performance under thermal stress, oxidation resistance, machinability, and long-term dimensional stability. In ...... Aug 09, 2025 Metals for CNC What are the Main Differences between Aluminum 6061 and 7075 Dec 27, 2023 Metals for CNC Aluminum vs Brass: CNC Material Guide for Makers Metals for CNC Stainless Steel CNC Machining Material Selection Guide Corrosion Resistance and Cost Comparison of 304 vs 316 May 23, 2025 Metals for CNC Secrets of CNC machining of high hardness stainless steel Cracking the problems of tool wear and work hardening Jun 05, 2025",
+      "after": "Featured Posts Metals for CNC Top 5 Heat-Resistant Metals for CNC Machining and How to Choose You choose a metal you think can take the heat. Specs are tight, tolerances unforgiving, but mid-flight, thermal expansion warps the part just enough to cause failure. Now multiply that risk by thousands of dollars in losses or a life-critical application. That’s the hidden danger of not choosing the right heat-resistant metal for CNC machining. It’s not just about melting points, it’s about performance under thermal stress, oxidation resistance, machinability, and long-term dimensional stability. In ...... Aug 09, 2025 Metals for CNC What are the Main Differences between Aluminum 6061 and 7075 Dec 27, 2023 Metals for CNC Aluminum vs Brass: CNC Material Guide for Makers Metals for CNC Stainless Steel CNC Machining Material Selection Guide Corrosion Resistance and Cost Comparison of 304 vs 316 May 24, 2025 Metals for CNC Secrets of CNC machining of high hardness stainless steel Cracking the problems of tool wear and work hardening Jun 06, 2025",
+      "added": [
+        "24,",
+        "06,"
+      ],
+      "removed": [
+        "23,",
+        "05,"
+      ],
+      "change_percent": 2.38,
+      "confidence": "high",
+      "published_at": "2025-08-09T00:00:00+00:00",
+      "first_seen_at": "2026-08-17T03:50:37+00:00",
+      "discovered_via": "sitemap"
+    },
+    {
+      "type": "section_copy_changed",
+      "priority": "low",
+      "competitor": "JLC CNC",
+      "url": "https://jlccnc.com/blog/category/tools-cutting-instruments",
+      "category": "content",
+      "page_title": "Tools & Cutting Instruments | JLCCNC",
+      "summary": "板块文案更新：Featured Posts",
+      "details": [],
+      "before": "Featured Posts Tools & Cutting Instruments End Milling Explained: Types, Uses & Best End Mills for Metal & Wood If you’re serious about machining precision parts, end milling isn’t just another operation, it’s the backbone of modern subtractive manufacturing. But despite how common end mills are in workshops and factories, many still underestimate how nuanced they can be. From tool geometry and coating to matching the right end mill to the material (yes, there's a difference between what cuts wood cleanly and what survives stainless steel), the details make or break your result. This blog isn’t a surface-level ...... Jun 30, 2025 Tools & Cutting Instruments End Milling vs Face Milling: Key Differences, Tools & Applications Jul 22, 2025 Tools & Cutting Instruments CNC Tooling 101: Choosing the Right End Mills and Cutters Oct 26, 2025 Tools & Cutting Instruments How to Choose the Right Cutting Tool Material (CNC & Lathe Guide) Sep 06, 2025 Tools & Cutting Instruments A Complete Guide to Tool Wear Detection and Maintenance in CNC Machining",
+      "after": "Featured Posts Tools & Cutting Instruments End Milling Explained: Types, Uses & Best End Mills for Metal & Wood If you’re serious about machining precision parts, end milling isn’t just another operation, it’s the backbone of modern subtractive manufacturing. But despite how common end mills are in workshops and factories, many still underestimate how nuanced they can be. From tool geometry and coating to matching the right end mill to the material (yes, there's a difference between what cuts wood cleanly and what survives stainless steel), the details make or break your result. This blog isn’t a surface-level ...... Jun 30, 2025 Tools & Cutting Instruments End Milling vs Face Milling: Key Differences, Tools & Applications Jul 22, 2025 Tools & Cutting Instruments CNC Tooling 101: Choosing the Right End Mills and Cutters Oct 27, 2025 Tools & Cutting Instruments How to Choose the Right Cutting Tool Material (CNC & Lathe Guide) Sep 06, 2025 Tools & Cutting Instruments A Complete Guide to Tool Wear Detection and Maintenance in CNC Machining",
+      "added": [
+        "27,"
+      ],
+      "removed": [
+        "26,"
+      ],
+      "change_percent": 1.17,
+      "confidence": "high",
+      "published_at": "2025-06-30T00:00:00+00:00",
+      "first_seen_at": "2026-08-17T03:50:35+00:00",
+      "discovered_via": "sitemap"
+    },
+    {
+      "type": "section_copy_changed",
+      "priority": "low",
+      "competitor": "JLC CNC",
+      "url": "https://jlccnc.com/blog/cnc-machining-vs-3d-printing",
+      "category": "content",
+      "page_title": "Differences between CNC machining and 3D printing",
+      "summary": "板块文案更新：CNC Machining vs 3D Printing: Complementary Technologies for Prototyping",
+      "details": [],
+      "before": "CNC Machining vs 3D Printing: Complementary Technologies for Prototyping Published Oct 28, 2025, updated Dec 22, 2025 11 min Table of Contents Introduction: Multiple Options for Rapid Prototyping Part 1 - Core Advantages and Limitations of CNC Machining Part 2 - Unique Advantages and Challenges of 3D Printing Part 3 - Cost and Time Efficiency Analysis Part 4 - Design Strategies for Selecting the Right Process Part 5 - Industry Applications Part 6 - FAQ & Practical Solutions Part 7 - Advantages of Online Manufacturing Platforms Introduction: Multiple Options for Rapid Prototyping In today’s fast-paced product development environment, rapid prototyping is a critical part of the design cycle. Engineers and designers need to validate their ideas quickly, test functionality, and optimize designs before moving to full-scale production. Two of the most widely used technologies are CNC machining and 3D printing . Each technology has unique advantages, limitations, and optimal use cases. By understanding their differences, companies can adopt a hybrid prototyping strategy that combines the speed of 3D printing with the precision of CNC machining. JLCCNC and JLC3DP, part of the JLC, provide...",
+      "after": "CNC Machining vs 3D Printing: Complementary Technologies for Prototyping Published Oct 29, 2025, updated Dec 22, 2025 11 min Table of Contents Introduction: Multiple Options for Rapid Prototyping Part 1 - Core Advantages and Limitations of CNC Machining Part 2 - Unique Advantages and Challenges of 3D Printing Part 3 - Cost and Time Efficiency Analysis Part 4 - Design Strategies for Selecting the Right Process Part 5 - Industry Applications Part 6 - FAQ & Practical Solutions Part 7 - Advantages of Online Manufacturing Platforms Introduction: Multiple Options for Rapid Prototyping In today’s fast-paced product development environment, rapid prototyping is a critical part of the design cycle. Engineers and designers need to validate their ideas quickly, test functionality, and optimize designs before moving to full-scale production. Two of the most widely used technologies are CNC machining and 3D printing . Each technology has unique advantages, limitations, and optimal use cases. By understanding their differences, companies can adopt a hybrid prototyping strategy that combines the speed of 3D printing with the precision of CNC machining. JLCCNC and JLC3DP, part of the JLC, provide...",
+      "added": [
+        "29,"
+      ],
+      "removed": [
+        "28,"
+      ],
+      "change_percent": 1.09,
+      "confidence": "high",
+      "published_at": "2025-12-26T00:00:00+00:00",
+      "first_seen_at": "2026-08-17T03:50:59+00:00",
+      "discovered_via": "sitemap"
+    },
+    {
+      "type": "section_copy_changed",
+      "priority": "low",
+      "competitor": "Xometry",
+      "url": "https://www.xometry.com/resources",
+      "category": "content",
+      "page_title": "Xometry Resources",
+      "summary": "板块文案更新：Tube",
+      "details": [],
+      "before": "Tube View All Tube Content The latest news, trends, and manufacturing design tips for laser tube cutting, tube bending, tube rolling, and more. Article Designing Normalized Coped Cuts on Round Tube By Greg Paulsen 5 min read Article Normal to Surface Cuts in Tube Manufacturing By Greg Paulsen 3 min read Article Designing Normalized Mitered Cuts on Rectangle Tube By Greg Paulsen 4 min read Article Designing Normalized Mitered Cuts on Round Tube By Greg Paulsen 5 min read",
+      "after": "Tube View All Tube Content The latest news, trends, and manufacturing design tips for laser tube cutting, tube bending, tube rolling, and more. Article Designing Normalized Coped Cuts on Round Tube By Greg Paulsen 5 min read Article Normal to Surface Cuts in Tube Manufacturing By Greg Paulsen 3 min read Article Designing Normalized Mitered Cuts on Round Tube By Greg Paulsen 5 min read Article Designing Normalized Mitered Cuts on Rectangle Tube By Greg Paulsen 4 min read",
+      "added": [
+        "Round Tube By Greg Paulsen 5 min read Article Designing Normalized Mitered Cuts on"
+      ],
+      "removed": [
+        "Article Designing Normalized Mitered Cuts on Round Tube By Greg Paulsen 5 min read"
+      ],
+      "change_percent": 35.44,
+      "confidence": "high",
+      "published_at": "",
+      "first_seen_at": "2026-08-17T03:43:48+00:00",
+      "discovered_via": "priority"
+    }
+  ],
+  "errors": [
+    "Seed page failed: https://www.hubs.com/manufacturing-services (HTTP 404)",
+    "Hubs | https://www.hubs.com/manufacturing-services | HTTP 404",
+    "Hubs | https://www.hubs.com/knowledgebasearticle | HTTP 404",
+    "Hubs | https://www.hubs.com/articleblogarticle | HTTP 404",
+    "Hubs | https://www.hubs.com/knowledgebasecollection | HTTP 404",
+    "Xometry | https://investors.xometry.com/news-releases/news-release-details/access-becoming-manufacturings-competitive-advantage-according | HTTP 403",
+    "Xometry | https://investors.xometry.com/news-releases/news-release-details/xometry-foundation-announces-partnership-mxd-expand | HTTP 403",
+    "Xometry | https://investors.xometry.com/news-releases/news-release-details/xometry-releases-comprehensive-upgrades-its-ai-model | HTTP 403",
+    "Xometry | https://investors.xometry.com/news-releases/news-release-details/xometry-launches-foundation-committing-1-million-advance | HTTP 403",
+    "Xometry | https://investors.xometry.com/news-releases/news-release-details/xometry-appoints-lukas-biewald-its-board-directors | HTTP 403",
+    "Xometry | https://investors.xometry.com/news-releases/news-release-details/xometry-streamlines-data-center-supply-chain-offering-single | HTTP 403",
+    "Xometry | https://investors.xometry.com/news-releases/news-release-details/xometry-and-siemens-partner-embed-ai-native-supply-chain | HTTP 403",
+    "Xometry | https://investors.xometry.com/news-releases/news-release-details/xometry-deepens-ai-native-marketplace-advantage-new-enterprise | HTTP 403",
+    "Xometry | https://investors.xometry.com/news-releases/news-release-details/xometry-announces-ceo-succession-plan | HTTP 403",
+    "Xometry | https://investors.xometry.com/news-releases/news-release-details/aerospace-defense-leaders-prioritize-ai-enabled-sourcing | HTTP 403",
+    "Xometry | https://investors.xometry.com/news-releases/news-release-details/xometry-marketplace-accelerates-solutions-complex-manufacturing | HTTP 403",
+    "Seed page failed: https://www.fictiv.com/services (HTTP 404)",
+    "Fictiv | https://www.fictiv.com/services | HTTP 404",
+    "Fictiv | https://www.fictiv.com/articles/6-axis-cnc-machining | HTTP 429",
+    "Fictiv | https://www.fictiv.com/articles/fictiv-named-one-of-fast-companys-2026-best-workplaces-for-innovators | HTTP 429",
+    "Fictiv | https://www.fictiv.com/articles/food-grade-3dp-manufacturing | HTTP 429",
+    "Fictiv | https://www.fictiv.com/articles/progressive-sheet-metal-stamping | HTTP 429",
+    "Fictiv | https://www.fictiv.com/materials/cnc-machining-bronze | HTTP 429",
+    "Fictiv | https://www.fictiv.com/materials/cnc-machining-garolite-g-10 | HTTP 429",
+    "Fictiv | https://www.fictiv.com/materials/cnc-machining-cast-iron | HTTP 429",
+    "Fictiv | https://www.fictiv.com/capabilities/3d-printing-services/multi-jet-fusion | HTTP 429",
+    "Fictiv | https://www.fictiv.com/capabilities/die-casting-services | HTTP 429",
+    "Fictiv | https://www.fictiv.com/capabilities/injection-molding-services | HTTP 429",
+    "Fictiv | https://www.fictiv.com/capabilities/cnc-machining-services | HTTP 429",
+    "Fictiv | https://www.fictiv.com/case-studies/berkley-case-study | HTTP 429",
+    "Fictiv | https://www.fictiv.com/articles/sheet-metal-material-selection-for-aerospace-applications | HTTP 429",
+    "Fictiv | https://www.fictiv.com/articles/prototyping-with-casting | HTTP 429",
+    "Fictiv | https://www.fictiv.com/articles/manufacturing-cost-per-quantity | HTTP 429",
+    "Fictiv | https://www.fictiv.com/articles/manufacturing-process-selection-a-guide | HTTP 429",
+    "Fictiv | https://www.fictiv.com/articles/medical-device-manufacturing-sourcing | HTTP 429",
+    "Fictiv | https://www.fictiv.com/articles/physical-ai-engineering-hardware | HTTP 429",
+    "Fictiv | https://www.fictiv.com/articles/low-volume-manufacturing | HTTP 429",
+    "Fictiv | https://www.fictiv.com/articles/pilot-production-manufacturing | HTTP 429",
+    "Fictiv | https://www.fictiv.com/articles/metal-parts-manufacturing | HTTP 429",
+    "Fictiv | https://www.fictiv.com/articles/dfm-design-for-manufacturing-guide | HTTP 429",
+    "Fictiv | https://www.fictiv.com/articles/common-tolerance-mistakes-and-how-to-fix | HTTP 429",
+    "Fictiv | https://www.fictiv.com/articles/material-traceability-in-manufacturing | HTTP 429",
+    "Fictiv | https://www.fictiv.com/articles/certificate-of-conformance | HTTP 429",
+    "Fictiv | https://www.fictiv.com/articles/injection-molding-cycle-time | HTTP 429",
+    "Fictiv | https://www.fictiv.com/articles/mro-parts-reverse-engineering-guide | HTTP 429",
+    "Fictiv | https://www.fictiv.com/articles/humanoid-robotics-manufacturing-sourcing-strategy | HTTP 429",
+    "Fictiv | https://www.fictiv.com/articles/manufacturing-continuity-and-reducing-risk-during-production-scale-up | HTTP 429",
+    "Fictiv | https://www.fictiv.com/articles/custom-vs-configurable-components | HTTP 429",
+    "Fictiv | https://www.fictiv.com/articles/metal-casting-defects-causes-prevention | HTTP 429",
+    "Fictiv | https://www.fictiv.com/articles/industrial-automation-mro-strategy-guide | HTTP 429",
+    "Fictiv | https://www.fictiv.com/articles/large-plastic-part-injection-molding | HTTP 429",
+    "Fictiv | https://www.fictiv.com/articles/fictivmade-part-8-final-part-unboxing-testing | HTTP 429",
+    "Fictiv | https://www.fictiv.com/articles/robotic-arm-components-manufacturing | HTTP 429",
+    "Fictiv | https://www.fictiv.com/articles/manufacturing-partner-evaluation | HTTP 429",
+    "Fictiv | https://www.fictiv.com/articles/ai-in-mechanical-engineering | HTTP 429",
+    "Fictiv | https://www.fictiv.com/articles/how-to-build-a-bom | HTTP 429",
+    "Fictiv | https://www.fictiv.com/articles/custom-and-standard-components-single-source-bom | HTTP 429",
+    "Fictiv | https://www.fictiv.com/articles/2025-u-s-tariff-updates-key-trade-policy-changes | HTTP 429",
+    "Fictiv | https://www.fictiv.com/articles/us-manufacturing-workforce-gap-2026 | HTTP 429",
+    "Fictiv | https://www.fictiv.com/articles/design-for-testability-dft | HTTP 429",
+    "Fictiv | https://www.fictiv.com/articles/gravity-casting-permanent-mold | HTTP 429",
+    "Fictiv | https://www.fictiv.com/articles/as9100-v-iso-9001-aerospace-quality-standards | HTTP 429",
+    "Fictiv | https://www.fictiv.com/articles/built-tough-built-loud-the-development-story-behind-the-loudest-speaker-on-the-market | HTTP 429",
+    "Fictiv | https://www.fictiv.com/articles/accelerating-through-success-start-local-scale-global | HTTP 429",
+    "Fictiv | https://www.fictiv.com/articles/manufacturing-simplicity-how-an-innovative-firm-is-redefining-the-everyday | HTTP 429",
+    "Fictiv | https://www.fictiv.com/articles/how-one-startup-harnessed-the-sunand-taught-people-how-to-fish-off-grid-electric-spotlight | HTTP 429",
+    "Fictiv | https://www.fictiv.com/articles/3d-tlc-best-practices-at-one-of-the-bay-areas-top-3d-print-shops | HTTP 429",
+    "Fictiv | https://www.fictiv.com/articles/getting-intimate-with-your-prototype-lioness-spotlight | HTTP 429",
+    "Fictiv | https://www.fictiv.com/articles/how-to-work-with-community-and-come-out-with-a-product-thats-better-not-worse | HTTP 429",
+    "Fictiv | https://www.fictiv.com/articles/evtol-aircraft-components-custom-vs-standard-parts | HTTP 429",
+    "Fictiv | https://www.fictiv.com/articles/how-to-prototype-rubber-designs | HTTP 429",
+    "Fictiv | https://www.fictiv.com/articles/practical-guide-to-prototype-testing | HTTP 429",
+    "Fictiv | https://www.fictiv.com/articles/how-to-accelerate-your-engineering-builds-and-ensure-you-get-parts-that-fit | HTTP 429",
+    "Fictiv | https://www.fictiv.com/articles/mro-inventory-management-jit-strategy | HTTP 429",
+    "Fictiv | https://www.fictiv.com/articles/5-options-for-building-large-scale-prototypes | HTTP 429",
+    "Fictiv | https://www.fictiv.com/articles/advanced-materials-guide-for-injection-molding | HTTP 429",
+    "Fictiv | https://www.fictiv.com/articles/3-axis-cnc-machining-guide | HTTP 429",
+    "Fictiv | https://www.fictiv.com/articles/ai-powered-digital-manufacturing-platforms-for-engineers | HTTP 429",
+    "Fictiv | https://www.fictiv.com/articles/cnc-vs-die-casting-qualification-scorecard | HTTP 429",
+    "Fictiv | https://www.fictiv.com/articles/types-of-springs-and-their-applications-an-overview | HTTP 429",
+    "Fictiv | https://www.fictiv.com/articles/scaling-cnc-machining-to-casting-transition-guide | HTTP 429",
+    "Fictiv | https://www.fictiv.com/articles/semiconductor-equipment-manufacturing | HTTP 429",
+    "Fictiv | https://www.fictiv.com/articles/prototyping-cost-process-pricing | HTTP 429",
+    "Fictiv | https://www.fictiv.com/articles/misumi-vending-machines-mro-supply-chain | HTTP 429",
+    "Fictiv | https://www.fictiv.com/articles/stage-gate-product-development-process-models | HTTP 429",
+    "Fictiv | https://www.fictiv.com/articles/cleanroom-manufacturing-iso-standards-design-applications | HTTP 429",
+    "Fictiv | https://www.fictiv.com/articles/prototyping-lead-time-process-timelines-and-how-to-reduce-delays | HTTP 429",
+    "Fictiv | https://www.fictiv.com/articles/simulation-vs-reality-hardware-development | HTTP 429",
+    "Fictiv | https://www.fictiv.com/articles/ai-data-center-infrastructure-design | HTTP 429",
+    "Fictiv | https://www.fictiv.com/articles/stage-gate-product-development-process-models/thank-you | HTTP 429",
+    "Fictiv | https://www.fictiv.com/articles/announcing-fictivs-automated-injection-molding-dfm | HTTP 429",
+    "Fictiv | https://www.fictiv.com/articles/how-to-design-snap-fit-components | HTTP 429",
+    "Fictiv | https://www.fictiv.com/articles/the-zen-of-product-design-how-lockitron-let-go-of-the-extraneous-and-non-essential | HTTP 429",
+    "Fictiv | https://www.fictiv.com/articles/gdt-101-an-introduction-to-geometric-dimensioning-and-tolerancing | HTTP 429",
+    "Fictiv | https://www.fictiv.com/articles/aerospace-materials-finishes-for-spacecraft-and-satellites | HTTP 429",
+    "Fictiv | https://www.fictiv.com/articles/what-are-mro-parts-definition-sourcing-strategies | HTTP 429",
+    "Fictiv | https://www.fictiv.com/articles/building-the-world-they-want-to-live-in | HTTP 429",
+    "Seed page failed: https://jlccnc.com/surface-finishes (HTTP 404)",
+    "Seed page failed: https://www.pcbway.com/rapid-prototyping (HTTP 404)",
+    "PCBWay | https://www.pcbway.com/rapid-prototyping/cnc-machining | HTTP 404",
+    "PCBWay | https://www.pcbway.com/rapid-prototyping/3d-printing | HTTP 404",
+    "Seed page failed: https://www.emachineshop.com/services (HTTP 404)",
+    "eMachineShop | https://www.emachineshop.com/resources | Page.goto: Timeout 25000ms exceeded.\nCall log:\n  - navigating to \"https://www.emachineshop.com/resources\", waiting until \"domcontentloaded\"\n",
+    "eMachineShop | https://www.emachineshop.com/ | Page.goto: Timeout 25000ms exceeded.\nCall log:\n  - navigating to \"https://www.emachineshop.com/\", waiting until \"domcontentloaded\"\n",
+    "eMachineShop | https://www.emachineshop.com/services | Page.goto: Timeout 25000ms exceeded.\nCall log:\n  - navigating to \"https://www.emachineshop.com/services\", waiting until \"domcontentloaded\"\n",
+    "eMachineShop | https://www.emachineshop.com/cnc-machining | Page.goto: Timeout 25000ms exceeded.\nCall log:\n  - navigating to \"https://www.emachineshop.com/cnc-machining\", waiting until \"domcontentloaded\"\n",
+    "eMachineShop | https://www.emachineshop.com/prototype-vs-production-manufacturing | Page.goto: Timeout 25000ms exceeded.\nCall log:\n  - navigating to \"https://www.emachineshop.com/prototype-vs-production-manufacturing\", waiting until \"domcontentloaded\"\n",
+    "eMachineShop | https://www.emachineshop.com/cnc-inside-corner-radius | Page.goto: Timeout 25000ms exceeded.\nCall log:\n  - navigating to \"https://www.emachineshop.com/cnc-inside-corner-radius\", waiting until \"domcontentloaded\"\n",
+    "Seed page failed: https://www.cnclathing.com/blog (HTTP 404)",
+    "CNCLATHING | https://www.cnclathing.com/blog | HTTP 404"
+  ],
+  "discovery": [
+    {
+      "competitor": "Hubs",
+      "base_url": "https://www.hubs.com/",
+      "tracked_urls": 120,
+      "source_counts": {
+        "priority": 7,
+        "feed": 0,
+        "sitemap": 2876,
+        "links": 296
+      }
+    },
+    {
+      "competitor": "Xometry",
+      "base_url": "https://www.xometry.com/",
+      "tracked_urls": 120,
+      "source_counts": {
+        "priority": 6,
+        "feed": 100,
+        "sitemap": 0,
+        "links": 213
+      }
+    },
+    {
+      "competitor": "Fictiv",
+      "base_url": "https://www.fictiv.com/",
+      "tracked_urls": 120,
+      "source_counts": {
+        "priority": 6,
+        "feed": 37,
+        "sitemap": 1159,
+        "links": 131
+      }
+    },
+    {
+      "competitor": "Protolabs",
+      "base_url": "https://www.protolabs.com/",
+      "tracked_urls": 120,
+      "source_counts": {
+        "priority": 6,
+        "feed": 0,
+        "sitemap": 713,
+        "links": 143
+      }
+    },
+    {
+      "competitor": "JLC CNC",
+      "base_url": "https://jlccnc.com/",
+      "tracked_urls": 120,
+      "source_counts": {
+        "priority": 5,
+        "feed": 0,
+        "sitemap": 1074,
+        "links": 86
+      }
+    },
+    {
+      "competitor": "PCBWay",
+      "base_url": "https://www.pcbway.com/",
+      "tracked_urls": 120,
+      "source_counts": {
+        "priority": 3,
+        "feed": 0,
+        "sitemap": 0,
+        "links": 133
+      }
+    },
+    {
+      "competitor": "eMachineShop",
+      "base_url": "https://www.emachineshop.com/",
+      "tracked_urls": 48,
+      "source_counts": {
+        "priority": 4,
+        "feed": 6,
+        "sitemap": 41,
+        "links": 16
+      }
+    },
+    {
+      "competitor": "SyBridge",
+      "base_url": "https://sybridge.com/",
+      "tracked_urls": 73,
+      "source_counts": {
+        "priority": 4,
+        "feed": 2,
+        "sitemap": 64,
+        "links": 25
+      }
+    },
+    {
+      "competitor": "CNCLATHING",
+      "base_url": "https://www.cnclathing.com/",
+      "tracked_urls": 120,
+      "source_counts": {
+        "priority": 4,
+        "feed": 0,
+        "sitemap": 732,
+        "links": 86
+      }
+    }
+  ],
+  "email": {
+    "text": "竞品追踪日报 · 2026-10-10\n\n今日概览：共检测到 29 项记录。 近期新发布内容 2 篇。 监控异常 1 项。 内容页更新 2 篇。 页面变化 23 项。 另有 3 项低优先级变化已折叠。 变化较多：JLC CNC, SyBridge, Fictiv。\n\n【监控异常（优先处理）】\n· Fictiv | 监控健康告警\n  - 抓取失败率过高：尝试页面：120；失败页面：80；失败率：66.7%\n  https://www.fictiv.com/\n\n【近期新发布内容】\n· Fictiv | Anisotropic vs. Isotropic Materials for Engineers: A Manufa...\n  - 新发布内容：Anisotropic vs. Isotropic Materials for Engineers: A Manufacturing Guide。实际发布时间：2026-10-09；系统首次发现：2026-10-10；发现延迟：0 天\n  https://www.fictiv.com/articles/anisotropic-vs-isotropic-materials\n· Fictiv | Surgical Robotics Hardware Manufacturing Guide | Fictiv\n  - 新发布内容：Surgical Robotics Hardware Manufacturing Guide | Fictiv。实际发布时间：2026-10-09；系统首次发现：2026-10-10；发现延迟：0 天\n  https://www.fictiv.com/articles/surgical-robotics-hardware-manufacturing\n\n【内容页更新】\n· JLC CNC | How Does CNC Machining Differ From Traditional Machining Me...\n  - 页面正文发生可定位的变化；新增：CNC Automation: Systems, Software, and Manufacturing Solutions Explained Key Takeaways • CNC automation combines machine tools, software, and material handling into a system that... / Tempering? Metal Tempering Process and / Key Takeaways In conventional quench-and-temper treatment, tempering reheats previously hardened steel below its lower critical temperature. Temperature and holding time affect th...；删除：EDM? How Electrical Discharge Machining Works What Is EDM (Electrical Discharge Machining)? How It Works & / mold shop needs / cut a cavity into hardened tool steel —；变更范围约 39.5%\n  https://jlccnc.com/blog/cnc-vs-traditional-machining\n· JLC CNC | What Is a CNC Lathe? Everything You Need to Know About CNC...\n  - 页面正文发生可定位的变化；新增：What Steps Are Taken To Minimize Waste In CNC Machining Processes? • What Steps Are Taken To Minimize Waste In CNC Machining Processes? / CNC Automation: Systems, Software, and Manufacturing Solutions Explained / • CNC automation combines machine tools, software, and material handling into；删除：What Are Secondary Operations in Manufacturing? / Secondary operations refine / after；变更范围约 34.7%\n  https://jlccnc.com/blog/what-is-a-cnc-lathe\n\n【定价 & 首页变化】\n· PCBWay | China PCB Prototype & Fabrication Manufacturer - PCB Protot...\n  - 板块文案更新：Affordable Prototype PCB Manufacturer in China；新增：92322 / 1608 / 10-10 I****in 5-6；删除：91557 / 2275 / 10-09 A****or 3-4；变更范围约 142.4%\n  https://www.pcbway.com/\n\n【SEO 变化】\n· SyBridge | Fast Radius | SyBridge Technologies\n  - SEO 标题发生变化；新增：Fast Radius；删除：Specialty Manufacturing Services；变更范围约 83.3%\n  - Meta 描述发生变化；新增：services from Fast Radius, a / brand,；删除：Technologies’ specialty manufacturing services,；变更范围约 35.7%\n  https://sybridge.com/component-manufacturing\n· SyBridge | High-Volume 3D Printing Services | Fast Radius\n  - SEO 标题发生变化；新增：Fast Radius；删除：SyBridge Technologies；变更范围约 57.1%\n  https://sybridge.com/component-manufacturing/3d-printing\n· SyBridge | CNC Machining - Fast Radius\n  - SEO 标题发生变化；新增：Fast Radius；删除：SyBridge Technologies；变更范围约 80.0%\n  https://sybridge.com/component-manufacturing/cnc-machining\n· SyBridge | Injection Molding Production - Fast Radius\n  - SEO 标题发生变化；新增：Fast Radius；删除：SyBridge Technologies；变更范围约 66.7%\n  https://sybridge.com/component-manufacturing/injection-molding-production\n· SyBridge | Sheet Metal Fabrication - Fast Radius\n  - SEO 标题发生变化；新增：Fast Radius；删除：SyBridge Technologies；变更范围约 66.7%\n  https://sybridge.com/component-manufacturing/sheet-metal-fabrication\n· SyBridge | Urethane Casting - Fast Radius\n  - SEO 标题发生变化；新增：Fast Radius；删除：SyBridge Technologies；变更范围约 80.0%\n  https://sybridge.com/component-manufacturing/urethane-casting\n\n【文案 & 结构】\n· Xometry | Custom Manufacturing on Demand | Production Parts and Proto...\n  - 页面正文发生可定位的变化；新增：Defense Firms Plan Big AI Investments, Report Says October 2026；变更范围约 0.7%\n  https://www.xometry.com/\n· Xometry | Xometry Resources\n  - CTA发生变化；新增：Shot Peening: Definition, Process, and Industrial Applications -> https://www.xometry.com/resources/materials/shot-peening；删除：Powder Metallurgy: Definition, Process, and Manufacturing Applications -> https://www.xometry.com/resources/materials/powder-metallurgy\n  - 板块文案更新：Tube；新增：Round Tube By Greg Paulsen 5 min read Article Designing Normalized Mitered Cuts on；删除：Article Designing Normalized Mitered Cuts on Round Tube By Greg Paulsen 5 min read；变更范围约 35.4%\n  https://www.xometry.com/resources\n· JLC CNC | Metals for CNC | JLCCNC\n  - 板块文案更新：Featured Posts；新增：24, / 06,；删除：23, / 05,；变更范围约 2.4%\n  https://jlccnc.com/blog/category/metals-for-cnc\n· JLC CNC | Tools & Cutting Instruments | JLCCNC\n  - 板块文案更新：Featured Posts；新增：27,；删除：26,；变更范围约 1.2%\n  https://jlccnc.com/blog/category/tools-cutting-instruments\n· JLC CNC | Differences between CNC machining and 3D printing\n  - 板块文案更新：CNC Machining vs 3D Printing: Complementary Technologies for Prototyping；新增：29,；删除：28,；变更范围约 1.1%\n  https://jlccnc.com/blog/cnc-machining-vs-3d-printing\n\n【UI 布局变化】\n· SyBridge | Optimizing Your Injection Molding Process for Cost-Effectiv...\n  - Optimizing Your Injection Molding Process for Cost-Effectiv... mobile 端页面布局有明显变化（建议打开链接目视确认）\n  https://sybridge.com/optimizing-your-injection-molding-process\n· CNCLATHING | China Top CNC Machining Service OEM Supplier & Manufacturer...\n  - China Top CNC Machining Service OEM Supplier & Manufacturer... desktop 端页面布局有明显变化（建议打开链接目视确认）\n  https://www.cnclathing.com/\n· CNCLATHING | CNC Machining Services & Precision Machined Parts Manufactu...\n  - CNC Machining Services & Precision Machined Parts Manufactu... desktop 端页面布局有明显变化（建议打开链接目视确认）\n  - CNC Machining Services & Precision Machined Parts Manufactu... mobile 端页面布局有明显变化（建议打开链接目视确认）\n  https://www.cnclathing.com/cnc-machining-services\n· Fictiv | Fictiv: Sourcing Simplified for Custom Manufacturing Servic...\n  - Fictiv: Sourcing Simplified for Custom Manufacturing Servic... desktop 端页面布局有明显变化（建议打开链接目视确认）\n  https://www.fictiv.com/\n· JLC CNC | Online CNC Machining Service - JLCCNC\n  - Online CNC Machining Service - JLCCNC desktop 端页面布局有明显变化（建议打开链接目视确认）\n  - Online CNC Machining Service - JLCCNC mobile 端页面布局有明显变化（建议打开链接目视确认）\n  https://jlccnc.com/\n\n已折叠不展示：UI 布局 3 项。完整列表见 reports/ 目录。\n\n抓取提醒：\n- Seed page failed: https://www.hubs.com/manufacturing-services (HTTP 404)\n- Hubs | https://www.hubs.com/manufacturing-services | HTTP 404\n- Hubs | https://www.hubs.com/knowledgebasearticle | HTTP 404\n- Hubs | https://www.hubs.com/articleblogarticle | HTTP 404\n- Hubs | https://www.hubs.com/knowledgebasecollection | HTTP 404\n- Xometry | https://investors.xometry.com/news-releases/news-release-details/access-becoming-manufacturings-competitive-advantage-according | HTTP 403\n- Xometry | https://investors.xometry.com/news-releases/news-release-details/xometry-foundation-announces-partnership-mxd-expand | HTTP 403\n- Xometry | https://investors.xometry.com/news-releases/news-release-details/xometry-releases-comprehensive-upgrades-its-ai-model | HTTP 403\n- Xometry | https://investors.xometry.com/news-releases/news-release-details/xometry-launches-foundation-committing-1-million-advance | HTTP 403\n- Xometry | https://investors.xometry.com/news-releases/news-release-details/xometry-appoints-lukas-biewald-its-board-directors | HTTP 403\n\n完整明细见仓库 reports/ 目录中的 HTML 报告。",
+    "html": "<!doctype html>\n<html lang=\"zh-CN\">\n<head>\n  <meta charset=\"utf-8\">\n  <meta name=\"viewport\" content=\"width=device-width, initial-scale=1\">\n  <title>竞品追踪日报 · 2026-10-10</title>\n  <style>\n    body { margin: 0; padding: 24px; font-family: Arial, 'Microsoft YaHei', sans-serif; color: #1a1a1a; background: #f4f5f7; line-height: 1.5; }\n    h1 { font-size: 22px; margin: 0 0 6px; }\n    h2 { font-size: 16px; margin: 24px 0 10px; color: #333; }\n    section { margin: 16px 0; }\n    table { width: 100%; border-collapse: collapse; background: #fff; border: 1px solid #e2e6ea; }\n    th, td { padding: 10px 12px; border-bottom: 1px solid #edf0f3; text-align: left; font-size: 13px; vertical-align: top; }\n    th { background: #f8f9fb; color: #555; font-weight: 600; }\n    tr:last-child td { border-bottom: none; }\n    a { color: #1565c0; text-decoration: none; }\n    .muted { color: #666; font-size: 13px; }\n    .summary { background: #fff; border: 1px solid #e2e6ea; padding: 14px 16px; border-radius: 4px; }\n    .summary-table td:first-child { width: 110px; color: #666; }\n    .summary-table td { border: none; padding: 4px 8px 4px 0; }\n    .changes { color: #222; }\n    .change-block { margin-bottom: 8px; }\n    .change-block:last-child { margin-bottom: 0; }\n    .diff-added { margin-top: 5px; padding: 5px 7px; color: #067647; background: #ecfdf3; border-left: 3px solid #12b76a; }\n    .diff-removed { margin-top: 5px; padding: 5px 7px; color: #b42318; background: #fef3f2; border-left: 3px solid #f04438; }\n    .timing { margin-top: 5px; color: #667085; font-size: 12px; }\n    .badge { display: inline-block; border-radius: 3px; padding: 2px 6px; font-size: 11px; font-weight: 600; text-transform: uppercase; }\n    .badge.high { background: #fde8e8; color: #b42318; }\n    .badge.medium { background: #fff4e5; color: #b54708; }\n    .badge.low { background: #eef4ff; color: #175cd3; }\n    .folded { background: #fafafa; border-left: 3px solid #d0d5dd; padding: 10px 14px; }\n    .footer { margin-top: 20px; font-size: 12px; color: #888; }\n    code { background: #f0f0f0; padding: 1px 4px; border-radius: 3px; }\n    ul { margin: 8px 0 0 18px; padding: 0; }\n  </style>\n</head>\n<body>\n<h1>竞品追踪日报</h1><p class='muted'>2026-10-10</p>\n<section class='summary'><p><strong>今日共检测到 29 项记录。</strong></p><table class='summary-table'><tbody><tr><td>近期新发布内容</td><td><strong>2</strong> 篇</td></tr><tr><td>历史内容补录</td><td>0 篇（不计入今日新闻）</td></tr><tr><td>监控异常</td><td><strong>1</strong> 项</td></tr><tr><td>新增其他页面</td><td><strong>0</strong> 个</td></tr><tr><td>内容页更新</td><td><strong>2</strong> 篇</td></tr><tr><td>页面变化</td><td><strong>23</strong> 项</td></tr><tr><td>已折叠</td><td>3 项</td></tr><tr><td>变化较多</td><td>JLC CNC, SyBridge, Fictiv</td></tr></tbody></table></section>\n<section><h2>监控异常（优先处理）</h2><table><thead><tr><th>竞品</th><th>页面</th><th>具体改了什么</th></tr></thead><tbody><tr><td><span class='badge high'>high</span> Fictiv</td><td>监控健康告警<br><a href='https://www.fictiv.com/'>fictiv.com/</a></td><td class='changes'><div class='change-block'>抓取失败率过高：尝试页面：120；失败页面：80；失败率：66.7%</div></td></tr></tbody></table></section>\n<section><h2>近期新发布内容</h2><table><thead><tr><th>竞品</th><th>页面标题 / 链接</th><th>说明</th></tr></thead><tbody><tr><td><span class='badge high'>high</span> Fictiv</td><td><strong>Anisotropic vs. Isotropic Materials for Engineers: A Manufa...</strong><br><a href='https://www.fictiv.com/articles/anisotropic-vs-isotropic-materials'>https://www.fictiv.com/articles/anisotropic-vs-isotropic-materials</a><div class='timing'>发布：2026-10-09 · 发现：2026-10-10 · 可信度：high</div></td><td class='changes'><div class='change-block'>新发布内容：Anisotropic vs. Isotropic Materials for Engineers: A Manufacturing Guide。实际发布时间：2026-10-09；系统首次发现：2026-10-10；发现延迟：0 天</div></td></tr><tr><td><span class='badge high'>high</span> Fictiv</td><td><strong>Surgical Robotics Hardware Manufacturing Guide | Fictiv</strong><br><a href='https://www.fictiv.com/articles/surgical-robotics-hardware-manufacturing'>https://www.fictiv.com/articles/surgical-robotics-hardware-manufacturing</a><div class='timing'>发布：2026-10-09 · 发现：2026-10-10 · 可信度：high</div></td><td class='changes'><div class='change-block'>新发布内容：Surgical Robotics Hardware Manufacturing Guide | Fictiv。实际发布时间：2026-10-09；系统首次发现：2026-10-10；发现延迟：0 天</div></td></tr></tbody></table></section>\n<section><h2>内容页更新</h2><table><thead><tr><th>竞品</th><th>页面</th><th>具体改了什么</th></tr></thead><tbody><tr><td><span class='badge high'>high</span> JLC CNC</td><td>How Does CNC Machining Differ From Traditional Machining Me...<br><a href='https://jlccnc.com/blog/cnc-vs-traditional-machining'>jlccnc.com/blog/cnc-vs-traditional-machining</a></td><td class='changes'><div class='change-block'><strong>页面正文发生可定位的变化</strong><div class='diff-added'>＋ CNC Automation: Systems, Software, and Manufacturing Solutions Explained Key Takeaways • CNC automation combines machine tools, software, and material handling into a system that reduces direct labor per part and improves process consisten...</div><div class='diff-added'>＋ Tempering? Metal Tempering Process and</div><div class='diff-added'>＋ Key Takeaways In conventional quench-and-temper treatment, tempering reheats previously hardened steel below its lower critical temperature. Temperature and holding time affect the final mechanical properties. Tempered steel is used for to...</div><div class='diff-removed'>－ EDM? How Electrical Discharge Machining Works What Is EDM (Electrical Discharge Machining)? How It Works &amp;</div><div class='diff-removed'>－ mold shop needs</div><div class='diff-removed'>－ cut a cavity into hardened tool steel —</div><span class='muted'>变更范围约 39.5%</span></div></td></tr><tr><td><span class='badge high'>high</span> JLC CNC</td><td>What Is a CNC Lathe? Everything You Need to Know About CNC...<br><a href='https://jlccnc.com/blog/what-is-a-cnc-lathe'>jlccnc.com/blog/what-is-a-cnc-lathe</a></td><td class='changes'><div class='change-block'><strong>页面正文发生可定位的变化</strong><div class='diff-added'>＋ What Steps Are Taken To Minimize Waste In CNC Machining Processes? • What Steps Are Taken To Minimize Waste In CNC Machining Processes?</div><div class='diff-added'>＋ CNC Automation: Systems, Software, and Manufacturing Solutions Explained</div><div class='diff-added'>＋ • CNC automation combines machine tools, software, and material handling into</div><div class='diff-removed'>－ What Are Secondary Operations in Manufacturing?</div><div class='diff-removed'>－ Secondary operations refine</div><div class='diff-removed'>－ after</div><span class='muted'>变更范围约 34.7%</span></div></td></tr></tbody></table></section>\n<section><h2>定价 &amp; 首页变化</h2><table><thead><tr><th>竞品</th><th>页面</th><th>具体改了什么</th></tr></thead><tbody><tr><td><span class='badge medium'>medium</span> PCBWay</td><td>China PCB Prototype &amp; Fabrication Manufacturer - PCB Protot...<br><a href='https://www.pcbway.com/'>pcbway.com/</a></td><td class='changes'><div class='change-block'><strong>板块文案更新：Affordable Prototype PCB Manufacturer in China</strong><div class='diff-added'>＋ 92322</div><div class='diff-added'>＋ 1608</div><div class='diff-added'>＋ 10-10 I****in 5-6</div><div class='diff-removed'>－ 91557</div><div class='diff-removed'>－ 2275</div><div class='diff-removed'>－ 10-09 A****or 3-4</div><span class='muted'>变更范围约 142.4%</span></div></td></tr></tbody></table></section>\n<section><h2>SEO 变化</h2><table><thead><tr><th>竞品</th><th>页面</th><th>具体改了什么</th></tr></thead><tbody><tr><td><span class='badge medium'>medium</span> SyBridge</td><td>Fast Radius | SyBridge Technologies<br><a href='https://sybridge.com/component-manufacturing'>sybridge.com/component-manufacturing</a></td><td class='changes'><div class='change-block'><strong>SEO 标题发生变化</strong><div class='diff-added'>＋ Fast Radius</div><div class='diff-removed'>－ Specialty Manufacturing Services</div><span class='muted'>变更范围约 83.3%</span></div><div class='change-block'><strong>Meta 描述发生变化</strong><div class='diff-added'>＋ services from Fast Radius, a</div><div class='diff-added'>＋ brand,</div><div class='diff-removed'>－ Technologies’ specialty manufacturing services,</div><span class='muted'>变更范围约 35.7%</span></div></td></tr><tr><td><span class='badge medium'>medium</span> SyBridge</td><td>High-Volume 3D Printing Services | Fast Radius<br><a href='https://sybridge.com/component-manufacturing/3d-printing'>sybridge.com/component-manufacturing/3d-printing</a></td><td class='changes'><div class='change-block'><strong>SEO 标题发生变化</strong><div class='diff-added'>＋ Fast Radius</div><div class='diff-removed'>－ SyBridge Technologies</div><span class='muted'>变更范围约 57.1%</span></div></td></tr><tr><td><span class='badge medium'>medium</span> SyBridge</td><td>CNC Machining - Fast Radius<br><a href='https://sybridge.com/component-manufacturing/cnc-machining'>sybridge.com/component-manufacturing/cnc-machining</a></td><td class='changes'><div class='change-block'><strong>SEO 标题发生变化</strong><div class='diff-added'>＋ Fast Radius</div><div class='diff-removed'>－ SyBridge Technologies</div><span class='muted'>变更范围约 80.0%</span></div></td></tr><tr><td><span class='badge medium'>medium</span> SyBridge</td><td>Injection Molding Production - Fast Radius<br><a href='https://sybridge.com/component-manufacturing/injection-molding-production'>sybridge.com/component-manufacturing/injection-molding-pr...</a></td><td class='changes'><div class='change-block'><strong>SEO 标题发生变化</strong><div class='diff-added'>＋ Fast Radius</div><div class='diff-removed'>－ SyBridge Technologies</div><span class='muted'>变更范围约 66.7%</span></div></td></tr><tr><td><span class='badge medium'>medium</span> SyBridge</td><td>Sheet Metal Fabrication - Fast Radius<br><a href='https://sybridge.com/component-manufacturing/sheet-metal-fabrication'>sybridge.com/component-manufacturing/sheet-metal-fabrication</a></td><td class='changes'><div class='change-block'><strong>SEO 标题发生变化</strong><div class='diff-added'>＋ Fast Radius</div><div class='diff-removed'>－ SyBridge Technologies</div><span class='muted'>变更范围约 66.7%</span></div></td></tr><tr><td><span class='badge medium'>medium</span> SyBridge</td><td>Urethane Casting - Fast Radius<br><a href='https://sybridge.com/component-manufacturing/urethane-casting'>sybridge.com/component-manufacturing/urethane-casting</a></td><td class='changes'><div class='change-block'><strong>SEO 标题发生变化</strong><div class='diff-added'>＋ Fast Radius</div><div class='diff-removed'>－ SyBridge Technologies</div><span class='muted'>变更范围约 80.0%</span></div></td></tr></tbody></table></section>\n<section><h2>文案 &amp; 结构</h2><table><thead><tr><th>竞品</th><th>页面</th><th>具体改了什么</th></tr></thead><tbody><tr><td><span class='badge medium'>medium</span> Xometry</td><td>Custom Manufacturing on Demand | Production Parts and Proto...<br><a href='https://www.xometry.com/'>xometry.com/</a></td><td class='changes'><div class='change-block'><strong>页面正文发生可定位的变化</strong><div class='diff-added'>＋ Defense Firms Plan Big AI Investments, Report Says October 2026</div><span class='muted'>变更范围约 0.7%</span></div></td></tr><tr><td><span class='badge medium'>medium</span> Xometry</td><td>Xometry Resources<br><a href='https://www.xometry.com/resources'>xometry.com/resources</a></td><td class='changes'><div class='change-block'><strong>CTA发生变化</strong><div class='diff-added'>＋ Shot Peening: Definition, Process, and Industrial Applications -&gt; https://www.xometry.com/resources/materials/shot-peening</div><div class='diff-removed'>－ Powder Metallurgy: Definition, Process, and Manufacturing Applications -&gt; https://www.xometry.com/resources/materials/powder-metallurgy</div></div><div class='change-block'><strong>板块文案更新：Tube</strong><div class='diff-added'>＋ Round Tube By Greg Paulsen 5 min read Article Designing Normalized Mitered Cuts on</div><div class='diff-removed'>－ Article Designing Normalized Mitered Cuts on Round Tube By Greg Paulsen 5 min read</div><span class='muted'>变更范围约 35.4%</span></div></td></tr><tr><td><span class='badge low'>low</span> JLC CNC</td><td>Metals for CNC | JLCCNC<br><a href='https://jlccnc.com/blog/category/metals-for-cnc'>jlccnc.com/blog/category/metals-for-cnc</a></td><td class='changes'><div class='change-block'><strong>板块文案更新：Featured Posts</strong><div class='diff-added'>＋ 24,</div><div class='diff-added'>＋ 06,</div><div class='diff-removed'>－ 23,</div><div class='diff-removed'>－ 05,</div><span class='muted'>变更范围约 2.4%</span></div></td></tr><tr><td><span class='badge low'>low</span> JLC CNC</td><td>Tools &amp; Cutting Instruments | JLCCNC<br><a href='https://jlccnc.com/blog/category/tools-cutting-instruments'>jlccnc.com/blog/category/tools-cutting-instruments</a></td><td class='changes'><div class='change-block'><strong>板块文案更新：Featured Posts</strong><div class='diff-added'>＋ 27,</div><div class='diff-removed'>－ 26,</div><span class='muted'>变更范围约 1.2%</span></div></td></tr><tr><td><span class='badge low'>low</span> JLC CNC</td><td>Differences between CNC machining and 3D printing<br><a href='https://jlccnc.com/blog/cnc-machining-vs-3d-printing'>jlccnc.com/blog/cnc-machining-vs-3d-printing</a></td><td class='changes'><div class='change-block'><strong>板块文案更新：CNC Machining vs 3D Printing: Complementary Technologies for Prototyping</strong><div class='diff-added'>＋ 29,</div><div class='diff-removed'>－ 28,</div><span class='muted'>变更范围约 1.1%</span></div></td></tr></tbody></table></section>\n<section><h2>UI 布局变化</h2><table><thead><tr><th>竞品</th><th>页面</th><th>具体改了什么</th></tr></thead><tbody><tr><td><span class='badge high'>high</span> SyBridge</td><td>Optimizing Your Injection Molding Process for Cost-Effectiv...<br><a href='https://sybridge.com/optimizing-your-injection-molding-process'>sybridge.com/optimizing-your-injection-molding-process</a></td><td class='changes'><div class='change-block'><strong>mobile 视图出现明显 UI/布局变化</strong>Optimizing Your Injection Molding Process for Cost-Effectiv... mobile 端页面布局有明显变化（建议打开链接目视确认）</div></td></tr><tr><td><span class='badge medium'>medium</span> CNCLATHING</td><td>China Top CNC Machining Service OEM Supplier &amp; Manufacturer...<br><a href='https://www.cnclathing.com/'>cnclathing.com/</a></td><td class='changes'><div class='change-block'><strong>desktop 视图出现明显 UI/布局变化</strong>China Top CNC Machining Service OEM Supplier &amp; Manufacturer... desktop 端页面布局有明显变化（建议打开链接目视确认）</div></td></tr><tr><td><span class='badge medium'>medium</span> CNCLATHING</td><td>CNC Machining Services &amp; Precision Machined Parts Manufactu...<br><a href='https://www.cnclathing.com/cnc-machining-services'>cnclathing.com/cnc-machining-services</a></td><td class='changes'><div class='change-block'><strong>desktop 视图出现明显 UI/布局变化</strong>CNC Machining Services &amp; Precision Machined Parts Manufactu... desktop 端页面布局有明显变化（建议打开链接目视确认）</div><div class='change-block'><strong>mobile 视图出现明显 UI/布局变化</strong>CNC Machining Services &amp; Precision Machined Parts Manufactu... mobile 端页面布局有明显变化（建议打开链接目视确认）</div></td></tr><tr><td><span class='badge medium'>medium</span> Fictiv</td><td>Fictiv: Sourcing Simplified for Custom Manufacturing Servic...<br><a href='https://www.fictiv.com/'>fictiv.com/</a></td><td class='changes'><div class='change-block'><strong>desktop 视图出现明显 UI/布局变化</strong>Fictiv: Sourcing Simplified for Custom Manufacturing Servic... desktop 端页面布局有明显变化（建议打开链接目视确认）</div></td></tr><tr><td><span class='badge medium'>medium</span> JLC CNC</td><td>Online CNC Machining Service - JLCCNC<br><a href='https://jlccnc.com/'>jlccnc.com/</a></td><td class='changes'><div class='change-block'><strong>desktop 视图出现明显 UI/布局变化</strong>Online CNC Machining Service - JLCCNC desktop 端页面布局有明显变化（建议打开链接目视确认）</div><div class='change-block'><strong>mobile 视图出现明显 UI/布局变化</strong>Online CNC Machining Service - JLCCNC mobile 端页面布局有明显变化（建议打开链接目视确认）</div></td></tr></tbody></table></section>\n<section class='folded'><p class='muted'>另有 <strong>3</strong> 项低优先级变化未在邮件中展开：UI 布局 3 项。完整明细见仓库 reports/ 目录。</p></section>\n<section><h2>抓取提醒</h2><ul><li>Seed page failed: https://www.hubs.com/manufacturing-services (HTTP 404)</li><li>Hubs | https://www.hubs.com/manufacturing-services | HTTP 404</li><li>Hubs | https://www.hubs.com/knowledgebasearticle | HTTP 404</li><li>Hubs | https://www.hubs.com/articleblogarticle | HTTP 404</li><li>Hubs | https://www.hubs.com/knowledgebasecollection | HTTP 404</li><li>Xometry | https://investors.xometry.com/news-releases/news-release-details/access-becoming-manufacturings-competitive-advantage-according | HTTP 403</li><li>Xometry | https://investors.xometry.com/news-releases/news-release-details/xometry-foundation-announces-partnership-mxd-expand | HTTP 403</li><li>Xometry | https://investors.xometry.com/news-releases/news-release-details/xometry-releases-comprehensive-upgrades-its-ai-model | HTTP 403</li><li>Xometry | https://investors.xometry.com/news-releases/news-release-details/xometry-launches-foundation-committing-1-million-advance | HTTP 403</li><li>Xometry | https://investors.xometry.com/news-releases/news-release-details/xometry-appoints-lukas-biewald-its-board-directors | HTTP 403</li></ul></section>\n<p class='footer'>完整明细已保存到仓库 <code>reports/</code> 目录，可在 GitHub 上打开 HTML 文件查看全部变化。</p>\n</body></html>"
+  },
+  "run_id": "20261010T070000Z",
+  "baseline_run": false,
+  "upgrade_run": false,
+  "email_status": "Email sent with Resend."
+}
