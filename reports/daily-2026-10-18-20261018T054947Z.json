@@ -1,0 +1,946 @@
+{
+  "mode": "daily",
+  "date": "2026-10-18",
+  "subject": "[Competitor Tracking] 日报 2026-10-18 · 19 项变化",
+  "generated_at": "2026-10-18T14:03:06+08:00",
+  "events": [
+    {
+      "type": "monitor_health",
+      "priority": "high",
+      "competitor": "Fictiv",
+      "url": "https://www.fictiv.com/",
+      "category": "system",
+      "page_title": "监控健康告警",
+      "summary": "抓取失败率过高",
+      "details": [
+        "尝试页面：120",
+        "失败页面：72",
+        "失败率：60.0%"
+      ],
+      "before": null,
+      "after": null,
+      "added": [],
+      "removed": [],
+      "change_percent": 0.0,
+      "confidence": "high"
+    },
+    {
+      "type": "visual_changed",
+      "priority": "high",
+      "competitor": "SyBridge",
+      "url": "https://sybridge.com/optimizing-your-injection-molding-process",
+      "category": "pricing",
+      "page_title": "Optimizing Your Injection Molding Process for Cost-Effective Manufacturing Excellence - SyBridge Technologies",
+      "summary": "mobile 视图出现明显 UI/布局变化",
+      "details": [
+        "视口：mobile",
+        "RMS 差异：40.37",
+        "变化像素占比：3.50%",
+        "页面截图高度变化：-44px"
+      ],
+      "before": null,
+      "after": null,
+      "added": [],
+      "removed": [],
+      "change_percent": 0.0,
+      "confidence": "high",
+      "published_at": "2024-04-30T13:33:10+00:00",
+      "first_seen_at": "2026-08-17T03:53:37+00:00",
+      "discovered_via": "feed"
+    },
+    {
+      "type": "visual_changed",
+      "priority": "medium",
+      "competitor": "CNCLATHING",
+      "url": "https://www.cnclathing.com/",
+      "category": "service",
+      "page_title": "China Top CNC Machining Service OEM Supplier & Manufacturer | Junying CNC Since 2008",
+      "summary": "desktop 视图出现明显 UI/布局变化",
+      "details": [
+        "视口：desktop",
+        "RMS 差异：50.61",
+        "变化像素占比：4.96%"
+      ],
+      "before": null,
+      "after": null,
+      "added": [],
+      "removed": [],
+      "change_percent": 0.0,
+      "confidence": "high",
+      "published_at": "",
+      "first_seen_at": "2026-08-17T03:54:41+00:00",
+      "discovered_via": "sitemap"
+    },
+    {
+      "type": "visual_changed",
+      "priority": "medium",
+      "competitor": "JLC CNC",
+      "url": "https://jlccnc.com/",
+      "category": "service",
+      "page_title": "Online CNC Machining Service - JLCCNC",
+      "summary": "desktop 视图出现明显 UI/布局变化",
+      "details": [
+        "视口：desktop",
+        "RMS 差异：76.72",
+        "变化像素占比：7.56%",
+        "页面截图高度变化：-55px"
+      ],
+      "before": null,
+      "after": null,
+      "added": [],
+      "removed": [],
+      "change_percent": 0.0,
+      "confidence": "high",
+      "published_at": "2026-09-15T00:00:00+00:00",
+      "first_seen_at": "2026-08-17T03:49:31+00:00",
+      "discovered_via": "priority"
+    },
+    {
+      "type": "visual_changed",
+      "priority": "medium",
+      "competitor": "JLC CNC",
+      "url": "https://jlccnc.com/",
+      "category": "service",
+      "page_title": "Online CNC Machining Service - JLCCNC",
+      "summary": "mobile 视图出现明显 UI/布局变化",
+      "details": [
+        "视口：mobile",
+        "RMS 差异：108.17",
+        "变化像素占比：12.52%",
+        "页面截图高度变化：-111px"
+      ],
+      "before": null,
+      "after": null,
+      "added": [],
+      "removed": [],
+      "change_percent": 0.0,
+      "confidence": "high",
+      "published_at": "2026-09-15T00:00:00+00:00",
+      "first_seen_at": "2026-08-17T03:49:31+00:00",
+      "discovered_via": "priority"
+    },
+    {
+      "type": "visual_changed",
+      "priority": "medium",
+      "competitor": "JLC CNC",
+      "url": "https://jlccnc.com/cnc-machining",
+      "category": "service",
+      "page_title": "CNC Machining Services Guide: Processes, Capabilities and Materials - JLCCNC",
+      "summary": "desktop 视图出现明显 UI/布局变化",
+      "details": [
+        "视口：desktop",
+        "RMS 差异：109.91",
+        "变化像素占比：18.69%",
+        "页面截图高度变化：-55px"
+      ],
+      "before": null,
+      "after": null,
+      "added": [],
+      "removed": [],
+      "change_percent": 0.0,
+      "confidence": "high",
+      "published_at": "",
+      "first_seen_at": "2026-08-17T03:49:39+00:00",
+      "discovered_via": "priority"
+    },
+    {
+      "type": "visual_changed",
+      "priority": "medium",
+      "competitor": "JLC CNC",
+      "url": "https://jlccnc.com/cnc-machining",
+      "category": "service",
+      "page_title": "CNC Machining Services Guide: Processes, Capabilities and Materials - JLCCNC",
+      "summary": "mobile 视图出现明显 UI/布局变化",
+      "details": [
+        "视口：mobile",
+        "RMS 差异：147.09",
+        "变化像素占比：28.57%",
+        "页面截图高度变化：-111px"
+      ],
+      "before": null,
+      "after": null,
+      "added": [],
+      "removed": [],
+      "change_percent": 0.0,
+      "confidence": "high",
+      "published_at": "",
+      "first_seen_at": "2026-08-17T03:49:39+00:00",
+      "discovered_via": "priority"
+    },
+    {
+      "type": "visual_changed",
+      "priority": "medium",
+      "competitor": "JLC CNC",
+      "url": "https://jlccnc.com/sheet-metal-fabrication",
+      "category": "service",
+      "page_title": "Sheet Metal Fabrication Services & Capabilities | JLCCNC",
+      "summary": "desktop 视图出现明显 UI/布局变化",
+      "details": [
+        "视口：desktop",
+        "RMS 差异：109.75",
+        "变化像素占比：18.98%",
+        "页面截图高度变化：-55px"
+      ],
+      "before": null,
+      "after": null,
+      "added": [],
+      "removed": [],
+      "change_percent": 0.0,
+      "confidence": "high",
+      "published_at": "",
+      "first_seen_at": "2026-08-17T03:49:48+00:00",
+      "discovered_via": "priority"
+    },
+    {
+      "type": "visual_changed",
+      "priority": "medium",
+      "competitor": "JLC CNC",
+      "url": "https://jlccnc.com/sheet-metal-fabrication",
+      "category": "service",
+      "page_title": "Sheet Metal Fabrication Services & Capabilities | JLCCNC",
+      "summary": "mobile 视图出现明显 UI/布局变化",
+      "details": [
+        "视口：mobile",
+        "RMS 差异：155.46",
+        "变化像素占比：35.12%",
+        "页面截图高度变化：-110px"
+      ],
+      "before": null,
+      "after": null,
+      "added": [],
+      "removed": [],
+      "change_percent": 0.0,
+      "confidence": "high",
+      "published_at": "",
+      "first_seen_at": "2026-08-17T03:49:48+00:00",
+      "discovered_via": "priority"
+    },
+    {
+      "type": "section_copy_changed",
+      "priority": "medium",
+      "competitor": "PCBWay",
+      "url": "https://www.pcbway.com/",
+      "category": "homepage",
+      "page_title": "China PCB Prototype & Fabrication Manufacturer - PCB Prototype the Easy Way",
+      "summary": "板块文案更新：Affordable Prototype PCB Manufacturer in China",
+      "details": [],
+      "before": "Affordable Prototype PCB Manufacturer in China Last 30 days: 93381 Today's new order: 1622 Latest orders Date Buyer name Lead Time Progress 10-17 *** 24hours 25% 10-17 G****ge 24hours 37% 10-17 S****ms 3-4 days 35% 10-17 O****ub 4-5 days 12% 10-17 H****nd 4-5 days 33% 10-17 *** 24hours 38% 10-17 F****te 5-6 days 27% 10-17 *** 5-6 days 43% 10-17 *** 4-5 days 47% 10-17 *** 4-5 days 33% 10-17 *** 3-4 days 23% 10-17 M****on 3-4 days 23% 10-17 P****ic 4-5 days 33% 10-17 B****62 3-4 days 23% 10-17 *** 5-6 days 47% 10-17 *** 5-6 days 21% 10-17 A****on 5-6 days 47% 10-17 A****en 3-4 days 26% 10-17 L****iu 4-5 days 28% 10-17 B****nd 7-8 days 42%",
+      "after": "Affordable Prototype PCB Manufacturer in China Last 30 days: 92287 Today's new order: 1088 Latest orders Date Buyer name Lead Time Progress 10-18 J****rg 6-7 days 47% 10-18 *** 14-15 days 38% 10-18 *** 5-6 days 43% 10-18 *** 3-4 days 37% 10-18 M****ll 7-8 days 42% 10-18 M****en 7-8 days 11% 10-18 *** 5-6 days 47% 10-18 *** 5-6 days 28% 10-18 *** 7-8 days 42% 10-18 L****nk 20-21 days 40% 10-18 L****ns 3-4 days 47% 10-18 C****lo 3-4 days 37% 10-18 *** 24hours 29% 10-18 *** 24hours 29% 10-18 L****on 3-4 days 29% 10-18 *** 4-5 days 43% 10-18 D****ov 6-7 days 42% 10-18 V****AB 4-5 days 37% 10-18 *** 3-4 days 29% 10-18 S****th 5-6 days 41%",
+      "added": [
+        "92287",
+        "1088",
+        "10-18 J****rg 6-7 days 47% 10-18",
+        "14-15",
+        "10-18"
+      ],
+      "removed": [
+        "93381",
+        "1622",
+        "10-17",
+        "24hours 25% 10-17 G****ge 24hours 37% 10-17 S****ms 3-4",
+        "35% 10-17 O****ub 4-5 days 12% 10-17 H****nd 4-5 days 33% 10-17 *** 24hours"
+      ],
+      "change_percent": 127.5,
+      "confidence": "high",
+      "published_at": "2026-10-18T00:00:00+00:00",
+      "first_seen_at": "2026-08-17T03:51:10+00:00",
+      "discovered_via": "priority"
+    },
+    {
+      "type": "ctas_changed",
+      "priority": "medium",
+      "competitor": "SyBridge",
+      "url": "https://sybridge.com/resource/articles",
+      "category": "content",
+      "page_title": "Knowledge Center Archives - SyBridge Technologies",
+      "summary": "CTA发生变化",
+      "details": [],
+      "before": null,
+      "after": null,
+      "added": [
+        "Start the conversation today -> https://sybridge.com/contact"
+      ],
+      "removed": [
+        "Start the conversation today -> http://corpweb-dev.sybridge.tech/contact"
+      ],
+      "change_percent": 0.0,
+      "confidence": "high",
+      "published_at": "2024-05-23T00:00:00+00:00",
+      "first_seen_at": "2026-08-17T03:53:45+00:00",
+      "discovered_via": "sitemap"
+    },
+    {
+      "type": "ctas_changed",
+      "priority": "medium",
+      "competitor": "SyBridge",
+      "url": "https://sybridge.com/resource/case-study",
+      "category": "content",
+      "page_title": "Case Study Archives - SyBridge Technologies",
+      "summary": "CTA发生变化",
+      "details": [],
+      "before": null,
+      "after": null,
+      "added": [
+        "Start the conversation today -> https://sybridge.com/contact"
+      ],
+      "removed": [
+        "Start the conversation today -> http://corpweb-dev.sybridge.tech/contact"
+      ],
+      "change_percent": 0.0,
+      "confidence": "high",
+      "published_at": "",
+      "first_seen_at": "2026-08-17T03:53:46+00:00",
+      "discovered_via": "sitemap"
+    },
+    {
+      "type": "ctas_changed",
+      "priority": "medium",
+      "competitor": "SyBridge",
+      "url": "https://sybridge.com/resource/news",
+      "category": "content",
+      "page_title": "News Archives - SyBridge Technologies",
+      "summary": "CTA发生变化",
+      "details": [],
+      "before": null,
+      "after": null,
+      "added": [
+        "Start the conversation today -> https://sybridge.com/contact"
+      ],
+      "removed": [
+        "Start the conversation today -> http://corpweb-dev.sybridge.tech/contact"
+      ],
+      "change_percent": 0.0,
+      "confidence": "high",
+      "published_at": "",
+      "first_seen_at": "2026-08-17T03:53:45+00:00",
+      "discovered_via": "sitemap"
+    },
+    {
+      "type": "ctas_changed",
+      "priority": "medium",
+      "competitor": "SyBridge",
+      "url": "https://sybridge.com/resources",
+      "category": "content",
+      "page_title": "Resources - SyBridge Technologies",
+      "summary": "CTA发生变化",
+      "details": [],
+      "before": null,
+      "after": null,
+      "added": [
+        "Start the conversation today -> https://sybridge.com/contact"
+      ],
+      "removed": [
+        "Start the conversation today -> http://corpweb-dev.sybridge.tech/contact"
+      ],
+      "change_percent": 0.0,
+      "confidence": "high",
+      "published_at": "2020-08-04T13:10:53+00:00",
+      "first_seen_at": "2026-08-17T03:53:28+00:00",
+      "discovered_via": "sitemap"
+    },
+    {
+      "type": "ctas_changed",
+      "priority": "medium",
+      "competitor": "SyBridge",
+      "url": "https://sybridge.com/resources/page/2",
+      "category": "content",
+      "page_title": "Resources - Page 2 of 8 - SyBridge Technologies",
+      "summary": "CTA发生变化",
+      "details": [],
+      "before": null,
+      "after": null,
+      "added": [
+        "Start the conversation today -> https://sybridge.com/contact"
+      ],
+      "removed": [
+        "Start the conversation today -> http://corpweb-dev.sybridge.tech/contact"
+      ],
+      "change_percent": 0.0,
+      "confidence": "high",
+      "published_at": "2020-08-04T13:10:53+00:00",
+      "first_seen_at": "2026-08-17T03:53:46+00:00",
+      "discovered_via": "links"
+    },
+    {
+      "type": "ctas_changed",
+      "priority": "medium",
+      "competitor": "SyBridge",
+      "url": "https://sybridge.com/resources/page/3",
+      "category": "content",
+      "page_title": "Resources - Page 3 of 8 - SyBridge Technologies",
+      "summary": "CTA发生变化",
+      "details": [],
+      "before": null,
+      "after": null,
+      "added": [
+        "Start the conversation today -> https://sybridge.com/contact"
+      ],
+      "removed": [
+        "Start the conversation today -> http://corpweb-dev.sybridge.tech/contact"
+      ],
+      "change_percent": 0.0,
+      "confidence": "high",
+      "published_at": "2020-08-04T13:10:53+00:00",
+      "first_seen_at": "2026-08-17T03:53:47+00:00",
+      "discovered_via": "links"
+    },
+    {
+      "type": "ctas_changed",
+      "priority": "medium",
+      "competitor": "SyBridge",
+      "url": "https://sybridge.com/resources/page/4",
+      "category": "content",
+      "page_title": "Resources - Page 4 of 8 - SyBridge Technologies",
+      "summary": "CTA发生变化",
+      "details": [],
+      "before": null,
+      "after": null,
+      "added": [
+        "Start the conversation today -> https://sybridge.com/contact"
+      ],
+      "removed": [
+        "Start the conversation today -> http://corpweb-dev.sybridge.tech/contact"
+      ],
+      "change_percent": 0.0,
+      "confidence": "high",
+      "published_at": "2020-08-04T13:10:53+00:00",
+      "first_seen_at": "2026-08-17T03:53:47+00:00",
+      "discovered_via": "links"
+    },
+    {
+      "type": "ctas_changed",
+      "priority": "medium",
+      "competitor": "SyBridge",
+      "url": "https://sybridge.com/resources/page/5",
+      "category": "content",
+      "page_title": "Resources - Page 5 of 8 - SyBridge Technologies",
+      "summary": "CTA发生变化",
+      "details": [],
+      "before": null,
+      "after": null,
+      "added": [
+        "Start the conversation today -> https://sybridge.com/contact"
+      ],
+      "removed": [
+        "Start the conversation today -> http://corpweb-dev.sybridge.tech/contact"
+      ],
+      "change_percent": 0.0,
+      "confidence": "high",
+      "published_at": "2020-08-04T13:10:53+00:00",
+      "first_seen_at": "2026-08-17T03:53:47+00:00",
+      "discovered_via": "links"
+    },
+    {
+      "type": "ctas_changed",
+      "priority": "medium",
+      "competitor": "SyBridge",
+      "url": "https://sybridge.com/resources/page/6",
+      "category": "content",
+      "page_title": "Resources - Page 6 of 8 - SyBridge Technologies",
+      "summary": "CTA发生变化",
+      "details": [],
+      "before": null,
+      "after": null,
+      "added": [
+        "Start the conversation today -> https://sybridge.com/contact"
+      ],
+      "removed": [
+        "Start the conversation today -> http://corpweb-dev.sybridge.tech/contact"
+      ],
+      "change_percent": 0.0,
+      "confidence": "high",
+      "published_at": "2020-08-04T13:10:53+00:00",
+      "first_seen_at": "2026-08-17T03:53:48+00:00",
+      "discovered_via": "links"
+    },
+    {
+      "type": "ctas_changed",
+      "priority": "medium",
+      "competitor": "SyBridge",
+      "url": "https://sybridge.com/resources/page/7",
+      "category": "content",
+      "page_title": "Resources - Page 7 of 8 - SyBridge Technologies",
+      "summary": "CTA发生变化",
+      "details": [],
+      "before": null,
+      "after": null,
+      "added": [
+        "Start the conversation today -> https://sybridge.com/contact"
+      ],
+      "removed": [
+        "Start the conversation today -> http://corpweb-dev.sybridge.tech/contact"
+      ],
+      "change_percent": 0.0,
+      "confidence": "high",
+      "published_at": "2020-08-04T13:10:53+00:00",
+      "first_seen_at": "2026-08-17T03:53:48+00:00",
+      "discovered_via": "links"
+    },
+    {
+      "type": "ctas_changed",
+      "priority": "medium",
+      "competitor": "SyBridge",
+      "url": "https://sybridge.com/resources/page/8",
+      "category": "content",
+      "page_title": "Resources - Page 8 of 8 - SyBridge Technologies",
+      "summary": "CTA发生变化",
+      "details": [],
+      "before": null,
+      "after": null,
+      "added": [
+        "Start the conversation today -> https://sybridge.com/contact"
+      ],
+      "removed": [
+        "Start the conversation today -> http://corpweb-dev.sybridge.tech/contact"
+      ],
+      "change_percent": 0.0,
+      "confidence": "high",
+      "published_at": "2020-08-04T13:10:53+00:00",
+      "first_seen_at": "2026-08-17T03:53:49+00:00",
+      "discovered_via": "links"
+    },
+    {
+      "type": "ctas_changed",
+      "priority": "medium",
+      "competitor": "SyBridge",
+      "url": "https://sybridge.com/topics/3d-printing",
+      "category": "page",
+      "page_title": "3D Printing Archives - SyBridge Technologies",
+      "summary": "CTA发生变化",
+      "details": [],
+      "before": null,
+      "after": null,
+      "added": [
+        "Start the conversation today -> https://sybridge.com/contact"
+      ],
+      "removed": [
+        "Start the conversation today -> http://corpweb-dev.sybridge.tech/contact"
+      ],
+      "change_percent": 0.0,
+      "confidence": "high",
+      "published_at": "2024-05-23T00:00:00+00:00",
+      "first_seen_at": "2026-08-17T03:54:04+00:00",
+      "discovered_via": "sitemap"
+    },
+    {
+      "type": "ctas_changed",
+      "priority": "medium",
+      "competitor": "SyBridge",
+      "url": "https://sybridge.com/topics/cnc-machining",
+      "category": "service",
+      "page_title": "CNC Machining Archives - SyBridge Technologies",
+      "summary": "CTA发生变化",
+      "details": [],
+      "before": null,
+      "after": null,
+      "added": [
+        "Start the conversation today -> https://sybridge.com/contact"
+      ],
+      "removed": [
+        "Start the conversation today -> http://corpweb-dev.sybridge.tech/contact"
+      ],
+      "change_percent": 0.0,
+      "confidence": "high",
+      "published_at": "2021-05-27T00:00:00+00:00",
+      "first_seen_at": "2026-08-17T03:54:04+00:00",
+      "discovered_via": "sitemap"
+    },
+    {
+      "type": "ctas_changed",
+      "priority": "medium",
+      "competitor": "SyBridge",
+      "url": "https://sybridge.com/topics/injection-molding",
+      "category": "page",
+      "page_title": "Injection Molding Archives - SyBridge Technologies",
+      "summary": "CTA发生变化",
+      "details": [],
+      "before": null,
+      "after": null,
+      "added": [
+        "Start the conversation today -> https://sybridge.com/contact"
+      ],
+      "removed": [
+        "Start the conversation today -> http://corpweb-dev.sybridge.tech/contact"
+      ],
+      "change_percent": 0.0,
+      "confidence": "high",
+      "published_at": "2024-05-23T00:00:00+00:00",
+      "first_seen_at": "2026-08-17T03:54:03+00:00",
+      "discovered_via": "sitemap"
+    },
+    {
+      "type": "section_copy_changed",
+      "priority": "low",
+      "competitor": "JLC CNC",
+      "url": "https://jlccnc.com/blog",
+      "category": "content",
+      "page_title": "CNC Machining & Sheet metal Fabrication Blog - Insights, Tutorials & Case Studies | JLCCNC",
+      "summary": "板块文案更新：Latest Posts",
+      "details": [],
+      "before": "Latest Posts CNC Programming Are There Any Design Limitations or Restrictions for CNC Machining Quick Answer: CNC design is limited mainly by tool access, cutter radius, part rigidity, workholding, machine travel, material behavior, and tolerance requirements. Review those constraints before finalizing CAD, especially for deep pockets, thin walls, internal corners, undercuts, small threads, and critical fits. A design that looks completely reasonable in CAD can turn out to be genuinely difficult — or impossible — to machine as drawn. Not because the geometry is wrong in any absolute sense, but b...... Oct 16, 2026 CNC Machining Fundamentals CNC Cutting Fluid: Types, Functions, Applications, and Selection Guide Key Takeaways Cutting fluid in machining performs four functions simultaneously: cooling the tool and workpiece, lubricating the tool-chip interface to reduce friction, carrying chips away from the cut zone, and protecting machined surfaces from corrosion between operations. Different machining operations need different fluid priorities: high-speed aluminum milling may need adhesion control and chip evacuation, threading and tapping need strong lubrication, and grinding requ...",
+      "after": "Latest Posts Design Tips & Best Practices Press Fit Tolerance: Interference, Charts & Design Guide Key Takeaways A press fit is an interference fit: the shaft is larger than the hole, and elastic deformation of the mating parts after assembly creates contact pressure that generates the friction holding the joint together. Press fit interference is the difference between the shaft diameter and the hole diameter. Minimum interference uses worst-case dimensions for the smallest overlap. Maximum interference uses worst-case dimensions for the largest overlap. Press fit tolerance is selected based on re...... Oct 17, 2026 CNC Programming Are There Any Design Limitations or Restrictions for CNC Machining Quick Answer: CNC design is limited mainly by tool access, cutter radius, part rigidity, workholding, machine travel, material behavior, and tolerance requirements. Review those constraints before finalizing CAD, especially for deep pockets, thin walls, internal corners, undercuts, small threads, and critical fits. A design that looks completely reasonable in CAD can turn out to be genuinely difficult — or impossible — to machine as drawn. Not because the geometry is wrong in any absolu...",
+      "added": [
+        "Design Tips & Best Practices Press Fit Tolerance: Interference, Charts & Design Guide Key Takeaways A press fit is an interference fit: the shaft is larger than the hole, and elastic deformation of the mating parts after assembly creates contact pressure that generates the friction holding the joint together. Press fit interference is the difference between...",
+        "absolu..."
+      ],
+      "removed": [
+        "absolute sense, but b...... Oct 16, 2026 CNC Machining Fundamentals CNC Cutting Fluid: Types, Functions, Applications, and Selection Guide Key Takeaways Cutting fluid in machining performs four functions simultaneously: cooling the tool and workpiece, lubricating the tool-chip interface to reduce friction, carrying chips away from the cut zone, and protecti..."
+      ],
+      "change_percent": 97.22,
+      "confidence": "high",
+      "published_at": "2025-08-25T00:00:00+00:00",
+      "first_seen_at": "2026-08-17T03:49:55+00:00",
+      "discovered_via": "priority"
+    },
+    {
+      "type": "visual_changed",
+      "priority": "low",
+      "competitor": "JLC CNC",
+      "url": "https://jlccnc.com/blog",
+      "category": "content",
+      "page_title": "CNC Machining & Sheet metal Fabrication Blog - Insights, Tutorials & Case Studies | JLCCNC",
+      "summary": "desktop 视图出现明显 UI/布局变化",
+      "details": [
+        "视口：desktop",
+        "RMS 差异：54.95",
+        "变化像素占比：4.68%",
+        "页面截图高度变化：+29px"
+      ],
+      "before": null,
+      "after": null,
+      "added": [],
+      "removed": [],
+      "change_percent": 0.0,
+      "confidence": "high",
+      "published_at": "2025-08-25T00:00:00+00:00",
+      "first_seen_at": "2026-08-17T03:49:55+00:00",
+      "discovered_via": "priority"
+    },
+    {
+      "type": "visual_changed",
+      "priority": "low",
+      "competitor": "JLC CNC",
+      "url": "https://jlccnc.com/blog",
+      "category": "content",
+      "page_title": "CNC Machining & Sheet metal Fabrication Blog - Insights, Tutorials & Case Studies | JLCCNC",
+      "summary": "mobile 视图出现明显 UI/布局变化",
+      "details": [
+        "视口：mobile",
+        "RMS 差异：59.38",
+        "变化像素占比：6.40%"
+      ],
+      "before": null,
+      "after": null,
+      "added": [],
+      "removed": [],
+      "change_percent": 0.0,
+      "confidence": "high",
+      "published_at": "2025-08-25T00:00:00+00:00",
+      "first_seen_at": "2026-08-17T03:49:55+00:00",
+      "discovered_via": "priority"
+    },
+    {
+      "type": "section_copy_changed",
+      "priority": "low",
+      "competitor": "JLC CNC",
+      "url": "https://jlccnc.com/blog/category/design-engineering",
+      "category": "content",
+      "page_title": "Design & Engineering | JLCCNC",
+      "summary": "板块文案更新：Latest Posts",
+      "details": [],
+      "before": "Latest Posts CNC Programming Are There Any Design Limitations or Restrictions for CNC Machining Quick Answer: CNC design is limited mainly by tool access, cutter radius, part rigidity, workholding, machine travel, material behavior, and tolerance requirements. Review those constraints before finalizing CAD, especially for deep pockets, thin walls, internal corners, undercuts, small threads, and critical fits. A design that looks completely reasonable in CAD can turn out to be genuinely difficult — or impossible — to machine as drawn. Not because the geometry is wrong in any absolute sense, but b...... Oct 16, 2026 CNC Programming GD&T in CNC Machining: Everything You Need to Know. Why Does GD&T Matter in CNC Manufacturing? (autodesk) What is GD and T? Ask five machinists to interpret a drawing without it and you might end up with five completely different parts. That's because traditional linear dimensions and notes can only go so far, leaving plenty of room for misinterpretation. This is where GD&T (Geometric Dimensioning and Tolerancing), the universal language of engineers, is used to define how a part should truly function and fit. At its core, GD&T is a symbolic system tha......",
+      "after": "Latest Posts Design Tips & Best Practices Press Fit Tolerance: Interference, Charts & Design Guide Key Takeaways A press fit is an interference fit: the shaft is larger than the hole, and elastic deformation of the mating parts after assembly creates contact pressure that generates the friction holding the joint together. Press fit interference is the difference between the shaft diameter and the hole diameter. Minimum interference uses worst-case dimensions for the smallest overlap. Maximum interference uses worst-case dimensions for the largest overlap. Press fit tolerance is selected based on re...... Oct 17, 2026 CNC Programming Are There Any Design Limitations or Restrictions for CNC Machining Quick Answer: CNC design is limited mainly by tool access, cutter radius, part rigidity, workholding, machine travel, material behavior, and tolerance requirements. Review those constraints before finalizing CAD, especially for deep pockets, thin walls, internal corners, undercuts, small threads, and critical fits. A design that looks completely reasonable in CAD can turn out to be genuinely difficult — or impossible — to machine as drawn. Not because the geometry is wrong in any absolu...",
+      "added": [
+        "Design Tips & Best Practices Press Fit Tolerance: Interference, Charts & Design Guide Key Takeaways A press fit is an interference fit: the shaft is larger than the hole, and elastic deformation of the mating parts after assembly creates contact pressure that generates the friction holding the joint together. Press fit interference is the difference between...",
+        "absolu..."
+      ],
+      "removed": [
+        "absolute sense, but b...... Oct 16, 2026 CNC Programming GD&T in CNC Machining: Everything You Need to Know. Why Does GD&T Matter in CNC Manufacturing? (autodesk) What is GD and T? Ask five machinists to interpret a drawing without it and you might end up with five completely different parts. That's because traditional linear dimensions and notes can only g..."
+      ],
+      "change_percent": 103.17,
+      "confidence": "high",
+      "published_at": "2023-12-29T00:00:00+00:00",
+      "first_seen_at": "2026-08-17T03:50:37+00:00",
+      "discovered_via": "sitemap"
+    },
+    {
+      "type": "section_copy_changed",
+      "priority": "low",
+      "competitor": "JLC CNC",
+      "url": "https://jlccnc.com/blog/category/design-tips-best-practices",
+      "category": "content",
+      "page_title": "Design Tips & Best Practices | JLCCNC",
+      "summary": "板块文案更新：Latest Posts",
+      "details": [],
+      "before": "Latest Posts Design Tips & Best Practices GD&T Datum: Definition, Types, Symbols, and Datum Reference Frame Key Takeaways A datum in GD&T is a theoretically exact reference used to locate or orient other features on a part. It is not the physical surface itself. A datum feature is the physical feature identified on the part and used to establish a datum. The datum itself is the theoretically exact geometric reference derived from that feature. Datums become especially important when several features have to work together. A hole pattern, bearing bore, mounting face, or mating surface may need to establish t...... Sep 30, 2026 Design Tips & Best Practices GD&T Runout: Definition, Symbol, Measurement & Tolerance Key Takeaways Runout limits surface variation while a part rotates around its specified datum axis. The datum feature establishes the axis used for the runout requirement. You compare the full indicator variation during rotation with the tolerance stated on the drawing. Circular runout applies at individual circular sections of the controlled surface. Total runout evaluates the controlled surface across its specified extent. Runout is not a size tolerance, and its value is n...",
+      "after": "Latest Posts Design Tips & Best Practices Press Fit Tolerance: Interference, Charts & Design Guide Key Takeaways A press fit is an interference fit: the shaft is larger than the hole, and elastic deformation of the mating parts after assembly creates contact pressure that generates the friction holding the joint together. Press fit interference is the difference between the shaft diameter and the hole diameter. Minimum interference uses worst-case dimensions for the smallest overlap. Maximum interference uses worst-case dimensions for the largest overlap. Press fit tolerance is selected based on re...... Oct 17, 2026 Design Tips & Best Practices GD&T Datum: Definition, Types, Symbols, and Datum Reference Frame Key Takeaways A datum in GD&T is a theoretically exact reference used to locate or orient other features on a part. It is not the physical surface itself. A datum feature is the physical feature identified on the part and used to establish a datum. The datum itself is the theoretically exact geometric reference derived from that feature. Datums become especially important when several features have to work together. A hole pattern, bearing bore, mounting face, or mating surf...",
+      "added": [
+        "Design Tips & Best Practices Press Fit Tolerance: Interference, Charts & Design Guide Key Takeaways A press fit is an interference fit: the shaft is larger than the hole, and elastic deformation of the mating parts after assembly creates contact pressure that generates the friction holding the joint together. Press fit interference is the difference between...",
+        "surf..."
+      ],
+      "removed": [
+        "surface may need to establish t...... Sep 30, 2026 Design Tips & Best Practices GD&T Runout: Definition, Symbol, Measurement & Tolerance Key Takeaways Runout limits surface variation while a part rotates around its specified datum axis. The datum feature establishes the axis used for the runout requirement. You compare the full indicator variation during ro..."
+      ],
+      "change_percent": 99.47,
+      "confidence": "high",
+      "published_at": "2023-12-27T00:00:00+00:00",
+      "first_seen_at": "2026-08-17T03:50:39+00:00",
+      "discovered_via": "sitemap"
+    },
+    {
+      "type": "section_copy_changed",
+      "priority": "low",
+      "competitor": "JLC CNC",
+      "url": "https://jlccnc.com/blog/category/industry-use-cases",
+      "category": "content",
+      "page_title": "Industry Use Cases | JLCCNC",
+      "summary": "板块文案更新：Featured Posts",
+      "details": [],
+      "before": "Featured Posts Industry Use Cases Micro CNC Machining Explained: Process, Precision & How Small It Can Really Get Explaining Micro CNC Machining Any machinist can machine a block of aluminum into a bracket. But what happens when your part is the size of a grain of rice, and still needs tolerances tighter than a human hair? That's when “standard CNC” suddenly feels clumsy, and every micron starts to matter. This is the world of micro CNC machining. It's not about big, impressive cuts, it's about making the kind of components you'll never notice… until they fail<dynamic-value> the gears in a luxury watch, the nozzles in med...... Sep 06, 2025 Industry Use Cases CNC Machining in the Medical Industry Jan 03, 2025 Industry Use Cases CNC for Luxury Watchmaking: Achieving Sub-Micron Tolerances Industry Use Cases Micro CNC Machining: Techniques for Manufacturing Miniature Components May 21, 2025 Industry Use Cases CNC Machining vs Sheet Metal: Which is Better for Enclosures? Oct 30, 2025",
+      "after": "Featured Posts Industry Use Cases Micro CNC Machining Explained: Process, Precision & How Small It Can Really Get Explaining Micro CNC Machining Any machinist can machine a block of aluminum into a bracket. But what happens when your part is the size of a grain of rice, and still needs tolerances tighter than a human hair? That's when “standard CNC” suddenly feels clumsy, and every micron starts to matter. This is the world of micro CNC machining. It's not about big, impressive cuts, it's about making the kind of components you'll never notice… until they fail<dynamic-value> the gears in a luxury watch, the nozzles in med...... Sep 06, 2025 Industry Use Cases CNC Machining in the Medical Industry Jan 03, 2025 Industry Use Cases CNC for Luxury Watchmaking: Achieving Sub-Micron Tolerances Industry Use Cases Micro CNC Machining: Techniques for Manufacturing Miniature Components May 21, 2025 Industry Use Cases CNC Machining vs Sheet Metal: Which is Better for Enclosures? Oct 31, 2025",
+      "added": [
+        "31,"
+      ],
+      "removed": [
+        "30,"
+      ],
+      "change_percent": 1.24,
+      "confidence": "high",
+      "published_at": "2025-09-06T00:00:00+00:00",
+      "first_seen_at": "2026-08-17T03:50:40+00:00",
+      "discovered_via": "sitemap"
+    },
+    {
+      "type": "section_copy_changed",
+      "priority": "low",
+      "competitor": "JLC CNC",
+      "url": "https://jlccnc.com/blog/category/tools-cutting-instruments",
+      "category": "content",
+      "page_title": "Tools & Cutting Instruments | JLCCNC",
+      "summary": "板块文案更新：Featured Posts",
+      "details": [],
+      "before": "Featured Posts Tools & Cutting Instruments End Milling Explained: Types, Uses & Best End Mills for Metal & Wood If you’re serious about machining precision parts, end milling isn’t just another operation, it’s the backbone of modern subtractive manufacturing. But despite how common end mills are in workshops and factories, many still underestimate how nuanced they can be. From tool geometry and coating to matching the right end mill to the material (yes, there's a difference between what cuts wood cleanly and what survives stainless steel), the details make or break your result. This blog isn’t a surface-level ...... Jun 30, 2025 Tools & Cutting Instruments End Milling vs Face Milling: Key Differences, Tools & Applications Jul 22, 2025 Tools & Cutting Instruments CNC Tooling 101: Choosing the Right End Mills and Cutters Oct 26, 2025 Tools & Cutting Instruments How to Choose the Right Cutting Tool Material (CNC & Lathe Guide) Sep 06, 2025 Tools & Cutting Instruments A Complete Guide to Tool Wear Detection and Maintenance in CNC Machining",
+      "after": "Featured Posts Tools & Cutting Instruments End Milling Explained: Types, Uses & Best End Mills for Metal & Wood If you’re serious about machining precision parts, end milling isn’t just another operation, it’s the backbone of modern subtractive manufacturing. But despite how common end mills are in workshops and factories, many still underestimate how nuanced they can be. From tool geometry and coating to matching the right end mill to the material (yes, there's a difference between what cuts wood cleanly and what survives stainless steel), the details make or break your result. This blog isn’t a surface-level ...... Jun 30, 2025 Tools & Cutting Instruments End Milling vs Face Milling: Key Differences, Tools & Applications Jul 22, 2025 Tools & Cutting Instruments CNC Tooling 101: Choosing the Right End Mills and Cutters Oct 27, 2025 Tools & Cutting Instruments How to Choose the Right Cutting Tool Material (CNC & Lathe Guide) Sep 06, 2025 Tools & Cutting Instruments A Complete Guide to Tool Wear Detection and Maintenance in CNC Machining",
+      "added": [
+        "27,"
+      ],
+      "removed": [
+        "26,"
+      ],
+      "change_percent": 1.17,
+      "confidence": "high",
+      "published_at": "2025-06-30T00:00:00+00:00",
+      "first_seen_at": "2026-08-17T03:50:35+00:00",
+      "discovered_via": "sitemap"
+    }
+  ],
+  "errors": [
+    "Seed page failed: https://www.hubs.com/manufacturing-services (HTTP 404)",
+    "Hubs | https://www.hubs.com/manufacturing-services | HTTP 404",
+    "Hubs | https://www.hubs.com/knowledgebasearticle | HTTP 404",
+    "Hubs | https://www.hubs.com/articleblogarticle | HTTP 404",
+    "Hubs | https://www.hubs.com/knowledgebasecollection | HTTP 404",
+    "Xometry | https://investors.xometry.com/news-releases/news-release-details/access-becoming-manufacturings-competitive-advantage-according | HTTP 403",
+    "Xometry | https://investors.xometry.com/news-releases/news-release-details/xometry-foundation-announces-partnership-mxd-expand | HTTP 403",
+    "Xometry | https://investors.xometry.com/news-releases/news-release-details/xometry-releases-comprehensive-upgrades-its-ai-model | HTTP 403",
+    "Xometry | https://investors.xometry.com/news-releases/news-release-details/xometry-launches-foundation-committing-1-million-advance | HTTP 403",
+    "Xometry | https://investors.xometry.com/news-releases/news-release-details/xometry-appoints-lukas-biewald-its-board-directors | HTTP 403",
+    "Xometry | https://investors.xometry.com/news-releases/news-release-details/xometry-streamlines-data-center-supply-chain-offering-single | HTTP 403",
+    "Xometry | https://investors.xometry.com/news-releases/news-release-details/xometry-and-siemens-partner-embed-ai-native-supply-chain | HTTP 403",
+    "Xometry | https://investors.xometry.com/news-releases/news-release-details/xometry-deepens-ai-native-marketplace-advantage-new-enterprise | HTTP 403",
+    "Xometry | https://investors.xometry.com/news-releases/news-release-details/xometry-announces-ceo-succession-plan | HTTP 403",
+    "Xometry | https://investors.xometry.com/news-releases/news-release-details/aerospace-defense-leaders-prioritize-ai-enabled-sourcing | HTTP 403",
+    "Xometry | https://investors.xometry.com/news-releases/news-release-details/xometry-marketplace-accelerates-solutions-complex-manufacturing | HTTP 403",
+    "Seed page failed: https://www.fictiv.com/services (HTTP 404)",
+    "Fictiv | https://www.fictiv.com/services | HTTP 404",
+    "Fictiv | https://www.fictiv.com/articles/low-volume-manufacturing | HTTP 429",
+    "Fictiv | https://www.fictiv.com/articles/pilot-production-manufacturing | HTTP 429",
+    "Fictiv | https://www.fictiv.com/articles/metal-parts-manufacturing | HTTP 429",
+    "Fictiv | https://www.fictiv.com/articles/dfm-design-for-manufacturing-guide | HTTP 429",
+    "Fictiv | https://www.fictiv.com/articles/common-tolerance-mistakes-and-how-to-fix | HTTP 429",
+    "Fictiv | https://www.fictiv.com/articles/material-traceability-in-manufacturing | HTTP 429",
+    "Fictiv | https://www.fictiv.com/articles/certificate-of-conformance | HTTP 429",
+    "Fictiv | https://www.fictiv.com/articles/injection-molding-cycle-time | HTTP 429",
+    "Fictiv | https://www.fictiv.com/articles/engineering-fits-clearance-transition-interference | HTTP 429",
+    "Fictiv | https://www.fictiv.com/articles/mro-parts-reverse-engineering-guide | HTTP 429",
+    "Fictiv | https://www.fictiv.com/articles/humanoid-robotics-manufacturing-sourcing-strategy | HTTP 429",
+    "Fictiv | https://www.fictiv.com/articles/manufacturing-continuity-and-reducing-risk-during-production-scale-up | HTTP 429",
+    "Fictiv | https://www.fictiv.com/articles/custom-vs-configurable-components | HTTP 429",
+    "Fictiv | https://www.fictiv.com/articles/metal-casting-defects-causes-prevention | HTTP 429",
+    "Fictiv | https://www.fictiv.com/articles/industrial-automation-mro-strategy-guide | HTTP 429",
+    "Fictiv | https://www.fictiv.com/articles/large-plastic-part-injection-molding | HTTP 429",
+    "Fictiv | https://www.fictiv.com/articles/fictivmade-part-8-final-part-unboxing-testing | HTTP 429",
+    "Fictiv | https://www.fictiv.com/articles/robotic-arm-components-manufacturing | HTTP 429",
+    "Fictiv | https://www.fictiv.com/articles/mro-obsolescence-mismatch | HTTP 429",
+    "Fictiv | https://www.fictiv.com/articles/ai-in-mechanical-engineering | HTTP 429",
+    "Fictiv | https://www.fictiv.com/articles/how-to-build-a-bom | HTTP 429",
+    "Fictiv | https://www.fictiv.com/articles/custom-and-standard-components-single-source-bom | HTTP 429",
+    "Fictiv | https://www.fictiv.com/articles/2025-u-s-tariff-updates-key-trade-policy-changes | HTTP 429",
+    "Fictiv | https://www.fictiv.com/articles/us-manufacturing-workforce-gap-2026 | HTTP 429",
+    "Fictiv | https://www.fictiv.com/articles/4-axis-cnc-machining | HTTP 429",
+    "Fictiv | https://www.fictiv.com/articles/bridge-production-manufacturing | HTTP 429",
+    "Fictiv | https://www.fictiv.com/articles/design-for-testability-dft | HTTP 429",
+    "Fictiv | https://www.fictiv.com/articles/gravity-casting-permanent-mold | HTTP 429",
+    "Fictiv | https://www.fictiv.com/articles/as9100-v-iso-9001-aerospace-quality-standards | HTTP 429",
+    "Fictiv | https://www.fictiv.com/articles/doing-better-than-good-how-whill-is-redefining-the-wheelchair | HTTP 429",
+    "Fictiv | https://www.fictiv.com/articles/built-tough-built-loud-the-development-story-behind-the-loudest-speaker-on-the-market | HTTP 429",
+    "Fictiv | https://www.fictiv.com/articles/accelerating-through-success-start-local-scale-global | HTTP 429",
+    "Fictiv | https://www.fictiv.com/articles/manufacturing-simplicity-how-an-innovative-firm-is-redefining-the-everyday | HTTP 429",
+    "Fictiv | https://www.fictiv.com/articles/how-one-startup-harnessed-the-sunand-taught-people-how-to-fish-off-grid-electric-spotlight | HTTP 429",
+    "Fictiv | https://www.fictiv.com/articles/3d-tlc-best-practices-at-one-of-the-bay-areas-top-3d-print-shops | HTTP 429",
+    "Fictiv | https://www.fictiv.com/articles/getting-intimate-with-your-prototype-lioness-spotlight | HTTP 429",
+    "Fictiv | https://www.fictiv.com/articles/how-to-work-with-community-and-come-out-with-a-product-thats-better-not-worse | HTTP 429",
+    "Fictiv | https://www.fictiv.com/articles/large-format-3d-printing | HTTP 429",
+    "Fictiv | https://www.fictiv.com/articles/lpdc-low-pressure-die-casting | HTTP 429",
+    "Fictiv | https://www.fictiv.com/articles/evtol-aircraft-components-custom-vs-standard-parts | HTTP 429",
+    "Fictiv | https://www.fictiv.com/articles/how-to-prototype-rubber-designs | HTTP 429",
+    "Fictiv | https://www.fictiv.com/articles/practical-guide-to-prototype-testing | HTTP 429",
+    "Fictiv | https://www.fictiv.com/articles/fictiv-receives-2026-supplytech-breakthrough-award | HTTP 429",
+    "Fictiv | https://www.fictiv.com/articles/infographic-4-manufacturing-predictions-for-2021 | HTTP 429",
+    "Fictiv | https://www.fictiv.com/articles/how-to-accelerate-your-engineering-builds-and-ensure-you-get-parts-that-fit | HTTP 429",
+    "Fictiv | https://www.fictiv.com/articles/mro-inventory-management-jit-strategy | HTTP 429",
+    "Fictiv | https://www.fictiv.com/articles/5-options-for-building-large-scale-prototypes | HTTP 429",
+    "Fictiv | https://www.fictiv.com/articles/advanced-materials-guide-for-injection-molding | HTTP 429",
+    "Fictiv | https://www.fictiv.com/articles/misumi-americas-unveils-ai-powered-supply-chain-platform | HTTP 429",
+    "Fictiv | https://www.fictiv.com/articles/misumi-americas-launch | HTTP 429",
+    "Fictiv | https://www.fictiv.com/articles/3-axis-cnc-machining-guide | HTTP 429",
+    "Fictiv | https://www.fictiv.com/articles/ai-powered-digital-manufacturing-platforms-for-engineers | HTTP 429",
+    "Fictiv | https://www.fictiv.com/articles/cnc-vs-die-casting-qualification-scorecard | HTTP 429",
+    "Fictiv | https://www.fictiv.com/articles/types-of-springs-and-their-applications-an-overview | HTTP 429",
+    "Fictiv | https://www.fictiv.com/articles/scaling-cnc-machining-to-casting-transition-guide/thank-you | HTTP 429",
+    "Fictiv | https://www.fictiv.com/articles/best-practices-for-fixing-solidworks-import-errors | HTTP 429",
+    "Fictiv | https://www.fictiv.com/articles/scaling-cnc-machining-to-casting-transition-guide | HTTP 429",
+    "Fictiv | https://www.fictiv.com/articles/semiconductor-equipment-manufacturing | HTTP 429",
+    "Fictiv | https://www.fictiv.com/articles/prototyping-cost-process-pricing | HTTP 429",
+    "Fictiv | https://www.fictiv.com/articles/misumi-vending-machines-mro-supply-chain | HTTP 429",
+    "Fictiv | https://www.fictiv.com/articles/stage-gate-product-development-process-models | HTTP 429",
+    "Fictiv | https://www.fictiv.com/articles/cleanroom-manufacturing-iso-standards-design-applications | HTTP 429",
+    "Fictiv | https://www.fictiv.com/articles/simulation-vs-reality-hardware-development | HTTP 429",
+    "Fictiv | https://www.fictiv.com/articles/ai-data-center-infrastructure-design | HTTP 429",
+    "Fictiv | https://www.fictiv.com/articles/stage-gate-product-development-process-models/thank-you | HTTP 429",
+    "Fictiv | https://www.fictiv.com/articles/announcing-fictivs-automated-injection-molding-dfm | HTTP 429",
+    "Fictiv | https://www.fictiv.com/articles/how-to-design-snap-fit-components | HTTP 429",
+    "Fictiv | https://www.fictiv.com/articles/the-zen-of-product-design-how-lockitron-let-go-of-the-extraneous-and-non-essential | HTTP 429",
+    "Fictiv | https://www.fictiv.com/articles/gdt-101-an-introduction-to-geometric-dimensioning-and-tolerancing | HTTP 429",
+    "Fictiv | https://www.fictiv.com/articles/aerospace-materials-finishes-for-spacecraft-and-satellites | HTTP 429",
+    "Fictiv | https://www.fictiv.com/articles/what-are-mro-parts-definition-sourcing-strategies | HTTP 429",
+    "Seed page failed: https://jlccnc.com/surface-finishes (HTTP 404)",
+    "Seed page failed: https://www.pcbway.com/rapid-prototyping (HTTP 404)",
+    "PCBWay | https://www.pcbway.com/rapid-prototyping/cnc-machining | HTTP 404",
+    "PCBWay | https://www.pcbway.com/rapid-prototyping/3d-printing | HTTP 404",
+    "PCBWay | https://www.pcbway.com/rapid-prototyping/sheet-metal | HTTP 404",
+    "Seed page failed: https://www.emachineshop.com/services (HTTP 404)",
+    "eMachineShop | https://www.emachineshop.com/services | HTTP 404",
+    "Seed page failed: https://www.cnclathing.com/blog (HTTP 404)",
+    "CNCLATHING | https://www.cnclathing.com/blog | HTTP 404"
+  ],
+  "discovery": [
+    {
+      "competitor": "Hubs",
+      "base_url": "https://www.hubs.com/",
+      "tracked_urls": 120,
+      "source_counts": {
+        "priority": 7,
+        "feed": 0,
+        "sitemap": 2876,
+        "links": 296
+      }
+    },
+    {
+      "competitor": "Xometry",
+      "base_url": "https://www.xometry.com/",
+      "tracked_urls": 120,
+      "source_counts": {
+        "priority": 6,
+        "feed": 100,
+        "sitemap": 0,
+        "links": 212
+      }
+    },
+    {
+      "competitor": "Fictiv",
+      "base_url": "https://www.fictiv.com/",
+      "tracked_urls": 120,
+      "source_counts": {
+        "priority": 6,
+        "feed": 38,
+        "sitemap": 1160,
+        "links": 132
+      }
+    },
+    {
+      "competitor": "Protolabs",
+      "base_url": "https://www.protolabs.com/",
+      "tracked_urls": 120,
+      "source_counts": {
+        "priority": 6,
+        "feed": 0,
+        "sitemap": 713,
+        "links": 143
+      }
+    },
+    {
+      "competitor": "JLC CNC",
+      "base_url": "https://jlccnc.com/",
+      "tracked_urls": 120,
+      "source_counts": {
+        "priority": 5,
+        "feed": 0,
+        "sitemap": 1105,
+        "links": 85
+      }
+    },
+    {
+      "competitor": "PCBWay",
+      "base_url": "https://www.pcbway.com/",
+      "tracked_urls": 120,
+      "source_counts": {
+        "priority": 3,
+        "feed": 0,
+        "sitemap": 0,
+        "links": 129
+      }
+    },
+    {
+      "competitor": "eMachineShop",
+      "base_url": "https://www.emachineshop.com/",
+      "tracked_urls": 48,
+      "source_counts": {
+        "priority": 4,
+        "feed": 6,
+        "sitemap": 41,
+        "links": 16
+      }
+    },
+    {
+      "competitor": "SyBridge",
+      "base_url": "https://sybridge.com/",
+      "tracked_urls": 73,
+      "source_counts": {
+        "priority": 4,
+        "feed": 2,
+        "sitemap": 64,
+        "links": 25
+      }
+    },
+    {
+      "competitor": "CNCLATHING",
+      "base_url": "https://www.cnclathing.com/",
+      "tracked_urls": 120,
+      "source_counts": {
+        "priority": 4,
+        "feed": 0,
+        "sitemap": 732,
+        "links": 86
+      }
+    }
+  ],
+  "email": {
+    "text": "竞品追踪日报 · 2026-10-18\n\n今日概览：共检测到 31 项记录。 监控异常 1 项。 页面变化 19 项。 另有 11 项低优先级变化已折叠。 变化较多：SyBridge, JLC CNC, Fictiv。\n\n【监控异常（优先处理）】\n· Fictiv | 监控健康告警\n  - 抓取失败率过高：尝试页面：120；失败页面：72；失败率：60.0%\n  https://www.fictiv.com/\n\n【定价 & 首页变化】\n· PCBWay | China PCB Prototype & Fabrication Manufacturer - PCB Protot...\n  - 板块文案更新：Affordable Prototype PCB Manufacturer in China；新增：92287 / 1088 / 10-18 J****rg 6-7 days 47% 10-18；删除：93381 / 1622 / 10-17；变更范围约 127.5%\n  https://www.pcbway.com/\n\n【文案 & 结构】\n· SyBridge | Knowledge Center Archives - SyBridge Technologies\n  - CTA发生变化；新增：Start the conversation today -> https://sybridge.com/contact；删除：Start the conversation today -> http://corpweb-dev.sybridge.tech/contact\n  https://sybridge.com/resource/articles\n· SyBridge | Case Study Archives - SyBridge Technologies\n  - CTA发生变化；新增：Start the conversation today -> https://sybridge.com/contact；删除：Start the conversation today -> http://corpweb-dev.sybridge.tech/contact\n  https://sybridge.com/resource/case-study\n· SyBridge | News Archives - SyBridge Technologies\n  - CTA发生变化；新增：Start the conversation today -> https://sybridge.com/contact；删除：Start the conversation today -> http://corpweb-dev.sybridge.tech/contact\n  https://sybridge.com/resource/news\n· SyBridge | Resources - SyBridge Technologies\n  - CTA发生变化；新增：Start the conversation today -> https://sybridge.com/contact；删除：Start the conversation today -> http://corpweb-dev.sybridge.tech/contact\n  https://sybridge.com/resources\n· SyBridge | Resources - Page 2 of 8 - SyBridge Technologies\n  - CTA发生变化；新增：Start the conversation today -> https://sybridge.com/contact；删除：Start the conversation today -> http://corpweb-dev.sybridge.tech/contact\n  https://sybridge.com/resources/page/2\n· SyBridge | Resources - Page 3 of 8 - SyBridge Technologies\n  - CTA发生变化；新增：Start the conversation today -> https://sybridge.com/contact；删除：Start the conversation today -> http://corpweb-dev.sybridge.tech/contact\n  https://sybridge.com/resources/page/3\n· SyBridge | Resources - Page 4 of 8 - SyBridge Technologies\n  - CTA发生变化；新增：Start the conversation today -> https://sybridge.com/contact；删除：Start the conversation today -> http://corpweb-dev.sybridge.tech/contact\n  https://sybridge.com/resources/page/4\n· SyBridge | Resources - Page 5 of 8 - SyBridge Technologies\n  - CTA发生变化；新增：Start the conversation today -> https://sybridge.com/contact；删除：Start the conversation today -> http://corpweb-dev.sybridge.tech/contact\n  https://sybridge.com/resources/page/5\n· SyBridge | Resources - Page 6 of 8 - SyBridge Technologies\n  - CTA发生变化；新增：Start the conversation today -> https://sybridge.com/contact；删除：Start the conversation today -> http://corpweb-dev.sybridge.tech/contact\n  https://sybridge.com/resources/page/6\n· SyBridge | Resources - Page 7 of 8 - SyBridge Technologies\n  - CTA发生变化；新增：Start the conversation today -> https://sybridge.com/contact；删除：Start the conversation today -> http://corpweb-dev.sybridge.tech/contact\n  https://sybridge.com/resources/page/7\n\n【UI 布局变化】\n· SyBridge | Optimizing Your Injection Molding Process for Cost-Effectiv...\n  - Optimizing Your Injection Molding Process for Cost-Effectiv... mobile 端页面布局有明显变化（建议打开链接目视确认）\n  https://sybridge.com/optimizing-your-injection-molding-process\n· CNCLATHING | China Top CNC Machining Service OEM Supplier & Manufacturer...\n  - China Top CNC Machining Service OEM Supplier & Manufacturer... desktop 端页面布局有明显变化（建议打开链接目视确认）\n  https://www.cnclathing.com/\n· JLC CNC | Online CNC Machining Service - JLCCNC\n  - Online CNC Machining Service - JLCCNC desktop 端页面布局有明显变化（建议打开链接目视确认）\n  - Online CNC Machining Service - JLCCNC mobile 端页面布局有明显变化（建议打开链接目视确认）\n  https://jlccnc.com/\n· JLC CNC | CNC Machining Services Guide: Processes, Capabilities and M...\n  - CNC Machining Services Guide: Processes, Capabilities and M... desktop 端页面布局有明显变化（建议打开链接目视确认）\n  - CNC Machining Services Guide: Processes, Capabilities and M... mobile 端页面布局有明显变化（建议打开链接目视确认）\n  https://jlccnc.com/cnc-machining\n· JLC CNC | Sheet Metal Fabrication Services & Capabilities | JLCCNC\n  - Sheet Metal Fabrication Services & Capabilities | JLCCNC desktop 端页面布局有明显变化（建议打开链接目视确认）\n  - Sheet Metal Fabrication Services & Capabilities | JLCCNC mobile 端页面布局有明显变化（建议打开链接目视确认）\n  https://jlccnc.com/sheet-metal-fabrication\n\n已折叠不展示：CTA 按钮 4 项, 板块文案 5 项, UI 布局 2 项。完整列表见 reports/ 目录。\n\n抓取提醒：\n- Seed page failed: https://www.hubs.com/manufacturing-services (HTTP 404)\n- Hubs | https://www.hubs.com/manufacturing-services | HTTP 404\n- Hubs | https://www.hubs.com/knowledgebasearticle | HTTP 404\n- Hubs | https://www.hubs.com/articleblogarticle | HTTP 404\n- Hubs | https://www.hubs.com/knowledgebasecollection | HTTP 404\n- Xometry | https://investors.xometry.com/news-releases/news-release-details/access-becoming-manufacturings-competitive-advantage-according | HTTP 403\n- Xometry | https://investors.xometry.com/news-releases/news-release-details/xometry-foundation-announces-partnership-mxd-expand | HTTP 403\n- Xometry | https://investors.xometry.com/news-releases/news-release-details/xometry-releases-comprehensive-upgrades-its-ai-model | HTTP 403\n- Xometry | https://investors.xometry.com/news-releases/news-release-details/xometry-launches-foundation-committing-1-million-advance | HTTP 403\n- Xometry | https://investors.xometry.com/news-releases/news-release-details/xometry-appoints-lukas-biewald-its-board-directors | HTTP 403\n\n完整明细见仓库 reports/ 目录中的 HTML 报告。",
+    "html": "<!doctype html>\n<html lang=\"zh-CN\">\n<head>\n  <meta charset=\"utf-8\">\n  <meta name=\"viewport\" content=\"width=device-width, initial-scale=1\">\n  <title>竞品追踪日报 · 2026-10-18</title>\n  <style>\n    body { margin: 0; padding: 24px; font-family: Arial, 'Microsoft YaHei', sans-serif; color: #1a1a1a; background: #f4f5f7; line-height: 1.5; }\n    h1 { font-size: 22px; margin: 0 0 6px; }\n    h2 { font-size: 16px; margin: 24px 0 10px; color: #333; }\n    section { margin: 16px 0; }\n    table { width: 100%; border-collapse: collapse; background: #fff; border: 1px solid #e2e6ea; }\n    th, td { padding: 10px 12px; border-bottom: 1px solid #edf0f3; text-align: left; font-size: 13px; vertical-align: top; }\n    th { background: #f8f9fb; color: #555; font-weight: 600; }\n    tr:last-child td { border-bottom: none; }\n    a { color: #1565c0; text-decoration: none; }\n    .muted { color: #666; font-size: 13px; }\n    .summary { background: #fff; border: 1px solid #e2e6ea; padding: 14px 16px; border-radius: 4px; }\n    .summary-table td:first-child { width: 110px; color: #666; }\n    .summary-table td { border: none; padding: 4px 8px 4px 0; }\n    .changes { color: #222; }\n    .change-block { margin-bottom: 8px; }\n    .change-block:last-child { margin-bottom: 0; }\n    .diff-added { margin-top: 5px; padding: 5px 7px; color: #067647; background: #ecfdf3; border-left: 3px solid #12b76a; }\n    .diff-removed { margin-top: 5px; padding: 5px 7px; color: #b42318; background: #fef3f2; border-left: 3px solid #f04438; }\n    .timing { margin-top: 5px; color: #667085; font-size: 12px; }\n    .badge { display: inline-block; border-radius: 3px; padding: 2px 6px; font-size: 11px; font-weight: 600; text-transform: uppercase; }\n    .badge.high { background: #fde8e8; color: #b42318; }\n    .badge.medium { background: #fff4e5; color: #b54708; }\n    .badge.low { background: #eef4ff; color: #175cd3; }\n    .folded { background: #fafafa; border-left: 3px solid #d0d5dd; padding: 10px 14px; }\n    .footer { margin-top: 20px; font-size: 12px; color: #888; }\n    code { background: #f0f0f0; padding: 1px 4px; border-radius: 3px; }\n    ul { margin: 8px 0 0 18px; padding: 0; }\n  </style>\n</head>\n<body>\n<h1>竞品追踪日报</h1><p class='muted'>2026-10-18</p>\n<section class='summary'><p><strong>今日共检测到 31 项记录。</strong></p><table class='summary-table'><tbody><tr><td>近期新发布内容</td><td><strong>0</strong> 篇</td></tr><tr><td>历史内容补录</td><td>0 篇（不计入今日新闻）</td></tr><tr><td>监控异常</td><td><strong>1</strong> 项</td></tr><tr><td>新增其他页面</td><td><strong>0</strong> 个</td></tr><tr><td>内容页更新</td><td><strong>0</strong> 篇</td></tr><tr><td>页面变化</td><td><strong>19</strong> 项</td></tr><tr><td>已折叠</td><td>11 项</td></tr><tr><td>变化较多</td><td>SyBridge, JLC CNC, Fictiv</td></tr></tbody></table></section>\n<section><h2>监控异常（优先处理）</h2><table><thead><tr><th>竞品</th><th>页面</th><th>具体改了什么</th></tr></thead><tbody><tr><td><span class='badge high'>high</span> Fictiv</td><td>监控健康告警<br><a href='https://www.fictiv.com/'>fictiv.com/</a></td><td class='changes'><div class='change-block'>抓取失败率过高：尝试页面：120；失败页面：72；失败率：60.0%</div></td></tr></tbody></table></section>\n<section><h2>定价 &amp; 首页变化</h2><table><thead><tr><th>竞品</th><th>页面</th><th>具体改了什么</th></tr></thead><tbody><tr><td><span class='badge medium'>medium</span> PCBWay</td><td>China PCB Prototype &amp; Fabrication Manufacturer - PCB Protot...<br><a href='https://www.pcbway.com/'>pcbway.com/</a></td><td class='changes'><div class='change-block'><strong>板块文案更新：Affordable Prototype PCB Manufacturer in China</strong><div class='diff-added'>＋ 92287</div><div class='diff-added'>＋ 1088</div><div class='diff-added'>＋ 10-18 J****rg 6-7 days 47% 10-18</div><div class='diff-removed'>－ 93381</div><div class='diff-removed'>－ 1622</div><div class='diff-removed'>－ 10-17</div><span class='muted'>变更范围约 127.5%</span></div></td></tr></tbody></table></section>\n<section><h2>文案 &amp; 结构</h2><table><thead><tr><th>竞品</th><th>页面</th><th>具体改了什么</th></tr></thead><tbody><tr><td><span class='badge medium'>medium</span> SyBridge</td><td>Knowledge Center Archives - SyBridge Technologies<br><a href='https://sybridge.com/resource/articles'>sybridge.com/resource/articles</a></td><td class='changes'><div class='change-block'><strong>CTA发生变化</strong><div class='diff-added'>＋ Start the conversation today -&gt; https://sybridge.com/contact</div><div class='diff-removed'>－ Start the conversation today -&gt; http://corpweb-dev.sybridge.tech/contact</div></div></td></tr><tr><td><span class='badge medium'>medium</span> SyBridge</td><td>Case Study Archives - SyBridge Technologies<br><a href='https://sybridge.com/resource/case-study'>sybridge.com/resource/case-study</a></td><td class='changes'><div class='change-block'><strong>CTA发生变化</strong><div class='diff-added'>＋ Start the conversation today -&gt; https://sybridge.com/contact</div><div class='diff-removed'>－ Start the conversation today -&gt; http://corpweb-dev.sybridge.tech/contact</div></div></td></tr><tr><td><span class='badge medium'>medium</span> SyBridge</td><td>News Archives - SyBridge Technologies<br><a href='https://sybridge.com/resource/news'>sybridge.com/resource/news</a></td><td class='changes'><div class='change-block'><strong>CTA发生变化</strong><div class='diff-added'>＋ Start the conversation today -&gt; https://sybridge.com/contact</div><div class='diff-removed'>－ Start the conversation today -&gt; http://corpweb-dev.sybridge.tech/contact</div></div></td></tr><tr><td><span class='badge medium'>medium</span> SyBridge</td><td>Resources - SyBridge Technologies<br><a href='https://sybridge.com/resources'>sybridge.com/resources</a></td><td class='changes'><div class='change-block'><strong>CTA发生变化</strong><div class='diff-added'>＋ Start the conversation today -&gt; https://sybridge.com/contact</div><div class='diff-removed'>－ Start the conversation today -&gt; http://corpweb-dev.sybridge.tech/contact</div></div></td></tr><tr><td><span class='badge medium'>medium</span> SyBridge</td><td>Resources - Page 2 of 8 - SyBridge Technologies<br><a href='https://sybridge.com/resources/page/2'>sybridge.com/resources/page/2</a></td><td class='changes'><div class='change-block'><strong>CTA发生变化</strong><div class='diff-added'>＋ Start the conversation today -&gt; https://sybridge.com/contact</div><div class='diff-removed'>－ Start the conversation today -&gt; http://corpweb-dev.sybridge.tech/contact</div></div></td></tr><tr><td><span class='badge medium'>medium</span> SyBridge</td><td>Resources - Page 3 of 8 - SyBridge Technologies<br><a href='https://sybridge.com/resources/page/3'>sybridge.com/resources/page/3</a></td><td class='changes'><div class='change-block'><strong>CTA发生变化</strong><div class='diff-added'>＋ Start the conversation today -&gt; https://sybridge.com/contact</div><div class='diff-removed'>－ Start the conversation today -&gt; http://corpweb-dev.sybridge.tech/contact</div></div></td></tr><tr><td><span class='badge medium'>medium</span> SyBridge</td><td>Resources - Page 4 of 8 - SyBridge Technologies<br><a href='https://sybridge.com/resources/page/4'>sybridge.com/resources/page/4</a></td><td class='changes'><div class='change-block'><strong>CTA发生变化</strong><div class='diff-added'>＋ Start the conversation today -&gt; https://sybridge.com/contact</div><div class='diff-removed'>－ Start the conversation today -&gt; http://corpweb-dev.sybridge.tech/contact</div></div></td></tr><tr><td><span class='badge medium'>medium</span> SyBridge</td><td>Resources - Page 5 of 8 - SyBridge Technologies<br><a href='https://sybridge.com/resources/page/5'>sybridge.com/resources/page/5</a></td><td class='changes'><div class='change-block'><strong>CTA发生变化</strong><div class='diff-added'>＋ Start the conversation today -&gt; https://sybridge.com/contact</div><div class='diff-removed'>－ Start the conversation today -&gt; http://corpweb-dev.sybridge.tech/contact</div></div></td></tr><tr><td><span class='badge medium'>medium</span> SyBridge</td><td>Resources - Page 6 of 8 - SyBridge Technologies<br><a href='https://sybridge.com/resources/page/6'>sybridge.com/resources/page/6</a></td><td class='changes'><div class='change-block'><strong>CTA发生变化</strong><div class='diff-added'>＋ Start the conversation today -&gt; https://sybridge.com/contact</div><div class='diff-removed'>－ Start the conversation today -&gt; http://corpweb-dev.sybridge.tech/contact</div></div></td></tr><tr><td><span class='badge medium'>medium</span> SyBridge</td><td>Resources - Page 7 of 8 - SyBridge Technologies<br><a href='https://sybridge.com/resources/page/7'>sybridge.com/resources/page/7</a></td><td class='changes'><div class='change-block'><strong>CTA发生变化</strong><div class='diff-added'>＋ Start the conversation today -&gt; https://sybridge.com/contact</div><div class='diff-removed'>－ Start the conversation today -&gt; http://corpweb-dev.sybridge.tech/contact</div></div></td></tr></tbody></table></section>\n<section><h2>UI 布局变化</h2><table><thead><tr><th>竞品</th><th>页面</th><th>具体改了什么</th></tr></thead><tbody><tr><td><span class='badge high'>high</span> SyBridge</td><td>Optimizing Your Injection Molding Process for Cost-Effectiv...<br><a href='https://sybridge.com/optimizing-your-injection-molding-process'>sybridge.com/optimizing-your-injection-molding-process</a></td><td class='changes'><div class='change-block'><strong>mobile 视图出现明显 UI/布局变化</strong>Optimizing Your Injection Molding Process for Cost-Effectiv... mobile 端页面布局有明显变化（建议打开链接目视确认）</div></td></tr><tr><td><span class='badge medium'>medium</span> CNCLATHING</td><td>China Top CNC Machining Service OEM Supplier &amp; Manufacturer...<br><a href='https://www.cnclathing.com/'>cnclathing.com/</a></td><td class='changes'><div class='change-block'><strong>desktop 视图出现明显 UI/布局变化</strong>China Top CNC Machining Service OEM Supplier &amp; Manufacturer... desktop 端页面布局有明显变化（建议打开链接目视确认）</div></td></tr><tr><td><span class='badge medium'>medium</span> JLC CNC</td><td>Online CNC Machining Service - JLCCNC<br><a href='https://jlccnc.com/'>jlccnc.com/</a></td><td class='changes'><div class='change-block'><strong>desktop 视图出现明显 UI/布局变化</strong>Online CNC Machining Service - JLCCNC desktop 端页面布局有明显变化（建议打开链接目视确认）</div><div class='change-block'><strong>mobile 视图出现明显 UI/布局变化</strong>Online CNC Machining Service - JLCCNC mobile 端页面布局有明显变化（建议打开链接目视确认）</div></td></tr><tr><td><span class='badge medium'>medium</span> JLC CNC</td><td>CNC Machining Services Guide: Processes, Capabilities and M...<br><a href='https://jlccnc.com/cnc-machining'>jlccnc.com/cnc-machining</a></td><td class='changes'><div class='change-block'><strong>desktop 视图出现明显 UI/布局变化</strong>CNC Machining Services Guide: Processes, Capabilities and M... desktop 端页面布局有明显变化（建议打开链接目视确认）</div><div class='change-block'><strong>mobile 视图出现明显 UI/布局变化</strong>CNC Machining Services Guide: Processes, Capabilities and M... mobile 端页面布局有明显变化（建议打开链接目视确认）</div></td></tr><tr><td><span class='badge medium'>medium</span> JLC CNC</td><td>Sheet Metal Fabrication Services &amp; Capabilities | JLCCNC<br><a href='https://jlccnc.com/sheet-metal-fabrication'>jlccnc.com/sheet-metal-fabrication</a></td><td class='changes'><div class='change-block'><strong>desktop 视图出现明显 UI/布局变化</strong>Sheet Metal Fabrication Services &amp; Capabilities | JLCCNC desktop 端页面布局有明显变化（建议打开链接目视确认）</div><div class='change-block'><strong>mobile 视图出现明显 UI/布局变化</strong>Sheet Metal Fabrication Services &amp; Capabilities | JLCCNC mobile 端页面布局有明显变化（建议打开链接目视确认）</div></td></tr></tbody></table></section>\n<section class='folded'><p class='muted'>另有 <strong>11</strong> 项低优先级变化未在邮件中展开：CTA 按钮 4 项, 板块文案 5 项, UI 布局 2 项。完整明细见仓库 reports/ 目录。</p></section>\n<section><h2>抓取提醒</h2><ul><li>Seed page failed: https://www.hubs.com/manufacturing-services (HTTP 404)</li><li>Hubs | https://www.hubs.com/manufacturing-services | HTTP 404</li><li>Hubs | https://www.hubs.com/knowledgebasearticle | HTTP 404</li><li>Hubs | https://www.hubs.com/articleblogarticle | HTTP 404</li><li>Hubs | https://www.hubs.com/knowledgebasecollection | HTTP 404</li><li>Xometry | https://investors.xometry.com/news-releases/news-release-details/access-becoming-manufacturings-competitive-advantage-according | HTTP 403</li><li>Xometry | https://investors.xometry.com/news-releases/news-release-details/xometry-foundation-announces-partnership-mxd-expand | HTTP 403</li><li>Xometry | https://investors.xometry.com/news-releases/news-release-details/xometry-releases-comprehensive-upgrades-its-ai-model | HTTP 403</li><li>Xometry | https://investors.xometry.com/news-releases/news-release-details/xometry-launches-foundation-committing-1-million-advance | HTTP 403</li><li>Xometry | https://investors.xometry.com/news-releases/news-release-details/xometry-appoints-lukas-biewald-its-board-directors | HTTP 403</li></ul></section>\n<p class='footer'>完整明细已保存到仓库 <code>reports/</code> 目录，可在 GitHub 上打开 HTML 文件查看全部变化。</p>\n</body></html>"
+  },
+  "run_id": "20261018T054947Z",
+  "baseline_run": false,
+  "upgrade_run": false,
+  "email_status": "Email sent with Resend."
+}
