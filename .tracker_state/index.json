@@ -124,10 +124,11 @@
       "https://www.fictiv.com/capabilities",
       "https://www.fictiv.com/resources",
       "https://www.fictiv.com/articles",
+      "https://www.fictiv.com/newsroom",
+      "https://www.fictiv.com/articles/misumi-launches-imprint-foundation",
       "https://www.fictiv.com/articles/manufacturing-partner-evaluation",
       "https://www.fictiv.com/articles/custom-vs-configurable-components",
       "https://www.fictiv.com/articles/custom-end-effectors-and-eoat",
-      "https://www.fictiv.com/newsroom",
       "https://www.fictiv.com/articles/scientific-injection-molding",
       "https://www.fictiv.com/articles/anisotropic-vs-isotropic-materials",
       "https://www.fictiv.com/articles/surgical-robotics-hardware-manufacturing",
@@ -236,8 +237,7 @@
       "https://www.fictiv.com/articles/how-to-design-snap-fit-components",
       "https://www.fictiv.com/articles/the-zen-of-product-design-how-lockitron-let-go-of-the-extraneous-and-non-essential",
       "https://www.fictiv.com/articles/gdt-101-an-introduction-to-geometric-dimensioning-and-tolerancing",
-      "https://www.fictiv.com/articles/aerospace-materials-finishes-for-spacecraft-and-satellites",
-      "https://www.fictiv.com/articles/what-are-mro-parts-definition-sourcing-strategies"
+      "https://www.fictiv.com/articles/aerospace-materials-finishes-for-spacecraft-and-satellites"
     ],
     "Hubs": [
       "https://www.hubs.com/cnc-machining",
@@ -246,6 +246,9 @@
       "https://www.hubs.com/3d-printing",
       "https://www.hubs.com/knowledge-base",
       "https://www.hubs.com/blog",
+      "https://www.hubs.com/knowledge-base/what-is-epoxy",
+      "https://www.hubs.com/knowledge-base/what-is-steel",
+      "https://www.hubs.com/knowledge-base/what-is-acrylic",
       "https://www.hubs.com/knowledge-base/ul-94-classification-in-materials",
       "https://www.hubs.com/knowledge-base/cnc-machining/polypropylene",
       "https://www.hubs.com/blog/new-cnc-machining-surface-finishes",
@@ -352,10 +355,7 @@
       "https://www.hubs.com/knowledge-base/fastest-3d-printing-techniques",
       "https://www.hubs.com/knowledge-base/what-is-cross-docking",
       "https://www.hubs.com/knowledge-base/how-does-tig-welding-work",
-      "https://www.hubs.com/blog/sourcing-parts-during-chinese-new-year",
-      "https://www.hubs.com/knowledge-base/understanding-material-stress-vs-strain",
-      "https://www.hubs.com/blog/hubs-for-teams",
-      "https://www.hubs.com/knowledge-base/which-plastics-can-be-cnc-machined"
+      "https://www.hubs.com/blog/sourcing-parts-during-chinese-new-year"
     ],
     "JLC CNC": [
       "https://jlccnc.com/",
@@ -606,6 +606,8 @@
       "https://www.protolabs.com/services/injection-molding",
       "https://www.protolabs.com/resources",
       "https://www.protolabs.com/services",
+      "https://www.protolabs.com/resources/partnerships/krups",
+      "https://www.protolabs.com/resources/partnerships",
       "https://www.protolabs.com/resources/design-tips/3d-printing-tolerances",
       "https://www.protolabs.com/resources/design-for-moldability-toolkit",
       "https://www.protolabs.com/resources/events-trade-shows",
@@ -634,7 +636,6 @@
       "https://www.protolabs.com/resources/blog/3d-printed-medical-tools-and-equipment",
       "https://www.protolabs.com/resources/design-tips/choosing-the-right-metal-for-automotive-parts-brass-vs-steel-vs-stainless-steel",
       "https://www.protolabs.com/resources/partnerships/shuffler",
-      "https://www.protolabs.com/resources/partnerships",
       "https://www.protolabs.com/resources/blog/3d-printed-anatomical-models-in-healthcare",
       "https://www.protolabs.com/resources/blog/tpe-injection-molding",
       "https://www.protolabs.com/resources/product-life-cycle/low-volume-production",
@@ -718,8 +719,7 @@
       "https://www.protolabs.com/resources/design-tips/combining-rigid-and-flexible-materials-with-polyjet-overmolding",
       "https://www.protolabs.com/resources/design-tips/a-guide-to-stereolithography-3d-printing-materials",
       "https://www.protolabs.com/resources/design-tips/integrating-hardware-into-sheet-metal",
-      "https://www.protolabs.com/resources/partnerships/lockheed-martin-and-nasa",
-      "https://www.protolabs.com/resources/partnerships/hemosonics"
+      "https://www.protolabs.com/resources/partnerships/lockheed-martin-and-nasa"
     ],
     "SyBridge": [
       "https://sybridge.com/",
@@ -948,15 +948,8 @@
       "https://quote.emachineshop.com/emachineshop/widget/upload"
     ]
   },
-  "last_run_at": "2026-10-21T06:14:25+00:00",
+  "last_run_at": "2026-10-22T06:22:26+00:00",
   "runs": [
-    {
-      "errors": 20,
-      "events": 21,
-      "finished_at": "2026-08-23T02:54:38+00:00",
-      "mode": "daily",
-      "run_id": "20260823T023644Z"
-    },
     {
       "errors": 20,
       "events": 81,
@@ -1369,6 +1362,13 @@
       "finished_at": "2026-10-21T06:14:25+00:00",
       "mode": "daily",
       "run_id": "20261021T055933Z"
+    },
+    {
+      "errors": 26,
+      "events": 43,
+      "finished_at": "2026-10-22T06:22:26+00:00",
+      "mode": "daily",
+      "run_id": "20261022T060501Z"
     }
   ],
   "schema_version": 2
