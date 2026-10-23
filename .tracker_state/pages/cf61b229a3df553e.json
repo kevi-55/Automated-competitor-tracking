@@ -1,0 +1,135 @@
+{
+  "canonical": "https://www.emachineshop.com/cnc-machining-quote-differences",
+  "category": "pricing",
+  "competitor": "eMachineShop",
+  "ctas": [
+    {
+      "href": "https://www.emachineshop.com/comparing-cnc-quotes-tolerances-finishing",
+      "text": "Comparing CNC Quotes: Tolerance and Finishing Line Items"
+    },
+    {
+      "href": "https://www.emachineshop.com/quote",
+      "text": "REQUEST A QUOTE"
+    }
+  ],
+  "discovered_via": "feed",
+  "fetched_at": "2026-10-23T06:19:11+00:00",
+  "final_url": "https://www.emachineshop.com/cnc-machining-quote-differences",
+  "first_seen_at": "2026-10-23T06:19:11+00:00",
+  "h1": "Why Two Nearly Identical CNC Parts Can Have Very Different Quotes",
+  "headings": [
+    {
+      "level": "h1",
+      "text": "Why Two Nearly Identical CNC Parts Can Have Very Different Quotes"
+    },
+    {
+      "level": "h2",
+      "text": "Are the Tolerances Actually the Same?"
+    },
+    {
+      "level": "h2",
+      "text": "Is the Material Grade Identical, Not Just the Material Family?"
+    },
+    {
+      "level": "h2",
+      "text": "Does One Part Need an Extra Setup?"
+    },
+    {
+      "level": "h2",
+      "text": "Is the Finish Callout Really Equivalent?"
+    },
+    {
+      "level": "h2",
+      "text": "FAQ"
+    }
+  ],
+  "images": [
+    {
+      "alt": "Two nearly identical CNC-machined aluminum parts beside an engineering drawing on a workbench",
+      "src": "https://www.emachineshop.com/wp-content/uploads/cnc-machining-quote-differences-similar-parts.webp"
+    },
+    {
+      "alt": "facebook sharing button",
+      "src": "https://platform-cdn.sharethis.com/img/facebook.svg"
+    },
+    {
+      "alt": "twitter sharing button",
+      "src": "https://platform-cdn.sharethis.com/img/twitter.svg"
+    },
+    {
+      "alt": "email sharing button",
+      "src": "https://platform-cdn.sharethis.com/img/email.svg"
+    },
+    {
+      "alt": "whatsapp sharing button",
+      "src": "https://platform-cdn.sharethis.com/img/whatsapp.svg"
+    },
+    {
+      "alt": "linkedin sharing button",
+      "src": "https://platform-cdn.sharethis.com/img/linkedin.svg"
+    },
+    {
+      "alt": "messenger sharing button",
+      "src": "https://platform-cdn.sharethis.com/img/messenger.svg"
+    },
+    {
+      "alt": "blogger sharing button",
+      "src": "https://platform-cdn.sharethis.com/img/blogger.svg"
+    },
+    {
+      "alt": "pinterest sharing button",
+      "src": "https://platform-cdn.sharethis.com/img/pinterest.svg"
+    }
+  ],
+  "meta_description": "Why do nearly identical CNC parts receive different quotes? Discover how tolerances, material grades, setups, and surface finishes affect machining costs.",
+  "modified_at": "",
+  "monitored_text": "Why Two Nearly Identical CNC Parts Can Have Very Different Quotes by James Wright | Oct 22, 2026 « Back to all posts Two parts can look identical on a drawing and still come back with quotes 40% apart. That’s not shop inconsistency — it’s usually a tolerance, finish, or material callout that isn’t actually identical once you look closely. Quick summary: Quote variance between similar-looking parts almost always traces to differences in tolerance, surface finish, material grade, or setup count — not to arbitrary shop pricing. Here’s where to look first. Are the Tolerances Actually the Same? A drawing revision that tightened one dimension — even a single hole position — can add a secondary operation the earlier version didn’t need. Under ASME Y14.5-2018, every toleranced feature is an independent cost driver; “mostly the same part” doesn’t mean “the same cost.” Is the Material Grade Identical, Not Just the Material Family? 6061-T6 and 6061-T651 aluminum aren’t interchangeable in machinability or price, even though both are “6061.” The same applies across steel and stainless grades — a spec sheet difference that looks minor can change cycle time. Does One Part Need an Extra Setup? A feature on the back face of one part, absent on the other, can mean a second fixturing pass. That’s not visible at a glance on a 2D drawing — it shows up in the programming. Is the Finish Callout Really Equivalent? “Machined finish” and “machined finish, deburred, no visible tool marks” are not the same spec, even if they read similarly. The second one is a manual finishing step. FAQ If two RFQs come back with different prices for what I believe is the same part, what should I check first? Compare tolerance callouts feature-by-feature, not just the title block — most variance hides in a single dimension. Does file format (STEP vs. drawing PDF) affect quote consistency? It can — a shop quoting from a 3D model alone may miss a note that only appears on the 2D drawing. Send both when possible. Source: ASME Y14.5-2018. Related: Comparing CNC Quotes: Tolerance and Finishing Line Items · AMT’s What Drives the Cost of Precision CNC Aerospace Parts? REQUEST A QUOTE Share this post in Social Media",
+  "published_at": "2026-10-22T13:15:35+00:00",
+  "requested_url": "https://www.emachineshop.com/cnc-machining-quote-differences",
+  "schema_version": 2,
+  "sections": [
+    {
+      "hash": "b941136b6f6b0f3156e93f606857e08cfe5f7a5c",
+      "heading": "Why Two Nearly Identical CNC Parts Can Have Very Different Quotes",
+      "level": "h1",
+      "text": "Why Two Nearly Identical CNC Parts Can Have Very Different Quotes by James Wright | Oct 22, 2026 « Back to all posts"
+    },
+    {
+      "hash": "bc26a1683d977f77d9bdbfe6dda055bc8980a8a3",
+      "heading": "Are the Tolerances Actually the Same?",
+      "level": "h2",
+      "text": "Are the Tolerances Actually the Same? A drawing revision that tightened one dimension — even a single hole position — can add a secondary operation the earlier version didn’t need. Under ASME Y14.5-2018, every toleranced feature is an independent cost driver; “mostly the same part” doesn’t mean “the same cost.”"
+    },
+    {
+      "hash": "1310c8f9e2891dc0fdf4d82d1fc8bcc62a4746d2",
+      "heading": "Is the Material Grade Identical, Not Just the Material Family?",
+      "level": "h2",
+      "text": "Is the Material Grade Identical, Not Just the Material Family? 6061-T6 and 6061-T651 aluminum aren’t interchangeable in machinability or price, even though both are “6061.” The same applies across steel and stainless grades — a spec sheet difference that looks minor can change cycle time."
+    },
+    {
+      "hash": "02fd1a0afaa53603336c17280a5638b3a6101036",
+      "heading": "Does One Part Need an Extra Setup?",
+      "level": "h2",
+      "text": "Does One Part Need an Extra Setup? A feature on the back face of one part, absent on the other, can mean a second fixturing pass. That’s not visible at a glance on a 2D drawing — it shows up in the programming."
+    },
+    {
+      "hash": "5bef2d426498d982b898652ad420c3c2a2fbeb78",
+      "heading": "Is the Finish Callout Really Equivalent?",
+      "level": "h2",
+      "text": "Is the Finish Callout Really Equivalent? “Machined finish” and “machined finish, deburred, no visible tool marks” are not the same spec, even if they read similarly. The second one is a manual finishing step."
+    },
+    {
+      "hash": "811bf67c57d710f62efea976e5b16d2c7de08291",
+      "heading": "FAQ",
+      "level": "h2",
+      "text": "FAQ If two RFQs come back with different prices for what I believe is the same part, what should I check first? Compare tolerance callouts feature-by-feature, not just the title block — most variance hides in a single dimension. Does file format (STEP vs. drawing PDF) affect quote consistency? It can — a shop quoting from a 3D model alone may miss a note that only appears on the 2D drawing. Send both when possible. Source: ASME Y14.5-2018. Related: Comparing CNC Quotes: Tolerance and Finishing Line Items · AMT’s What Drives the Cost of Precision CNC Aerospace Parts? REQUEST A QUOTE Share this post in Social Media"
+    }
+  ],
+  "sitemap_lastmod": "",
+  "status": 200,
+  "structure_hash": "afcfb78f21a8a92cc701314968432e6d0f81b1d2",
+  "text_excerpt": "Why Two Nearly Identical CNC Parts Can Have Very Different Quotes by James Wright | Oct 22, 2026 « Back to all posts Two parts can look identical on a drawing and still come back with quotes 40% apart. That’s not shop inconsistency — it’s usually a tolerance, finish, or material callout that isn’t actually identical once you look closely. Quick summary: Quote variance between similar-looking parts almost always traces to differences in tolerance, surface finish, material grade, or setup count — not to arbitrary shop pricing. Here’s where to look first. Are the Tolerances Actually the Same? A drawing revision that tightened one dimension — even a single hole position — can add a secondary operation the earlier version didn’t need. Under ASME Y14.5-2018, every toleranced feature is an independent cost driver; “mostly the same part” doesn’t mean “the same cost.” Is the Material Grade Identical, Not Just the Material Family? 6061-T6 and 6061-T651 aluminum aren’t interchangeable in machinability or price, even though both are “6061.” The same applies across steel and stainless grades — a spec sheet difference that looks minor can change cycle time. Does One Part Need an Extra Setup? A...",
+  "text_hash": "c015c1c114a803d7b669a43de0d2a0895e52e7b0",
+  "title": "CNC Machining Quote Differences Explained - eMachineShop",
+  "url": "https://www.emachineshop.com/cnc-machining-quote-differences"
+}
