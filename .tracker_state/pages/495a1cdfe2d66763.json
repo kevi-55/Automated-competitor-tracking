@@ -1,0 +1,265 @@
+{
+  "canonical": "",
+  "category": "content",
+  "competitor": "PCBWay",
+  "ctas": [
+    {
+      "href": "https://www.pcbway.com/orderonline.aspx",
+      "text": "PCB Instant Quote"
+    },
+    {
+      "href": "javascript:void(0)",
+      "text": "Sign Up"
+    },
+    {
+      "href": "https://www.pcbway.com/project/shareproject?order=1",
+      "text": "By Source Files"
+    },
+    {
+      "href": "https://www.pcbway.com/project/shareproject?order=1",
+      "text": "View all source files projects"
+    },
+    {
+      "href": "https://www.pcbway.com/project/shareproject?order=1",
+      "text": "Source Files"
+    },
+    {
+      "href": "https://www.pcbway.com/orderonline.aspx",
+      "text": "PCB manufacturing"
+    },
+    {
+      "href": "https://www.pcbway.com/orderonline.aspx",
+      "text": "Get Free PCB Quote"
+    },
+    {
+      "href": "https://www.pcbway.com/blog/club-publish.html",
+      "text": "Submit for Publication"
+    },
+    {
+      "href": "https://www.pcbway.com/blog/Activities/Submit_for_Publication___Now_I_Write_Articles_in_PCBWay.html",
+      "text": "Write for PCBWay"
+    },
+    {
+      "href": "https://www.pcbway.com/blog?tag=PCB+industry",
+      "text": "PCB industry"
+    },
+    {
+      "href": "https://www.pcbway.com/blog/PCB_Design_Layout/How_to_Reduce_Crosstalk_in_PCB_Routing_Spacing_3W_Rule_and_More_6393d126.html",
+      "text": "How to Reduce Crosstalk in PCB Routing: Spacing, 3W Rule, and More"
+    },
+    {
+      "href": "https://www.pcbway.com/contact.html",
+      "text": "Contact us"
+    }
+  ],
+  "discovered_via": "links",
+  "fetched_at": "2026-10-27T06:23:35+00:00",
+  "final_url": "https://www.pcbway.com/blog/PCB_Design_Layout/PCB_Copper_Thickness_Guide_for_Current_Impedance_and_Heat_Dissipation_49bd3b17.html",
+  "first_seen_at": "2026-10-27T06:23:35+00:00",
+  "h1": "PCB Copper Thickness Guide for Current, Impedance, and Heat Dissipation",
+  "headings": [
+    {
+      "level": "h1",
+      "text": "PCB Copper Thickness Guide for Current, Impedance, and Heat Dissipation"
+    },
+    {
+      "level": "h2",
+      "text": "Why Are Different PCB Copper Thicknesses Used?"
+    },
+    {
+      "level": "h3",
+      "text": "Current-Carrying Capacity"
+    },
+    {
+      "level": "h3",
+      "text": "Impact on Impedance Control"
+    },
+    {
+      "level": "h3",
+      "text": "Impact on Heat Dissipation"
+    },
+    {
+      "level": "h3",
+      "text": "PCB Manufacturing and Trace Width/Spacing Limitations"
+    },
+    {
+      "level": "h3",
+      "text": "Cost and Weight"
+    },
+    {
+      "level": "h2",
+      "text": "PCB Copper Thickness Chart and Common Applications"
+    },
+    {
+      "level": "h2",
+      "text": "Common PCB Copper Thickness Design Mistakes"
+    },
+    {
+      "level": "h3",
+      "text": "1. Increasing trace width without considering copper thickness and temperature rise"
+    },
+    {
+      "level": "h3",
+      "text": "2. Using thick copper indiscriminately for high-speed PCBs"
+    },
+    {
+      "level": "h3",
+      "text": "3. Using excessively small trace widths and spacing on thick-copper boards"
+    },
+    {
+      "level": "h3",
+      "text": "4. Confusing base copper thickness with finished copper thickness"
+    },
+    {
+      "level": "h2",
+      "text": "Conclusion"
+    },
+    {
+      "level": "h3",
+      "text": "Related articles"
+    }
+  ],
+  "images": [
+    {
+      "alt": "",
+      "src": "/project/img/images/avatar/user-pic.png"
+    },
+    {
+      "alt": "",
+      "src": "/project/img/images/loading-pro.gif"
+    },
+    {
+      "alt": "",
+      "src": "https://pcbwayfile.s3.us-west-2.amazonaws.com/web/23/10/03/1152415436848m.jpeg"
+    },
+    {
+      "alt": "",
+      "src": "https://pcbwayfile.s3.us-west-2.amazonaws.com/web/25/02/01/195239553dd028d967de6453aa74b91ac0e5423e73248m.png"
+    },
+    {
+      "alt": "",
+      "src": "https://pcbwayfile.s3-us-west-2.amazonaws.com/web/21/08/30/1823256917346m.png"
+    },
+    {
+      "alt": "",
+      "src": "https://pcb-files.s3.us-west-2.amazonaws.com/web/26/10/26/152700437a5713a456a6342659d6e35d7ee1dfc4c6825t.jpg"
+    },
+    {
+      "alt": "",
+      "src": "https://pcb-files.s3.us-west-2.amazonaws.com/web/26/10/26/1534156413d049276da9e44cf93528563d79ada317747t.png"
+    },
+    {
+      "alt": "",
+      "src": "https://pcb-files.s3.us-west-2.amazonaws.com/web/26/10/26/112546719a381ed1befcb4b80bd9c4e735805e0252886t.png"
+    },
+    {
+      "alt": "",
+      "src": "/img/images/note-tips.png"
+    }
+  ],
+  "meta_description": "",
+  "modified_at": "",
+  "monitored_text": "PCBWay Community Search title or content Search PCBWay PCB Instant Quote CNC | 3D Printing Login Sign Up More Notifications No notifications. My Profile My projects My Likes My Deals My Goods for Bazaar Settings Sign Out Projects Categories DIY Electronics Arduino Hardware Audio Computers & USB Breakout Board Projects Home Automation LED Displays & Matrices IoT Robotics View all categories By Source Files Onju Voice - AI assistant replacement to Google Nest Mini by @justLV LogicAnalyzer V6.0 DIY 1kW Open Source MPPT Solar Charge Controller Tad Boy Color SummerCart64 - a fully open source N64 flashcart kv4p HT v1.7b QuinLED-Dig-Uno Arduino RC engine sound & light controller with inertia simulation for ESP32 Bike Fingerprint - PCB Solar Powered WiFi Weather Station V2.0 RIP-Felix PS3 Tantalizer Frog Boy Color View all source files projects Featured Projects Onju Voice - AI assistant replacement to Google Nest Mini by @justLV LogicAnalyzer V6.0 DIY 1kW Open Source MPPT Solar Charge Controller Featured Source Files Video View all projects Questions Sponsorships PCBWay Future Innovators Program Feedback Blog Store PCB Design Contest - 9th Project Design Contest - 2026 KiCad PCB Design Contest - 8th Project Design Contest - 7th Project Design Contest - KiCad Design Contest - 6th Project Design Contest - 5th PCB Design Contest - 4th PCB Design Contest - Raspberry Pi Pico Contest - PCB Design Tutorial - 3rd PCB Design Contest - I CAN SOLDER Kit Contest - 2nd PCB Design Contest - 1st PCB Design Contest Add questions Create a project Please verify your email address so that you can enjoy our more comprehensive services. Verify Now Blog > PCB Copper Thickness Guide for Current, Impedance, and Heat Dissipation PCB Copper Thickness Guide for Current, Impedance, and Heat Dissipation by: Mila Oct 26,2026 <dynamic-value> <dynamic-value> Posted in PCB Design & Layout PCB copper thickness PCB copper weight PCB copper thickness selection PCB copper thickness for current PCB copper thickness affects current-carrying capacity, trace impedance, heat dissipation, and manufacturing complexity. Thicker copper is not always better, and thinner copper is not always the right choice for high-density designs. Choosing the right PCB copper thickness requires balancing current requirements, signal frequency, routing density, and PCB manufacturing capabilities. （PCB current path） Why Are Different PCB Copper Thicknesses Used? PCB copper thickness is commonly specified by copper weight in ounces (oz), which represents the weight of copper per unit area. For standard PCB copper foil, 1 oz is approximately 35 μm thick, 2 oz is approximately 70 μm, 3 oz is approximately 105 μm, and 0.5 oz is approximately 17.5 μm. These are approximate conversions, and the actual copper thickness depends on the manufacturing process and specified requirements. Current-Carrying Capacity Thicker copper generally provides a larger conductor cross-sectional area and lower resistance, helping reduce voltage drop and resistive heating. Under otherwise similar conditions, increasing copper thickness can improve a trace's current-carrying capacity. 0.5 oz (approximately 17.5 μm): Suitable for some high-density PCBs, fine signal traces, and low-current circuits. 1 oz (approximately 35 μm): A common general-purpose copper weight for many digital circuits and power designs. 2 oz (approximately 70 μm): Suitable for industrial control boards, power supply boards, and power circuits with higher current requirements. 3 oz and above (approximately 105 μm and above): Used in power electronics, renewable energy equipment, and other high-current applications. However, current-carrying capacity depends on more than copper thickness. Trace width, allowable temperature rise, whether the trace is on an inner or outer layer, ambient temperature, and heat dissipation conditions also matter. Copper thickness alone cannot determine how much current a PCB trace can safely carry. For high-current designs, increasing copper thickness is an alternative to widening traces, but both options should be evaluated against the actual current and temperature-rise requirements. Impact on Impedance Control In high-speed digital and RF PCB designs , copper thickness is one of the factors that affect trace impedance. With the dielectric thickness, dielectric constant, reference plane, and target impedance held constant, changes in copper thickness can affect trace impedance and the required trace width. For microstrip traces, increasing copper thickness changes the field distribution and must be accounted for when calculating the required width. Existing impedance parameters should not be reused without verification. Thinner copper, such as 0.5 oz: Generally more suitable for fine traces and high-density routing, including certain HDI and BGA fan-out designs. Thicker copper, such as 2 oz or 3 oz: May require wider traces to achieve the same target impedance, consuming more routing space. High-frequency signal loss is also affected by copper surface roughness, dielectric loss, and trace geometry. Surface roughness is not determined by copper thickness alone. High-speed and RF designs should therefore consider copper thickness, copper foil type, stackup, and impedance requirements together rather than simply increasing or decreasing copper thickness. Impact on Heat Dissipation Copper has good thermal conductivity. Increasing copper thickness can improve in-plane heat conduction within copper layers and reduce resistive losses in traces and copper planes. In power supply boards and power circuits, using 2 oz or 3 oz copper can help improve current handling and heat spreading. However, actual thermal performance also depends on copper area, thermal vias, PCB layer structure, component packages, and the overall thermal path. Thicker copper can be part of a thermal management strategy, but it does not replace proper copper plane design, thermal vias, and an effective heat dissipation structure. PCB Manufacturing and Trace Width/Spacing Limitations Copper thickness also affects PCB manufacturing complexity. Thinner copper, such as 0.5 oz: Generally more suitable for fine traces and smaller trace widths and spacing, supporting high-density BGA fan-out and HDI designs. Thicker copper, such as 2 oz or 3 oz: Requires greater attention to etch undercut and trace cross-sectional control, making fine-line fabrication more challenging. For example, a PCB with 3 oz copper generally cannot use the same fine-line design rules as a standard thin-copper board without checking manufacturing feasibility. Whether 3–4 mil (approximately 0.076–0.102 mm) traces are achievable depends on the copper thickness, finished copper requirements, and the PCB manufacturer's process capabilities. During PCB design, confirm the manufacturer's minimum trace width and spacing requirements to avoid design-for-manufacturing (DFM) issues or additional fabrication costs. Cost and Weight Thicker copper generally requires more copper material and may increase the complexity of etching and trace formation. As a result, manufacturing costs and PCB weight may increase. For consumer electronics and conventional digital circuits, 1 oz copper is often sufficient when it meets current, impedance, and temperature-rise requirements. Choosing thicker copper without a clear engineering need can increase cost without providing a meaningful benefit. PCB Copper Thickness Chart and Common Applications The following PCB copper thickness chart summarizes common copper weights, approximate thicknesses, and typical applications. These applications are examples rather than fixed selection rules. The appropriate PCB copper thickness depends on current requirements, allowable temperature rise, impedance targets, manufacturing capabilities, and cost. Inner and outer layers can also use different copper thicknesses. For example, a design may use 2 oz copper on the outer layers and 1 oz on the inner layers. The suitability of this configuration depends on the stackup, impedance requirements, and the manufacturer's capabilities. Common PCB Copper Thickness Design Mistakes 1. Increasing trace width without considering copper thickness and temperature rise Both trace width and copper thickness affect conductor cross-sectional area and resistance. For high-current circuits, evaluate trace width, copper thickness, and allowable temperature rise together rather than adjusting only one parameter. 2. Using thick copper indiscriminately for high-speed PCBs Changes in copper thickness can affect trace impedance and available routing space. High-speed digital and RF designs should account for stackup, target impedance, and copper foil characteristics, with impedance calculations or simulations used for verification where appropriate. 3. Using excessively small trace widths and spacing on thick-copper boards Thick copper makes etching and trace formation more challenging. Check the manufacturer's minimum trace width and spacing for the specified copper thickness, and consult the fabricator when necessary. 4. Confusing base copper thickness with finished copper thickness Base copper thickness and finished copper thickness are not necessarily the same. In common PCB manufacturing processes, outer layers may undergo pattern plating, which adds copper. Therefore, 1 oz base copper does not mean that every area of the finished PCB will be exactly 35 μm thick. When specifying copper thickness, confirm whether the requirement refers to base copper or finished copper, and define the required thickness for inner and outer layers according to the manufacturing process. Conclusion Choosing the right PCB copper thickness requires balancing current-carrying capacity, impedance control, heat dissipation, routing density, and manufacturing cost. A 0.5 oz copper weight may be suitable for certain fine-line designs, 1 oz is a common general-purpose option, and 2 oz or 3 oz and above can be considered for power circuits with higher current and thermal requirements. For high-current designs, evaluate trace width, copper thickness, and temperature rise together. For high-speed and RF designs, consider impedance, stackup, and copper foil characteristics. The final selection should also account for the PCBWay manufacturer's process capabilities to ensure that the design meets both performance and manufacturability requirements. Enter the year of your birth and check your Chinese Zodiac. Get Free PCB Quote Join us Wanna be a dedicated PCBWay writer? We definately look forward to having you with us. Submit for Publication Become Our Writer Leave a Comment ( 0 ) Share to: Previous：PCB Routing Guidelines for Ground, Power, and Signal Traces Next：No next one Related articles PCB Copper Thickness Guide for Current, Impedance, and Heat Dissipation Comments ( 0 ) Log in to post comments. Upload photo You can only upload 5 files in total. Each file cannot exceed 2MB. Supports JPG, JPEG, GIF, PNG, BMP 0 / 10000 It looks like you have not written anything. Please add a comment and try again. You can upload up to 5 images! Image size should not exceed 2MB! File format not supported! Post Comment Write for PCBWay Categories Select a Category Engineering Technical News PCB Layout Software Activities Help Center PCB Basic Information PCB Manufacturing Information PCB Design & Layout Flexible PCB Rigid-Flex PCB HDI PCB PCB Assembly Technology 3D Printing CNC Machining Sheet Metal Bending Countersink & Counterbore Hardware insertion Tapping Welding Sheet Cutting Injection Molding PCB Design Tutorial PCBWay Store Table of Contents Why Are Different PCB Copper Thicknesses Used? PCB Copper Thickness Chart and Common Applications Common PCB Copper Thickness Design Mistakes Conclusion HOT TAG PCB Printed Circuit Board PCB design PCB Board PCB layout Circuit Board Printed Circuit Boards PCB Design Tutorial PCB industry pcb manufacturing KiCad pcbway IF YOU MISSED IT 1 PCB Layout Design Process from Schematic to Manufacturing 2 PCB Copper Thickness Guide for Current, Impedance, and Heat Dissipation 3 PCB Routing Guidelines for Ground, Power, and Signal Traces 4 How to Design a Ground Guard Trace in PCB Design 5 Power Supply Pinout Explained: VIN, VOUT, SW, PH, and BAT 6 Reflow Soldering vs. Wave Soldering: Key Differences and PCB Design Tips 7 Flex PCB Design Guidelines for Reliable Bending 8 How to Reduce Crosstalk in PCB Routing: Spacing, 3W Rule, and More 9 Are More PCB Decoupling Capacitors Always Better? The PCB Way that recognize the talent and effort of the best ELECTRONIC designers in the World. © COPYRIGHT 2019 About us Contact us Follow us on Share to Facebook Share to Twitter Share to Reddit Share to Linkedin Back to top",
+  "published_at": "2026-10-26T00:00:00+00:00",
+  "requested_url": "https://www.pcbway.com/blog/PCB_Design_Layout/PCB_Copper_Thickness_Guide_for_Current_Impedance_and_Heat_Dissipation_49bd3b17.html",
+  "schema_version": 2,
+  "sections": [
+    {
+      "hash": "e296bc44e19db13fa877d3e8dac676cd4eb09144",
+      "heading": "PCB Copper Thickness Guide for Current, Impedance, and Heat Dissipation",
+      "level": "h1",
+      "text": "PCB Copper Thickness Guide for Current, Impedance, and Heat Dissipation by: Mila Oct 26,2026 <dynamic-value> <dynamic-value> Posted in PCB Design & Layout PCB copper thickness PCB copper weight PCB copper thickness selection PCB copper thickness for current PCB copper thickness affects current-carrying capacity, trace impedance, heat dissipation, and manufacturing complexity. Thicker copper is not always better, and thinner copper is not always the right choice for high-density designs. Choosing the right PCB copper thickness requires balancing current requirements, signal frequency, routing density, and PCB manufacturing capabilities. （PCB current path） Why Are Different PCB Copper Thicknesses Used? PCB copper thickness is commonly specified by copper weight in ounces (oz), which represents the weight of copper per unit area. For standard PCB copper foil, 1 oz is approximately 35 μm thick, 2 oz is approximately 70 μm, 3 oz is approximately 105 μm, and 0.5 oz is approximately 17.5 μm. These are approximate conversions, and the actual copper thickness depends on the manufacturing process and specified requirements. Current-Carrying Capacity Thicker copper generally provides a large..."
+    },
+    {
+      "hash": "8ebe3a6271afd63ea42ddd4959cae44500b5685c",
+      "heading": "Why Are Different PCB Copper Thicknesses Used?",
+      "level": "h2",
+      "text": "Why Are Different PCB Copper Thicknesses Used? PCB copper thickness is commonly specified by copper weight in ounces (oz), which represents the weight of copper per unit area. For standard PCB copper foil, 1 oz is approximately 35 μm thick, 2 oz is approximately 70 μm, 3 oz is approximately 105 μm, and 0.5 oz is approximately 17.5 μm. These are approximate conversions, and the actual copper thickness depends on the manufacturing process and specified requirements."
+    },
+    {
+      "hash": "d78ddccd7d0e968b42b35ff49f755927ce266816",
+      "heading": "Current-Carrying Capacity",
+      "level": "h3",
+      "text": "Current-Carrying Capacity Thicker copper generally provides a larger conductor cross-sectional area and lower resistance, helping reduce voltage drop and resistive heating. Under otherwise similar conditions, increasing copper thickness can improve a trace's current-carrying capacity. 0.5 oz (approximately 17.5 μm): Suitable for some high-density PCBs, fine signal traces, and low-current circuits. 1 oz (approximately 35 μm): A common general-purpose copper weight for many digital circuits and power designs. 2 oz (approximately 70 μm): Suitable for industrial control boards, power supply boards, and power circuits with higher current requirements. 3 oz and above (approximately 105 μm and above): Used in power electronics, renewable energy equipment, and other high-current applications. However, current-carrying capacity depends on more than copper thickness. Trace width, allowable temperature rise, whether the trace is on an inner or outer layer, ambient temperature, and heat dissipation conditions also matter. Copper thickness alone cannot determine how much current a PCB trace can safely carry. For high-current designs, increasing copper thickness is an alternative to widening tr..."
+    },
+    {
+      "hash": "619f6c56b828ab72591350a3d47c37c50789e6d4",
+      "heading": "Impact on Impedance Control",
+      "level": "h3",
+      "text": "Impact on Impedance Control In high-speed digital and RF PCB designs , copper thickness is one of the factors that affect trace impedance. With the dielectric thickness, dielectric constant, reference plane, and target impedance held constant, changes in copper thickness can affect trace impedance and the required trace width. For microstrip traces, increasing copper thickness changes the field distribution and must be accounted for when calculating the required width. Existing impedance parameters should not be reused without verification. Thinner copper, such as 0.5 oz: Generally more suitable for fine traces and high-density routing, including certain HDI and BGA fan-out designs. Thicker copper, such as 2 oz or 3 oz: May require wider traces to achieve the same target impedance, consuming more routing space. High-frequency signal loss is also affected by copper surface roughness, dielectric loss, and trace geometry. Surface roughness is not determined by copper thickness alone. High-speed and RF designs should therefore consider copper thickness, copper foil type, stackup, and impedance requirements together rather than simply increasing or decreasing copper thickness."
+    },
+    {
+      "hash": "b734d6a1d0ae698746eeaa9b624781fe6b713b52",
+      "heading": "Impact on Heat Dissipation",
+      "level": "h3",
+      "text": "Impact on Heat Dissipation Copper has good thermal conductivity. Increasing copper thickness can improve in-plane heat conduction within copper layers and reduce resistive losses in traces and copper planes. In power supply boards and power circuits, using 2 oz or 3 oz copper can help improve current handling and heat spreading. However, actual thermal performance also depends on copper area, thermal vias, PCB layer structure, component packages, and the overall thermal path. Thicker copper can be part of a thermal management strategy, but it does not replace proper copper plane design, thermal vias, and an effective heat dissipation structure."
+    },
+    {
+      "hash": "de6d6272894ca6ed8e0b5e33a7ba7e04e816757e",
+      "heading": "PCB Manufacturing and Trace Width/Spacing Limitations",
+      "level": "h3",
+      "text": "PCB Manufacturing and Trace Width/Spacing Limitations Copper thickness also affects PCB manufacturing complexity. Thinner copper, such as 0.5 oz: Generally more suitable for fine traces and smaller trace widths and spacing, supporting high-density BGA fan-out and HDI designs. Thicker copper, such as 2 oz or 3 oz: Requires greater attention to etch undercut and trace cross-sectional control, making fine-line fabrication more challenging. For example, a PCB with 3 oz copper generally cannot use the same fine-line design rules as a standard thin-copper board without checking manufacturing feasibility. Whether 3–4 mil (approximately 0.076–0.102 mm) traces are achievable depends on the copper thickness, finished copper requirements, and the PCB manufacturer's process capabilities. During PCB design, confirm the manufacturer's minimum trace width and spacing requirements to avoid design-for-manufacturing (DFM) issues or additional fabrication costs."
+    },
+    {
+      "hash": "f73ec78b41cea415319ad3bc3707a46cc5d5819f",
+      "heading": "Cost and Weight",
+      "level": "h3",
+      "text": "Cost and Weight Thicker copper generally requires more copper material and may increase the complexity of etching and trace formation. As a result, manufacturing costs and PCB weight may increase. For consumer electronics and conventional digital circuits, 1 oz copper is often sufficient when it meets current, impedance, and temperature-rise requirements. Choosing thicker copper without a clear engineering need can increase cost without providing a meaningful benefit."
+    },
+    {
+      "hash": "73366f4dfc01c3d4d5ea81c17ad0e4770c61a955",
+      "heading": "PCB Copper Thickness Chart and Common Applications",
+      "level": "h2",
+      "text": "PCB Copper Thickness Chart and Common Applications The following PCB copper thickness chart summarizes common copper weights, approximate thicknesses, and typical applications. These applications are examples rather than fixed selection rules. The appropriate PCB copper thickness depends on current requirements, allowable temperature rise, impedance targets, manufacturing capabilities, and cost. Inner and outer layers can also use different copper thicknesses. For example, a design may use 2 oz copper on the outer layers and 1 oz on the inner layers. The suitability of this configuration depends on the stackup, impedance requirements, and the manufacturer's capabilities."
+    },
+    {
+      "hash": "9bfd045955210f8bde521ecba503ac4c67081a34",
+      "heading": "Common PCB Copper Thickness Design Mistakes",
+      "level": "h2",
+      "text": "Common PCB Copper Thickness Design Mistakes"
+    },
+    {
+      "hash": "5766fb509224513ba50a8e6209795d66c12c8721",
+      "heading": "1. Increasing trace width without considering copper thickness and temperature rise",
+      "level": "h3",
+      "text": "1. Increasing trace width without considering copper thickness and temperature rise Both trace width and copper thickness affect conductor cross-sectional area and resistance. For high-current circuits, evaluate trace width, copper thickness, and allowable temperature rise together rather than adjusting only one parameter."
+    },
+    {
+      "hash": "17203193df0621afb4510c09063c6e83c209d0ff",
+      "heading": "2. Using thick copper indiscriminately for high-speed PCBs",
+      "level": "h3",
+      "text": "2. Using thick copper indiscriminately for high-speed PCBs Changes in copper thickness can affect trace impedance and available routing space. High-speed digital and RF designs should account for stackup, target impedance, and copper foil characteristics, with impedance calculations or simulations used for verification where appropriate."
+    },
+    {
+      "hash": "143adbaf08a696acd327015a03a2b90f9f1bd21d",
+      "heading": "3. Using excessively small trace widths and spacing on thick-copper boards",
+      "level": "h3",
+      "text": "3. Using excessively small trace widths and spacing on thick-copper boards Thick copper makes etching and trace formation more challenging. Check the manufacturer's minimum trace width and spacing for the specified copper thickness, and consult the fabricator when necessary."
+    },
+    {
+      "hash": "d6e229a888775be1758d731a9169152fddf65930",
+      "heading": "4. Confusing base copper thickness with finished copper thickness",
+      "level": "h3",
+      "text": "4. Confusing base copper thickness with finished copper thickness Base copper thickness and finished copper thickness are not necessarily the same. In common PCB manufacturing processes, outer layers may undergo pattern plating, which adds copper. Therefore, 1 oz base copper does not mean that every area of the finished PCB will be exactly 35 μm thick. When specifying copper thickness, confirm whether the requirement refers to base copper or finished copper, and define the required thickness for inner and outer layers according to the manufacturing process."
+    },
+    {
+      "hash": "418eeb272b30df97a99eddf639627aa283243e2a",
+      "heading": "Conclusion",
+      "level": "h2",
+      "text": "Conclusion Choosing the right PCB copper thickness requires balancing current-carrying capacity, impedance control, heat dissipation, routing density, and manufacturing cost. A 0.5 oz copper weight may be suitable for certain fine-line designs, 1 oz is a common general-purpose option, and 2 oz or 3 oz and above can be considered for power circuits with higher current and thermal requirements. For high-current designs, evaluate trace width, copper thickness, and temperature rise together. For high-speed and RF designs, consider impedance, stackup, and copper foil characteristics. The final selection should also account for the PCBWay manufacturer's process capabilities to ensure that the design meets both performance and manufacturability requirements."
+    },
+    {
+      "hash": "e8131200cd0f667a0c73c5b81439ce616c64421c",
+      "heading": "Related articles",
+      "level": "h3",
+      "text": "Related articles PCB Copper Thickness Guide for Current, Impedance, and Heat Dissipation"
+    }
+  ],
+  "sitemap_lastmod": "",
+  "status": 200,
+  "structure_hash": "978ed76f394ed8c72cd7db218a8567a34ff6eb4b",
+  "text_excerpt": "PCBWay Community Search title or content Search PCBWay PCB Instant Quote CNC | 3D Printing Login Sign Up More Notifications No notifications. My Profile My projects My Likes My Deals My Goods for Bazaar Settings Sign Out Projects Categories DIY Electronics Arduino Hardware Audio Computers & USB Breakout Board Projects Home Automation LED Displays & Matrices IoT Robotics View all categories By Source Files Onju Voice - AI assistant replacement to Google Nest Mini by @justLV LogicAnalyzer V6.0 DIY 1kW Open Source MPPT Solar Charge Controller Tad Boy Color SummerCart64 - a fully open source N64 flashcart kv4p HT v1.7b QuinLED-Dig-Uno Arduino RC engine sound & light controller with inertia simulation for ESP32 Bike Fingerprint - PCB Solar Powered WiFi Weather Station V2.0 RIP-Felix PS3 Tantalizer Frog Boy Color View all source files projects Featured Projects Onju Voice - AI assistant replacement to Google Nest Mini by @justLV LogicAnalyzer V6.0 DIY 1kW Open Source MPPT Solar Charge Controller Featured Source Files Video View all projects Questions Sponsorships PCBWay Future Innovators Program Feedback Blog Store PCB Design Contest - 9th Project Design Contest - 2026 KiCad PCB Design...",
+  "text_hash": "66254c6a01be429b70031e5ae402a0614cebb2a1",
+  "title": "PCB Copper Thickness Guide for Current, Impedance, and Heat Dissipation - PCB Design & Layout - PCBway",
+  "url": "https://www.pcbway.com/blog/PCB_Design_Layout/PCB_Copper_Thickness_Guide_for_Current_Impedance_and_Heat_Dissipation_49bd3b17.html"
+}
