@@ -13,7 +13,7 @@
     }
   ],
   "discovered_via": "feed",
-  "fetched_at": "2026-10-21T06:10:11+00:00",
+  "fetched_at": "2026-10-28T07:01:14+00:00",
   "final_url": "https://www.emachineshop.com/cnc-machining-tolerances-001-vs-005",
   "first_seen_at": "2026-10-21T06:10:11+00:00",
   "h1": "Do I Really Need ±0.001” Tolerance?",
@@ -47,42 +47,10 @@
     {
       "alt": "CNC-machined aluminum part and precision micrometer on a workbench in front of a CNC milling machine",
       "src": "https://www.emachineshop.com/wp-content/uploads/cnc-machining-tolerances-micrometer-inspection.webp"
-    },
-    {
-      "alt": "facebook sharing button",
-      "src": "https://platform-cdn.sharethis.com/img/facebook.svg"
-    },
-    {
-      "alt": "twitter sharing button",
-      "src": "https://platform-cdn.sharethis.com/img/twitter.svg"
-    },
-    {
-      "alt": "email sharing button",
-      "src": "https://platform-cdn.sharethis.com/img/email.svg"
-    },
-    {
-      "alt": "whatsapp sharing button",
-      "src": "https://platform-cdn.sharethis.com/img/whatsapp.svg"
-    },
-    {
-      "alt": "linkedin sharing button",
-      "src": "https://platform-cdn.sharethis.com/img/linkedin.svg"
-    },
-    {
-      "alt": "messenger sharing button",
-      "src": "https://platform-cdn.sharethis.com/img/messenger.svg"
-    },
-    {
-      "alt": "blogger sharing button",
-      "src": "https://platform-cdn.sharethis.com/img/blogger.svg"
-    },
-    {
-      "alt": "pinterest sharing button",
-      "src": "https://platform-cdn.sharethis.com/img/pinterest.svg"
     }
   ],
   "meta_description": "Do you really need ±0.001” CNC tolerances? Learn when ±0.005” is enough, when tighter precision matters, and how tolerances affect machining costs.",
-  "modified_at": "2026-10-20T19:15:53+00:00",
+  "modified_at": "2026-10-22T13:18:06+00:00",
   "monitored_text": "Do I Really Need ±0.001” Tolerance? by eMachineShop | Oct 20, 2026 « Back to all posts Most parts don’t need ±0.001”. Most engineers spec it anyway, because it feels safer than asking whether the assembly actually requires it. Quick summary: ASME Y14.5-2018 defines tolerance as a functional control, not a quality signal. Standard CNC work comfortably holds ±0.005” without special processing; going tighter should be a deliberate decision tied to fit or function, not a default. What Does Standard CNC Tolerance Actually Achieve? Most 3-axis CNC work holds ±0.005” reliably at normal speed and cost. That’s tight enough for the overwhelming majority of mechanical assemblies — brackets, housings, mounting features. When Does ±0.001” Genuinely Matter? Press fits, sealing surfaces, and features that stack tolerance across an assembly with no room for variance. In those cases, the tight tolerance is functional and should stay exactly as specified. What’s the Cost Difference in Practice? Tighter tolerance usually means slower feed rates, more frequent in-process inspection, and sometimes a secondary finishing pass — real cost, not a rounding error on the quote. How Do You Decide? Trace the dimension back to what it controls. If nothing downstream depends on that level of precision, ±0.005” (or looser) is very likely sufficient. FAQ Is ±0.001” ever the “safe” choice with no downside? No — it always costs more in machine time and inspection, even when it’s achievable. What’s the standard CNC tolerance if I don’t specify one? Shop defaults vary; ask your machinist, or see our tolerance and finishing line items guide . Source: ASME Y14.5-2018. Related: GD&T Reference Guide · AMT’s Why Does Every Aerospace Print Say ±0.001”? REQUEST A QUOTE Share this post in Social Media",
   "published_at": "2026-10-20T19:03:13+00:00",
   "requested_url": "https://www.emachineshop.com/cnc-machining-tolerances-001-vs-005",
@@ -125,9 +93,9 @@
       "text": "FAQ Is ±0.001” ever the “safe” choice with no downside? No — it always costs more in machine time and inspection, even when it’s achievable. What’s the standard CNC tolerance if I don’t specify one? Shop defaults vary; ask your machinist, or see our tolerance and finishing line items guide . Source: ASME Y14.5-2018. Related: GD&T Reference Guide · AMT’s Why Does Every Aerospace Print Say ±0.001”? REQUEST A QUOTE Share this post in Social Media"
     }
   ],
-  "sitemap_lastmod": "",
+  "sitemap_lastmod": "2026-10-22T13:18:06+00:00",
   "status": 200,
-  "structure_hash": "5bd7000c684a8326472714c83cf133ef99494b56",
+  "structure_hash": "45b36d6a50671d5ce221fb6f259b5380c113fc8f",
   "text_excerpt": "Do I Really Need ±0.001” Tolerance? by eMachineShop | Oct 20, 2026 « Back to all posts Most parts don’t need ±0.001”. Most engineers spec it anyway, because it feels safer than asking whether the assembly actually requires it. Quick summary: ASME Y14.5-2018 defines tolerance as a functional control, not a quality signal. Standard CNC work comfortably holds ±0.005” without special processing; going tighter should be a deliberate decision tied to fit or function, not a default. What Does Standard CNC Tolerance Actually Achieve? Most 3-axis CNC work holds ±0.005” reliably at normal speed and cost. That’s tight enough for the overwhelming majority of mechanical assemblies — brackets, housings, mounting features. When Does ±0.001” Genuinely Matter? Press fits, sealing surfaces, and features that stack tolerance across an assembly with no room for variance. In those cases, the tight tolerance is functional and should stay exactly as specified. What’s the Cost Difference in Practice? Tighter tolerance usually means slower feed rates, more frequent in-process inspection, and sometimes a secondary finishing pass — real cost, not a rounding error on the quote. How Do You Decide? Trace the d...",
   "text_hash": "65bf0487b3983550a8b9ca9ceb1eae02731f78ac",
   "title": "CNC Machining Tolerances: Do You Need ±0.001”? - eMachineShop",
