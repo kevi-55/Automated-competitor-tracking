@@ -1,0 +1,297 @@
+{
+  "canonical": "",
+  "category": "content",
+  "competitor": "PCBWay",
+  "ctas": [
+    {
+      "href": "https://www.pcbway.com/orderonline.aspx",
+      "text": "PCB Instant Quote"
+    },
+    {
+      "href": "javascript:void(0)",
+      "text": "Sign Up"
+    },
+    {
+      "href": "https://www.pcbway.com/project/shareproject?order=1",
+      "text": "By Source Files"
+    },
+    {
+      "href": "https://www.pcbway.com/project/shareproject?order=1",
+      "text": "View all source files projects"
+    },
+    {
+      "href": "https://www.pcbway.com/project/shareproject?order=1",
+      "text": "Source Files"
+    },
+    {
+      "href": "https://www.pcbway.com/pcbdesign/quotelayout",
+      "text": "PCB layout"
+    },
+    {
+      "href": "https://www.pcbway.com/pcbdesign/quotelayout",
+      "text": "Get Free Layout Quote"
+    },
+    {
+      "href": "https://www.pcbway.com/blog/club-publish.html",
+      "text": "Submit for Publication"
+    },
+    {
+      "href": "https://www.pcbway.com/blog/Activities/Submit_for_Publication___Now_I_Write_Articles_in_PCBWay.html",
+      "text": "Write for PCBWay"
+    },
+    {
+      "href": "https://www.pcbway.com/blog?tag=PCB+industry",
+      "text": "PCB industry"
+    },
+    {
+      "href": "https://www.pcbway.com/contact.html",
+      "text": "Contact us"
+    }
+  ],
+  "discovered_via": "links",
+  "fetched_at": "2026-10-30T07:13:49+00:00",
+  "final_url": "https://www.pcbway.com/blog/PCB_Design_Layout/12_PCB_Layout_Guidelines_for_Better_Component_Placement_2801c08b.html",
+  "first_seen_at": "2026-10-30T07:13:49+00:00",
+  "h1": "12 PCB Layout Guidelines for Better Component Placement",
+  "headings": [
+    {
+      "level": "h1",
+      "text": "12 PCB Layout Guidelines for Better Component Placement"
+    },
+    {
+      "level": "h2",
+      "text": "1. SMT Component Spacing"
+    },
+    {
+      "level": "h2",
+      "text": "2. Spacing Between Through-Hole and SMT Components"
+    },
+    {
+      "level": "h2",
+      "text": "3. IC Decoupling Capacitor Placement"
+    },
+    {
+      "level": "h2",
+      "text": "4. Component Orientation and Clearance Near PCB Edges"
+    },
+    {
+      "level": "h2",
+      "text": "5. Connecting Adjacent PCB Pads"
+    },
+    {
+      "level": "h2",
+      "text": "6. Thermal Relief vs. Solid Copper Connections"
+    },
+    {
+      "level": "h2",
+      "text": "7. Using Teardrops in PCB Layout"
+    },
+    {
+      "level": "h2",
+      "text": "8. Trace Width at Component Pads"
+    },
+    {
+      "level": "h2",
+      "text": "9. Handling Unused IC Pins"
+    },
+    {
+      "level": "h2",
+      "text": "10. Via-in-Pad Design Considerations"
+    },
+    {
+      "level": "h2",
+      "text": "11. PCB Edge Clearance for Traces, Pads, and Components"
+    },
+    {
+      "level": "h2",
+      "text": "12. Keep Electrolytic Capacitors Away from Heat Sources"
+    },
+    {
+      "level": "h2",
+      "text": "Conclusion"
+    },
+    {
+      "level": "h3",
+      "text": "Related articles"
+    }
+  ],
+  "images": [
+    {
+      "alt": "",
+      "src": "/project/img/images/avatar/user-pic.png"
+    },
+    {
+      "alt": "",
+      "src": "/project/img/images/loading-pro.gif"
+    },
+    {
+      "alt": "",
+      "src": "https://pcbwayfile.s3.us-west-2.amazonaws.com/web/23/10/03/1152415436848m.jpeg"
+    },
+    {
+      "alt": "",
+      "src": "https://pcbwayfile.s3.us-west-2.amazonaws.com/web/25/02/01/195239553dd028d967de6453aa74b91ac0e5423e73248m.png"
+    },
+    {
+      "alt": "",
+      "src": "https://pcbwayfile.s3-us-west-2.amazonaws.com/web/21/08/30/1823256917346m.png"
+    },
+    {
+      "alt": "",
+      "src": "https://pcb-files.s3.us-west-2.amazonaws.com/web/26/10/30/09294147909aa4ec32d6140b8b893f2e82b91c0548074t.jpg"
+    },
+    {
+      "alt": "",
+      "src": "https://pcb-files.s3.us-west-2.amazonaws.com/web/26/10/30/093115794e1a6b2ffb8134e3cbb7027d1933ddcfc1575t.jpg"
+    },
+    {
+      "alt": "",
+      "src": "https://pcb-files.s3.us-west-2.amazonaws.com/web/26/10/30/093356648ed78c01cf1e1458aa5096a442b6669eb3081t.jpg"
+    },
+    {
+      "alt": "",
+      "src": "https://pcb-files.s3.us-west-2.amazonaws.com/web/26/10/30/093535797f138815df5dc41298f767416024f06b33856t.jpg"
+    },
+    {
+      "alt": "",
+      "src": "https://pcb-files.s3.us-west-2.amazonaws.com/web/26/10/30/094225390d3ae6ebcb7bd43b9abcee707e26971cf4147t.jpg"
+    },
+    {
+      "alt": "",
+      "src": "https://pcb-files.s3.us-west-2.amazonaws.com/web/26/10/30/094653614b878a487bfc14bae842572872f074c286065t.jpg"
+    },
+    {
+      "alt": "",
+      "src": "https://pcb-files.s3.us-west-2.amazonaws.com/web/26/10/30/0952462880dd697b0667d46f29b7cc426bf9092a94867t.jpg"
+    },
+    {
+      "alt": "",
+      "src": "https://pcb-files.s3.us-west-2.amazonaws.com/web/26/10/30/0954090861f479f7b586e4b9fa08c2640d30b8a144407t.jpg"
+    },
+    {
+      "alt": "",
+      "src": "https://pcb-files.s3.us-west-2.amazonaws.com/web/26/10/30/0955566291e6130f5e7ff42efa7574971c483f39d0012t.jpg"
+    },
+    {
+      "alt": "",
+      "src": "https://pcb-files.s3.us-west-2.amazonaws.com/web/26/10/30/0957355695aa4072bb8284f2f9be11e60f75087b47273t.jpg"
+    },
+    {
+      "alt": "",
+      "src": "https://pcb-files.s3.us-west-2.amazonaws.com/web/26/10/30/09592612330563336e9ee44d6b4068937908109637731t.jpg"
+    },
+    {
+      "alt": "",
+      "src": "https://pcb-files.s3.us-west-2.amazonaws.com/web/26/10/30/10000362437c330a80a404bc9861355581daff5642472t.jpg"
+    },
+    {
+      "alt": "",
+      "src": "/img/images/note-tips.png"
+    }
+  ],
+  "meta_description": "",
+  "modified_at": "",
+  "monitored_text": "PCBWay Community Search title or content Search PCBWay PCB Instant Quote CNC | 3D Printing Login Sign Up More Notifications No notifications. My Profile My projects My Likes My Deals My Goods for Bazaar Settings Sign Out Projects Categories DIY Electronics Arduino Hardware Audio Computers & USB Breakout Board Projects Home Automation LED Displays & Matrices IoT Robotics View all categories By Source Files Onju Voice - AI assistant replacement to Google Nest Mini by @justLV LogicAnalyzer V6.0 DIY 1kW Open Source MPPT Solar Charge Controller Tad Boy Color SummerCart64 - a fully open source N64 flashcart kv4p HT v1.7b QuinLED-Dig-Uno Arduino RC engine sound & light controller with inertia simulation for ESP32 Bike Fingerprint - PCB Solar Powered WiFi Weather Station V2.0 RIP-Felix PS3 Tantalizer Frog Boy Color View all source files projects Featured Projects Onju Voice - AI assistant replacement to Google Nest Mini by @justLV LogicAnalyzer V6.0 DIY 1kW Open Source MPPT Solar Charge Controller Featured Source Files Video View all projects Questions Sponsorships PCBWay Future Innovators Program Feedback Blog Store PCB Design Contest - 9th Project Design Contest - 2026 KiCad PCB Design Contest - 8th Project Design Contest - 7th Project Design Contest - KiCad Design Contest - 6th Project Design Contest - 5th PCB Design Contest - 4th PCB Design Contest - Raspberry Pi Pico Contest - PCB Design Tutorial - 3rd PCB Design Contest - I CAN SOLDER Kit Contest - 2nd PCB Design Contest - 1st PCB Design Contest Add questions Create a project Please verify your email address so that you can enjoy our more comprehensive services. Verify Now Blog > 12 PCB Layout Guidelines for Better Component Placement 12 PCB Layout Guidelines for Better Component Placement by: Mila Oct 29,2026 <dynamic-value> <dynamic-value> Posted in PCB Design & Layout PCB Layout PCB Component Placement PCB Layout Guidelines PCB Design Guidelines PCB layout involves more than simply placing components and routing traces. Component spacing, decoupling capacitor placement, pad connections, thermal management, and manufacturing constraints all affect PCB assembly quality and long-term reliability. The following PCB layout guidelines cover 12 practical details that engineers should consider during PCB component placement and design. 1. SMT Component Spacing The spacing between surface-mount technology (SMT) components is an important consideration in PCB layout. Insufficient spacing can make solder paste printing and component placement more difficult, increase the risk of solder bridging, and complicate rework and maintenance. The following values can serve as preliminary references for PCB component spacing: Same-type components: A spacing of at least 0.3 mm may be used as a reference. Different types of components: A spacing of at least 0.13 × h + 0.3 mm may be used as a reference, where h is the maximum height difference between adjacent components. Components requiring manual placement or rework: A spacing of at least 1.5 mm may be considered, depending on the available working space and tools. These values are for reference only and are not universal manufacturing standards. Actual PCB component spacing should be determined based on component packages, pad dimensions, solder paste printing, placement equipment, and the manufacturing and assembly capabilities of the PCB supplier. 2. Spacing Between Through-Hole and SMT Components Adequate spacing should also be maintained between through-hole components and SMT components to prevent interference during component placement, soldering, and subsequent rework. A spacing of 1–3 mm can serve as a general reference, but the actual distance depends on component dimensions, lead positions, soldering methods, and maintenance requirements. For PCBs assembled using wave soldering, engineers should also consider component orientation, shadowing effects caused by adjacent components, and whether solder can reach the joints effectively. 3. IC Decoupling Capacitor Placement Decoupling capacitors should be placed as close as practical to the corresponding IC power pins. This helps shorten the current loop between the power supply and ground, reducing parasitic inductance and power supply noise. When an IC has multiple power pins, the number, capacitance, and placement of decoupling capacitors should be determined according to the datasheet, power distribution network, and actual current requirements. Where individual power pins require dedicated decoupling, the corresponding capacitors should be placed as close to those pins as possible. The grounding path is equally important. Keep the connections between the power pin, decoupling capacitor, and ground as short as practical. Unnecessarily long traces or excessive vias can reduce decoupling effectiveness, particularly at high frequencies. 4. Component Orientation and Clearance Near PCB Edges PCBs often undergo routing, V-scoring, or other depanelization processes. Components near PCB edges therefore require special attention to their orientation and clearance. First, consider the mechanical stress generated during depanelization. Ceramic capacitors, connectors, and other mechanically sensitive components should be positioned to minimize stress concentration at solder joints and component bodies. Component orientation should be determined by the depanelization method, pad geometry, and component characteristics rather than by a universal rule that all components must be parallel to the cutting direction. Second, sufficient component-free space should be maintained near PCB edges to prevent damage from cutting tools or depanelization equipment. The required clearance depends on the depanelization method, such as V-scoring, routing, or mouse bites, as well as component dimensions and the PCB manufacturer's capabilities. For components that are particularly sensitive to mechanical stress, consider using a depanelization method that reduces stress on the board and solder joints. 5. Connecting Adjacent PCB Pads When adjacent pads must be connected to the same net, the copper connections and trace widths should be planned carefully. Poorly designed copper connections may reduce the effective clearance between pads and increase the risk of solder bridging. During PCB layout, maintain adequate electrical clearance between pads and select trace widths according to current-carrying requirements. For fine-pitch components, pay particular attention to the relationship between pads, traces, and solder mask openings to avoid problems with solder paste printing and soldering quality. After completing the layout, run design rule checks (DRC) and verify that the design meets the PCB manufacturer's fabrication and assembly requirements. 6. Thermal Relief vs. Solid Copper Connections When a pad is connected to a copper plane, the connection method should be selected based on soldering requirements, current-carrying capacity, and thermal performance. Two common methods are thermal relief connections and solid copper connections. A thermal relief connection uses several narrow copper spokes to connect the pad to the surrounding copper plane. This reduces heat transfer from the pad into the larger copper area during soldering, making soldering and rework easier in many cases. A solid copper connection directly connects the pad to the copper plane. It generally provides lower electrical and thermal resistance, but the larger copper area can draw heat away from the pad, making it more difficult to reach the required soldering temperature. The appropriate method depends on current requirements, heat dissipation, soldering processes, and rework needs. For high-current or thermally demanding connections, do not reduce the number or width of copper spokes solely to make soldering easier without evaluating the electrical and thermal consequences. 7. Using Teardrops in PCB Layout When a trace connects to a pad or via through a narrow junction, a teardrop can be added where appropriate to create a smoother transition between the trace and the connection point. Teardrops offer several potential benefits: Improved connection reliability: They increase the copper area at the trace-to-pad junction, helping reduce the risk of a weakened or broken connection caused by drill misalignment, manufacturing tolerances, or mechanical stress. Enhanced mechanical robustness: The wider transition can make the connection less vulnerable to local narrowing or separation. Improved appearance: Teardrops create a smoother visual transition between traces and pads. However, teardrops are not necessary in every situation. For high-speed or impedance-sensitive traces, engineers should evaluate whether the resulting geometric changes could affect impedance continuity or signal integrity. 8. Trace Width at Component Pads During PCB layout, trace widths near component pads should be selected according to the electrical and mechanical requirements of the design. For differential signals, symmetrical analog circuits, and connections requiring balanced current distribution, trace symmetry, width matching, and length matching may be important for maintaining signal integrity and circuit performance. However, ordinary signal traces do not always need to have identical widths on both sides of a pad. Trace widths should be determined by current-carrying capacity, impedance requirements, pad dimensions, and manufacturing capabilities. Avoid unnecessary abrupt changes in trace width near pad connections. 9. Handling Unused IC Pins Unused IC pins must be handled according to the device datasheet and application requirements. They should not all be connected to ground or left floating indiscriminately. For example: NC pins: Follow the datasheet instructions. Some pins must remain unconnected and should not be grounded without authorization. Unused input pins: Connect them to the specified logic level or use the recommended pull-up, pull-down, or other biasing method to prevent undefined input states. Unused output pins: Do not connect them directly to ground or a power rail unless the datasheet explicitly permits it. Pins permitted to float: Leave them unconnected only when this is allowed or required by the device documentation. For physical pins that are present on the IC but not used in the application, ensure that the PCB footprint correctly represents the actual package. Whether the corresponding pads should be connected to ground or handled in another way depends on the pin function and the device manufacturer's recommendations. Adding a pad and connecting it to ground does not necessarily provide effective shielding. An incorrect connection may instead cause a short circuit or interfere with normal device operation. 10. Via-in-Pad Design Considerations During PCB layout, placing a conventional open via directly within a pad can cause solder to flow into the hole during assembly. This may result in insufficient solder at the joint, poor soldering quality, or other assembly defects. For ordinary SMT pads, avoid placing untreated open vias directly within the pads, particularly for fine-pitch components, unless the manufacturing process supports the design. However, vias are not universally prohibited within pads. Via-in-pad is a common design approach for packages such as BGAs, where routing density and electrical performance may require it. Depending on the application, via filling, capping, or other appropriate via treatments may be needed to prevent solder loss and ensure reliable assembly. Select the appropriate approach based on the component package, via structure, and PCB manufacturer's process capabilities. 11. PCB Edge Clearance for Traces, Pads, and Components Copper traces, pads, and components should maintain adequate clearance from PCB edges to prevent damage during fabrication, depanelization, and subsequent assembly. If copper features or pads are too close to the board edge, routing, V-scoring, or other depanelization processes may damage the copper, expose conductors, or compromise electrical reliability. For single-sided boards and substrates with relatively low mechanical strength, additional attention should be paid to structural integrity and component placement near the edges. The required PCB edge clearance should be determined according to the board material, thickness, depanelization method, and manufacturer's capabilities. Include these clearances in the PCB design rules and verify them before manufacturing. 12. Keep Electrolytic Capacitors Away from Heat Sources Electrolytic capacitors are sensitive to operating temperature. Prolonged exposure to elevated temperatures can accelerate electrolyte loss and shorten capacitor service life. During PCB layout, avoid placing electrolytic capacitors too close to power resistors, power semiconductors, transformers, or other heat-generating components whenever possible. If close placement is unavoidable, evaluate the thermal impact based on component temperature rise, airflow direction, and the actual operating environment. Also consider the capacitor's rated operating temperature, ripple current, and self-heating to ensure that it operates within acceptable limits under real-world conditions. Distance from a heat source alone is not sufficient to determine whether a capacitor is safe. Thermal design and the operating conditions of the complete product must also be considered. Conclusion PCB layout affects not only electrical performance but also manufacturability, soldering quality, and long-term reliability. In addition to routing and component placement, engineers should consider assembly processes, mechanical stress, thermal requirements, and the recommendations provided in component datasheets. After completing the PCB design, perform design rule checks and verify the layout against the PCB manufacturer's capabilities and assembly requirements. Careful attention to these PCB layout guidelines can help reduce design issues and improve PCB fabrication and assembly reliability Enter the year of your birth and check your Chinese Zodiac. Get Free Layout Quote Join us Wanna be a dedicated PCBWay writer? We definately look forward to having you with us. Submit for Publication Become Our Writer Leave a Comment ( 0 ) Share to: Previous：Notice for AI-Generated Design Files and Manufacturing Requirements Next：No next one Related articles 12 PCB Layout Guidelines for Better Component Placement PCB Layout Considerations for Single-Point and Multi-Point Grounding Can AGND and DGND Be Connected Directly in ADC PCB layout? PCB Layout Guide to Interface Driver and Connector Placement Comments ( 0 ) Log in to post comments. Upload photo You can only upload 5 files in total. Each file cannot exceed 2MB. Supports JPG, JPEG, GIF, PNG, BMP 0 / 10000 It looks like you have not written anything. Please add a comment and try again. You can upload up to 5 images! Image size should not exceed 2MB! File format not supported! Post Comment Write for PCBWay Categories Select a Category Engineering Technical News PCB Layout Software Activities Help Center PCB Basic Information PCB Manufacturing Information PCB Design & Layout Flexible PCB Rigid-Flex PCB HDI PCB PCB Assembly Technology 3D Printing CNC Machining Sheet Metal Bending Countersink & Counterbore Hardware insertion Tapping Welding Sheet Cutting Injection Molding PCB Design Tutorial PCBWay Store Table of Contents 1. SMT Component Spacing 2. Spacing Between Through-Hole and SMT Components 3. IC Decoupling Capacitor Placement 4. Component Orientation and Clearance Near PCB Edges 5. Connecting Adjacent PCB Pads 6. Thermal Relief vs. Solid Copper Connections 7. Using Teardrops in PCB Layout 8. Trace Width at Component Pads 9. Handling Unused IC Pins 10. Via-in-Pad Design Considerations 11. PCB Edge Clearance for Traces, Pads, and Components 12. Keep Electrolytic Capacitors Away from Heat Sources Conclusion HOT TAG PCB Printed Circuit Board PCB design PCB Board PCB layout Circuit Board Printed Circuit Boards PCB Design Tutorial PCB industry pcb manufacturing KiCad pcbway IF YOU MISSED IT 1 PCB Layout Design Process from Schematic to Manufacturing 2 12 PCB Layout Guidelines for Better Component Placement 3 PCB Layout Considerations for Single-Point and Multi-Point Grounding 4 PCB Layout Guidelines for Special Component Placement 5 PCB Copper Thickness Guide for Current, Impedance, and Heat Dissipation 6 PCB Routing Guidelines for Ground, Power, and Signal Traces 7 How to Design a Ground Guard Trace in PCB Design 8 Power Supply Pinout Explained: VIN, VOUT, SW, PH, and BAT 9 Reflow Soldering vs. Wave Soldering: Key Differences and PCB Design Tips The PCB Way that recognize the talent and effort of the best ELECTRONIC designers in the World. © COPYRIGHT 2019 About us Contact us Follow us on Share to Facebook Share to Twitter Share to Reddit Share to Linkedin Back to top",
+  "published_at": "2026-10-29T00:00:00+00:00",
+  "requested_url": "https://www.pcbway.com/blog/PCB_Design_Layout/12_PCB_Layout_Guidelines_for_Better_Component_Placement_2801c08b.html",
+  "schema_version": 2,
+  "sections": [
+    {
+      "hash": "3eb43e8f6c415981ecdb5f35d28317bde4ee0e78",
+      "heading": "12 PCB Layout Guidelines for Better Component Placement",
+      "level": "h1",
+      "text": "12 PCB Layout Guidelines for Better Component Placement by: Mila Oct 29,2026 <dynamic-value> <dynamic-value> Posted in PCB Design & Layout PCB Layout PCB Component Placement PCB Layout Guidelines PCB Design Guidelines PCB layout involves more than simply placing components and routing traces. Component spacing, decoupling capacitor placement, pad connections, thermal management, and manufacturing constraints all affect PCB assembly quality and long-term reliability. The following PCB layout guidelines cover 12 practical details that engineers should consider during PCB component placement and design. 1. SMT Component Spacing The spacing between surface-mount technology (SMT) components is an important consideration in PCB layout. Insufficient spacing can make solder paste printing and component placement more difficult, increase the risk of solder bridging, and complicate rework and maintenance. The following values can serve as preliminary references for PCB component spacing: Same-type components: A spacing of at least 0.3 mm may be used as a reference. Different types of components: A spacing of at least 0.13 × h + 0.3 mm may be used as a reference, where h is the maximum heigh..."
+    },
+    {
+      "hash": "a0f996626003cbe3bc2f7a67503218c5a7d81ca7",
+      "heading": "1. SMT Component Spacing",
+      "level": "h2",
+      "text": "1. SMT Component Spacing The spacing between surface-mount technology (SMT) components is an important consideration in PCB layout. Insufficient spacing can make solder paste printing and component placement more difficult, increase the risk of solder bridging, and complicate rework and maintenance. The following values can serve as preliminary references for PCB component spacing: Same-type components: A spacing of at least 0.3 mm may be used as a reference. Different types of components: A spacing of at least 0.13 × h + 0.3 mm may be used as a reference, where h is the maximum height difference between adjacent components. Components requiring manual placement or rework: A spacing of at least 1.5 mm may be considered, depending on the available working space and tools. These values are for reference only and are not universal manufacturing standards. Actual PCB component spacing should be determined based on component packages, pad dimensions, solder paste printing, placement equipment, and the manufacturing and assembly capabilities of the PCB supplier."
+    },
+    {
+      "hash": "b67b7d963147166b1fed85c4f62c8c2da0b04b50",
+      "heading": "2. Spacing Between Through-Hole and SMT Components",
+      "level": "h2",
+      "text": "2. Spacing Between Through-Hole and SMT Components Adequate spacing should also be maintained between through-hole components and SMT components to prevent interference during component placement, soldering, and subsequent rework. A spacing of 1–3 mm can serve as a general reference, but the actual distance depends on component dimensions, lead positions, soldering methods, and maintenance requirements. For PCBs assembled using wave soldering, engineers should also consider component orientation, shadowing effects caused by adjacent components, and whether solder can reach the joints effectively."
+    },
+    {
+      "hash": "e768b118e02a0258c5894b530fe10de67a0452a7",
+      "heading": "3. IC Decoupling Capacitor Placement",
+      "level": "h2",
+      "text": "3. IC Decoupling Capacitor Placement Decoupling capacitors should be placed as close as practical to the corresponding IC power pins. This helps shorten the current loop between the power supply and ground, reducing parasitic inductance and power supply noise. When an IC has multiple power pins, the number, capacitance, and placement of decoupling capacitors should be determined according to the datasheet, power distribution network, and actual current requirements. Where individual power pins require dedicated decoupling, the corresponding capacitors should be placed as close to those pins as possible. The grounding path is equally important. Keep the connections between the power pin, decoupling capacitor, and ground as short as practical. Unnecessarily long traces or excessive vias can reduce decoupling effectiveness, particularly at high frequencies."
+    },
+    {
+      "hash": "4eb7f3402d0c690f0f649b60a3769601b688db20",
+      "heading": "4. Component Orientation and Clearance Near PCB Edges",
+      "level": "h2",
+      "text": "4. Component Orientation and Clearance Near PCB Edges PCBs often undergo routing, V-scoring, or other depanelization processes. Components near PCB edges therefore require special attention to their orientation and clearance. First, consider the mechanical stress generated during depanelization. Ceramic capacitors, connectors, and other mechanically sensitive components should be positioned to minimize stress concentration at solder joints and component bodies. Component orientation should be determined by the depanelization method, pad geometry, and component characteristics rather than by a universal rule that all components must be parallel to the cutting direction. Second, sufficient component-free space should be maintained near PCB edges to prevent damage from cutting tools or depanelization equipment. The required clearance depends on the depanelization method, such as V-scoring, routing, or mouse bites, as well as component dimensions and the PCB manufacturer's capabilities. For components that are particularly sensitive to mechanical stress, consider using a depanelization method that reduces stress on the board and solder joints."
+    },
+    {
+      "hash": "dddf46668437063590f8de146bffb3af8ffd2803",
+      "heading": "5. Connecting Adjacent PCB Pads",
+      "level": "h2",
+      "text": "5. Connecting Adjacent PCB Pads When adjacent pads must be connected to the same net, the copper connections and trace widths should be planned carefully. Poorly designed copper connections may reduce the effective clearance between pads and increase the risk of solder bridging. During PCB layout, maintain adequate electrical clearance between pads and select trace widths according to current-carrying requirements. For fine-pitch components, pay particular attention to the relationship between pads, traces, and solder mask openings to avoid problems with solder paste printing and soldering quality. After completing the layout, run design rule checks (DRC) and verify that the design meets the PCB manufacturer's fabrication and assembly requirements."
+    },
+    {
+      "hash": "ea365c043061859726799d1835e21d848d79a36d",
+      "heading": "6. Thermal Relief vs. Solid Copper Connections",
+      "level": "h2",
+      "text": "6. Thermal Relief vs. Solid Copper Connections When a pad is connected to a copper plane, the connection method should be selected based on soldering requirements, current-carrying capacity, and thermal performance. Two common methods are thermal relief connections and solid copper connections. A thermal relief connection uses several narrow copper spokes to connect the pad to the surrounding copper plane. This reduces heat transfer from the pad into the larger copper area during soldering, making soldering and rework easier in many cases. A solid copper connection directly connects the pad to the copper plane. It generally provides lower electrical and thermal resistance, but the larger copper area can draw heat away from the pad, making it more difficult to reach the required soldering temperature. The appropriate method depends on current requirements, heat dissipation, soldering processes, and rework needs. For high-current or thermally demanding connections, do not reduce the number or width of copper spokes solely to make soldering easier without evaluating the electrical and thermal consequences."
+    },
+    {
+      "hash": "e5de000a61037a508e56aabc3dd6c94e97841368",
+      "heading": "7. Using Teardrops in PCB Layout",
+      "level": "h2",
+      "text": "7. Using Teardrops in PCB Layout When a trace connects to a pad or via through a narrow junction, a teardrop can be added where appropriate to create a smoother transition between the trace and the connection point. Teardrops offer several potential benefits: Improved connection reliability: They increase the copper area at the trace-to-pad junction, helping reduce the risk of a weakened or broken connection caused by drill misalignment, manufacturing tolerances, or mechanical stress. Enhanced mechanical robustness: The wider transition can make the connection less vulnerable to local narrowing or separation. Improved appearance: Teardrops create a smoother visual transition between traces and pads. However, teardrops are not necessary in every situation. For high-speed or impedance-sensitive traces, engineers should evaluate whether the resulting geometric changes could affect impedance continuity or signal integrity."
+    },
+    {
+      "hash": "3fa7805283615cc43610a0c00fa8cc79be460077",
+      "heading": "8. Trace Width at Component Pads",
+      "level": "h2",
+      "text": "8. Trace Width at Component Pads During PCB layout, trace widths near component pads should be selected according to the electrical and mechanical requirements of the design. For differential signals, symmetrical analog circuits, and connections requiring balanced current distribution, trace symmetry, width matching, and length matching may be important for maintaining signal integrity and circuit performance. However, ordinary signal traces do not always need to have identical widths on both sides of a pad. Trace widths should be determined by current-carrying capacity, impedance requirements, pad dimensions, and manufacturing capabilities. Avoid unnecessary abrupt changes in trace width near pad connections."
+    },
+    {
+      "hash": "e56fb84521587e5e7c678e1dc7df46ddc859023f",
+      "heading": "9. Handling Unused IC Pins",
+      "level": "h2",
+      "text": "9. Handling Unused IC Pins Unused IC pins must be handled according to the device datasheet and application requirements. They should not all be connected to ground or left floating indiscriminately. For example: NC pins: Follow the datasheet instructions. Some pins must remain unconnected and should not be grounded without authorization. Unused input pins: Connect them to the specified logic level or use the recommended pull-up, pull-down, or other biasing method to prevent undefined input states. Unused output pins: Do not connect them directly to ground or a power rail unless the datasheet explicitly permits it. Pins permitted to float: Leave them unconnected only when this is allowed or required by the device documentation. For physical pins that are present on the IC but not used in the application, ensure that the PCB footprint correctly represents the actual package. Whether the corresponding pads should be connected to ground or handled in another way depends on the pin function and the device manufacturer's recommendations. Adding a pad and connecting it to ground does not necessarily provide effective shielding. An incorrect connection may instead cause a short circuit o..."
+    },
+    {
+      "hash": "4822251b142850345ad4c942db7398eba50d1722",
+      "heading": "10. Via-in-Pad Design Considerations",
+      "level": "h2",
+      "text": "10. Via-in-Pad Design Considerations During PCB layout, placing a conventional open via directly within a pad can cause solder to flow into the hole during assembly. This may result in insufficient solder at the joint, poor soldering quality, or other assembly defects. For ordinary SMT pads, avoid placing untreated open vias directly within the pads, particularly for fine-pitch components, unless the manufacturing process supports the design. However, vias are not universally prohibited within pads. Via-in-pad is a common design approach for packages such as BGAs, where routing density and electrical performance may require it. Depending on the application, via filling, capping, or other appropriate via treatments may be needed to prevent solder loss and ensure reliable assembly. Select the appropriate approach based on the component package, via structure, and PCB manufacturer's process capabilities."
+    },
+    {
+      "hash": "14f779efaceb621d85f323a173b839d4eb540dd2",
+      "heading": "11. PCB Edge Clearance for Traces, Pads, and Components",
+      "level": "h2",
+      "text": "11. PCB Edge Clearance for Traces, Pads, and Components Copper traces, pads, and components should maintain adequate clearance from PCB edges to prevent damage during fabrication, depanelization, and subsequent assembly. If copper features or pads are too close to the board edge, routing, V-scoring, or other depanelization processes may damage the copper, expose conductors, or compromise electrical reliability. For single-sided boards and substrates with relatively low mechanical strength, additional attention should be paid to structural integrity and component placement near the edges. The required PCB edge clearance should be determined according to the board material, thickness, depanelization method, and manufacturer's capabilities. Include these clearances in the PCB design rules and verify them before manufacturing."
+    },
+    {
+      "hash": "912045ea23fdf58d24dece7dc16cd029a8a4c367",
+      "heading": "12. Keep Electrolytic Capacitors Away from Heat Sources",
+      "level": "h2",
+      "text": "12. Keep Electrolytic Capacitors Away from Heat Sources Electrolytic capacitors are sensitive to operating temperature. Prolonged exposure to elevated temperatures can accelerate electrolyte loss and shorten capacitor service life. During PCB layout, avoid placing electrolytic capacitors too close to power resistors, power semiconductors, transformers, or other heat-generating components whenever possible. If close placement is unavoidable, evaluate the thermal impact based on component temperature rise, airflow direction, and the actual operating environment. Also consider the capacitor's rated operating temperature, ripple current, and self-heating to ensure that it operates within acceptable limits under real-world conditions. Distance from a heat source alone is not sufficient to determine whether a capacitor is safe. Thermal design and the operating conditions of the complete product must also be considered."
+    },
+    {
+      "hash": "6b86ef33c76860a2c382db993d770b696fd4b064",
+      "heading": "Conclusion",
+      "level": "h2",
+      "text": "Conclusion PCB layout affects not only electrical performance but also manufacturability, soldering quality, and long-term reliability. In addition to routing and component placement, engineers should consider assembly processes, mechanical stress, thermal requirements, and the recommendations provided in component datasheets. After completing the PCB design, perform design rule checks and verify the layout against the PCB manufacturer's capabilities and assembly requirements. Careful attention to these PCB layout guidelines can help reduce design issues and improve PCB fabrication and assembly reliability"
+    },
+    {
+      "hash": "7e76f89f9eb6885d147a8d28a132a25a3e90906f",
+      "heading": "Related articles",
+      "level": "h3",
+      "text": "Related articles 12 PCB Layout Guidelines for Better Component Placement PCB Layout Considerations for Single-Point and Multi-Point Grounding Can AGND and DGND Be Connected Directly in ADC PCB layout? PCB Layout Guide to Interface Driver and Connector Placement"
+    }
+  ],
+  "sitemap_lastmod": "",
+  "status": 200,
+  "structure_hash": "cc7f3274e886742ce14775d89c6100d5ffd6abfd",
+  "text_excerpt": "PCBWay Community Search title or content Search PCBWay PCB Instant Quote CNC | 3D Printing Login Sign Up More Notifications No notifications. My Profile My projects My Likes My Deals My Goods for Bazaar Settings Sign Out Projects Categories DIY Electronics Arduino Hardware Audio Computers & USB Breakout Board Projects Home Automation LED Displays & Matrices IoT Robotics View all categories By Source Files Onju Voice - AI assistant replacement to Google Nest Mini by @justLV LogicAnalyzer V6.0 DIY 1kW Open Source MPPT Solar Charge Controller Tad Boy Color SummerCart64 - a fully open source N64 flashcart kv4p HT v1.7b QuinLED-Dig-Uno Arduino RC engine sound & light controller with inertia simulation for ESP32 Bike Fingerprint - PCB Solar Powered WiFi Weather Station V2.0 RIP-Felix PS3 Tantalizer Frog Boy Color View all source files projects Featured Projects Onju Voice - AI assistant replacement to Google Nest Mini by @justLV LogicAnalyzer V6.0 DIY 1kW Open Source MPPT Solar Charge Controller Featured Source Files Video View all projects Questions Sponsorships PCBWay Future Innovators Program Feedback Blog Store PCB Design Contest - 9th Project Design Contest - 2026 KiCad PCB Design...",
+  "text_hash": "fda1960c5a7a43e97083d233871d22bc1040407d",
+  "title": "12 PCB Layout Guidelines for Better Component Placement - PCB Design & Layout - PCBway",
+  "url": "https://www.pcbway.com/blog/PCB_Design_Layout/12_PCB_Layout_Guidelines_for_Better_Component_Placement_2801c08b.html"
+}

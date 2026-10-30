@@ -1,0 +1,99 @@
+{
+  "canonical": "https://www.emachineshop.com/how-to-design-holes-for-cnc-machining",
+  "category": "service",
+  "competitor": "eMachineShop",
+  "ctas": [
+    {
+      "href": "https://www.emachineshop.com/quote",
+      "text": "REQUEST A QUOTE"
+    }
+  ],
+  "discovered_via": "sitemap",
+  "fetched_at": "2026-10-30T07:15:27+00:00",
+  "final_url": "https://www.emachineshop.com/how-to-design-holes-for-cnc-machining",
+  "first_seen_at": "2026-10-30T07:15:27+00:00",
+  "h1": "How to Design Holes for CNC Machining",
+  "headings": [
+    {
+      "level": "h1",
+      "text": "How to Design Holes for CNC Machining"
+    },
+    {
+      "level": "h2",
+      "text": "What Depth-to-Diameter Ratio Is Safe for Standard Drilling?"
+    },
+    {
+      "level": "h2",
+      "text": "Should You Specify Standard or Custom Hole Diameters?"
+    },
+    {
+      "level": "h2",
+      "text": "How Should Threaded Holes Be Specified?"
+    },
+    {
+      "level": "h2",
+      "text": "What About Hole Placement Near Edges or Other Features?"
+    },
+    {
+      "level": "h2",
+      "text": "FAQ"
+    }
+  ],
+  "images": [
+    {
+      "alt": "CNC-machined metal part showing drilled, threaded and precision-positioned holes",
+      "src": "https://www.emachineshop.com/wp-content/uploads/how-to-design-holes-for-cnc-machining.webp"
+    }
+  ],
+  "meta_description": "Learn how to design CNC-machined holes, choose drill diameters, specify threads, plan edge spacing, and manage blind holes to reduce machining costs.",
+  "modified_at": "",
+  "monitored_text": "How to Design Holes for CNC Machining by eMachineShop | Oct 29, 2026 « Back to all posts Most hole-related manufacturing problems trace back to three things: depth-to-diameter ratio, thread callouts, and whether the hole was designed for the tool that will actually cut it. Quick summary: Standard drilled holes should stay within roughly a 4:1 to 6:1 depth-to-diameter ratio for reliable results without specialized tooling. Threaded holes need a clearly specified thread standard and adequate thread engagement length. Hole diameter should match standard drill sizes where possible to avoid custom tooling costs. What Depth-to-Diameter Ratio Is Safe for Standard Drilling? Beyond roughly 4–6x the hole diameter in depth, standard twist drills start to wander and struggle with chip evacuation. Deeper holes need gun drilling or peck-drilling cycles — both slower and costlier. Should You Specify Standard or Custom Hole Diameters? Standard drill sizes (fractional, number, or letter drills) are stocked and fast. A custom diameter close to — but not matching — a standard size often means a boring operation instead of a simple drill cycle. How Should Threaded Holes Be Specified? Call out the full thread standard (e.g., ¼-20 UNC), the thread class, and the minimum thread engagement depth. An underspecified thread callout is one of the most common sources of RFQ back-and-forth. What About Hole Placement Near Edges or Other Features? Holes placed too close to a part edge or to each other risk breaking through into an adjacent feature or weakening the wall between them. Standard practice keeps hole edge-to-edge spacing at least one hole diameter. FAQ What’s the minimum wall thickness between two holes? A common rule of thumb is at least one hole diameter of material between hole edges, though this varies by material and part rigidity. Do blind holes cost more than through holes? Often yes — blind holes require depth control and sometimes a flat-bottom finishing pass that through holes don’t need. Source: ASME Y14.5-2018. Related: CAD Help Guides REQUEST A QUOTE Share this post in Social Media",
+  "published_at": "2026-10-29T13:24:24+00:00",
+  "requested_url": "https://www.emachineshop.com/how-to-design-holes-for-cnc-machining",
+  "schema_version": 2,
+  "sections": [
+    {
+      "hash": "9fee68d8c7324f9ece6108cffdb2207ec4e252d1",
+      "heading": "How to Design Holes for CNC Machining",
+      "level": "h1",
+      "text": "How to Design Holes for CNC Machining by eMachineShop | Oct 29, 2026 « Back to all posts"
+    },
+    {
+      "hash": "686c2e90c02e0ff20baf8e3e923caf4969d82d2f",
+      "heading": "What Depth-to-Diameter Ratio Is Safe for Standard Drilling?",
+      "level": "h2",
+      "text": "What Depth-to-Diameter Ratio Is Safe for Standard Drilling? Beyond roughly 4–6x the hole diameter in depth, standard twist drills start to wander and struggle with chip evacuation. Deeper holes need gun drilling or peck-drilling cycles — both slower and costlier."
+    },
+    {
+      "hash": "91b11493aa5a88d3955712a058100455f08f64f8",
+      "heading": "Should You Specify Standard or Custom Hole Diameters?",
+      "level": "h2",
+      "text": "Should You Specify Standard or Custom Hole Diameters? Standard drill sizes (fractional, number, or letter drills) are stocked and fast. A custom diameter close to — but not matching — a standard size often means a boring operation instead of a simple drill cycle."
+    },
+    {
+      "hash": "8570eea7e08fb5a17945def846acb4455e430736",
+      "heading": "How Should Threaded Holes Be Specified?",
+      "level": "h2",
+      "text": "How Should Threaded Holes Be Specified? Call out the full thread standard (e.g., ¼-20 UNC), the thread class, and the minimum thread engagement depth. An underspecified thread callout is one of the most common sources of RFQ back-and-forth."
+    },
+    {
+      "hash": "1a8d70517dc60fd3bff56a101b1dc1c8376b645f",
+      "heading": "What About Hole Placement Near Edges or Other Features?",
+      "level": "h2",
+      "text": "What About Hole Placement Near Edges or Other Features? Holes placed too close to a part edge or to each other risk breaking through into an adjacent feature or weakening the wall between them. Standard practice keeps hole edge-to-edge spacing at least one hole diameter."
+    },
+    {
+      "hash": "937f759126dc4ed46a72d125fa2a8a1139e4262a",
+      "heading": "FAQ",
+      "level": "h2",
+      "text": "FAQ What’s the minimum wall thickness between two holes? A common rule of thumb is at least one hole diameter of material between hole edges, though this varies by material and part rigidity. Do blind holes cost more than through holes? Often yes — blind holes require depth control and sometimes a flat-bottom finishing pass that through holes don’t need. Source: ASME Y14.5-2018. Related: CAD Help Guides REQUEST A QUOTE Share this post in Social Media"
+    }
+  ],
+  "sitemap_lastmod": "2026-10-29T13:24:24+00:00",
+  "status": 200,
+  "structure_hash": "df2f1215d2174a0ed42dbeb30e7917dcf5870fab",
+  "text_excerpt": "How to Design Holes for CNC Machining by eMachineShop | Oct 29, 2026 « Back to all posts Most hole-related manufacturing problems trace back to three things: depth-to-diameter ratio, thread callouts, and whether the hole was designed for the tool that will actually cut it. Quick summary: Standard drilled holes should stay within roughly a 4:1 to 6:1 depth-to-diameter ratio for reliable results without specialized tooling. Threaded holes need a clearly specified thread standard and adequate thread engagement length. Hole diameter should match standard drill sizes where possible to avoid custom tooling costs. What Depth-to-Diameter Ratio Is Safe for Standard Drilling? Beyond roughly 4–6x the hole diameter in depth, standard twist drills start to wander and struggle with chip evacuation. Deeper holes need gun drilling or peck-drilling cycles — both slower and costlier. Should You Specify Standard or Custom Hole Diameters? Standard drill sizes (fractional, number, or letter drills) are stocked and fast. A custom diameter close to — but not matching — a standard size often means a boring operation instead of a simple drill cycle. How Should Threaded Holes Be Specified? Call out the ful...",
+  "text_hash": "1b6b5ce008cdb67395d93f9f6b64b6d0737105a0",
+  "title": "How to Design Holes for CNC Machining - eMachineShop",
+  "url": "https://www.emachineshop.com/how-to-design-holes-for-cnc-machining"
+}
