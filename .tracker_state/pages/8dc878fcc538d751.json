@@ -1,0 +1,535 @@
+{
+  "canonical": "https://www.xometry.com/resources/machining/cnc-m-codes",
+  "category": "content",
+  "competitor": "Xometry",
+  "ctas": [
+    {
+      "href": "https://www.xometry.com/authors/megan-conniff",
+      "text": "Megan Conniff"
+    },
+    {
+      "href": "https://www.xometry.com/authors/audrius-zidonis-phd",
+      "text": "Audrius Zidonis PhD"
+    },
+    {
+      "href": "https://www.xometry.com/resources/machining/cnc-programming",
+      "text": "CNC Programming"
+    },
+    {
+      "href": "https://www.xometry.com/testdrive",
+      "text": "Launch Demo"
+    },
+    {
+      "href": "https://www.xometry.com/resources/machining/what-is-g-code",
+      "text": "Geometric Code (G-code)"
+    },
+    {
+      "href": "https://www.xometry.com/resources/machining/what-is-cnc-machining",
+      "text": "CNC machine"
+    },
+    {
+      "href": "https://www.xometry.com/resources/machining/face-milling-vs-peripheral-milling",
+      "text": "face milling"
+    },
+    {
+      "href": "https://www.xometry.com/resources/materials/steel-types-grades",
+      "text": "steel grades"
+    },
+    {
+      "href": "https://www.xometry.com/resources/materials/steel",
+      "text": "Steel Metal"
+    },
+    {
+      "href": "https://www.xometry.com/resources/machining/what-is-cnc-plasma-cutting",
+      "text": "CNC plasma cutting"
+    },
+    {
+      "href": "https://www.xometry.com/quoting/home",
+      "text": "instant quote"
+    },
+    {
+      "href": "https://www.xometry.com/legal",
+      "text": "terms and conditions"
+    },
+    {
+      "href": "https://www.xometry.com/quoting/home",
+      "text": "Upload Your Design"
+    },
+    {
+      "href": "https://www.xometry.com/authors/megan-conniff",
+      "text": "Read more articles by Megan Conniff"
+    }
+  ],
+  "discovered_via": "feed",
+  "fetched_at": "2026-10-31T07:01:40+00:00",
+  "final_url": "https://www.xometry.com/resources/machining/cnc-m-codes",
+  "first_seen_at": "2026-10-31T07:01:40+00:00",
+  "h1": "CNC M-Codes List",
+  "headings": [
+    {
+      "level": "h1",
+      "text": "CNC M-Codes List"
+    },
+    {
+      "level": "h2",
+      "text": "Basic CNC M-Codes"
+    },
+    {
+      "level": "h3",
+      "text": "M00"
+    },
+    {
+      "level": "h3",
+      "text": "M01"
+    },
+    {
+      "level": "h3",
+      "text": "M02"
+    },
+    {
+      "level": "h3",
+      "text": "M03"
+    },
+    {
+      "level": "h3",
+      "text": "M04"
+    },
+    {
+      "level": "h3",
+      "text": "M05"
+    },
+    {
+      "level": "h3",
+      "text": "M06"
+    },
+    {
+      "level": "h3",
+      "text": "M07"
+    },
+    {
+      "level": "h3",
+      "text": "M08"
+    },
+    {
+      "level": "h3",
+      "text": "M09"
+    },
+    {
+      "level": "h3",
+      "text": "M10"
+    },
+    {
+      "level": "h3",
+      "text": "M11"
+    },
+    {
+      "level": "h2",
+      "text": "Program Control M-Codes"
+    },
+    {
+      "level": "h3",
+      "text": "M30"
+    },
+    {
+      "level": "h3",
+      "text": "M60"
+    },
+    {
+      "level": "h3",
+      "text": "M98"
+    },
+    {
+      "level": "h3",
+      "text": "M99"
+    },
+    {
+      "level": "h2",
+      "text": "Additional Common M-Codes"
+    },
+    {
+      "level": "h3",
+      "text": "M13"
+    },
+    {
+      "level": "h3",
+      "text": "M14"
+    },
+    {
+      "level": "h3",
+      "text": "M19"
+    },
+    {
+      "level": "h3",
+      "text": "M29"
+    },
+    {
+      "level": "h3",
+      "text": "M41"
+    },
+    {
+      "level": "h3",
+      "text": "M42"
+    },
+    {
+      "level": "h3",
+      "text": "M48"
+    },
+    {
+      "level": "h3",
+      "text": "M49"
+    },
+    {
+      "level": "h2",
+      "text": "What is an M-Code in CNC Programming?"
+    },
+    {
+      "level": "h3",
+      "text": "What Role Do M-Codes Play in Controlling Auxiliary Functions of CNC Machines?"
+    },
+    {
+      "level": "h2",
+      "text": "How Do M-Codes Work Within a CNC Program?"
+    },
+    {
+      "level": "h3",
+      "text": "How Are M-Codes Executed During CNC Machine Operations?"
+    },
+    {
+      "level": "h2",
+      "text": "How Do G-Codes and M-Codes Work Together in CNC Programming?"
+    },
+    {
+      "level": "h3",
+      "text": "What Functional Differences Exist Between Motion Commands and Machine Commands?"
+    },
+    {
+      "level": "h2",
+      "text": "Which M-Codes Are Commonly Used in CNC Machines?"
+    },
+    {
+      "level": "h3",
+      "text": "What Machine Operations Are Controlled by Frequently Used M-Codes?"
+    },
+    {
+      "level": "h2",
+      "text": "Why Do M-Code Lists Differ Between CNC Controllers?"
+    },
+    {
+      "level": "h3",
+      "text": "How Do Control Systems From Different Manufacturers Define M-Code Functions?"
+    },
+    {
+      "level": "h2",
+      "text": "How Do M-Codes Control Spindle and Coolant in Face Milling?"
+    },
+    {
+      "level": "h3",
+      "text": "Which M Codes Control Spindle and Coolant?"
+    },
+    {
+      "level": "h2",
+      "text": "How Do M-Codes Affect Machining Parameters for Different Steel Grades?"
+    },
+    {
+      "level": "h3",
+      "text": "How Do M-Codes Affect Spindle Speed and Feed for Different Steels?"
+    },
+    {
+      "level": "h2",
+      "text": "How Are M-Codes Applied in CNC Plasma Cutting Operations?"
+    },
+    {
+      "level": "h3",
+      "text": "How Do M-Codes Control Plasma Torch and Gas Flow?"
+    },
+    {
+      "level": "h2",
+      "text": "What Are the Benefits of Using M-Codes?"
+    },
+    {
+      "level": "h2",
+      "text": "Summary"
+    }
+  ],
+  "images": [
+    {
+      "alt": "Megan Conniff",
+      "src": "https://images.prismic.io/xometry-marketing/6f83ee5b-9d7c-436d-9fa3-fccea453bc1c_conniffheadshot.jpeg?auto=format%2Ccompress&rect=0%2C0%2C221%2C221&w=88&h=88&fit=crop"
+    },
+    {
+      "alt": "Audrius Zidonis PhD",
+      "src": "https://images.prismic.io/xometry-marketing/Z5KsYpbqstJ99zVb_AudriusZidonis-headshot.jpg?auto=format%2Ccompress&rect=0%2C0%2C3800%2C3800&w=88&h=88&fit=crop"
+    },
+    {
+      "alt": "CNC M-Codes. Image credit: Shutterstock/Pixel B",
+      "src": "https://images.prismic.io/xometry-marketing/Bdi1hrWARkDeBPc7_CNCM-Codes.jpg?auto=format%2Ccompress&rect=734%2C0%2C2933%2C2933&w=3840&fit=max"
+    },
+    {
+      "alt": "Audrius Zidonis headshot",
+      "src": "/_next/image/?url=https%3A%2F%2Fimages.prismic.io%2Fxometry-marketing%2FZ5KsYpbqstJ99zVb_AudriusZidonis-headshot.jpg%3Fauto%3Dformat%2Ccompress%26rect%3D0%2C0%2C3800%2C3800%26w%3D..."
+    },
+    {
+      "alt": "",
+      "src": "https://images.prismic.io/xometry-marketing/aeksPsBOoF08xOhg_x-pipe.png?auto=format,compress"
+    },
+    {
+      "alt": "",
+      "src": "https://images.prismic.io/xometry-marketing/6f83ee5b-9d7c-436d-9fa3-fccea453bc1c_conniffheadshot.jpeg?auto=format%2Ccompress&rect=0%2C0%2C221%2C221&w=192&h=192&fit=crop"
+    }
+  ],
+  "meta_description": "Turbocharge the way you order custom parts with our instant quoting engine. Get DFM feedback, lead times, and pricing in a matter of clicks, not days.",
+  "modified_at": "2026-10-30T19:22:00+00:00",
+  "monitored_text": "Resources / Machining Design / CNC M-Codes List CNC M-Codes List Written by Megan Conniff Updated by Audrius Zidonis PhD 29 min read Published March 29, 2026 Updated October 30, 2026 CNC M-codes are machine control commands embedded in a program to direct auxiliary functions during machining operations. The aforementioned codes manage actions (spindle activation, coolant flow, tool changes, and program stops). The CNC program reads M-codes sequentially, activating the corresponding machine functions at the appropriate moment in the cutting cycle. M-codes work alongside G-codes, where G-codes handle the tool's movement, and M-codes manage the supporting functions that ensure the process runs smoothly. Spindle control codes (M03) and coolant control codes (M08) appear in nearly any CNC program. M-code lists differ across the controllers since manufacturers define their own set of commands. Programmers must review the machine's documentation to ensure the correct use of M-codes. In face milling, M-codes ensure the spindle and coolant are activated before the cutting tool touches the workpiece, ensuring proper cutting conditions. Proper use of M-codes ensures consistent machining cycles, reduces manual intervention, and protects the mentioned tool and workpiece during production. Basic CNC M-Codes The basic CNC M-codes are listed below. M00 (Program Stop) : M00 halts the CNC program at a specific point in the cycle. The machine pauses the entire operation until the operator manually resumes the program. M01 (Optional Program Stop) : M01 acts as a conditional stop that only activates when the optional stop switch on the machine is enabled. Operators use it to inspect the workpiece or tool without permanently interrupting the cycle. M02 (End of Program) : M02 signals the controller that the program has reached its final line. The machine stops all active functions and ends the program without necessarily resetting the pointer to the start. M03 (Spindle ON - Clockwise) : M03 starts the spindle in a clockwise direction at the speed defined by the S-word in the program. The command is required before any cutting operation begins. M04 (Spindle ON - Counter-Clockwise) : M04 activates the spindle in a counter-clockwise direction, used in specific tooling applications such as left-hand drills, left-hand taps, or back-boring tools. M05 (Spindle Stop) : M05 deactivates the spindle and brings it to a complete stop. The command executes before the tool changes or at the end of a cutting sequence. M06 (Tool Change) : M06 initiates an automatic tool change sequence. On many systems, a reference point return (G28) must be programmed prior to M06 to ensure the spindle is in the correct physical position for the changer. M07 (Mist Coolant ON) : M07 activates the mist coolant system, delivering a fine spray of coolant to the cutting zone. The mist form reduces heat buildup on the tool and workpiece surface. M08 (Flood Coolant ON) : M08 turns on the flood coolant system, directing a continuous stream of liquid coolant to the cutting area. The command protects tool life and removes chips from the cutting zone. M09 (Coolant OFF) : M09 deactivates the entire active coolant system, including mist and flood coolant. The command executes at the end of a cutting pass or before a tool change. M10 (Clamp - Machine Dependent) : M10 activates the clamping mechanism on machines equipped with automatic workholding systems. The function varies depending on the machine configuration and controller. M11 (Unclamp - Machine Dependent) : M11 releases the clamping mechanism to free the workpiece or pallet. The command commonly supports automated production cells where the system integrates part loading and unloading into the cycle. M00 Program Stop : M00 halts the spindle, coolant, and feed movement until the operator manually restarts the cycle. M01 Optional Program Stop : M01 pauses the machine only when the operator activates the optional stop switch on the control panel. M02 End of Program : M02 terminates the CNC program and stops the entire machine activity, including spindle rotation and coolant flow. M03 Spindle ON (Clockwise) : M03 starts the spindle in a clockwise direction at a speed defined by the S-word command. M04 Spindle ON (Counter-clockwise) : M04 drives the spindle in a counter-clockwise direction, used in left-hand threading, left-hand drills, or back-boring. M05 Spindle Stop : M05 stops the spindle rotation at any point in the program without terminating the entire machining cycle. M06 Tool Change : M06 executes the physical tool change to the tool previously called by a T-word. M07 Mist Coolant ON : M07 activates a mist coolant system that delivers a fine spray of air and coolant to the cutting zone. M08 Flood Coolant ON : M08 turns on the flood coolant system to reduce heat buildup and flush chips away from the cutting area. M09 Coolant OFF : M09 shuts off the active external coolant system, including mist and flood. High-pressure through-spindle coolant (TSC) often requires a separate command like M89 to deactivate. M10 Clamp (Machine Dependent) : M10 engages the clamping mechanism on the machine, with its exact function varying by machine type and configuration. M11 Unclamp (Machine Dependent) : M11 releases the clamping mechanism, with its specific behavior determined by the machine's builder settings. Program Control M-Codes The program Control M-codes are listed below. M30 (End Program and Rewind) : M30 ends the CNC program and rewinds the controller to the first line. It stops the spindle and coolant but does not reset all modal G-codes or machine states. M60 (Pallet Change) : M60 triggers an automatic pallet change. On many modern systems, specific manufacturer codes like M50 or M11 may be used instead of M60. M98 (Call Subprogram) : M98 directs the controller to jump from the main program to a stored subprogram. The subprogram executes its full sequence before returning control to the main program. M99 (End Subprogram / Loop) : M99 marks the end of a subprogram and returns the controller to the main program at the line following the M98 call. When placed in the main program, M99 creates a continuous loop that restarts the program from the beginning. M30 End Program and Rewind : M30 ends the CNC program and resets the control pointer back to the first block for the next cycle. M60 Pallet Change : M60 triggers an automatic pallet swap, allowing the machine to load a new workpiece without manual intervention. M98 Call Subprogram : M98 directs the control to jump from the main program into a specified subprogram using the P-word address. M99 End Subprogram / Loop : M99 marks the end of a subprogram and returns control to the main program. It can return to the next block or a specific line number if a P-address is specified. Additional Common M-Codes The additional common M-codes are listed below. M13 (Spindle CW + Coolant ON) : M13 activates clockwise spindle rotation and coolant simultaneously on specific machine controllers, though it is not a universal ISO standard code. M14 (Spindle CCW + Coolant ON) : M14 starts the spindle in a counter-clockwise direction and simultaneously activates coolant flow. The command activates reverse-rotation cutting operations where cooling starts immediately. M19 (Spindle Orientation) : M19 locks the spindle at a specific angular position defined by the controller or program. The function is necessary for boring bar indexing, tool changes requiring a fixed spindle angle, and back-boring operations. M29 (Rigid Tapping Mode) : M29 is used on specific controllers to signal the start of a rigid tapping cycle, ensuring the spindle and Z-axis are electronically geared. M41 (Low Gear) : M41 shifts the gearbox into low gear. This command should only be executed when the spindle is at a complete stop (M05) to prevent mechanical gear damage. M42 (High Gear) : M42 shifts the machine into high gear, enabling higher spindle speeds for light cutting and finishing operations. The gear selection optimizes the spindle drive for the cutting conditions. M48 (Feedrate Override Enable) : M48 re-enables the feedrate override function on the machine control panel. Operators use it to allow manual speed adjustments during program execution. M49 (Feedrate Override Disable) : M49disables feedrate and spindle overrides. It is used for threading or rigid tapping where a constant feed-to-speed ratio is required for tool integrity. M13 Spindle CW + Coolant ON : M13 activates clockwise spindle rotation and coolant simultaneously on specific machine controllers, though separate M03 and M08 commands are standard for most systems. M14 Spindle CCW + Coolant ON : M14 runs the spindle counter-clockwise and turns on the coolant system at the same time. M19 Spindle Orientation : M19 locks the spindle at a specific angular position to prepare the machine for a tool change or boring operation. M29 Rigid Tapping Mode : M29 is used on specific controllers to signal the start of a rigid tapping cycle, ensuring the spindle and Z-axis are electronically geared. M41 Low Gear : M41 shifts the machine's gearbox into low gear. This command should only be executed when the spindle is at a complete stop (M05) to prevent damage to the gear train. M42 High Gear : M42 engages the high gear setting to achieve faster spindle speeds suited for lighter cutting operations. M48 Feedrate Override Enable : M48 activates the feedrate override function, allowing the operator to adjust the programmed feed rate from the control panel. M49 Feedrate Override Disable : M49 disables the feedrate and spindle speed override controls, ensuring the machine maintains the exact programmed chip load and surface speed. What is an M-Code in CNC Programming? The M-code in CNC programming is a miscellaneous command that controls auxiliary machine functions separate from tool movement. M-codes manage spindle activation, coolant control, tool changes, program stops, and other actions. The controller reads each M-code in the program sequence and triggers the corresponding machine action at the right moment. Without M-codes, a CNC machine lacks the ability to start its spindle, activate cooling, or change tools automatically. Each command typically uses the letter \"M\" followed by a numeric address (M03 for clockwise spindle rotation or M08 for flood coolant). The aforementioned commands do not produce any cutting motion on their own but support the conditions required for accurate machining. A complete CNC program depends on the motion commands and the M-codes working in sequence to execute a full CNC Programming cycle from start to finish. Try Xometry's Instant Quoting Engine® Test-drive a sample part to get instant pricing and DFM analysis Launch Demo What Role Do M-Codes Play in Controlling Auxiliary Functions of CNC Machines? M-codes control the auxiliary functions that support any stage of a machining operation on a CNC machine. Activate the spindle before cutting begins, and M-codes (M03 or M04) handle that command directly. Coolant systems rely on M07 and M08 to activate at the right point in the cycle, protecting the tool and the workpiece from heat damage. Tool changes typically depend on M06, which triggers the mechanical swap after the spindle has been moved to the designated tool change position. Program flow depends on M-codes (M00 for planned stops and M30 to end) and resets the cycle. Each of the aforementioned functions operates outside of the tool path motion but directly affects the quality and safety of the machining process. Proper sequencing of M-codes keeps the machine performing its auxiliary tasks at the exact moments the cutting cycle requires them. Are M-Codes Used to Activate Non-motion Machine Operations? Yes, M-codes are used to activate non-motion machine operations. The M-code activates throughout a CNC program. Spindle rotation, coolant activation, tool changes, and program stops are all functions that involve no cutting movement but remain necessary for a complete machining cycle. M-codes, including M05, stop the spindle without moving any axis, and M09 shuts off coolant flow independently of the tool path. The cutting tool position stays unaffected when an M-code executes, confirming that the command targets machine state rather than tool motion. A CNC program separates motion commands from machine state commands, and M-codes represent the machine state side of that structure in CNC machines. How Do M-Codes Work Within a CNC Program? M-codes operate within a CNC program by appearing on individual lines or alongside other commands in the program block. The controller reads the program from top to bottom. It triggers the associated machine function before or after the motion on that line when it encounters an M-code, depending on the controller type. M03 appears near the start of a program to activate the spindle before the tool moves to the cutting position. M08 activates the coolant before the first cutting pass begins. M09 and M05 appear near the end of the program to shut off the coolant and stop the spindle after the final cut. M30 closes the program and resets the controller for the next run. The placement of each M-code within the program determines when the machine executes the function relative to the cutting motion, making correct sequencing a critical part of CNC program structure. How Are M-Codes Executed During CNC Machine Operations? The M-codes execute during CNC machine operations as the controller processes them line by line through the active program. The controller identifies the M-code on each block and sends the corresponding signal to the machine component assigned to that function. M03 sends a signal to the spindle drive to begin clockwise rotation at the programmed speed. M08 opens the coolant valve to start fluid flow to the cutting zone. The execution timing depends on whether the M-code is processed at the start of the block (before motion) or at the end of the block (after motion). Most spindle and coolant commands (M03, M08) stay active until a contradictory command (M05, M09) is issued. Non-modal codes, including M06, execute the tool change and then become inactive, leaving the machine ready for the next programmed action. Can M-Codes Trigger Machine Actions Independently of Motion Commands? Yes, M-codes can trigger machine actions independently of motion commands. The M-codes can trigger the machine actions in a CNC program. A line containing M05 stops the spindle. In most controllers, the block following M05 will not execute until the spindle has confirmed a zero-speed state or reached a defined deceleration threshold. M09 deactivates coolant flow without requiring any corresponding X, Y, or Z movement in the same block. The CNC controller processes M-codes as separate instructions from the G-codes that direct axis movement, allowing the mentioned types of commands to operate on their own block or combine in a single program line. Separating M-code execution from motion commands gives programmers precise control over when each CNC machine function activates relative to the cutting path. How Do G-Codes and M-Codes Work Together in CNC Programming? G-codes define the path and cutting mode (linear, circular, or rapid), while the feed rate (F-word) and spindle speed (S-word) provide the specific numerical parameters for those movements. M-codes handle machine functions (starting and stopping the spindle, controlling the coolant flow, and selecting the tool). For instance, M03 starts the spindle, while G-codes follow to guide the tool along the programmed path. Afterward, M09 and M05 stop the coolant and spindle, respectively, to complete the process. The combination of G-codes and M-codes ensures the tool performs its operations precisely, while the machine supports those actions. The aforementioned codes interact continuously throughout the cycle, with M-codes setting up or ending conditions necessary for the G-codes’ actions. Geometric Code (G-code) forms the foundation of CNC programming by defining the tool's path and motions within the structured system. What Functional Differences Exist Between Motion Commands and Machine Commands? The functional differences that exist between motion commands and machine commands are listed below. Motion Commands (G-Codes) : Motion commands direct the cutting tool along a defined path using axis coordinates and feed rates. G-codes, including G00 for rapid positioning and G01 for linear cutting, control where the tool moves and at what speed. Machine Commands (M-Codes) : Machine commands control the operational state of the machine rather than the tool position. M-codes (M03 and M08) activate the spindle, coolant system, and other machine components before or after motion occurs. Execution Scope : Motion commands produce physical movement along one or more machine axes. Machine commands trigger auxiliary actions. While most M-codes do not move the tool relative to the workpiece, commands like M06 and M60 involve physical movement of machine components to facilitate tool or pallet swaps. Program Dependency : M-codes can be programmed to execute before, during, or after a motion block. Some M-codes, such as those for parts catchers or tailstocks, are functionally dependent on the tool being at a specific G-code coordinate. Modal Behavior : G-codes remain active until replaced by another G-code in the same group. Certain M-codes are latched (staying active until a contradictory code is read), while others are pulsed (one-shot execution). Are M-Codes Intended to Manage Machine Functions Instead of Tool Movement? Yes, M-codes are intended to manage machine functions instead of tool movement. G-codes are solely responsible for directing the tool's movement along its designated path, while M-codes control the machine's support functions. M-codes handle tasks (activating the spindle, starting or stopping coolant flow, and selecting the appropriate tool or gear). For example, the M08 code turns on the coolant without affecting the position of the tool. The distinction of the G-codes and M-codes allows for better organization and control within a CNC program. M-codes provide precise control over the machine's state during the entire machining process by managing machine functions separately from tool movements. The M-code ensures that the tool meets the necessary conditions before or after executing its programmed movements, making it essential for safe and efficient CNC operations. M-codes focus on the aforementioned critical machine functions, while Geometric Code (G-code) handles tool movements. Which M-Codes Are Commonly Used in CNC Machines? The M-codes that are commonly used in CNC machines are listed below. M03 (Spindle Start – Clockwise) : M03 activates the spindle in the clockwise direction. It must be accompanied or preceded by an S-word to define the rotational speed (RPM). The command appears near the start of nearly any CNC program that performs cutting operations. M05 (Spindle Stop) : M05 deactivates the spindle and brings rotation to a complete stop. The command executes before the tool changes and at the end of the cutting cycle. M06 (Tool Change) : M06 initiates the physical tool change sequence for the tool previously called or concurrently called by the T-word. The command is standard in multi-operation programs that require different cutting tools. M08 (Flood Coolant ON) : M08 opens the flood coolant valve, directing a continuous stream of cutting fluid to the tool and workpiece. The command protects tool life and clears chips from the cutting zone. M09 (Coolant OFF) : M09 deactivates external coolant systems (flood and mist). Internal systems like Through-Spindle Coolant (TSC) often require a specific command like M89 or M189 to shut down. The command executes at the end of a cutting pass or immediately before a tool change. M30 (End Program and Rewind) : M30 ends the active program and resets the controller to the first line, preparing the machine for the next run. The command executes at the final line of any complete CNC program and prepares the CNC machine for the next cycle. \"From a Design for Manufacturing (DFM) perspective: the strategic sequencing of M-codes for spindle orientation and high-pressure coolant is as critical to final tolerance as the tool path itself. By anticipating these auxiliary states during the design phase, engineers can mitigate thermal expansion and ensure that complex geometries are repeatable across high-volume production cycles.\" Audrius Zidonis PhD Principal Engineer at Zidonis Engineering What Machine Operations Are Controlled by Frequently Used M-Codes? Frequently used M-codes control the machine operations that run throughout any standard machining cycle. Spindle rotation is one of the first operations activated in a program, with M03 starting clockwise rotation before the tool makes contact with the workpiece. Coolant flow begins with M08, which opens the flood coolant valve to protect the cutting tool and remove chips from the cutting zone. Tool changes rely on M06 to trigger the mechanical swap. Safe practice requires stopping the spindle (M05) and moving to a tool-change reference point (G28 or G30) before M06 is executed. Program control depends on M30 to end the cycle and reset the controller for the next run. Stopping the spindle before a tool change or at the end of the program falls to M05, which brings rotation to a complete halt. Each of the aforementioned operations runs at a specific point in the program sequence, and placing M-codes correctly ensures the CNC machining cycle executes without errors. Do CNC Machining Programs Commonly Include Spindle and Coolant Control M-Codes? Yes, CNC machining programs commonly include spindle and coolant control M-codes. The spindle and coolant ensure the tool operates efficiently and remains properly cooled in almost any cutting cycle. The machining process would lack critical functions (spindle activation and coolant flow) without the aforementioned commands, leading to potential damage to the tool and the workpiece. M03 activates the spindle, ensuring it starts rotating in the correct direction for cutting, while M08 initiates the coolant flow to protect the tool and workpiece from excessive heat. The aforementioned commands are crucial to maintain cutting efficiency, tool longevity, and a clean work area. M05 stops the spindle, and M09 shuts off the coolant at the end of the cutting cycle, preparing the machine for tool changes or program completion. Skipping the aforementioned spindle and coolant M-codes can lead to issues (tool overheating, poor surface finish, or premature wear on machine components). The aforementioned M-codes are vital for ensuring smooth and safe operations within a CNC machining process, safeguarding the tools and the machine's integrity. The aforementioned M-codes are foundational elements in the entire properly structured CNC machining programs. Why Do M-Code Lists Differ Between CNC Controllers? The M-code lists differ between CNC controllers because each manufacturer develops its own command set to match the specific hardware and features of its control system. Fanuc, Siemens, Haas, and Mitsubishi each assign M-code numbers according to internal standards that reflect their machine architectures. While many M-codes are standardized (M03 or M30), others are manufacturer-specific; for example, a code like M12 might control a parts catcher on one machine but a chip conveyor on another. Manufacturers add custom M-codes to support pallet changers, probing systems, rotary axis controls, and other machine-specific features that standard lists do not cover. The absence of a universal M-code standard across the industry means that a program written for one controller requires review and modification before running on a different system. Machine tool builders also modify default M-code assignments during the integration process, adding another layer of variation across the installations. Operators and programmers must consult the specific CNC controller documentation before writing or editing programs to confirm the correct function of each M-code on that machine. How Do Control Systems From Different Manufacturers Define M-Code Functions? The control systems from different manufacturers define M-code functions by assigning command numbers to machine actions through their internal programming architecture. Fanuc controllers follow one set of assignments, while Haas systems use a modified version of that list with additional proprietary codes added for machine-specific functions. Siemens controllers assign M-codes according to a separate internal standard, and the same number may trigger a different machine action compared to a Fanuc system. Manufacturers document their M-code assignments in the controller's programming manual, which acts as the authoritative reference for any machine running that control. Machine builders add custom M-codes during installation to address functions unique to that machine configuration. The same cutting program transferred from one CNC controller brand to another requires a full M-code audit to identify any conflicting assignments before the program runs safely. Can the Same M-Code Perform Different Functions on Different CNC controllers? Yes, the same M-code can perform different functions on different CNC controllers. The function an M-code performs depends on the specific controller's configuration and the manufacturer's command assignments. For example, M19 may control spindle orientation on Fanuc systems, but it could perform a different task on another controller with reassigned M-code numbers. Machine builders may modify the aforementioned assignments during installation, resulting in variations even within machines using the same controller brand. Programmers transferring programs across machines must verify each M-code against the destination machine’s documentation to ensure the correct function occurs, preventing potential errors and ensuring optimal machine performance. Failing to do so can result in incorrect operations, risking damage to tooling, fixtures, or the CNC controller itself. How Do M-Codes Control Spindle and Coolant in Face Milling? M-codes activate the spindle and coolant at the correct points in the program to prepare the machine for cutting before the tool contacts the workpiece surface in face milling. M03 starts the spindle in the clockwise direction at the speed specified by the S-word, bringing the face mill to full rotation before the first pass begins. M08 opens the flood coolant valve to manage the heat generated during face milling operations, where high metal removal rates can lead to rapid thermal degradation of the tool inserts. M05 stops the spindle after the final pass is complete, and M09 shuts off the coolant before the tool retracts to the safe position. Placing the aforementioned commands in the correct program sequence ensures the face mill enters the cut at full speed with active cooling, which protects the insert edges and produces a consistent surface finish. Improper placement of spindle and coolant M-codes in a face milling program leads to tool entry without rotation or cutting without fluid, which accelerates tool wear and damages the machined surface. Correct M-code sequencing in face milling directly determines tool life, cycle efficiency, and surface quality across any pass. Which M Codes Control Spindle and Coolant? M03 and M08 are the primary commands that control spindle rotation and coolant activation in CNC milling operations. M03 starts the spindle in the clockwise direction at the programmed speed, preparing the cutting tool for contact with the workpiece. M08 opens the flood coolant system, sending a continuous stream of cutting fluid to the tool and workpiece interface to reduce heat and remove chips. M04 handles counter-clockwise spindle rotation for reverse-cutting applications. M07 activates mist coolant as an alternative to flood coolant in operations where full fluid flow is unnecessary. M05 stops the spindle at the end of a cutting sequence, and M09 shuts off the entire active coolant system. Together, spindle and coolant M-codes form the core machine state commands that any milling cycle depends on. Do M03 and M08 Control the Spindle and Coolant in CNC Milling? Yes, M03 and M08 control the spindle and coolant in CNC milling. The M03 starts the spindle in clockwise rotation, and M08 activates flood coolant in CNC milling operations. M03 requires a speed value set by the S-word in the program to define how fast the spindle rotates during the cutting pass. M08 opens the coolant valve and maintains continuous fluid flow to the cutting zone throughout the active milling sequence. The mentioned commands appear near the beginning of the cutting cycle, before the tool moves into contact with the workpiece. Correct placement of M03 and M08 in the program ensures the tool enters the cut at full speed with active cooling, protecting insert life and maintaining part quality. How Do M-Codes Affect Machining Parameters for Different Steel Grades? M-codes affect machining parameters for different steel grades by controlling the spindle state and coolant conditions that determine how the cutting tool performs against each material. Harder steel grades (4140 or D2) tool steel require lower spindle speeds and higher coolant flow to manage heat and tool pressure, and M-codes set those conditions before each cut. Softer grades (1018) mild steel tolerate higher spindle speeds with standard flood coolant, still relying on M03 and M08 to activate those conditions at the correct program point. M06 executes tool changes as it moves through roughing and finishing operations, using different insert grades suited to the steel undergoing machining. Gear selection codes (M41 and M42) adjust spindle torque output to match the cutting forces required by different steel hardness levels. M05 and M09 stop the spindle and coolant after each operation, allowing the program to transition cleanly across the passes with different parameters. Accurate M-code sequencing across operations on different steel grades keeps cutting conditions consistent and prevents premature tool failure caused by incorrect machine states. How Do M-Codes Affect Spindle Speed and Feed for Different Steels? The M-codes affect spindle speed and feed for different steel types by controlling the machine states that define cutting conditions for each material. M03 activates the spindle at the speed set by the S-word, with the speed value changing across program operations based on the steel grade in use. Stainless steel grades require lower spindle speeds and higher feed forces compared to mild steel, and programmers adjust the S-word value before each M03 command to match those requirements. M41 shifts the spindle into low gear on machines equipped with a geared headstock, providing the mechanical advantage needed for high-torque cutting on hardened steels. M42 switches to high gear for lighter passes on softer steel grades, enabling faster spindle speeds with lower torque demand. M48 enables feed rate override so operators adjust feed rates manually when cutting conditions on a specific steel type require real-time correction. The combination of gear selection, spindle activation, and feedrate control through M-codes provides programmers with precise authority over the cutting parameters, ensuring optimal performance when working with Steel Metal . Do CNC Programs Use M-Codes to Optimize Machining for Steel Grades? Yes, CNC programs use M-codes to optimize machining for steel grades. M41 and M42 select the appropriate gear range, adjusting the torque and spindle speed to meet the specific requirements of the steel. It ensures the optimal cutting conditions, improving efficiency and extending tool life during the machining process. M03 activates the spindle at a speed set by the S-word, which adjusts based on the hardness and machinability of the steel grade. M08 provides flood coolant, though for certain milling operations in stainless steel or high-temp alloys, dry machining or M07 mist is often preferred to prevent thermal cracking of carbide inserts. The aforementioned materials tend to generate significant heat, which can affect tool life and surface quality. M48 and M49 control feed rate override functions, enabling operators to adjust the feed rate during the cut if necessary. The flexibility allows for real-time adjustments depending on the cutting conditions, ensuring optimal machining performance while following the required program parameters for the material processed. How Are M-Codes Applied in CNC Plasma Cutting Operations? The M-codes are applied in CNC plasma cutting operations to control the torch, gas flow, and arc ignition at the correct points in the cutting cycle. The plasma cutting process requires the torch to activate, the cutting gas to reach proper pressure, and the arc to ignite before the machine moves along the cut path. M-codes handle each of those activation steps by triggering the corresponding machine function when the program reaches the command line. M-codes initiate the plasma sequence, while specific parameters like pierce delay and torch height are often managed by the controller's internal logic or G04 dwell commands once the M-code arc-on signal is received. Different plasma systems use different M-code assignments for torch-on and torch-off functions, making controller documentation the required reference for correct programming. M-codes that control gas flow ensure the correct gas type and pressure are active before the arc fires, which directly affects cut quality and kerf width on different material thicknesses. Proper M-code sequencing in a CNC plasma cutting program prevents misfires, incomplete cuts, and gas pressure errors that would damage the workpiece or shorten consumable life. How Do M-Codes Control Plasma Torch and Gas Flow? The M-codes control plasma torch ignition and gas flow by activating the machine components assigned to those functions at the programmed points in the cutting cycle. The torch-on M-code triggers the ignition sequence. The CNC controller then waits for an Arc OK or Transfer signal from the plasma power supply before initiating any G-code motion. The gas flow command activates pre-flow, which purges the torch and establishes the correct gas pressure before ignition. A pierce delay sequence holds the torch in position until the plasma penetrates the material before the motion path begins. The torch-off command shuts down the arc and gas flow at the end of each cut segment, allowing the machine to reposition without the plasma torch active. Post-flow gas continues briefly after the torch-off command to cool the consumables before the next ignition cycle. Do Plasma CNC Machines Use M Codes to Control Torch and Gas? Yes, plasma CNC machines use M-codes to control the torch and gas. The aforementioned M-codes play a crucial role in regulating various functions throughout the cutting cycle, ensuring precision and efficiency. The torch-on command is one of the first M-codes used, activating the arc and initiating plasma gas flow at the start of each cut. Following the specific M-codes triggers the gas pre-flow and post-flow functions, which are essential for maintaining cooling and pressure stability. The aforementioned functions protect the consumables from damage and ensure consistent performance during the cutting process. Specific M-codes can enable or disable the Automatic Torch Height Control (ATHC) system during a cut to prevent the torch from diving into the plate during corners or lead-outs. An M-code activates the height sensor, adjusting the torch height for optimal cutting conditions before the cutting path begins. Each stage of the plasma CNC cutting cycle depends on accurately placed M-codes, ensuring that the torch ignites, operates, and shuts off correctly, maintaining cutting quality and reducing errors. What Are the Benefits of Using M-Codes? The benefits of using M-codes are listed below. Automated Machine Control : M-codes eliminate the need for manual operator intervention during the cutting cycle by activating spindle rotation, coolant flow, and tool changes at programmed points. Automation reduces cycle time and removes the risk of human error during repetitive operations. Precise Function Sequencing : M-codes place any machine function at the exact point in the program where it is needed, ensuring the spindle is at full speed and coolant is active before the tool contacts the workpiece. Correct sequencing prevents tool damage caused by cutting without proper machine conditions. Extended Tool Life : Coolant M-codes (M08) help manage thermal energy, though in many high-speed milling operations with carbide, dry machining is preferred to avoid thermal cracking of the tool inserts. Spindle stop commands (M05) prevent unnecessary rotation across the operations, reducing bearing and spindle wear. Flexible Program Structure : M-codes (M98 and M99) allow programmers to call subprograms and create loops, reducing program length and simplifying complex multi-operation cycles. Modular program structures built with M-codes are easier to edit and reuse across different jobs. Consistent Repeatability : M-codes execute the same machine function the same way on any program cycle, eliminating variation caused by manual machine control. Consistent machine states across any run produce uniform part quality and predictable cycle times. Improved Operator Safety : M-codes (M00 and M01) insert controlled program stops that allow operators to inspect the workpiece or tool without manually intervening in an active cutting cycle. Planned stops reduce the risk of unexpected machine behavior during inspection. Summary Xometry provides a wide range of manufacturing capabilities including CNC machining, 3D printing, injection molding, die casting (including vacuum die casting), laser cutting, and sheet metal fabrication. Get your instant quote today. Disclaimer The content appearing on this webpage is for informational purposes only. Xometry makes no representation or warranty of any kind, be it expressed or implied, as to the accuracy, completeness, or validity of the information. Any performance parameters, geometric tolerances, specific design features, quality and types of materials, or processes should not be inferred to represent what will be delivered by third-party suppliers or manufacturers through Xometry’s network. Buyers seeking quotes for parts are responsible for defining the specific requirements for those parts. Please refer to our terms and conditions for more information. Start Your Instant Quote STEP · STP · SLDPRT · STL · DXF · IPT · X_T · X_B · 3DXML · CATPART · PRT · SAT · 3MF · JT Upload Your Design All uploads are secure and confidential Megan Conniff Megan is the Content Director at Xometry Read more articles by Megan Conniff Start Your Instant Quote STEP · STP · SLDPRT · STL · DXF · IPT · X_T · X_B · 3DXML · CATPART · PRT · SAT · 3MF · JT Upload Your Design All uploads are secure and confidential Recent Stories Case Study: NASA Partners with Xometry to Fast-track Critical Life Support Systems on the International Space Station October 30, 2026 4 min read Shear Strain: Definition and Formula October 30, 2026 31 min read Roll forming: Definition, Process, and Applications October 30, 2026 37 min read",
+  "published_at": "2026-03-29T00:00:00+00:00",
+  "requested_url": "https://www.xometry.com/resources/machining/cnc-m-codes",
+  "schema_version": 2,
+  "sections": [
+    {
+      "hash": "072068d8239e747afd84418801a3827e1d91130a",
+      "heading": "CNC M-Codes List",
+      "level": "h1",
+      "text": "CNC M-Codes List CNC M-Codes List"
+    },
+    {
+      "hash": "f05d86b8abe5fc461cce88a9f5ae928a586f7024",
+      "heading": "Basic CNC M-Codes",
+      "level": "h2",
+      "text": "Basic CNC M-Codes The basic CNC M-codes are listed below. M00 (Program Stop) : M00 halts the CNC program at a specific point in the cycle. The machine pauses the entire operation until the operator manually resumes the program. M01 (Optional Program Stop) : M01 acts as a conditional stop that only activates when the optional stop switch on the machine is enabled. Operators use it to inspect the workpiece or tool without permanently interrupting the cycle. M02 (End of Program) : M02 signals the controller that the program has reached its final line. The machine stops all active functions and ends the program without necessarily resetting the pointer to the start. M03 (Spindle ON - Clockwise) : M03 starts the spindle in a clockwise direction at the speed defined by the S-word in the program. The command is required before any cutting operation begins. M04 (Spindle ON - Counter-Clockwise) : M04 activates the spindle in a counter-clockwise direction, used in specific tooling applications such as left-hand drills, left-hand taps, or back-boring tools. M05 (Spindle Stop) : M05 deactivates the spindle and brings it to a complete stop. The command executes before the tool changes or at th..."
+    },
+    {
+      "hash": "395a298a38ec5cd3f1342976d282bd7783275d99",
+      "heading": "M00",
+      "level": "h3",
+      "text": "M00 Program Stop : M00 halts the spindle, coolant, and feed movement until the operator manually restarts the cycle."
+    },
+    {
+      "hash": "deaa7ebb2d003482d3a37c90c16645f29e320cd2",
+      "heading": "M01",
+      "level": "h3",
+      "text": "M01 Optional Program Stop : M01 pauses the machine only when the operator activates the optional stop switch on the control panel."
+    },
+    {
+      "hash": "386a84f503428c3707b802e3d43be3cc4de48690",
+      "heading": "M02",
+      "level": "h3",
+      "text": "M02 End of Program : M02 terminates the CNC program and stops the entire machine activity, including spindle rotation and coolant flow."
+    },
+    {
+      "hash": "1d0064b6079b4b070c9c24f9abaf6305b0f4bf69",
+      "heading": "M03",
+      "level": "h3",
+      "text": "M03 Spindle ON (Clockwise) : M03 starts the spindle in a clockwise direction at a speed defined by the S-word command."
+    },
+    {
+      "hash": "82a755f1b6fd1ae271fc4f5a3d84abe2f095990b",
+      "heading": "M04",
+      "level": "h3",
+      "text": "M04 Spindle ON (Counter-clockwise) : M04 drives the spindle in a counter-clockwise direction, used in left-hand threading, left-hand drills, or back-boring."
+    },
+    {
+      "hash": "65cca6eb721c4e7a91d548ef76df2023810ec83f",
+      "heading": "M05",
+      "level": "h3",
+      "text": "M05 Spindle Stop : M05 stops the spindle rotation at any point in the program without terminating the entire machining cycle."
+    },
+    {
+      "hash": "4785b4fa7e4fa10be7d5d99339cd5dcaffce2a33",
+      "heading": "M06",
+      "level": "h3",
+      "text": "M06 Tool Change : M06 executes the physical tool change to the tool previously called by a T-word."
+    },
+    {
+      "hash": "3259695c69d65288076048df3acce5aed714078e",
+      "heading": "M07",
+      "level": "h3",
+      "text": "M07 Mist Coolant ON : M07 activates a mist coolant system that delivers a fine spray of air and coolant to the cutting zone."
+    },
+    {
+      "hash": "059092773e530ec0c5d98c532bb7e811a646cec5",
+      "heading": "M08",
+      "level": "h3",
+      "text": "M08 Flood Coolant ON : M08 turns on the flood coolant system to reduce heat buildup and flush chips away from the cutting area."
+    },
+    {
+      "hash": "d35152689ac231f88d26fb05355472d0a6aaab8b",
+      "heading": "M09",
+      "level": "h3",
+      "text": "M09 Coolant OFF : M09 shuts off the active external coolant system, including mist and flood. High-pressure through-spindle coolant (TSC) often requires a separate command like M89 to deactivate."
+    },
+    {
+      "hash": "ceab5580ee0cb89731c66310327ab8ad8245b9d0",
+      "heading": "M10",
+      "level": "h3",
+      "text": "M10 Clamp (Machine Dependent) : M10 engages the clamping mechanism on the machine, with its exact function varying by machine type and configuration."
+    },
+    {
+      "hash": "520761eeab10b1fd792c6e731df91367675a4609",
+      "heading": "M11",
+      "level": "h3",
+      "text": "M11 Unclamp (Machine Dependent) : M11 releases the clamping mechanism, with its specific behavior determined by the machine's builder settings."
+    },
+    {
+      "hash": "48040e9c6cb34962632028eb5b0280e82b8cf568",
+      "heading": "Program Control M-Codes",
+      "level": "h2",
+      "text": "Program Control M-Codes The program Control M-codes are listed below. M30 (End Program and Rewind) : M30 ends the CNC program and rewinds the controller to the first line. It stops the spindle and coolant but does not reset all modal G-codes or machine states. M60 (Pallet Change) : M60 triggers an automatic pallet change. On many modern systems, specific manufacturer codes like M50 or M11 may be used instead of M60. M98 (Call Subprogram) : M98 directs the controller to jump from the main program to a stored subprogram. The subprogram executes its full sequence before returning control to the main program. M99 (End Subprogram / Loop) : M99 marks the end of a subprogram and returns the controller to the main program at the line following the M98 call. When placed in the main program, M99 creates a continuous loop that restarts the program from the beginning."
+    },
+    {
+      "hash": "db619e9e5bc606609c02444248a5a730fefcea6c",
+      "heading": "M30",
+      "level": "h3",
+      "text": "M30 End Program and Rewind : M30 ends the CNC program and resets the control pointer back to the first block for the next cycle."
+    },
+    {
+      "hash": "a267cad9dbd7c19ed7a894f0126ccc9ef3ad7e49",
+      "heading": "M60",
+      "level": "h3",
+      "text": "M60 Pallet Change : M60 triggers an automatic pallet swap, allowing the machine to load a new workpiece without manual intervention."
+    },
+    {
+      "hash": "0197e82c2af8d9888d4c85c0c8967183f511ae94",
+      "heading": "M98",
+      "level": "h3",
+      "text": "M98 Call Subprogram : M98 directs the control to jump from the main program into a specified subprogram using the P-word address."
+    },
+    {
+      "hash": "afe85aa7cba8b1c18f3a7ebc87d75da8b02f7154",
+      "heading": "M99",
+      "level": "h3",
+      "text": "M99 End Subprogram / Loop : M99 marks the end of a subprogram and returns control to the main program. It can return to the next block or a specific line number if a P-address is specified."
+    },
+    {
+      "hash": "6f355bfde315145bec389fe814c4d70720b41a6e",
+      "heading": "Additional Common M-Codes",
+      "level": "h2",
+      "text": "Additional Common M-Codes The additional common M-codes are listed below. M13 (Spindle CW + Coolant ON) : M13 activates clockwise spindle rotation and coolant simultaneously on specific machine controllers, though it is not a universal ISO standard code. M14 (Spindle CCW + Coolant ON) : M14 starts the spindle in a counter-clockwise direction and simultaneously activates coolant flow. The command activates reverse-rotation cutting operations where cooling starts immediately. M19 (Spindle Orientation) : M19 locks the spindle at a specific angular position defined by the controller or program. The function is necessary for boring bar indexing, tool changes requiring a fixed spindle angle, and back-boring operations. M29 (Rigid Tapping Mode) : M29 is used on specific controllers to signal the start of a rigid tapping cycle, ensuring the spindle and Z-axis are electronically geared. M41 (Low Gear) : M41 shifts the gearbox into low gear. This command should only be executed when the spindle is at a complete stop (M05) to prevent mechanical gear damage. M42 (High Gear) : M42 shifts the machine into high gear, enabling higher spindle speeds for light cutting and finishing operations. The..."
+    },
+    {
+      "hash": "977d55eaef1ac2c87aec88178f6cdf660ce15576",
+      "heading": "M13",
+      "level": "h3",
+      "text": "M13 Spindle CW + Coolant ON : M13 activates clockwise spindle rotation and coolant simultaneously on specific machine controllers, though separate M03 and M08 commands are standard for most systems."
+    },
+    {
+      "hash": "8db8a5def491917aab91004f7246a6453881e77c",
+      "heading": "M14",
+      "level": "h3",
+      "text": "M14 Spindle CCW + Coolant ON : M14 runs the spindle counter-clockwise and turns on the coolant system at the same time."
+    },
+    {
+      "hash": "69f8b47598dbebd7c1338accb19413c93e85f445",
+      "heading": "M19",
+      "level": "h3",
+      "text": "M19 Spindle Orientation : M19 locks the spindle at a specific angular position to prepare the machine for a tool change or boring operation."
+    },
+    {
+      "hash": "f57c191266c93291c744d1aa86cebef6da3dfe64",
+      "heading": "M29",
+      "level": "h3",
+      "text": "M29 Rigid Tapping Mode : M29 is used on specific controllers to signal the start of a rigid tapping cycle, ensuring the spindle and Z-axis are electronically geared."
+    },
+    {
+      "hash": "e1c65b64eec7d0c6c4f62f6c15bf15eb5aa6d72a",
+      "heading": "M41",
+      "level": "h3",
+      "text": "M41 Low Gear : M41 shifts the machine's gearbox into low gear. This command should only be executed when the spindle is at a complete stop (M05) to prevent damage to the gear train."
+    },
+    {
+      "hash": "5512feaaff962e07abc3ae7a4a475e52d343fd5c",
+      "heading": "M42",
+      "level": "h3",
+      "text": "M42 High Gear : M42 engages the high gear setting to achieve faster spindle speeds suited for lighter cutting operations."
+    },
+    {
+      "hash": "91fb93f5c3b532df0c8d4ea6f5b2780a964c55b6",
+      "heading": "M48",
+      "level": "h3",
+      "text": "M48 Feedrate Override Enable : M48 activates the feedrate override function, allowing the operator to adjust the programmed feed rate from the control panel."
+    },
+    {
+      "hash": "54f582dd7c59ac1e7aa3af5a399c44468414109c",
+      "heading": "M49",
+      "level": "h3",
+      "text": "M49 Feedrate Override Disable : M49 disables the feedrate and spindle speed override controls, ensuring the machine maintains the exact programmed chip load and surface speed."
+    },
+    {
+      "hash": "915d719d06cf66bcf29c85ec78e194a3cc6810e8",
+      "heading": "What is an M-Code in CNC Programming?",
+      "level": "h2",
+      "text": "What is an M-Code in CNC Programming? The M-code in CNC programming is a miscellaneous command that controls auxiliary machine functions separate from tool movement. M-codes manage spindle activation, coolant control, tool changes, program stops, and other actions. The controller reads each M-code in the program sequence and triggers the corresponding machine action at the right moment. Without M-codes, a CNC machine lacks the ability to start its spindle, activate cooling, or change tools automatically. Each command typically uses the letter \"M\" followed by a numeric address (M03 for clockwise spindle rotation or M08 for flood coolant). The aforementioned commands do not produce any cutting motion on their own but support the conditions required for accurate machining. A complete CNC program depends on the motion commands and the M-codes working in sequence to execute a full CNC Programming cycle from start to finish."
+    },
+    {
+      "hash": "be3da83270726083dcb673399e87db71af343924",
+      "heading": "What Role Do M-Codes Play in Controlling Auxiliary Functions of CNC Machines?",
+      "level": "h3",
+      "text": "What Role Do M-Codes Play in Controlling Auxiliary Functions of CNC Machines? M-codes control the auxiliary functions that support any stage of a machining operation on a CNC machine. Activate the spindle before cutting begins, and M-codes (M03 or M04) handle that command directly. Coolant systems rely on M07 and M08 to activate at the right point in the cycle, protecting the tool and the workpiece from heat damage. Tool changes typically depend on M06, which triggers the mechanical swap after the spindle has been moved to the designated tool change position. Program flow depends on M-codes (M00 for planned stops and M30 to end) and resets the cycle. Each of the aforementioned functions operates outside of the tool path motion but directly affects the quality and safety of the machining process. Proper sequencing of M-codes keeps the machine performing its auxiliary tasks at the exact moments the cutting cycle requires them. Are M-Codes Used to Activate Non-motion Machine Operations? Yes, M-codes are used to activate non-motion machine operations. The M-code activates throughout a CNC program. Spindle rotation, coolant activation, tool changes, and program stops are all functions..."
+    },
+    {
+      "hash": "8e21f45bef2c8f7ddfdc8571636a81c847fd4c14",
+      "heading": "How Do M-Codes Work Within a CNC Program?",
+      "level": "h2",
+      "text": "How Do M-Codes Work Within a CNC Program? M-codes operate within a CNC program by appearing on individual lines or alongside other commands in the program block. The controller reads the program from top to bottom. It triggers the associated machine function before or after the motion on that line when it encounters an M-code, depending on the controller type. M03 appears near the start of a program to activate the spindle before the tool moves to the cutting position. M08 activates the coolant before the first cutting pass begins. M09 and M05 appear near the end of the program to shut off the coolant and stop the spindle after the final cut. M30 closes the program and resets the controller for the next run. The placement of each M-code within the program determines when the machine executes the function relative to the cutting motion, making correct sequencing a critical part of CNC program structure."
+    },
+    {
+      "hash": "7df43d7c31208aee14ff73ecd983fe919478e006",
+      "heading": "How Are M-Codes Executed During CNC Machine Operations?",
+      "level": "h3",
+      "text": "How Are M-Codes Executed During CNC Machine Operations? The M-codes execute during CNC machine operations as the controller processes them line by line through the active program. The controller identifies the M-code on each block and sends the corresponding signal to the machine component assigned to that function. M03 sends a signal to the spindle drive to begin clockwise rotation at the programmed speed. M08 opens the coolant valve to start fluid flow to the cutting zone. The execution timing depends on whether the M-code is processed at the start of the block (before motion) or at the end of the block (after motion). Most spindle and coolant commands (M03, M08) stay active until a contradictory command (M05, M09) is issued. Non-modal codes, including M06, execute the tool change and then become inactive, leaving the machine ready for the next programmed action. Can M-Codes Trigger Machine Actions Independently of Motion Commands? Yes, M-codes can trigger machine actions independently of motion commands. The M-codes can trigger the machine actions in a CNC program. A line containing M05 stops the spindle. In most controllers, the block following M05 will not execute until the s..."
+    },
+    {
+      "hash": "ea0ea45d8f77ece186243fd5936fb0a6b7993b3d",
+      "heading": "How Do G-Codes and M-Codes Work Together in CNC Programming?",
+      "level": "h2",
+      "text": "How Do G-Codes and M-Codes Work Together in CNC Programming? G-codes define the path and cutting mode (linear, circular, or rapid), while the feed rate (F-word) and spindle speed (S-word) provide the specific numerical parameters for those movements. M-codes handle machine functions (starting and stopping the spindle, controlling the coolant flow, and selecting the tool). For instance, M03 starts the spindle, while G-codes follow to guide the tool along the programmed path. Afterward, M09 and M05 stop the coolant and spindle, respectively, to complete the process. The combination of G-codes and M-codes ensures the tool performs its operations precisely, while the machine supports those actions. The aforementioned codes interact continuously throughout the cycle, with M-codes setting up or ending conditions necessary for the G-codes’ actions. Geometric Code (G-code) forms the foundation of CNC programming by defining the tool's path and motions within the structured system."
+    },
+    {
+      "hash": "84d84b7f45818a2ef449e76d7ab476407b25410d",
+      "heading": "What Functional Differences Exist Between Motion Commands and Machine Commands?",
+      "level": "h3",
+      "text": "What Functional Differences Exist Between Motion Commands and Machine Commands? The functional differences that exist between motion commands and machine commands are listed below. Motion Commands (G-Codes) : Motion commands direct the cutting tool along a defined path using axis coordinates and feed rates. G-codes, including G00 for rapid positioning and G01 for linear cutting, control where the tool moves and at what speed. Machine Commands (M-Codes) : Machine commands control the operational state of the machine rather than the tool position. M-codes (M03 and M08) activate the spindle, coolant system, and other machine components before or after motion occurs. Execution Scope : Motion commands produce physical movement along one or more machine axes. Machine commands trigger auxiliary actions. While most M-codes do not move the tool relative to the workpiece, commands like M06 and M60 involve physical movement of machine components to facilitate tool or pallet swaps. Program Dependency : M-codes can be programmed to execute before, during, or after a motion block. Some M-codes, such as those for parts catchers or tailstocks, are functionally dependent on the tool being at a spe..."
+    },
+    {
+      "hash": "2d48bb02e3ee6d23700427c55936a267f5ee74c7",
+      "heading": "Which M-Codes Are Commonly Used in CNC Machines?",
+      "level": "h2",
+      "text": "Which M-Codes Are Commonly Used in CNC Machines? The M-codes that are commonly used in CNC machines are listed below. M03 (Spindle Start – Clockwise) : M03 activates the spindle in the clockwise direction. It must be accompanied or preceded by an S-word to define the rotational speed (RPM). The command appears near the start of nearly any CNC program that performs cutting operations. M05 (Spindle Stop) : M05 deactivates the spindle and brings rotation to a complete stop. The command executes before the tool changes and at the end of the cutting cycle. M06 (Tool Change) : M06 initiates the physical tool change sequence for the tool previously called or concurrently called by the T-word. The command is standard in multi-operation programs that require different cutting tools. M08 (Flood Coolant ON) : M08 opens the flood coolant valve, directing a continuous stream of cutting fluid to the tool and workpiece. The command protects tool life and clears chips from the cutting zone. M09 (Coolant OFF) : M09 deactivates external coolant systems (flood and mist). Internal systems like Through-Spindle Coolant (TSC) often require a specific command like M89 or M189 to shut down. The command ex..."
+    },
+    {
+      "hash": "4fa789ebcb746ec943a0af6f00611a97d4f4cdef",
+      "heading": "What Machine Operations Are Controlled by Frequently Used M-Codes?",
+      "level": "h3",
+      "text": "What Machine Operations Are Controlled by Frequently Used M-Codes? Frequently used M-codes control the machine operations that run throughout any standard machining cycle. Spindle rotation is one of the first operations activated in a program, with M03 starting clockwise rotation before the tool makes contact with the workpiece. Coolant flow begins with M08, which opens the flood coolant valve to protect the cutting tool and remove chips from the cutting zone. Tool changes rely on M06 to trigger the mechanical swap. Safe practice requires stopping the spindle (M05) and moving to a tool-change reference point (G28 or G30) before M06 is executed. Program control depends on M30 to end the cycle and reset the controller for the next run. Stopping the spindle before a tool change or at the end of the program falls to M05, which brings rotation to a complete halt. Each of the aforementioned operations runs at a specific point in the program sequence, and placing M-codes correctly ensures the CNC machining cycle executes without errors. Do CNC Machining Programs Commonly Include Spindle and Coolant Control M-Codes? Yes, CNC machining programs commonly include spindle and coolant control..."
+    },
+    {
+      "hash": "96394638a8bf2d5ebf5966137cbee5ec7f05e1fb",
+      "heading": "Why Do M-Code Lists Differ Between CNC Controllers?",
+      "level": "h2",
+      "text": "Why Do M-Code Lists Differ Between CNC Controllers? The M-code lists differ between CNC controllers because each manufacturer develops its own command set to match the specific hardware and features of its control system. Fanuc, Siemens, Haas, and Mitsubishi each assign M-code numbers according to internal standards that reflect their machine architectures. While many M-codes are standardized (M03 or M30), others are manufacturer-specific; for example, a code like M12 might control a parts catcher on one machine but a chip conveyor on another. Manufacturers add custom M-codes to support pallet changers, probing systems, rotary axis controls, and other machine-specific features that standard lists do not cover. The absence of a universal M-code standard across the industry means that a program written for one controller requires review and modification before running on a different system. Machine tool builders also modify default M-code assignments during the integration process, adding another layer of variation across the installations. Operators and programmers must consult the specific CNC controller documentation before writing or editing programs to confirm the correct funct..."
+    },
+    {
+      "hash": "03f839c66501fc4ea50cada80cafe8592a266196",
+      "heading": "How Do Control Systems From Different Manufacturers Define M-Code Functions?",
+      "level": "h3",
+      "text": "How Do Control Systems From Different Manufacturers Define M-Code Functions? The control systems from different manufacturers define M-code functions by assigning command numbers to machine actions through their internal programming architecture. Fanuc controllers follow one set of assignments, while Haas systems use a modified version of that list with additional proprietary codes added for machine-specific functions. Siemens controllers assign M-codes according to a separate internal standard, and the same number may trigger a different machine action compared to a Fanuc system. Manufacturers document their M-code assignments in the controller's programming manual, which acts as the authoritative reference for any machine running that control. Machine builders add custom M-codes during installation to address functions unique to that machine configuration. The same cutting program transferred from one CNC controller brand to another requires a full M-code audit to identify any conflicting assignments before the program runs safely. Can the Same M-Code Perform Different Functions on Different CNC controllers? Yes, the same M-code can perform different functions on different CNC c..."
+    },
+    {
+      "hash": "ad0b7aa2a54de38faf800f9a324ec5b014ac5bc3",
+      "heading": "How Do M-Codes Control Spindle and Coolant in Face Milling?",
+      "level": "h2",
+      "text": "How Do M-Codes Control Spindle and Coolant in Face Milling? M-codes activate the spindle and coolant at the correct points in the program to prepare the machine for cutting before the tool contacts the workpiece surface in face milling. M03 starts the spindle in the clockwise direction at the speed specified by the S-word, bringing the face mill to full rotation before the first pass begins. M08 opens the flood coolant valve to manage the heat generated during face milling operations, where high metal removal rates can lead to rapid thermal degradation of the tool inserts. M05 stops the spindle after the final pass is complete, and M09 shuts off the coolant before the tool retracts to the safe position. Placing the aforementioned commands in the correct program sequence ensures the face mill enters the cut at full speed with active cooling, which protects the insert edges and produces a consistent surface finish. Improper placement of spindle and coolant M-codes in a face milling program leads to tool entry without rotation or cutting without fluid, which accelerates tool wear and damages the machined surface. Correct M-code sequencing in face milling directly determines tool life..."
+    },
+    {
+      "hash": "f40d6f2ba166d1a5ef99d35f2b8f0c4282ff86a2",
+      "heading": "Which M Codes Control Spindle and Coolant?",
+      "level": "h3",
+      "text": "Which M Codes Control Spindle and Coolant? M03 and M08 are the primary commands that control spindle rotation and coolant activation in CNC milling operations. M03 starts the spindle in the clockwise direction at the programmed speed, preparing the cutting tool for contact with the workpiece. M08 opens the flood coolant system, sending a continuous stream of cutting fluid to the tool and workpiece interface to reduce heat and remove chips. M04 handles counter-clockwise spindle rotation for reverse-cutting applications. M07 activates mist coolant as an alternative to flood coolant in operations where full fluid flow is unnecessary. M05 stops the spindle at the end of a cutting sequence, and M09 shuts off the entire active coolant system. Together, spindle and coolant M-codes form the core machine state commands that any milling cycle depends on. Do M03 and M08 Control the Spindle and Coolant in CNC Milling? Yes, M03 and M08 control the spindle and coolant in CNC milling. The M03 starts the spindle in clockwise rotation, and M08 activates flood coolant in CNC milling operations. M03 requires a speed value set by the S-word in the program to define how fast the spindle rotates during..."
+    }
+  ],
+  "sitemap_lastmod": "",
+  "status": 200,
+  "structure_hash": "ebf21227bccc2b88260439a463fda895f1e1415c",
+  "text_excerpt": "Resources / Machining Design / CNC M-Codes List CNC M-Codes List Written by Megan Conniff Updated by Audrius Zidonis PhD 29 min read Published March 29, 2026 Updated October 30, 2026 CNC M-codes are machine control commands embedded in a program to direct auxiliary functions during machining operations. The aforementioned codes manage actions (spindle activation, coolant flow, tool changes, and program stops). The CNC program reads M-codes sequentially, activating the corresponding machine functions at the appropriate moment in the cutting cycle. M-codes work alongside G-codes, where G-codes handle the tool's movement, and M-codes manage the supporting functions that ensure the process runs smoothly. Spindle control codes (M03) and coolant control codes (M08) appear in nearly any CNC program. M-code lists differ across the controllers since manufacturers define their own set of commands. Programmers must review the machine's documentation to ensure the correct use of M-codes. In face milling, M-codes ensure the spindle and coolant are activated before the cutting tool touches the workpiece, ensuring proper cutting conditions. Proper use of M-codes ensures consistent machining cycl...",
+  "text_hash": "2bb69706e684ff27469d6674e3a50b52c089e972",
+  "title": "CNC M-Codes List",
+  "url": "https://www.xometry.com/resources/machining/cnc-m-codes"
+}

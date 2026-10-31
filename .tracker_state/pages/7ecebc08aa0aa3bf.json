@@ -1,0 +1,153 @@
+{
+  "canonical": "https://www.xometry.com/resources/machining/sheet-metal-mini-guide",
+  "category": "content",
+  "competitor": "Xometry",
+  "ctas": [
+    {
+      "href": "https://www.xometry.com/authors/joel-schadegg",
+      "text": "Joel Schadegg"
+    },
+    {
+      "href": "https://www.xometry.com/authors/greg-paulsen",
+      "text": "Greg Paulsen"
+    },
+    {
+      "href": "https://www.xometry.com/capabilities/sheet-metal-fabrication",
+      "text": "Sheet metal fabrication"
+    },
+    {
+      "href": "https://www.xometry.com/capabilities/sheet-metal-fabrication",
+      "text": "Sheet metal parts"
+    },
+    {
+      "href": "https://www.xometry.com/resources/design-guides/design-guide-sheet-metal-fabrication",
+      "text": "Download the FREE Guide"
+    },
+    {
+      "href": "https://www.xometry.com/quoting/home",
+      "text": "Upload Your Design"
+    },
+    {
+      "href": "https://www.xometry.com/authors/joel-schadegg",
+      "text": "Read more articles by Joel Schadegg"
+    }
+  ],
+  "discovered_via": "feed",
+  "fetched_at": "2026-10-31T07:02:03+00:00",
+  "final_url": "https://www.xometry.com/resources/machining/sheet-metal-mini-guide",
+  "first_seen_at": "2026-10-31T07:02:03+00:00",
+  "h1": "Sheet Metal Mini-Guide",
+  "headings": [
+    {
+      "level": "h1",
+      "text": "Sheet Metal Mini-Guide"
+    },
+    {
+      "level": "h2",
+      "text": "Uniform Thickness"
+    },
+    {
+      "level": "h2",
+      "text": "Orient Bends in the Same Direction"
+    },
+    {
+      "level": "h2",
+      "text": "Tolerances"
+    },
+    {
+      "level": "h2",
+      "text": "Bend Radius"
+    },
+    {
+      "level": "h2",
+      "text": "Fillets"
+    },
+    {
+      "level": "h3",
+      "text": "Become an Expert in All things Sheet Metal Fab"
+    }
+  ],
+  "images": [
+    {
+      "alt": "Joel Schadegg",
+      "src": "https://images.prismic.io/xometry-marketing/Zpbe8B5LeNNTxNv3_Joel-Headshot.jpg?auto=format%2Ccompress&rect=719%2C259%2C1481%2C1481&w=88&h=88&fit=crop"
+    },
+    {
+      "alt": "Greg Paulsen",
+      "src": "https://images.prismic.io/xometry-marketing/9759abb2-e19d-42b3-9f04-dc8b672c240b_Greg+Paulsen+Headshot.png?auto=format%2Ccompress%3Fauto%3Dcompress%2Cformat&rect=0%2C0%2C800%2C800..."
+    },
+    {
+      "alt": "Sheet Metal. Image credit: Shutterstock/Parilov",
+      "src": "https://images.prismic.io/xometry-marketing/U5B3qrwIA5IhDHhH_SheetMetal.jpg?auto=format%2Ccompress&rect=1286%2C0%2C2901%2C2901&w=3840&fit=max"
+    },
+    {
+      "alt": "Aluminum sheet metal made at Xometry",
+      "src": "https://images.prismic.io/xometry-marketing/Zt8XdxoQrfVKl3SE_Xometry-Aluminum-Sheet-Metal-04.png?auto=format%2Ccompress&w=3840&fit=max"
+    },
+    {
+      "alt": "",
+      "src": "https://images.prismic.io/xometry-marketing/aeksPsBOoF08xOhg_x-pipe.png?auto=format,compress"
+    },
+    {
+      "alt": "picture of Joel",
+      "src": "https://images.prismic.io/xometry-marketing/Zpbe8B5LeNNTxNv3_Joel-Headshot.jpg?auto=format%2Ccompress&rect=719%2C259%2C1481%2C1481&w=192&h=192&fit=crop"
+    }
+  ],
+  "meta_description": "There are a handful of considerations to keep in mind when designing for sheet metal to ensure cost-effectiveness and manufacturability.",
+  "modified_at": "2026-10-30T19:22:00+00:00",
+  "monitored_text": "Resources / Machining Design / Sheet Metal Mini-Guide Sheet Metal Mini-Guide Written by Joel Schadegg Updated by Greg Paulsen 2 min read Published October 1, 2020 Updated October 30, 2026 There are a handful of considerations to keep in mind when designing for sheet metal to ensure cost-effectiveness and manufacturability. Sheet metal fabrication is a process by which metal parts are cut and bent from a roll of stock material that is typically less than 0.25” thick. Cutouts are typically laser cut or punched and then bent using a brake or press machine. Sheet metal fabrication has many commercial applications as a cost-effective way to make metal parts. If you’re looking for a how-to guide to get started with sheet metal fabrication, this mini-guide is a great place to start! When manufacturing with sheet metal it’s important to be aware of the limitations associated with the process. Sheet metal cannot produce certain complex geometries or parts, and it can also be difficult to hold high tolerances—such as those that are available in CNC machining or 3D printing—on certain features like bends. However, large items that can be manufactured using sheet metal are often much less expensive when compared to similar parts designed for CNC machining or 3D printing. There are a handful of considerations to keep in mind when designing for sheet metal to ensure cost-effectiveness and manufacturability. Aluminum sheet metal made at Xometry Uniform Thickness Parts must maintain a uniform wall thickness throughout their entirety. Generally, Xometry is capable of manufacturing sheet metal parts up to 3/8\" (9.525mm) in thickness, but this tolerance mainly depends on the geometry of the part. When considering sheet metal thickness, a single sheet with punches (holes) is a good rule of thumb. Some features, such as countersinks are doable, but counterbores and other machined features are difficult to produce as they require post-machining. Orient Bends in the Same Direction One way to reduce costs is to make sure that all bends on the same plane go in the same direction. This allows the brake or press machines to perform the bend without having to reorient the part, which raises costs and can often be difficult depending on the geometry. Tolerances The standard tolerance for cutouts is +/- 0.020”. For bends, the tolerance is +/- 2 degrees. Tighter tolerances can be requested under the features tab on our website, but will significantly raise the price of the part. Bend Radius In order to reduce the risk of warp and breakage it is important to design the inside bend radius to be at least as large as the thickness of the material. Keeping the radius consistent across the entire part will also help reduce costs. Fillets Sheet metal parts can have very sharp edges so designing fillets of half the material’s thickness for corners will greatly reduce risk of injury. Become an Expert in All things Sheet Metal Fab Download the FREE Guide Start Your Instant Quote STEP · STP · SLDPRT · STL · DXF · IPT · X_T · X_B · 3DXML · CATPART · PRT · SAT · 3MF · JT Upload Your Design All uploads are secure and confidential Joel Schadegg Hey, I’m Joel, a technical content writer at Xometry! I have made it my personal mission to help customers like you get the most out of the Xometry experience and achieve success on your projects by leveraging my hands-on experience running machines, processing parts, and ensuring order fulfillment. Read more articles by Joel Schadegg Start Your Instant Quote STEP · STP · SLDPRT · STL · DXF · IPT · X_T · X_B · 3DXML · CATPART · PRT · SAT · 3MF · JT Upload Your Design All uploads are secure and confidential Recent Stories Case Study: NASA Partners with Xometry to Fast-track Critical Life Support Systems on the International Space Station October 30, 2026 4 min read Shear Strain: Definition and Formula October 30, 2026 31 min read Roll forming: Definition, Process, and Applications October 30, 2026 37 min read",
+  "published_at": "2020-10-01T19:35:03+00:00",
+  "requested_url": "https://www.xometry.com/resources/machining/sheet-metal-mini-guide",
+  "schema_version": 2,
+  "sections": [
+    {
+      "hash": "a084f9ce4ff40a2c29341009ee43ec5ad0fceb4e",
+      "heading": "Sheet Metal Mini-Guide",
+      "level": "h1",
+      "text": "Sheet Metal Mini-Guide Sheet Metal Mini-Guide"
+    },
+    {
+      "hash": "74c282aa776e359410b4f94c7aedf8fc8dd83ae5",
+      "heading": "Uniform Thickness",
+      "level": "h2",
+      "text": "Uniform Thickness Parts must maintain a uniform wall thickness throughout their entirety. Generally, Xometry is capable of manufacturing sheet metal parts up to 3/8\" (9.525mm) in thickness, but this tolerance mainly depends on the geometry of the part. When considering sheet metal thickness, a single sheet with punches (holes) is a good rule of thumb. Some features, such as countersinks are doable, but counterbores and other machined features are difficult to produce as they require post-machining."
+    },
+    {
+      "hash": "34abd6420c2a211e70ad35dde7d6e4fb377fb867",
+      "heading": "Orient Bends in the Same Direction",
+      "level": "h2",
+      "text": "Orient Bends in the Same Direction One way to reduce costs is to make sure that all bends on the same plane go in the same direction. This allows the brake or press machines to perform the bend without having to reorient the part, which raises costs and can often be difficult depending on the geometry."
+    },
+    {
+      "hash": "bd1a8b6691689111dc2ccbd4f5c2c019d9221fd1",
+      "heading": "Tolerances",
+      "level": "h2",
+      "text": "Tolerances The standard tolerance for cutouts is +/- 0.020”. For bends, the tolerance is +/- 2 degrees. Tighter tolerances can be requested under the features tab on our website, but will significantly raise the price of the part."
+    },
+    {
+      "hash": "43969082eac7cff4fdf611c698ccd735a8c505be",
+      "heading": "Bend Radius",
+      "level": "h2",
+      "text": "Bend Radius In order to reduce the risk of warp and breakage it is important to design the inside bend radius to be at least as large as the thickness of the material. Keeping the radius consistent across the entire part will also help reduce costs."
+    },
+    {
+      "hash": "d8b1ee750f1d162dd3171339b71f5d68e15e72d5",
+      "heading": "Fillets",
+      "level": "h2",
+      "text": "Fillets Sheet metal parts can have very sharp edges so designing fillets of half the material’s thickness for corners will greatly reduce risk of injury."
+    },
+    {
+      "hash": "f126128e7d487d3324b5e18557461e527fb1ff97",
+      "heading": "Become an Expert in All things Sheet Metal Fab",
+      "level": "h3",
+      "text": "Become an Expert in All things Sheet Metal Fab Download the FREE Guide"
+    }
+  ],
+  "sitemap_lastmod": "",
+  "status": 200,
+  "structure_hash": "5117d01cb3974ed4e5f8d73db133af6b02c2a8d4",
+  "text_excerpt": "Resources / Machining Design / Sheet Metal Mini-Guide Sheet Metal Mini-Guide Written by Joel Schadegg Updated by Greg Paulsen 2 min read Published October 1, 2020 Updated October 30, 2026 There are a handful of considerations to keep in mind when designing for sheet metal to ensure cost-effectiveness and manufacturability. Sheet metal fabrication is a process by which metal parts are cut and bent from a roll of stock material that is typically less than 0.25” thick. Cutouts are typically laser cut or punched and then bent using a brake or press machine. Sheet metal fabrication has many commercial applications as a cost-effective way to make metal parts. If you’re looking for a how-to guide to get started with sheet metal fabrication, this mini-guide is a great place to start! When manufacturing with sheet metal it’s important to be aware of the limitations associated with the process. Sheet metal cannot produce certain complex geometries or parts, and it can also be difficult to hold high tolerances—such as those that are available in CNC machining or 3D printing—on certain features like bends. However, large items that can be manufactured using sheet metal are often much less exp...",
+  "text_hash": "14f5a711a79b5063116f981401b94cd81de6d8d1",
+  "title": "Sheet Metal Mini-Guide | Xometry",
+  "url": "https://www.xometry.com/resources/machining/sheet-metal-mini-guide"
+}
