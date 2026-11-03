@@ -13,7 +13,7 @@
     }
   ],
   "discovered_via": "sitemap",
-  "fetched_at": "2026-10-28T07:01:20+00:00",
+  "fetched_at": "2026-11-03T08:02:52+00:00",
   "final_url": "https://www.emachineshop.com/blog",
   "first_seen_at": "2026-08-17T03:52:44+00:00",
   "h1": "eMachineShop Blog",
@@ -21,6 +21,10 @@
     {
       "level": "h1",
       "text": "eMachineShop Blog"
+    },
+    {
+      "level": "h2",
+      "text": "How to Design Holes for CNC Machining"
     },
     {
       "level": "h2",
@@ -53,13 +57,13 @@
     {
       "level": "h2",
       "text": "Why Inside Corners Are Never Truly Square"
-    },
-    {
-      "level": "h2",
-      "text": "CNC vs. Laser vs. Waterjet: Which Process Should You Use?"
     }
   ],
   "images": [
+    {
+      "alt": "How to Design Holes for CNC Machining",
+      "src": "https://www.emachineshop.com/wp-content/uploads/how-to-design-holes-for-cnc-machining-400x250.webp"
+    },
     {
       "alt": "When Does CNC Machining Become More Expensive Than Sheet Metal?",
       "src": "https://www.emachineshop.com/wp-content/uploads/cnc-machining-vs-sheet-metal-cost-400x250.webp"
@@ -91,15 +95,11 @@
     {
       "alt": "Why Inside Corners Are Never Truly Square",
       "src": "https://www.emachineshop.com/wp-content/uploads/cnc-inside-corner-radius-400x250.jpg"
-    },
-    {
-      "alt": "CNC vs. Laser vs. Waterjet: Which Process Should You Use?",
-      "src": "https://www.emachineshop.com/wp-content/uploads/cnc-vs-laser-vs-waterjet-400x250.jpg"
     }
   ],
   "meta_description": "eMachineShop Blog - the latest eMachineShop product updates, news, and trends in designing for manufacturability.",
   "modified_at": "2026-09-02T13:13:02+00:00",
-  "monitored_text": "eMachineShop Blog by eMachineShop | Nov 12, 2020 « Back to all posts When Does CNC Machining Become More Expensive Than Sheet Metal? by eMachineShop | Oct 27, 2026 Once a part is mostly flat, mostly the same thickness, and doesn’t need tight 3D tolerances, sheet metal fabrication almost always beats CNC on cost — sometimes dramatically. Quick summary: CNC... read more Why Two Nearly Identical CNC Parts Can Have Very Different Quotes by James Wright | Oct 22, 2026 Two parts can look identical on a drawing and still come back with quotes 40% apart. That’s not shop inconsistency — it’s usually a tolerance, finish, or material callout that isn’t actually... read more Do I Really Need ±0.001” Tolerance? by eMachineShop | Oct 20, 2026 Most parts don’t need ±0.001”. Most engineers spec it anyway, because it feels safer than asking whether the assembly actually requires it. Quick summary: ASME Y14.5-2018 defines tolerance as a... read more CNC Machining vs. 3D Printing vs. Injection Molding: Which One Does Your Part Need? by James Wright | Oct 19, 2026 Quantity decides this more than anything else does: roughly 1–50 units points toward 3D printing, 1–500 toward CNC machining, and 500–1,000+ toward injection molding — and getting that threshold... read more Prototype vs. Production: When Should You Change the Manufacturing Process? by eMachineShop | Sep 18, 2026 The process that’s right for one prototype is often the wrong process for 5,000 units — and the reverse is just as true. Knowing when to switch is a cost decision, not a maturity milestone. Quick... read more Tolerance Stack-Up: Why Parts That Each Pass Inspection Still Don’t Fit Together by James Wright | Sep 15, 2026 Every individual part can measure perfectly within its own tolerance and the assembly still won't go together — because tolerance stack-up isn't about whether any one part is correct, it's about... read more ITAR vs. CMMC: What’s the Difference? by James Wright | Sep 9, 2026 ITAR controls who is allowed to access certain defense-related technical data and hardware. CMMC governs how that data has to be protected once you have access to it. They’re related, but they... read more Why Inside Corners Are Never Truly Square by eMachineShop | Sep 2, 2026 A CNC end mill is round. It cannot cut a perfectly square internal corner — physically impossible with a rotating cutting tool. Every internal corner on a machined part carries a radius equal to at... read more CNC vs. Laser vs. Waterjet: Which Process Should You Use? by James Wright | Aug 28, 2026 If your part is flat and 2D, laser or waterjet is often faster and cheaper than CNC. If it needs 3D features — pockets, threaded holes, contoured surfaces — CNC is usually the only option of the... read more « Older Entries",
+  "monitored_text": "eMachineShop Blog by eMachineShop | Nov 12, 2020 « Back to all posts How to Design Holes for CNC Machining by eMachineShop | Oct 29, 2026 Most hole-related manufacturing problems trace back to three things: depth-to-diameter ratio, thread callouts, and whether the hole was designed for the tool that will actually cut it. Quick... read more When Does CNC Machining Become More Expensive Than Sheet Metal? by eMachineShop | Oct 27, 2026 Once a part is mostly flat, mostly the same thickness, and doesn’t need tight 3D tolerances, sheet metal fabrication almost always beats CNC on cost — sometimes dramatically. Quick summary: CNC... read more Why Two Nearly Identical CNC Parts Can Have Very Different Quotes by James Wright | Oct 22, 2026 Two parts can look identical on a drawing and still come back with quotes 40% apart. That’s not shop inconsistency — it’s usually a tolerance, finish, or material callout that isn’t actually... read more Do I Really Need ±0.001” Tolerance? by eMachineShop | Oct 20, 2026 Most parts don’t need ±0.001”. Most engineers spec it anyway, because it feels safer than asking whether the assembly actually requires it. Quick summary: ASME Y14.5-2018 defines tolerance as a... read more CNC Machining vs. 3D Printing vs. Injection Molding: Which One Does Your Part Need? by James Wright | Oct 19, 2026 Quantity decides this more than anything else does: roughly 1–50 units points toward 3D printing, 1–500 toward CNC machining, and 500–1,000+ toward injection molding — and getting that threshold... read more Prototype vs. Production: When Should You Change the Manufacturing Process? by eMachineShop | Sep 18, 2026 The process that’s right for one prototype is often the wrong process for 5,000 units — and the reverse is just as true. Knowing when to switch is a cost decision, not a maturity milestone. Quick... read more Tolerance Stack-Up: Why Parts That Each Pass Inspection Still Don’t Fit Together by James Wright | Sep 15, 2026 Every individual part can measure perfectly within its own tolerance and the assembly still won't go together — because tolerance stack-up isn't about whether any one part is correct, it's about... read more ITAR vs. CMMC: What’s the Difference? by James Wright | Sep 9, 2026 ITAR controls who is allowed to access certain defense-related technical data and hardware. CMMC governs how that data has to be protected once you have access to it. They’re related, but they... read more Why Inside Corners Are Never Truly Square by eMachineShop | Sep 2, 2026 A CNC end mill is round. It cannot cut a perfectly square internal corner — physically impossible with a rotating cutting tool. Every internal corner on a machined part carries a radius equal to at... read more « Older Entries",
   "published_at": "2020-11-12T14:23:39+00:00",
   "requested_url": "https://www.emachineshop.com/blog",
   "schema_version": 2,
@@ -109,6 +109,12 @@
       "heading": "eMachineShop Blog",
       "level": "h1",
       "text": "eMachineShop Blog by eMachineShop | Nov 12, 2020 « Back to all posts"
+    },
+    {
+      "hash": "2a2badb19e09c94481bfd536452a7becba77f984",
+      "heading": "How to Design Holes for CNC Machining",
+      "level": "h2",
+      "text": "How to Design Holes for CNC Machining by eMachineShop | Oct 29, 2026 Most hole-related manufacturing problems trace back to three things: depth-to-diameter ratio, thread callouts, and whether the hole was designed for the tool that will actually cut it. Quick... read more"
     },
     {
       "hash": "2f2a50f3a1a0500f83d379300c30818922673225",
@@ -157,19 +163,13 @@
       "heading": "Why Inside Corners Are Never Truly Square",
       "level": "h2",
       "text": "Why Inside Corners Are Never Truly Square by eMachineShop | Sep 2, 2026 A CNC end mill is round. It cannot cut a perfectly square internal corner — physically impossible with a rotating cutting tool. Every internal corner on a machined part carries a radius equal to at... read more"
-    },
-    {
-      "hash": "41bb1b2b4b967718cdca0a133386387cac8b2b15",
-      "heading": "CNC vs. Laser vs. Waterjet: Which Process Should You Use?",
-      "level": "h2",
-      "text": "CNC vs. Laser vs. Waterjet: Which Process Should You Use? by James Wright | Aug 28, 2026 If your part is flat and 2D, laser or waterjet is often faster and cheaper than CNC. If it needs 3D features — pockets, threaded holes, contoured surfaces — CNC is usually the only option of the... read more"
     }
   ],
   "sitemap_lastmod": "2026-09-02T13:13:02+00:00",
   "status": 200,
-  "structure_hash": "96f7f02e8506ff3bf6fede5dfb556b6a3ce0618d",
-  "text_excerpt": "eMachineShop Blog by eMachineShop | Nov 12, 2020 « Back to all posts When Does CNC Machining Become More Expensive Than Sheet Metal? by eMachineShop | Oct 27, 2026 Once a part is mostly flat, mostly the same thickness, and doesn’t need tight 3D tolerances, sheet metal fabrication almost always beats CNC on cost — sometimes dramatically. Quick summary: CNC... read more Why Two Nearly Identical CNC Parts Can Have Very Different Quotes by James Wright | Oct 22, 2026 Two parts can look identical on a drawing and still come back with quotes 40% apart. That’s not shop inconsistency — it’s usually a tolerance, finish, or material callout that isn’t actually... read more Do I Really Need ±0.001” Tolerance? by eMachineShop | Oct 20, 2026 Most parts don’t need ±0.001”. Most engineers spec it anyway, because it feels safer than asking whether the assembly actually requires it. Quick summary: ASME Y14.5-2018 defines tolerance as a... read more CNC Machining vs. 3D Printing vs. Injection Molding: Which One Does Your Part Need? by James Wright | Oct 19, 2026 Quantity decides this more than anything else does: roughly 1–50 units points toward 3D printing, 1–500 toward CNC machining, and 500–1,00...",
-  "text_hash": "6fa479eb5940ebbef2e4c99ba9050d3d5c5a3542",
+  "structure_hash": "ec6606b6a4ad276aa2b8dfb7798b0f87b7e1f234",
+  "text_excerpt": "eMachineShop Blog by eMachineShop | Nov 12, 2020 « Back to all posts How to Design Holes for CNC Machining by eMachineShop | Oct 29, 2026 Most hole-related manufacturing problems trace back to three things: depth-to-diameter ratio, thread callouts, and whether the hole was designed for the tool that will actually cut it. Quick... read more When Does CNC Machining Become More Expensive Than Sheet Metal? by eMachineShop | Oct 27, 2026 Once a part is mostly flat, mostly the same thickness, and doesn’t need tight 3D tolerances, sheet metal fabrication almost always beats CNC on cost — sometimes dramatically. Quick summary: CNC... read more Why Two Nearly Identical CNC Parts Can Have Very Different Quotes by James Wright | Oct 22, 2026 Two parts can look identical on a drawing and still come back with quotes 40% apart. That’s not shop inconsistency — it’s usually a tolerance, finish, or material callout that isn’t actually... read more Do I Really Need ±0.001” Tolerance? by eMachineShop | Oct 20, 2026 Most parts don’t need ±0.001”. Most engineers spec it anyway, because it feels safer than asking whether the assembly actually requires it. Quick summary: ASME Y14.5-2018 defines toleranc...",
+  "text_hash": "44ba88ae40d64ced710c44303e1900ec164a2782",
   "title": "eMachineShop Blog",
   "url": "https://www.emachineshop.com/blog"
 }
