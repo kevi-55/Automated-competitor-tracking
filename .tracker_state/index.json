@@ -168,7 +168,8 @@
       "https://www.fictiv.com/articles/low-volume-manufacturing",
       "https://www.fictiv.com/articles/pilot-production-manufacturing",
       "https://www.fictiv.com/articles/metal-parts-manufacturing",
-      "https://www.fictiv.com/articles/3-axis-cnc-machining-guide"
+      "https://www.fictiv.com/articles/dfm-design-for-manufacturing-guide",
+      "https://www.fictiv.com/articles/common-tolerance-mistakes-and-how-to-fix"
     ],
     "Hubs": [
       "https://www.hubs.com/cnc-machining",
@@ -736,9 +737,9 @@
       "https://www.xometry.com/resources/data-center/data-center-security",
       "https://www.xometry.com/resources/data-center/raised-floor",
       "https://www.xometry.com/resources/materials/fractography",
-      "https://www.xometry.com/resources/machining/profile-tolerance",
       "https://www.xometry.com/resources/machining/cutting-fluids",
       "https://www.xometry.com/resources/materials/isostatic-pressure",
+      "https://www.xometry.com/resources/machining/profile-tolerance",
       "https://www.xometry.com/resources/materials/cryogenic-treatment-of-metals",
       "https://www.xometry.com/resources/materials/diffusion-bonding",
       "https://www.xometry.com/resources/machining/minimum-quantity-lubrication",
@@ -748,10 +749,9 @@
       "https://www.xometry.com/resources/data-center/data-center-power",
       "https://www.xometry.com/resources/data-center/data-center-tiers",
       "https://www.xometry.com/resources/data-center/data-center-networking",
-      "https://www.xometry.com/resources/data-center/hyperscale",
       "https://www.xometry.com/resources/data-center/modular",
+      "https://www.xometry.com/resources/data-center/hyperscale",
       "https://www.xometry.com/resources/data-center/enterprise",
-      "https://www.xometry.com/resources/data-center/cloud",
       "https://www.xometry.com/resources/machining/datum-in-gd-t",
       "https://www.xometry.com/resources/machining/true-position-tolerance",
       "https://www.xometry.com/resources/machining/cylindricity",
@@ -761,8 +761,8 @@
       "https://www.xometry.com/resources/machining/least-material-condition",
       "https://www.xometry.com/resources/materials/carburizing",
       "https://www.xometry.com/resources/materials/nitriding",
-      "https://www.xometry.com/resources/machining/maximum-material-condition",
       "https://www.xometry.com/resources/machining/broaching",
+      "https://www.xometry.com/resources/machining/maximum-material-condition",
       "https://www.xometry.com/resources/materials/quenching",
       "https://www.xometry.com/resources/materials/17-4-ph-stainless-steel",
       "https://www.xometry.com/resources/materials/what-is-polyphenylene-sulfide-pps",
@@ -778,9 +778,10 @@
       "https://www.xometry.com/resources/materials/acrylic-fabric",
       "https://www.xometry.com/resources/machining/types-of-hydraulic-fluid",
       "https://www.xometry.com/resources/materials/nylon-11",
-      "https://www.xometry.com/resources/materials/synthetic-rubber",
       "https://www.xometry.com/resources/materials/inconel-625",
+      "https://www.xometry.com/resources/materials/synthetic-rubber",
       "https://www.xometry.com/resources/materials/nylon-12",
+      "https://www.xometry.com/resources/3d-printing/metal-filled-filament",
       "https://www.xometry.com/resources/materials/sulfur",
       "https://www.xometry.com/resources/materials/phosphorus",
       "https://www.xometry.com/resources/materials/chromium",
@@ -802,8 +803,8 @@
       "https://www.xometry.com/resources/materials/types-of-copper",
       "https://www.xometry.com/resources/materials/shear-strain",
       "https://www.xometry.com/resources/machining/cnc-m-codes",
-      "https://www.xometry.com/resources/materials/fluid-mechanics",
       "https://www.xometry.com/resources/machining/what-is-g-code",
+      "https://www.xometry.com/resources/materials/fluid-mechanics",
       "https://www.xometry.com/resources/machining/cnc-vs-manual-machining",
       "https://www.xometry.com/resources/injection-molding/foam-injection-molding",
       "https://www.xometry.com/resources/injection-molding/thin-wall-injection-molding",
@@ -819,8 +820,8 @@
       "https://www.xometry.com/resources/materials/what-is-aluminum",
       "https://www.xometry.com/resources/3d-printing/conductive-pla-3d-printing-filament",
       "https://www.xometry.com/resources/3d-printing/magnetic-iron-pla-3d-printing-filament",
-      "https://www.xometry.com/resources/3d-printing/petg-3d-printing-filament",
       "https://www.xometry.com/resources/3d-printing/fused-deposition-modeling-fdm",
+      "https://www.xometry.com/resources/3d-printing/abs-vs-petg-3d-printing",
       "https://www.xometry.com/resources/blog/direct-part-marking",
       "https://www.xometry.com/resources/3d-printing/3d-print-warping-pla-petg-abs",
       "https://www.xometry.com/resources/injection-molding/durometer-vs-elasticity",
@@ -883,15 +884,8 @@
       "https://quote.emachineshop.com/emachineshop/widget/upload"
     ]
   },
-  "last_run_at": "2026-11-04T07:43:00+00:00",
+  "last_run_at": "2026-11-05T08:11:15+00:00",
   "runs": [
-    {
-      "errors": 25,
-      "events": 10,
-      "finished_at": "2026-09-06T06:07:31+00:00",
-      "mode": "daily",
-      "run_id": "20260906T055254Z"
-    },
     {
       "errors": 28,
       "events": 94,
@@ -1304,6 +1298,13 @@
       "finished_at": "2026-11-04T07:43:00+00:00",
       "mode": "daily",
       "run_id": "20261104T072754Z"
+    },
+    {
+      "errors": 94,
+      "events": 142,
+      "finished_at": "2026-11-05T08:11:15+00:00",
+      "mode": "daily",
+      "run_id": "20261105T075258Z"
     }
   ],
   "schema_version": 2
