@@ -69,7 +69,7 @@
     }
   ],
   "discovered_via": "links",
-  "fetched_at": "2026-11-06T08:14:35+00:00",
+  "fetched_at": "2026-11-07T07:12:08+00:00",
   "final_url": "https://www.pcbway.com/rapid-prototyping/Sheet-metal/sheet-cutting.html",
   "first_seen_at": "2026-09-12T05:53:58+00:00",
   "h1": "Sheet Metal Sheet Cutting Services",
@@ -769,10 +769,10 @@
       "text": "Qty 100: $2.49/pc Qty 100: $2.49/pc"
     },
     {
-      "hash": "deb362f8a75745a0abcd6d575e5f5207ce2f0385",
+      "hash": "a69177968677bdce723d9ff4b3330e1ee6fe8c5e",
       "heading": "Sheet Cutting Design Guidelines",
       "level": "h2",
-      "text": "Sheet Cutting Design Guidelines This guide is designed to help engineers and designers prepare CAD and STEP files that meet manufacturing standards. Following these design requirements prior to order submission helps prevent file rejections, shorten lead times, and reduce overall manufacturing costs. Note: Material-specific values—including minimum hole size, internal radius, and thickness limits—vary by material and process. 1. Vector & CAD File Cleaning A production file should contain only the closed cutting geometry required to manufacture the part. Clean all construction elements and annotations before exporting. Scale & Units 1:1 Scale: Build files at full final cut size. Written dimensions inside drawings are ignored by automated processing systems. Units: Imperial (inches) is preferred. Metric (millimeters) is acceptable when used consistently between the file and quote. Centimeters and meters are not supported . Manufacturing Geometry Only Remove all dimensions, title blocks, borders, guides, notes, and annotations. Convert Text to Outlines Convert all text to vector outlines (or explode/expand text in CAD). Editable fonts/text boxes cannot be recognized as cutting geomet..."
+      "text": "Sheet Cutting Design Guidelines Sheet Cutting Design Guidelines"
     },
     {
       "hash": "c22dce2ecdfa9745b2c8338b6353c3fa95303b3c",
@@ -843,7 +843,7 @@
   ],
   "sitemap_lastmod": "",
   "status": 200,
-  "structure_hash": "79cbc8cd658bbb4c5b980ec4b06542388010fde0",
+  "structure_hash": "2fa131c4aae996b78def9ab78933be831d7b392e",
   "text_excerpt": "PCBWay PCB Prototype the Easy Way Full feature custom PCB prototype service. Online Chat Help Center Customer Service How to order Service & Refunds Sending a message service@pcbway.com 9:00 - 23:00, Mon.- Sun. (GMT+8) Service hotlines +86 571 8503 9969 9:00 - 18:00, Mon.- Fri. (GMT+8) 9:00 - 12:00, Sat. (GMT+8) (Except Chinese public holidays) EN / USD Language English English Español Français 日本語 Currency USD ( US Dollar ) USD ( US Dollar ) EUR ( Euro ) Save Cart 0 Sign in | Join Hi, My PCBWay (0) Sign Out Welcome to PCBWay Sign in New Customer? Join Free (1) Items in Awaiting payment Cart! My PCBWay My Orders Production Status Message Center My Coupons Delivery Address Help Center New here? Get a $5.00 Coupon! Home PCB Instant Quote CNC | 3D Printing PCB Assembly PCB Design OEM Product & Capabilities Why Us? Feedback Shared Projects Module Store Printed Circuit Boards PCB Capabilities Advanced PCB Advanced PCB Capabilities PCB Prototype Flex and Rigid-Flex PCBs Flexible PCBs Rigid-Flex PCBs Aluminum PCB Metal core PCBs High Frequency PCBs High-TG PCBs Thick-Copper PCBs HDI PCB LED PCB Quick turn PCB Fabrication PCB Prototyping PCB Production Process PCB Products PCB Engineering...",
   "text_hash": "eb2469c07a7a274ef988252a4eff73d03d823940",
   "title": "Sheet Metal Cutting Services | Laser, Waterjet & CNC Routing - PCBWay",

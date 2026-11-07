@@ -1,0 +1,1864 @@
+{
+  "mode": "daily",
+  "date": "2026-11-07",
+  "subject": "[Competitor Tracking] 日报 2026-11-07 · 1 篇新内容，29 项变化",
+  "generated_at": "2026-11-07T15:18:04+08:00",
+  "events": [
+    {
+      "type": "monitor_health",
+      "priority": "high",
+      "competitor": "Fictiv",
+      "url": "https://www.fictiv.com/",
+      "category": "system",
+      "page_title": "监控健康告警",
+      "summary": "抓取失败率过高",
+      "details": [
+        "尝试页面：120",
+        "失败页面：75",
+        "失败率：62.5%"
+      ],
+      "before": null,
+      "after": null,
+      "added": [],
+      "removed": [],
+      "change_percent": 0.0,
+      "confidence": "high"
+    },
+    {
+      "type": "new_content",
+      "priority": "high",
+      "competitor": "Fictiv",
+      "url": "https://www.fictiv.com/articles/reducing-machine-downtime",
+      "category": "content",
+      "page_title": "Reducing Machine Downtime: Maintainability and Serviceability Design",
+      "summary": "新发布内容：Reducing Machine Downtime: Maintainability and Serviceability Design",
+      "details": [
+        "标题：Reducing Machine Downtime: Maintainability and Serviceability Design",
+        "实际发布时间：2026-11-06",
+        "系统首次发现：2026-11-07",
+        "发现延迟：0 天"
+      ],
+      "before": null,
+      "after": null,
+      "added": [],
+      "removed": [],
+      "change_percent": 0.0,
+      "confidence": "high",
+      "published_at": "2026-11-06T22:49:31+00:00",
+      "first_seen_at": "2026-11-07T07:07:05+00:00",
+      "discovered_via": "feed"
+    },
+    {
+      "type": "visual_changed",
+      "priority": "high",
+      "competitor": "Protolabs",
+      "url": "https://www.protolabs.com/services/3d-printing",
+      "category": "pricing",
+      "page_title": "Online 3D Printing Service | Instant 3D Printing Quote",
+      "summary": "mobile 视图出现明显 UI/布局变化",
+      "details": [
+        "视口：mobile",
+        "RMS 差异：89.83",
+        "变化像素占比：9.69%",
+        "页面截图高度变化：-34px"
+      ],
+      "before": null,
+      "after": null,
+      "added": [],
+      "removed": [],
+      "change_percent": 0.0,
+      "confidence": "high",
+      "published_at": "",
+      "first_seen_at": "2026-08-17T03:48:24+00:00",
+      "discovered_via": "sitemap"
+    },
+    {
+      "type": "visual_changed",
+      "priority": "high",
+      "competitor": "SyBridge",
+      "url": "https://sybridge.com/optimizing-your-injection-molding-process",
+      "category": "pricing",
+      "page_title": "Optimizing Your Injection Molding Process for Cost-Effective Manufacturing Excellence - SyBridge Technologies",
+      "summary": "mobile 视图出现明显 UI/布局变化",
+      "details": [
+        "视口：mobile",
+        "RMS 差异：40.19",
+        "变化像素占比：3.49%",
+        "页面截图高度变化：-48px"
+      ],
+      "before": null,
+      "after": null,
+      "added": [],
+      "removed": [],
+      "change_percent": 0.0,
+      "confidence": "high",
+      "published_at": "2024-04-30T13:33:10+00:00",
+      "first_seen_at": "2026-08-17T03:53:37+00:00",
+      "discovered_via": "feed"
+    },
+    {
+      "type": "title_changed",
+      "priority": "high",
+      "competitor": "Xometry",
+      "url": "https://www.xometry.com/capabilities/cnc-machining-service",
+      "category": "pricing",
+      "page_title": "Custom Online CNC Machining Services - Metal and Plastic Instant Quotes",
+      "summary": "SEO 标题发生变化",
+      "details": [],
+      "before": "Custom Online CNC Machining Services - Metal and Plastic Instant Quotes | Xometry",
+      "after": "Custom Online CNC Machining Services - Metal and Plastic Instant Quotes",
+      "added": [],
+      "removed": [
+        "| Xometry"
+      ],
+      "change_percent": 15.38,
+      "confidence": "high",
+      "published_at": "",
+      "first_seen_at": "2026-08-17T03:43:31+00:00",
+      "discovered_via": "priority"
+    },
+    {
+      "type": "meta_description_changed",
+      "priority": "high",
+      "competitor": "Xometry",
+      "url": "https://www.xometry.com/capabilities/cnc-machining-service",
+      "category": "pricing",
+      "page_title": "Custom Online CNC Machining Services - Metal and Plastic Instant Quotes",
+      "summary": "Meta 描述发生变化",
+      "details": [],
+      "before": "Get instant quotes on custom CNC machining. Milling, turning, and EDM with lead times as fast as one day, sub ±0.001\" tolerances, and free standard US shipping.",
+      "after": "Order custom CNC machined parts in as fast as one day with Xometry’s online CNC machining services. Get free standard shipping on all US orders. Get your instant quote and learn more about custom CNC machining services today.",
+      "added": [
+        "Order",
+        "machined parts in",
+        "day with Xometry’s online CNC machining services. Get",
+        "shipping on all",
+        "orders. Get your instant quote and learn more about custom CNC machining services today."
+      ],
+      "removed": [
+        "Get instant quotes on",
+        "machining. Milling, turning, and EDM with lead times",
+        "day, sub ±0.001\" tolerances, and",
+        "shipping."
+      ],
+      "change_percent": 123.68,
+      "confidence": "high",
+      "published_at": "",
+      "first_seen_at": "2026-08-17T03:43:31+00:00",
+      "discovered_via": "priority"
+    },
+    {
+      "type": "headings_changed",
+      "priority": "high",
+      "competitor": "Xometry",
+      "url": "https://www.xometry.com/capabilities/cnc-machining-service",
+      "category": "pricing",
+      "page_title": "Custom Online CNC Machining Services - Metal and Plastic Instant Quotes",
+      "summary": "页面标题结构发生变化",
+      "details": [],
+      "before": null,
+      "after": null,
+      "added": [
+        "H3 Advantages and Challenges of CNC Machining",
+        "H3 CNC Machining Applications",
+        "H3 CNC Machining With Xometry",
+        "H3 Custom CNC Machining Services: Machining, Turning, Milling, and Routing",
+        "H3 Get More Tips With Our Complete Design Guide",
+        "H3 Ready to Get a CNC Machining Online Quote?",
+        "H3 Start A New CNC Quote",
+        "H3 What is CNC Machining?"
+      ],
+      "removed": [
+        "H2 Advantages and Challenges of CNC Machining",
+        "H2 CNC Machining Applications",
+        "H2 CNC Machining Built for Speed and Scale",
+        "H2 CNC Machining Case Studies",
+        "H2 CNC Machining Tolerances",
+        "H2 CNC Machining With Xometry",
+        "H2 Custom CNC Machining Services: Machining, Turning, Milling, and Routing",
+        "H2 Expert Tips for CNC Machining"
+      ],
+      "change_percent": 0.0,
+      "confidence": "high",
+      "published_at": "",
+      "first_seen_at": "2026-08-17T03:43:31+00:00",
+      "discovered_via": "priority"
+    },
+    {
+      "type": "ctas_changed",
+      "priority": "high",
+      "competitor": "Xometry",
+      "url": "https://www.xometry.com/capabilities/cnc-machining-service",
+      "category": "pricing",
+      "page_title": "Custom Online CNC Machining Services - Metal and Plastic Instant Quotes",
+      "summary": "CTA发生变化",
+      "details": [],
+      "before": null,
+      "after": null,
+      "added": [
+        "About CNC Machining -> https://www.xometry.com/capabilities/cnc-machining-service",
+        "Applications -> https://www.xometry.com/capabilities/cnc-machining-service",
+        "CNC FAQs -> https://www.xometry.com/capabilities/cnc-machining-service",
+        "CNC Turning Service -> https://www.xometry.com/capabilities/cnc-machining-service/cnc-turning-service",
+        "Capabilities -> https://www.xometry.com/capabilities",
+        "Custom CNC Milling Services -> https://www.xometry.com/capabilities/cnc-machining-service/cnc-milling-service",
+        "Design Guidelines -> https://www.xometry.com/capabilities/cnc-machining-service",
+        "Finishes -> https://www.xometry.com/capabilities/cnc-machining-service"
+      ],
+      "removed": [
+        "CNC milling -> https://www.xometry.com/capabilities/cnc-machining-service/cnc-milling-service",
+        "CNC turning -> https://www.xometry.com/capabilities/cnc-machining-service/cnc-turning-service",
+        "Contact Us -> https://www.xometry.com/contact",
+        "Email hello@xometry.com -> mailto:hello@xometry.com",
+        "Get an Instant Quote -> https://www.xometry.com/quote",
+        "Learn More",
+        "Learn more about ABS for CNC machining -> https://www.xometry.com/capabilities/cnc-machining-service/abs",
+        "Learn more about Delrin for CNC machining -> https://www.xometry.com/capabilities/cnc-machining-service/acetal"
+      ],
+      "change_percent": 0.0,
+      "confidence": "high",
+      "published_at": "",
+      "first_seen_at": "2026-08-17T03:43:31+00:00",
+      "discovered_via": "priority"
+    },
+    {
+      "type": "section_added",
+      "priority": "high",
+      "competitor": "Xometry",
+      "url": "https://www.xometry.com/capabilities/cnc-machining-service",
+      "category": "pricing",
+      "page_title": "Custom Online CNC Machining Services - Metal and Plastic Instant Quotes",
+      "summary": "新增板块：Start A New CNC Quote",
+      "details": [],
+      "before": null,
+      "after": null,
+      "added": [
+        "Start A New CNC Quote STEP | STP | SLDPRT | IPT | PRT | SAT files"
+      ],
+      "removed": [],
+      "change_percent": 0.0,
+      "confidence": "high",
+      "published_at": "",
+      "first_seen_at": "2026-08-17T03:43:31+00:00",
+      "discovered_via": "priority"
+    },
+    {
+      "type": "section_added",
+      "priority": "high",
+      "competitor": "Xometry",
+      "url": "https://www.xometry.com/capabilities/cnc-machining-service",
+      "category": "pricing",
+      "page_title": "Custom Online CNC Machining Services - Metal and Plastic Instant Quotes",
+      "summary": "新增板块：CNC Machining Finishes",
+      "details": [],
+      "before": null,
+      "after": null,
+      "added": [
+        "CNC Machining Finishes CNC Machining Finishes"
+      ],
+      "removed": [],
+      "change_percent": 0.0,
+      "confidence": "high",
+      "published_at": "",
+      "first_seen_at": "2026-08-17T03:43:31+00:00",
+      "discovered_via": "priority"
+    },
+    {
+      "type": "section_added",
+      "priority": "high",
+      "competitor": "Xometry",
+      "url": "https://www.xometry.com/capabilities/cnc-machining-service",
+      "category": "pricing",
+      "page_title": "Custom Online CNC Machining Services - Metal and Plastic Instant Quotes",
+      "summary": "新增板块：Standard (As-Milled)",
+      "details": [],
+      "before": null,
+      "after": null,
+      "added": [
+        "Standard (As-Milled) Standard (As-Milled)"
+      ],
+      "removed": [],
+      "change_percent": 0.0,
+      "confidence": "high",
+      "published_at": "",
+      "first_seen_at": "2026-08-17T03:43:31+00:00",
+      "discovered_via": "priority"
+    },
+    {
+      "type": "section_added",
+      "priority": "high",
+      "competitor": "Xometry",
+      "url": "https://www.xometry.com/capabilities/cnc-machining-service",
+      "category": "pricing",
+      "page_title": "Custom Online CNC Machining Services - Metal and Plastic Instant Quotes",
+      "summary": "新增板块：Bead Blast",
+      "details": [],
+      "before": null,
+      "after": null,
+      "added": [
+        "Bead Blast Bead Blast"
+      ],
+      "removed": [],
+      "change_percent": 0.0,
+      "confidence": "high",
+      "published_at": "",
+      "first_seen_at": "2026-08-17T03:43:31+00:00",
+      "discovered_via": "priority"
+    },
+    {
+      "type": "section_added",
+      "priority": "high",
+      "competitor": "Xometry",
+      "url": "https://www.xometry.com/capabilities/cnc-machining-service",
+      "category": "pricing",
+      "page_title": "Custom Online CNC Machining Services - Metal and Plastic Instant Quotes",
+      "summary": "新增板块：Tumbled",
+      "details": [],
+      "before": null,
+      "after": null,
+      "added": [
+        "Tumbled Tumbled"
+      ],
+      "removed": [],
+      "change_percent": 0.0,
+      "confidence": "high",
+      "published_at": "",
+      "first_seen_at": "2026-08-17T03:43:31+00:00",
+      "discovered_via": "priority"
+    },
+    {
+      "type": "section_added",
+      "priority": "high",
+      "competitor": "Xometry",
+      "url": "https://www.xometry.com/capabilities/cnc-machining-service",
+      "category": "pricing",
+      "page_title": "Custom Online CNC Machining Services - Metal and Plastic Instant Quotes",
+      "summary": "新增板块：Anodized (Type II Or Type III)",
+      "details": [],
+      "before": null,
+      "after": null,
+      "added": [
+        "Anodized (Type II Or Type III) Anodized (Type II Or Type III)"
+      ],
+      "removed": [],
+      "change_percent": 0.0,
+      "confidence": "high",
+      "published_at": "",
+      "first_seen_at": "2026-08-17T03:43:31+00:00",
+      "discovered_via": "priority"
+    },
+    {
+      "type": "section_added",
+      "priority": "high",
+      "competitor": "Xometry",
+      "url": "https://www.xometry.com/capabilities/cnc-machining-service",
+      "category": "pricing",
+      "page_title": "Custom Online CNC Machining Services - Metal and Plastic Instant Quotes",
+      "summary": "新增板块：Titanium Anodize",
+      "details": [],
+      "before": null,
+      "after": null,
+      "added": [
+        "Titanium Anodize Titanium Anodize"
+      ],
+      "removed": [],
+      "change_percent": 0.0,
+      "confidence": "high",
+      "published_at": "",
+      "first_seen_at": "2026-08-17T03:43:31+00:00",
+      "discovered_via": "priority"
+    },
+    {
+      "type": "section_added",
+      "priority": "high",
+      "competitor": "Xometry",
+      "url": "https://www.xometry.com/capabilities/cnc-machining-service",
+      "category": "pricing",
+      "page_title": "Custom Online CNC Machining Services - Metal and Plastic Instant Quotes",
+      "summary": "新增板块：PTFE Impregnated Hard Anodize",
+      "details": [],
+      "before": null,
+      "after": null,
+      "added": [
+        "PTFE Impregnated Hard Anodize PTFE Impregnated Hard Anodize"
+      ],
+      "removed": [],
+      "change_percent": 0.0,
+      "confidence": "high",
+      "published_at": "",
+      "first_seen_at": "2026-08-17T03:43:31+00:00",
+      "discovered_via": "priority"
+    },
+    {
+      "type": "section_added",
+      "priority": "high",
+      "competitor": "Xometry",
+      "url": "https://www.xometry.com/capabilities/cnc-machining-service",
+      "category": "pricing",
+      "page_title": "Custom Online CNC Machining Services - Metal and Plastic Instant Quotes",
+      "summary": "新增板块：Chem Film (Chromate Conversion Coating)",
+      "details": [],
+      "before": null,
+      "after": null,
+      "added": [
+        "Chem Film (Chromate Conversion Coating) Chem Film (Chromate Conversion Coating)"
+      ],
+      "removed": [],
+      "change_percent": 0.0,
+      "confidence": "high",
+      "published_at": "",
+      "first_seen_at": "2026-08-17T03:43:31+00:00",
+      "discovered_via": "priority"
+    },
+    {
+      "type": "section_added",
+      "priority": "high",
+      "competitor": "Xometry",
+      "url": "https://www.xometry.com/capabilities/cnc-machining-service",
+      "category": "pricing",
+      "page_title": "Custom Online CNC Machining Services - Metal and Plastic Instant Quotes",
+      "summary": "新增板块：Passivation",
+      "details": [],
+      "before": null,
+      "after": null,
+      "added": [
+        "Passivation Passivation"
+      ],
+      "removed": [],
+      "change_percent": 0.0,
+      "confidence": "high",
+      "published_at": "",
+      "first_seen_at": "2026-08-17T03:43:31+00:00",
+      "discovered_via": "priority"
+    },
+    {
+      "type": "section_added",
+      "priority": "high",
+      "competitor": "Xometry",
+      "url": "https://www.xometry.com/capabilities/cnc-machining-service",
+      "category": "pricing",
+      "page_title": "Custom Online CNC Machining Services - Metal and Plastic Instant Quotes",
+      "summary": "新增板块：Powder Coat",
+      "details": [],
+      "before": null,
+      "after": null,
+      "added": [
+        "Powder Coat Powder Coat"
+      ],
+      "removed": [],
+      "change_percent": 0.0,
+      "confidence": "high",
+      "published_at": "",
+      "first_seen_at": "2026-08-17T03:43:31+00:00",
+      "discovered_via": "priority"
+    },
+    {
+      "type": "section_added",
+      "priority": "high",
+      "competitor": "Xometry",
+      "url": "https://www.xometry.com/capabilities/cnc-machining-service",
+      "category": "pricing",
+      "page_title": "Custom Online CNC Machining Services - Metal and Plastic Instant Quotes",
+      "summary": "新增板块：Cerakote",
+      "details": [],
+      "before": null,
+      "after": null,
+      "added": [
+        "Cerakote Cerakote"
+      ],
+      "removed": [],
+      "change_percent": 0.0,
+      "confidence": "high",
+      "published_at": "",
+      "first_seen_at": "2026-08-17T03:43:31+00:00",
+      "discovered_via": "priority"
+    },
+    {
+      "type": "section_removed",
+      "priority": "high",
+      "competitor": "Xometry",
+      "url": "https://www.xometry.com/capabilities/cnc-machining-service",
+      "category": "pricing",
+      "page_title": "Custom Online CNC Machining Services - Metal and Plastic Instant Quotes",
+      "summary": "删除板块：CNC Machining Built for Speed and Scale",
+      "details": [],
+      "before": null,
+      "after": null,
+      "added": [],
+      "removed": [
+        "CNC Machining Built for Speed and Scale CNC Machining Built for Speed and Scale"
+      ],
+      "change_percent": 0.0,
+      "confidence": "high",
+      "published_at": "",
+      "first_seen_at": "2026-08-17T03:43:31+00:00",
+      "discovered_via": "priority"
+    },
+    {
+      "type": "section_removed",
+      "priority": "high",
+      "competitor": "Xometry",
+      "url": "https://www.xometry.com/capabilities/cnc-machining-service",
+      "category": "pricing",
+      "page_title": "Custom Online CNC Machining Services - Metal and Plastic Instant Quotes",
+      "summary": "删除板块：Instant Pricing",
+      "details": [],
+      "before": null,
+      "after": null,
+      "added": [],
+      "removed": [
+        "Instant Pricing We offer instant quotes on custom machining services, from quick-turn to high-volume machining. Get an Instant Quote"
+      ],
+      "change_percent": 0.0,
+      "confidence": "high",
+      "published_at": "",
+      "first_seen_at": "2026-08-17T03:43:31+00:00",
+      "discovered_via": "priority"
+    },
+    {
+      "type": "section_removed",
+      "priority": "high",
+      "competitor": "Xometry",
+      "url": "https://www.xometry.com/capabilities/cnc-machining-service",
+      "category": "pricing",
+      "page_title": "Custom Online CNC Machining Services - Metal and Plastic Instant Quotes",
+      "summary": "删除板块：Rapid Turnaround",
+      "details": [],
+      "before": null,
+      "after": null,
+      "added": [],
+      "removed": [
+        "Rapid Turnaround Competitive lead times and expedited delivery options for parts of any complexity. Shipments in as little as 1 business day."
+      ],
+      "change_percent": 0.0,
+      "confidence": "high",
+      "published_at": "",
+      "first_seen_at": "2026-08-17T03:43:31+00:00",
+      "discovered_via": "priority"
+    },
+    {
+      "type": "section_removed",
+      "priority": "high",
+      "competitor": "Xometry",
+      "url": "https://www.xometry.com/capabilities/cnc-machining-service",
+      "category": "pricing",
+      "page_title": "Custom Online CNC Machining Services - Metal and Plastic Instant Quotes",
+      "summary": "删除板块：Machined to Spec",
+      "details": [],
+      "before": null,
+      "after": null,
+      "added": [],
+      "removed": [
+        "Machined to Spec Get verified sub ±0.001\" tolerances on your most critical components, backed by our state-of-the-art metrology labs."
+      ],
+      "change_percent": 0.0,
+      "confidence": "high",
+      "published_at": "",
+      "first_seen_at": "2026-08-17T03:43:31+00:00",
+      "discovered_via": "priority"
+    },
+    {
+      "type": "section_removed",
+      "priority": "high",
+      "competitor": "Xometry",
+      "url": "https://www.xometry.com/capabilities/cnc-machining-service",
+      "category": "pricing",
+      "page_title": "Custom Online CNC Machining Services - Metal and Plastic Instant Quotes",
+      "summary": "删除板块：Built for Scaling",
+      "details": [],
+      "before": null,
+      "after": null,
+      "added": [],
+      "removed": [
+        "Built for Scaling Without switching platforms, you can go from CNC machined rapid prototypes to full production runs."
+      ],
+      "change_percent": 0.0,
+      "confidence": "high",
+      "published_at": "",
+      "first_seen_at": "2026-08-17T03:43:31+00:00",
+      "discovered_via": "priority"
+    },
+    {
+      "type": "section_removed",
+      "priority": "high",
+      "competitor": "Xometry",
+      "url": "https://www.xometry.com/capabilities/cnc-machining-service",
+      "category": "pricing",
+      "page_title": "Custom Online CNC Machining Services - Metal and Plastic Instant Quotes",
+      "summary": "删除板块：On this page",
+      "details": [],
+      "before": null,
+      "after": null,
+      "added": [],
+      "removed": [
+        "On this page Overview Services Materials Applications Tolerances Finishes About CNC Machining Design Guide CNC FAQs Case Studies"
+      ],
+      "change_percent": 0.0,
+      "confidence": "high",
+      "published_at": "",
+      "first_seen_at": "2026-08-17T03:43:31+00:00",
+      "discovered_via": "priority"
+    },
+    {
+      "type": "section_removed",
+      "priority": "high",
+      "competitor": "Xometry",
+      "url": "https://www.xometry.com/capabilities/cnc-machining-service",
+      "category": "pricing",
+      "page_title": "Custom Online CNC Machining Services - Metal and Plastic Instant Quotes",
+      "summary": "删除板块：Lock in Your Price Today",
+      "details": [],
+      "before": null,
+      "after": null,
+      "added": [],
+      "removed": [
+        "Lock in Your Price Today Lock in Your Price Today"
+      ],
+      "change_percent": 0.0,
+      "confidence": "high",
+      "published_at": "",
+      "first_seen_at": "2026-08-17T03:43:31+00:00",
+      "discovered_via": "priority"
+    },
+    {
+      "type": "section_removed",
+      "priority": "high",
+      "competitor": "Xometry",
+      "url": "https://www.xometry.com/capabilities/cnc-machining-service",
+      "category": "pricing",
+      "page_title": "Custom Online CNC Machining Services - Metal and Plastic Instant Quotes",
+      "summary": "删除板块：Custom CNC Milling Services",
+      "details": [],
+      "before": null,
+      "after": null,
+      "added": [],
+      "removed": [
+        "Custom CNC Milling Services Instant quotes on custom milled metal and plastic parts | Quick-turn prototypes and production parts in days | Free standard shipping on all US orders | International prototype pricing includes tariffs | ISO 9001:2015, ISO 13485, IATF 16949:2016, AS9100D certified. ITAR registered. Start Your New Instant Quote Learn More"
+      ],
+      "change_percent": 0.0,
+      "confidence": "high",
+      "published_at": "",
+      "first_seen_at": "2026-08-17T03:43:31+00:00",
+      "discovered_via": "priority"
+    },
+    {
+      "type": "section_removed",
+      "priority": "high",
+      "competitor": "Xometry",
+      "url": "https://www.xometry.com/capabilities/cnc-machining-service",
+      "category": "pricing",
+      "page_title": "Custom Online CNC Machining Services - Metal and Plastic Instant Quotes",
+      "summary": "删除板块：CNC Turning Service",
+      "details": [],
+      "before": null,
+      "after": null,
+      "added": [],
+      "removed": [
+        "CNC Turning Service Instant quotes on custom metal and plastic turned parts | Quick-turn prototypes and production parts in days | Free standard shipping on all US orders | International prototype pricing includes tariffs | ISO 9001:2015, ISO 13485, IATF 16949:2016, AS9100D certified. ITAR registered. Start Your New Instant Quote Learn More"
+      ],
+      "change_percent": 0.0,
+      "confidence": "high",
+      "published_at": "",
+      "first_seen_at": "2026-08-17T03:43:31+00:00",
+      "discovered_via": "priority"
+    },
+    {
+      "type": "section_removed",
+      "priority": "high",
+      "competitor": "Xometry",
+      "url": "https://www.xometry.com/capabilities/cnc-machining-service",
+      "category": "pricing",
+      "page_title": "Custom Online CNC Machining Services - Metal and Plastic Instant Quotes",
+      "summary": "删除板块：CNC Routing Services by Xometry",
+      "details": [],
+      "before": null,
+      "after": null,
+      "added": [],
+      "removed": [
+        "CNC Routing Services by Xometry Get quotes on custom parts with our Online CNC Routing Service. Make quick turn prototypes and production parts in days with free standard shipping on all US orders. ISO 9001:2015, ISO 13485, IATF 16949:2016, and AS9100D certified. ITAR registered. Start Your New Quote Learn More"
+      ],
+      "change_percent": 0.0,
+      "confidence": "high",
+      "published_at": "",
+      "first_seen_at": "2026-08-17T03:43:31+00:00",
+      "discovered_via": "priority"
+    },
+    {
+      "type": "section_removed",
+      "priority": "high",
+      "competitor": "Xometry",
+      "url": "https://www.xometry.com/capabilities/cnc-machining-service",
+      "category": "pricing",
+      "page_title": "Custom Online CNC Machining Services - Metal and Plastic Instant Quotes",
+      "summary": "删除板块：High Volume CNC Machining Services by Xometry",
+      "details": [],
+      "before": null,
+      "after": null,
+      "added": [],
+      "removed": [
+        "High Volume CNC Machining Services by Xometry High Volume CNC Machined prototypes and production parts in days | AS9100D | ISO 9001:2015 | ISO 13485 | IATF 16949:2016 | ITAR Registered | Free standard shipping on all US orders Start A New CNC Machining Project Learn More"
+      ],
+      "change_percent": 0.0,
+      "confidence": "high",
+      "published_at": "",
+      "first_seen_at": "2026-08-17T03:43:31+00:00",
+      "discovered_via": "priority"
+    },
+    {
+      "type": "section_removed",
+      "priority": "high",
+      "competitor": "Xometry",
+      "url": "https://www.xometry.com/capabilities/cnc-machining-service",
+      "category": "pricing",
+      "page_title": "Custom Online CNC Machining Services - Metal and Plastic Instant Quotes",
+      "summary": "删除板块：CNC Machining Applications",
+      "details": [],
+      "before": null,
+      "after": null,
+      "added": [],
+      "removed": [
+        "CNC Machining Applications CNC Machining Applications"
+      ],
+      "change_percent": 0.0,
+      "confidence": "high",
+      "published_at": "",
+      "first_seen_at": "2026-08-17T03:43:31+00:00",
+      "discovered_via": "priority"
+    },
+    {
+      "type": "section_copy_changed",
+      "priority": "high",
+      "competitor": "Xometry",
+      "url": "https://www.xometry.com/capabilities/cnc-machining-service",
+      "category": "pricing",
+      "page_title": "Custom Online CNC Machining Services - Metal and Plastic Instant Quotes",
+      "summary": "板块文案更新：Custom Online CNC Machining Services",
+      "details": [],
+      "before": "Custom Online CNC Machining Services Custom Online CNC Machining Services",
+      "after": "Custom Online CNC Machining Services Instant quotes on custom metal and plastic machined parts | Quick turn prototypes and production parts in days | Free standard shipping on all US orders | International prototype pricing includes tariffs | ISO 9001:2015, ISO 13485, IATF 16949:2016, AS9100D certified. ITAR registered. See How It Works",
+      "added": [
+        "Instant quotes on custom metal and plastic machined parts | Quick turn prototypes and production parts in days | Free standard shipping on all US orders | International prototype pricing includes tariffs | ISO 9001:2015, ISO 13485, IATF 16949:2016, AS9100D certified. ITAR registered. See How It Works"
+      ],
+      "removed": [
+        "Custom Online CNC Machining Services"
+      ],
+      "change_percent": 100.0,
+      "confidence": "high",
+      "published_at": "",
+      "first_seen_at": "2026-08-17T03:43:31+00:00",
+      "discovered_via": "priority"
+    },
+    {
+      "type": "section_copy_changed",
+      "priority": "high",
+      "competitor": "Xometry",
+      "url": "https://www.xometry.com/capabilities/cnc-machining-service",
+      "category": "pricing",
+      "page_title": "Custom Online CNC Machining Services - Metal and Plastic Instant Quotes",
+      "summary": "板块文案更新：Custom CNC Machining Services: Machining, Turning, Milling, and Routing",
+      "details": [],
+      "before": "Custom CNC Machining Services: Machining, Turning, Milling, and Routing Custom CNC Machining Services: Machining, Turning, Milling, and Routing",
+      "after": "Custom CNC Machining Services: Machining, Turning, Milling, and Routing Custom CNC Milling Services Instant quotes on custom milled metal and plastic parts | Quick-turn prototypes and production parts in days | Free standard shipping on all US orders | International prototype pricing includes tariffs | ISO 9001:2015, ISO 13485, IATF 16949:2016, AS9100D certified. ITAR registered. Start Your New Instant Quote Custom CNC Milling Services CNC Turning Service Instant quotes on custom metal and plastic turned parts | Quick-turn prototypes and production parts in days | Free standard shipping on all US orders | International prototype pricing includes tariffs | ISO 9001:2015, ISO 13485, IATF 16949:2016, AS9100D certified. ITAR registered. Start Your New Instant Quote CNC Turning Service CNC Routing Services by Xometry Get quotes on custom parts with our Online CNC Routing Service. Make quick turn prototypes and production parts in days with free standard shipping on all US orders. ISO 9001:2015, ISO 13485, IATF 16949:2016, and AS9100D certified. ITAR registered. Start Your New Quote CNC Routing Services by Xometry High Volume CNC Machining Services by Xometry High Volume CNC Machined pr...",
+      "added": [
+        "Milling Services Instant quotes on custom milled metal and plastic parts | Quick-turn prototypes and production parts in days | Free standard shipping on all US orders | International prototype pricing includes tariffs | ISO 9001:2015, ISO 13485, IATF 16949:2016, AS9100D certified. ITAR registered. Start Your New Instant Quote Custom CNC Milling Services CN...",
+        "Services by Xometry High Volume CNC Machined pr..."
+      ],
+      "removed": [
+        "Services: Machining, Turning, Milling, and Routing"
+      ],
+      "change_percent": 96.7,
+      "confidence": "high",
+      "published_at": "",
+      "first_seen_at": "2026-08-17T03:43:31+00:00",
+      "discovered_via": "priority"
+    },
+    {
+      "type": "visual_changed",
+      "priority": "high",
+      "competitor": "Xometry",
+      "url": "https://www.xometry.com/capabilities/cnc-machining-service",
+      "category": "pricing",
+      "page_title": "Custom Online CNC Machining Services - Metal and Plastic Instant Quotes",
+      "summary": "desktop 视图出现明显 UI/布局变化",
+      "details": [
+        "视口：desktop",
+        "RMS 差异：116.70",
+        "变化像素占比：17.41%",
+        "页面截图高度变化：-1933px"
+      ],
+      "before": null,
+      "after": null,
+      "added": [],
+      "removed": [],
+      "change_percent": 0.0,
+      "confidence": "high",
+      "published_at": "",
+      "first_seen_at": "2026-08-17T03:43:31+00:00",
+      "discovered_via": "priority"
+    },
+    {
+      "type": "visual_changed",
+      "priority": "high",
+      "competitor": "Xometry",
+      "url": "https://www.xometry.com/capabilities/cnc-machining-service",
+      "category": "pricing",
+      "page_title": "Custom Online CNC Machining Services - Metal and Plastic Instant Quotes",
+      "summary": "mobile 视图出现明显 UI/布局变化",
+      "details": [
+        "视口：mobile",
+        "RMS 差异：163.30",
+        "变化像素占比：34.85%",
+        "页面截图高度变化：-6665px"
+      ],
+      "before": null,
+      "after": null,
+      "added": [],
+      "removed": [],
+      "change_percent": 0.0,
+      "confidence": "high",
+      "published_at": "",
+      "first_seen_at": "2026-08-17T03:43:31+00:00",
+      "discovered_via": "priority"
+    },
+    {
+      "type": "visual_changed",
+      "priority": "medium",
+      "competitor": "CNCLATHING",
+      "url": "https://www.cnclathing.com/cnc-machining-services",
+      "category": "service",
+      "page_title": "CNC Machining Services & Precision Machined Parts Manufacturer - Online Rapid China CNC Machining Metal Company",
+      "summary": "desktop 视图出现明显 UI/布局变化",
+      "details": [
+        "视口：desktop",
+        "RMS 差异：118.06",
+        "变化像素占比：18.78%",
+        "页面截图高度变化：-290px"
+      ],
+      "before": null,
+      "after": null,
+      "added": [],
+      "removed": [],
+      "change_percent": 0.0,
+      "confidence": "high",
+      "published_at": "",
+      "first_seen_at": "2026-08-17T03:54:54+00:00",
+      "discovered_via": "sitemap"
+    },
+    {
+      "type": "visual_changed",
+      "priority": "medium",
+      "competitor": "CNCLATHING",
+      "url": "https://www.cnclathing.com/cnc-machining-services",
+      "category": "service",
+      "page_title": "CNC Machining Services & Precision Machined Parts Manufacturer - Online Rapid China CNC Machining Metal Company",
+      "summary": "mobile 视图出现明显 UI/布局变化",
+      "details": [
+        "视口：mobile",
+        "RMS 差异：144.84",
+        "变化像素占比：26.20%",
+        "页面截图高度变化：-2437px"
+      ],
+      "before": null,
+      "after": null,
+      "added": [],
+      "removed": [],
+      "change_percent": 0.0,
+      "confidence": "high",
+      "published_at": "",
+      "first_seen_at": "2026-08-17T03:54:54+00:00",
+      "discovered_via": "sitemap"
+    },
+    {
+      "type": "visual_changed",
+      "priority": "medium",
+      "competitor": "Fictiv",
+      "url": "https://www.fictiv.com/",
+      "category": "service",
+      "page_title": "Fictiv: Sourcing Simplified for Custom Manufacturing Services",
+      "summary": "desktop 视图出现明显 UI/布局变化",
+      "details": [
+        "视口：desktop",
+        "RMS 差异：78.37",
+        "变化像素占比：9.34%"
+      ],
+      "before": null,
+      "after": null,
+      "added": [],
+      "removed": [],
+      "change_percent": 0.0,
+      "confidence": "high",
+      "published_at": "2020-09-09T21:32:10+00:00",
+      "first_seen_at": "2026-08-17T03:45:18+00:00",
+      "discovered_via": "feed"
+    },
+    {
+      "type": "h1_changed",
+      "priority": "medium",
+      "competitor": "Hubs",
+      "url": "https://www.hubs.com/cnc-machining",
+      "category": "service",
+      "page_title": "Online CNC Machining Service : Custom part production",
+      "summary": "H1 标题发生变化",
+      "details": [],
+      "before": "CNC machining service online",
+      "after": "Online CNC machining service",
+      "added": [
+        "Online"
+      ],
+      "removed": [
+        "online"
+      ],
+      "change_percent": 50.0,
+      "confidence": "high",
+      "published_at": "2018-07-03T23:03:51+00:00",
+      "first_seen_at": "2026-08-17T03:41:06+00:00",
+      "discovered_via": "sitemap"
+    },
+    {
+      "type": "headings_changed",
+      "priority": "medium",
+      "competitor": "Hubs",
+      "url": "https://www.hubs.com/cnc-machining",
+      "category": "service",
+      "page_title": "Online CNC Machining Service : Custom part production",
+      "summary": "页面标题结构发生变化",
+      "details": [],
+      "before": null,
+      "after": null,
+      "added": [
+        "H1 Online CNC machining service",
+        "H2 Auto-quoted prices without surprises",
+        "H2 Order custom parts through a vetted global network of machine shops",
+        "H3 Configure and place your order",
+        "H3 Receive parts to spec",
+        "H3 Upload CAD files"
+      ],
+      "removed": [
+        "H1 CNC machining service online"
+      ],
+      "change_percent": 0.0,
+      "confidence": "high",
+      "published_at": "2018-07-03T23:03:51+00:00",
+      "first_seen_at": "2026-08-17T03:41:06+00:00",
+      "discovered_via": "sitemap"
+    },
+    {
+      "type": "ctas_changed",
+      "priority": "medium",
+      "competitor": "Hubs",
+      "url": "https://www.hubs.com/cnc-machining",
+      "category": "service",
+      "page_title": "Online CNC Machining Service : Custom part production",
+      "summary": "CTA发生变化",
+      "details": [],
+      "before": null,
+      "after": null,
+      "added": [
+        "Get an instant quote -> https://www.hubs.com/manufacture?technology=cnc-machining"
+      ],
+      "removed": [
+        "Get instant CNC machining quote -> https://www.hubs.com/manufacture?technology=cnc-machining"
+      ],
+      "change_percent": 0.0,
+      "confidence": "high",
+      "published_at": "2018-07-03T23:03:51+00:00",
+      "first_seen_at": "2026-08-17T03:41:06+00:00",
+      "discovered_via": "sitemap"
+    },
+    {
+      "type": "section_added",
+      "priority": "medium",
+      "competitor": "Hubs",
+      "url": "https://www.hubs.com/cnc-machining",
+      "category": "service",
+      "page_title": "Online CNC Machining Service : Custom part production",
+      "summary": "新增板块：Online CNC machining service",
+      "details": [],
+      "before": null,
+      "after": null,
+      "added": [
+        "Online CNC machining service For rapid prototyping and production parts — get a quote in seconds and receive custom machined parts in days. Get an instant quote All uploads are secure and confidential"
+      ],
+      "removed": [],
+      "change_percent": 0.0,
+      "confidence": "high",
+      "published_at": "2018-07-03T23:03:51+00:00",
+      "first_seen_at": "2026-08-17T03:41:06+00:00",
+      "discovered_via": "sitemap"
+    },
+    {
+      "type": "section_added",
+      "priority": "medium",
+      "competitor": "Hubs",
+      "url": "https://www.hubs.com/cnc-machining",
+      "category": "service",
+      "page_title": "Online CNC Machining Service : Custom part production",
+      "summary": "新增板块：Order custom parts through a vetted global network of machine shops",
+      "details": [],
+      "before": null,
+      "after": null,
+      "added": [
+        "Order custom parts through a vetted global network of machine shops Upload CAD files Catch machinability issues instantly with our free DfM tool, and see live prices for every part. Configure and place your order Set materials, finishes and lead times per part. We automatically match your order to the best-suited partner in our network. Receive parts to spe..."
+      ],
+      "removed": [],
+      "change_percent": 0.0,
+      "confidence": "high",
+      "published_at": "2018-07-03T23:03:51+00:00",
+      "first_seen_at": "2026-08-17T03:41:06+00:00",
+      "discovered_via": "sitemap"
+    },
+    {
+      "type": "section_added",
+      "priority": "medium",
+      "competitor": "Hubs",
+      "url": "https://www.hubs.com/cnc-machining",
+      "category": "service",
+      "page_title": "Online CNC Machining Service : Custom part production",
+      "summary": "新增板块：Upload CAD files",
+      "details": [],
+      "before": null,
+      "after": null,
+      "added": [
+        "Upload CAD files Catch machinability issues instantly with our free DfM tool, and see live prices for every part."
+      ],
+      "removed": [],
+      "change_percent": 0.0,
+      "confidence": "high",
+      "published_at": "2018-07-03T23:03:51+00:00",
+      "first_seen_at": "2026-08-17T03:41:06+00:00",
+      "discovered_via": "sitemap"
+    },
+    {
+      "type": "section_added",
+      "priority": "medium",
+      "competitor": "Hubs",
+      "url": "https://www.hubs.com/cnc-machining",
+      "category": "service",
+      "page_title": "Online CNC Machining Service : Custom part production",
+      "summary": "新增板块：Configure and place your order",
+      "details": [],
+      "before": null,
+      "after": null,
+      "added": [
+        "Configure and place your order Set materials, finishes and lead times per part. We automatically match your order to the best-suited partner in our network."
+      ],
+      "removed": [],
+      "change_percent": 0.0,
+      "confidence": "high",
+      "published_at": "2018-07-03T23:03:51+00:00",
+      "first_seen_at": "2026-08-17T03:41:06+00:00",
+      "discovered_via": "sitemap"
+    },
+    {
+      "type": "section_added",
+      "priority": "medium",
+      "competitor": "Hubs",
+      "url": "https://www.hubs.com/cnc-machining",
+      "category": "service",
+      "page_title": "Online CNC Machining Service : Custom part production",
+      "summary": "新增板块：Receive parts to spec",
+      "details": [],
+      "before": null,
+      "after": null,
+      "added": [
+        "Receive parts to spec Every part gets a full visual and dimensional inspection, and global orders get a second review at our cross-docks."
+      ],
+      "removed": [],
+      "change_percent": 0.0,
+      "confidence": "high",
+      "published_at": "2018-07-03T23:03:51+00:00",
+      "first_seen_at": "2026-08-17T03:41:06+00:00",
+      "discovered_via": "sitemap"
+    },
+    {
+      "type": "section_added",
+      "priority": "medium",
+      "competitor": "Hubs",
+      "url": "https://www.hubs.com/cnc-machining",
+      "category": "service",
+      "page_title": "Online CNC Machining Service : Custom part production",
+      "summary": "新增板块：Auto-quoted prices without surprises",
+      "details": [],
+      "before": null,
+      "after": null,
+      "added": [
+        "Auto-quoted prices without surprises We handle taxes, duties and customs clearance—the price you see is final. Get an instant quote"
+      ],
+      "removed": [],
+      "change_percent": 0.0,
+      "confidence": "high",
+      "published_at": "2018-07-03T23:03:51+00:00",
+      "first_seen_at": "2026-08-17T03:41:06+00:00",
+      "discovered_via": "sitemap"
+    },
+    {
+      "type": "section_removed",
+      "priority": "medium",
+      "competitor": "Hubs",
+      "url": "https://www.hubs.com/cnc-machining",
+      "category": "service",
+      "page_title": "Online CNC Machining Service : Custom part production",
+      "summary": "删除板块：CNC machining service online",
+      "details": [],
+      "before": null,
+      "after": null,
+      "added": [],
+      "removed": [
+        "CNC machining service online On-demand CNC machining service for rapid prototyping and production parts, through a network of specialized, experienced and thoroughly vetted local and global CNC machine shops. Get instant CNC machining quote All uploads are secure and confidential"
+      ],
+      "change_percent": 0.0,
+      "confidence": "high",
+      "published_at": "2018-07-03T23:03:51+00:00",
+      "first_seen_at": "2026-08-17T03:41:06+00:00",
+      "discovered_via": "sitemap"
+    },
+    {
+      "type": "section_removed",
+      "priority": "medium",
+      "competitor": "Hubs",
+      "url": "https://www.hubs.com/cnc-machining",
+      "category": "service",
+      "page_title": "Online CNC Machining Service : Custom part production",
+      "summary": "删除板块：14 proven design tips to reduce the cost of CNC machining",
+      "details": [],
+      "before": null,
+      "after": null,
+      "added": [],
+      "removed": [
+        "14 proven design tips to reduce the cost of CNC machining Read article 14 proven design tips to reduce the cost of CNC machining Read article"
+      ],
+      "change_percent": 0.0,
+      "confidence": "high",
+      "published_at": "2018-07-03T23:03:51+00:00",
+      "first_seen_at": "2026-08-17T03:41:06+00:00",
+      "discovered_via": "sitemap"
+    },
+    {
+      "type": "section_removed",
+      "priority": "medium",
+      "competitor": "Hubs",
+      "url": "https://www.hubs.com/cnc-machining",
+      "category": "service",
+      "page_title": "Online CNC Machining Service : Custom part production",
+      "summary": "删除板块：How to prepare a technical drawing for CNC machining",
+      "details": [],
+      "before": null,
+      "after": null,
+      "added": [],
+      "removed": [
+        "How to prepare a technical drawing for CNC machining Read article How to prepare a technical drawing for CNC machining Read article"
+      ],
+      "change_percent": 0.0,
+      "confidence": "high",
+      "published_at": "2018-07-03T23:03:51+00:00",
+      "first_seen_at": "2026-08-17T03:41:06+00:00",
+      "discovered_via": "sitemap"
+    },
+    {
+      "type": "section_removed",
+      "priority": "medium",
+      "competitor": "Hubs",
+      "url": "https://www.hubs.com/cnc-machining",
+      "category": "service",
+      "page_title": "Online CNC Machining Service : Custom part production",
+      "summary": "删除板块：How do you select the right materials for CNC machining?",
+      "details": [],
+      "before": null,
+      "after": null,
+      "added": [],
+      "removed": [
+        "How do you select the right materials for CNC machining? Read article How do you select the right materials for CNC machining? Read article"
+      ],
+      "change_percent": 0.0,
+      "confidence": "high",
+      "published_at": "2018-07-03T23:03:51+00:00",
+      "first_seen_at": "2026-08-17T03:41:06+00:00",
+      "discovered_via": "sitemap"
+    },
+    {
+      "type": "section_removed",
+      "priority": "medium",
+      "competitor": "Hubs",
+      "url": "https://www.hubs.com/cnc-machining",
+      "category": "service",
+      "page_title": "Online CNC Machining Service : Custom part production",
+      "summary": "删除板块：What are the types of surface finishes for CNC machining?",
+      "details": [],
+      "before": null,
+      "after": null,
+      "added": [],
+      "removed": [
+        "What are the types of surface finishes for CNC machining? Read article What are the types of surface finishes for CNC machining? Read article"
+      ],
+      "change_percent": 0.0,
+      "confidence": "high",
+      "published_at": "2018-07-03T23:03:51+00:00",
+      "first_seen_at": "2026-08-17T03:41:06+00:00",
+      "discovered_via": "sitemap"
+    },
+    {
+      "type": "section_removed",
+      "priority": "medium",
+      "competitor": "Hubs",
+      "url": "https://www.hubs.com/cnc-machining",
+      "category": "service",
+      "page_title": "Online CNC Machining Service : Custom part production",
+      "summary": "删除板块：What is heat treatment and how does it improve CNC-machined parts?",
+      "details": [],
+      "before": null,
+      "after": null,
+      "added": [],
+      "removed": [
+        "What is heat treatment and how does it improve CNC-machined parts? Read article What is heat treatment and how does it improve CNC-machined parts? Read article"
+      ],
+      "change_percent": 0.0,
+      "confidence": "high",
+      "published_at": "2018-07-03T23:03:51+00:00",
+      "first_seen_at": "2026-08-17T03:41:06+00:00",
+      "discovered_via": "sitemap"
+    },
+    {
+      "type": "visual_changed",
+      "priority": "medium",
+      "competitor": "Hubs",
+      "url": "https://www.hubs.com/cnc-machining",
+      "category": "service",
+      "page_title": "Online CNC Machining Service : Custom part production",
+      "summary": "desktop 视图出现明显 UI/布局变化",
+      "details": [
+        "视口：desktop",
+        "RMS 差异：129.66",
+        "变化像素占比：13.87%",
+        "页面截图高度变化：+1985px"
+      ],
+      "before": null,
+      "after": null,
+      "added": [],
+      "removed": [],
+      "change_percent": 0.0,
+      "confidence": "high",
+      "published_at": "2018-07-03T23:03:51+00:00",
+      "first_seen_at": "2026-08-17T03:41:06+00:00",
+      "discovered_via": "sitemap"
+    },
+    {
+      "type": "visual_changed",
+      "priority": "medium",
+      "competitor": "Hubs",
+      "url": "https://www.hubs.com/cnc-machining",
+      "category": "service",
+      "page_title": "Online CNC Machining Service : Custom part production",
+      "summary": "mobile 视图出现明显 UI/布局变化",
+      "details": [
+        "视口：mobile",
+        "RMS 差异：131.80",
+        "变化像素占比：18.33%",
+        "页面截图高度变化：+964px"
+      ],
+      "before": null,
+      "after": null,
+      "added": [],
+      "removed": [],
+      "change_percent": 0.0,
+      "confidence": "high",
+      "published_at": "2018-07-03T23:03:51+00:00",
+      "first_seen_at": "2026-08-17T03:41:06+00:00",
+      "discovered_via": "sitemap"
+    },
+    {
+      "type": "visual_changed",
+      "priority": "medium",
+      "competitor": "JLC CNC",
+      "url": "https://jlccnc.com/",
+      "category": "service",
+      "page_title": "Online CNC Machining Service - JLCCNC",
+      "summary": "desktop 视图出现明显 UI/布局变化",
+      "details": [
+        "视口：desktop",
+        "RMS 差异：47.35",
+        "变化像素占比：3.42%"
+      ],
+      "before": null,
+      "after": null,
+      "added": [],
+      "removed": [],
+      "change_percent": 0.0,
+      "confidence": "high",
+      "published_at": "2026-09-15T00:00:00+00:00",
+      "first_seen_at": "2026-08-17T03:49:31+00:00",
+      "discovered_via": "priority"
+    },
+    {
+      "type": "visual_changed",
+      "priority": "medium",
+      "competitor": "JLC CNC",
+      "url": "https://jlccnc.com/",
+      "category": "service",
+      "page_title": "Online CNC Machining Service - JLCCNC",
+      "summary": "mobile 视图出现明显 UI/布局变化",
+      "details": [
+        "视口：mobile",
+        "RMS 差异：61.29",
+        "变化像素占比：4.04%"
+      ],
+      "before": null,
+      "after": null,
+      "added": [],
+      "removed": [],
+      "change_percent": 0.0,
+      "confidence": "high",
+      "published_at": "2026-09-15T00:00:00+00:00",
+      "first_seen_at": "2026-08-17T03:49:31+00:00",
+      "discovered_via": "priority"
+    },
+    {
+      "type": "section_copy_changed",
+      "priority": "medium",
+      "competitor": "PCBWay",
+      "url": "https://www.pcbway.com/",
+      "category": "homepage",
+      "page_title": "China PCB Prototype & Fabrication Manufacturer - PCB Prototype the Easy Way",
+      "summary": "板块文案更新：Affordable Prototype PCB Manufacturer in China",
+      "details": [],
+      "before": "Affordable Prototype PCB Manufacturer in China Last 30 days: 98627 Today's new order: 2442 Latest orders Date Buyer name Lead Time Progress 11-06 *** 9-10 days 40% 11-06 *** 4-5 days 31% 11-06 J****ns 3-4 days 23% 11-06 *** 4-5 days 38% 11-06 t****gy 24hours 18% 11-06 H****ey 6-7 days 25% 11-06 N****od 3-4 days 23% 11-06 *** 24hours 47% 11-06 *** 4-5 days 38% 11-06 L****do 3-4 days 31% 11-06 R****me 6-7 days 33% 11-06 *** 24hours 18% 11-06 M****It 24hours 17% 11-06 S****ah 12-13 days 17% 11-06 F****ri 4-5 days 27% 11-06 S****to 4-5 days 28% 11-06 Z****er 4-5 days 31% 11-06 G****ia 6-7 days 33% 11-06 *** 4-5 days 28% 11-06 R****si 24hours 17%",
+      "after": "Affordable Prototype PCB Manufacturer in China Last 30 days: 98720 Today's new order: 2017 Latest orders Date Buyer name Lead Time Progress 11-07 W****ad 5-6 days 20% 11-07 N****li 6-7 days 39% 11-07 *** 4-5 days 38% 11-07 *** 4-5 days 31% 11-07 *** 7-8 days 45% 11-07 *** 5-6 days 18% 11-07 M****er 3-4 days 29% 11-07 *** 7-8 days 28% 11-07 *** 4-5 days 38% 11-07 M****ux 20-21 days 22% 11-07 *** 24hours 45% 11-07 *** 24hours 45% 11-07 *** 3-4 days 18% 11-07 *** 3-4 days 22% 11-07 G****ev 24hours 11% 11-07 W****ad 5-6 days 37% 11-07 t****gy 24hours 37% 11-07 D****er 8-9 days 11% 11-07 C****en 5-6 days 23% 11-07 *** 24hours 18%",
+      "added": [
+        "98720",
+        "2017",
+        "11-07 W****ad 5-6 days 20% 11-07 N****li 6-7 days 39% 11-07",
+        "4-5",
+        "38% 11-07"
+      ],
+      "removed": [
+        "98627",
+        "2442",
+        "11-06",
+        "9-10",
+        "40% 11-06"
+      ],
+      "change_percent": 131.62,
+      "confidence": "high",
+      "published_at": "2026-11-07T00:00:00+00:00",
+      "first_seen_at": "2026-08-17T03:51:10+00:00",
+      "discovered_via": "priority"
+    },
+    {
+      "type": "section_copy_changed",
+      "priority": "medium",
+      "competitor": "PCBWay",
+      "url": "https://www.pcbway.com/rapid-prototyping/3D-Printing/3D-Printing-DLP.html",
+      "category": "service",
+      "page_title": "Digital Light Processing (DLP) 3D Printing Service | Instant Quoting - PCBWay",
+      "summary": "板块文案更新：Customer reviews about 3D printing Service",
+      "details": [],
+      "before": "Customer reviews about 3D printing Service ABS Everything was wrapped nicely, no broken parts, prints were good. <dynamic-value> Nov 05,2026 UTR-8100 (transparent) Beadle Eye Parts came out PERFECT! I was really happy with the color and finish. I greatly appreciated the level of attention and care given to these parts specifically. I may need to produce more soon, So I... <dynamic-value> Nov 03,2026 UTR-8100 (transparent) Beadle Eye Parts came out PERFECT! I was really happy with the color and finish. I greatly appreciated the level of attention and care given to these parts specifically. I may need to produce more soon, So I... <dynamic-value> Nov 03,2026 UTR-8100 (transparent) Beadle Eye Parts came out PERFECT, they came in the package pre supported for proper printing and security. thank you for keeping these parts safe!!! I was really happy with the color and finish. I greatly a... <dynamic-value> Nov 03,2026 UTR-8100 (transparent) Beadle Eye Parts came out PERFECT! I was really happy with the color and finish. I greatly appreciated the level of attention and care given to these parts specifically. I may need to produce more soon, So I... <dynamic-value> Nov 03,2026 UTR-8100 (...",
+      "after": "Customer reviews about 3D printing Service PA12 Frankland Thank you. <dynamic-value> Nov 07,2026 PA12 Frankland Thank you. <dynamic-value> Nov 07,2026 ABS Everything was wrapped nicely, no broken parts, prints were good. <dynamic-value> Nov 05,2026 UTR-8100 (transparent) Beadle Eye Parts came out PERFECT! I was really happy with the color and finish. I greatly appreciated the level of attention and care given to these parts specifically. I may need to produce more soon, So I... <dynamic-value> Nov 03,2026 UTR-8100 (transparent) Beadle Eye Parts came out PERFECT! I was really happy with the color and finish. I greatly appreciated the level of attention and care given to these parts specifically. I may need to produce more soon, So I... <dynamic-value> Nov 03,2026 UTR-8100 (transparent) Beadle Eye Parts came out PERFECT, they came in the package pre supported for proper printing and security. thank you for keeping these parts safe!!! I was really happy with the color and finish. I greatly a... <dynamic-value> Nov 03,2026 UTR-8100 (transparent) Beadle Eye Parts came out PERFECT! I was really happy with the color and finish. I greatly appreciated the level of attention and care given...",
+      "added": [
+        "PA12 Frankland Thank you. <dynamic-value> Nov 07,2026 PA12 Frankland Thank you. <dynamic-value> Nov 07,2026",
+        "given..."
+      ],
+      "removed": [
+        "given to these parts specifically. I may need to produce more soon, So I... <dynamic-value> Nov 03,2026 UTR-8100 (..."
+      ],
+      "change_percent": 17.62,
+      "confidence": "high",
+      "published_at": "2026-11-07T00:00:00+00:00",
+      "first_seen_at": "2026-08-17T03:52:00+00:00",
+      "discovered_via": "links"
+    },
+    {
+      "type": "section_copy_changed",
+      "priority": "medium",
+      "competitor": "PCBWay",
+      "url": "https://www.pcbway.com/rapid-prototyping/3D-Printing/3D-Printing-FDM.html",
+      "category": "service",
+      "page_title": "Fused Deposition Modeling (FDM) 3D Printing Service | Instant Quoting - PCBWay",
+      "summary": "板块文案更新：Customer reviews about 3D printing Service",
+      "details": [],
+      "before": "Customer reviews about 3D printing Service ABS Everything was wrapped nicely, no broken parts, prints were good. <dynamic-value> Nov 05,2026 UTR-8100 (transparent) Beadle Eye Parts came out PERFECT! I was really happy with the color and finish. I greatly appreciated the level of attention and care given to these parts specifically. I may need to produce more soon, So I... <dynamic-value> Nov 03,2026 UTR-8100 (transparent) Beadle Eye Parts came out PERFECT! I was really happy with the color and finish. I greatly appreciated the level of attention and care given to these parts specifically. I may need to produce more soon, So I... <dynamic-value> Nov 03,2026 UTR-8100 (transparent) Beadle Eye Parts came out PERFECT, they came in the package pre supported for proper printing and security. thank you for keeping these parts safe!!! I was really happy with the color and finish. I greatly a... <dynamic-value> Nov 03,2026 UTR-8100 (transparent) Beadle Eye Parts came out PERFECT! I was really happy with the color and finish. I greatly appreciated the level of attention and care given to these parts specifically. I may need to produce more soon, So I... <dynamic-value> Nov 03,2026 UTR-8100 (...",
+      "after": "Customer reviews about 3D printing Service PA12 Frankland Thank you. <dynamic-value> Nov 07,2026 PA12 Frankland Thank you. <dynamic-value> Nov 07,2026 ABS Everything was wrapped nicely, no broken parts, prints were good. <dynamic-value> Nov 05,2026 UTR-8100 (transparent) Beadle Eye Parts came out PERFECT! I was really happy with the color and finish. I greatly appreciated the level of attention and care given to these parts specifically. I may need to produce more soon, So I... <dynamic-value> Nov 03,2026 UTR-8100 (transparent) Beadle Eye Parts came out PERFECT! I was really happy with the color and finish. I greatly appreciated the level of attention and care given to these parts specifically. I may need to produce more soon, So I... <dynamic-value> Nov 03,2026 UTR-8100 (transparent) Beadle Eye Parts came out PERFECT, they came in the package pre supported for proper printing and security. thank you for keeping these parts safe!!! I was really happy with the color and finish. I greatly a... <dynamic-value> Nov 03,2026 UTR-8100 (transparent) Beadle Eye Parts came out PERFECT! I was really happy with the color and finish. I greatly appreciated the level of attention and care given...",
+      "added": [
+        "PA12 Frankland Thank you. <dynamic-value> Nov 07,2026 PA12 Frankland Thank you. <dynamic-value> Nov 07,2026",
+        "given..."
+      ],
+      "removed": [
+        "given to these parts specifically. I may need to produce more soon, So I... <dynamic-value> Nov 03,2026 UTR-8100 (..."
+      ],
+      "change_percent": 17.62,
+      "confidence": "high",
+      "published_at": "2026-11-07T00:00:00+00:00",
+      "first_seen_at": "2026-08-17T03:52:00+00:00",
+      "discovered_via": "links"
+    },
+    {
+      "type": "section_copy_changed",
+      "priority": "medium",
+      "competitor": "PCBWay",
+      "url": "https://www.pcbway.com/rapid-prototyping/3D-Printing/3D-Printing-PolyJet.html",
+      "category": "service",
+      "page_title": "Photopolymer Jetting (PolyJet) 3D Printing Service | Instant Quoting - PCBWay",
+      "summary": "板块文案更新：Customer reviews about 3D printing Service",
+      "details": [],
+      "before": "Customer reviews about 3D printing Service ABS Everything was wrapped nicely, no broken parts, prints were good. <dynamic-value> Nov 05,2026 UTR-8100 (transparent) Beadle Eye Parts came out PERFECT! I was really happy with the color and finish. I greatly appreciated the level of attention and care given to these parts specifically. I may need to produce more soon, So I... <dynamic-value> Nov 03,2026 UTR-8100 (transparent) Beadle Eye Parts came out PERFECT! I was really happy with the color and finish. I greatly appreciated the level of attention and care given to these parts specifically. I may need to produce more soon, So I... <dynamic-value> Nov 03,2026 UTR-8100 (transparent) Beadle Eye Parts came out PERFECT, they came in the package pre supported for proper printing and security. thank you for keeping these parts safe!!! I was really happy with the color and finish. I greatly a... <dynamic-value> Nov 03,2026 UTR-8100 (transparent) Beadle Eye Parts came out PERFECT! I was really happy with the color and finish. I greatly appreciated the level of attention and care given to these parts specifically. I may need to produce more soon, So I... <dynamic-value> Nov 03,2026 UTR-8100 (...",
+      "after": "Customer reviews about 3D printing Service PA12 Frankland Thank you. <dynamic-value> Nov 07,2026 PA12 Frankland Thank you. <dynamic-value> Nov 07,2026 ABS Everything was wrapped nicely, no broken parts, prints were good. <dynamic-value> Nov 05,2026 UTR-8100 (transparent) Beadle Eye Parts came out PERFECT! I was really happy with the color and finish. I greatly appreciated the level of attention and care given to these parts specifically. I may need to produce more soon, So I... <dynamic-value> Nov 03,2026 UTR-8100 (transparent) Beadle Eye Parts came out PERFECT! I was really happy with the color and finish. I greatly appreciated the level of attention and care given to these parts specifically. I may need to produce more soon, So I... <dynamic-value> Nov 03,2026 UTR-8100 (transparent) Beadle Eye Parts came out PERFECT, they came in the package pre supported for proper printing and security. thank you for keeping these parts safe!!! I was really happy with the color and finish. I greatly a... <dynamic-value> Nov 03,2026 UTR-8100 (transparent) Beadle Eye Parts came out PERFECT! I was really happy with the color and finish. I greatly appreciated the level of attention and care given...",
+      "added": [
+        "PA12 Frankland Thank you. <dynamic-value> Nov 07,2026 PA12 Frankland Thank you. <dynamic-value> Nov 07,2026",
+        "given..."
+      ],
+      "removed": [
+        "given to these parts specifically. I may need to produce more soon, So I... <dynamic-value> Nov 03,2026 UTR-8100 (..."
+      ],
+      "change_percent": 17.62,
+      "confidence": "high",
+      "published_at": "2026-11-07T00:00:00+00:00",
+      "first_seen_at": "2026-08-17T03:52:01+00:00",
+      "discovered_via": "links"
+    },
+    {
+      "type": "section_copy_changed",
+      "priority": "medium",
+      "competitor": "PCBWay",
+      "url": "https://www.pcbway.com/rapid-prototyping/3D-Printing/3D-Printing-SLA.html",
+      "category": "service",
+      "page_title": "Stereolithography (SLA) 3D Printing Service | Instant Quoting - PCBWay",
+      "summary": "板块文案更新：Customer reviews about 3D printing Service",
+      "details": [],
+      "before": "Customer reviews about 3D printing Service ABS Everything was wrapped nicely, no broken parts, prints were good. <dynamic-value> Nov 05,2026 UTR-8100 (transparent) Beadle Eye Parts came out PERFECT! I was really happy with the color and finish. I greatly appreciated the level of attention and care given to these parts specifically. I may need to produce more soon, So I... <dynamic-value> Nov 03,2026 UTR-8100 (transparent) Beadle Eye Parts came out PERFECT! I was really happy with the color and finish. I greatly appreciated the level of attention and care given to these parts specifically. I may need to produce more soon, So I... <dynamic-value> Nov 03,2026 UTR-8100 (transparent) Beadle Eye Parts came out PERFECT, they came in the package pre supported for proper printing and security. thank you for keeping these parts safe!!! I was really happy with the color and finish. I greatly a... <dynamic-value> Nov 03,2026 UTR-8100 (transparent) Beadle Eye Parts came out PERFECT! I was really happy with the color and finish. I greatly appreciated the level of attention and care given to these parts specifically. I may need to produce more soon, So I... <dynamic-value> Nov 03,2026 UTR-8100 (...",
+      "after": "Customer reviews about 3D printing Service PA12 Frankland Thank you. <dynamic-value> Nov 07,2026 PA12 Frankland Thank you. <dynamic-value> Nov 07,2026 ABS Everything was wrapped nicely, no broken parts, prints were good. <dynamic-value> Nov 05,2026 UTR-8100 (transparent) Beadle Eye Parts came out PERFECT! I was really happy with the color and finish. I greatly appreciated the level of attention and care given to these parts specifically. I may need to produce more soon, So I... <dynamic-value> Nov 03,2026 UTR-8100 (transparent) Beadle Eye Parts came out PERFECT! I was really happy with the color and finish. I greatly appreciated the level of attention and care given to these parts specifically. I may need to produce more soon, So I... <dynamic-value> Nov 03,2026 UTR-8100 (transparent) Beadle Eye Parts came out PERFECT, they came in the package pre supported for proper printing and security. thank you for keeping these parts safe!!! I was really happy with the color and finish. I greatly a... <dynamic-value> Nov 03,2026 UTR-8100 (transparent) Beadle Eye Parts came out PERFECT! I was really happy with the color and finish. I greatly appreciated the level of attention and care given...",
+      "added": [
+        "PA12 Frankland Thank you. <dynamic-value> Nov 07,2026 PA12 Frankland Thank you. <dynamic-value> Nov 07,2026",
+        "given..."
+      ],
+      "removed": [
+        "given to these parts specifically. I may need to produce more soon, So I... <dynamic-value> Nov 03,2026 UTR-8100 (..."
+      ],
+      "change_percent": 17.62,
+      "confidence": "high",
+      "published_at": "2026-11-07T00:00:00+00:00",
+      "first_seen_at": "2026-08-17T03:51:59+00:00",
+      "discovered_via": "links"
+    },
+    {
+      "type": "section_copy_changed",
+      "priority": "medium",
+      "competitor": "PCBWay",
+      "url": "https://www.pcbway.com/rapid-prototyping/3D-Printing/3D-Printing-SLM.html",
+      "category": "service",
+      "page_title": "Selective laser melting (SLM) 3D Printing Service | Instant Quoting - PCBWay",
+      "summary": "板块文案更新：Customer reviews about 3D printing Service",
+      "details": [],
+      "before": "Customer reviews about 3D printing Service ABS Everything was wrapped nicely, no broken parts, prints were good. <dynamic-value> Nov 05,2026 UTR-8100 (transparent) Beadle Eye Parts came out PERFECT! I was really happy with the color and finish. I greatly appreciated the level of attention and care given to these parts specifically. I may need to produce more soon, So I... <dynamic-value> Nov 03,2026 UTR-8100 (transparent) Beadle Eye Parts came out PERFECT! I was really happy with the color and finish. I greatly appreciated the level of attention and care given to these parts specifically. I may need to produce more soon, So I... <dynamic-value> Nov 03,2026 UTR-8100 (transparent) Beadle Eye Parts came out PERFECT, they came in the package pre supported for proper printing and security. thank you for keeping these parts safe!!! I was really happy with the color and finish. I greatly a... <dynamic-value> Nov 03,2026 UTR-8100 (transparent) Beadle Eye Parts came out PERFECT! I was really happy with the color and finish. I greatly appreciated the level of attention and care given to these parts specifically. I may need to produce more soon, So I... <dynamic-value> Nov 03,2026 UTR-8100 (...",
+      "after": "Customer reviews about 3D printing Service PA12 Frankland Thank you. <dynamic-value> Nov 07,2026 PA12 Frankland Thank you. <dynamic-value> Nov 07,2026 ABS Everything was wrapped nicely, no broken parts, prints were good. <dynamic-value> Nov 05,2026 UTR-8100 (transparent) Beadle Eye Parts came out PERFECT! I was really happy with the color and finish. I greatly appreciated the level of attention and care given to these parts specifically. I may need to produce more soon, So I... <dynamic-value> Nov 03,2026 UTR-8100 (transparent) Beadle Eye Parts came out PERFECT! I was really happy with the color and finish. I greatly appreciated the level of attention and care given to these parts specifically. I may need to produce more soon, So I... <dynamic-value> Nov 03,2026 UTR-8100 (transparent) Beadle Eye Parts came out PERFECT, they came in the package pre supported for proper printing and security. thank you for keeping these parts safe!!! I was really happy with the color and finish. I greatly a... <dynamic-value> Nov 03,2026 UTR-8100 (transparent) Beadle Eye Parts came out PERFECT! I was really happy with the color and finish. I greatly appreciated the level of attention and care given...",
+      "added": [
+        "PA12 Frankland Thank you. <dynamic-value> Nov 07,2026 PA12 Frankland Thank you. <dynamic-value> Nov 07,2026",
+        "given..."
+      ],
+      "removed": [
+        "given to these parts specifically. I may need to produce more soon, So I... <dynamic-value> Nov 03,2026 UTR-8100 (..."
+      ],
+      "change_percent": 17.62,
+      "confidence": "high",
+      "published_at": "2026-11-07T00:00:00+00:00",
+      "first_seen_at": "2026-08-17T03:52:01+00:00",
+      "discovered_via": "links"
+    },
+    {
+      "type": "section_copy_changed",
+      "priority": "medium",
+      "competitor": "PCBWay",
+      "url": "https://www.pcbway.com/rapid-prototyping/3D-Printing/3D-Printing-SLS.html",
+      "category": "service",
+      "page_title": "Selective laser sintering(SLS) 3D Printing Service | Instant Quoting - PCBWay",
+      "summary": "板块文案更新：Customer reviews about 3D printing Service",
+      "details": [],
+      "before": "Customer reviews about 3D printing Service ABS Everything was wrapped nicely, no broken parts, prints were good. <dynamic-value> Nov 05,2026 UTR-8100 (transparent) Beadle Eye Parts came out PERFECT! I was really happy with the color and finish. I greatly appreciated the level of attention and care given to these parts specifically. I may need to produce more soon, So I... <dynamic-value> Nov 03,2026 UTR-8100 (transparent) Beadle Eye Parts came out PERFECT! I was really happy with the color and finish. I greatly appreciated the level of attention and care given to these parts specifically. I may need to produce more soon, So I... <dynamic-value> Nov 03,2026 UTR-8100 (transparent) Beadle Eye Parts came out PERFECT, they came in the package pre supported for proper printing and security. thank you for keeping these parts safe!!! I was really happy with the color and finish. I greatly a... <dynamic-value> Nov 03,2026 UTR-8100 (transparent) Beadle Eye Parts came out PERFECT! I was really happy with the color and finish. I greatly appreciated the level of attention and care given to these parts specifically. I may need to produce more soon, So I... <dynamic-value> Nov 03,2026 UTR-8100 (...",
+      "after": "Customer reviews about 3D printing Service PA12 Frankland Thank you. <dynamic-value> Nov 07,2026 PA12 Frankland Thank you. <dynamic-value> Nov 07,2026 ABS Everything was wrapped nicely, no broken parts, prints were good. <dynamic-value> Nov 05,2026 UTR-8100 (transparent) Beadle Eye Parts came out PERFECT! I was really happy with the color and finish. I greatly appreciated the level of attention and care given to these parts specifically. I may need to produce more soon, So I... <dynamic-value> Nov 03,2026 UTR-8100 (transparent) Beadle Eye Parts came out PERFECT! I was really happy with the color and finish. I greatly appreciated the level of attention and care given to these parts specifically. I may need to produce more soon, So I... <dynamic-value> Nov 03,2026 UTR-8100 (transparent) Beadle Eye Parts came out PERFECT, they came in the package pre supported for proper printing and security. thank you for keeping these parts safe!!! I was really happy with the color and finish. I greatly a... <dynamic-value> Nov 03,2026 UTR-8100 (transparent) Beadle Eye Parts came out PERFECT! I was really happy with the color and finish. I greatly appreciated the level of attention and care given...",
+      "added": [
+        "PA12 Frankland Thank you. <dynamic-value> Nov 07,2026 PA12 Frankland Thank you. <dynamic-value> Nov 07,2026",
+        "given..."
+      ],
+      "removed": [
+        "given to these parts specifically. I may need to produce more soon, So I... <dynamic-value> Nov 03,2026 UTR-8100 (..."
+      ],
+      "change_percent": 17.62,
+      "confidence": "high",
+      "published_at": "2026-11-07T00:00:00+00:00",
+      "first_seen_at": "2026-08-17T03:52:01+00:00",
+      "discovered_via": "links"
+    },
+    {
+      "type": "section_copy_changed",
+      "priority": "medium",
+      "competitor": "PCBWay",
+      "url": "https://www.pcbway.com/rapid-prototyping/3D-Printing/3D-Printing-VC.html",
+      "category": "service",
+      "page_title": "Vacuum Casting 3D Printing Service | Instant Quoting - PCBWay",
+      "summary": "板块文案更新：Customer reviews about 3D printing Service",
+      "details": [],
+      "before": "Customer reviews about 3D printing Service ABS Everything was wrapped nicely, no broken parts, prints were good. <dynamic-value> Nov 05,2026 UTR-8100 (transparent) Beadle Eye Parts came out PERFECT! I was really happy with the color and finish. I greatly appreciated the level of attention and care given to these parts specifically. I may need to produce more soon, So I... <dynamic-value> Nov 03,2026 UTR-8100 (transparent) Beadle Eye Parts came out PERFECT! I was really happy with the color and finish. I greatly appreciated the level of attention and care given to these parts specifically. I may need to produce more soon, So I... <dynamic-value> Nov 03,2026 UTR-8100 (transparent) Beadle Eye Parts came out PERFECT, they came in the package pre supported for proper printing and security. thank you for keeping these parts safe!!! I was really happy with the color and finish. I greatly a... <dynamic-value> Nov 03,2026 UTR-8100 (transparent) Beadle Eye Parts came out PERFECT! I was really happy with the color and finish. I greatly appreciated the level of attention and care given to these parts specifically. I may need to produce more soon, So I... <dynamic-value> Nov 03,2026 UTR-8100 (...",
+      "after": "Customer reviews about 3D printing Service PA12 Frankland Thank you. <dynamic-value> Nov 07,2026 PA12 Frankland Thank you. <dynamic-value> Nov 07,2026 ABS Everything was wrapped nicely, no broken parts, prints were good. <dynamic-value> Nov 05,2026 UTR-8100 (transparent) Beadle Eye Parts came out PERFECT! I was really happy with the color and finish. I greatly appreciated the level of attention and care given to these parts specifically. I may need to produce more soon, So I... <dynamic-value> Nov 03,2026 UTR-8100 (transparent) Beadle Eye Parts came out PERFECT! I was really happy with the color and finish. I greatly appreciated the level of attention and care given to these parts specifically. I may need to produce more soon, So I... <dynamic-value> Nov 03,2026 UTR-8100 (transparent) Beadle Eye Parts came out PERFECT, they came in the package pre supported for proper printing and security. thank you for keeping these parts safe!!! I was really happy with the color and finish. I greatly a... <dynamic-value> Nov 03,2026 UTR-8100 (transparent) Beadle Eye Parts came out PERFECT! I was really happy with the color and finish. I greatly appreciated the level of attention and care given...",
+      "added": [
+        "PA12 Frankland Thank you. <dynamic-value> Nov 07,2026 PA12 Frankland Thank you. <dynamic-value> Nov 07,2026",
+        "given..."
+      ],
+      "removed": [
+        "given to these parts specifically. I may need to produce more soon, So I... <dynamic-value> Nov 03,2026 UTR-8100 (..."
+      ],
+      "change_percent": 17.62,
+      "confidence": "high",
+      "published_at": "2026-11-07T00:00:00+00:00",
+      "first_seen_at": "2026-08-17T03:52:02+00:00",
+      "discovered_via": "links"
+    },
+    {
+      "type": "section_copy_changed",
+      "priority": "medium",
+      "competitor": "PCBWay",
+      "url": "https://www.pcbway.com/rapid-prototyping/Sheet-metal/sheet-cutting.html",
+      "category": "service",
+      "page_title": "Sheet Metal Cutting Services | Laser, Waterjet & CNC Routing - PCBWay",
+      "summary": "板块文案更新：Sheet Cutting Design Guidelines",
+      "details": [],
+      "before": "Sheet Cutting Design Guidelines This guide is designed to help engineers and designers prepare CAD and STEP files that meet manufacturing standards. Following these design requirements prior to order submission helps prevent file rejections, shorten lead times, and reduce overall manufacturing costs. Note: Material-specific values—including minimum hole size, internal radius, and thickness limits—vary by material and process. 1. Vector & CAD File Cleaning A production file should contain only the closed cutting geometry required to manufacture the part. Clean all construction elements and annotations before exporting. Scale & Units 1:1 Scale: Build files at full final cut size. Written dimensions inside drawings are ignored by automated processing systems. Units: Imperial (inches) is preferred. Metric (millimeters) is acceptable when used consistently between the file and quote. Centimeters and meters are not supported . Manufacturing Geometry Only Remove all dimensions, title blocks, borders, guides, notes, and annotations. Convert Text to Outlines Convert all text to vector outlines (or explode/expand text in CAD). Editable fonts/text boxes cannot be recognized as cutting geomet...",
+      "after": "Sheet Cutting Design Guidelines Sheet Cutting Design Guidelines",
+      "added": [
+        "Sheet Cutting Design Guidelines"
+      ],
+      "removed": [
+        "This guide is designed to help engineers and designers prepare CAD and STEP files that meet manufacturing standards. Following these design requirements prior to order submission helps prevent file rejections, shorten lead times, and reduce overall manufacturing costs. Note: Material-specific values—including minimum hole size, internal radius, and thicknes..."
+      ],
+      "change_percent": 100.0,
+      "confidence": "high",
+      "published_at": "2026-10-31T00:00:00+00:00",
+      "first_seen_at": "2026-09-12T05:53:58+00:00",
+      "discovered_via": "links"
+    },
+    {
+      "type": "visual_changed",
+      "priority": "low",
+      "competitor": "Fictiv",
+      "url": "https://www.fictiv.com/articles",
+      "category": "content",
+      "page_title": "Articles - Fictiv",
+      "summary": "desktop 视图出现明显 UI/布局变化",
+      "details": [
+        "视口：desktop",
+        "RMS 差异：54.76",
+        "变化像素占比：8.80%"
+      ],
+      "before": null,
+      "after": null,
+      "added": [],
+      "removed": [],
+      "change_percent": 0.0,
+      "confidence": "high",
+      "published_at": "",
+      "first_seen_at": "2026-08-17T03:45:51+00:00",
+      "discovered_via": "priority"
+    },
+    {
+      "type": "visual_changed",
+      "priority": "low",
+      "competitor": "Fictiv",
+      "url": "https://www.fictiv.com/articles",
+      "category": "content",
+      "page_title": "Articles - Fictiv",
+      "summary": "mobile 视图出现明显 UI/布局变化",
+      "details": [
+        "视口：mobile",
+        "RMS 差异：79.97",
+        "变化像素占比：19.00%"
+      ],
+      "before": null,
+      "after": null,
+      "added": [],
+      "removed": [],
+      "change_percent": 0.0,
+      "confidence": "high",
+      "published_at": "",
+      "first_seen_at": "2026-08-17T03:45:51+00:00",
+      "discovered_via": "priority"
+    },
+    {
+      "type": "section_copy_changed",
+      "priority": "low",
+      "competitor": "JLC CNC",
+      "url": "https://jlccnc.com/blog/category/industry-use-cases",
+      "category": "content",
+      "page_title": "Industry Use Cases | JLCCNC",
+      "summary": "板块文案更新：Featured Posts",
+      "details": [],
+      "before": "Featured Posts Industry Use Cases Micro CNC Machining Explained: Process, Precision & How Small It Can Really Get Explaining Micro CNC Machining Any machinist can machine a block of aluminum into a bracket. But what happens when your part is the size of a grain of rice, and still needs tolerances tighter than a human hair? That's when “standard CNC” suddenly feels clumsy, and every micron starts to matter. This is the world of micro CNC machining. It's not about big, impressive cuts, it's about making the kind of components you'll never notice… until they fail<dynamic-value> the gears in a luxury watch, the nozzles in med...... Sep 06, 2025 Industry Use Cases CNC Machining in the Medical Industry Jan 03, 2025 Industry Use Cases CNC for Luxury Watchmaking: Achieving Sub-Micron Tolerances Industry Use Cases Micro CNC Machining: Techniques for Manufacturing Miniature Components May 21, 2025 Industry Use Cases CNC Machining vs Sheet Metal: Which is Better for Enclosures? Oct 31, 2025",
+      "after": "Featured Posts Industry Use Cases Micro CNC Machining Explained: Process, Precision & How Small It Can Really Get Explaining Micro CNC Machining Any machinist can machine a block of aluminum into a bracket. But what happens when your part is the size of a grain of rice, and still needs tolerances tighter than a human hair? That's when “standard CNC” suddenly feels clumsy, and every micron starts to matter. This is the world of micro CNC machining. It's not about big, impressive cuts, it's about making the kind of components you'll never notice… until they fail<dynamic-value> the gears in a luxury watch, the nozzles in med...... Sep 06, 2025 Industry Use Cases CNC Machining in the Medical Industry Jan 03, 2025 Industry Use Cases CNC for Luxury Watchmaking: Achieving Sub-Micron Tolerances Industry Use Cases Micro CNC Machining: Techniques for Manufacturing Miniature Components May 21, 2025 Industry Use Cases CNC Machining vs Sheet Metal: Which is Better for Enclosures? Oct 30, 2025",
+      "added": [
+        "30,"
+      ],
+      "removed": [
+        "31,"
+      ],
+      "change_percent": 1.24,
+      "confidence": "high",
+      "published_at": "2025-09-06T00:00:00+00:00",
+      "first_seen_at": "2026-08-17T03:50:40+00:00",
+      "discovered_via": "sitemap"
+    },
+    {
+      "type": "section_copy_changed",
+      "priority": "low",
+      "competitor": "JLC CNC",
+      "url": "https://jlccnc.com/blog/category/manufacturing-services",
+      "category": "content",
+      "page_title": "Manufacturing Services | JLCCNC",
+      "summary": "板块文案更新：Featured Posts",
+      "details": [],
+      "before": "Featured Posts Manufacturing Solutions Rapid Prototyping Guide: Processes Compared and How to Choose the Right Method for Manufacturing What Is Rapid Prototyping (AI generated) Various rapid prototyping parts including 3D printed, CNC machined, and sheet metal components on a workshop table. Rapid prototyping is a manufacturing approach that produces physical parts directly from CAD data within hours or days, enabling engineers to quickly validate design, fit, and function before full-scale production. Modern shops use several methods under this umbrella. 3D printing, CNC machining, and sheet processes all fall into the rapid prototyp...... Mar 20, 2026 Manufacturing Solutions CNC Rapid Prototyping: Cost, Lead Time, Design Tips & Machining Service Oct 24, 2025 Manufacturing Solutions How is the Cost of CNC Machining Determined Dec 27, 2023 Manufacturing Solutions CNC machining solutions for DIY project designers Manufacturing Solutions The true cost of CNC machining services what are the main factors affecting price",
+      "after": "Featured Posts Manufacturing Solutions Rapid Prototyping Guide: Processes Compared and How to Choose the Right Method for Manufacturing What Is Rapid Prototyping (AI generated) Various rapid prototyping parts including 3D printed, CNC machined, and sheet metal components on a workshop table. Rapid prototyping is a manufacturing approach that produces physical parts directly from CAD data within hours or days, enabling engineers to quickly validate design, fit, and function before full-scale production. Modern shops use several methods under this umbrella. 3D printing, CNC machining, and sheet processes all fall into the rapid prototyp...... Mar 20, 2026 Manufacturing Solutions CNC Rapid Prototyping: Cost, Lead Time, Design Tips & Machining Service Oct 25, 2025 Manufacturing Solutions How is the Cost of CNC Machining Determined Dec 27, 2023 Manufacturing Solutions CNC machining solutions for DIY project designers Manufacturing Solutions The true cost of CNC machining services what are the main factors affecting price",
+      "added": [
+        "25,"
+      ],
+      "removed": [
+        "24,"
+      ],
+      "change_percent": 1.34,
+      "confidence": "high",
+      "published_at": "2026-03-20T00:00:00+00:00",
+      "first_seen_at": "2026-08-17T03:50:40+00:00",
+      "discovered_via": "sitemap"
+    },
+    {
+      "type": "visual_changed",
+      "priority": "low",
+      "competitor": "SyBridge",
+      "url": "https://sybridge.com/injection-molding-defects",
+      "category": "page",
+      "page_title": "7‌ ‌Common‌ ‌Injection‌ ‌Molding‌ ‌Defects‌ ‌and‌ ‌How‌ ‌to‌ ‌Avoid‌ ‌Them‌ - SyBridge Technologies",
+      "summary": "mobile 视图出现明显 UI/布局变化",
+      "details": [
+        "视口：mobile",
+        "RMS 差异：35.53",
+        "变化像素占比：2.76%",
+        "页面截图高度变化：-48px"
+      ],
+      "before": null,
+      "after": null,
+      "added": [],
+      "removed": [],
+      "change_percent": 0.0,
+      "confidence": "high",
+      "published_at": "2024-01-18T16:41:00+00:00",
+      "first_seen_at": "2026-08-17T03:53:40+00:00",
+      "discovered_via": "feed"
+    }
+  ],
+  "errors": [
+    "Seed page failed: https://www.hubs.com/manufacturing-services (HTTP 404)",
+    "Hubs | https://www.hubs.com/manufacturing-services | HTTP 404",
+    "Hubs | https://www.hubs.com/knowledgebasearticle | HTTP 404",
+    "Hubs | https://www.hubs.com/articleblogarticle | HTTP 404",
+    "Hubs | https://www.hubs.com/knowledgebasecollection | HTTP 404",
+    "Xometry | https://investors.xometry.com/news-releases/news-release-details/access-becoming-manufacturings-competitive-advantage-according | HTTP 403",
+    "Xometry | https://investors.xometry.com/news-releases/news-release-details/xometry-foundation-announces-partnership-mxd-expand | HTTP 403",
+    "Xometry | https://investors.xometry.com/news-releases/news-release-details/xometry-releases-comprehensive-upgrades-its-ai-model | HTTP 403",
+    "Xometry | https://investors.xometry.com/news-releases/news-release-details/xometry-launches-foundation-committing-1-million-advance | HTTP 403",
+    "Xometry | https://investors.xometry.com/news-releases/news-release-details/xometry-appoints-lukas-biewald-its-board-directors | HTTP 403",
+    "Xometry | https://investors.xometry.com/news-releases/news-release-details/xometry-streamlines-data-center-supply-chain-offering-single | HTTP 403",
+    "Xometry | https://investors.xometry.com/news-releases/news-release-details/xometry-and-siemens-partner-embed-ai-native-supply-chain | HTTP 403",
+    "Xometry | https://investors.xometry.com/news-releases/news-release-details/xometry-deepens-ai-native-marketplace-advantage-new-enterprise | HTTP 403",
+    "Xometry | https://investors.xometry.com/news-releases/news-release-details/xometry-announces-ceo-succession-plan | HTTP 403",
+    "Xometry | https://investors.xometry.com/news-releases/news-release-details/aerospace-defense-leaders-prioritize-ai-enabled-sourcing | HTTP 403",
+    "Seed page failed: https://www.fictiv.com/services (HTTP 404)",
+    "Fictiv | https://www.fictiv.com/services | HTTP 404",
+    "Fictiv | https://www.fictiv.com/articles/medical-device-manufacturing-sourcing | HTTP 429",
+    "Fictiv | https://www.fictiv.com/articles/physical-ai-engineering-hardware | HTTP 429",
+    "Fictiv | https://www.fictiv.com/articles/low-volume-manufacturing | HTTP 429",
+    "Fictiv | https://www.fictiv.com/articles/pilot-production-manufacturing | HTTP 429",
+    "Fictiv | https://www.fictiv.com/articles/metal-parts-manufacturing | HTTP 429",
+    "Fictiv | https://www.fictiv.com/articles/dfm-design-for-manufacturing-guide | HTTP 429",
+    "Fictiv | https://www.fictiv.com/articles/common-tolerance-mistakes-and-how-to-fix | HTTP 429",
+    "Fictiv | https://www.fictiv.com/articles/material-traceability-in-manufacturing | HTTP 429",
+    "Fictiv | https://www.fictiv.com/articles/certificate-of-conformance | HTTP 429",
+    "Fictiv | https://www.fictiv.com/articles/injection-molding-cycle-time | HTTP 429",
+    "Fictiv | https://www.fictiv.com/articles/engineering-fits-clearance-transition-interference | HTTP 429",
+    "Fictiv | https://www.fictiv.com/articles/mro-parts-reverse-engineering-guide | HTTP 429",
+    "Fictiv | https://www.fictiv.com/articles/humanoid-robotics-manufacturing-sourcing-strategy | HTTP 429",
+    "Fictiv | https://www.fictiv.com/articles/manufacturing-continuity-and-reducing-risk-during-production-scale-up | HTTP 429",
+    "Fictiv | https://www.fictiv.com/articles/metal-casting-defects-causes-prevention | HTTP 429",
+    "Fictiv | https://www.fictiv.com/articles/industrial-automation-mro-strategy-guide | HTTP 429",
+    "Fictiv | https://www.fictiv.com/articles/large-plastic-part-injection-molding | HTTP 429",
+    "Fictiv | https://www.fictiv.com/articles/fictivmade-part-8-final-part-unboxing-testing | HTTP 429",
+    "Fictiv | https://www.fictiv.com/articles/robotic-arm-components-manufacturing | HTTP 429",
+    "Fictiv | https://www.fictiv.com/articles/mro-obsolescence-mismatch | HTTP 429",
+    "Fictiv | https://www.fictiv.com/articles/ai-in-mechanical-engineering | HTTP 429",
+    "Fictiv | https://www.fictiv.com/articles/how-to-build-a-bom | HTTP 429",
+    "Fictiv | https://www.fictiv.com/articles/custom-and-standard-components-single-source-bom | HTTP 429",
+    "Fictiv | https://www.fictiv.com/articles/2025-u-s-tariff-updates-key-trade-policy-changes | HTTP 429",
+    "Fictiv | https://www.fictiv.com/articles/us-manufacturing-workforce-gap-2026 | HTTP 429",
+    "Fictiv | https://www.fictiv.com/articles/4-axis-cnc-machining | HTTP 429",
+    "Fictiv | https://www.fictiv.com/articles/bridge-production-manufacturing | HTTP 429",
+    "Fictiv | https://www.fictiv.com/articles/design-for-testability-dft | HTTP 429",
+    "Fictiv | https://www.fictiv.com/articles/gravity-casting-permanent-mold | HTTP 429",
+    "Fictiv | https://www.fictiv.com/articles/as9100-v-iso-9001-aerospace-quality-standards | HTTP 429",
+    "Fictiv | https://www.fictiv.com/articles/doing-better-than-good-how-whill-is-redefining-the-wheelchair | HTTP 429",
+    "Fictiv | https://www.fictiv.com/articles/built-tough-built-loud-the-development-story-behind-the-loudest-speaker-on-the-market | HTTP 429",
+    "Fictiv | https://www.fictiv.com/articles/accelerating-through-success-start-local-scale-global | HTTP 429",
+    "Fictiv | https://www.fictiv.com/articles/manufacturing-simplicity-how-an-innovative-firm-is-redefining-the-everyday | HTTP 429",
+    "Fictiv | https://www.fictiv.com/articles/how-one-startup-harnessed-the-sunand-taught-people-how-to-fish-off-grid-electric-spotlight | HTTP 429",
+    "Fictiv | https://www.fictiv.com/articles/3d-tlc-best-practices-at-one-of-the-bay-areas-top-3d-print-shops | HTTP 429",
+    "Fictiv | https://www.fictiv.com/articles/getting-intimate-with-your-prototype-lioness-spotlight | HTTP 429",
+    "Fictiv | https://www.fictiv.com/articles/how-to-work-with-community-and-come-out-with-a-product-thats-better-not-worse | HTTP 429",
+    "Fictiv | https://www.fictiv.com/articles/large-format-3d-printing | HTTP 429",
+    "Fictiv | https://www.fictiv.com/articles/lpdc-low-pressure-die-casting | HTTP 429",
+    "Fictiv | https://www.fictiv.com/articles/evtol-aircraft-components-custom-vs-standard-parts | HTTP 429",
+    "Fictiv | https://www.fictiv.com/articles/how-to-prototype-rubber-designs | HTTP 429",
+    "Fictiv | https://www.fictiv.com/articles/practical-guide-to-prototype-testing | HTTP 429",
+    "Fictiv | https://www.fictiv.com/articles/fictiv-receives-2026-supplytech-breakthrough-award | HTTP 429",
+    "Fictiv | https://www.fictiv.com/articles/infographic-4-manufacturing-predictions-for-2021 | HTTP 429",
+    "Fictiv | https://www.fictiv.com/articles/how-to-accelerate-your-engineering-builds-and-ensure-you-get-parts-that-fit | HTTP 429",
+    "Fictiv | https://www.fictiv.com/articles/mro-inventory-management-jit-strategy | HTTP 429",
+    "Fictiv | https://www.fictiv.com/articles/5-options-for-building-large-scale-prototypes | HTTP 429",
+    "Fictiv | https://www.fictiv.com/articles/advanced-materials-guide-for-injection-molding | HTTP 429",
+    "Fictiv | https://www.fictiv.com/articles/misumi-americas-unveils-ai-powered-supply-chain-platform | HTTP 429",
+    "Fictiv | https://www.fictiv.com/articles/misumi-americas-launch | HTTP 429",
+    "Fictiv | https://www.fictiv.com/articles/3-axis-cnc-machining-guide | HTTP 429",
+    "Fictiv | https://www.fictiv.com/articles/ai-powered-digital-manufacturing-platforms-for-engineers | HTTP 429",
+    "Fictiv | https://www.fictiv.com/articles/cnc-vs-die-casting-qualification-scorecard | HTTP 429",
+    "Fictiv | https://www.fictiv.com/articles/types-of-springs-and-their-applications-an-overview | HTTP 429",
+    "Fictiv | https://www.fictiv.com/articles/scaling-cnc-machining-to-casting-transition-guide/thank-you | HTTP 429",
+    "Fictiv | https://www.fictiv.com/articles/best-practices-for-fixing-solidworks-import-errors | HTTP 429",
+    "Fictiv | https://www.fictiv.com/articles/scaling-cnc-machining-to-casting-transition-guide | HTTP 429",
+    "Fictiv | https://www.fictiv.com/articles/semiconductor-equipment-manufacturing | HTTP 429",
+    "Fictiv | https://www.fictiv.com/articles/prototyping-cost-process-pricing | HTTP 429",
+    "Fictiv | https://www.fictiv.com/articles/misumi-vending-machines-mro-supply-chain | HTTP 429",
+    "Fictiv | https://www.fictiv.com/articles/stage-gate-product-development-process-models | HTTP 429",
+    "Fictiv | https://www.fictiv.com/articles/cleanroom-manufacturing-iso-standards-design-applications | HTTP 429",
+    "Fictiv | https://www.fictiv.com/articles/prototyping-lead-time-process-timelines-and-how-to-reduce-delays | HTTP 429",
+    "Fictiv | https://www.fictiv.com/articles/simulation-vs-reality-hardware-development | HTTP 429",
+    "Fictiv | https://www.fictiv.com/articles/stage-gate-product-development-process-models/thank-you | HTTP 429",
+    "Fictiv | https://www.fictiv.com/articles/announcing-fictivs-automated-injection-molding-dfm | HTTP 429",
+    "Fictiv | https://www.fictiv.com/articles/how-to-design-snap-fit-components | HTTP 429",
+    "Fictiv | https://www.fictiv.com/articles/the-zen-of-product-design-how-lockitron-let-go-of-the-extraneous-and-non-essential | HTTP 429",
+    "Fictiv | https://www.fictiv.com/articles/gdt-101-an-introduction-to-geometric-dimensioning-and-tolerancing | HTTP 429",
+    "Fictiv | https://www.fictiv.com/articles/aerospace-materials-finishes-for-spacecraft-and-satellites | HTTP 429",
+    "Fictiv | https://www.fictiv.com/articles/what-are-mro-parts-definition-sourcing-strategies | HTTP 429",
+    "Fictiv | https://www.fictiv.com/articles/building-the-world-they-want-to-live-in | HTTP 429",
+    "Fictiv | https://www.fictiv.com/articles/teflon-ptfe-explained-properties-applications-and-best-practices | HTTP 429",
+    "Seed page failed: https://jlccnc.com/surface-finishes (HTTP 404)",
+    "Seed page failed: https://www.pcbway.com/rapid-prototyping (HTTP 404)",
+    "PCBWay | https://www.pcbway.com/rapid-prototyping/cnc-machining | HTTP 404",
+    "PCBWay | https://www.pcbway.com/rapid-prototyping/3d-printing | HTTP 404",
+    "PCBWay | https://www.pcbway.com/rapid-prototyping/sheet-metal | HTTP 404",
+    "Seed page failed: https://www.emachineshop.com/services (HTTP 404)",
+    "eMachineShop | https://www.emachineshop.com/services | HTTP 404",
+    "Seed page failed: https://www.cnclathing.com/blog (HTTP 404)",
+    "CNCLATHING | https://www.cnclathing.com/blog | HTTP 404"
+  ],
+  "discovery": [
+    {
+      "competitor": "Hubs",
+      "base_url": "https://www.hubs.com/",
+      "tracked_urls": 120,
+      "source_counts": {
+        "priority": 7,
+        "feed": 0,
+        "sitemap": 2881,
+        "links": 296
+      }
+    },
+    {
+      "competitor": "Xometry",
+      "base_url": "https://www.xometry.com/",
+      "tracked_urls": 120,
+      "source_counts": {
+        "priority": 6,
+        "feed": 100,
+        "sitemap": 0,
+        "links": 203
+      }
+    },
+    {
+      "competitor": "Fictiv",
+      "base_url": "https://www.fictiv.com/",
+      "tracked_urls": 120,
+      "source_counts": {
+        "priority": 6,
+        "feed": 34,
+        "sitemap": 1168,
+        "links": 134
+      }
+    },
+    {
+      "competitor": "Protolabs",
+      "base_url": "https://www.protolabs.com/",
+      "tracked_urls": 120,
+      "source_counts": {
+        "priority": 6,
+        "feed": 0,
+        "sitemap": 716,
+        "links": 143
+      }
+    },
+    {
+      "competitor": "JLC CNC",
+      "base_url": "https://jlccnc.com/",
+      "tracked_urls": 120,
+      "source_counts": {
+        "priority": 5,
+        "feed": 0,
+        "sitemap": 1210,
+        "links": 89
+      }
+    },
+    {
+      "competitor": "PCBWay",
+      "base_url": "https://www.pcbway.com/",
+      "tracked_urls": 120,
+      "source_counts": {
+        "priority": 3,
+        "feed": 0,
+        "sitemap": 0,
+        "links": 127
+      }
+    },
+    {
+      "competitor": "eMachineShop",
+      "base_url": "https://www.emachineshop.com/",
+      "tracked_urls": 53,
+      "source_counts": {
+        "priority": 4,
+        "feed": 6,
+        "sitemap": 46,
+        "links": 16
+      }
+    },
+    {
+      "competitor": "SyBridge",
+      "base_url": "https://sybridge.com/",
+      "tracked_urls": 74,
+      "source_counts": {
+        "priority": 4,
+        "feed": 2,
+        "sitemap": 65,
+        "links": 26
+      }
+    },
+    {
+      "competitor": "CNCLATHING",
+      "base_url": "https://www.cnclathing.com/",
+      "tracked_urls": 120,
+      "source_counts": {
+        "priority": 4,
+        "feed": 0,
+        "sitemap": 732,
+        "links": 86
+      }
+    }
+  ],
+  "email": {
+    "text": "竞品追踪日报 · 2026-11-07\n\n今日概览：共检测到 72 项记录。 近期新发布内容 1 篇。 监控异常 1 项。 页面变化 29 项。 另有 41 项低优先级变化已折叠。 变化较多：Xometry, Hubs, PCBWay。\n\n【监控异常（优先处理）】\n· Fictiv | 监控健康告警\n  - 抓取失败率过高：尝试页面：120；失败页面：75；失败率：62.5%\n  https://www.fictiv.com/\n\n【近期新发布内容】\n· Fictiv | Reducing Machine Downtime: Maintainability and Serviceabili...\n  - 新发布内容：Reducing Machine Downtime: Maintainability and Serviceability Design。实际发布时间：2026-11-06；系统首次发现：2026-11-07；发现延迟：0 天\n  https://www.fictiv.com/articles/reducing-machine-downtime\n\n【定价 & 首页变化】\n· Xometry | Custom Online CNC Machining Services - Metal and Plastic In...\n  - SEO 标题发生变化；删除：| Xometry；变更范围约 15.4%\n  - Meta 描述发生变化；新增：Order / machined parts in / day with Xometry’s online CNC machining services. Get；删除：Get instant quotes on / machining. Milling, turning, and EDM with lead times / day, sub ±0.001\" tolerances, and；变更范围约 123.7%\n  - 页面标题结构发生变化；新增：H3 Advantages and Challenges of CNC Machining / H3 CNC Machining Applications / H3 CNC Machining With Xometry；删除：H2 Advantages and Challenges of CNC Machining / H2 CNC Machining Applications / H2 CNC Machining Built for Speed and Scale\n  - CTA发生变化；新增：About CNC Machining -> https://www.xometry.com/capabilities/cnc-machining-service / Applications -> https://www.xometry.com/capabilities/cnc-machining-service / CNC FAQs -> https://www.xometry.com/capabilities/cnc-machining-service；删除：CNC milling -> https://www.xometry.com/capabilities/cnc-machining-service/cnc-milling-service / CNC turning -> https://www.xometry.com/capabilities/cnc-machining-service/cnc-turning-service / Contact Us -> https://www.xometry.com/contact\n  - 新增板块：Start A New CNC Quote；新增：Start A New CNC Quote STEP | STP | SLDPRT | IPT | PRT | SAT files\n  - 新增板块：CNC Machining Finishes；新增：CNC Machining Finishes CNC Machining Finishes\n  - 新增板块：Standard (As-Milled)；新增：Standard (As-Milled) Standard (As-Milled)\n  - 新增板块：Bead Blast；新增：Bead Blast Bead Blast\n  - 新增板块：Tumbled；新增：Tumbled Tumbled\n  - 新增板块：Anodized (Type II Or Type III)；新增：Anodized (Type II Or Type III) Anodized (Type II Or Type III)\n  https://www.xometry.com/capabilities/cnc-machining-service\n\n【SEO 变化】\n· Hubs | Online CNC Machining Service : Custom part production\n  - H1 标题发生变化；新增：Online；删除：online；变更范围约 50.0%\n  https://www.hubs.com/cnc-machining\n\n【文案 & 结构】\n· Hubs | Online CNC Machining Service : Custom part production\n  - 页面标题结构发生变化；新增：H1 Online CNC machining service / H2 Auto-quoted prices without surprises / H2 Order custom parts through a vetted global network of machine shops；删除：H1 CNC machining service online\n  - CTA发生变化；新增：Get an instant quote -> https://www.hubs.com/manufacture?technology=cnc-machining；删除：Get instant CNC machining quote -> https://www.hubs.com/manufacture?technology=cnc-machining\n  - 新增板块：Online CNC machining service；新增：Online CNC machining service For rapid prototyping and production parts — get a quote in seconds and receive custom machined parts in days. Get an instant quote All uploads are se...\n  - 新增板块：Order custom parts through a vetted global network of machine shops；新增：Order custom parts through a vetted global network of machine shops Upload CAD files Catch machinability issues instantly with our free DfM tool, and see live prices for every par...\n  - 新增板块：Upload CAD files；新增：Upload CAD files Catch machinability issues instantly with our free DfM tool, and see live prices for every part.\n  - 新增板块：Configure and place your order；新增：Configure and place your order Set materials, finishes and lead times per part. We automatically match your order to the best-suited partner in our network.\n  - 新增板块：Receive parts to spec；新增：Receive parts to spec Every part gets a full visual and dimensional inspection, and global orders get a second review at our cross-docks.\n  - 新增板块：Auto-quoted prices without surprises；新增：Auto-quoted prices without surprises We handle taxes, duties and customs clearance—the price you see is final. Get an instant quote\n  - 删除板块：CNC machining service online；删除：CNC machining service online On-demand CNC machining service for rapid prototyping and production parts, through a network of specialized, experienced and thoroughly vetted local...\n  - 删除板块：14 proven design tips to reduce the cost of CNC machining；删除：14 proven design tips to reduce the cost of CNC machining Read article 14 proven design tips to reduce the cost of CNC machining Read article\n  https://www.hubs.com/cnc-machining\n\n【UI 布局变化】\n· Protolabs | Online 3D Printing Service | Instant 3D Printing Quote\n  - Online 3D Printing Service | Instant 3D Printing Quote mobile 端页面布局有明显变化（建议打开链接目视确认）\n  https://www.protolabs.com/services/3d-printing\n· SyBridge | Optimizing Your Injection Molding Process for Cost-Effectiv...\n  - Optimizing Your Injection Molding Process for Cost-Effectiv... mobile 端页面布局有明显变化（建议打开链接目视确认）\n  https://sybridge.com/optimizing-your-injection-molding-process\n· Xometry | Custom Online CNC Machining Services - Metal and Plastic In...\n  - Custom Online CNC Machining Services - Metal and Plastic In... desktop 端页面布局有明显变化（建议打开链接目视确认）\n  - Custom Online CNC Machining Services - Metal and Plastic In... mobile 端页面布局有明显变化（建议打开链接目视确认）\n  https://www.xometry.com/capabilities/cnc-machining-service\n· CNCLATHING | CNC Machining Services & Precision Machined Parts Manufactu...\n  - CNC Machining Services & Precision Machined Parts Manufactu... desktop 端页面布局有明显变化（建议打开链接目视确认）\n  - CNC Machining Services & Precision Machined Parts Manufactu... mobile 端页面布局有明显变化（建议打开链接目视确认）\n  https://www.cnclathing.com/cnc-machining-services\n· Fictiv | Fictiv: Sourcing Simplified for Custom Manufacturing Servic...\n  - Fictiv: Sourcing Simplified for Custom Manufacturing Servic... desktop 端页面布局有明显变化（建议打开链接目视确认）\n  https://www.fictiv.com/\n· Hubs | Online CNC Machining Service : Custom part production\n  - Online CNC Machining Service : Custom part production desktop 端页面布局有明显变化（建议打开链接目视确认）\n  https://www.hubs.com/cnc-machining\n\n已折叠不展示：新增板块 6 项, 删除板块 16 项, 板块文案 13 项, UI 布局 6 项。完整列表见 reports/ 目录。\n\n抓取提醒：\n- Seed page failed: https://www.hubs.com/manufacturing-services (HTTP 404)\n- Hubs | https://www.hubs.com/manufacturing-services | HTTP 404\n- Hubs | https://www.hubs.com/knowledgebasearticle | HTTP 404\n- Hubs | https://www.hubs.com/articleblogarticle | HTTP 404\n- Hubs | https://www.hubs.com/knowledgebasecollection | HTTP 404\n- Xometry | https://investors.xometry.com/news-releases/news-release-details/access-becoming-manufacturings-competitive-advantage-according | HTTP 403\n- Xometry | https://investors.xometry.com/news-releases/news-release-details/xometry-foundation-announces-partnership-mxd-expand | HTTP 403\n- Xometry | https://investors.xometry.com/news-releases/news-release-details/xometry-releases-comprehensive-upgrades-its-ai-model | HTTP 403\n- Xometry | https://investors.xometry.com/news-releases/news-release-details/xometry-launches-foundation-committing-1-million-advance | HTTP 403\n- Xometry | https://investors.xometry.com/news-releases/news-release-details/xometry-appoints-lukas-biewald-its-board-directors | HTTP 403\n\n完整明细见仓库 reports/ 目录中的 HTML 报告。",
+    "html": "<!doctype html>\n<html lang=\"zh-CN\">\n<head>\n  <meta charset=\"utf-8\">\n  <meta name=\"viewport\" content=\"width=device-width, initial-scale=1\">\n  <title>竞品追踪日报 · 2026-11-07</title>\n  <style>\n    body { margin: 0; padding: 24px; font-family: Arial, 'Microsoft YaHei', sans-serif; color: #1a1a1a; background: #f4f5f7; line-height: 1.5; }\n    h1 { font-size: 22px; margin: 0 0 6px; }\n    h2 { font-size: 16px; margin: 24px 0 10px; color: #333; }\n    section { margin: 16px 0; }\n    table { width: 100%; border-collapse: collapse; background: #fff; border: 1px solid #e2e6ea; }\n    th, td { padding: 10px 12px; border-bottom: 1px solid #edf0f3; text-align: left; font-size: 13px; vertical-align: top; }\n    th { background: #f8f9fb; color: #555; font-weight: 600; }\n    tr:last-child td { border-bottom: none; }\n    a { color: #1565c0; text-decoration: none; }\n    .muted { color: #666; font-size: 13px; }\n    .summary { background: #fff; border: 1px solid #e2e6ea; padding: 14px 16px; border-radius: 4px; }\n    .summary-table td:first-child { width: 110px; color: #666; }\n    .summary-table td { border: none; padding: 4px 8px 4px 0; }\n    .changes { color: #222; }\n    .change-block { margin-bottom: 8px; }\n    .change-block:last-child { margin-bottom: 0; }\n    .diff-added { margin-top: 5px; padding: 5px 7px; color: #067647; background: #ecfdf3; border-left: 3px solid #12b76a; }\n    .diff-removed { margin-top: 5px; padding: 5px 7px; color: #b42318; background: #fef3f2; border-left: 3px solid #f04438; }\n    .timing { margin-top: 5px; color: #667085; font-size: 12px; }\n    .badge { display: inline-block; border-radius: 3px; padding: 2px 6px; font-size: 11px; font-weight: 600; text-transform: uppercase; }\n    .badge.high { background: #fde8e8; color: #b42318; }\n    .badge.medium { background: #fff4e5; color: #b54708; }\n    .badge.low { background: #eef4ff; color: #175cd3; }\n    .folded { background: #fafafa; border-left: 3px solid #d0d5dd; padding: 10px 14px; }\n    .footer { margin-top: 20px; font-size: 12px; color: #888; }\n    code { background: #f0f0f0; padding: 1px 4px; border-radius: 3px; }\n    ul { margin: 8px 0 0 18px; padding: 0; }\n  </style>\n</head>\n<body>\n<h1>竞品追踪日报</h1><p class='muted'>2026-11-07</p>\n<section class='summary'><p><strong>今日共检测到 72 项记录。</strong></p><table class='summary-table'><tbody><tr><td>近期新发布内容</td><td><strong>1</strong> 篇</td></tr><tr><td>历史内容补录</td><td>0 篇（不计入今日新闻）</td></tr><tr><td>监控异常</td><td><strong>1</strong> 项</td></tr><tr><td>新增其他页面</td><td><strong>0</strong> 个</td></tr><tr><td>内容页更新</td><td><strong>0</strong> 篇</td></tr><tr><td>页面变化</td><td><strong>29</strong> 项</td></tr><tr><td>已折叠</td><td>41 项</td></tr><tr><td>变化较多</td><td>Xometry, Hubs, PCBWay</td></tr></tbody></table></section>\n<section><h2>监控异常（优先处理）</h2><table><thead><tr><th>竞品</th><th>页面</th><th>具体改了什么</th></tr></thead><tbody><tr><td><span class='badge high'>high</span> Fictiv</td><td>监控健康告警<br><a href='https://www.fictiv.com/'>fictiv.com/</a></td><td class='changes'><div class='change-block'>抓取失败率过高：尝试页面：120；失败页面：75；失败率：62.5%</div></td></tr></tbody></table></section>\n<section><h2>近期新发布内容</h2><table><thead><tr><th>竞品</th><th>页面标题 / 链接</th><th>说明</th></tr></thead><tbody><tr><td><span class='badge high'>high</span> Fictiv</td><td><strong>Reducing Machine Downtime: Maintainability and Serviceabili...</strong><br><a href='https://www.fictiv.com/articles/reducing-machine-downtime'>https://www.fictiv.com/articles/reducing-machine-downtime</a><div class='timing'>发布：2026-11-06 · 发现：2026-11-07 · 可信度：high</div></td><td class='changes'><div class='change-block'>新发布内容：Reducing Machine Downtime: Maintainability and Serviceability Design。实际发布时间：2026-11-06；系统首次发现：2026-11-07；发现延迟：0 天</div></td></tr></tbody></table></section>\n<section><h2>定价 &amp; 首页变化</h2><table><thead><tr><th>竞品</th><th>页面</th><th>具体改了什么</th></tr></thead><tbody><tr><td><span class='badge high'>high</span> Xometry</td><td>Custom Online CNC Machining Services - Metal and Plastic In...<br><a href='https://www.xometry.com/capabilities/cnc-machining-service'>xometry.com/capabilities/cnc-machining-service</a></td><td class='changes'><div class='change-block'><strong>SEO 标题发生变化</strong><div class='diff-removed'>－ | Xometry</div><span class='muted'>变更范围约 15.4%</span></div><div class='change-block'><strong>Meta 描述发生变化</strong><div class='diff-added'>＋ Order</div><div class='diff-added'>＋ machined parts in</div><div class='diff-added'>＋ day with Xometry’s online CNC machining services. Get</div><div class='diff-removed'>－ Get instant quotes on</div><div class='diff-removed'>－ machining. Milling, turning, and EDM with lead times</div><div class='diff-removed'>－ day, sub ±0.001&quot; tolerances, and</div><span class='muted'>变更范围约 123.7%</span></div><div class='change-block'><strong>页面标题结构发生变化</strong><div class='diff-added'>＋ H3 Advantages and Challenges of CNC Machining</div><div class='diff-added'>＋ H3 CNC Machining Applications</div><div class='diff-added'>＋ H3 CNC Machining With Xometry</div><div class='diff-removed'>－ H2 Advantages and Challenges of CNC Machining</div><div class='diff-removed'>－ H2 CNC Machining Applications</div><div class='diff-removed'>－ H2 CNC Machining Built for Speed and Scale</div></div><div class='change-block'><strong>CTA发生变化</strong><div class='diff-added'>＋ About CNC Machining -&gt; https://www.xometry.com/capabilities/cnc-machining-service</div><div class='diff-added'>＋ Applications -&gt; https://www.xometry.com/capabilities/cnc-machining-service</div><div class='diff-added'>＋ CNC FAQs -&gt; https://www.xometry.com/capabilities/cnc-machining-service</div><div class='diff-removed'>－ CNC milling -&gt; https://www.xometry.com/capabilities/cnc-machining-service/cnc-milling-service</div><div class='diff-removed'>－ CNC turning -&gt; https://www.xometry.com/capabilities/cnc-machining-service/cnc-turning-service</div><div class='diff-removed'>－ Contact Us -&gt; https://www.xometry.com/contact</div></div><div class='change-block'><strong>新增板块：Start A New CNC Quote</strong><div class='diff-added'>＋ Start A New CNC Quote STEP | STP | SLDPRT | IPT | PRT | SAT files</div></div><div class='change-block'><strong>新增板块：CNC Machining Finishes</strong><div class='diff-added'>＋ CNC Machining Finishes CNC Machining Finishes</div></div><div class='change-block'><strong>新增板块：Standard (As-Milled)</strong><div class='diff-added'>＋ Standard (As-Milled) Standard (As-Milled)</div></div><div class='change-block'><strong>新增板块：Bead Blast</strong><div class='diff-added'>＋ Bead Blast Bead Blast</div></div><div class='change-block'><strong>新增板块：Tumbled</strong><div class='diff-added'>＋ Tumbled Tumbled</div></div><div class='change-block'><strong>新增板块：Anodized (Type II Or Type III)</strong><div class='diff-added'>＋ Anodized (Type II Or Type III) Anodized (Type II Or Type III)</div></div></td></tr></tbody></table></section>\n<section><h2>SEO 变化</h2><table><thead><tr><th>竞品</th><th>页面</th><th>具体改了什么</th></tr></thead><tbody><tr><td><span class='badge medium'>medium</span> Hubs</td><td>Online CNC Machining Service : Custom part production<br><a href='https://www.hubs.com/cnc-machining'>hubs.com/cnc-machining</a></td><td class='changes'><div class='change-block'><strong>H1 标题发生变化</strong><div class='diff-added'>＋ Online</div><div class='diff-removed'>－ online</div><span class='muted'>变更范围约 50.0%</span></div></td></tr></tbody></table></section>\n<section><h2>文案 &amp; 结构</h2><table><thead><tr><th>竞品</th><th>页面</th><th>具体改了什么</th></tr></thead><tbody><tr><td><span class='badge medium'>medium</span> Hubs</td><td>Online CNC Machining Service : Custom part production<br><a href='https://www.hubs.com/cnc-machining'>hubs.com/cnc-machining</a></td><td class='changes'><div class='change-block'><strong>页面标题结构发生变化</strong><div class='diff-added'>＋ H1 Online CNC machining service</div><div class='diff-added'>＋ H2 Auto-quoted prices without surprises</div><div class='diff-added'>＋ H2 Order custom parts through a vetted global network of machine shops</div><div class='diff-removed'>－ H1 CNC machining service online</div></div><div class='change-block'><strong>CTA发生变化</strong><div class='diff-added'>＋ Get an instant quote -&gt; https://www.hubs.com/manufacture?technology=cnc-machining</div><div class='diff-removed'>－ Get instant CNC machining quote -&gt; https://www.hubs.com/manufacture?technology=cnc-machining</div></div><div class='change-block'><strong>新增板块：Online CNC machining service</strong><div class='diff-added'>＋ Online CNC machining service For rapid prototyping and production parts — get a quote in seconds and receive custom machined parts in days. Get an instant quote All uploads are secure and confidential</div></div><div class='change-block'><strong>新增板块：Order custom parts through a vetted global network of machine shops</strong><div class='diff-added'>＋ Order custom parts through a vetted global network of machine shops Upload CAD files Catch machinability issues instantly with our free DfM tool, and see live prices for every part. Configure and place your order Set materials, finishes an...</div></div><div class='change-block'><strong>新增板块：Upload CAD files</strong><div class='diff-added'>＋ Upload CAD files Catch machinability issues instantly with our free DfM tool, and see live prices for every part.</div></div><div class='change-block'><strong>新增板块：Configure and place your order</strong><div class='diff-added'>＋ Configure and place your order Set materials, finishes and lead times per part. We automatically match your order to the best-suited partner in our network.</div></div><div class='change-block'><strong>新增板块：Receive parts to spec</strong><div class='diff-added'>＋ Receive parts to spec Every part gets a full visual and dimensional inspection, and global orders get a second review at our cross-docks.</div></div><div class='change-block'><strong>新增板块：Auto-quoted prices without surprises</strong><div class='diff-added'>＋ Auto-quoted prices without surprises We handle taxes, duties and customs clearance—the price you see is final. Get an instant quote</div></div><div class='change-block'><strong>删除板块：CNC machining service online</strong><div class='diff-removed'>－ CNC machining service online On-demand CNC machining service for rapid prototyping and production parts, through a network of specialized, experienced and thoroughly vetted local and global CNC machine shops. Get instant CNC machining quot...</div></div><div class='change-block'><strong>删除板块：14 proven design tips to reduce the cost of CNC machining</strong><div class='diff-removed'>－ 14 proven design tips to reduce the cost of CNC machining Read article 14 proven design tips to reduce the cost of CNC machining Read article</div></div></td></tr></tbody></table></section>\n<section><h2>UI 布局变化</h2><table><thead><tr><th>竞品</th><th>页面</th><th>具体改了什么</th></tr></thead><tbody><tr><td><span class='badge high'>high</span> Protolabs</td><td>Online 3D Printing Service | Instant 3D Printing Quote<br><a href='https://www.protolabs.com/services/3d-printing'>protolabs.com/services/3d-printing</a></td><td class='changes'><div class='change-block'><strong>mobile 视图出现明显 UI/布局变化</strong>Online 3D Printing Service | Instant 3D Printing Quote mobile 端页面布局有明显变化（建议打开链接目视确认）</div></td></tr><tr><td><span class='badge high'>high</span> SyBridge</td><td>Optimizing Your Injection Molding Process for Cost-Effectiv...<br><a href='https://sybridge.com/optimizing-your-injection-molding-process'>sybridge.com/optimizing-your-injection-molding-process</a></td><td class='changes'><div class='change-block'><strong>mobile 视图出现明显 UI/布局变化</strong>Optimizing Your Injection Molding Process for Cost-Effectiv... mobile 端页面布局有明显变化（建议打开链接目视确认）</div></td></tr><tr><td><span class='badge high'>high</span> Xometry</td><td>Custom Online CNC Machining Services - Metal and Plastic In...<br><a href='https://www.xometry.com/capabilities/cnc-machining-service'>xometry.com/capabilities/cnc-machining-service</a></td><td class='changes'><div class='change-block'><strong>desktop 视图出现明显 UI/布局变化</strong>Custom Online CNC Machining Services - Metal and Plastic In... desktop 端页面布局有明显变化（建议打开链接目视确认）</div><div class='change-block'><strong>mobile 视图出现明显 UI/布局变化</strong>Custom Online CNC Machining Services - Metal and Plastic In... mobile 端页面布局有明显变化（建议打开链接目视确认）</div></td></tr><tr><td><span class='badge medium'>medium</span> CNCLATHING</td><td>CNC Machining Services &amp; Precision Machined Parts Manufactu...<br><a href='https://www.cnclathing.com/cnc-machining-services'>cnclathing.com/cnc-machining-services</a></td><td class='changes'><div class='change-block'><strong>desktop 视图出现明显 UI/布局变化</strong>CNC Machining Services &amp; Precision Machined Parts Manufactu... desktop 端页面布局有明显变化（建议打开链接目视确认）</div><div class='change-block'><strong>mobile 视图出现明显 UI/布局变化</strong>CNC Machining Services &amp; Precision Machined Parts Manufactu... mobile 端页面布局有明显变化（建议打开链接目视确认）</div></td></tr><tr><td><span class='badge medium'>medium</span> Fictiv</td><td>Fictiv: Sourcing Simplified for Custom Manufacturing Servic...<br><a href='https://www.fictiv.com/'>fictiv.com/</a></td><td class='changes'><div class='change-block'><strong>desktop 视图出现明显 UI/布局变化</strong>Fictiv: Sourcing Simplified for Custom Manufacturing Servic... desktop 端页面布局有明显变化（建议打开链接目视确认）</div></td></tr><tr><td><span class='badge medium'>medium</span> Hubs</td><td>Online CNC Machining Service : Custom part production<br><a href='https://www.hubs.com/cnc-machining'>hubs.com/cnc-machining</a></td><td class='changes'><div class='change-block'><strong>desktop 视图出现明显 UI/布局变化</strong>Online CNC Machining Service : Custom part production desktop 端页面布局有明显变化（建议打开链接目视确认）</div></td></tr></tbody></table></section>\n<section class='folded'><p class='muted'>另有 <strong>41</strong> 项低优先级变化未在邮件中展开：新增板块 6 项, 删除板块 16 项, 板块文案 13 项, UI 布局 6 项。完整明细见仓库 reports/ 目录。</p></section>\n<section><h2>抓取提醒</h2><ul><li>Seed page failed: https://www.hubs.com/manufacturing-services (HTTP 404)</li><li>Hubs | https://www.hubs.com/manufacturing-services | HTTP 404</li><li>Hubs | https://www.hubs.com/knowledgebasearticle | HTTP 404</li><li>Hubs | https://www.hubs.com/articleblogarticle | HTTP 404</li><li>Hubs | https://www.hubs.com/knowledgebasecollection | HTTP 404</li><li>Xometry | https://investors.xometry.com/news-releases/news-release-details/access-becoming-manufacturings-competitive-advantage-according | HTTP 403</li><li>Xometry | https://investors.xometry.com/news-releases/news-release-details/xometry-foundation-announces-partnership-mxd-expand | HTTP 403</li><li>Xometry | https://investors.xometry.com/news-releases/news-release-details/xometry-releases-comprehensive-upgrades-its-ai-model | HTTP 403</li><li>Xometry | https://investors.xometry.com/news-releases/news-release-details/xometry-launches-foundation-committing-1-million-advance | HTTP 403</li><li>Xometry | https://investors.xometry.com/news-releases/news-release-details/xometry-appoints-lukas-biewald-its-board-directors | HTTP 403</li></ul></section>\n<p class='footer'>完整明细已保存到仓库 <code>reports/</code> 目录，可在 GitHub 上打开 HTML 文件查看全部变化。</p>\n</body></html>"
+  },
+  "run_id": "20261107T070247Z",
+  "baseline_run": false,
+  "upgrade_run": false,
+  "email_status": "Email sent with Resend."
+}
