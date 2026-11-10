@@ -1,0 +1,325 @@
+{
+  "canonical": "",
+  "category": "content",
+  "competitor": "PCBWay",
+  "ctas": [
+    {
+      "href": "https://www.pcbway.com/orderonline.aspx",
+      "text": "PCB Instant Quote"
+    },
+    {
+      "href": "javascript:void(0)",
+      "text": "Sign Up"
+    },
+    {
+      "href": "https://www.pcbway.com/project/shareproject?order=1",
+      "text": "By Source Files"
+    },
+    {
+      "href": "https://www.pcbway.com/project/shareproject?order=1",
+      "text": "View all source files projects"
+    },
+    {
+      "href": "https://www.pcbway.com/project/shareproject?order=1",
+      "text": "Source Files"
+    },
+    {
+      "href": "https://www.pcbway.com/pcbdesign/quotedesign",
+      "text": "circuit design"
+    },
+    {
+      "href": "https://www.pcbway.com/pcbdesign/quotedesign",
+      "text": "PCB design"
+    },
+    {
+      "href": "https://www.pcbway.com/pcbdesign/quotedesign",
+      "text": "Get Free Design Quote"
+    },
+    {
+      "href": "https://www.pcbway.com/blog/club-publish.html",
+      "text": "Submit for Publication"
+    },
+    {
+      "href": "https://www.pcbway.com/blog/Activities/Submit_for_Publication___Now_I_Write_Articles_in_PCBWay.html",
+      "text": "Write for PCBWay"
+    },
+    {
+      "href": "https://www.pcbway.com/blog?tag=PCB+industry",
+      "text": "PCB industry"
+    },
+    {
+      "href": "https://www.pcbway.com/contact.html",
+      "text": "Contact us"
+    }
+  ],
+  "discovered_via": "links",
+  "fetched_at": "2026-11-10T08:33:26+00:00",
+  "final_url": "https://www.pcbway.com/blog/PCB_Design_Layout/USB_Type_C_Pinout_Why_Are_5_1K_Pull_Down_Resistors_Needed_7037c2b7.html",
+  "first_seen_at": "2026-11-10T08:33:26+00:00",
+  "h1": "USB Type-C Pinout: Why Are 5.1KΩ Pull-Down Resistors Needed?",
+  "headings": [
+    {
+      "level": "h1",
+      "text": "USB Type-C Pinout: Why Are 5.1KΩ Pull-Down Resistors Needed?"
+    },
+    {
+      "level": "h2",
+      "text": "Basic Functions of USB Type-C Pins: Understanding the CC Pins"
+    },
+    {
+      "level": "h2",
+      "text": "The Main Functions of the 5.1KΩ Pull-Down Resistor"
+    },
+    {
+      "level": "h2",
+      "text": "How Does the USB Type-C CC Pin Work?"
+    },
+    {
+      "level": "h3",
+      "text": "Voltage Divider Detection Mechanism"
+    },
+    {
+      "level": "h3",
+      "text": "USB Type-C Device Roles"
+    },
+    {
+      "level": "h3",
+      "text": "Plug Orientation Detection"
+    },
+    {
+      "level": "h3",
+      "text": "Power Capability Identification (Without USB PD)"
+    },
+    {
+      "level": "h2",
+      "text": "Why Must the USB-C 5.1K Resistor Have This Specific Value?"
+    },
+    {
+      "level": "h3",
+      "text": "USB Type-C Standard Requirements"
+    },
+    {
+      "level": "h3",
+      "text": "Technical Reasons"
+    },
+    {
+      "level": "h2",
+      "text": "Important Considerations in USB Type-C Circuit Design"
+    },
+    {
+      "level": "h3",
+      "text": "CC1 and CC2 Must Have Separate Resistors"
+    },
+    {
+      "level": "h3",
+      "text": "Resistor Tolerance and Package Selection"
+    },
+    {
+      "level": "h2",
+      "text": "﻿Common USB Type-C Design Mistakes"
+    },
+    {
+      "level": "h3",
+      "text": "A Classic Design Mistake: Raspberry Pi 4"
+    },
+    {
+      "level": "h3",
+      "text": "USB PD Communication Through the CC Pin"
+    },
+    {
+      "level": "h2",
+      "text": "Conclusion"
+    },
+    {
+      "level": "h3",
+      "text": "Related articles"
+    }
+  ],
+  "images": [
+    {
+      "alt": "",
+      "src": "/project/img/images/avatar/user-pic.png"
+    },
+    {
+      "alt": "",
+      "src": "/project/img/images/loading-pro.gif"
+    },
+    {
+      "alt": "",
+      "src": "https://pcbwayfile.s3.us-west-2.amazonaws.com/web/23/10/03/1152415436848m.jpeg"
+    },
+    {
+      "alt": "",
+      "src": "https://pcbwayfile.s3.us-west-2.amazonaws.com/web/25/02/01/195239553dd028d967de6453aa74b91ac0e5423e73248m.png"
+    },
+    {
+      "alt": "",
+      "src": "https://pcbwayfile.s3-us-west-2.amazonaws.com/web/21/08/30/1823256917346m.png"
+    },
+    {
+      "alt": "",
+      "src": "https://pcb-files.s3.us-west-2.amazonaws.com/web/26/11/10/1503184261c1f3dcfe76d400c8657a890d50d209d3383t.png"
+    },
+    {
+      "alt": "",
+      "src": "https://pcb-files.s3.us-west-2.amazonaws.com/web/26/11/10/150510640629e253df2164adcac8f4d2d7a86b9585612t.png"
+    },
+    {
+      "alt": "",
+      "src": "https://pcb-files.s3.us-west-2.amazonaws.com/web/26/11/09/173802839632ebc8ea50b4908aea07bf4e9c3db316421t.png"
+    },
+    {
+      "alt": "",
+      "src": "https://pcb-files.s3.us-west-2.amazonaws.com/web/26/11/10/150707796189be022358f467d9965c059b3cf2f131203t.png"
+    },
+    {
+      "alt": "",
+      "src": "https://pcb-files.s3.us-west-2.amazonaws.com/web/26/11/10/150831968bb766e59da5a43fe82d560ed5a70259e2840t.jpg"
+    },
+    {
+      "alt": "",
+      "src": "https://pcb-files.s3.us-west-2.amazonaws.com/web/26/11/10/1510566217c1fde45db9747fb8c6effe6e12bfc2d1272t.png"
+    },
+    {
+      "alt": "",
+      "src": "https://pcb-files.s3.us-west-2.amazonaws.com/web/26/11/10/15141044568a2b1b6a77646dd96ea273382515e238682t.png"
+    },
+    {
+      "alt": "",
+      "src": "https://pcb-files.s3.us-west-2.amazonaws.com/web/26/11/10/151657513173d67faf9ec40acb0d3dffc0166d6344588t.png"
+    },
+    {
+      "alt": "",
+      "src": "/img/images/note-tips.png"
+    }
+  ],
+  "meta_description": "",
+  "modified_at": "",
+  "monitored_text": "PCBWay Community Search title or content Search PCBWay PCB Instant Quote CNC | 3D Printing Login Sign Up More Notifications No notifications. My Profile My projects My Likes My Deals My Goods for Bazaar Settings Sign Out Projects Categories DIY Electronics Arduino Hardware Audio Computers & USB Breakout Board Projects Home Automation LED Displays & Matrices IoT Robotics View all categories By Source Files Onju Voice - AI assistant replacement to Google Nest Mini by @justLV LogicAnalyzer V6.0 DIY 1kW Open Source MPPT Solar Charge Controller Tad Boy Color SummerCart64 - a fully open source N64 flashcart kv4p HT v1.7b QuinLED-Dig-Uno Arduino RC engine sound & light controller with inertia simulation for ESP32 Bike Fingerprint - PCB Solar Powered WiFi Weather Station V2.0 RIP-Felix PS3 Tantalizer Frog Boy Color View all source files projects Featured Projects Onju Voice - AI assistant replacement to Google Nest Mini by @justLV LogicAnalyzer V6.0 DIY 1kW Open Source MPPT Solar Charge Controller Featured Source Files Video View all projects Questions Sponsorships PCBWay Future Innovators Program Feedback Blog Store PCB Design Contest - 9th Project Design Contest - 2026 KiCad PCB Design Contest - 8th Project Design Contest - 7th Project Design Contest - KiCad Design Contest - 6th Project Design Contest - 5th PCB Design Contest - 4th PCB Design Contest - Raspberry Pi Pico Contest - PCB Design Tutorial - 3rd PCB Design Contest - I CAN SOLDER Kit Contest - 2nd PCB Design Contest - 1st PCB Design Contest Add questions Create a project Please verify your email address so that you can enjoy our more comprehensive services. Verify Now Blog > USB Type-C Pinout: Why Are 5.1KΩ Pull-Down Resistors Needed? USB Type-C Pinout: Why Are 5.1KΩ Pull-Down Resistors Needed? by: Mila Nov 09,2026 <dynamic-value> <dynamic-value> Posted in PCB Design & Layout USB Type-C pinout 5.1K pull-down resistor USB-C CC pin USB Type-C has become a common interface in modern electronic devices thanks to its reversible design, high-speed data transfer, and high-power delivery capabilities. However, in USB Type-C circuit design , a seemingly simple 5.1KΩ pull-down resistor plays an important role in device identification, connection detection, and power delivery. This article explains how the CC pins work, why two 5.1KΩ resistors are needed, and what to consider when designing a USB Type-C interface. Basic Functions of USB Type-C Pins: Understanding the CC Pins The CC (Configuration Channel) pins are among the most important pins in a USB Type-C connector. They are responsible for several key functions: Device Role Identification: Identify the power source (Source/DFP) and power sink (Sink/UFP). Plug Orientation Detection: Detect the orientation of the USB Type-C plug. Power Capability Identification: Determine the available default power level through the Rp resistor when USB PD is not used. USB PD Communication: Enable bidirectional communication through the CC pins for USB Power Delivery. VCONN Supply: Provide power to electronically marked cables equipped with E-Marker chips. （Type-C CC Pin） The Main Functions of the 5.1KΩ Pull-Down Resistor In a USB Type-C power sink (Sink/UFP), CC1 and CC2 typically each require a separate 5.1KΩ pull-down resistor (Rd) connected to ground. This is the standard resistor-based implementation of Rd and serves several important purposes. 1. Establishing a Defined CC Termination State The pull-down resistor provides a defined termination state for the CC pin. When a Source connects to a Sink, the Source-side pull-up resistor (Rp) and Sink-side pull-down resistor (Rd) form a detection circuit. By monitoring the voltage on the CC pin, the Source can determine whether a compatible Sink device has been connected. 2. Detecting Plug Orientation USB Type-C uses the CC1 and CC2 pins to detect plug orientation. Since the CC wire inside a standard Type-C cable connects to only one of the two CC pins, the Source can monitor their voltage states to identify which pin has an active connection. The interface controller then switches the corresponding data paths to ensure proper operation in either plug orientation. 3. Supporting Power Capability Identification The Source-side Rp and Sink-side Rd establish an electrical connection through the CC pin. By detecting the CC voltage, the Source can identify the connected Sink and determine the appropriate power delivery process. When USB PD is not used, the Source can also indicate its available default current capability through different Rp values. 4. Supporting USB PD Communication When both the Source and Sink support USB Power Delivery (USB PD), they can communicate bidirectionally through the CC pin to negotiate power voltage, current, and other supported functions. How Does the USB Type-C CC Pin Work? Voltage Divider Detection Mechanism The connection detection mechanism of a USB Type-C interface relies on the termination states of its CC pins. The Source-side CC pin is connected to a pull-up supply through Rp, while the Sink-side CC pin is connected to ground through a 5.1KΩ pull-down resistor (Rd). When the two devices are connected, these resistors form a voltage divider. For a resistor-based pull-up implementation, the CC voltage can be calculated using the following formula: Vcc = Vbus × (Rd / (Rp + Rd)) By monitoring the CC voltage, the Source can determine: Whether a compatible Sink device is connected. The type of connected termination. The orientation of the USB Type-C plug. The default power capability available to the Sink. Note that Rp can also be implemented using a current source instead of a resistor. Therefore, the formula above applies primarily to resistor-based pull-up implementations. USB Type-C Device Roles USB Type-C ports can operate in three main roles: Source (DFP): Supplies power and typically uses an Rp pull-up resistor or an equivalent current source for CC detection. Sink (UFP): Receives power and typically uses an Rd pull-down resistor (5.1KΩ) to establish the CC termination. Dual-Role Port (DRP): Can dynamically switch between Source and Sink roles depending on the connection. Plug Orientation Detection A USB Type-C connector has two CC pins, CC1 and CC2. However, in a standard cable connection, only one of them connects to the cable's CC wire. When the plug is inserted in one orientation, the cable's CC wire connects to CC1. When reversed, it connects to CC2. The Source monitors the voltage states of both pins to determine which one has an active connection and identify the plug orientation. The interface controller then switches the corresponding data paths based on the detected orientation, allowing the USB interface to work properly regardless of how the plug is inserted. Power Capability Identification (Without USB PD) Even without USB PD, a USB Type-C interface can indicate its available power capability through the Rp value on the CC pin. In addition to default USB current capabilities, a compliant Source can advertise 5V/1.5A or 5V/3A. These power levels are identified through different Rp resistance values or equivalent current-source implementations. Note: The voltage ranges above represent the corresponding detection ranges for the advertised current levels. Actual designs should follow the applicable USB Type-C specification and controller datasheets. Default USB current capability also depends on the USB connection type and its corresponding specification. Why Must the USB-C 5.1K Resistor Have This Specific Value? USB Type-C Standard Requirements For conventional USB Type-C Sink designs that implement Rd using resistors, 5.1KΩ is the standard pull-down resistance specified by the USB Type-C specification. It allows the Source to correctly identify the Sink connection and initiate the subsequent power delivery process according to the specification. It is important to note that the 5.1KΩ resistor alone does not mean the device supports USB PD communication. USB PD functionality also requires an appropriate protocol controller and physical-layer circuitry. Technical Reasons Specification Compliance: The 5.1KΩ value is the standard Rd resistance. It works with different Source-side Rp values to support the required connection detection mechanism. Reliable Detection: The appropriate pull-down resistance helps keep the CC voltage within the corresponding detection range, allowing the Source to correctly identify the Sink and its available power capability. Compatibility: Using non-standard values such as 10KΩ or 20KΩ may cause the CC voltage to fall outside the specified detection range, preventing some chargers or power sources from correctly identifying the Sink. Distinction from Ra: The USB Type-C specification also defines an Ra resistor, typically ranging from 800Ω to 1200Ω, which is used to identify cables requiring VCONN power. The clear difference between Rd and Ra helps the Source distinguish different connection states. Important Considerations in USB Type-C Circuit Design CC1 and CC2 Must Have Separate Resistors CC1 and CC2 must each have an independent 5.1KΩ pull-down resistor connected to GND. They should not share a single resistor. This is an easily overlooked detail in USB Type-C circuit design . If both CC pins share one pull-down resistor, neither pin can be guaranteed to have its own required Rd termination. When connecting a cable equipped with an E-Marker chip, the cable's Ra termination also participates in CC detection. Sharing one pull-down resistor may cause the Source to misinterpret the combination of Sink and Ra terminations, affecting device connection, cable identification, and VCONN supply. Resistor Tolerance and Package Selection For conventional resistor-based Rd implementations, a 5.1KΩ resistor with 1% tolerance is recommended to ensure stable resistance. Common package sizes include 0603 and 0805. The final selection depends on available PCB space, power dissipation, and assembly requirements. ﻿Common USB Type-C Design Mistakes 1. Missing Pull-Down Resistors: Without proper Rd termination, the Source may fail to detect the Sink device and initiate power delivery. 2. Sharing One Pull-Down Resistor: Connecting CC1 and CC2 to a single resistor may cause plug orientation detection problems and compatibility issues with some E-Marker cables. 3. Using the Wrong Resistance: Non-standard values such as 10KΩ or 20KΩ may cause the CC voltage to fall outside the specified detection range, affecting device identification and power delivery. A Classic Design Mistake: Raspberry Pi 4 （Raspberry Pi 4: Incorrect Type-C Output Pull-Down Resistor Design） The initial version of the Raspberry Pi 4 had a well-known USB Type-C design issue: CC1 and CC2 shared a single 5.1KΩ pull-down resistor instead of having separate pull-down resistors. This design did not comply with the USB Type-C specification. When connected to certain USB Type-C cables equipped with E-Marker chips, the Ra termination inside the cable could interact with the device's resistor network in an unexpected way. As a result, the power source could incorrectly identify the Raspberry Pi as an Audio Adapter Accessory and refuse to supply power. This case demonstrates how even a seemingly minor resistor connection error can affect the compatibility of an entire USB Type-C interface. Raspberry Pi addressed this issue in subsequent hardware revisions by separating the pull-down resistors for CC1 and CC2. （Type C sink; note that CC1 and CC2 are connected separately to 5.1k.） USB PD Communication Through the CC Pin Once the Source detects a valid connection through the 5.1KΩ Rd on the Sink side, it enables VBUS and provides the initial 5V supply. If both the Source and Sink support USB Power Delivery (USB PD), they can communicate bidirectionally through the CC pin to negotiate higher supply voltages (such as 9V, 15V, and 20V) and the corresponding current levels. USB PD uses BMC (Biphase Mark Coding) to transmit data through signal transitions on the CC pin. During this process, the 5.1KΩ pull-down resistor primarily establishes the Sink-side connection termination, while actual PD data communication is handled by the USB PD controller and its CC physical-layer circuitry. Therefore, the 5.1KΩ pull-down resistor is an important part of USB Type-C connection detection, but it is not the only requirement for USB PD communication. Conclusion Although the 5.1KΩ pull-down resistor is a simple passive component, it plays an important role in device identification, connection detection, and power compatibility in USB Type-C interfaces. Configuring separate Rd resistors for CC1 and CC2 allows Sink devices to establish connections according to the USB Type-C specification and communicate correctly with the Source. For PCB engineers, USB Type-C PCB design involves more than connecting data and power lines. Understanding how the CC pins work and properly configuring Rp and Rd resistors are equally important to avoiding device detection and power delivery issues. As USB Type-C and USB PD technologies continue to gain wider adoption, the CC pins remain essential for device connection, power negotiation, and cable identification. Getting these details right is fundamental to improving the reliability and compatibility of USB Type-C interfaces. Enter the year of your birth and check your Chinese Zodiac. Get Free Design Quote Join us Wanna be a dedicated PCBWay writer? We definately look forward to having you with us. Submit for Publication Become Our Writer Leave a Comment ( 0 ) Share to: Previous：PCBWay Store NewArrival Product - ESP32-C5 Mini Dual-band Development Board Next：No next one Related articles USB Type-C Pinout: Why Are 5.1KΩ Pull-Down Resistors Needed? Comments ( 0 ) Log in to post comments. Upload photo You can only upload 5 files in total. Each file cannot exceed 2MB. Supports JPG, JPEG, GIF, PNG, BMP 0 / 10000 It looks like you have not written anything. Please add a comment and try again. You can upload up to 5 images! Image size should not exceed 2MB! File format not supported! Post Comment Write for PCBWay Categories Select a Category Engineering Technical News PCB Layout Software Activities Help Center PCB Basic Information PCB Manufacturing Information PCB Design & Layout Flexible PCB Rigid-Flex PCB HDI PCB PCB Assembly Technology 3D Printing CNC Machining Sheet Metal Bending Countersink & Counterbore Hardware insertion Tapping Welding Sheet Cutting Injection Molding PCB Design Tutorial PCBWay Store Table of Contents Basic Functions of USB Type-C Pins: Understanding the CC Pins The Main Functions of the 5.1KΩ Pull-Down Resistor How Does the USB Type-C CC Pin Work? Why Must the USB-C 5.1K Resistor Have This Specific Value? Important Considerations in USB Type-C Circuit Design Common USB Type-C Design Mistakes Conclusion HOT TAG PCB Printed Circuit Board PCB design PCB Board PCB layout Circuit Board Printed Circuit Boards PCB Design Tutorial PCB industry pcb manufacturing KiCad pcbway IF YOU MISSED IT 1 PCB Layout Design Process from Schematic to Manufacturing 2 USB Type-C Pinout: Why Are 5.1KΩ Pull-Down Resistors Needed? 3 Clock Circuit Design Guidelines for PCB Layout 4 Differential Pair Routing: 3 Common Design Mistakes to Avoid 5 PCB Layout Guidelines for Better Soldering Quality 6 12 PCB Layout Guidelines for Better Component Placement 7 PCB Layout Considerations for Single-Point and Multi-Point Grounding 8 PCB Layout Guidelines for Special Component Placement 9 PCB Copper Thickness Guide for Current, Impedance, and Heat Dissipation The PCB Way that recognize the talent and effort of the best ELECTRONIC designers in the World. © COPYRIGHT 2019 About us Contact us Follow us on Share to Facebook Share to Twitter Share to Reddit Share to Linkedin Back to top",
+  "published_at": "2026-11-09T00:00:00+00:00",
+  "requested_url": "https://www.pcbway.com/blog/PCB_Design_Layout/USB_Type_C_Pinout_Why_Are_5_1K_Pull_Down_Resistors_Needed_7037c2b7.html",
+  "schema_version": 2,
+  "sections": [
+    {
+      "hash": "c6df4713c27202fc518ba120d6d0609429470b18",
+      "heading": "USB Type-C Pinout: Why Are 5.1KΩ Pull-Down Resistors Needed?",
+      "level": "h1",
+      "text": "USB Type-C Pinout: Why Are 5.1KΩ Pull-Down Resistors Needed? by: Mila Nov 09,2026 <dynamic-value> <dynamic-value> Posted in PCB Design & Layout USB Type-C pinout 5.1K pull-down resistor USB-C CC pin USB Type-C has become a common interface in modern electronic devices thanks to its reversible design, high-speed data transfer, and high-power delivery capabilities. However, in USB Type-C circuit design , a seemingly simple 5.1KΩ pull-down resistor plays an important role in device identification, connection detection, and power delivery. This article explains how the CC pins work, why two 5.1KΩ resistors are needed, and what to consider when designing a USB Type-C interface. Basic Functions of USB Type-C Pins: Understanding the CC Pins The CC (Configuration Channel) pins are among the most important pins in a USB Type-C connector. They are responsible for several key functions: Device Role Identification: Identify the power source (Source/DFP) and power sink (Sink/UFP). Plug Orientation Detection: Detect the orientation of the USB Type-C plug. Power Capability Identification: Determine the available default power level through the Rp resistor when USB PD is not used. USB PD Communic..."
+    },
+    {
+      "hash": "36751a5369ad73f3fac6a8a55b31f52a20c3a6ac",
+      "heading": "Basic Functions of USB Type-C Pins: Understanding the CC Pins",
+      "level": "h2",
+      "text": "Basic Functions of USB Type-C Pins: Understanding the CC Pins The CC (Configuration Channel) pins are among the most important pins in a USB Type-C connector. They are responsible for several key functions: Device Role Identification: Identify the power source (Source/DFP) and power sink (Sink/UFP). Plug Orientation Detection: Detect the orientation of the USB Type-C plug. Power Capability Identification: Determine the available default power level through the Rp resistor when USB PD is not used. USB PD Communication: Enable bidirectional communication through the CC pins for USB Power Delivery. VCONN Supply: Provide power to electronically marked cables equipped with E-Marker chips. （Type-C CC Pin）"
+    },
+    {
+      "hash": "2e281f74664a6e8751192b4ce10dde4c5aeb84a7",
+      "heading": "The Main Functions of the 5.1KΩ Pull-Down Resistor",
+      "level": "h2",
+      "text": "The Main Functions of the 5.1KΩ Pull-Down Resistor In a USB Type-C power sink (Sink/UFP), CC1 and CC2 typically each require a separate 5.1KΩ pull-down resistor (Rd) connected to ground. This is the standard resistor-based implementation of Rd and serves several important purposes. 1. Establishing a Defined CC Termination State The pull-down resistor provides a defined termination state for the CC pin. When a Source connects to a Sink, the Source-side pull-up resistor (Rp) and Sink-side pull-down resistor (Rd) form a detection circuit. By monitoring the voltage on the CC pin, the Source can determine whether a compatible Sink device has been connected. 2. Detecting Plug Orientation USB Type-C uses the CC1 and CC2 pins to detect plug orientation. Since the CC wire inside a standard Type-C cable connects to only one of the two CC pins, the Source can monitor their voltage states to identify which pin has an active connection. The interface controller then switches the corresponding data paths to ensure proper operation in either plug orientation. 3. Supporting Power Capability Identification The Source-side Rp and Sink-side Rd establish an electrical connection through the CC pin. B..."
+    },
+    {
+      "hash": "aa58ba115147277efe3c2d93f9c67eee2b9f79a4",
+      "heading": "How Does the USB Type-C CC Pin Work?",
+      "level": "h2",
+      "text": "How Does the USB Type-C CC Pin Work?"
+    },
+    {
+      "hash": "af6a3836e1ce3e0abdee0c0237065746712ec6a8",
+      "heading": "Voltage Divider Detection Mechanism",
+      "level": "h3",
+      "text": "Voltage Divider Detection Mechanism The connection detection mechanism of a USB Type-C interface relies on the termination states of its CC pins. The Source-side CC pin is connected to a pull-up supply through Rp, while the Sink-side CC pin is connected to ground through a 5.1KΩ pull-down resistor (Rd). When the two devices are connected, these resistors form a voltage divider. For a resistor-based pull-up implementation, the CC voltage can be calculated using the following formula: Vcc = Vbus × (Rd / (Rp + Rd)) By monitoring the CC voltage, the Source can determine: Whether a compatible Sink device is connected. The type of connected termination. The orientation of the USB Type-C plug. The default power capability available to the Sink. Note that Rp can also be implemented using a current source instead of a resistor. Therefore, the formula above applies primarily to resistor-based pull-up implementations."
+    },
+    {
+      "hash": "5512bab4fa7e979b7a0512f4b0f209f799929a19",
+      "heading": "USB Type-C Device Roles",
+      "level": "h3",
+      "text": "USB Type-C Device Roles USB Type-C ports can operate in three main roles: Source (DFP): Supplies power and typically uses an Rp pull-up resistor or an equivalent current source for CC detection. Sink (UFP): Receives power and typically uses an Rd pull-down resistor (5.1KΩ) to establish the CC termination. Dual-Role Port (DRP): Can dynamically switch between Source and Sink roles depending on the connection."
+    },
+    {
+      "hash": "e50a10deb2b184d56d44d65c6b6117ea2d2c042c",
+      "heading": "Plug Orientation Detection",
+      "level": "h3",
+      "text": "Plug Orientation Detection A USB Type-C connector has two CC pins, CC1 and CC2. However, in a standard cable connection, only one of them connects to the cable's CC wire. When the plug is inserted in one orientation, the cable's CC wire connects to CC1. When reversed, it connects to CC2. The Source monitors the voltage states of both pins to determine which one has an active connection and identify the plug orientation. The interface controller then switches the corresponding data paths based on the detected orientation, allowing the USB interface to work properly regardless of how the plug is inserted."
+    },
+    {
+      "hash": "f00ca5e34ff4bdee5fe3a276f9198e3f01a0c9b0",
+      "heading": "Power Capability Identification (Without USB PD)",
+      "level": "h3",
+      "text": "Power Capability Identification (Without USB PD) Even without USB PD, a USB Type-C interface can indicate its available power capability through the Rp value on the CC pin. In addition to default USB current capabilities, a compliant Source can advertise 5V/1.5A or 5V/3A. These power levels are identified through different Rp resistance values or equivalent current-source implementations. Note: The voltage ranges above represent the corresponding detection ranges for the advertised current levels. Actual designs should follow the applicable USB Type-C specification and controller datasheets. Default USB current capability also depends on the USB connection type and its corresponding specification."
+    },
+    {
+      "hash": "2566c7f06cd4149c052e6284c4cd72fde9e5d334",
+      "heading": "Why Must the USB-C 5.1K Resistor Have This Specific Value?",
+      "level": "h2",
+      "text": "Why Must the USB-C 5.1K Resistor Have This Specific Value?"
+    },
+    {
+      "hash": "bf0e5954e2b8288a018ba710d56dcb51c4ce9b90",
+      "heading": "USB Type-C Standard Requirements",
+      "level": "h3",
+      "text": "USB Type-C Standard Requirements For conventional USB Type-C Sink designs that implement Rd using resistors, 5.1KΩ is the standard pull-down resistance specified by the USB Type-C specification. It allows the Source to correctly identify the Sink connection and initiate the subsequent power delivery process according to the specification. It is important to note that the 5.1KΩ resistor alone does not mean the device supports USB PD communication. USB PD functionality also requires an appropriate protocol controller and physical-layer circuitry."
+    },
+    {
+      "hash": "466dad11a1301c7b55ab84ee6b34780f2de47795",
+      "heading": "Technical Reasons",
+      "level": "h3",
+      "text": "Technical Reasons Specification Compliance: The 5.1KΩ value is the standard Rd resistance. It works with different Source-side Rp values to support the required connection detection mechanism. Reliable Detection: The appropriate pull-down resistance helps keep the CC voltage within the corresponding detection range, allowing the Source to correctly identify the Sink and its available power capability. Compatibility: Using non-standard values such as 10KΩ or 20KΩ may cause the CC voltage to fall outside the specified detection range, preventing some chargers or power sources from correctly identifying the Sink. Distinction from Ra: The USB Type-C specification also defines an Ra resistor, typically ranging from 800Ω to 1200Ω, which is used to identify cables requiring VCONN power. The clear difference between Rd and Ra helps the Source distinguish different connection states."
+    },
+    {
+      "hash": "e60dbe829a4e439891552bc2dfb815eb13cdb1dc",
+      "heading": "Important Considerations in USB Type-C Circuit Design",
+      "level": "h2",
+      "text": "Important Considerations in USB Type-C Circuit Design"
+    },
+    {
+      "hash": "a8355c4a49965e7f5f6856f94c85e3c5ed0469bf",
+      "heading": "CC1 and CC2 Must Have Separate Resistors",
+      "level": "h3",
+      "text": "CC1 and CC2 Must Have Separate Resistors CC1 and CC2 must each have an independent 5.1KΩ pull-down resistor connected to GND. They should not share a single resistor. This is an easily overlooked detail in USB Type-C circuit design . If both CC pins share one pull-down resistor, neither pin can be guaranteed to have its own required Rd termination. When connecting a cable equipped with an E-Marker chip, the cable's Ra termination also participates in CC detection. Sharing one pull-down resistor may cause the Source to misinterpret the combination of Sink and Ra terminations, affecting device connection, cable identification, and VCONN supply."
+    },
+    {
+      "hash": "70d9b427d10d5107356ac82f92e6efa8c355861e",
+      "heading": "Resistor Tolerance and Package Selection",
+      "level": "h3",
+      "text": "Resistor Tolerance and Package Selection For conventional resistor-based Rd implementations, a 5.1KΩ resistor with 1% tolerance is recommended to ensure stable resistance. Common package sizes include 0603 and 0805. The final selection depends on available PCB space, power dissipation, and assembly requirements."
+    },
+    {
+      "hash": "e4261d183a30c12bfe272df87dffed48d1c00af1",
+      "heading": "﻿Common USB Type-C Design Mistakes",
+      "level": "h2",
+      "text": "﻿Common USB Type-C Design Mistakes 1. Missing Pull-Down Resistors: Without proper Rd termination, the Source may fail to detect the Sink device and initiate power delivery. 2. Sharing One Pull-Down Resistor: Connecting CC1 and CC2 to a single resistor may cause plug orientation detection problems and compatibility issues with some E-Marker cables. 3. Using the Wrong Resistance: Non-standard values such as 10KΩ or 20KΩ may cause the CC voltage to fall outside the specified detection range, affecting device identification and power delivery."
+    },
+    {
+      "hash": "9657171e8705149a9266ccded88acb8174931b2e",
+      "heading": "A Classic Design Mistake: Raspberry Pi 4",
+      "level": "h3",
+      "text": "A Classic Design Mistake: Raspberry Pi 4 （Raspberry Pi 4: Incorrect Type-C Output Pull-Down Resistor Design） The initial version of the Raspberry Pi 4 had a well-known USB Type-C design issue: CC1 and CC2 shared a single 5.1KΩ pull-down resistor instead of having separate pull-down resistors. This design did not comply with the USB Type-C specification. When connected to certain USB Type-C cables equipped with E-Marker chips, the Ra termination inside the cable could interact with the device's resistor network in an unexpected way. As a result, the power source could incorrectly identify the Raspberry Pi as an Audio Adapter Accessory and refuse to supply power. This case demonstrates how even a seemingly minor resistor connection error can affect the compatibility of an entire USB Type-C interface. Raspberry Pi addressed this issue in subsequent hardware revisions by separating the pull-down resistors for CC1 and CC2. （Type C sink; note that CC1 and CC2 are connected separately to 5.1k.）"
+    },
+    {
+      "hash": "96261da14c73777c47c16104d96c92ca66c4d239",
+      "heading": "USB PD Communication Through the CC Pin",
+      "level": "h3",
+      "text": "USB PD Communication Through the CC Pin Once the Source detects a valid connection through the 5.1KΩ Rd on the Sink side, it enables VBUS and provides the initial 5V supply. If both the Source and Sink support USB Power Delivery (USB PD), they can communicate bidirectionally through the CC pin to negotiate higher supply voltages (such as 9V, 15V, and 20V) and the corresponding current levels. USB PD uses BMC (Biphase Mark Coding) to transmit data through signal transitions on the CC pin. During this process, the 5.1KΩ pull-down resistor primarily establishes the Sink-side connection termination, while actual PD data communication is handled by the USB PD controller and its CC physical-layer circuitry. Therefore, the 5.1KΩ pull-down resistor is an important part of USB Type-C connection detection, but it is not the only requirement for USB PD communication."
+    },
+    {
+      "hash": "6e31ad529a30f68d098e8b43a5bb9cd24085e405",
+      "heading": "Conclusion",
+      "level": "h2",
+      "text": "Conclusion Although the 5.1KΩ pull-down resistor is a simple passive component, it plays an important role in device identification, connection detection, and power compatibility in USB Type-C interfaces. Configuring separate Rd resistors for CC1 and CC2 allows Sink devices to establish connections according to the USB Type-C specification and communicate correctly with the Source. For PCB engineers, USB Type-C PCB design involves more than connecting data and power lines. Understanding how the CC pins work and properly configuring Rp and Rd resistors are equally important to avoiding device detection and power delivery issues. As USB Type-C and USB PD technologies continue to gain wider adoption, the CC pins remain essential for device connection, power negotiation, and cable identification. Getting these details right is fundamental to improving the reliability and compatibility of USB Type-C interfaces."
+    },
+    {
+      "hash": "85b5b013495ff14affcce9b052a340d8d732eed0",
+      "heading": "Related articles",
+      "level": "h3",
+      "text": "Related articles USB Type-C Pinout: Why Are 5.1KΩ Pull-Down Resistors Needed?"
+    }
+  ],
+  "sitemap_lastmod": "",
+  "status": 200,
+  "structure_hash": "8e3679a2d6e15db6b345aab14a210aa9c024bdc7",
+  "text_excerpt": "PCBWay Community Search title or content Search PCBWay PCB Instant Quote CNC | 3D Printing Login Sign Up More Notifications No notifications. My Profile My projects My Likes My Deals My Goods for Bazaar Settings Sign Out Projects Categories DIY Electronics Arduino Hardware Audio Computers & USB Breakout Board Projects Home Automation LED Displays & Matrices IoT Robotics View all categories By Source Files Onju Voice - AI assistant replacement to Google Nest Mini by @justLV LogicAnalyzer V6.0 DIY 1kW Open Source MPPT Solar Charge Controller Tad Boy Color SummerCart64 - a fully open source N64 flashcart kv4p HT v1.7b QuinLED-Dig-Uno Arduino RC engine sound & light controller with inertia simulation for ESP32 Bike Fingerprint - PCB Solar Powered WiFi Weather Station V2.0 RIP-Felix PS3 Tantalizer Frog Boy Color View all source files projects Featured Projects Onju Voice - AI assistant replacement to Google Nest Mini by @justLV LogicAnalyzer V6.0 DIY 1kW Open Source MPPT Solar Charge Controller Featured Source Files Video View all projects Questions Sponsorships PCBWay Future Innovators Program Feedback Blog Store PCB Design Contest - 9th Project Design Contest - 2026 KiCad PCB Design...",
+  "text_hash": "87e9c11d0c17ba7fef2e545aac649a0b0974479a",
+  "title": "USB Type-C Pinout: Why Are 5.1KΩ Pull-Down Resistors Needed? - PCB Design & Layout - PCBway",
+  "url": "https://www.pcbway.com/blog/PCB_Design_Layout/USB_Type_C_Pinout_Why_Are_5_1K_Pull_Down_Resistors_Needed_7037c2b7.html"
+}
