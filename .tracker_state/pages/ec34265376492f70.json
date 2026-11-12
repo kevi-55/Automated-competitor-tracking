@@ -1,0 +1,275 @@
+{
+  "canonical": "",
+  "category": "content",
+  "competitor": "PCBWay",
+  "ctas": [
+    {
+      "href": "https://www.pcbway.com/orderonline.aspx",
+      "text": "PCB Instant Quote"
+    },
+    {
+      "href": "javascript:void(0)",
+      "text": "Sign Up"
+    },
+    {
+      "href": "https://www.pcbway.com/project/shareproject?order=1",
+      "text": "By Source Files"
+    },
+    {
+      "href": "https://www.pcbway.com/project/shareproject?order=1",
+      "text": "View all source files projects"
+    },
+    {
+      "href": "https://www.pcbway.com/project/shareproject?order=1",
+      "text": "Source Files"
+    },
+    {
+      "href": "https://www.pcbway.com/pcbdesign/quotelayout",
+      "text": "PCB layout"
+    },
+    {
+      "href": "https://www.pcbway.com/pcbdesign/quotelayout",
+      "text": "Get Free Layout Quote"
+    },
+    {
+      "href": "https://www.pcbway.com/blog/club-publish.html",
+      "text": "Submit for Publication"
+    },
+    {
+      "href": "https://www.pcbway.com/blog/Activities/Submit_for_Publication___Now_I_Write_Articles_in_PCBWay.html",
+      "text": "Write for PCBWay"
+    },
+    {
+      "href": "javascript:void(0)",
+      "text": "1. What Is a Decoupling Capacitor? The IC's Instantaneous Power Source"
+    },
+    {
+      "href": "https://www.pcbway.com/blog?tag=PCB+industry",
+      "text": "PCB industry"
+    },
+    {
+      "href": "https://www.pcbway.com/contact.html",
+      "text": "Contact us"
+    }
+  ],
+  "discovered_via": "links",
+  "fetched_at": "2026-11-12T08:24:20+00:00",
+  "final_url": "https://www.pcbway.com/blog/PCB_Design_Layout/Why_Should_a_Decoupling_Capacitor_Be_Placed_Close_to_the_IC_c7de9a08.html",
+  "first_seen_at": "2026-11-12T08:24:20+00:00",
+  "h1": "Why Should a Decoupling Capacitor Be Placed Close to the IC",
+  "headings": [
+    {
+      "level": "h1",
+      "text": "Why Should a Decoupling Capacitor Be Placed Close to the IC"
+    },
+    {
+      "level": "h2",
+      "text": "1. What Is a Decoupling Capacitor? The IC's Instantaneous Power Source"
+    },
+    {
+      "level": "h2",
+      "text": "2. Capacitors Also Have Parasitic Inductance"
+    },
+    {
+      "level": "h2",
+      "text": "3. Simulation: How Does Placement Distance Affect Decoupling Performance?"
+    },
+    {
+      "level": "h3",
+      "text": "Varying the Distance Between the Decoupling Capacitor and the IC"
+    },
+    {
+      "level": "h3",
+      "text": "Varying the Capacitance"
+    },
+    {
+      "level": "h2",
+      "text": "4. Multi-Level Decoupling for Better Power Integrity"
+    },
+    {
+      "level": "h3",
+      "text": "Level 1: At the PCB Power Input or Voltage Regulator Output (Energy Storage and Low-Frequency Support)"
+    },
+    {
+      "level": "h3",
+      "text": "Level 2: Close to the IC Power Pins (High-Frequency Decoupling)"
+    },
+    {
+      "level": "h2",
+      "text": "5. Practical PCB Decoupling Capacitor Layout Guidelines"
+    },
+    {
+      "level": "h3",
+      "text": "How Close Is Close Enough?"
+    },
+    {
+      "level": "h3",
+      "text": "Pay Attention to the Ground Via"
+    },
+    {
+      "level": "h2",
+      "text": "Conclusion"
+    },
+    {
+      "level": "h3",
+      "text": "Related articles"
+    }
+  ],
+  "images": [
+    {
+      "alt": "",
+      "src": "/project/img/images/avatar/user-pic.png"
+    },
+    {
+      "alt": "",
+      "src": "/project/img/images/loading-pro.gif"
+    },
+    {
+      "alt": "",
+      "src": "https://pcbwayfile.s3.us-west-2.amazonaws.com/web/23/10/03/1152415436848m.jpeg"
+    },
+    {
+      "alt": "",
+      "src": "https://pcbwayfile.s3.us-west-2.amazonaws.com/web/25/02/01/195239553dd028d967de6453aa74b91ac0e5423e73248m.png"
+    },
+    {
+      "alt": "",
+      "src": "https://pcbwayfile.s3-us-west-2.amazonaws.com/web/21/08/30/1823256917346m.png"
+    },
+    {
+      "alt": "",
+      "src": "https://pcb-files.s3.us-west-2.amazonaws.com/web/26/11/11/16235120803aee29b1c8e4ababa8b179aa28aa2ee1603t.png"
+    },
+    {
+      "alt": "",
+      "src": "https://pcb-files.s3.us-west-2.amazonaws.com/web/26/11/11/16250216804e4e23615ed4437a9ce3bc4aac228b47552t.png"
+    },
+    {
+      "alt": "",
+      "src": "https://pcb-files.s3.us-west-2.amazonaws.com/web/26/11/11/164235855b62b281f371f437a9f108c1f0818b6cd3313t.png"
+    },
+    {
+      "alt": "",
+      "src": "https://pcb-files.s3.us-west-2.amazonaws.com/web/26/11/11/1645463496307df0f649f41bdaec3e6c1fffb51892272t.png"
+    },
+    {
+      "alt": "",
+      "src": "https://pcb-files.s3.us-west-2.amazonaws.com/web/26/11/11/16484867816ebafa8c9be4138ad6d86f315c70c834040t.png"
+    },
+    {
+      "alt": "",
+      "src": "https://pcb-files.s3.us-west-2.amazonaws.com/web/26/11/11/16524216402a3cb4989da43f38f6b74076f3df72f2174t.png"
+    },
+    {
+      "alt": "",
+      "src": "https://pcb-files.s3.us-west-2.amazonaws.com/web/26/11/11/170115523582599c3c24d4ab3897dd3320ffa02c01701t.png"
+    },
+    {
+      "alt": "",
+      "src": "https://pcb-files.s3.us-west-2.amazonaws.com/web/26/11/11/170422398de8787390c444fd68eb2ba953f4ada964148t.png"
+    },
+    {
+      "alt": "",
+      "src": "/img/images/note-tips.png"
+    }
+  ],
+  "meta_description": "",
+  "modified_at": "",
+  "monitored_text": "PCBWay Community Search title or content Search PCBWay PCB Instant Quote CNC | 3D Printing Login Sign Up More Notifications No notifications. My Profile My projects My Likes My Deals My Goods for Bazaar Settings Sign Out Projects Categories DIY Electronics Arduino Hardware Audio Computers & USB Breakout Board Projects Home Automation LED Displays & Matrices IoT Robotics View all categories By Source Files Onju Voice - AI assistant replacement to Google Nest Mini by @justLV LogicAnalyzer V6.0 DIY 1kW Open Source MPPT Solar Charge Controller Tad Boy Color SummerCart64 - a fully open source N64 flashcart kv4p HT v1.7b QuinLED-Dig-Uno Arduino RC engine sound & light controller with inertia simulation for ESP32 Bike Fingerprint - PCB Solar Powered WiFi Weather Station V2.0 RIP-Felix PS3 Tantalizer Frog Boy Color View all source files projects Featured Projects Onju Voice - AI assistant replacement to Google Nest Mini by @justLV LogicAnalyzer V6.0 DIY 1kW Open Source MPPT Solar Charge Controller Featured Source Files Video View all projects Questions Sponsorships PCBWay Future Innovators Program Feedback Blog Store PCB Design Contest - 9th Project Design Contest - 2026 KiCad PCB Design Contest - 8th Project Design Contest - 7th Project Design Contest - KiCad Design Contest - 6th Project Design Contest - 5th PCB Design Contest - 4th PCB Design Contest - Raspberry Pi Pico Contest - PCB Design Tutorial - 3rd PCB Design Contest - I CAN SOLDER Kit Contest - 2nd PCB Design Contest - 1st PCB Design Contest Add questions Create a project Please verify your email address so that you can enjoy our more comprehensive services. Verify Now Blog > Why Should a Decoupling Capacitor Be Placed Close to the IC Why Should a Decoupling Capacitor Be Placed Close to the IC by: Mila Nov 10,2026 <dynamic-value> <dynamic-value> Posted in PCB Design & Layout Decoupling Capacitor Decoupling Capacitor Placement Decoupling Capacitor Layout PCB Decoupling Capacitor “Decoupling capacitors should be placed as close to the IC as possible.” Almost every electronics design textbook emphasizes this rule. However, few explain exactly why the distance matters. If this is treated as a rule to memorize rather than a design principle to understand, it can be difficult to apply it effectively when layout problems arise. To understand why placement matters, we need to look at three key factors: parasitic inductance, capacitor equivalent series inductance (ESL), and current loop design. This article explores how decoupling capacitor placement affects circuit performance through simulation and practical PCB layout examples. 1. What Is a Decoupling Capacitor? The IC's Instantaneous Power Source Simply put, a decoupling capacitor (also known as a bypass capacitor) acts as a local energy storage unit. When an IC experiences a transient current demand, the capacitor can quickly supply the required current, helping maintain a stable supply voltage. When digital ICs switch logic states, their internal transistors switch rapidly and draw brief bursts of current from the power supply. If this current must be delivered entirely by a remote power source through long PCB traces, the parasitic inductance in the power and ground paths will oppose rapid changes in current. This can cause supply voltage drops, ground potential fluctuations, and other issues, including ground bounce. When a decoupling capacitor is placed close to the IC's power pin, the IC can draw charge from the nearby capacitor to meet transient current demands instead of relying entirely on the remote power supply. Because the current loop between the capacitor and the IC is shorter, its parasitic inductance is lower, helping reduce power supply voltage fluctuations. （A decoupling capacitor placed close to the IC supplies transient current during switching operations.） PCB traces between the capacitor and the IC inevitably introduce parasitic inductance. In general, the farther apart they are, the greater the parasitic inductance contributed by the traces. This trace-induced inductance is referred to as Lwire throughout this article. The trace inductance and the capacitor's own equivalent series inductance (ESL) jointly affect the entire decoupling loop. At high frequencies, inductive reactance increases with frequency, making it more difficult for the capacitor to deliver current quickly. In other words, the farther the capacitor is from the IC, the greater the parasitic inductance in the current loop is likely to be, and the less effective the capacitor becomes at high-frequency decoupling. 2. Capacitors Also Have Parasitic Inductance There is another important factor to consider: the capacitor itself has an equivalent series inductance (ESL), denoted as Lesl. A capacitor's ESL depends on its package size, internal construction, and mounting method. Generally, surface-mount ceramic capacitors have relatively low ESL because they do not have long leads. Through-hole capacitors, on the other hand, typically have higher ESL due to the additional inductance introduced by their leads and mounting paths. Because of ESL, every capacitor has an effective self-resonant frequency (SRF). The self-resonant frequency can be approximately calculated using the following formula: Where: L is the capacitor's equivalent series inductance (ESL). C is the capacitance. Below the self-resonant frequency, the capacitor behaves primarily as a capacitive element. At the self-resonant frequency, its impedance reaches a minimum. Above this frequency, the capacitor behaves primarily as an inductor. This is one reason why surface-mount ceramic capacitors are preferred for decoupling applications. Their relatively low ESL allows them to maintain capacitive behavior over a wider frequency range. The two parasitic inductances mentioned above—trace inductance Lwire and the capacitor's own ESL (Lesl)—can be modeled as series inductances in a simplified equivalent circuit. Together with the capacitance C, they form an LC network that affects the overall performance of the decoupling loop. In an actual PCB design, other parasitic elements introduced by the power and ground paths, pads, and vias must also be taken into account. (Equivalent circuit of a decoupling capacitor.) Trace parasitic inductance Lwire and the capacitor's equivalent series inductance Lesl jointly affect the high-frequency performance of the decoupling loop. 3. Simulation: How Does Placement Distance Affect Decoupling Performance? Varying the Distance Between the Decoupling Capacitor and the IC Simulation provides a straightforward way to observe how changes in capacitor placement distance affect power supply voltage fluctuations. The simulation parameters are as follows: Voltage source: Supply voltage VCC = 3.3 V. Current source: Simulates IC switching activity with a 1 ns rise time. Inductor: Represents the trace inductance Lwire between the IC and the capacitor. Decoupling capacitor: C = 0.1 μF, with an equivalent series inductance (ESL) of 1 nH. Measurement point: Voltage at the IC's power supply pin. (Simulation circuit schematic) Different placement distances between the IC and the capacitor are simulated by varying Lwire. （Simulation results with different trace inductance values） The simulation waveforms lead to the following conclusions: The closer the capacitor is to the IC, the smaller Lwire becomes. This generally reduces parasitic inductance in the current loop and improves power supply voltage stabilization. When the capacitor is placed too far away, additional trace inductance increases high-frequency impedance, reducing the capacitor's ability to respond to the IC's transient current demands. As trace inductance increases, the resonant frequency of the LC loop decreases, resulting in a longer ringing period. Varying the Capacitance Increasing capacitance helps suppress lower-frequency voltage fluctuations, but high-frequency performance does not necessarily improve due to ESL limitations. The simulation results show that increasing capacitance allows the capacitor to store more charge. Under otherwise identical conditions, this can help reduce voltage fluctuations at lower frequencies. However, this does not mean that a larger capacitor always provides better high-frequency decoupling. The capacitor's ESL limits its high-frequency performance. Once the operating frequency exceeds the self-resonant frequency, the capacitor behaves primarily as an inductor. Increasing capacitance alone may therefore not improve high-frequency decoupling. When selecting decoupling capacitors, capacitance should not be the only consideration. ESL and the target operating frequency must also be taken into account. 4. Multi-Level Decoupling for Better Power Integrity A single decoupling capacitor cannot effectively cover a wide frequency range. In practice, capacitors with different capacitance values are usually placed at different locations in the power distribution network to meet decoupling requirements across multiple frequency ranges. Level 1: At the PCB Power Input or Voltage Regulator Output (Energy Storage and Low-Frequency Support) These capacitors are typically placed near the power input or voltage regulator output. Their main functions include: Providing additional charge storage to support load variations. Reducing power supply voltage fluctuations at lower frequencies. Working with filtering circuits, when necessary, to suppress external power supply noise. Component selection: Aluminum electrolytic or tantalum capacitors with capacitance values in the tens of microfarads are commonly used. An LC filter can also be added when necessary. Level 2: Close to the IC Power Pins (High-Frequency Decoupling) These capacitors are placed close to the IC's power and ground pins. Their main functions include: Supplying local transient current during IC switching operations. Reducing the impedance of high-frequency current loops. Minimizing transient voltage fluctuations in the power and ground paths. Component selection: Surface-mount ceramic capacitors, typically ranging from 0.01 μF to 0.1 μF, are commonly used. Low-ESL models are preferred. The actual capacitance and number of capacitors should be determined based on the IC datasheet and power integrity requirements. As a general starting point, one decoupling capacitor per IC can be considered. For low-speed, low-current ICs, multiple devices may also share a single capacitor if the power distribution network and current loop are properly designed. The first level provides energy storage and low-frequency power support, while the second level suppresses high-frequency transient noise near the IC. 5. Practical PCB Decoupling Capacitor Layout Guidelines How Close Is Close Enough? As a general guideline, when space allows, the distance between a decoupling capacitor and the IC's power and ground pins should ideally be kept within 2–3 mm. However, this is only a practical reference for some conventional designs, not a universal design standard. For high-speed digital circuits, RF circuits, and other applications with demanding power integrity requirements, the layout recommendations provided by the IC manufacturer should take priority. It is also important to understand that physical proximity alone does not guarantee effective decoupling. What really matters is keeping the actual current path as short as possible. Even if a capacitor is physically placed right next to an IC, routing the power and ground traces along unnecessarily long paths can still create a large current loop. This increases parasitic inductance and reduces decoupling effectiveness. Conversely, even if there is a small physical gap between the components, a direct connection with a sufficiently short current loop can still provide good decoupling performance. When evaluating decoupling layouts, do not focus solely on the physical distance between components. Pay attention to the length of the complete current loop and its associated parasitic inductance. (Poor layout example) Although the components appear close together, winding traces unnecessarily extend the actual current path. The effectiveness of a decoupling capacitor should be evaluated based on the actual current loop. Pay Attention to the Ground Via In multilayer PCB designs, the via connecting the capacitor's ground terminal to the ground plane should be placed as close as possible to the capacitor's ground pad. When the design allows, the via can be placed directly next to the pad or implemented using an appropriate via-in-pad design. If the via is too far from the pad, the connecting trace also introduces parasitic inductance, increasing the impedance of the current loop. When space permits, one or more ground vias can be placed near the capacitor's ground pad to shorten the connection to the ground plane. At the same time, avoid unnecessary vias or routing between the IC's power pin and the decoupling capacitor to keep the entire current loop as short as possible. Conclusion Effective decoupling requires more than simply placing a capacitor near an IC. Capacitance, ESL, placement, and current loop design all affect power supply stability. By understanding how these factors interact and applying proper PCB layout techniques, you can reduce power supply noise and improve overall circuit performance. Enter the year of your birth and check your Chinese Zodiac. Get Free Layout Quote Join us Wanna be a dedicated PCBWay writer? We definately look forward to having you with us. Submit for Publication Become Our Writer Leave a Comment ( 0 ) Share to: Previous：USB Type-C Pinout: Why Are 5.1KΩ Pull-Down Resistors Needed? Next：No next one Related articles Why Should a Decoupling Capacitor Be Placed Close to the IC Are More PCB Decoupling Capacitors Always Better? 0402 vs 0603 Capacitor for High-Speed PCB Decoupling Power Supply Capacitor Layout: Placement Rules for Bulk and Small Capacitors Comments ( 0 ) Log in to post comments. Upload photo You can only upload 5 files in total. Each file cannot exceed 2MB. Supports JPG, JPEG, GIF, PNG, BMP 0 / 10000 It looks like you have not written anything. Please add a comment and try again. You can upload up to 5 images! Image size should not exceed 2MB! File format not supported! Post Comment Write for PCBWay Categories Select a Category Engineering Technical News PCB Layout Software Activities Help Center PCB Basic Information PCB Manufacturing Information PCB Design & Layout Flexible PCB Rigid-Flex PCB HDI PCB PCB Assembly Technology 3D Printing CNC Machining Sheet Metal Bending Countersink & Counterbore Hardware insertion Tapping Welding Sheet Cutting Injection Molding PCB Design Tutorial PCBWay Store Table of Contents 1. What Is a Decoupling Capacitor? The IC's Instantaneous Power Source 2. Capacitors Also Have Parasitic Inductance 3. Simulation: How Does Placement Distance Affect Decoupling Performance? 4. Multi-Level Decoupling for Better Power Integrity 5. Practical PCB Decoupling Capacitor Layout Guidelines Conclusion HOT TAG PCB Printed Circuit Board PCB design PCB Board PCB layout Circuit Board Printed Circuit Boards PCB Design Tutorial PCB industry pcb manufacturing KiCad pcbway IF YOU MISSED IT 1 PCB Layout Design Process from Schematic to Manufacturing 2 Why Should a Decoupling Capacitor Be Placed Close to the IC 3 USB Type-C Pinout: Why Are 5.1KΩ Pull-Down Resistors Needed? 4 Clock Circuit Design Guidelines for PCB Layout 5 Differential Pair Routing: 3 Common Design Mistakes to Avoid 6 PCB Layout Guidelines for Better Soldering Quality 7 12 PCB Layout Guidelines for Better Component Placement 8 PCB Layout Considerations for Single-Point and Multi-Point Grounding 9 PCB Layout Guidelines for Special Component Placement The PCB Way that recognize the talent and effort of the best ELECTRONIC designers in the World. © COPYRIGHT 2019 About us Contact us Follow us on Share to Facebook Share to Twitter Share to Reddit Share to Linkedin Back to top",
+  "published_at": "2026-11-10T00:00:00+00:00",
+  "requested_url": "https://www.pcbway.com/blog/PCB_Design_Layout/Why_Should_a_Decoupling_Capacitor_Be_Placed_Close_to_the_IC_c7de9a08.html",
+  "schema_version": 2,
+  "sections": [
+    {
+      "hash": "93d9f6c559493fff7a513c44ec7a657e2f7d83c7",
+      "heading": "Why Should a Decoupling Capacitor Be Placed Close to the IC",
+      "level": "h1",
+      "text": "Why Should a Decoupling Capacitor Be Placed Close to the IC by: Mila Nov 10,2026 <dynamic-value> <dynamic-value> Posted in PCB Design & Layout Decoupling Capacitor Decoupling Capacitor Placement Decoupling Capacitor Layout PCB Decoupling Capacitor “Decoupling capacitors should be placed as close to the IC as possible.” Almost every electronics design textbook emphasizes this rule. However, few explain exactly why the distance matters. If this is treated as a rule to memorize rather than a design principle to understand, it can be difficult to apply it effectively when layout problems arise. To understand why placement matters, we need to look at three key factors: parasitic inductance, capacitor equivalent series inductance (ESL), and current loop design. This article explores how decoupling capacitor placement affects circuit performance through simulation and practical PCB layout examples. 1. What Is a Decoupling Capacitor? The IC's Instantaneous Power Source Simply put, a decoupling capacitor (also known as a bypass capacitor) acts as a local energy storage unit. When an IC experiences a transient current demand, the capacitor can quickly supply the required current, helping ma..."
+    },
+    {
+      "hash": "922225bf75c781ca6a66908448fd5da3fa7a2187",
+      "heading": "1. What Is a Decoupling Capacitor? The IC's Instantaneous Power Source",
+      "level": "h2",
+      "text": "1. What Is a Decoupling Capacitor? The IC's Instantaneous Power Source Simply put, a decoupling capacitor (also known as a bypass capacitor) acts as a local energy storage unit. When an IC experiences a transient current demand, the capacitor can quickly supply the required current, helping maintain a stable supply voltage. When digital ICs switch logic states, their internal transistors switch rapidly and draw brief bursts of current from the power supply. If this current must be delivered entirely by a remote power source through long PCB traces, the parasitic inductance in the power and ground paths will oppose rapid changes in current. This can cause supply voltage drops, ground potential fluctuations, and other issues, including ground bounce. When a decoupling capacitor is placed close to the IC's power pin, the IC can draw charge from the nearby capacitor to meet transient current demands instead of relying entirely on the remote power supply. Because the current loop between the capacitor and the IC is shorter, its parasitic inductance is lower, helping reduce power supply voltage fluctuations. （A decoupling capacitor placed close to the IC supplies transient current durin..."
+    },
+    {
+      "hash": "5a9ac833858b0aba5b73ff05b656cf4394bc937c",
+      "heading": "2. Capacitors Also Have Parasitic Inductance",
+      "level": "h2",
+      "text": "2. Capacitors Also Have Parasitic Inductance There is another important factor to consider: the capacitor itself has an equivalent series inductance (ESL), denoted as Lesl. A capacitor's ESL depends on its package size, internal construction, and mounting method. Generally, surface-mount ceramic capacitors have relatively low ESL because they do not have long leads. Through-hole capacitors, on the other hand, typically have higher ESL due to the additional inductance introduced by their leads and mounting paths. Because of ESL, every capacitor has an effective self-resonant frequency (SRF). The self-resonant frequency can be approximately calculated using the following formula: Where: L is the capacitor's equivalent series inductance (ESL). C is the capacitance."
+    },
+    {
+      "hash": "74889f66f43169c0d39885e58b35ac7474932a9b",
+      "heading": "3. Simulation: How Does Placement Distance Affect Decoupling Performance?",
+      "level": "h2",
+      "text": "3. Simulation: How Does Placement Distance Affect Decoupling Performance?"
+    },
+    {
+      "hash": "c4447b97bb501aec1a656f143b392e80ff10a21d",
+      "heading": "Varying the Distance Between the Decoupling Capacitor and the IC",
+      "level": "h3",
+      "text": "Varying the Distance Between the Decoupling Capacitor and the IC Simulation provides a straightforward way to observe how changes in capacitor placement distance affect power supply voltage fluctuations. The simulation parameters are as follows: Voltage source: Supply voltage VCC = 3.3 V. Current source: Simulates IC switching activity with a 1 ns rise time. Inductor: Represents the trace inductance Lwire between the IC and the capacitor. Decoupling capacitor: C = 0.1 μF, with an equivalent series inductance (ESL) of 1 nH. Measurement point: Voltage at the IC's power supply pin. (Simulation circuit schematic) Different placement distances between the IC and the capacitor are simulated by varying Lwire. （Simulation results with different trace inductance values）"
+    },
+    {
+      "hash": "b4d0af08350099c4635345deee12d79ba9e5c0b1",
+      "heading": "Varying the Capacitance",
+      "level": "h3",
+      "text": "Varying the Capacitance Increasing capacitance helps suppress lower-frequency voltage fluctuations, but high-frequency performance does not necessarily improve due to ESL limitations. The simulation results show that increasing capacitance allows the capacitor to store more charge. Under otherwise identical conditions, this can help reduce voltage fluctuations at lower frequencies. However, this does not mean that a larger capacitor always provides better high-frequency decoupling. The capacitor's ESL limits its high-frequency performance. Once the operating frequency exceeds the self-resonant frequency, the capacitor behaves primarily as an inductor. Increasing capacitance alone may therefore not improve high-frequency decoupling. When selecting decoupling capacitors, capacitance should not be the only consideration. ESL and the target operating frequency must also be taken into account."
+    },
+    {
+      "hash": "8559e88fd28a8e5fd41e0c2b5a5dbb67a431d59d",
+      "heading": "4. Multi-Level Decoupling for Better Power Integrity",
+      "level": "h2",
+      "text": "4. Multi-Level Decoupling for Better Power Integrity A single decoupling capacitor cannot effectively cover a wide frequency range. In practice, capacitors with different capacitance values are usually placed at different locations in the power distribution network to meet decoupling requirements across multiple frequency ranges."
+    },
+    {
+      "hash": "d7b592d5c2cf16af5a6a99771795692c47c5a69b",
+      "heading": "Level 1: At the PCB Power Input or Voltage Regulator Output (Energy Storage and Low-Frequency Support)",
+      "level": "h3",
+      "text": "Level 1: At the PCB Power Input or Voltage Regulator Output (Energy Storage and Low-Frequency Support) These capacitors are typically placed near the power input or voltage regulator output. Their main functions include: Providing additional charge storage to support load variations. Reducing power supply voltage fluctuations at lower frequencies. Working with filtering circuits, when necessary, to suppress external power supply noise. Component selection: Aluminum electrolytic or tantalum capacitors with capacitance values in the tens of microfarads are commonly used. An LC filter can also be added when necessary."
+    },
+    {
+      "hash": "59272b9a8cee9962bbb908b8c033238c47875eba",
+      "heading": "Level 2: Close to the IC Power Pins (High-Frequency Decoupling)",
+      "level": "h3",
+      "text": "Level 2: Close to the IC Power Pins (High-Frequency Decoupling) These capacitors are placed close to the IC's power and ground pins. Their main functions include: Supplying local transient current during IC switching operations. Reducing the impedance of high-frequency current loops. Minimizing transient voltage fluctuations in the power and ground paths. Component selection: Surface-mount ceramic capacitors, typically ranging from 0.01 μF to 0.1 μF, are commonly used. Low-ESL models are preferred. The actual capacitance and number of capacitors should be determined based on the IC datasheet and power integrity requirements. As a general starting point, one decoupling capacitor per IC can be considered. For low-speed, low-current ICs, multiple devices may also share a single capacitor if the power distribution network and current loop are properly designed. The first level provides energy storage and low-frequency power support, while the second level suppresses high-frequency transient noise near the IC."
+    },
+    {
+      "hash": "738fcee6053364641d3917b5869ca90a5cc09a13",
+      "heading": "5. Practical PCB Decoupling Capacitor Layout Guidelines",
+      "level": "h2",
+      "text": "5. Practical PCB Decoupling Capacitor Layout Guidelines"
+    },
+    {
+      "hash": "fe0311b1c2ebb8470118c76cc2ca45400d52ad4a",
+      "heading": "How Close Is Close Enough?",
+      "level": "h3",
+      "text": "How Close Is Close Enough? As a general guideline, when space allows, the distance between a decoupling capacitor and the IC's power and ground pins should ideally be kept within 2–3 mm. However, this is only a practical reference for some conventional designs, not a universal design standard. For high-speed digital circuits, RF circuits, and other applications with demanding power integrity requirements, the layout recommendations provided by the IC manufacturer should take priority. It is also important to understand that physical proximity alone does not guarantee effective decoupling. What really matters is keeping the actual current path as short as possible. Even if a capacitor is physically placed right next to an IC, routing the power and ground traces along unnecessarily long paths can still create a large current loop. This increases parasitic inductance and reduces decoupling effectiveness. Conversely, even if there is a small physical gap between the components, a direct connection with a sufficiently short current loop can still provide good decoupling performance. When evaluating decoupling layouts, do not focus solely on the physical distance between components. Pay..."
+    },
+    {
+      "hash": "0ef01389d328486ff6108d64c2e436c653180b44",
+      "heading": "Pay Attention to the Ground Via",
+      "level": "h3",
+      "text": "Pay Attention to the Ground Via In multilayer PCB designs, the via connecting the capacitor's ground terminal to the ground plane should be placed as close as possible to the capacitor's ground pad. When the design allows, the via can be placed directly next to the pad or implemented using an appropriate via-in-pad design. If the via is too far from the pad, the connecting trace also introduces parasitic inductance, increasing the impedance of the current loop. When space permits, one or more ground vias can be placed near the capacitor's ground pad to shorten the connection to the ground plane. At the same time, avoid unnecessary vias or routing between the IC's power pin and the decoupling capacitor to keep the entire current loop as short as possible."
+    },
+    {
+      "hash": "1a52b09a726ece152ba0716026bf44927aefb305",
+      "heading": "Conclusion",
+      "level": "h2",
+      "text": "Conclusion Effective decoupling requires more than simply placing a capacitor near an IC. Capacitance, ESL, placement, and current loop design all affect power supply stability. By understanding how these factors interact and applying proper PCB layout techniques, you can reduce power supply noise and improve overall circuit performance."
+    },
+    {
+      "hash": "1936cae48a7a01c563331fc571b22f68480a7e5c",
+      "heading": "Related articles",
+      "level": "h3",
+      "text": "Related articles Why Should a Decoupling Capacitor Be Placed Close to the IC Are More PCB Decoupling Capacitors Always Better? 0402 vs 0603 Capacitor for High-Speed PCB Decoupling Power Supply Capacitor Layout: Placement Rules for Bulk and Small Capacitors"
+    }
+  ],
+  "sitemap_lastmod": "",
+  "status": 200,
+  "structure_hash": "90f812bd2b60d5a430b0a2d65c082cf2c10436bd",
+  "text_excerpt": "PCBWay Community Search title or content Search PCBWay PCB Instant Quote CNC | 3D Printing Login Sign Up More Notifications No notifications. My Profile My projects My Likes My Deals My Goods for Bazaar Settings Sign Out Projects Categories DIY Electronics Arduino Hardware Audio Computers & USB Breakout Board Projects Home Automation LED Displays & Matrices IoT Robotics View all categories By Source Files Onju Voice - AI assistant replacement to Google Nest Mini by @justLV LogicAnalyzer V6.0 DIY 1kW Open Source MPPT Solar Charge Controller Tad Boy Color SummerCart64 - a fully open source N64 flashcart kv4p HT v1.7b QuinLED-Dig-Uno Arduino RC engine sound & light controller with inertia simulation for ESP32 Bike Fingerprint - PCB Solar Powered WiFi Weather Station V2.0 RIP-Felix PS3 Tantalizer Frog Boy Color View all source files projects Featured Projects Onju Voice - AI assistant replacement to Google Nest Mini by @justLV LogicAnalyzer V6.0 DIY 1kW Open Source MPPT Solar Charge Controller Featured Source Files Video View all projects Questions Sponsorships PCBWay Future Innovators Program Feedback Blog Store PCB Design Contest - 9th Project Design Contest - 2026 KiCad PCB Design...",
+  "text_hash": "15a3d39e7480c70b2a095e95cead04fc3ffd1f0d",
+  "title": "Why Should a Decoupling Capacitor Be Placed Close to the IC - PCB Design & Layout - PCBway",
+  "url": "https://www.pcbway.com/blog/PCB_Design_Layout/Why_Should_a_Decoupling_Capacitor_Be_Placed_Close_to_the_IC_c7de9a08.html"
+}
