@@ -42,10 +42,14 @@
     {
       "href": "https://www.xometry.com/authors/megan-conniff",
       "text": "Read more articles by Megan Conniff"
+    },
+    {
+      "href": "https://www.xometry.com/resources/case-studies/coastal-range",
+      "text": "Coastal Range Pivots Camping Stove Design With Custom Parts From Xometry"
     }
   ],
   "discovered_via": "feed",
-  "fetched_at": "2026-11-11T07:47:20+00:00",
+  "fetched_at": "2026-11-13T07:56:06+00:00",
   "final_url": "https://www.xometry.com/resources/3d-printing/image-to-stl-file",
   "first_seen_at": "2026-10-31T07:01:12+00:00",
   "h1": "Image to STL: How to Convert Images into STL Files for 3D Printing",
@@ -381,9 +385,9 @@
   ],
   "sitemap_lastmod": "",
   "status": 200,
-  "structure_hash": "bcb51f1492e10238a74fd697de1d9ffe5aabadc7",
+  "structure_hash": "49fd893eebcdbfcb663e09bab8fb9d6cb5aa05b2",
   "text_excerpt": "Resources / 3D Printing Design / Image to STL: How to Convert Images into STL Files for 3D Printing Image to STL: How to Convert Images into STL Files for 3D Printing Written by Megan Conniff Updated by Dr. Mahder Tewolde PhD 38 min read Published June 22, 2026 Updated October 30, 2026 To convert images into STL files for 3D printing, some pipelines use vector-based extrusion (e.g., SVG paths) instead of pixel brightness. Image to STL converters automate the process by interpreting pixel data as height instructions, assigning each brightness value, which are typically normalized (e.g., 0–255 → min/max height range), before mapping to Z-axis displacement. Heightmap techniques drive the core of the conversion, where light pixels become raised surfaces and dark pixels become recessed ones, building a physical topography from tonal variation. Mesh generation creates triangular faces, but additional steps (e.g., watertight sealing, base thickness extrusion) are often required to produce a closed manifold suitable for printing. Designers use the process to extrude logos and brand marks into dimensional badges, plaques, and embossed panels directly from existing artwork. Hobbyists conver...",
-  "text_hash": "6030d2026ae9c36494435529cb498d0788aea39d",
+  "text_hash": "666414a39529a80e4913aee5764027fb6233f5d6",
   "title": "Image to STL: How to Convert Images into STL Files for 3D Printing",
   "url": "https://www.xometry.com/resources/3d-printing/image-to-stl-file"
 }

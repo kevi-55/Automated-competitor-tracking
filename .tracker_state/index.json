@@ -124,6 +124,7 @@
       "https://www.fictiv.com/capabilities",
       "https://www.fictiv.com/resources",
       "https://www.fictiv.com/articles",
+      "https://www.fictiv.com/articles/stainless-steel-grades",
       "https://www.fictiv.com/articles/machine-design-guide",
       "https://www.fictiv.com/articles/metal-material-selection-guide",
       "https://www.fictiv.com/articles/reducing-machine-downtime",
@@ -236,8 +237,7 @@
       "https://www.fictiv.com/articles/how-to-design-snap-fit-components",
       "https://www.fictiv.com/articles/the-zen-of-product-design-how-lockitron-let-go-of-the-extraneous-and-non-essential",
       "https://www.fictiv.com/articles/gdt-101-an-introduction-to-geometric-dimensioning-and-tolerancing",
-      "https://www.fictiv.com/articles/aerospace-materials-finishes-for-spacecraft-and-satellites",
-      "https://www.fictiv.com/articles/what-are-mro-parts-definition-sourcing-strategies"
+      "https://www.fictiv.com/articles/aerospace-materials-finishes-for-spacecraft-and-satellites"
     ],
     "Hubs": [
       "https://www.hubs.com/cnc-machining",
@@ -414,6 +414,8 @@
       "https://jlccnc.com/news/jlc-launches-usdc-payments",
       "https://jlccnc.com/news/jlcpcb-at-imts-2026",
       "https://jlccnc.com/news/jlccnc-september-october-2026-holiday-schedule",
+      "https://jlccnc.com/news/monthly-cnc-prototyping-subsidy",
+      "https://jlccnc.com/news/black-friday-2026-warm-up",
       "https://jlccnc.com/blog/category/cnc-machining-fundamentals",
       "https://jlccnc.com/blog/category/knowledge-hub",
       "https://jlccnc.com/blog/category/surface-finishing-processes",
@@ -475,9 +477,7 @@
       "https://jlccnc.com/blog/what-is-a-blind-hole",
       "https://jlccnc.com/blog/ceramic-cnc-machining-guide",
       "https://jlccnc.com/blog/cnc-machining-bronze",
-      "https://jlccnc.com/blog/cnc-plasma-cutting",
-      "https://jlccnc.com/blog/what-is-a-cnc-lathe",
-      "https://jlccnc.com/blog/cnc-machining-tools"
+      "https://jlccnc.com/blog/cnc-plasma-cutting"
     ],
     "PCBWay": [
       "https://www.pcbway.com/",
@@ -485,9 +485,9 @@
       "https://www.pcbway.com/blog/News/PCBWay_Plug_In_for_KiCad_3ea6219c.html",
       "https://www.pcbway.com/blog/Tapping/Threaded_Holes_in_CNC_Machining_Thread_Types_Depth_and_Design_Tips_4496b79a.html",
       "https://www.pcbway.com/blog/CNC_Machining/Electrical_Discharge_Machining_EDM_Process_Types_Technical_Guide_3f35da5a.html",
+      "https://www.pcbway.com/blog/PCB_Design_Layout/Why_Are_Two_MOSFETs_Connected_Back_to_Back_in_a_MOSFET_Circuit_93aefd96.html",
       "https://www.pcbway.com/blog/PCB_Design_Layout/Why_Should_a_Decoupling_Capacitor_Be_Placed_Close_to_the_IC_c7de9a08.html",
       "https://www.pcbway.com/blog/PCB_Design_Layout/USB_Type_C_Pinout_Why_Are_5_1K_Pull_Down_Resistors_Needed_7037c2b7.html",
-      "https://www.pcbway.com/blog/PCBWay_Store/PCBWay_Store_NewArrival_Product_ESP32_C5_Mini_Dual_band_Development_Board_30170166.html",
       "https://www.pcbway.com/blog/News/Meet_PCBWay_at_Electronica_2026_in_Munich_Germany_e64d6228.html",
       "https://www.pcbway.com/blog/Welding/Welded_Sheet_Metal_Parts_Design_Guidelines_a79851e3.html",
       "https://www.pcbway.com/blog/Tapping/Tapped_Parts_Design_Guidelines_23598863.html",
@@ -505,6 +505,11 @@
       "https://www.pcbway.com/blog?tag=Kicad",
       "https://www.pcbway.com/blog?tag=PCB+design",
       "https://www.pcbway.com/blog/News/Impact_of_the_New_U_S_Tariff_Policy_on_Customs_Clearance_51dff4fd.html",
+      "https://www.pcbway.com/blog?tag=mosfet+circuit",
+      "https://www.pcbway.com/blog?tag=MOSFET+Body+Diode",
+      "https://www.pcbway.com/blog?tag=Back-to-Back+MOSFETs",
+      "https://www.pcbway.com/blog?tag=Bidirectional+MOSFET+Switch",
+      "https://www.pcbway.com/blog?tag=Reverse+Current+Blocking",
       "https://www.pcbway.com/blog?tag=Decoupling+Capacitor",
       "https://www.pcbway.com/blog?tag=Decoupling+Capacitor+Placement",
       "https://www.pcbway.com/blog?tag=Decoupling+Capacitor+Layout",
@@ -512,6 +517,7 @@
       "https://www.pcbway.com/blog?tag=USB+Type-C+pinout",
       "https://www.pcbway.com/blog?tag=5.1K+pull-down+resistor",
       "https://www.pcbway.com/blog?tag=USB-C+CC+pin",
+      "https://www.pcbway.com/blog/PCBWay_Store/PCBWay_Store_NewArrival_Product_ESP32_C5_Mini_Dual_band_Development_Board_30170166.html",
       "https://www.pcbway.com/blog/PCBWay_Store",
       "https://www.pcbway.com/blog?tag=ESP32",
       "https://www.pcbway.com/blog/PCB_Design_Layout/Clock_Circuit_Design_Guidelines_for_PCB_Layout_720fac99.html",
@@ -564,7 +570,6 @@
       "https://www.pcbway.com/blog?tag=pcb+design",
       "https://www.pcbway.com/blog?tag=guard+trace",
       "https://www.pcbway.com/blog?tag=guard+trace+pcb",
-      "https://www.pcbway.com/blog/News/PCBWay_Plug_In_for_ProtoFlow_2ee42587.html",
       "https://www.pcbway.com/blog/Activities/Submit_for_Publication___Now_I_Write_Articles_in_PCBWay.html",
       "https://www.pcbway.com/blog/Engineering_Technical",
       "https://www.pcbway.com/blog/help_center/How_to_Use_Payoneer_to_Pay_for_Orders_a72bb66b.html",
@@ -594,17 +599,14 @@
       "https://www.pcbway.com/pcb_prototype/SMT_Assembly_Capabilities.html",
       "https://www.pcbway.com/pcb_prototype/BGA_Assembly_Capabilities.html",
       "https://www.pcbway.com/pcb_prototype/PCB_Manufacturing_tolerances.html",
-      "https://www.pcbway.com/design-services.html",
-      "https://member.pcbway.com/",
-      "https://www.pcbway.com/rapid-prototyping/CNC-machining/CNC-Milling.html",
-      "https://www.pcbway.com/rapid-prototyping/CNC-machining/CNC-Turning.html"
+      "https://www.pcbway.com/design-services.html"
     ],
     "Protolabs": [
+      "https://www.protolabs.com/",
       "https://www.protolabs.com/services",
       "https://www.protolabs.com/services/3d-printing",
       "https://www.protolabs.com/services/cnc-machining",
       "https://www.protolabs.com/services/injection-molding",
-      "https://www.protolabs.com/",
       "https://www.protolabs.com/resources",
       "https://www.protolabs.com/resources/partnerships/rc-aviation",
       "https://www.protolabs.com/resources/release-notes",
@@ -800,6 +802,7 @@
       "https://www.xometry.com/capabilities/cnc-machining-service",
       "https://www.xometry.com/capabilities/injection-molding-service",
       "https://www.xometry.com/resources",
+      "https://www.xometry.com/resources/case-studies/coastal-range",
       "https://www.xometry.com/resources/case-studies/partner-kingdom-precision-machining",
       "https://www.xometry.com/resources/shop-tips/partners-with-itar-earn-more",
       "https://www.xometry.com/resources/sheet/roll-forming",
@@ -810,11 +813,11 @@
       "https://www.xometry.com/resources/machining/profile-tolerance",
       "https://www.xometry.com/resources/materials/cryogenic-treatment-of-metals",
       "https://www.xometry.com/resources/machining/minimum-quantity-lubrication",
-      "https://www.xometry.com/resources/data-center/colocation",
       "https://www.xometry.com/resources/data-center/data-center-power",
+      "https://www.xometry.com/resources/data-center/colocation",
       "https://www.xometry.com/resources/data-center/data-center-architecture",
-      "https://www.xometry.com/resources/data-center/data-center-tiers",
       "https://www.xometry.com/resources/data-center/data-center-networking",
+      "https://www.xometry.com/resources/data-center/data-center-tiers",
       "https://www.xometry.com/resources/data-center/hyperscale",
       "https://www.xometry.com/resources/data-center/modular",
       "https://www.xometry.com/resources/machining/datum-in-gd-t",
@@ -838,7 +841,6 @@
       "https://www.xometry.com/resources/3d-printing/image-to-stl-file",
       "https://www.xometry.com/resources/materials/acrylic-fabric",
       "https://www.xometry.com/resources/machining/types-of-hydraulic-fluid",
-      "https://www.xometry.com/resources/materials/nylon-11",
       "https://www.xometry.com/resources/3d-printing/metal-filled-filament",
       "https://www.xometry.com/resources/materials/phosphorus",
       "https://www.xometry.com/resources/materials/sulfur",
@@ -948,20 +950,12 @@
       "https://www.emachineshop.com/free-cnc-machining",
       "https://www.emachineshop.com/free-download",
       "https://www.emachineshop.com/steel",
-      "https://convert.emachineshop.com/",
       "https://cad.emachineshop.com/",
       "https://quote.emachineshop.com/emachineshop/widget/upload"
     ]
   },
-  "last_run_at": "2026-11-12T08:30:13+00:00",
+  "last_run_at": "2026-11-13T08:09:52+00:00",
   "runs": [
-    {
-      "errors": 27,
-      "events": 78,
-      "finished_at": "2026-09-14T06:26:43+00:00",
-      "mode": "daily",
-      "run_id": "20260914T061132Z"
-    },
     {
       "errors": 27,
       "events": 283,
@@ -1374,6 +1368,13 @@
       "finished_at": "2026-11-12T08:30:13+00:00",
       "mode": "daily",
       "run_id": "20261112T081336Z"
+    },
+    {
+      "errors": 24,
+      "events": 246,
+      "finished_at": "2026-11-13T08:09:52+00:00",
+      "mode": "daily",
+      "run_id": "20261113T075236Z"
     }
   ],
   "schema_version": 2
