@@ -4,12 +4,16 @@
   "competitor": "Xometry",
   "ctas": [
     {
+      "href": "https://www.xometry.com/resources/case-studies/partner-titantech",
+      "text": "From a Single Mini Mill to 5-Axis Precision: How TitanTech CNC Is Growing With Xometry"
+    },
+    {
       "href": "https://www.xometry.com/resources/case-studies/coastal-range",
       "text": "Coastal Range Pivots Camping Stove Design With Custom Parts From Xometry"
     }
   ],
   "discovered_via": "feed",
-  "fetched_at": "2026-11-13T07:55:55+00:00",
+  "fetched_at": "2026-11-14T07:36:02+00:00",
   "final_url": "https://www.xometry.com/resources/data-center/hyperscale",
   "first_seen_at": "2026-08-17T03:43:58+00:00",
   "h1": "Hyperscale Data Center: Definition and Scale",
@@ -257,9 +261,9 @@
   ],
   "sitemap_lastmod": "",
   "status": 200,
-  "structure_hash": "7bbfee94bad01077989f136ae3c7f28b6ac3d52b",
+  "structure_hash": "5da96a242a4e457056d2907b09d5dfb79c53f670",
   "text_excerpt": "Resources Data Centers Hyperscale Data Center: Definition and Scale Hyperscale Data Center: Definition and Scale Written by Megan Conniff Updated by Audrius Zidonis PhD 31 min read Published August 13, 2026 Updated October 30, 2026 A hyperscale data center is a large-scale facility architecture engineered to efficiently scale computing, storage, and networking resources in support of massive workloads that conventional data centers cannot accommodate. The architecture is defined by its capacity to expand infrastructure horizontally, adding thousands of servers, storage nodes, and network switches without redesigning the core system. Facilities of the hyperscale category power cloud computing platforms, artificial intelligence training pipelines, machine learning inference systems, big data analytics engines, content delivery networks, and large-scale enterprise applications. Scalability in a hyperscale facility is achieved through modular design, software-defined resource management, and high levels of automation that eliminate manual provisioning bottlenecks. Redundancy systems operate at every infrastructure layer, from dual power feeds and N+1 cooling units to geographically di...",
-  "text_hash": "2fa01d10fc94d47b1541af4dc89656c0ecedc6d6",
+  "text_hash": "b0b4b514308aaf9834b2d219adc78b72e440060c",
   "title": "Hyperscale Data Center: Definition and Scale",
   "url": "https://www.xometry.com/resources/data-center/hyperscale"
 }

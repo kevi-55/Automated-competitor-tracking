@@ -1,0 +1,205 @@
+{
+  "canonical": "",
+  "category": "content",
+  "competitor": "PCBWay",
+  "ctas": [
+    {
+      "href": "https://www.pcbway.com/orderonline.aspx",
+      "text": "PCB Instant Quote"
+    },
+    {
+      "href": "javascript:void(0)",
+      "text": "Sign Up"
+    },
+    {
+      "href": "https://www.pcbway.com/project/shareproject?order=1",
+      "text": "By Source Files"
+    },
+    {
+      "href": "https://www.pcbway.com/project/shareproject?order=1",
+      "text": "View all source files projects"
+    },
+    {
+      "href": "https://www.pcbway.com/project/shareproject?order=1",
+      "text": "Source Files"
+    },
+    {
+      "href": "https://www.pcbway.com/blog/club-publish.html",
+      "text": "Submit for Publication"
+    },
+    {
+      "href": "https://www.pcbway.com/blog/PCB_Design_Tutorial/Rev_A_Bring_Up_Notes_Worth_Writing_Before_You_Hit_Place_Order_d700236a.html",
+      "text": "Rev-A Bring-Up Notes Worth Writing Before You Hit “Place Order”"
+    },
+    {
+      "href": "https://www.pcbway.com/blog/Activities/Submit_for_Publication___Now_I_Write_Articles_in_PCBWay.html",
+      "text": "Write for PCBWay"
+    },
+    {
+      "href": "https://www.pcbway.com/blog?tag=PCB+industry",
+      "text": "PCB industry"
+    },
+    {
+      "href": "https://www.pcbway.com/contact.html",
+      "text": "Contact us"
+    }
+  ],
+  "discovered_via": "links",
+  "fetched_at": "2026-11-14T07:42:25+00:00",
+  "final_url": "https://www.pcbway.com/blog/PCB_Design_Tutorial/Rev_A_Bring_Up_Notes_Worth_Writing_Before_You_Hit_Place_Order_d700236a.html",
+  "first_seen_at": "2026-11-14T07:42:25+00:00",
+  "h1": "Rev-A Bring-Up Notes Worth Writing Before You Hit “Place Order”",
+  "headings": [
+    {
+      "level": "h1",
+      "text": "Rev-A Bring-Up Notes Worth Writing Before You Hit “Place Order”"
+    },
+    {
+      "level": "h2",
+      "text": "Why this note exists"
+    },
+    {
+      "level": "h2",
+      "text": "1. Define “alive” in one paragraph"
+    },
+    {
+      "level": "h2",
+      "text": "2. Power-first smoke plan"
+    },
+    {
+      "level": "h2",
+      "text": "3. Programming and recovery"
+    },
+    {
+      "level": "h2",
+      "text": "4. What the fab notes should already say"
+    },
+    {
+      "level": "h2",
+      "text": "5. A minimal instrument list"
+    },
+    {
+      "level": "h2",
+      "text": "6. Pass / fail log template"
+    },
+    {
+      "level": "h2",
+      "text": "7. Where AI assistants help—and stop"
+    },
+    {
+      "level": "h2",
+      "text": "Closing"
+    },
+    {
+      "level": "h3",
+      "text": "Related articles"
+    }
+  ],
+  "images": [
+    {
+      "alt": "",
+      "src": "/project/img/images/avatar/user-pic.png"
+    },
+    {
+      "alt": "",
+      "src": "/project/img/images/loading-pro.gif"
+    },
+    {
+      "alt": "",
+      "src": "https://pcbwayfile.s3.us-west-2.amazonaws.com/web/23/10/03/1152415436848m.jpeg"
+    },
+    {
+      "alt": "",
+      "src": "https://pcbwayfile.s3.us-west-2.amazonaws.com/web/25/02/01/195239553dd028d967de6453aa74b91ac0e5423e73248m.png"
+    },
+    {
+      "alt": "",
+      "src": "https://pcbwayfile.s3-us-west-2.amazonaws.com/web/21/08/30/1823256917346m.png"
+    },
+    {
+      "alt": "",
+      "src": "/img/images/note-tips.png"
+    }
+  ],
+  "meta_description": "",
+  "modified_at": "",
+  "monitored_text": "PCBWay Community Search title or content Search PCBWay PCB Instant Quote CNC | 3D Printing Login Sign Up More Notifications No notifications. My Profile My projects My Likes My Deals My Goods for Bazaar Settings Sign Out Projects Categories DIY Electronics Arduino Hardware Audio Computers & USB Breakout Board Projects Home Automation LED Displays & Matrices IoT Robotics View all categories By Source Files Onju Voice - AI assistant replacement to Google Nest Mini by @justLV LogicAnalyzer V6.0 DIY 1kW Open Source MPPT Solar Charge Controller Tad Boy Color SummerCart64 - a fully open source N64 flashcart kv4p HT v1.7b QuinLED-Dig-Uno Arduino RC engine sound & light controller with inertia simulation for ESP32 Bike Fingerprint - PCB Solar Powered WiFi Weather Station V2.0 RIP-Felix PS3 Tantalizer Frog Boy Color View all source files projects Featured Projects Onju Voice - AI assistant replacement to Google Nest Mini by @justLV LogicAnalyzer V6.0 DIY 1kW Open Source MPPT Solar Charge Controller Featured Source Files Video View all projects Questions Sponsorships PCBWay Future Innovators Program Feedback Blog Store PCB Design Contest - 9th Project Design Contest - 2026 KiCad PCB Design Contest - 8th Project Design Contest - 7th Project Design Contest - KiCad Design Contest - 6th Project Design Contest - 5th PCB Design Contest - 4th PCB Design Contest - Raspberry Pi Pico Contest - PCB Design Tutorial - 3rd PCB Design Contest - I CAN SOLDER Kit Contest - 2nd PCB Design Contest - 1st PCB Design Contest Add questions Create a project Please verify your email address so that you can enjoy our more comprehensive services. Verify Now Blog > Rev-A Bring-Up Notes Worth Writing Before You Hit “Place Order” Rev-A Bring-Up Notes Worth Writing Before You Hit “Place Order” by: Payman Parsi Nov 11,2026 <dynamic-value> <dynamic-value> Posted in PCB Design Tutorial PCB design Prototyping Tutorial Byline: The Board Workflow Analyst, IntelCAD Affiliation disclosure: I work with the IntelCAD.ai team on AI-assisted electronics design workflows. This piece is educational for makers ordering a first prototype. It does not claim that IntelCAD (or any AI tool) replaces Altium or KiCad, and it does not claim automated routing, RF closure, simulation sign-off, or manufacturing. Relevant link: IntelCAD Why this note exists Ordering a prototype board feels like progress. Opening a box with a board that cannot be powered safely is expensive progress. Before you upload Gerbers, write a short bring-up packet that your future self can follow at the bench—especially on a first-spin order. This is not a PCBWay process guide. It is a designer checklist that travels with the order. 1. Define “alive” in one paragraph Write what must be true on day one: Which rail comes up first, and to what voltage? Which LED, UART, or USB enumeration proves the MCU is awake? What is explicitly out of scope for rev A (radio certification, full sensor accuracy, enclosure fit)? If “alive” is undefined, every afternoon at the bench becomes improvisation. 2. Power-first smoke plan List the sequence you will follow with a current-limited supply: Visual check for shorts, tombstones, reversed electrolytics. Unprogrammed power-up at low current limit. Measure expected rails before enabling the next stage. Only then connect programmers, radios, or external loads. Write the expected current band for idle. A board that draws 10× the idle estimate is a stop condition, not a curiosity. 3. Programming and recovery For each programmable device, record: Connector, pinout, and voltage Toolchain / probe type Boot-mode straps or “bricked board” recovery steps If the fab panel includes a programming header that is hard to reach after assembly, note that in the packet now—not after the boards arrive. 4. What the fab notes should already say Your manufacturing notes should already freeze: Stackup family (or “default FR-4 1.6 mm is acceptable”) Controlled-impedance nets, if any (name the nets; do not invent ohms after layout) Finish, solder mask color, silkscreen readability for test points Assembly: which side, which parts are DNP for rev A Ambiguous fab notes become ambiguous boards. 5. A minimal instrument list Before the courier arrives, stage: Current-limited PSU Multimeter (and preferably a cheap USB scope or logic analyzer if digital bring-up matters) Correct cables and adapters ESD strap if you care about the first board Missing cables turn a one-hour bring-up into a two-day pause. 6. Pass / fail log template Keep a one-page table: • Visual: Expected: No shorts / polarity OK; Measured: _____; Pass?: _____; Notes: _____ • 3V3 idle: Expected: e.g. 3.2–3.4 V, < X mA; Measured: _____; Pass?: _____; Notes: _____ • Programmer detect: Expected: Device ID known; Measured: _____; Pass?: _____; Notes: _____ • Blink / UART: Expected: Heartbeat seen; Measured: _____; Pass?: _____; Notes: _____ Photograph the board and the meter when something fails. Memory fades; photos do not. 7. Where AI assistants help—and stop An AI assistant can help you turn a messy project chat into a structured bring-up list and remind you of rails or straps you forgot to name. Tools such as IntelCAD fit that preparation role. They do not replace your current-limited supply, your DMM, or your judgment when a rail collapses. Closing Place the order when the Gerbers are ready and the bring-up packet exists. The packet is cheap. A confused first power-up is not. Enter the year of your birth and check your Chinese Zodiac. Join us Wanna be a dedicated PCBWay writer? We definately look forward to having you with us. Submit for Publication Become Our Writer Leave a Comment ( 0 ) Share to: Previous：Why Should a Decoupling Capacitor Be Placed Close to the IC Next：Why Are Two MOSFETs Connected Back-to-Back in a MOSFET Circuit? Related articles Rev-A Bring-Up Notes Worth Writing Before You Hit “Place Order” How to Design a Ground Guard Trace in PCB Design PCB Impedance Control Guide: How to Fix Impedance Discontinuities in PCB Layout High Speed PCB Design Guidelines for Impedance and SI Comments ( 0 ) Log in to post comments. Upload photo You can only upload 5 files in total. Each file cannot exceed 2MB. Supports JPG, JPEG, GIF, PNG, BMP 0 / 10000 It looks like you have not written anything. Please add a comment and try again. You can upload up to 5 images! Image size should not exceed 2MB! File format not supported! Post Comment View More Write for PCBWay Categories Select a Category Engineering Technical News PCB Layout Software Activities Help Center PCB Basic Information PCB Manufacturing Information PCB Design & Layout Flexible PCB Rigid-Flex PCB HDI PCB PCB Assembly Technology 3D Printing CNC Machining Sheet Metal Bending Countersink & Counterbore Hardware insertion Tapping Welding Sheet Cutting Injection Molding PCB Design Tutorial PCBWay Store Table of Contents HOT TAG PCB Printed Circuit Board PCB design PCB Board PCB layout Circuit Board Printed Circuit Boards PCB Design Tutorial PCB industry pcb manufacturing KiCad pcbway IF YOU MISSED IT 1 Rev-A Bring-Up Notes Worth Writing Before You Hit “Place Order” 2 Introduction to Current Divider 3 How to generate Gerber files from CircuitMaker 2.2.1.6? 4 How to Export Gerber Files in DesignSpark PCB V11.0.0? 5 How to add a Board Outline to Gerber Plots in DesignSpark PCB V11.0.0? 6 How to Generate Centroid File from DesignSpark PCB V11.0.0? 7 How to Generate Gerber Files in Fusion 360? 8 How to Generate a Pick and Place File in .csv Format from Fusion 360? 9 How to Set Shortcut Key in Cadence Allegro PCB Editor? The PCB Way that recognize the talent and effort of the best ELECTRONIC designers in the World. © COPYRIGHT 2019 About us Contact us Follow us on Share to Facebook Share to Twitter Share to Reddit Share to Linkedin Back to top",
+  "published_at": "2026-11-11T00:00:00+00:00",
+  "requested_url": "https://www.pcbway.com/blog/PCB_Design_Tutorial/Rev_A_Bring_Up_Notes_Worth_Writing_Before_You_Hit_Place_Order_d700236a.html",
+  "schema_version": 2,
+  "sections": [
+    {
+      "hash": "94f94857b8f726579b867723dd51cbf7c65d1536",
+      "heading": "Rev-A Bring-Up Notes Worth Writing Before You Hit “Place Order”",
+      "level": "h1",
+      "text": "Rev-A Bring-Up Notes Worth Writing Before You Hit “Place Order” by: Payman Parsi Nov 11,2026 <dynamic-value> <dynamic-value> Posted in PCB Design Tutorial PCB design Prototyping Tutorial Byline: The Board Workflow Analyst, IntelCAD Affiliation disclosure: I work with the IntelCAD.ai team on AI-assisted electronics design workflows. This piece is educational for makers ordering a first prototype. It does not claim that IntelCAD (or any AI tool) replaces Altium or KiCad, and it does not claim automated routing, RF closure, simulation sign-off, or manufacturing. Relevant link: IntelCAD Why this note exists Ordering a prototype board feels like progress. Opening a box with a board that cannot be powered safely is expensive progress. Before you upload Gerbers, write a short bring-up packet that your future self can follow at the bench—especially on a first-spin order. This is not a PCBWay process guide. It is a designer checklist that travels with the order. 1. Define “alive” in one paragraph Write what must be true on day one: Which rail comes up first, and to what voltage? Which LED, UART, or USB enumeration proves the MCU is awake? What is explicitly out of scope for rev A (radio ce..."
+    },
+    {
+      "hash": "e6a0830ad1c66fc9805be6ddfd8c5285191ba61f",
+      "heading": "Why this note exists",
+      "level": "h2",
+      "text": "Why this note exists Ordering a prototype board feels like progress. Opening a box with a board that cannot be powered safely is expensive progress. Before you upload Gerbers, write a short bring-up packet that your future self can follow at the bench—especially on a first-spin order. This is not a PCBWay process guide. It is a designer checklist that travels with the order."
+    },
+    {
+      "hash": "9abc6698d811d449cabb949616ebfb1102cbc516",
+      "heading": "1. Define “alive” in one paragraph",
+      "level": "h2",
+      "text": "1. Define “alive” in one paragraph Write what must be true on day one: Which rail comes up first, and to what voltage? Which LED, UART, or USB enumeration proves the MCU is awake? What is explicitly out of scope for rev A (radio certification, full sensor accuracy, enclosure fit)? If “alive” is undefined, every afternoon at the bench becomes improvisation."
+    },
+    {
+      "hash": "0a284d619ccb6465bc3517c17f79c429556ce640",
+      "heading": "2. Power-first smoke plan",
+      "level": "h2",
+      "text": "2. Power-first smoke plan List the sequence you will follow with a current-limited supply: Visual check for shorts, tombstones, reversed electrolytics. Unprogrammed power-up at low current limit. Measure expected rails before enabling the next stage. Only then connect programmers, radios, or external loads. Write the expected current band for idle. A board that draws 10× the idle estimate is a stop condition, not a curiosity."
+    },
+    {
+      "hash": "2931d6b20c92b4bf392f922e3cc1a448054412fd",
+      "heading": "3. Programming and recovery",
+      "level": "h2",
+      "text": "3. Programming and recovery For each programmable device, record: Connector, pinout, and voltage Toolchain / probe type Boot-mode straps or “bricked board” recovery steps If the fab panel includes a programming header that is hard to reach after assembly, note that in the packet now—not after the boards arrive."
+    },
+    {
+      "hash": "ba6aace6d184d61054a3b96371208a0f06c9f7c9",
+      "heading": "4. What the fab notes should already say",
+      "level": "h2",
+      "text": "4. What the fab notes should already say Your manufacturing notes should already freeze: Stackup family (or “default FR-4 1.6 mm is acceptable”) Controlled-impedance nets, if any (name the nets; do not invent ohms after layout) Finish, solder mask color, silkscreen readability for test points Assembly: which side, which parts are DNP for rev A Ambiguous fab notes become ambiguous boards."
+    },
+    {
+      "hash": "8b45e735a7c0130285866ae63fd84fc6155b358d",
+      "heading": "5. A minimal instrument list",
+      "level": "h2",
+      "text": "5. A minimal instrument list Before the courier arrives, stage: Current-limited PSU Multimeter (and preferably a cheap USB scope or logic analyzer if digital bring-up matters) Correct cables and adapters ESD strap if you care about the first board Missing cables turn a one-hour bring-up into a two-day pause."
+    },
+    {
+      "hash": "e2b956c9c570a0e3d8563c2e72263b67534f0eab",
+      "heading": "6. Pass / fail log template",
+      "level": "h2",
+      "text": "6. Pass / fail log template Keep a one-page table: • Visual: Expected: No shorts / polarity OK; Measured: _____; Pass?: _____; Notes: _____ • 3V3 idle: Expected: e.g. 3.2–3.4 V, < X mA; Measured: _____; Pass?: _____; Notes: _____ • Programmer detect: Expected: Device ID known; Measured: _____; Pass?: _____; Notes: _____ • Blink / UART: Expected: Heartbeat seen; Measured: _____; Pass?: _____; Notes: _____ Photograph the board and the meter when something fails. Memory fades; photos do not."
+    },
+    {
+      "hash": "36f80f48dda92850c1f09392bdd67ad29549d7a0",
+      "heading": "7. Where AI assistants help—and stop",
+      "level": "h2",
+      "text": "7. Where AI assistants help—and stop An AI assistant can help you turn a messy project chat into a structured bring-up list and remind you of rails or straps you forgot to name. Tools such as IntelCAD fit that preparation role. They do not replace your current-limited supply, your DMM, or your judgment when a rail collapses."
+    },
+    {
+      "hash": "f05f7bfecf71c1877624220739b155bb8f72fa9d",
+      "heading": "Closing",
+      "level": "h2",
+      "text": "Closing Place the order when the Gerbers are ready and the bring-up packet exists. The packet is cheap. A confused first power-up is not."
+    },
+    {
+      "hash": "7e2532ffe5a7139b7ab4da6ece12efb8bca89922",
+      "heading": "Related articles",
+      "level": "h3",
+      "text": "Related articles Rev-A Bring-Up Notes Worth Writing Before You Hit “Place Order” How to Design a Ground Guard Trace in PCB Design PCB Impedance Control Guide: How to Fix Impedance Discontinuities in PCB Layout High Speed PCB Design Guidelines for Impedance and SI"
+    }
+  ],
+  "sitemap_lastmod": "",
+  "status": 200,
+  "structure_hash": "fad199653aa687a5fdedbc5fcf1b5b7f751ffbec",
+  "text_excerpt": "PCBWay Community Search title or content Search PCBWay PCB Instant Quote CNC | 3D Printing Login Sign Up More Notifications No notifications. My Profile My projects My Likes My Deals My Goods for Bazaar Settings Sign Out Projects Categories DIY Electronics Arduino Hardware Audio Computers & USB Breakout Board Projects Home Automation LED Displays & Matrices IoT Robotics View all categories By Source Files Onju Voice - AI assistant replacement to Google Nest Mini by @justLV LogicAnalyzer V6.0 DIY 1kW Open Source MPPT Solar Charge Controller Tad Boy Color SummerCart64 - a fully open source N64 flashcart kv4p HT v1.7b QuinLED-Dig-Uno Arduino RC engine sound & light controller with inertia simulation for ESP32 Bike Fingerprint - PCB Solar Powered WiFi Weather Station V2.0 RIP-Felix PS3 Tantalizer Frog Boy Color View all source files projects Featured Projects Onju Voice - AI assistant replacement to Google Nest Mini by @justLV LogicAnalyzer V6.0 DIY 1kW Open Source MPPT Solar Charge Controller Featured Source Files Video View all projects Questions Sponsorships PCBWay Future Innovators Program Feedback Blog Store PCB Design Contest - 9th Project Design Contest - 2026 KiCad PCB Design...",
+  "text_hash": "61d1df7ff9295617f6658e3d1adcf7ebdbc7a16e",
+  "title": "Rev-A Bring-Up Notes Worth Writing Before You Hit “Place Order” - PCB Design Tutorial - PCBway",
+  "url": "https://www.pcbway.com/blog/PCB_Design_Tutorial/Rev_A_Bring_Up_Notes_Worth_Writing_Before_You_Hit_Place_Order_d700236a.html"
+}

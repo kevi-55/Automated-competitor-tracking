@@ -1,0 +1,287 @@
+{
+  "canonical": "",
+  "category": "content",
+  "competitor": "PCBWay",
+  "ctas": [
+    {
+      "href": "https://www.pcbway.com/orderonline.aspx",
+      "text": "PCB Instant Quote"
+    },
+    {
+      "href": "javascript:void(0)",
+      "text": "Sign Up"
+    },
+    {
+      "href": "https://www.pcbway.com/project/shareproject?order=1",
+      "text": "By Source Files"
+    },
+    {
+      "href": "https://www.pcbway.com/project/shareproject?order=1",
+      "text": "View all source files projects"
+    },
+    {
+      "href": "https://www.pcbway.com/project/shareproject?order=1",
+      "text": "Source Files"
+    },
+    {
+      "href": "https://www.pcbway.com/pcbdesign/quotelayout",
+      "text": "PCB design"
+    },
+    {
+      "href": "https://www.pcbway.com/pcbdesign/quotelayout",
+      "text": "PCB layout"
+    },
+    {
+      "href": "https://www.pcbway.com/pcbdesign/quotelayout",
+      "text": "Get Free Layout Quote"
+    },
+    {
+      "href": "https://www.pcbway.com/blog/club-publish.html",
+      "text": "Submit for Publication"
+    },
+    {
+      "href": "https://www.pcbway.com/blog/Activities/Submit_for_Publication___Now_I_Write_Articles_in_PCBWay.html",
+      "text": "Write for PCBWay"
+    },
+    {
+      "href": "javascript:void(0)",
+      "text": "4. Soft-Start Circuit"
+    },
+    {
+      "href": "https://www.pcbway.com/blog?tag=PCB+industry",
+      "text": "PCB industry"
+    },
+    {
+      "href": "https://www.pcbway.com/contact.html",
+      "text": "Contact us"
+    }
+  ],
+  "discovered_via": "links",
+  "fetched_at": "2026-11-14T07:42:24+00:00",
+  "final_url": "https://www.pcbway.com/blog/PCB_Design_Layout/Reverse_Polarity_Protection_Diode_PMOS_NMOS_and_Ideal_Diode_Circuits_8cb368b5.html",
+  "first_seen_at": "2026-11-14T07:42:24+00:00",
+  "h1": "Reverse Polarity Protection: Diode, PMOS, NMOS, and Ideal Diode Circuits",
+  "headings": [
+    {
+      "level": "h1",
+      "text": "Reverse Polarity Protection: Diode, PMOS, NMOS, and Ideal Diode Circuits"
+    },
+    {
+      "level": "h2",
+      "text": "1. Diode-Based Reverse Polarity Protection"
+    },
+    {
+      "level": "h3",
+      "text": "Series Schottky Diode"
+    },
+    {
+      "level": "h3",
+      "text": "Parallel Diode with a Resettable Fuse"
+    },
+    {
+      "level": "h2",
+      "text": "2. PMOS Reverse Polarity Protection"
+    },
+    {
+      "level": "h3",
+      "text": "Series PMOS"
+    },
+    {
+      "level": "h3",
+      "text": "Series PMOS with a Zener Diode"
+    },
+    {
+      "level": "h3",
+      "text": "PMOS Bridge Circuit (Reverse Polarity Protection + Controlled Switching)"
+    },
+    {
+      "level": "h2",
+      "text": "3. NMOS Reverse Polarity Protection"
+    },
+    {
+      "level": "h2",
+      "text": "4. Soft-Start Circuit"
+    },
+    {
+      "level": "h2",
+      "text": "5. Ideal Diode Circuit for Reverse Polarity Protection"
+    },
+    {
+      "level": "h3",
+      "text": "Working Principle"
+    },
+    {
+      "level": "h2",
+      "text": "Conclusion"
+    },
+    {
+      "level": "h3",
+      "text": "Related articles"
+    }
+  ],
+  "images": [
+    {
+      "alt": "",
+      "src": "/project/img/images/avatar/user-pic.png"
+    },
+    {
+      "alt": "",
+      "src": "/project/img/images/loading-pro.gif"
+    },
+    {
+      "alt": "",
+      "src": "https://pcbwayfile.s3.us-west-2.amazonaws.com/web/23/10/03/1152415436848m.jpeg"
+    },
+    {
+      "alt": "",
+      "src": "https://pcbwayfile.s3.us-west-2.amazonaws.com/web/25/02/01/195239553dd028d967de6453aa74b91ac0e5423e73248m.png"
+    },
+    {
+      "alt": "",
+      "src": "https://pcbwayfile.s3-us-west-2.amazonaws.com/web/21/08/30/1823256917346m.png"
+    },
+    {
+      "alt": "",
+      "src": "https://pcb-files.s3.us-west-2.amazonaws.com/web/26/11/13/1717163081c75ac052e114176b4e2194ab9839d9c4650t.png"
+    },
+    {
+      "alt": "",
+      "src": "https://pcb-files.s3.us-west-2.amazonaws.com/web/26/11/13/17182831706294436bd3449a9855baf0a786ed67d2183t.png"
+    },
+    {
+      "alt": "",
+      "src": "https://pcb-files.s3.us-west-2.amazonaws.com/web/26/11/13/1719097603d7bef2d5b304ef18a5238f7a454261d8040t.png"
+    },
+    {
+      "alt": "",
+      "src": "https://pcb-files.s3.us-west-2.amazonaws.com/web/26/11/13/1720420267043dfb745cb44f98fe1717d3f549c7a7636t.png"
+    },
+    {
+      "alt": "",
+      "src": "https://pcb-files.s3.us-west-2.amazonaws.com/web/26/11/13/1720598145cdd4b82bba647eaa296de863e0ebc798115t.png"
+    },
+    {
+      "alt": "",
+      "src": "https://pcb-files.s3.us-west-2.amazonaws.com/web/26/11/13/172400970dcd35721bffe4648a0cdc54e6c62702c7128t.png"
+    },
+    {
+      "alt": "",
+      "src": "https://pcb-files.s3.us-west-2.amazonaws.com/web/26/11/13/172545119dbc7cd5603744a838ed30c793daffb308432t.png"
+    },
+    {
+      "alt": "",
+      "src": "https://pcb-files.s3.us-west-2.amazonaws.com/web/26/11/13/17261137350d5f84b49614cefbefe909525bb87317514t.png"
+    },
+    {
+      "alt": "",
+      "src": "https://pcb-files.s3.us-west-2.amazonaws.com/web/26/11/13/1726394519f3a85515cdd48178b2cd28bffc322af5142t.png"
+    },
+    {
+      "alt": "",
+      "src": "https://pcb-files.s3.us-west-2.amazonaws.com/web/26/11/13/172737863635f48d0d34e434893824325f42313750201t.png"
+    },
+    {
+      "alt": "",
+      "src": "/img/images/note-tips.png"
+    }
+  ],
+  "meta_description": "",
+  "modified_at": "",
+  "monitored_text": "PCBWay Community Search title or content Search PCBWay PCB Instant Quote CNC | 3D Printing Login Sign Up More Notifications No notifications. My Profile My projects My Likes My Deals My Goods for Bazaar Settings Sign Out Projects Categories DIY Electronics Arduino Hardware Audio Computers & USB Breakout Board Projects Home Automation LED Displays & Matrices IoT Robotics View all categories By Source Files Onju Voice - AI assistant replacement to Google Nest Mini by @justLV LogicAnalyzer V6.0 DIY 1kW Open Source MPPT Solar Charge Controller Tad Boy Color SummerCart64 - a fully open source N64 flashcart kv4p HT v1.7b QuinLED-Dig-Uno Arduino RC engine sound & light controller with inertia simulation for ESP32 Bike Fingerprint - PCB Solar Powered WiFi Weather Station V2.0 RIP-Felix PS3 Tantalizer Frog Boy Color View all source files projects Featured Projects Onju Voice - AI assistant replacement to Google Nest Mini by @justLV LogicAnalyzer V6.0 DIY 1kW Open Source MPPT Solar Charge Controller Featured Source Files Video View all projects Questions Sponsorships PCBWay Future Innovators Program Feedback Blog Store PCB Design Contest - 9th Project Design Contest - 2026 KiCad PCB Design Contest - 8th Project Design Contest - 7th Project Design Contest - KiCad Design Contest - 6th Project Design Contest - 5th PCB Design Contest - 4th PCB Design Contest - Raspberry Pi Pico Contest - PCB Design Tutorial - 3rd PCB Design Contest - I CAN SOLDER Kit Contest - 2nd PCB Design Contest - 1st PCB Design Contest Add questions Create a project Please verify your email address so that you can enjoy our more comprehensive services. Verify Now Blog > Reverse Polarity Protection: Diode, PMOS, NMOS, and Ideal Diode Circuits Reverse Polarity Protection: Diode, PMOS, NMOS, and Ideal Diode Circuits by: Mila Nov 13,2026 <dynamic-value> <dynamic-value> Posted in PCB Design & Layout reverse polarity protection reverse polarity protection circuit MOSFET reverse polarity protection PMOS reverse polarity protection NMOS reverse polarity protection Reverse polarity protection is an important consideration in PCB design , helping prevent damage to electronic components caused by accidentally connecting a power supply with reversed positive and negative terminals. Different reverse polarity protection circuits, including diode-based, PMOS, NMOS, and ideal diode configurations, offer different trade-offs in voltage drop, power dissipation, cost, and circuit complexity. Understanding how these circuits work and how to incorporate them into PCB layouts can help improve power reliability and prevent potential circuit failures. 1. Diode-Based Reverse Polarity Protection Series Schottky Diode A Schottky diode can be connected in series with the power input to provide reverse polarity protection through its unidirectional current-conduction characteristics. Correct polarity: The diode is forward-biased, allowing current to flow through the diode to the load. Reversed polarity: The diode becomes reverse-biased and blocks current from flowing into the downstream circuit, protecting the load. Schottky diodes generally have a lower forward voltage drop than conventional silicon diodes. However, they still introduce voltage and power losses. Therefore, the diode should be selected based on the load current and the allowable input voltage drop. Parallel Diode with a Resettable Fuse This reverse polarity protection circuit uses a diode connected in parallel with the power input and a resettable fuse (PPTC) connected in series with the power supply. Correct polarity: The diode is reverse-biased and normally does not conduct. Current flows through the resettable fuse to the load. Reversed polarity: The diode becomes forward-biased, creating a low-resistance path for the fault current. The resulting current causes the resettable fuse to heat up and enter a high-resistance state, limiting the current and protecting the downstream circuit. Note that this protection method relies on the power supply being capable of delivering sufficient fault current. The diode's forward current rating, the fuse's hold current and trip characteristics, and the power supply's current-limiting capability must all be considered. 2. PMOS Reverse Polarity Protection Series PMOS A PMOS transistor can be used for low-loss reverse polarity protection by taking advantage of its body diode and gate-to-source voltage characteristics. Correct polarity: Current initially flows through the PMOS body diode, creating a voltage difference across the MOSFET. As the source voltage rises, a negative gate-to-source voltage (VGS) develops, turning on the PMOS. Once the MOSFET is fully on, most of the current flows through its channel rather than the body diode, reducing the voltage drop. Reversed polarity: The PMOS turns off, and its body diode becomes reverse-biased, preventing reverse current from flowing into the downstream circuit. Note: Whether the PMOS turns on fully depends on the actual VGS. The threshold voltage alone cannot determine whether the MOSFET is sufficiently enhanced. Ensure that the actual gate-to-source voltage meets the conditions specified for RDS(on) in the datasheet, while remaining within the maximum allowable VGS rating. Under low input voltage conditions, also verify that the voltage remaining after the body diode drop is sufficient to drive the PMOS. Series PMOS with a Zener Diode When the input voltage is relatively high, the PMOS gate-to-source voltage may exceed the maximum rating specified in its datasheet, potentially damaging the gate oxide. To prevent this, a Zener diode and a resistor can be added between the PMOS gate and source to limit VGS. Note: VGS must be sufficient to drive the PMOS while remaining within the maximum rating specified in the datasheet. The Zener voltage should be selected based on the MOSFET's gate-drive requirements and maximum allowable VGS, with an appropriate safety margin. The resistor is generally used to limit the current through the Zener diode and gate circuit. Its value should be calculated based on the circuit parameters. In the schematic, D10 limits the PMOS gate-to-source voltage to prevent VGS from exceeding its safe operating range. PMOS Bridge Circuit (Reverse Polarity Protection + Controlled Switching) This configuration uses two MOSFETs and a transistor-based control circuit to provide both reverse polarity protection and power switching. The EN logic should be verified against the actual schematic rather than inferred from the component names. In particular, check the source and drain connections of both MOSFETs, as well as the orientation of their body diodes. In a back-to-back MOSFET configuration, the two body diodes are generally connected in opposite directions so that current can be blocked in both directions when the MOSFETs are off. Operating conditions to verify: Correct polarity, EN active: The MOSFETs turn on or off according to the control circuit. Correct polarity, EN inactive: The MOSFETs turn off, disconnecting the power supply from the load. Reversed polarity: The control circuit should keep the MOSFETs off to prevent reverse current from flowing into the downstream circuit. The original schematic can be retained, but the EN=0 and EN=1 logic should be checked before specifying the exact switching states. 3. NMOS Reverse Polarity Protection NMOS transistors can also be used for reverse polarity protection. Compared with PMOS devices, NMOS transistors generally offer lower on-resistance, making them advantageous in high-current applications. The basic operating principle also relies on the MOSFET body diode and gate-to-source voltage control. Correct polarity: The body diode initially conducts, establishing the conditions for gate drive. The gate-to-source voltage (VGS) then reaches a sufficient level to turn on the MOSFET. Once the channel conducts, the voltage drop across the circuit is reduced. Reversed polarity: The MOSFET turns off, and its body diode becomes reverse-biased, blocking reverse current. Note that NMOS gate driving differs from PMOS gate driving. For a high-side NMOS configuration, the gate voltage must be sufficiently higher than the source voltage to fully turn on the MOSFET. An additional charge pump or boost driver is usually required. For a low-side NMOS configuration, the interruption of the load's ground connection must be taken into account. 4. Soft-Start Circuit A soft-start circuit limits inrush current when the power supply is first connected, preventing input capacitors from charging too rapidly and placing excessive stress on the power supply and switching components. In the illustrated circuit, the capacitor charging process controls the change in the MOSFET gate-to-source voltage. At power-up: The capacitor begins charging from its initial state. The initial circuit conditions determine the MOSFET's gate-to-source voltage, and the circuit is generally designed to keep the MOSFET off or only slightly on. During capacitor charging: The gate voltage gradually changes, and VGS approaches the level required to turn on the MOSFET. The MOSFET gradually enters conduction. At steady state: The MOSFET becomes fully enhanced, and the circuit enters normal operation. The capacitance of C1 affects the RC time constant, which in turn influences the gate voltage transition and startup process. However, the actual soft-start time also depends on the gate resistance, MOSFET gate charge, load capacitance, and circuit topology. In addition, the MOSFET may operate in its linear region during the soft-start period. Its instantaneous power dissipation and safe operating area (SOA) must therefore be considered. 5. Ideal Diode Circuit for Reverse Polarity Protection The Raspberry Pi Model B+ uses a MOSFET-based protection circuit that functions similarly to an ideal diode. Its main characteristics are: VA ≈ VB, with a very small voltage drop during normal operation. Current flows only from A to B. When the output voltage exceeds the input voltage, the circuit can turn off the MOSFET to prevent reverse current. Working Principle This circuit uses matched PNP transistors to form a voltage-sensing and control circuit. By detecting the voltage difference between the input and output terminals, the circuit controls the MOSFET gate voltage to achieve ideal-diode-like unidirectional conduction. The operating process is as follows: 1. When Vin > Vout The input voltage is higher than the output voltage. The PNP control circuit provides the appropriate gate-to-source drive voltage to turn on the MOSFET, allowing current to flow from Vin to Vout. At this point, most of the current flows through the MOSFET channel. The voltage drop is primarily determined by the MOSFET's on-resistance, resulting in lower power loss than a conventional diode. 2. When Vin < Vout When the output voltage becomes higher than the input voltage, the PNP control circuit changes the MOSFET gate state and turns it off, preventing current from flowing backward from Vout to Vin. Therefore, this circuit can provide not only reverse polarity protection but also protection against reverse current between different power sources. For example, when a Raspberry Pi is powered simultaneously through its USB port and GPIO expansion interface, a voltage difference between the two power sources may cause reverse current to flow. An ideal diode circuit can help reduce this risk. Conclusion Choosing the right reverse polarity protection circuit depends on the input voltage, load current, allowable voltage drop, and overall protection requirements. Whether using a diode, PMOS, NMOS, or ideal diode configuration, proper component selection and PCB layout are essential for reliable operation. During PCB layout , pay attention to current paths, trace width, component placement, and thermal management to minimize power losses and ensure effective protection. A well-designed reverse polarity protection circuit helps improve the safety and reliability of the entire PCB. Enter the year of your birth and check your Chinese Zodiac. Get Free Layout Quote Join us Wanna be a dedicated PCBWay writer? We definately look forward to having you with us. Submit for Publication Become Our Writer Leave a Comment ( 0 ) Share to: Previous：Why Are Two MOSFETs Connected Back-to-Back in a MOSFET Circuit? Next：No next one Related articles Reverse Polarity Protection: Diode, PMOS, NMOS, and Ideal Diode Circuits ESD Protection and Reverse polarity protection Comments ( 0 ) Log in to post comments. Upload photo You can only upload 5 files in total. Each file cannot exceed 2MB. Supports JPG, JPEG, GIF, PNG, BMP 0 / 10000 It looks like you have not written anything. Please add a comment and try again. You can upload up to 5 images! Image size should not exceed 2MB! File format not supported! Post Comment Write for PCBWay Categories Select a Category Engineering Technical News PCB Layout Software Activities Help Center PCB Basic Information PCB Manufacturing Information PCB Design & Layout Flexible PCB Rigid-Flex PCB HDI PCB PCB Assembly Technology 3D Printing CNC Machining Sheet Metal Bending Countersink & Counterbore Hardware insertion Tapping Welding Sheet Cutting Injection Molding PCB Design Tutorial PCBWay Store Table of Contents 1. Diode-Based Reverse Polarity Protection 2. PMOS Reverse Polarity Protection 3. NMOS Reverse Polarity Protection 4. Soft-Start Circuit 5. Ideal Diode Circuit for Reverse Polarity Protection Conclusion HOT TAG PCB Printed Circuit Board PCB design PCB Board PCB layout Circuit Board Printed Circuit Boards PCB Design Tutorial PCB industry pcb manufacturing KiCad pcbway IF YOU MISSED IT 1 PCB Layout Design Process from Schematic to Manufacturing 2 Reverse Polarity Protection: Diode, PMOS, NMOS, and Ideal Diode Circuits 3 Why Are Two MOSFETs Connected Back-to-Back in a MOSFET Circuit? 4 Why Should a Decoupling Capacitor Be Placed Close to the IC 5 USB Type-C Pinout: Why Are 5.1KΩ Pull-Down Resistors Needed? 6 Clock Circuit Design Guidelines for PCB Layout 7 Differential Pair Routing: 3 Common Design Mistakes to Avoid 8 PCB Layout Guidelines for Better Soldering Quality 9 12 PCB Layout Guidelines for Better Component Placement The PCB Way that recognize the talent and effort of the best ELECTRONIC designers in the World. © COPYRIGHT 2019 About us Contact us Follow us on Share to Facebook Share to Twitter Share to Reddit Share to Linkedin Back to top",
+  "published_at": "2026-11-13T00:00:00+00:00",
+  "requested_url": "https://www.pcbway.com/blog/PCB_Design_Layout/Reverse_Polarity_Protection_Diode_PMOS_NMOS_and_Ideal_Diode_Circuits_8cb368b5.html",
+  "schema_version": 2,
+  "sections": [
+    {
+      "hash": "b56c067de58f5fa34f66609e87177269d15a9a57",
+      "heading": "Reverse Polarity Protection: Diode, PMOS, NMOS, and Ideal Diode Circuits",
+      "level": "h1",
+      "text": "Reverse Polarity Protection: Diode, PMOS, NMOS, and Ideal Diode Circuits by: Mila Nov 13,2026 <dynamic-value> <dynamic-value> Posted in PCB Design & Layout reverse polarity protection reverse polarity protection circuit MOSFET reverse polarity protection PMOS reverse polarity protection NMOS reverse polarity protection Reverse polarity protection is an important consideration in PCB design , helping prevent damage to electronic components caused by accidentally connecting a power supply with reversed positive and negative terminals. Different reverse polarity protection circuits, including diode-based, PMOS, NMOS, and ideal diode configurations, offer different trade-offs in voltage drop, power dissipation, cost, and circuit complexity. Understanding how these circuits work and how to incorporate them into PCB layouts can help improve power reliability and prevent potential circuit failures. 1. Diode-Based Reverse Polarity Protection Series Schottky Diode A Schottky diode can be connected in series with the power input to provide reverse polarity protection through its unidirectional current-conduction characteristics. Correct polarity: The diode is forward-biased, allowing curren..."
+    },
+    {
+      "hash": "ec0ccd0a08960e8a3e8a4dc400feb7b9853d5a08",
+      "heading": "1. Diode-Based Reverse Polarity Protection",
+      "level": "h2",
+      "text": "1. Diode-Based Reverse Polarity Protection"
+    },
+    {
+      "hash": "bf69a63d98e82676640bfa0c8903ac3cccae8f2d",
+      "heading": "Series Schottky Diode",
+      "level": "h3",
+      "text": "Series Schottky Diode A Schottky diode can be connected in series with the power input to provide reverse polarity protection through its unidirectional current-conduction characteristics. Correct polarity: The diode is forward-biased, allowing current to flow through the diode to the load. Reversed polarity: The diode becomes reverse-biased and blocks current from flowing into the downstream circuit, protecting the load. Schottky diodes generally have a lower forward voltage drop than conventional silicon diodes. However, they still introduce voltage and power losses. Therefore, the diode should be selected based on the load current and the allowable input voltage drop."
+    },
+    {
+      "hash": "a2163208fc58c962be54a7184c6e94bdbb698106",
+      "heading": "Parallel Diode with a Resettable Fuse",
+      "level": "h3",
+      "text": "Parallel Diode with a Resettable Fuse This reverse polarity protection circuit uses a diode connected in parallel with the power input and a resettable fuse (PPTC) connected in series with the power supply. Correct polarity: The diode is reverse-biased and normally does not conduct. Current flows through the resettable fuse to the load. Reversed polarity: The diode becomes forward-biased, creating a low-resistance path for the fault current. The resulting current causes the resettable fuse to heat up and enter a high-resistance state, limiting the current and protecting the downstream circuit. Note that this protection method relies on the power supply being capable of delivering sufficient fault current. The diode's forward current rating, the fuse's hold current and trip characteristics, and the power supply's current-limiting capability must all be considered."
+    },
+    {
+      "hash": "d9e3e233b1709fbb242d9ecadf868e181e43e75b",
+      "heading": "2. PMOS Reverse Polarity Protection",
+      "level": "h2",
+      "text": "2. PMOS Reverse Polarity Protection"
+    },
+    {
+      "hash": "86138161a4af8c006b1d7535d385203e6bea4f5e",
+      "heading": "Series PMOS",
+      "level": "h3",
+      "text": "Series PMOS A PMOS transistor can be used for low-loss reverse polarity protection by taking advantage of its body diode and gate-to-source voltage characteristics. Correct polarity: Current initially flows through the PMOS body diode, creating a voltage difference across the MOSFET. As the source voltage rises, a negative gate-to-source voltage (VGS) develops, turning on the PMOS. Once the MOSFET is fully on, most of the current flows through its channel rather than the body diode, reducing the voltage drop. Reversed polarity: The PMOS turns off, and its body diode becomes reverse-biased, preventing reverse current from flowing into the downstream circuit. Note: Whether the PMOS turns on fully depends on the actual VGS. The threshold voltage alone cannot determine whether the MOSFET is sufficiently enhanced. Ensure that the actual gate-to-source voltage meets the conditions specified for RDS(on) in the datasheet, while remaining within the maximum allowable VGS rating. Under low input voltage conditions, also verify that the voltage remaining after the body diode drop is sufficient to drive the PMOS."
+    },
+    {
+      "hash": "4c071d80d10fc7aa6f7f3b2afe74e4c923525b31",
+      "heading": "Series PMOS with a Zener Diode",
+      "level": "h3",
+      "text": "Series PMOS with a Zener Diode When the input voltage is relatively high, the PMOS gate-to-source voltage may exceed the maximum rating specified in its datasheet, potentially damaging the gate oxide. To prevent this, a Zener diode and a resistor can be added between the PMOS gate and source to limit VGS. Note: VGS must be sufficient to drive the PMOS while remaining within the maximum rating specified in the datasheet. The Zener voltage should be selected based on the MOSFET's gate-drive requirements and maximum allowable VGS, with an appropriate safety margin. The resistor is generally used to limit the current through the Zener diode and gate circuit. Its value should be calculated based on the circuit parameters. In the schematic, D10 limits the PMOS gate-to-source voltage to prevent VGS from exceeding its safe operating range."
+    },
+    {
+      "hash": "642aa8ea110649179e7396ee8caf98fc9e71ed8b",
+      "heading": "PMOS Bridge Circuit (Reverse Polarity Protection + Controlled Switching)",
+      "level": "h3",
+      "text": "PMOS Bridge Circuit (Reverse Polarity Protection + Controlled Switching) This configuration uses two MOSFETs and a transistor-based control circuit to provide both reverse polarity protection and power switching. The EN logic should be verified against the actual schematic rather than inferred from the component names. In particular, check the source and drain connections of both MOSFETs, as well as the orientation of their body diodes. In a back-to-back MOSFET configuration, the two body diodes are generally connected in opposite directions so that current can be blocked in both directions when the MOSFETs are off. Operating conditions to verify: Correct polarity, EN active: The MOSFETs turn on or off according to the control circuit. Correct polarity, EN inactive: The MOSFETs turn off, disconnecting the power supply from the load. Reversed polarity: The control circuit should keep the MOSFETs off to prevent reverse current from flowing into the downstream circuit."
+    },
+    {
+      "hash": "634f6d67f677f55e3c59ca0c37779f5c07213f69",
+      "heading": "3. NMOS Reverse Polarity Protection",
+      "level": "h2",
+      "text": "3. NMOS Reverse Polarity Protection NMOS transistors can also be used for reverse polarity protection. Compared with PMOS devices, NMOS transistors generally offer lower on-resistance, making them advantageous in high-current applications. The basic operating principle also relies on the MOSFET body diode and gate-to-source voltage control. Correct polarity: The body diode initially conducts, establishing the conditions for gate drive. The gate-to-source voltage (VGS) then reaches a sufficient level to turn on the MOSFET. Once the channel conducts, the voltage drop across the circuit is reduced. Reversed polarity: The MOSFET turns off, and its body diode becomes reverse-biased, blocking reverse current. Note that NMOS gate driving differs from PMOS gate driving. For a high-side NMOS configuration, the gate voltage must be sufficiently higher than the source voltage to fully turn on the MOSFET. An additional charge pump or boost driver is usually required. For a low-side NMOS configuration, the interruption of the load's ground connection must be taken into account."
+    },
+    {
+      "hash": "0dc585d9023718e7ad3d3b0d812b4491c54d4d2d",
+      "heading": "4. Soft-Start Circuit",
+      "level": "h2",
+      "text": "4. Soft-Start Circuit A soft-start circuit limits inrush current when the power supply is first connected, preventing input capacitors from charging too rapidly and placing excessive stress on the power supply and switching components. In the illustrated circuit, the capacitor charging process controls the change in the MOSFET gate-to-source voltage. At power-up: The capacitor begins charging from its initial state. The initial circuit conditions determine the MOSFET's gate-to-source voltage, and the circuit is generally designed to keep the MOSFET off or only slightly on. During capacitor charging: The gate voltage gradually changes, and VGS approaches the level required to turn on the MOSFET. The MOSFET gradually enters conduction. At steady state: The MOSFET becomes fully enhanced, and the circuit enters normal operation. The capacitance of C1 affects the RC time constant, which in turn influences the gate voltage transition and startup process. However, the actual soft-start time also depends on the gate resistance, MOSFET gate charge, load capacitance, and circuit topology. In addition, the MOSFET may operate in its linear region during the soft-start period. Its instantaneou..."
+    },
+    {
+      "hash": "7450075652642bfdc04d9e1120061c85ee10cf59",
+      "heading": "5. Ideal Diode Circuit for Reverse Polarity Protection",
+      "level": "h2",
+      "text": "5. Ideal Diode Circuit for Reverse Polarity Protection The Raspberry Pi Model B+ uses a MOSFET-based protection circuit that functions similarly to an ideal diode. Its main characteristics are: VA ≈ VB, with a very small voltage drop during normal operation. Current flows only from A to B. When the output voltage exceeds the input voltage, the circuit can turn off the MOSFET to prevent reverse current."
+    },
+    {
+      "hash": "97d2cc6b220a09b6dc95d0a5f5393fe19561c312",
+      "heading": "Working Principle",
+      "level": "h3",
+      "text": "Working Principle This circuit uses matched PNP transistors to form a voltage-sensing and control circuit. By detecting the voltage difference between the input and output terminals, the circuit controls the MOSFET gate voltage to achieve ideal-diode-like unidirectional conduction. The operating process is as follows: 1. When Vin > Vout The input voltage is higher than the output voltage. The PNP control circuit provides the appropriate gate-to-source drive voltage to turn on the MOSFET, allowing current to flow from Vin to Vout. At this point, most of the current flows through the MOSFET channel. The voltage drop is primarily determined by the MOSFET's on-resistance, resulting in lower power loss than a conventional diode. 2. When Vin < Vout When the output voltage becomes higher than the input voltage, the PNP control circuit changes the MOSFET gate state and turns it off, preventing current from flowing backward from Vout to Vin. Therefore, this circuit can provide not only reverse polarity protection but also protection against reverse current between different power sources."
+    },
+    {
+      "hash": "856e2a41cde98007e8b4f9b3ec8ec6902c30029e",
+      "heading": "Conclusion",
+      "level": "h2",
+      "text": "Conclusion Choosing the right reverse polarity protection circuit depends on the input voltage, load current, allowable voltage drop, and overall protection requirements. Whether using a diode, PMOS, NMOS, or ideal diode configuration, proper component selection and PCB layout are essential for reliable operation. During PCB layout , pay attention to current paths, trace width, component placement, and thermal management to minimize power losses and ensure effective protection. A well-designed reverse polarity protection circuit helps improve the safety and reliability of the entire PCB."
+    },
+    {
+      "hash": "ef0bb1ce755fa22d4a40a0296f93b10932b0349e",
+      "heading": "Related articles",
+      "level": "h3",
+      "text": "Related articles Reverse Polarity Protection: Diode, PMOS, NMOS, and Ideal Diode Circuits ESD Protection and Reverse polarity protection"
+    }
+  ],
+  "sitemap_lastmod": "",
+  "status": 200,
+  "structure_hash": "07bffc71c8c0e1cc3fa3d1b875b81110539f6c7f",
+  "text_excerpt": "PCBWay Community Search title or content Search PCBWay PCB Instant Quote CNC | 3D Printing Login Sign Up More Notifications No notifications. My Profile My projects My Likes My Deals My Goods for Bazaar Settings Sign Out Projects Categories DIY Electronics Arduino Hardware Audio Computers & USB Breakout Board Projects Home Automation LED Displays & Matrices IoT Robotics View all categories By Source Files Onju Voice - AI assistant replacement to Google Nest Mini by @justLV LogicAnalyzer V6.0 DIY 1kW Open Source MPPT Solar Charge Controller Tad Boy Color SummerCart64 - a fully open source N64 flashcart kv4p HT v1.7b QuinLED-Dig-Uno Arduino RC engine sound & light controller with inertia simulation for ESP32 Bike Fingerprint - PCB Solar Powered WiFi Weather Station V2.0 RIP-Felix PS3 Tantalizer Frog Boy Color View all source files projects Featured Projects Onju Voice - AI assistant replacement to Google Nest Mini by @justLV LogicAnalyzer V6.0 DIY 1kW Open Source MPPT Solar Charge Controller Featured Source Files Video View all projects Questions Sponsorships PCBWay Future Innovators Program Feedback Blog Store PCB Design Contest - 9th Project Design Contest - 2026 KiCad PCB Design...",
+  "text_hash": "422fe606a9233348c6e7e0f9c8f17af52f6e3fa7",
+  "title": "Reverse Polarity Protection: Diode, PMOS, NMOS, and Ideal Diode Circuits - PCB Design & Layout - PCBway",
+  "url": "https://www.pcbway.com/blog/PCB_Design_Layout/Reverse_Polarity_Protection_Diode_PMOS_NMOS_and_Ideal_Diode_Circuits_8cb368b5.html"
+}
