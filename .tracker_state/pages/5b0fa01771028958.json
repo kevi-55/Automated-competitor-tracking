@@ -1,0 +1,335 @@
+{
+  "canonical": "",
+  "category": "content",
+  "competitor": "PCBWay",
+  "ctas": [
+    {
+      "href": "https://www.pcbway.com/orderonline.aspx",
+      "text": "PCB Instant Quote"
+    },
+    {
+      "href": "javascript:void(0)",
+      "text": "Sign Up"
+    },
+    {
+      "href": "https://www.pcbway.com/project/shareproject?order=1",
+      "text": "By Source Files"
+    },
+    {
+      "href": "https://www.pcbway.com/project/shareproject?order=1",
+      "text": "View all source files projects"
+    },
+    {
+      "href": "https://www.pcbway.com/project/shareproject?order=1",
+      "text": "Source Files"
+    },
+    {
+      "href": "https://www.pcbway.com/pcbdesign/quotelayout",
+      "text": "PCB design"
+    },
+    {
+      "href": "https://www.pcbway.com/pcbdesign/quotelayout",
+      "text": "PCB layout"
+    },
+    {
+      "href": "https://www.pcbway.com/pcbdesign/quotelayout",
+      "text": "Get Free Layout Quote"
+    },
+    {
+      "href": "https://www.pcbway.com/blog/club-publish.html",
+      "text": "Submit for Publication"
+    },
+    {
+      "href": "https://www.pcbway.com/blog/Activities/Submit_for_Publication___Now_I_Write_Articles_in_PCBWay.html",
+      "text": "Write for PCBWay"
+    },
+    {
+      "href": "https://www.pcbway.com/blog?tag=PCB+industry",
+      "text": "PCB industry"
+    },
+    {
+      "href": "https://www.pcbway.com/contact.html",
+      "text": "Contact us"
+    }
+  ],
+  "discovered_via": "links",
+  "fetched_at": "2026-11-18T08:41:31+00:00",
+  "final_url": "https://www.pcbway.com/blog/PCB_Design_Layout/How_Does_a_Thermistor_Circuit_Work_NTC_PTC_and_PCB_Layout_4cf2d26f.html",
+  "first_seen_at": "2026-11-18T08:41:31+00:00",
+  "h1": "How Does a Thermistor Circuit Work? NTC, PTC, and PCB Layout",
+  "headings": [
+    {
+      "level": "h1",
+      "text": "How Does a Thermistor Circuit Work? NTC, PTC, and PCB Layout"
+    },
+    {
+      "level": "h2",
+      "text": "1. What Is a Thermistor? Understanding How It Works"
+    },
+    {
+      "level": "h2",
+      "text": "2. How to Read a Thermistor: Two Common Measurement Circuits"
+    },
+    {
+      "level": "h3",
+      "text": "Voltage Divider Circuit (Constant-Voltage Excitation)"
+    },
+    {
+      "level": "h3",
+      "text": "Constant-Current Excitation Circuit"
+    },
+    {
+      "level": "h2",
+      "text": "3. Key Parameters for Improving Thermistor Performance and Accuracy"
+    },
+    {
+      "level": "h3",
+      "text": "Resistance Tolerance"
+    },
+    {
+      "level": "h3",
+      "text": "Temperature Sensitivity and Measurement Resolution"
+    },
+    {
+      "level": "h3",
+      "text": "Linearization: Simplifying Circuit Design"
+    },
+    {
+      "level": "h3",
+      "text": "Self-Heating and Long-Term Drift"
+    },
+    {
+      "level": "h3",
+      "text": "Calibration"
+    },
+    {
+      "level": "h2",
+      "text": "4. Software Processing: Converting Voltage into Temperature"
+    },
+    {
+      "level": "h3",
+      "text": "Lookup Table Method"
+    },
+    {
+      "level": "h3",
+      "text": "Equation-Based Calculation"
+    },
+    {
+      "level": "h2",
+      "text": "5. PCB Layout Considerations for Thermistor Circuits"
+    },
+    {
+      "level": "h3",
+      "text": "Proper Thermistor Placement"
+    },
+    {
+      "level": "h3",
+      "text": "Optimize Analog Signal Routing"
+    },
+    {
+      "level": "h3",
+      "text": "Consider Grounding and ADC Reference Voltage"
+    },
+    {
+      "level": "h2",
+      "text": "6. Summary and Thermistor Selection Guide"
+    },
+    {
+      "level": "h3",
+      "text": "Related articles"
+    }
+  ],
+  "images": [
+    {
+      "alt": "",
+      "src": "/project/img/images/avatar/user-pic.png"
+    },
+    {
+      "alt": "",
+      "src": "/project/img/images/loading-pro.gif"
+    },
+    {
+      "alt": "",
+      "src": "https://pcbwayfile.s3.us-west-2.amazonaws.com/web/23/10/03/1152415436848m.jpeg"
+    },
+    {
+      "alt": "",
+      "src": "https://pcbwayfile.s3.us-west-2.amazonaws.com/web/25/02/01/195239553dd028d967de6453aa74b91ac0e5423e73248m.png"
+    },
+    {
+      "alt": "",
+      "src": "https://pcbwayfile.s3-us-west-2.amazonaws.com/web/21/08/30/1823256917346m.png"
+    },
+    {
+      "alt": "",
+      "src": "https://pcb-files.s3.us-west-2.amazonaws.com/web/26/11/18/14260743411c106a576b749e8978bf594781808ce3352t.png"
+    },
+    {
+      "alt": "",
+      "src": "https://pcb-files.s3.us-west-2.amazonaws.com/web/26/11/18/142639485e88b99f1ec874fe49b76db9b5ed49fe56404t.png"
+    },
+    {
+      "alt": "",
+      "src": "https://pcb-files.s3.us-west-2.amazonaws.com/web/26/11/18/142809391f3062decf7df4d2596c16fa386a883765541t.png"
+    },
+    {
+      "alt": "",
+      "src": "https://pcb-files.s3.us-west-2.amazonaws.com/web/26/11/18/1428508757ed34082ea52485a89ec850664961a6d3452t.png"
+    },
+    {
+      "alt": "",
+      "src": "https://pcb-files.s3.us-west-2.amazonaws.com/web/26/11/18/142952079e0e8b0e54de74cfdaf352b0b9158e3e66318t.png"
+    },
+    {
+      "alt": "",
+      "src": "https://pcb-files.s3.us-west-2.amazonaws.com/web/26/11/18/14315878259a4ed0ffd434f3594a609d289b8f6c41816t.png"
+    },
+    {
+      "alt": "",
+      "src": "https://pcb-files.s3.us-west-2.amazonaws.com/web/26/11/18/143409050781165052cff423b8549028c12a021350848t.png"
+    },
+    {
+      "alt": "",
+      "src": "https://pcb-files.s3.us-west-2.amazonaws.com/web/26/11/18/14211310758db6a4bf6c64da8aab1d9734e4b68118884t.png"
+    },
+    {
+      "alt": "",
+      "src": "/img/images/note-tips.png"
+    }
+  ],
+  "meta_description": "",
+  "modified_at": "",
+  "monitored_text": "PCBWay Community Search title or content Search PCBWay PCB Instant Quote CNC | 3D Printing Login Sign Up More Notifications No notifications. My Profile My projects My Likes My Deals My Goods for Bazaar Settings Sign Out Projects Categories DIY Electronics Arduino Hardware Audio Computers & USB Breakout Board Projects Home Automation LED Displays & Matrices IoT Robotics View all categories By Source Files Onju Voice - AI assistant replacement to Google Nest Mini by @justLV LogicAnalyzer V6.0 DIY 1kW Open Source MPPT Solar Charge Controller Tad Boy Color SummerCart64 - a fully open source N64 flashcart kv4p HT v1.7b QuinLED-Dig-Uno Arduino RC engine sound & light controller with inertia simulation for ESP32 Bike Fingerprint - PCB Solar Powered WiFi Weather Station V2.0 RIP-Felix PS3 Tantalizer Frog Boy Color View all source files projects Featured Projects Onju Voice - AI assistant replacement to Google Nest Mini by @justLV LogicAnalyzer V6.0 DIY 1kW Open Source MPPT Solar Charge Controller Featured Source Files Video View all projects Questions Sponsorships PCBWay Future Innovators Program Feedback Blog Store PCB Design Contest - 9th Project Design Contest - 2026 KiCad PCB Design Contest - 8th Project Design Contest - 7th Project Design Contest - KiCad Design Contest - 6th Project Design Contest - 5th PCB Design Contest - 4th PCB Design Contest - Raspberry Pi Pico Contest - PCB Design Tutorial - 3rd PCB Design Contest - I CAN SOLDER Kit Contest - 2nd PCB Design Contest - 1st PCB Design Contest Add questions Create a project Please verify your email address so that you can enjoy our more comprehensive services. Verify Now Blog > How Does a Thermistor Circuit Work? NTC, PTC, and PCB Layout How Does a Thermistor Circuit Work? NTC, PTC, and PCB Layout by: Mila Nov 18,2026 <dynamic-value> <dynamic-value> Posted in PCB Design & Layout thermistor circuit NTC thermistor PTC thermistor NTC vs PTC thermistor thermistor pcb Temperature monitoring is essential for protecting electronic components, maintaining system stability, and ensuring reliable operation. Whether preventing a battery from overheating or keeping an industrial motor within its operating temperature range, accurate temperature sensing plays an important role. Among various temperature sensors, thermistors are widely used because of their simple structure, low cost, and fast response. This article explains how thermistors work, explores common measurement circuits, discusses key performance parameters, and compares NTC and PTC thermistors to help guide component selection and PCB design . 1. What Is a Thermistor? Understanding How It Works Working Principle: A thermistor is a resistor whose resistance changes significantly with temperature. The name comes from the combination of \"thermal\" and \"resistor.\" Its key characteristic is that its resistance varies in response to changes in its own temperature. This property allows a thermistor to convert temperature, a physical quantity, into a change in electrical resistance, which can then be converted into a measurable voltage signal through an external circuit. Figure 1. Different types of thermistors Two Main Types: Based on how their resistance changes with temperature, thermistors are generally divided into two categories: NTC (Negative Temperature Coefficient) Thermistors: Their resistance decreases as temperature increases. NTC thermistors are among the most widely used temperature-sensing components due to their low cost and high sensitivity. Common applications include battery temperature monitoring, power management, and household appliance temperature control. PTC (Positive Temperature Coefficient) Thermistors: Their resistance increases as temperature rises. Depending on their materials and resistance characteristics, PTC thermistors can be further divided into two types: Nonlinear (Switching-Type) PTC Thermistors: Their resistance increases sharply near a specific temperature, known as the Curie temperature. They are commonly used for overcurrent protection, overtemperature protection, and resettable fuses. Linear PTC Thermistors: Typically made from silicon, these devices have a relatively stable positive temperature coefficient. Their resistance increases approximately linearly with temperature, making them suitable for temperature measurement applications. Simply put, an NTC thermistor behaves like a component that offers less resistance as it gets hotter. A linear PTC thermistor works in the opposite way: its resistance increases with temperature, generally in a more uniform and predictable manner. 2. How to Read a Thermistor: Two Common Measurement Circuits A thermistor does not generate an electrical signal on its own. It requires an external excitation source to convert its resistance changes into a measurable voltage signal. The following are two commonly used measurement circuits. Voltage Divider Circuit (Constant-Voltage Excitation) Figure 2. Thermistor in a voltage divider configuration This is one of the simplest and most cost-effective thermistor measurement methods. A thermistor is connected in series with a fixed reference resistor and supplied by a stable voltage source, such as VCC. By measuring the voltage across one of the resistors, the temperature information can be obtained. Working Principle: When the temperature changes, the thermistor's resistance changes accordingly. According to the voltage divider principle, the output voltage, V_TEMP, also changes. By measuring this voltage, the thermistor resistance can be calculated, and the corresponding temperature can then be determined. Advantages: The circuit is simple, requires few components, and has a low implementation cost, making it suitable for many conventional temperature-sensing applications. Considerations: Variations in the supply voltage VCC can affect V_TEMP and introduce measurement errors. To reduce this effect, a ratiometric measurement method can be used. For example, the same voltage source can serve as both the excitation voltage for the divider and the ADC reference voltage. This helps cancel out the effects of supply voltage fluctuations. Constant-Current Excitation Circuit Figure 3. Thermistor measurement using constant-current excitation Another approach is to use a precision constant-current source (I BIAS ) to supply a stable current to the thermistor. Working Principle: According to Ohm's law, V = I × R. Since the current flowing through the thermistor remains constant, the voltage across it, V_TEMP, is proportional to its resistance: V TEMP = I BIAS × R THERMISTOR When the temperature changes and the thermistor resistance varies, the output voltage changes accordingly. Advantages: Within the operating range of the current source, the output voltage is linearly proportional to the thermistor resistance. This makes resistance measurement and signal processing more straightforward, especially in applications requiring relatively high measurement accuracy. Considerations: The accuracy, temperature drift, and output voltage range of the current source all affect measurement results. In addition, excessive excitation current can cause thermistor self-heating. Therefore, the bias current must be selected carefully. The Next Step: Signal Processing The resulting analog voltage signal, V TEMP , is typically sent to an analog-to-digital converter (ADC) input on a microcontroller (MCU) for digital processing. Alternatively, it can be sent to a voltage comparator and compared with a preset threshold voltage to implement a basic overtemperature alarm. Figure 4. Overtemperature threshold detection using a thermistor and comparator 3. Key Parameters for Improving Thermistor Performance and Accuracy When selecting a thermistor, its nominal resistance is not the only parameter to consider. The following characteristics also play an important role in determining temperature measurement accuracy, stability, and overall circuit complexity. Resistance Tolerance Resistance tolerance refers to the allowable deviation between a thermistor's actual resistance and its nominal resistance at a specified temperature, typically 25°C. For example, a tolerance of ±1% means the actual resistance can vary within 1% of the specified nominal value at that temperature. NTC Thermistors: The resistance tolerance of an NTC thermistor depends not only on its nominal resistance at 25°C but also on the tolerance of its B-value and other material characteristics. Therefore, even if an NTC thermistor has a resistance tolerance of ±1% at 25°C, its actual measurement error may increase significantly at other temperatures. Linear PTC Thermistors: Some silicon-based linear PTC thermistors maintain relatively stable resistance-temperature characteristics over a wide operating temperature range, helping achieve consistent measurements. However, their actual tolerance still depends on the specific device and its datasheet specifications. Temperature Sensitivity and Measurement Resolution Sensitivity describes how much a thermistor's resistance changes in response to a change in temperature. It reflects the sensor's ability to respond to temperature variations. Measurement resolution, on the other hand, refers to the smallest temperature change that the entire measurement system can detect. NTC Thermistors: The resistance-temperature relationship of an NTC thermistor is nonlinear, and its sensitivity varies with temperature. It generally has higher relative sensitivity at lower temperatures, while its relative sensitivity tends to decrease as temperature rises. Linear PTC Thermistors: Silicon-based linear PTC thermistors typically exhibit a more uniform resistance change with temperature, helping maintain a consistent measurement response across a relatively wide temperature range. It is important to note that the final measurement resolution depends not only on the thermistor itself but also on the ADC resolution, reference voltage, signal noise, and external circuit design. Linearization: Simplifying Circuit Design Ideally, a sensor's output signal should have a linear relationship with the measured temperature. This simplifies subsequent data processing and temperature conversion. Challenges with NTC Thermistors: The resistance-temperature (R-T) relationship of an NTC thermistor is strongly nonlinear. To improve measurement linearity over the operating temperature range, software compensation is commonly used. Alternatively, additional components, such as a parallel resistor, can be added to the circuit for hardware linearization. Both approaches introduce some additional design or computational complexity. Figure 5. Improving the linearity of an NTC measurement circuit by adding a parallel resistor Advantages of Linear PTC Thermistors: Silicon-based linear PTC thermistors have an inherently more linear R-T characteristic, which can reduce the need for nonlinear compensation and simplify temperature conversion. However, the actual linearity of the output voltage relative to temperature also depends on the excitation circuit design. Figure 6. Linear PTC thermistors do not require a parallel resistor Self-Heating and Long-Term Drift Self-Heating: When current flows through a thermistor, Joule heating occurs, causing the device's own temperature to rise above the surrounding ambient temperature. This can introduce errors into temperature measurements. The degree of self-heating depends on the excitation method and the device's thermal dissipation conditions. For example, under constant-current excitation, thermistor power dissipation is: P = I² × R For an NTC thermistor, resistance decreases as temperature rises, so its power dissipation also decreases under constant-current excitation. Under constant-voltage excitation, however, power dissipation is: P = V² / R In this case, a decrease in NTC resistance may cause power dissipation to increase. Therefore, the excitation current or voltage should be properly controlled to prevent self-heating from affecting measurement accuracy. Long-Term Drift: Long-term drift refers to changes in a thermistor's resistance-temperature characteristics after prolonged operation or exposure to environmental factors such as temperature and humidity. It is closely related to the material, manufacturing process, operating temperature, and application environment. When selecting a thermistor, check the long-term stability and aging test data provided in its datasheet. This is particularly important in applications with demanding reliability requirements, such as automotive electronics and industrial control systems. Calibration All temperature sensors may exhibit component-to-component variations and system-level errors. Therefore, calibration is often necessary in applications requiring high measurement accuracy. NTC Thermistors: Because of their nonlinear R-T characteristics and potentially varying resistance errors across different temperatures, two-point or multipoint calibration may be required in applications with a wide temperature range or strict accuracy requirements. Linear PTC Thermistors: Thanks to their relatively linear characteristics, some devices can achieve good measurement accuracy with single-point calibration. However, multipoint calibration may still be necessary when high accuracy is required across the entire operating temperature range. The appropriate calibration method should be determined based on the required accuracy, operating temperature range, and device datasheet. 4. Software Processing: Converting Voltage into Temperature After the MCU reads the ADC value corresponding to V_TEMP, an algorithm is needed to convert it into an actual temperature value. Two common methods are used. Lookup Table Method A lookup table is created in advance to establish the relationship between resistance or ADC values and temperature. The MCU searches the table using the measured value to obtain the corresponding temperature. Interpolation can also be used to improve conversion accuracy. This method offers fast execution and simple implementation, but it requires additional memory. It is a practical option for MCUs with limited computational resources. Equation-Based Calculation Mathematical models are used to fit the thermistor's R-T curve and convert the measured resistance into temperature. For NTC Thermistors: The Steinhart-Hart equation is commonly used: 1/T = A + B*ln(R) + C*[ln(R)]³ Where T is the absolute temperature in Kelvin (K), R is the thermistor resistance, and A, B, and C are coefficients determined by the device's characteristics. For Linear PTC Thermistors: If the device has a sufficiently linear resistance-temperature relationship, a simple linear equation can be used: T = T₀ + (R − R₀) / (α × R₀) Where T₀ is the reference temperature, R₀ is the resistance at that temperature, and α is the temperature coefficient. For applications requiring higher accuracy, polynomial fitting or lookup tables can also be used to compensate for deviations from ideal linearity. 5. PCB Layout Considerations for Thermistor Circuits Selecting the right thermistor and designing an appropriate measurement circuit are only part of the process. PCB layout also has a direct impact on temperature measurement accuracy. In precision temperature-sensing applications, sensor placement, signal routing, and grounding all require careful consideration. Proper Thermistor Placement The thermistor's position should be determined by the actual temperature measurement target. If the thermistor is used to monitor the temperature of a MOSFET, power resistor, or power management IC, it should be placed as close as practical to the target heat-generating component to minimize temperature differences caused by thermal conduction paths. If it is used for ambient temperature sensing, it should be kept away from power components, heatsinks, and other significant heat sources to prevent localized heating from affecting the readings. Avoid unnecessary large copper areas or other thermally conductive structures that may transfer heat from nearby components to the thermistor, unless these structures are intentionally part of the thermal sensing design. Optimize Analog Signal Routing The output of a thermistor measurement circuit is an analog signal, which can be affected by electromagnetic interference and noise from other circuits. Keep the signal path between the thermistor and the MCU ADC input as short as practical. Avoid routing the signal parallel to high-frequency clock lines, switching nodes, or high-current traces over long distances. If necessary, add an appropriate RC filter at the ADC input to suppress high-frequency noise. Consider Grounding and ADC Reference Voltage Grounding and reference voltage stability also affect temperature measurement accuracy. Avoid sharing long ground paths between the thermistor measurement circuit and high-current return paths to reduce errors caused by ground potential variations. Ensure that the ADC reference voltage is stable to prevent power supply noise from affecting conversion results. For voltage divider measurement circuits, consider using a ratiometric measurement approach in which the divider supply and ADC reference voltage are the same. This helps reduce errors caused by supply voltage fluctuations. 6. Summary and Thermistor Selection Guide NTC and linear PTC thermistors each have their own advantages. The appropriate choice depends on the measurement temperature range, accuracy requirements, cost, and circuit design complexity. Key Selection Considerations: If cost is a major concern and the measurement range is relatively narrow with moderate accuracy requirements, a traditional NTC thermistor is still an excellent choice. It offers low cost, mature technology, and a wide range of available components. However, its nonlinear characteristics and potential temperature compensation requirements should be taken into account. If an application requires better temperature linearity, stable performance across the operating temperature range, and simpler signal processing, a silicon-based linear PTC thermistor may be worth considering. Its relatively linear characteristics can simplify temperature conversion, but the actual measurement accuracy, operating range, and calibration requirements must still be evaluated based on the specific device specifications. In practical designs, thermistor measurement performance depends not only on the sensor itself but also on the excitation circuit, ADC configuration, sensor placement, and thermistor PCB layout. By considering component selection, circuit design, and PCB layout together, designers can develop more accurate and reliable temperature monitoring systems. Enter the year of your birth and check your Chinese Zodiac. Get Free Layout Quote Join us Wanna be a dedicated PCBWay writer? We definately look forward to having you with us. Submit for Publication Become Our Writer Leave a Comment ( 0 ) Share to: Previous：What Is the Purpose of a 1MΩ Resistor in a Crystal Oscillator Circuit Next：No next one Related articles How Does a Thermistor Circuit Work? NTC, PTC, and PCB Layout Comments ( 0 ) Log in to post comments. Upload photo You can only upload 5 files in total. Each file cannot exceed 2MB. Supports JPG, JPEG, GIF, PNG, BMP 0 / 10000 It looks like you have not written anything. Please add a comment and try again. You can upload up to 5 images! Image size should not exceed 2MB! File format not supported! Post Comment Write for PCBWay Categories Select a Category Engineering Technical News PCB Layout Software Activities Help Center PCB Basic Information PCB Manufacturing Information PCB Design & Layout Flexible PCB Rigid-Flex PCB HDI PCB PCB Assembly Technology 3D Printing CNC Machining Sheet Metal Bending Countersink & Counterbore Hardware insertion Tapping Welding Sheet Cutting Injection Molding PCB Design Tutorial PCBWay Store Table of Contents 1. What Is a Thermistor? Understanding How It Works 2. How to Read a Thermistor: Two Common Measurement Circuits 3. Key Parameters for Improving Thermistor Performance and Accuracy 4. Software Processing: Converting Voltage into Temperature 5. PCB Layout Considerations for Thermistor Circuits 6. Summary and Thermistor Selection Guide HOT TAG PCB Printed Circuit Board PCB design PCB Board PCB layout Circuit Board Printed Circuit Boards PCB Design Tutorial PCB industry pcb manufacturing KiCad pcbway IF YOU MISSED IT 1 PCB Layout Design Process from Schematic to Manufacturing 2 How Does a Thermistor Circuit Work? NTC, PTC, and PCB Layout 3 What Is the Purpose of a 1MΩ Resistor in a Crystal Oscillator Circuit 4 Reverse Polarity Protection: Diode, PMOS, NMOS, and Ideal Diode Circuits 5 Why Are Two MOSFETs Connected Back-to-Back in a MOSFET Circuit? 6 Why Should a Decoupling Capacitor Be Placed Close to the IC 7 USB Type-C Pinout: Why Are 5.1KΩ Pull-Down Resistors Needed? 8 Clock Circuit Design Guidelines for PCB Layout 9 Differential Pair Routing: 3 Common Design Mistakes to Avoid The PCB Way that recognize the talent and effort of the best ELECTRONIC designers in the World. © COPYRIGHT 2019 About us Contact us Follow us on Share to Facebook Share to Twitter Share to Reddit Share to Linkedin Back to top",
+  "published_at": "2026-11-18T00:00:00+00:00",
+  "requested_url": "https://www.pcbway.com/blog/PCB_Design_Layout/How_Does_a_Thermistor_Circuit_Work_NTC_PTC_and_PCB_Layout_4cf2d26f.html",
+  "schema_version": 2,
+  "sections": [
+    {
+      "hash": "543975c82c1cdc3693fc9353828c693226347c72",
+      "heading": "How Does a Thermistor Circuit Work? NTC, PTC, and PCB Layout",
+      "level": "h1",
+      "text": "How Does a Thermistor Circuit Work? NTC, PTC, and PCB Layout by: Mila Nov 18,2026 <dynamic-value> <dynamic-value> Posted in PCB Design & Layout thermistor circuit NTC thermistor PTC thermistor NTC vs PTC thermistor thermistor pcb Temperature monitoring is essential for protecting electronic components, maintaining system stability, and ensuring reliable operation. Whether preventing a battery from overheating or keeping an industrial motor within its operating temperature range, accurate temperature sensing plays an important role. Among various temperature sensors, thermistors are widely used because of their simple structure, low cost, and fast response. This article explains how thermistors work, explores common measurement circuits, discusses key performance parameters, and compares NTC and PTC thermistors to help guide component selection and PCB design . 1. What Is a Thermistor? Understanding How It Works Working Principle: A thermistor is a resistor whose resistance changes significantly with temperature. The name comes from the combination of \"thermal\" and \"resistor.\" Its key characteristic is that its resistance varies in response to changes in its own temperature. This p..."
+    },
+    {
+      "hash": "7e1e63b9e96a96cb4ffffd78fdc829f8952f3db4",
+      "heading": "1. What Is a Thermistor? Understanding How It Works",
+      "level": "h2",
+      "text": "1. What Is a Thermistor? Understanding How It Works Working Principle: A thermistor is a resistor whose resistance changes significantly with temperature. The name comes from the combination of \"thermal\" and \"resistor.\" Its key characteristic is that its resistance varies in response to changes in its own temperature. This property allows a thermistor to convert temperature, a physical quantity, into a change in electrical resistance, which can then be converted into a measurable voltage signal through an external circuit. Figure 1. Different types of thermistors Two Main Types: Based on how their resistance changes with temperature, thermistors are generally divided into two categories: NTC (Negative Temperature Coefficient) Thermistors: Their resistance decreases as temperature increases. NTC thermistors are among the most widely used temperature-sensing components due to their low cost and high sensitivity. Common applications include battery temperature monitoring, power management, and household appliance temperature control. PTC (Positive Temperature Coefficient) Thermistors: Their resistance increases as temperature rises. Depending on their materials and resistance charact..."
+    },
+    {
+      "hash": "b96035d4fa64e091647d8c49073995084a8520c1",
+      "heading": "2. How to Read a Thermistor: Two Common Measurement Circuits",
+      "level": "h2",
+      "text": "2. How to Read a Thermistor: Two Common Measurement Circuits A thermistor does not generate an electrical signal on its own. It requires an external excitation source to convert its resistance changes into a measurable voltage signal. The following are two commonly used measurement circuits."
+    },
+    {
+      "hash": "d0a479b286bee739bf23f60b388dd19ef5de258b",
+      "heading": "Voltage Divider Circuit (Constant-Voltage Excitation)",
+      "level": "h3",
+      "text": "Voltage Divider Circuit (Constant-Voltage Excitation) Figure 2. Thermistor in a voltage divider configuration This is one of the simplest and most cost-effective thermistor measurement methods. A thermistor is connected in series with a fixed reference resistor and supplied by a stable voltage source, such as VCC. By measuring the voltage across one of the resistors, the temperature information can be obtained. Working Principle: When the temperature changes, the thermistor's resistance changes accordingly. According to the voltage divider principle, the output voltage, V_TEMP, also changes. By measuring this voltage, the thermistor resistance can be calculated, and the corresponding temperature can then be determined. Advantages: The circuit is simple, requires few components, and has a low implementation cost, making it suitable for many conventional temperature-sensing applications. Considerations: Variations in the supply voltage VCC can affect V_TEMP and introduce measurement errors. To reduce this effect, a ratiometric measurement method can be used. For example, the same voltage source can serve as both the excitation voltage for the divider and the ADC reference voltage. T..."
+    },
+    {
+      "hash": "4468642f1509db718c98adb8e3d5be38dcda55fa",
+      "heading": "Constant-Current Excitation Circuit",
+      "level": "h3",
+      "text": "Constant-Current Excitation Circuit Figure 3. Thermistor measurement using constant-current excitation Another approach is to use a precision constant-current source (I BIAS ) to supply a stable current to the thermistor. Working Principle: According to Ohm's law, V = I × R. Since the current flowing through the thermistor remains constant, the voltage across it, V_TEMP, is proportional to its resistance: V TEMP = I BIAS × R THERMISTOR When the temperature changes and the thermistor resistance varies, the output voltage changes accordingly. Advantages: Within the operating range of the current source, the output voltage is linearly proportional to the thermistor resistance. This makes resistance measurement and signal processing more straightforward, especially in applications requiring relatively high measurement accuracy. Considerations: The accuracy, temperature drift, and output voltage range of the current source all affect measurement results. In addition, excessive excitation current can cause thermistor self-heating. Therefore, the bias current must be selected carefully. The Next Step: Signal Processing"
+    },
+    {
+      "hash": "8e23e73cb2ba4250a0d202cec79775472b74695a",
+      "heading": "3. Key Parameters for Improving Thermistor Performance and Accuracy",
+      "level": "h2",
+      "text": "3. Key Parameters for Improving Thermistor Performance and Accuracy When selecting a thermistor, its nominal resistance is not the only parameter to consider. The following characteristics also play an important role in determining temperature measurement accuracy, stability, and overall circuit complexity."
+    },
+    {
+      "hash": "40492e6f8b7e5dee50d632aacd26185e77fe27ad",
+      "heading": "Resistance Tolerance",
+      "level": "h3",
+      "text": "Resistance Tolerance Resistance tolerance refers to the allowable deviation between a thermistor's actual resistance and its nominal resistance at a specified temperature, typically 25°C. For example, a tolerance of ±1% means the actual resistance can vary within 1% of the specified nominal value at that temperature. NTC Thermistors: The resistance tolerance of an NTC thermistor depends not only on its nominal resistance at 25°C but also on the tolerance of its B-value and other material characteristics. Therefore, even if an NTC thermistor has a resistance tolerance of ±1% at 25°C, its actual measurement error may increase significantly at other temperatures. Linear PTC Thermistors: Some silicon-based linear PTC thermistors maintain relatively stable resistance-temperature characteristics over a wide operating temperature range, helping achieve consistent measurements. However, their actual tolerance still depends on the specific device and its datasheet specifications."
+    },
+    {
+      "hash": "340c7a37d3fe4ee909cae7d8be1ae428e28e5e55",
+      "heading": "Temperature Sensitivity and Measurement Resolution",
+      "level": "h3",
+      "text": "Temperature Sensitivity and Measurement Resolution Sensitivity describes how much a thermistor's resistance changes in response to a change in temperature. It reflects the sensor's ability to respond to temperature variations. Measurement resolution, on the other hand, refers to the smallest temperature change that the entire measurement system can detect. NTC Thermistors: The resistance-temperature relationship of an NTC thermistor is nonlinear, and its sensitivity varies with temperature. It generally has higher relative sensitivity at lower temperatures, while its relative sensitivity tends to decrease as temperature rises. Linear PTC Thermistors: Silicon-based linear PTC thermistors typically exhibit a more uniform resistance change with temperature, helping maintain a consistent measurement response across a relatively wide temperature range. It is important to note that the final measurement resolution depends not only on the thermistor itself but also on the ADC resolution, reference voltage, signal noise, and external circuit design."
+    },
+    {
+      "hash": "9b5fb96b714d8c443128901da35c6e0604adcae0",
+      "heading": "Linearization: Simplifying Circuit Design",
+      "level": "h3",
+      "text": "Linearization: Simplifying Circuit Design Ideally, a sensor's output signal should have a linear relationship with the measured temperature. This simplifies subsequent data processing and temperature conversion. Challenges with NTC Thermistors: The resistance-temperature (R-T) relationship of an NTC thermistor is strongly nonlinear. To improve measurement linearity over the operating temperature range, software compensation is commonly used. Alternatively, additional components, such as a parallel resistor, can be added to the circuit for hardware linearization. Both approaches introduce some additional design or computational complexity. Figure 5. Improving the linearity of an NTC measurement circuit by adding a parallel resistor Advantages of Linear PTC Thermistors: Silicon-based linear PTC thermistors have an inherently more linear R-T characteristic, which can reduce the need for nonlinear compensation and simplify temperature conversion. However, the actual linearity of the output voltage relative to temperature also depends on the excitation circuit design. Figure 6. Linear PTC thermistors do not require a parallel resistor"
+    },
+    {
+      "hash": "67721e25c62601c22b0bdc3501efd6d2a11813c3",
+      "heading": "Self-Heating and Long-Term Drift",
+      "level": "h3",
+      "text": "Self-Heating and Long-Term Drift Self-Heating: When current flows through a thermistor, Joule heating occurs, causing the device's own temperature to rise above the surrounding ambient temperature. This can introduce errors into temperature measurements. The degree of self-heating depends on the excitation method and the device's thermal dissipation conditions. For example, under constant-current excitation, thermistor power dissipation is: P = I² × R For an NTC thermistor, resistance decreases as temperature rises, so its power dissipation also decreases under constant-current excitation. Under constant-voltage excitation, however, power dissipation is: P = V² / R In this case, a decrease in NTC resistance may cause power dissipation to increase. Therefore, the excitation current or voltage should be properly controlled to prevent self-heating from affecting measurement accuracy. Long-Term Drift: Long-term drift refers to changes in a thermistor's resistance-temperature characteristics after prolonged operation or exposure to environmental factors such as temperature and humidity. It is closely related to the material, manufacturing process, operating temperature, and application..."
+    },
+    {
+      "hash": "858efe24c8b6ce2d91c8bc2fa0ef2dc5fc1130e5",
+      "heading": "Calibration",
+      "level": "h3",
+      "text": "Calibration All temperature sensors may exhibit component-to-component variations and system-level errors. Therefore, calibration is often necessary in applications requiring high measurement accuracy. NTC Thermistors: Because of their nonlinear R-T characteristics and potentially varying resistance errors across different temperatures, two-point or multipoint calibration may be required in applications with a wide temperature range or strict accuracy requirements. Linear PTC Thermistors: Thanks to their relatively linear characteristics, some devices can achieve good measurement accuracy with single-point calibration. However, multipoint calibration may still be necessary when high accuracy is required across the entire operating temperature range. The appropriate calibration method should be determined based on the required accuracy, operating temperature range, and device datasheet."
+    },
+    {
+      "hash": "8e6b4ff775980031db2f59e7c972ce5eb2203284",
+      "heading": "4. Software Processing: Converting Voltage into Temperature",
+      "level": "h2",
+      "text": "4. Software Processing: Converting Voltage into Temperature After the MCU reads the ADC value corresponding to V_TEMP, an algorithm is needed to convert it into an actual temperature value. Two common methods are used."
+    },
+    {
+      "hash": "bde6867f8e297acf559f9979d794e9446b7c9c0a",
+      "heading": "Lookup Table Method",
+      "level": "h3",
+      "text": "Lookup Table Method A lookup table is created in advance to establish the relationship between resistance or ADC values and temperature. The MCU searches the table using the measured value to obtain the corresponding temperature. Interpolation can also be used to improve conversion accuracy. This method offers fast execution and simple implementation, but it requires additional memory. It is a practical option for MCUs with limited computational resources."
+    },
+    {
+      "hash": "4782ed5b5483c511d775816e5d03a5481806b80f",
+      "heading": "Equation-Based Calculation",
+      "level": "h3",
+      "text": "Equation-Based Calculation Mathematical models are used to fit the thermistor's R-T curve and convert the measured resistance into temperature. For NTC Thermistors: The Steinhart-Hart equation is commonly used: 1/T = A + B*ln(R) + C*[ln(R)]³ Where T is the absolute temperature in Kelvin (K), R is the thermistor resistance, and A, B, and C are coefficients determined by the device's characteristics. For Linear PTC Thermistors: If the device has a sufficiently linear resistance-temperature relationship, a simple linear equation can be used: T = T₀ + (R − R₀) / (α × R₀) Where T₀ is the reference temperature, R₀ is the resistance at that temperature, and α is the temperature coefficient. For applications requiring higher accuracy, polynomial fitting or lookup tables can also be used to compensate for deviations from ideal linearity."
+    },
+    {
+      "hash": "e9c201d05067cf116c4948fbdce17958cf6dfa5c",
+      "heading": "5. PCB Layout Considerations for Thermistor Circuits",
+      "level": "h2",
+      "text": "5. PCB Layout Considerations for Thermistor Circuits Selecting the right thermistor and designing an appropriate measurement circuit are only part of the process. PCB layout also has a direct impact on temperature measurement accuracy. In precision temperature-sensing applications, sensor placement, signal routing, and grounding all require careful consideration."
+    },
+    {
+      "hash": "861accea95b6f54a6f72c27c2247201ec0b03e92",
+      "heading": "Proper Thermistor Placement",
+      "level": "h3",
+      "text": "Proper Thermistor Placement The thermistor's position should be determined by the actual temperature measurement target. If the thermistor is used to monitor the temperature of a MOSFET, power resistor, or power management IC, it should be placed as close as practical to the target heat-generating component to minimize temperature differences caused by thermal conduction paths. If it is used for ambient temperature sensing, it should be kept away from power components, heatsinks, and other significant heat sources to prevent localized heating from affecting the readings. Avoid unnecessary large copper areas or other thermally conductive structures that may transfer heat from nearby components to the thermistor, unless these structures are intentionally part of the thermal sensing design."
+    },
+    {
+      "hash": "accf60c3cd7fdab9d6ec76fbb882999960a4adb2",
+      "heading": "Optimize Analog Signal Routing",
+      "level": "h3",
+      "text": "Optimize Analog Signal Routing The output of a thermistor measurement circuit is an analog signal, which can be affected by electromagnetic interference and noise from other circuits. Keep the signal path between the thermistor and the MCU ADC input as short as practical. Avoid routing the signal parallel to high-frequency clock lines, switching nodes, or high-current traces over long distances. If necessary, add an appropriate RC filter at the ADC input to suppress high-frequency noise."
+    },
+    {
+      "hash": "076178db89019b76098a56cab9af28de48f1ebfa",
+      "heading": "Consider Grounding and ADC Reference Voltage",
+      "level": "h3",
+      "text": "Consider Grounding and ADC Reference Voltage Grounding and reference voltage stability also affect temperature measurement accuracy. Avoid sharing long ground paths between the thermistor measurement circuit and high-current return paths to reduce errors caused by ground potential variations. Ensure that the ADC reference voltage is stable to prevent power supply noise from affecting conversion results. For voltage divider measurement circuits, consider using a ratiometric measurement approach in which the divider supply and ADC reference voltage are the same. This helps reduce errors caused by supply voltage fluctuations."
+    },
+    {
+      "hash": "a489ac74676e39ce217749431658ec60cc7a3fba",
+      "heading": "6. Summary and Thermistor Selection Guide",
+      "level": "h2",
+      "text": "6. Summary and Thermistor Selection Guide NTC and linear PTC thermistors each have their own advantages. The appropriate choice depends on the measurement temperature range, accuracy requirements, cost, and circuit design complexity. Key Selection Considerations: If cost is a major concern and the measurement range is relatively narrow with moderate accuracy requirements, a traditional NTC thermistor is still an excellent choice. It offers low cost, mature technology, and a wide range of available components. However, its nonlinear characteristics and potential temperature compensation requirements should be taken into account. If an application requires better temperature linearity, stable performance across the operating temperature range, and simpler signal processing, a silicon-based linear PTC thermistor may be worth considering. Its relatively linear characteristics can simplify temperature conversion, but the actual measurement accuracy, operating range, and calibration requirements must still be evaluated based on the specific device specifications. In practical designs, thermistor measurement performance depends not only on the sensor itself but also on the excitation cir..."
+    },
+    {
+      "hash": "4808b009b5d80bd99f2e2e78ad255d0f3b2a548d",
+      "heading": "Related articles",
+      "level": "h3",
+      "text": "Related articles How Does a Thermistor Circuit Work? NTC, PTC, and PCB Layout"
+    }
+  ],
+  "sitemap_lastmod": "",
+  "status": 200,
+  "structure_hash": "aafed5ee05839a79b8fd703330678b4be31b9768",
+  "text_excerpt": "PCBWay Community Search title or content Search PCBWay PCB Instant Quote CNC | 3D Printing Login Sign Up More Notifications No notifications. My Profile My projects My Likes My Deals My Goods for Bazaar Settings Sign Out Projects Categories DIY Electronics Arduino Hardware Audio Computers & USB Breakout Board Projects Home Automation LED Displays & Matrices IoT Robotics View all categories By Source Files Onju Voice - AI assistant replacement to Google Nest Mini by @justLV LogicAnalyzer V6.0 DIY 1kW Open Source MPPT Solar Charge Controller Tad Boy Color SummerCart64 - a fully open source N64 flashcart kv4p HT v1.7b QuinLED-Dig-Uno Arduino RC engine sound & light controller with inertia simulation for ESP32 Bike Fingerprint - PCB Solar Powered WiFi Weather Station V2.0 RIP-Felix PS3 Tantalizer Frog Boy Color View all source files projects Featured Projects Onju Voice - AI assistant replacement to Google Nest Mini by @justLV LogicAnalyzer V6.0 DIY 1kW Open Source MPPT Solar Charge Controller Featured Source Files Video View all projects Questions Sponsorships PCBWay Future Innovators Program Feedback Blog Store PCB Design Contest - 9th Project Design Contest - 2026 KiCad PCB Design...",
+  "text_hash": "1a1e6f767074e5a904cfe9e6d09d43bb224e78d7",
+  "title": "How Does a Thermistor Circuit Work? NTC, PTC, and PCB Layout - PCB Design & Layout - PCBway",
+  "url": "https://www.pcbway.com/blog/PCB_Design_Layout/How_Does_a_Thermistor_Circuit_Work_NTC_PTC_and_PCB_Layout_4cf2d26f.html"
+}
