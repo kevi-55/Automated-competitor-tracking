@@ -1,0 +1,345 @@
+{
+  "canonical": "",
+  "category": "content",
+  "competitor": "PCBWay",
+  "ctas": [
+    {
+      "href": "https://www.pcbway.com/orderonline.aspx",
+      "text": "PCB Instant Quote"
+    },
+    {
+      "href": "javascript:void(0)",
+      "text": "Sign Up"
+    },
+    {
+      "href": "https://www.pcbway.com/project/shareproject?order=1",
+      "text": "By Source Files"
+    },
+    {
+      "href": "https://www.pcbway.com/project/shareproject?order=1",
+      "text": "View all source files projects"
+    },
+    {
+      "href": "https://www.pcbway.com/project/shareproject?order=1",
+      "text": "Source Files"
+    },
+    {
+      "href": "https://www.pcbway.com/pcbdesign/quotelayout",
+      "text": "pcb layout"
+    },
+    {
+      "href": "https://www.pcbway.com/pcbdesign/quotelayout",
+      "text": "Get Free Layout Quote"
+    },
+    {
+      "href": "https://www.pcbway.com/blog/club-publish.html",
+      "text": "Submit for Publication"
+    },
+    {
+      "href": "https://www.pcbway.com/blog/Activities/Submit_for_Publication___Now_I_Write_Articles_in_PCBWay.html",
+      "text": "Write for PCBWay"
+    },
+    {
+      "href": "https://www.pcbway.com/blog?tag=PCB+industry",
+      "text": "PCB industry"
+    },
+    {
+      "href": "https://www.pcbway.com/contact.html",
+      "text": "Contact us"
+    }
+  ],
+  "discovered_via": "links",
+  "fetched_at": "2026-11-21T08:24:07+00:00",
+  "final_url": "https://www.pcbway.com/blog/PCB_Design_Layout/PCB_Ground_Plane_Design_Routing_Across_Plane_Splits_and_Signal_Return_Paths_d6f47d55.html",
+  "first_seen_at": "2026-11-21T08:24:07+00:00",
+  "h1": "PCB Ground Plane Design: Routing Across Plane Splits and Signal Return Paths",
+  "headings": [
+    {
+      "level": "h1",
+      "text": "PCB Ground Plane Design: Routing Across Plane Splits and Signal Return Paths"
+    },
+    {
+      "level": "h2",
+      "text": "1. Do Differential Pairs Need a Reference Plane?"
+    },
+    {
+      "level": "h2",
+      "text": "2. How to Route Signals Across Plane Splits"
+    },
+    {
+      "level": "h3",
+      "text": "Routing Across Ground Plane Splits"
+    },
+    {
+      "level": "h3",
+      "text": "Routing Across Power Plane Splits"
+    },
+    {
+      "level": "h3",
+      "text": "Using Jumpers to Cross Routing Paths"
+    },
+    {
+      "level": "h3",
+      "text": "Adding Ground Stitching Vias When Changing Signal Layers"
+    },
+    {
+      "level": "h2",
+      "text": "3. PCB Decoupling Capacitor Layout Guidelines"
+    },
+    {
+      "level": "h3",
+      "text": "Keep Decoupling Capacitors Close to IC Power Pins"
+    },
+    {
+      "level": "h3",
+      "text": "Optimize the Power and Ground Return Paths"
+    },
+    {
+      "level": "h3",
+      "text": "Minimize the IPM Power Supply Return Loop"
+    },
+    {
+      "level": "h3",
+      "text": "Connect Digital Ground Copper to the Main Ground Plane"
+    },
+    {
+      "level": "h2",
+      "text": "4. Why Should Decoupling Capacitors Have Separate Ground Vias?"
+    },
+    {
+      "level": "h2",
+      "text": "5. How to Handle Connector and Interface Routing"
+    },
+    {
+      "level": "h2",
+      "text": "6. Should You Pour Copper on Every PCB Layer?"
+    },
+    {
+      "level": "h3",
+      "text": "Benefits of PCB Copper Pour"
+    },
+    {
+      "level": "h3",
+      "text": "Potential Problems with Fragmented Ground Copper"
+    },
+    {
+      "level": "h3",
+      "text": "Remove Unnecessary Ground Copper Areas"
+    },
+    {
+      "level": "h3",
+      "text": "Related articles"
+    }
+  ],
+  "images": [
+    {
+      "alt": "",
+      "src": "/project/img/images/avatar/user-pic.png"
+    },
+    {
+      "alt": "",
+      "src": "/project/img/images/loading-pro.gif"
+    },
+    {
+      "alt": "",
+      "src": "https://pcbwayfile.s3.us-west-2.amazonaws.com/web/23/10/03/1152415436848m.jpeg"
+    },
+    {
+      "alt": "",
+      "src": "https://pcbwayfile.s3.us-west-2.amazonaws.com/web/25/02/01/195239553dd028d967de6453aa74b91ac0e5423e73248m.png"
+    },
+    {
+      "alt": "",
+      "src": "https://pcbwayfile.s3-us-west-2.amazonaws.com/web/21/08/30/1823256917346m.png"
+    },
+    {
+      "alt": "",
+      "src": "https://pcb-files.s3.us-west-2.amazonaws.com/web/26/11/20/172950615cad7905d1a8842149da618171918f05c2206t.png"
+    },
+    {
+      "alt": "",
+      "src": "https://pcb-files.s3.us-west-2.amazonaws.com/web/26/11/20/1737264944721890f56704393b48820ec7668db476011t.png"
+    },
+    {
+      "alt": "",
+      "src": "https://pcb-files.s3.us-west-2.amazonaws.com/web/26/11/20/1736172173c30d969e01c46df9d539a3dea3bc2b80411t.png"
+    },
+    {
+      "alt": "",
+      "src": "https://pcb-files.s3.us-west-2.amazonaws.com/web/26/11/20/17365100212406905752c4ea091fe0514ec9f8d837058t.png"
+    },
+    {
+      "alt": "",
+      "src": "https://pcb-files.s3.us-west-2.amazonaws.com/web/26/11/20/17391420582007c9e33ec4d8bacfd1cc99922e9482830t.png"
+    },
+    {
+      "alt": "",
+      "src": "https://pcb-files.s3.us-west-2.amazonaws.com/web/26/11/20/173952674b87aebc6a5a74c549d3a6b4f9caa2a481537t.png"
+    },
+    {
+      "alt": "",
+      "src": "https://pcb-files.s3.us-west-2.amazonaws.com/web/26/11/20/174028131231ffc4b019947398b98ec199fefcfd06857t.png"
+    },
+    {
+      "alt": "",
+      "src": "https://pcb-files.s3.us-west-2.amazonaws.com/web/26/11/20/174102747c3ef376268f04a3cba1566ad0b6a2ef18471t.png"
+    },
+    {
+      "alt": "",
+      "src": "https://pcb-files.s3.us-west-2.amazonaws.com/web/26/11/20/17420244654c91cdd3ccd42f98932b4b14cb354304014t.png"
+    },
+    {
+      "alt": "",
+      "src": "https://pcb-files.s3.us-west-2.amazonaws.com/web/26/11/20/174246833d8f6fd67f87347c2af7711d87dab6ca83824t.png"
+    },
+    {
+      "alt": "",
+      "src": "https://pcb-files.s3.us-west-2.amazonaws.com/web/26/11/20/17470512072c11be31e854b7b831331697e9ed0640760t.png"
+    },
+    {
+      "alt": "",
+      "src": "https://pcb-files.s3.us-west-2.amazonaws.com/web/26/11/20/174413356b211469c217c44f48a48cc8fad7016ce8036t.png"
+    },
+    {
+      "alt": "",
+      "src": "https://pcb-files.s3.us-west-2.amazonaws.com/web/26/11/20/1745306072eca6c41de4546d78cf6deef6b1798526246t.png"
+    },
+    {
+      "alt": "",
+      "src": "https://pcb-files.s3.us-west-2.amazonaws.com/web/26/11/20/1746167775e430942dfd643079a81f14a5e01ed055665t.png"
+    },
+    {
+      "alt": "",
+      "src": "/img/images/note-tips.png"
+    }
+  ],
+  "meta_description": "",
+  "modified_at": "",
+  "monitored_text": "PCBWay Community Search title or content Search PCBWay PCB Instant Quote CNC | 3D Printing Login Sign Up More Notifications No notifications. My Profile My projects My Likes My Deals My Goods for Bazaar Settings Sign Out Projects Categories DIY Electronics Arduino Hardware Audio Computers & USB Breakout Board Projects Home Automation LED Displays & Matrices IoT Robotics View all categories By Source Files Onju Voice - AI assistant replacement to Google Nest Mini by @justLV LogicAnalyzer V6.0 DIY 1kW Open Source MPPT Solar Charge Controller Tad Boy Color SummerCart64 - a fully open source N64 flashcart kv4p HT v1.7b Arduino RC engine sound & light controller with inertia simulation for ESP32 QuinLED-Dig-Uno Bike Fingerprint - PCB Solar Powered WiFi Weather Station V2.0 RIP-Felix PS3 Tantalizer Frog Boy Color View all source files projects Featured Projects Onju Voice - AI assistant replacement to Google Nest Mini by @justLV LogicAnalyzer V6.0 DIY 1kW Open Source MPPT Solar Charge Controller Featured Source Files Video View all projects Questions Sponsorships PCBWay Future Innovators Program Feedback Blog Store PCB Design Contest - 9th Project Design Contest - 2026 KiCad PCB Design Contest - 8th Project Design Contest - 7th Project Design Contest - KiCad Design Contest - 6th Project Design Contest - 5th PCB Design Contest - 4th PCB Design Contest - Raspberry Pi Pico Contest - PCB Design Tutorial - 3rd PCB Design Contest - I CAN SOLDER Kit Contest - 2nd PCB Design Contest - 1st PCB Design Contest Add questions Create a project Please verify your email address so that you can enjoy our more comprehensive services. Verify Now Blog > PCB Ground Plane Design: Routing Across Plane Splits and Signal Return Paths PCB Ground Plane Design: Routing Across Plane Splits and Signal Return Paths by: Mila Nov 19,2026 <dynamic-value> <dynamic-value> Posted in PCB Design & Layout pcb ground plane pcb ground plane design decoupling capacitor layout signal return path A well-designed PCB ground plane is essential for maintaining signal integrity, controlling electromagnetic interference (EMI), and providing low-impedance return paths. However, issues such as split reference planes, improper signal routing, and poor decoupling capacitor placement can interrupt return-current paths and affect circuit performance. This article discusses several practical PCB ground plane design considerations, including routing across plane splits, maintaining continuous return paths, optimizing decoupling capacitor pcb layout , and managing copper pours. 1. Do Differential Pairs Need a Reference Plane? For differential signals, the electromagnetic coupling between the two signal traces is fundamental to their operation. The differential-mode current primarily forms a loop between the two traces. Therefore, tight coupling between the differential pair helps reduce the loop area and minimize external interference. However, does this mean that differential pairs do not need a reference plane? The answer is no. Due to limitations in component packaging, PCB manufacturing processes, and actual routing conditions, it is difficult to achieve perfect symmetry between the two traces. Factors such as connectors, vias, pads, and routing discontinuities can also introduce common-mode components into differential signals. These common-mode currents require the reference plane and other associated structures to provide a return path. Therefore, differential pairs need not only good coupling between the two traces but also appropriate electromagnetic coupling with the nearby reference plane. During PCB layout, use a continuous and solid reference plane whenever possible, and avoid routing differential signals across plane splits. 2. How to Route Signals Across Plane Splits When a signal trace crosses different reference plane regions, the return current may lose its continuous path. This can increase the current loop area and parasitic inductance, potentially causing signal integrity and EMI problems. Therefore, avoid routing signals across reference plane splits whenever possible. If this cannot be avoided due to circuit constraints, the appropriate solution depends on the type of plane being crossed. Routing Across Ground Plane Splits For two physically separated regions belonging to the same GND net, prioritize maintaining a continuous return path by establishing a proper connection between the ground areas. If the two ground planes belong to different ground nets, such as analog ground and digital ground, their connection should be determined according to the system grounding architecture. Components such as resistors or ferrite beads may be used to connect the two ground nets at designated locations. However, simply adding a resistor or ferrite bead does not solve every ground plane splitting issue. （Routing across a ground plane split） Routing Across Power Plane Splits When a signal crosses two different power reference regions, an appropriate high-frequency bypass capacitor can be placed between the two power planes to provide a return path for the current. The capacitor should be placed as close as possible to the signal crossing point, with short, low-inductance connections to the two reference regions. The capacitor's equivalent series inductance (ESL), as well as the parasitic inductance introduced by vias and connecting traces, must also be considered. However, this does not mean that signals can freely cross power plane splits. For high-speed signals, routing on a layer with a continuous reference plane remains the more reliable approach. (Using a capacitor to provide a return path across a power plane split) Using Jumpers to Cross Routing Paths When signal traces cross each other and the routing cannot be resolved by adjusting the routing layers or trace paths, a jumper can be used to bridge one trace over another and prevent a direct electrical connection. (jumper routing example) Adding Ground Stitching Vias When Changing Signal Layers When a signal changes routing layers through a via, it is also important to consider whether its reference plane changes. For example, when a signal transitions from the top layer to another signal layer, the two layers may reference different GND planes. In this case, the return current must also transition from the original reference plane to the new one. If there is no low-impedance connection between the two reference planes, the return current may be forced to take a longer path, increasing the current loop inductance. Therefore, ground stitching vias can be placed near the signal transition via to provide a more direct return path for the current. (Adding GND vias near a signal layer transition) 3. PCB Decoupling Capacitor Layout Guidelines The effectiveness of a decoupling capacitor depends not only on its capacitance but also on its placement, connection method, and power return path on the PCB. If the capacitor is placed too far from the IC power pin, or if its connecting traces and vias are too long, additional parasitic inductance will be introduced, reducing its high-frequency decoupling performance. Therefore, during PCB layout, the current loop between the decoupling capacitor and the IC should be kept as short as possible. Keep Decoupling Capacitors Close to IC Power Pins Decoupling capacitors should be placed as close as possible to the IC power pins, especially for high-speed digital ICs and devices with rapidly changing transient current demands. During placement, minimize the connection length between the power pin and the capacitor, while also shortening the return path from the capacitor's GND terminal to the ground plane. (Decoupling capacitor placement around an IC) Optimize the Power and Ground Return Paths Proper decoupling capacitor placement involves more than positioning the capacitor close to the IC. The power and GND connections must also be carefully routed. For power circuits, minimize the high-frequency switching current loop area and avoid interference between high-current return paths and sensitive signal return paths. (Correct decoupling capacitor placement and routing) For the GND connections in power loops, plan the return paths according to the circuit topology. Avoid sharing long, narrow traces between high-current return paths and sensitive signal grounds. However, this does not mean that power ground and signal ground must always be physically separated. In designs with a solid GND plane, the more important consideration is controlling the current flow to prevent large common-impedance voltage drops in sensitive signal areas. (power loop GND and signal ground) (Examples of different GND return path layouts) Minimize the IPM Power Supply Return Loop For power devices such as IPMs (Intelligent Power Modules), the design of the main power supply return path is particularly important. The main power loop area should be minimized, and the GND return path should connect directly back to the main bulk capacitor at the power supply input, avoiding unnecessary detours. This helps reduce parasitic inductance, voltage spikes during switching, and electromagnetic interference. (IPM main power supply return path) Connect Digital Ground Copper to the Main Ground Plane In digital signal areas, GND copper can be poured on the surface layer and connected to the main GND plane through multiple GND stitching vias. These vias help reduce the connection impedance between different GND regions and provide additional paths for high-frequency return currents. However, the number and spacing of vias should be determined according to signal frequency, routing density, and the actual return path requirements. More vias do not necessarily mean better performance. (Connecting digital ground copper to the main GND plane using a row of GND vias) 4. Why Should Decoupling Capacitors Have Separate Ground Vias? Different decoupling capacitors are typically used to suppress power supply noise across different frequency ranges. If multiple capacitors share the same GND via or a long common return path, the shared path inductance may cause them to interfere with one another. For example, when one capacitor supplies current to an IC during a transient event, the changing current generates a voltage across the parasitic inductance of the shared via. This voltage variation may couple into the return path of another capacitor, reducing its decoupling effectiveness. Therefore, for high-frequency decoupling capacitors, it is recommended to provide independent, short, and low-inductance GND connections whenever practical. Avoid sharing connection paths with significant parasitic inductance. It is important to note that sharing a via does not always cause serious problems. The actual impact depends on the current, operating frequency, connection structure, and parasitic parameters of the shared path. (Multiple decoupling capacitors sharing a GND via) 5. How to Handle Connector and Interface Routing Connector and interface routing must also account for signal interference and the continuity of return paths. For interfaces carrying high-speed signals, maintain a continuous reference plane beneath the signals whenever possible. For interfaces containing differential pairs, pay particular attention to differential impedance control, trace spacing, and length matching. For connectors with a large number of pins, GND pins should be arranged appropriately to provide nearby return paths for signals and reduce crosstalk between them. 6. Should You Pour Copper on Every PCB Layer? Copper pouring is a common technique in PCB design. However, whether every layer needs a GND copper pour depends on the PCB stackup, signal distribution, and the integrity of the ground plane. For example, a four-layer PCB with a solid inner GND plane does not necessarily need GND copper poured on every other layer. Surface copper can serve as an effective auxiliary reference path only when it remains sufficiently continuous and is properly connected to the main GND plane through vias. Fragmented copper areas separated by numerous traces and pads should not be considered reliable signal return planes. (Not all PCB reference designs use copper pours on every layer) (A four-layer PCB with a solid GND reference plane) Benefits of PCB Copper Pour Surface copper pouring offers several advantages. When properly implemented, it can improve the electrical and thermal performance of a PCB while also benefiting the manufacturing process. The main benefits include: Improved EMI Shielding: Continuous and properly grounded surface copper can provide additional shielding for inner-layer signals, helping reduce certain types of external interference. Better Heat Dissipation: Copper pours can expand the area available for heat conduction and distribution. However, the actual thermal performance also depends on copper thickness, copper area, and thermal connection methods. Reduced Copper Etchant Consumption: Under certain conditions, properly designed copper pours can reduce the amount of copper that needs to be removed during the PCB etching process. Improved Copper Balance: Distributing copper more evenly can improve copper balance across the PCB and reduce the risk of warpage caused by uneven copper distribution during manufacturing. Potential Problems with Fragmented Ground Copper More surface copper does not necessarily mean better PCB performance. The surface layer usually contains numerous components, pads, and signal traces, which can divide GND copper into multiple disconnected regions. If these regions are not properly connected to the main GND plane through sufficient vias, they may become floating copper areas or regions with high-impedance connections. In particular, long, narrow, and isolated copper sections may introduce unwanted parasitic coupling and, under certain conditions, behave like antennas, potentially causing EMI problems. (Fragmented copper areas caused by surface routing) Remove Unnecessary Ground Copper Areas Unnecessary fragmented copper areas that cannot be properly grounded or provide no practical benefit to signal return paths can be removed using the copper removal features in PCB design software. For example, in a four-layer PCB that already has a solid inner GND plane, priority should be given to maintaining the integrity of the main GND plane. Unnecessary fragmented GND copper on other layers can be removed. However, this does not mean that all surface GND copper should be removed. If the surface copper remains continuous and is properly connected to the main ground plane through strategically placed GND vias, it can still provide additional shielding, heat dissipation, and high-frequency return paths. PCB ground plane design involves more than simply adding copper to unused areas of a board. Maintaining continuous reference planes, providing proper return paths, and minimizing parasitic inductance are all important for reliable signal transmission and power distribution. By considering these factors during PCB layout , designers can reduce signal integrity issues, improve EMI performance, and achieve more reliable circuit operation. Enter the year of your birth and check your Chinese Zodiac. Get Free Layout Quote Join us Wanna be a dedicated PCBWay writer? We definately look forward to having you with us. Submit for Publication Become Our Writer Leave a Comment ( 0 ) Share to: Previous：Extrude: Check Your 3D Models on Your Phone Before Printing Next：No next one Related articles PCB Ground Plane Design: Routing Across Plane Splits and Signal Return Paths Why Should a Decoupling Capacitor Be Placed Close to the IC PCB Routing Guidelines for Ground, Power, and Signal Traces Comments ( 0 ) Log in to post comments. Upload photo You can only upload 5 files in total. Each file cannot exceed 2MB. Supports JPG, JPEG, GIF, PNG, BMP 0 / 10000 It looks like you have not written anything. Please add a comment and try again. You can upload up to 5 images! Image size should not exceed 2MB! File format not supported! Post Comment Write for PCBWay Categories Select a Category Engineering Technical News PCB Layout Software Activities Help Center PCB Basic Information PCB Manufacturing Information PCB Design & Layout Flexible PCB Rigid-Flex PCB HDI PCB PCB Assembly Technology 3D Printing CNC Machining Sheet Metal Bending Countersink & Counterbore Hardware insertion Tapping Welding Sheet Cutting Injection Molding PCB Design Tutorial PCBWay Store Table of Contents 1. Do Differential Pairs Need a Reference Plane? 2. How to Route Signals Across Plane Splits 3. PCB Decoupling Capacitor Layout Guidelines 4. Why Should Decoupling Capacitors Have Separate Ground Vias? 5. How to Handle Connector and Interface Routing 6. Should You Pour Copper on Every PCB Layer? HOT TAG PCB Printed Circuit Board PCB design PCB Board PCB layout Circuit Board Printed Circuit Boards PCB Design Tutorial PCB industry pcb manufacturing KiCad pcbway IF YOU MISSED IT 1 PCB Layout Design Process from Schematic to Manufacturing 2 PCB Ground Plane Design: Routing Across Plane Splits and Signal Return Paths 3 How Does a Thermistor Circuit Work? NTC, PTC, and PCB Layout 4 What Is the Purpose of a 1MΩ Resistor in a Crystal Oscillator Circuit 5 Reverse Polarity Protection: Diode, PMOS, NMOS, and Ideal Diode Circuits 6 Why Are Two MOSFETs Connected Back-to-Back in a MOSFET Circuit? 7 Why Should a Decoupling Capacitor Be Placed Close to the IC 8 USB Type-C Pinout: Why Are 5.1KΩ Pull-Down Resistors Needed? 9 Clock Circuit Design Guidelines for PCB Layout The PCB Way that recognize the talent and effort of the best ELECTRONIC designers in the World. © COPYRIGHT 2019 About us Contact us Follow us on Share to Facebook Share to Twitter Share to Reddit Share to Linkedin Back to top",
+  "published_at": "2026-11-19T00:00:00+00:00",
+  "requested_url": "https://www.pcbway.com/blog/PCB_Design_Layout/PCB_Ground_Plane_Design_Routing_Across_Plane_Splits_and_Signal_Return_Paths_d6f47d55.html",
+  "schema_version": 2,
+  "sections": [
+    {
+      "hash": "fa46f1b5aea521f98df5ee8b82cb8a0d0fa28d65",
+      "heading": "PCB Ground Plane Design: Routing Across Plane Splits and Signal Return Paths",
+      "level": "h1",
+      "text": "PCB Ground Plane Design: Routing Across Plane Splits and Signal Return Paths by: Mila Nov 19,2026 <dynamic-value> <dynamic-value> Posted in PCB Design & Layout pcb ground plane pcb ground plane design decoupling capacitor layout signal return path A well-designed PCB ground plane is essential for maintaining signal integrity, controlling electromagnetic interference (EMI), and providing low-impedance return paths. However, issues such as split reference planes, improper signal routing, and poor decoupling capacitor placement can interrupt return-current paths and affect circuit performance. This article discusses several practical PCB ground plane design considerations, including routing across plane splits, maintaining continuous return paths, optimizing decoupling capacitor pcb layout , and managing copper pours. 1. Do Differential Pairs Need a Reference Plane? For differential signals, the electromagnetic coupling between the two signal traces is fundamental to their operation. The differential-mode current primarily forms a loop between the two traces. Therefore, tight coupling between the differential pair helps reduce the loop area and minimize external interference. However..."
+    },
+    {
+      "hash": "90612823b7104fd6b594c3d7e030f07b66e3f7a3",
+      "heading": "1. Do Differential Pairs Need a Reference Plane?",
+      "level": "h2",
+      "text": "1. Do Differential Pairs Need a Reference Plane? For differential signals, the electromagnetic coupling between the two signal traces is fundamental to their operation. The differential-mode current primarily forms a loop between the two traces. Therefore, tight coupling between the differential pair helps reduce the loop area and minimize external interference. However, does this mean that differential pairs do not need a reference plane? The answer is no. Due to limitations in component packaging, PCB manufacturing processes, and actual routing conditions, it is difficult to achieve perfect symmetry between the two traces. Factors such as connectors, vias, pads, and routing discontinuities can also introduce common-mode components into differential signals. These common-mode currents require the reference plane and other associated structures to provide a return path. Therefore, differential pairs need not only good coupling between the two traces but also appropriate electromagnetic coupling with the nearby reference plane. During PCB layout, use a continuous and solid reference plane whenever possible, and avoid routing differential signals across plane splits."
+    },
+    {
+      "hash": "fa214f42653d173cd5842bd0e34c8158d09839a1",
+      "heading": "2. How to Route Signals Across Plane Splits",
+      "level": "h2",
+      "text": "2. How to Route Signals Across Plane Splits When a signal trace crosses different reference plane regions, the return current may lose its continuous path. This can increase the current loop area and parasitic inductance, potentially causing signal integrity and EMI problems. Therefore, avoid routing signals across reference plane splits whenever possible. If this cannot be avoided due to circuit constraints, the appropriate solution depends on the type of plane being crossed."
+    },
+    {
+      "hash": "638d34848a0247215b414cc22bbccba06575d5b1",
+      "heading": "Routing Across Ground Plane Splits",
+      "level": "h3",
+      "text": "Routing Across Ground Plane Splits For two physically separated regions belonging to the same GND net, prioritize maintaining a continuous return path by establishing a proper connection between the ground areas. If the two ground planes belong to different ground nets, such as analog ground and digital ground, their connection should be determined according to the system grounding architecture. Components such as resistors or ferrite beads may be used to connect the two ground nets at designated locations. However, simply adding a resistor or ferrite bead does not solve every ground plane splitting issue. （Routing across a ground plane split）"
+    },
+    {
+      "hash": "7958fbbe7e55b3927aecf76fddccb8b97d95c765",
+      "heading": "Routing Across Power Plane Splits",
+      "level": "h3",
+      "text": "Routing Across Power Plane Splits When a signal crosses two different power reference regions, an appropriate high-frequency bypass capacitor can be placed between the two power planes to provide a return path for the current. The capacitor should be placed as close as possible to the signal crossing point, with short, low-inductance connections to the two reference regions. The capacitor's equivalent series inductance (ESL), as well as the parasitic inductance introduced by vias and connecting traces, must also be considered. However, this does not mean that signals can freely cross power plane splits. For high-speed signals, routing on a layer with a continuous reference plane remains the more reliable approach. (Using a capacitor to provide a return path across a power plane split)"
+    },
+    {
+      "hash": "e78e8413f9bd74aaa79d25bf1d79bce06e4a798e",
+      "heading": "Using Jumpers to Cross Routing Paths",
+      "level": "h3",
+      "text": "Using Jumpers to Cross Routing Paths When signal traces cross each other and the routing cannot be resolved by adjusting the routing layers or trace paths, a jumper can be used to bridge one trace over another and prevent a direct electrical connection. (jumper routing example)"
+    },
+    {
+      "hash": "fb566989b66246c048796fbb9460cb52728bef02",
+      "heading": "Adding Ground Stitching Vias When Changing Signal Layers",
+      "level": "h3",
+      "text": "Adding Ground Stitching Vias When Changing Signal Layers When a signal changes routing layers through a via, it is also important to consider whether its reference plane changes. For example, when a signal transitions from the top layer to another signal layer, the two layers may reference different GND planes. In this case, the return current must also transition from the original reference plane to the new one. If there is no low-impedance connection between the two reference planes, the return current may be forced to take a longer path, increasing the current loop inductance. Therefore, ground stitching vias can be placed near the signal transition via to provide a more direct return path for the current. (Adding GND vias near a signal layer transition)"
+    },
+    {
+      "hash": "e0c551163e9ecc31b6024aa34e0ff02ec5f6c74f",
+      "heading": "3. PCB Decoupling Capacitor Layout Guidelines",
+      "level": "h2",
+      "text": "3. PCB Decoupling Capacitor Layout Guidelines The effectiveness of a decoupling capacitor depends not only on its capacitance but also on its placement, connection method, and power return path on the PCB. If the capacitor is placed too far from the IC power pin, or if its connecting traces and vias are too long, additional parasitic inductance will be introduced, reducing its high-frequency decoupling performance. Therefore, during PCB layout, the current loop between the decoupling capacitor and the IC should be kept as short as possible."
+    },
+    {
+      "hash": "518f35ebeee4b4fe5c254c89acc59f4fcc4878c9",
+      "heading": "Keep Decoupling Capacitors Close to IC Power Pins",
+      "level": "h3",
+      "text": "Keep Decoupling Capacitors Close to IC Power Pins Decoupling capacitors should be placed as close as possible to the IC power pins, especially for high-speed digital ICs and devices with rapidly changing transient current demands. During placement, minimize the connection length between the power pin and the capacitor, while also shortening the return path from the capacitor's GND terminal to the ground plane. (Decoupling capacitor placement around an IC)"
+    },
+    {
+      "hash": "803b9ba02bcdc07f1795a1c9aeb144744941a14b",
+      "heading": "Optimize the Power and Ground Return Paths",
+      "level": "h3",
+      "text": "Optimize the Power and Ground Return Paths Proper decoupling capacitor placement involves more than positioning the capacitor close to the IC. The power and GND connections must also be carefully routed. For power circuits, minimize the high-frequency switching current loop area and avoid interference between high-current return paths and sensitive signal return paths. (Correct decoupling capacitor placement and routing) For the GND connections in power loops, plan the return paths according to the circuit topology. Avoid sharing long, narrow traces between high-current return paths and sensitive signal grounds. However, this does not mean that power ground and signal ground must always be physically separated. In designs with a solid GND plane, the more important consideration is controlling the current flow to prevent large common-impedance voltage drops in sensitive signal areas. (power loop GND and signal ground)"
+    },
+    {
+      "hash": "75e7d5002ab33b57244eabdabf8fba69a38ec6de",
+      "heading": "Minimize the IPM Power Supply Return Loop",
+      "level": "h3",
+      "text": "Minimize the IPM Power Supply Return Loop For power devices such as IPMs (Intelligent Power Modules), the design of the main power supply return path is particularly important. The main power loop area should be minimized, and the GND return path should connect directly back to the main bulk capacitor at the power supply input, avoiding unnecessary detours. This helps reduce parasitic inductance, voltage spikes during switching, and electromagnetic interference. (IPM main power supply return path)"
+    },
+    {
+      "hash": "10dfc11aada9b7f3223a1f3748f6a476bb30fd29",
+      "heading": "Connect Digital Ground Copper to the Main Ground Plane",
+      "level": "h3",
+      "text": "Connect Digital Ground Copper to the Main Ground Plane In digital signal areas, GND copper can be poured on the surface layer and connected to the main GND plane through multiple GND stitching vias. These vias help reduce the connection impedance between different GND regions and provide additional paths for high-frequency return currents. However, the number and spacing of vias should be determined according to signal frequency, routing density, and the actual return path requirements. More vias do not necessarily mean better performance. (Connecting digital ground copper to the main GND plane using a row of GND vias)"
+    },
+    {
+      "hash": "f11bfc1ae089dd3ffdcc0f26b9f81a7384cf5449",
+      "heading": "4. Why Should Decoupling Capacitors Have Separate Ground Vias?",
+      "level": "h2",
+      "text": "4. Why Should Decoupling Capacitors Have Separate Ground Vias? Different decoupling capacitors are typically used to suppress power supply noise across different frequency ranges. If multiple capacitors share the same GND via or a long common return path, the shared path inductance may cause them to interfere with one another. For example, when one capacitor supplies current to an IC during a transient event, the changing current generates a voltage across the parasitic inductance of the shared via. This voltage variation may couple into the return path of another capacitor, reducing its decoupling effectiveness. Therefore, for high-frequency decoupling capacitors, it is recommended to provide independent, short, and low-inductance GND connections whenever practical. Avoid sharing connection paths with significant parasitic inductance. It is important to note that sharing a via does not always cause serious problems. The actual impact depends on the current, operating frequency, connection structure, and parasitic parameters of the shared path. (Multiple decoupling capacitors sharing a GND via)"
+    },
+    {
+      "hash": "b270393de4b4847f3c50f5e7f53348fde8c06b83",
+      "heading": "5. How to Handle Connector and Interface Routing",
+      "level": "h2",
+      "text": "5. How to Handle Connector and Interface Routing Connector and interface routing must also account for signal interference and the continuity of return paths. For interfaces carrying high-speed signals, maintain a continuous reference plane beneath the signals whenever possible. For interfaces containing differential pairs, pay particular attention to differential impedance control, trace spacing, and length matching. For connectors with a large number of pins, GND pins should be arranged appropriately to provide nearby return paths for signals and reduce crosstalk between them."
+    },
+    {
+      "hash": "7ab66b6c7219ce40884fa54b0f670ae6ec308614",
+      "heading": "6. Should You Pour Copper on Every PCB Layer?",
+      "level": "h2",
+      "text": "6. Should You Pour Copper on Every PCB Layer? Copper pouring is a common technique in PCB design. However, whether every layer needs a GND copper pour depends on the PCB stackup, signal distribution, and the integrity of the ground plane. For example, a four-layer PCB with a solid inner GND plane does not necessarily need GND copper poured on every other layer. Surface copper can serve as an effective auxiliary reference path only when it remains sufficiently continuous and is properly connected to the main GND plane through vias. Fragmented copper areas separated by numerous traces and pads should not be considered reliable signal return planes. (Not all PCB reference designs use copper pours on every layer) (A four-layer PCB with a solid GND reference plane)"
+    },
+    {
+      "hash": "fecb539c5077c54ec97f668613f8ef7781504017",
+      "heading": "Benefits of PCB Copper Pour",
+      "level": "h3",
+      "text": "Benefits of PCB Copper Pour Surface copper pouring offers several advantages. When properly implemented, it can improve the electrical and thermal performance of a PCB while also benefiting the manufacturing process. The main benefits include: Improved EMI Shielding: Continuous and properly grounded surface copper can provide additional shielding for inner-layer signals, helping reduce certain types of external interference. Better Heat Dissipation: Copper pours can expand the area available for heat conduction and distribution. However, the actual thermal performance also depends on copper thickness, copper area, and thermal connection methods. Reduced Copper Etchant Consumption: Under certain conditions, properly designed copper pours can reduce the amount of copper that needs to be removed during the PCB etching process. Improved Copper Balance: Distributing copper more evenly can improve copper balance across the PCB and reduce the risk of warpage caused by uneven copper distribution during manufacturing."
+    },
+    {
+      "hash": "c41b6ac25701fa438da8aca1e85579c5a74ef78f",
+      "heading": "Potential Problems with Fragmented Ground Copper",
+      "level": "h3",
+      "text": "Potential Problems with Fragmented Ground Copper More surface copper does not necessarily mean better PCB performance. The surface layer usually contains numerous components, pads, and signal traces, which can divide GND copper into multiple disconnected regions. If these regions are not properly connected to the main GND plane through sufficient vias, they may become floating copper areas or regions with high-impedance connections. In particular, long, narrow, and isolated copper sections may introduce unwanted parasitic coupling and, under certain conditions, behave like antennas, potentially causing EMI problems. (Fragmented copper areas caused by surface routing)"
+    },
+    {
+      "hash": "1a0c991e40583ce4e2f6271a6e7f470a2d79d86c",
+      "heading": "Remove Unnecessary Ground Copper Areas",
+      "level": "h3",
+      "text": "Remove Unnecessary Ground Copper Areas Unnecessary fragmented copper areas that cannot be properly grounded or provide no practical benefit to signal return paths can be removed using the copper removal features in PCB design software. For example, in a four-layer PCB that already has a solid inner GND plane, priority should be given to maintaining the integrity of the main GND plane. Unnecessary fragmented GND copper on other layers can be removed. However, this does not mean that all surface GND copper should be removed. If the surface copper remains continuous and is properly connected to the main ground plane through strategically placed GND vias, it can still provide additional shielding, heat dissipation, and high-frequency return paths. PCB ground plane design involves more than simply adding copper to unused areas of a board. Maintaining continuous reference planes, providing proper return paths, and minimizing parasitic inductance are all important for reliable signal transmission and power distribution. By considering these factors during PCB layout , designers can reduce signal integrity issues, improve EMI performance, and achieve more reliable circuit operation."
+    },
+    {
+      "hash": "723a440c479b8b2fe85cf71307cd76cd6b82740d",
+      "heading": "Related articles",
+      "level": "h3",
+      "text": "Related articles PCB Ground Plane Design: Routing Across Plane Splits and Signal Return Paths Why Should a Decoupling Capacitor Be Placed Close to the IC PCB Routing Guidelines for Ground, Power, and Signal Traces"
+    }
+  ],
+  "sitemap_lastmod": "",
+  "status": 200,
+  "structure_hash": "639b3fdfb723d1574b73bc06c62aac18d274e4da",
+  "text_excerpt": "PCBWay Community Search title or content Search PCBWay PCB Instant Quote CNC | 3D Printing Login Sign Up More Notifications No notifications. My Profile My projects My Likes My Deals My Goods for Bazaar Settings Sign Out Projects Categories DIY Electronics Arduino Hardware Audio Computers & USB Breakout Board Projects Home Automation LED Displays & Matrices IoT Robotics View all categories By Source Files Onju Voice - AI assistant replacement to Google Nest Mini by @justLV LogicAnalyzer V6.0 DIY 1kW Open Source MPPT Solar Charge Controller Tad Boy Color SummerCart64 - a fully open source N64 flashcart kv4p HT v1.7b Arduino RC engine sound & light controller with inertia simulation for ESP32 QuinLED-Dig-Uno Bike Fingerprint - PCB Solar Powered WiFi Weather Station V2.0 RIP-Felix PS3 Tantalizer Frog Boy Color View all source files projects Featured Projects Onju Voice - AI assistant replacement to Google Nest Mini by @justLV LogicAnalyzer V6.0 DIY 1kW Open Source MPPT Solar Charge Controller Featured Source Files Video View all projects Questions Sponsorships PCBWay Future Innovators Program Feedback Blog Store PCB Design Contest - 9th Project Design Contest - 2026 KiCad PCB Design...",
+  "text_hash": "a2758d8d2564b6385e1fd73217b9b2db12b794a8",
+  "title": "PCB Ground Plane Design: Routing Across Plane Splits and Signal Return Paths - PCB Design & Layout - PCBway",
+  "url": "https://www.pcbway.com/blog/PCB_Design_Layout/PCB_Ground_Plane_Design_Routing_Across_Plane_Splits_and_Signal_Return_Paths_d6f47d55.html"
+}
