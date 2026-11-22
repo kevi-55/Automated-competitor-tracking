@@ -120,7 +120,6 @@
       "https://www.cnclathing.com/cnc-machining-copper"
     ],
     "Fictiv": [
-      "https://www.fictiv.com/",
       "https://www.fictiv.com/capabilities",
       "https://www.fictiv.com/resources",
       "https://www.fictiv.com/articles",
@@ -948,15 +947,8 @@
       "https://quote.emachineshop.com/emachineshop/widget/upload"
     ]
   },
-  "last_run_at": "2026-11-21T08:31:11+00:00",
+  "last_run_at": "2026-11-22T08:13:04+00:00",
   "runs": [
-    {
-      "errors": 86,
-      "events": 145,
-      "finished_at": "2026-09-23T06:11:04+00:00",
-      "mode": "daily",
-      "run_id": "20260923T055523Z"
-    },
     {
       "errors": 27,
       "events": 100,
@@ -1369,6 +1361,13 @@
       "finished_at": "2026-11-21T08:31:11+00:00",
       "mode": "daily",
       "run_id": "20261121T081429Z"
+    },
+    {
+      "errors": 31,
+      "events": 43,
+      "finished_at": "2026-11-22T08:13:04+00:00",
+      "mode": "daily",
+      "run_id": "20261122T075800Z"
     }
   ],
   "schema_version": 2
