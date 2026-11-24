@@ -2,54 +2,103 @@
   "canonical": "https://www.protolabs.com/resources/design-tips/fine-tuning-tolerances-for-cnc-machined-parts",
   "category": "content",
   "competitor": "Protolabs",
-  "ctas": [],
+  "ctas": [
+    {
+      "href": "https://www.protolabs.com/ecom/get-a-quote",
+      "text": "Upload Your CAD Model"
+    }
+  ],
   "discovered_via": "sitemap",
-  "fetched_at": "2026-08-17T03:49:06+00:00",
+  "fetched_at": "2026-11-24T10:59:59+00:00",
   "final_url": "https://www.protolabs.com/resources/design-tips/fine-tuning-tolerances-for-cnc-machined-parts",
   "first_seen_at": "2026-08-17T03:49:06+00:00",
-  "h1": "Understanding CNC Machining Tolerances",
+  "h1": "Fine-Tuning Tolerances for CNC Machined Parts",
   "headings": [
     {
       "level": "h1",
-      "text": "Understanding CNC Machining Tolerances"
+      "text": "Fine-Tuning Tolerances for CNC Machined Parts"
     },
     {
       "level": "h2",
-      "text": "Maximize part quality, reduce cost, and navigate design challenges using standardized tolerances on machined parts"
+      "text": "Key Points"
     },
     {
-      "level": "h3",
+      "level": "h2",
+      "text": "Perfection Can Hinder Progress"
+    },
+    {
+      "level": "h2",
       "text": "Standardized Tolerances for CNC Machining"
     },
     {
-      "level": "h3",
+      "level": "h2",
       "text": "Tolerancing Guidelines for CNC Machining"
     },
     {
-      "level": "h3",
-      "text": "Surface Roughness Considerations for Machining Tolerances"
+      "level": "h2",
+      "text": "Surface Finish and Surface Roughness"
     },
     {
-      "level": "h3",
+      "level": "h2",
+      "text": "Ra Comparison for CNC Machined Parts"
+    },
+    {
+      "level": "h2",
+      "text": "Designing In Adjustment"
+    },
+    {
+      "level": "h2",
+      "text": "What Are Microns?"
+    },
+    {
+      "level": "h2",
+      "text": "Capability and Measurement Accuracy"
+    },
+    {
+      "level": "h2",
+      "text": "How Are CNC Tolerances Inspected?"
+    },
+    {
+      "level": "h2",
       "text": "Geometric Dimensioning and Tolerancing"
     },
     {
       "level": "h3",
-      "text": "Why High-precision/High-quantity Machining?"
+      "text": "Common GD&T Symbols and Use Cases"
+    },
+    {
+      "level": "h2",
+      "text": "FAQs"
+    },
+    {
+      "level": "h3",
+      "text": "What is the standard tolerance for CNC machining?"
+    },
+    {
+      "level": "h3",
+      "text": "What is a good surface roughness for CNC machined parts?"
+    },
+    {
+      "level": "h3",
+      "text": "Does a smoother surface finish mean tighter tolerances?"
+    },
+    {
+      "level": "h3",
+      "text": "When should I use GD&T instead of ± tolerances?"
+    },
+    {
+      "level": "h2",
+      "text": "Get a Quote"
     }
   ],
   "images": [
     {
-      "alt": "CNC machining tolerances",
-      "src": "/media/pqkfpktf/cnc_understanding-tolerances.jpg?width=570&height=308&v=1da00ffda8e4bb0"
+      "alt": "",
+      "src": "/media/pqkfpktf/cnc_understanding-tolerances.jpg"
     },
     {
-      "alt": "CNC milling metal",
-      "src": "/media/1023234/pl-dt-july-2021_2-570x308-milling-metal.png?width=570&height=308&v=1d85493fee250c0"
-    },
-    {
-      "alt": "CNC machined parts",
-      "src": "/media/1023235/pl-dt-july-2021_3-570x308-cnc-parts.png?width=570&height=308&v=1d840345e972370"
+      "alt": "",
+      "src": "/media/psajit3u/pl_cnc_rapid_prototyping.jpg?width=1370&v=1dd54b870882870"
     },
     {
       "alt": "molding an aluminum mold for production",
@@ -66,59 +115,131 @@
   ],
   "meta_description": "Maximizing part quality, reducing cost, and navigating design challenges can be easy when you use standardized tolerances on machined parts.",
   "modified_at": "",
-  "monitored_text": "Understanding CNC Machining Tolerances Maximize part quality, reduce cost, and navigate design challenges using standardized tolerances on machined parts Eli Whitney, the inventor of the cotton gin, is credited with the concept of interchangeable parts. During a presentation to the United States Congress in 1801, he illustrated how all of the components needed for an assembly should be produced according to a set of exacting standards—to specific dimensions and tolerances, in other words—thus ensuring that the firing pin or gun barrel from one musket will fit into any other musket. His idea helped pave the way for the Second Industrial Revolution and what became known as the American System of Manufacturing. At Protolabs, our standard prototype and production machining tolerance is +/- 0.005 in. (0.13mm). But if you need greater accuracy, there's our standard precision or production machining tolerance of +/-0.002 in. (0.051 mm). We're also able to hold +/- 0.0005 in. (0.0127mm) on reamed holes, and +/- 0.002 (0.051mm) on feature locations, provided those features are machined on the same side of the part. The concepts of component interchangeability and dimensional tolerancing have since become an accepted part of manufacturing. Unfortunately, the misapplication of the latter can cause a host of problems. For instance, an overly stringent tolerance might require that parts go to a secondary grinding or EDM operation for completion, unnecessarily increasing costs and lead-time. Tolerances that are “too loose” or that aren’t in line with those of mating parts can make assembly impossible, leading to required rework, or in the worst case, making the finished product unusable. To help avoid these unpleasant situations, this design tip includes some guidelines on how to properly apply part tolerances at Protolabs, along with a few definitions of the more commonly used callouts. We’ll also explore the industry standard for part tolerancing known as Geometric Dimensioning and Tolerancing (GD&T), a system defined under the American Society of Mechanical Engineers (ASME) Y14.5 specification. Standardized Tolerances for CNC Machining The standard prototype and production machining tolerance at the Protolabs automated factory is +/- 0.005 in. (0.13mm). The standard prototype and production machining tolerance at the Protolabs semi-automated factory and the Protolabs Network is in accordance with ISO 2768-1-1989-f (metals), ISO 2768-1-1989-m (plastics). That’s pretty close, but if you need greater accuracy, there's our standard precision or production machining tolerance of +/-0.002 in. (0.051 mm). We're also able to hold +/- 0.0005 in. (0.0127mm) on reamed holes, and +/- 0.002 (0.051mm) on feature locations, provided those features are machined on the same side of the part. Depending on the part geometry and material, however, we can often achieve even greater accuracy, provided you make us aware of your requirements. For these and other exceptions, please be sure to note them on your part design when you upload the file(s) for quoting. Fine-tunng tolerance dimensions in your designs for CNC machined parts can help maximize those parts’ quality and reduce cost. Tolerancing Guidelines for CNC Machining Also, be aware that these are bilateral tolerances . If expressed in unilateral terms , the standard tolerance would read +0.000/- 0.010 in. (or +0.010/- 0.000 in.) while a limit-based tolerance in our automated factory bracket example would be 1.005 / 0.995 in. All are acceptable, as are metric values, provided that you spell them out on the design. And to avoid confusion, please stick with the \"three place\" dimensions and tolerances shown, avoiding the extra zero in 1.0000 or 0.2500 in. unless there’s an overriding reason to do so. Surface Roughness Considerations for Machining Tolerances There’s more to part tolerancing than length, width, hole size, etc. There’s also surface roughness, which in the standard offering is equal to 63 µ in. for flat and perpendicular surfaces, and for curved surfaces, 125 µ in. or better. This is an adequate finish for most uses, but for cosmetic surfaces on metal parts, we’re generally able to improve appearance through light bead blasting. Check out our CNC Surface Finish Guide for examples, and if you're in need of something smoother, note it on your design and we'll do our best to accommodate you. Geometric Dimensioning and Tolerancing Here’s another consideration. As mentioned earlier, we can accept GD&T tolerancing. This provides a deeper level of quality control that includes relationships between various part features as well as form and fit qualifiers. Below are a few of the more common ones: True position : In the bracket example cited earlier, we called out the hole location by specifying X and Y distances and their allowable deviation from a pair of perpendicular part edges. In GD&T, the hole’s location would be called out by its true position from a set of reference datums, accompanied by the qualifiers MMC (maximum material condition) or LMC (least material condition). Flatness : Milled surfaces are generally quite flat, but due to internal material stress or clamping forces during the machining process, some warpage can occur once the part has been removed from the machine, especially on thin-walled and plastic parts. A GD&T flatness tolerance controls this by defining two parallel planes within which a milled surface must lie. Cylindricity : For the same reasons that most milled surfaces are quite flat, most holes are quite round, as are turned surfaces. However, using a +/- 0.005 in. (0.127mm) tolerance, the 0.25 in. (6.35mm) hole in the bracket example could potentially be oblong, measuring 0.245 in. (6.223mm) one way and 0.255 in. (6.477mm) the other. Using cylindricity—defined as two concentric cylinders inside of which the machined hole must lie—manufacturers eliminate this unlikely situation. Concentricity : The rings on a bullseye are concentric, just as the wheels on your car are concentric to the axle. If a drilled or reamed hole must run perfectly true to a coaxial counterbore or circular boss, a concentricity callout is the best way to assure this. Perpendicularity : As its name implies, perpendicularity determines the maximum deviation of a horizontal machined surface to a nearby vertical surface. It can also be used to control the squareness of a turned shoulder to an adjacent diameter or the center axis of the part. There are additional considerations to GD&T, including parallelism, straightness, profile, and angularity, all of which are spelled out in ASME Y14.5. As with any other non-standard tolerances, however, they must be called out on the design at the time of upload. Tolerancing with GD&T also means that projects will bypass our automated Protolabs quoting process and be rerouted to our myRapid quoting experience for our CNC machining high-precision/high-quantity option. At Protolabs, we offer both a fully automated machining option for fast turnaround or a high-precision option with extended milling and post-machining capabilities for the highest complexity parts. Whether machining prototype or production parts, we have all of your CNC milling and turning needs covered. Why High-precision/High-quantity Machining? So, what is the difference between our machining options? For starters, a quote for high-precision/high-quantity machining requires teammate consultation versus that of our automated machining option, so the quote might take more time for this human review. Offered standard lead times are longer as the machining is only semi-automated. We require a 3D CAD model, along with a 2D drawing for GD&T tolerances. If your requirement is that we go beyond our standard cutting tool set and use machining processes such as wire EDM, EDM hole popping, grinding, and boring to meet your part quality requirements, we would suggest submitting a quote to our Protolabs Network partners. Another option that should be mentioned in this context is quality control and documentation. Upon request, we’ll measure parts on one of our CMMs (coordinate measuring machine) and other metrology equipment. We will also work with you on the Production Part Approval Process (PPAP), provide a Certificate of Conformance (CoC) to your specifications, and provide First Article Inspections (FAIs), material certifications, and heat lot numbers. Ultimately, we’re here to support your project from prototyping to production, whatever the tolerance requirements. This is because we offer both a fully automated machining option for fast turnaround or a high-precision option with extended milling and post-machining capabilities for the highest complexity parts. We have all of your CNC milling and turning needs covered. Just give us a call or send an email if you want to know more. We always have applications engineers available to assist with any questions at [email protected] or 877-479-3680. Ready to start your next project? Just upload a CAD file to our website. expand_less You Might Also Like... 3-axis vs. 5-axis CNC Machining Designing for CNC Machining CNC Machining Service",
+  "monitored_text": "Fine-Tuning Tolerances for CNC Machined Parts Maximize part quality, reduce cost, and navigate design challenges using standardized tolerances on machined parts While tight tolerances are essential for certain features and assemblies, specifying greater precision than necessary can increase manufacturing costs, extend lead times, and complicate production. On the other hand, tolerances that are too loose can affect part fit and functionality. This guide covers standard CNC machining tolerances, geometric dimensioning and tolerancing (GD&T), and practical design considerations to help you achieve the required accuracy without unnecessary cost. Key Points Tolerances are important in assemblies, but apply them sparingly and only where function requires. In general, tighter tolerances increase manufacturing, measurement and quality assurance cost. Keep it simple. For the majority of components, ±1 mm is sufficient for noncritical features. In prototypes, adjust tolerances to validate what will be required in production. Use dimensionally stable materials where tight tolerance is important. Specify smoother surface finishes only where function requires them. Perfection Can Hinder Progress It is easy to apply tight tolerances and overconstrain features with geometric dimensioning and tolerancing (GD&T) at the design and prototype stage. This will drive up manufacturing cost and limit sourcing options later in the development cycle. The most stringent tolerances may require secondary machining steps such as grinding, polishing or electrical discharge machining (EDM), increasing both cost and lead time. Likewise, tolerances that are too loose can make assembly difficult or impossible. To help navigate tolerance types and likely cost implications, this article covers tolerances available from Protolabs along with commonly used tolerances. We’ll also explore surface finish and GD&T (defined under BS 8888:2025 , ISO , and ASME Y14.5), and explain how tolerances are inspected. Standardized Tolerances for CNC Machining Standard tolerances vary by manufacturing route. The Protolabs automated factory holds ±0.005 in. (0.13 mm), while our semi-automated factory and the Protolabs Network follow ISO 2768-1 fine (f) for metals and medium (m) for plastics. Tighter tolerances are often achievable, so be sure to note any requirements on your design when you upload it. At Protolabs, our standard prototype and production machining tolerance is +/- 0.005 in. (0.13mm). But if you need greater accuracy, there's our standard precision or production machining tolerance of +/-0.002 in. (0.051 mm). We're also able to hold +/- 0.0005 in. (0.0127mm) on reamed holes, and +/- 0.002 (0.051mm) on feature locations, provided those features are machined on the same side of the part. Tolerancing Guidelines for CNC Machining Overconstraining a design can take two forms: adding an unnecessarily tight tolerance, or constraining each degree of freedom more than once. A single pin constrains x and y, while a second pin prevents rotation. The same applies to slots and inserts, and overconstraining will add cost. Tolerances can be bilateral (± 0.005 in), unilateral (+ 0.000/-0.010 in) or limit dimensions (1.005/0.995 in). All are acceptable, in imperial or metric units, provided they are stated clearly on the drawing. Surface Finish and Surface Roughness Surface roughness is referred to as Ra (roughness average). It is the mean of the peaks and valleys along a material’s surface, and is typically measured in micrometers (µm) or microinches (µin). Protolabs typically delivers a 1.6 µm (63 µin) Ra finish on flat and perpendicular surfaces across CNC machining materials. Curved surfaces are typically 3.2 µm (125 µin) Ra or better. For general CNC machining, Ra 6.3 µm to Ra 0.8 µm is typical. Optional bead blasting produces a slightly rougher but uniform matte finish that hides tool marks on cosmetic surfaces . See our surface finish guide for detailed images. Surface finish and tolerance are closely linked. A rough surface, for example, uses up part of a tight tolerance band. This means tightly toleranced features usually require smoother finishes. Anodizing, plating and powder coating add thickness, so be sure to factor that in on mating features (or be sure to mask critical surfaces). You should also be aware that each step down in Ra adds cost and lead time, so it’s a good idea to reserve smoother finishes for things like sealing faces, bearing surfaces, and sliding fits. Ra Comparison for CNC Machined Parts Ra (µm) Ra (µin) Surface appearance Typical applications Cost impact 3.2 125 Visible tool marks Non-critical and internal surfaces, brackets, housings Baseline 1.6 63 Slight tool marks General-purpose parts, light-load sliding fits Minimal 0.8 32 Faint tool marks, smooth to the touch Bearing surfaces, sealing faces, high-stress parts Moderate 0.4 16 Very smooth, near-reflective Pressure seals, high-speed rotating parts, medical components Highest; usually needs a finishing process Protolabs offers micro finishing for parts that need an Ra 0.4 µm finish. Designing In Adjustment Adding adjustment features helps achieve an accurate fit and test the tolerances required: Shimming: Use thin shim steel or shim washers to set height or close gaps. Adjustment screws: Set screws or fine pitch screws can alter position or push an assembly to a datum. Include a locking method such as a nylon-insert lock nut, thread locking compound or a secondary screw. Press fitting: Press two components to a known height or position. Shrink fitting: Heat the outer component so it expands enough to slide over the inner one. As it cools and contracts, it grips to form an interference fit. Another practical approach is to produce multiple design variants for assembly testing; CNC machining and 3D printing can quickly produce a test array. What Are Microns? The micrometer (µm) is one thousandth of a millimeter. When you hold your phone, the warmth of your hand can change its size by up to 68 µm. This puts our general tolerance of ±127 µm into context. Avoid measuring in microns unless parts are normalized for 24 hours and measured in a temperature-controlled environment using a CMM (which Protolabs offers). (Example: aluminum alloy CTE = 24 µm/m/°C; ambient 18 °C, body temperature 37 °C, phone length 150 mm.) Capability and Measurement Accuracy “Although Protolabs quoted ±0.1 mm on the aluminum parts, all dimensions were within ±0.05 mm.” Customer comment. Protolabs uses capability studies to maintain tolerance, so delivered parts often exceed the quoted tolerance, which covers multiple machining setups and material types. To achieve the best tolerance, follow this guidance: Where possible, orient interrelated features to be machined in one plane so they are produced in the same setup. Use materials with a low coefficient of thermal expansion (CTE). Specify plastics with low moisture absorption. Water uptake changes size and shape and can affect CNC machined glass-filled plastics. How Are CNC Tolerances Inspected? The right inspection method depends on the tolerance, the feature, and the type of documentation you require. Hand tools and gauges: Calipers, micrometers, height gauges, pin gauges and go/no-go thread gauges are fast and suit most standard tolerances. Coordinate measuring machines (CMMs): A CMM uses a touch probe to record points on a part and compare them with the CAD model or drawing. It measures the relationships GD&T describes, such as position, flatness, and perpendicularity, then produces a dimensional report. Optical and laser scanning: Non-contact systems capture whole surfaces quickly and suit complex profiles and delicate parts. Surface roughness testers: A profilometer draws a stylus across the surface to confirm the specified Ra. Upon request, we measure using CMMs (coordinate measuring machines), laser scanning and other metrology equipment. We also support the Production Part Approval Process (PPAP), provide a Certificate of Conformance (CoC) to your specifications, First Article Inspections (FAIs) and material data sheets. Geometric Dimensioning and Tolerancing GD&T gives designers a precise way to communicate critical manufacturing requirements to the manufacturer. It acts as concise notation; adding GD&T often specifies a sequence of manufacture and may imply a different process. Because it defines fit relationships between features, it increases the need for quality control, measurement and gauging. Common GD&T Symbols and Use Cases Characteristic Symbol Category Common use case Straightness ⏤ Form Shafts, pins, long edges Flatness ⏥ Form Sealing faces, mounting surfaces Circularity ○ Form Turned diameters, O-ring grooves Cylindricity ⌭ Form Bores and shafts that run in bearings Perpendicularity ⟂ Orientation Mounting faces, turned shoulders Parallelism ∥ Orientation Opposing faces, guide surfaces Angularity ∠ Orientation Angled faces and mounting features Position ⌖ Location Hole patterns, bolt circles, dowel holes Profile of a surface ⌓ Profile Complex contours and freeform surfaces Circular runout ⭧ Runout Turned diameters relative to an axis Total runout ⌰ Runout Shafts and other rotating parts Position tolerances often carry a maximum material condition (MMC) modifier, which allows “bonus” tolerance as a hole grows from its smallest size while still guaranteeing fit. ASME Y14.5-2018 removed concentricity and symmetry, but both remain in ISO 1101. You’ll need to check which standard your supplier works to. GD&T callouts require a 2D drawing alongside the 3D CAD model at upload. Limits and fits: Normally defined on a hole basis to ISO 286-2, limits and fits use a letter and number with the hole diameter. Holes use a capital letter (for example H7) and shafts use a lowercase letter (for example g6). The larger the number, the wider the tolerance band: 9 and above: typical milled or drilled tolerance 7: generally a reamed hole; a specific reaming tool is needed for each size 6 and below: requires more specialized machining The letter defines deviation from nominal. H is on nominal. k and higher are larger than nominal for an interference fit. g and lower are smaller than nominal for a clearance fit. True position: Usually specified as a diameter, which means the tolerance applies in every direction. A position tolerance of 0.030 diameter defines a cylindrical zone, so the hole’s axis can sit up to 0.015 from its true position in any direction. Reamed holes are typically required, as an irregular hole diameter will consume the GD&T allowance. Flatness: Milled surfaces are generally flat. Specifying very tight flatness usually implies surface grinding. Cylindricity, concentricity and runout: Runout is often specified because it is easier to measure. Runout is a compound measurement, so further checks may be needed to confirm cylindricity or concentricity. Squareness (perpendicularity and angularity): CNC milling machines are calibrated to ensure tools are square to the machine bed, which delivers good squareness, especially over short distances. FAQs What is the standard tolerance for CNC machining? expand_less expand_more At Protolabs, the standard machining tolerance is ± 0.005 in. (0.13 mm), with ± 0.002 in. (0.051 mm) available for precision work. This is sufficient for most noncritical features. What is a good surface roughness for CNC machined parts? expand_less expand_more Ra 1.6 µm (63 µin) suits most functional parts. Specify Ra 0.8 µm for bearing and sealing surfaces, and Ra 0.4 µm only where function demands it. Does a smoother surface finish mean tighter tolerances? expand_less expand_more Not automatically, but tight tolerances generally need a smoother finish, because surface peaks and valleys take up part of the tolerance band and make measurement less repeatable. When should I use GD&T instead of ± tolerances? expand_less expand_more Use GD&T when the relationship between features matters, such as hole patterns that must align with a mating part. For simple features, ± tolerances are quicker to specify and cheaper to inspect. Get a Quote We are here to support your project. Our applications engineers are available to assist with any questions at [email protected] or 877-479-3680 . Ready to set tolerances for your CNC machined parts? Upload your part design to receive an instant quote with standard and precision tolerance options. Upload Your CAD Model You Might Also Like... 3-axis vs. 5-axis CNC Machining Designing for CNC Machining CNC Machining Service",
   "published_at": "",
   "requested_url": "https://www.protolabs.com/resources/design-tips/fine-tuning-tolerances-for-cnc-machined-parts",
   "schema_version": 2,
   "sections": [
     {
-      "hash": "2f79e9427dd51742f28da2993be35b29c7008580",
-      "heading": "Understanding CNC Machining Tolerances",
+      "hash": "954942a3d77cc6c53f3bc47cca6d9b693bec79bb",
+      "heading": "Fine-Tuning Tolerances for CNC Machined Parts",
       "level": "h1",
-      "text": "Understanding CNC Machining Tolerances"
+      "text": "Fine-Tuning Tolerances for CNC Machined Parts Maximize part quality, reduce cost, and navigate design challenges using standardized tolerances on machined parts"
     },
     {
-      "hash": "709c3a7fe4e100c1f85a81dd9bf6c6e89c7a0477",
-      "heading": "Maximize part quality, reduce cost, and navigate design challenges using standardized tolerances on machined parts",
+      "hash": "28582bf5c52a99393563789cc2308dfce678416f",
+      "heading": "Key Points",
       "level": "h2",
-      "text": "Maximize part quality, reduce cost, and navigate design challenges using standardized tolerances on machined parts"
+      "text": "Key Points Key Points"
     },
     {
-      "hash": "e5256d80e77e3fbb07e062a78b2485d90d790a38",
+      "hash": "71aa4a5211904924ca731b06df87fc61f6d41f26",
+      "heading": "Perfection Can Hinder Progress",
+      "level": "h2",
+      "text": "Perfection Can Hinder Progress Perfection Can Hinder Progress"
+    },
+    {
+      "hash": "208492c7ce4633b9abfe216f4f947ddc39905552",
       "heading": "Standardized Tolerances for CNC Machining",
-      "level": "h3",
-      "text": "Standardized Tolerances for CNC Machining The standard prototype and production machining tolerance at the Protolabs automated factory is +/- 0.005 in. (0.13mm). The standard prototype and production machining tolerance at the Protolabs semi-automated factory and the Protolabs Network is in accordance with ISO 2768-1-1989-f (metals), ISO 2768-1-1989-m (plastics). That’s pretty close, but if you need greater accuracy, there's our standard precision or production machining tolerance of +/-0.002 in. (0.051 mm). We're also able to hold +/- 0.0005 in. (0.0127mm) on reamed holes, and +/- 0.002 (0.051mm) on feature locations, provided those features are machined on the same side of the part. Depending on the part geometry and material, however, we can often achieve even greater accuracy, provided you make us aware of your requirements. For these and other exceptions, please be sure to note them on your part design when you upload the file(s) for quoting."
+      "level": "h2",
+      "text": "Standardized Tolerances for CNC Machining Standardized Tolerances for CNC Machining"
     },
     {
-      "hash": "65cf9dd241cc2174c23b5b916990ec223412305c",
+      "hash": "89e00e9965b3903382f63e8db33c105c2ec26ee4",
       "heading": "Tolerancing Guidelines for CNC Machining",
-      "level": "h3",
-      "text": "Tolerancing Guidelines for CNC Machining Also, be aware that these are bilateral tolerances . If expressed in unilateral terms , the standard tolerance would read +0.000/- 0.010 in. (or +0.010/- 0.000 in.) while a limit-based tolerance in our automated factory bracket example would be 1.005 / 0.995 in. All are acceptable, as are metric values, provided that you spell them out on the design. And to avoid confusion, please stick with the \"three place\" dimensions and tolerances shown, avoiding the extra zero in 1.0000 or 0.2500 in. unless there’s an overriding reason to do so."
+      "level": "h2",
+      "text": "Tolerancing Guidelines for CNC Machining Tolerancing Guidelines for CNC Machining"
     },
     {
-      "hash": "de16dd37f34f59c156a7142929ea600c6751b734",
-      "heading": "Surface Roughness Considerations for Machining Tolerances",
-      "level": "h3",
-      "text": "Surface Roughness Considerations for Machining Tolerances There’s more to part tolerancing than length, width, hole size, etc. There’s also surface roughness, which in the standard offering is equal to 63 µ in. for flat and perpendicular surfaces, and for curved surfaces, 125 µ in. or better. This is an adequate finish for most uses, but for cosmetic surfaces on metal parts, we’re generally able to improve appearance through light bead blasting. Check out our CNC Surface Finish Guide for examples, and if you're in need of something smoother, note it on your design and we'll do our best to accommodate you."
+      "hash": "c8480a3f734ab0a12bc17771404938750c229242",
+      "heading": "Surface Finish and Surface Roughness",
+      "level": "h2",
+      "text": "Surface Finish and Surface Roughness Surface Finish and Surface Roughness"
     },
     {
-      "hash": "1c9945fcce716bd932e4bd95480d8f9f50ccca13",
+      "hash": "ab01ab0c9e59245a201a4e50cc7bed4086d71791",
+      "heading": "Ra Comparison for CNC Machined Parts",
+      "level": "h2",
+      "text": "Ra Comparison for CNC Machined Parts Ra (µm) Ra (µin) Surface appearance Typical applications Cost impact 3.2 125 Visible tool marks Non-critical and internal surfaces, brackets, housings Baseline 1.6 63 Slight tool marks General-purpose parts, light-load sliding fits Minimal 0.8 32 Faint tool marks, smooth to the touch Bearing surfaces, sealing faces, high-stress parts Moderate 0.4 16 Very smooth, near-reflective Pressure seals, high-speed rotating parts, medical components Highest; usually needs a finishing process Protolabs offers micro finishing for parts that need an Ra 0.4 µm finish."
+    },
+    {
+      "hash": "e622cfb54b062c53369a19cd844b0795c4967fd0",
+      "heading": "Designing In Adjustment",
+      "level": "h2",
+      "text": "Designing In Adjustment Designing In Adjustment"
+    },
+    {
+      "hash": "bf48ef93ecb3efbe4703cd5d67e8f03fc2401053",
+      "heading": "What Are Microns?",
+      "level": "h2",
+      "text": "What Are Microns? What Are Microns?"
+    },
+    {
+      "hash": "01dec79b0eccbfc4a1400dfb7dddab8341b7e3a8",
+      "heading": "Capability and Measurement Accuracy",
+      "level": "h2",
+      "text": "Capability and Measurement Accuracy Capability and Measurement Accuracy"
+    },
+    {
+      "hash": "349fc7e2aeb4b190233f21eb55b130aa9c245f0b",
+      "heading": "How Are CNC Tolerances Inspected?",
+      "level": "h2",
+      "text": "How Are CNC Tolerances Inspected? How Are CNC Tolerances Inspected?"
+    },
+    {
+      "hash": "d118067514bbb8095f5def836d2188c189b4aa66",
       "heading": "Geometric Dimensioning and Tolerancing",
-      "level": "h3",
-      "text": "Geometric Dimensioning and Tolerancing Here’s another consideration. As mentioned earlier, we can accept GD&T tolerancing. This provides a deeper level of quality control that includes relationships between various part features as well as form and fit qualifiers. Below are a few of the more common ones: True position : In the bracket example cited earlier, we called out the hole location by specifying X and Y distances and their allowable deviation from a pair of perpendicular part edges. In GD&T, the hole’s location would be called out by its true position from a set of reference datums, accompanied by the qualifiers MMC (maximum material condition) or LMC (least material condition). Flatness : Milled surfaces are generally quite flat, but due to internal material stress or clamping forces during the machining process, some warpage can occur once the part has been removed from the machine, especially on thin-walled and plastic parts. A GD&T flatness tolerance controls this by defining two parallel planes within which a milled surface must lie. Cylindricity : For the same reasons that most milled surfaces are quite flat, most holes are quite round, as are turned surfaces. However..."
+      "level": "h2",
+      "text": "Geometric Dimensioning and Tolerancing Geometric Dimensioning and Tolerancing"
     },
     {
-      "hash": "bfae2f8a9bf7e22ae5888e11743bf99a2cb6a15a",
-      "heading": "Why High-precision/High-quantity Machining?",
+      "hash": "92695831d74fc6fac37360b32902adcd96214cd6",
+      "heading": "Common GD&T Symbols and Use Cases",
       "level": "h3",
-      "text": "Why High-precision/High-quantity Machining? So, what is the difference between our machining options? For starters, a quote for high-precision/high-quantity machining requires teammate consultation versus that of our automated machining option, so the quote might take more time for this human review. Offered standard lead times are longer as the machining is only semi-automated. We require a 3D CAD model, along with a 2D drawing for GD&T tolerances. If your requirement is that we go beyond our standard cutting tool set and use machining processes such as wire EDM, EDM hole popping, grinding, and boring to meet your part quality requirements, we would suggest submitting a quote to our Protolabs Network partners. Another option that should be mentioned in this context is quality control and documentation. Upon request, we’ll measure parts on one of our CMMs (coordinate measuring machine) and other metrology equipment. We will also work with you on the Production Part Approval Process (PPAP), provide a Certificate of Conformance (CoC) to your specifications, and provide First Article Inspections (FAIs), material certifications, and heat lot numbers. Ultimately, we’re here to support..."
+      "text": "Common GD&T Symbols and Use Cases Characteristic Symbol Category Common use case Straightness ⏤ Form Shafts, pins, long edges Flatness ⏥ Form Sealing faces, mounting surfaces Circularity ○ Form Turned diameters, O-ring grooves Cylindricity ⌭ Form Bores and shafts that run in bearings Perpendicularity ⟂ Orientation Mounting faces, turned shoulders Parallelism ∥ Orientation Opposing faces, guide surfaces Angularity ∠ Orientation Angled faces and mounting features Position ⌖ Location Hole patterns, bolt circles, dowel holes Profile of a surface ⌓ Profile Complex contours and freeform surfaces Circular runout ⭧ Runout Turned diameters relative to an axis Total runout ⌰ Runout Shafts and other rotating parts Position tolerances often carry a maximum material condition (MMC) modifier, which allows “bonus” tolerance as a hole grows from its smallest size while still guaranteeing fit. ASME Y14.5-2018 removed concentricity and symmetry, but both remain in ISO 1101. You’ll need to check which standard your supplier works to. GD&T callouts require a 2D drawing alongside the 3D CAD model at upload. Limits and fits: Normally defined on a hole basis to ISO 286-2, limits and fits use a letter an..."
+    },
+    {
+      "hash": "efcc13338419df1a954d7c68b8d83817f3fda783",
+      "heading": "FAQs",
+      "level": "h2",
+      "text": "FAQs What is the standard tolerance for CNC machining? expand_less expand_more At Protolabs, the standard machining tolerance is ± 0.005 in. (0.13 mm), with ± 0.002 in. (0.051 mm) available for precision work. This is sufficient for most noncritical features. What is a good surface roughness for CNC machined parts? expand_less expand_more Ra 1.6 µm (63 µin) suits most functional parts. Specify Ra 0.8 µm for bearing and sealing surfaces, and Ra 0.4 µm only where function demands it. Does a smoother surface finish mean tighter tolerances? expand_less expand_more Not automatically, but tight tolerances generally need a smoother finish, because surface peaks and valleys take up part of the tolerance band and make measurement less repeatable. When should I use GD&T instead of ± tolerances? expand_less expand_more Use GD&T when the relationship between features matters, such as hole patterns that must align with a mating part. For simple features, ± tolerances are quicker to specify and cheaper to inspect."
+    },
+    {
+      "hash": "5a1acfd038a64dec4b73ca92a581122f2cc0fe80",
+      "heading": "What is the standard tolerance for CNC machining?",
+      "level": "h3",
+      "text": "What is the standard tolerance for CNC machining? expand_less expand_more"
+    },
+    {
+      "hash": "da6fef727ab9b562c7383f8c5c7ff8a66e694769",
+      "heading": "What is a good surface roughness for CNC machined parts?",
+      "level": "h3",
+      "text": "What is a good surface roughness for CNC machined parts? expand_less expand_more"
+    },
+    {
+      "hash": "0dcc929cb6c82451b3bef36ac02570588a4061fe",
+      "heading": "Does a smoother surface finish mean tighter tolerances?",
+      "level": "h3",
+      "text": "Does a smoother surface finish mean tighter tolerances? expand_less expand_more"
+    },
+    {
+      "hash": "b6ac56b8cef169349ca944dd3f06d7c83a4c9ce9",
+      "heading": "When should I use GD&T instead of ± tolerances?",
+      "level": "h3",
+      "text": "When should I use GD&T instead of ± tolerances? expand_less expand_more"
+    },
+    {
+      "hash": "082465b8cda1077f1ac52333d9b8c009e3d477d7",
+      "heading": "Get a Quote",
+      "level": "h2",
+      "text": "Get a Quote We are here to support your project. Our applications engineers are available to assist with any questions at [email protected] or 877-479-3680 . Ready to set tolerances for your CNC machined parts? Upload your part design to receive an instant quote with standard and precision tolerance options. Upload Your CAD Model"
     }
   ],
-  "sitemap_lastmod": "2025-09-03T19:49:00+00:00",
+  "sitemap_lastmod": "2026-11-23T14:29:00+00:00",
   "status": 200,
-  "structure_hash": "ffe51f2cdf421b9772f096447a8a9f3837636227",
-  "text_excerpt": "Understanding CNC Machining Tolerances Maximize part quality, reduce cost, and navigate design challenges using standardized tolerances on machined parts Eli Whitney, the inventor of the cotton gin, is credited with the concept of interchangeable parts. During a presentation to the United States Congress in 1801, he illustrated how all of the components needed for an assembly should be produced according to a set of exacting standards—to specific dimensions and tolerances, in other words—thus ensuring that the firing pin or gun barrel from one musket will fit into any other musket. His idea helped pave the way for the Second Industrial Revolution and what became known as the American System of Manufacturing. At Protolabs, our standard prototype and production machining tolerance is +/- 0.005 in. (0.13mm). But if you need greater accuracy, there's our standard precision or production machining tolerance of +/-0.002 in. (0.051 mm). We're also able to hold +/- 0.0005 in. (0.0127mm) on reamed holes, and +/- 0.002 (0.051mm) on feature locations, provided those features are machined on the same side of the part. The concepts of component interchangeability and dimensional tolerancing ha...",
-  "text_hash": "2544a4e012e22ff30ce3d411796079dc008f2853",
+  "structure_hash": "efd35643dd30374c8032f24fe8f89a2d0d423b48",
+  "text_excerpt": "Fine-Tuning Tolerances for CNC Machined Parts Maximize part quality, reduce cost, and navigate design challenges using standardized tolerances on machined parts While tight tolerances are essential for certain features and assemblies, specifying greater precision than necessary can increase manufacturing costs, extend lead times, and complicate production. On the other hand, tolerances that are too loose can affect part fit and functionality. This guide covers standard CNC machining tolerances, geometric dimensioning and tolerancing (GD&T), and practical design considerations to help you achieve the required accuracy without unnecessary cost. Key Points Tolerances are important in assemblies, but apply them sparingly and only where function requires. In general, tighter tolerances increase manufacturing, measurement and quality assurance cost. Keep it simple. For the majority of components, ±1 mm is sufficient for noncritical features. In prototypes, adjust tolerances to validate what will be required in production. Use dimensionally stable materials where tight tolerance is important. Specify smoother surface finishes only where function requires them. Perfection Can Hinder Progr...",
+  "text_hash": "702eef03f0c95b71f5fa2e4aae0fee0005a43597",
   "title": "Understanding CNC Machining Tolerances",
   "url": "https://www.protolabs.com/resources/design-tips/fine-tuning-tolerances-for-cnc-machined-parts"
 }

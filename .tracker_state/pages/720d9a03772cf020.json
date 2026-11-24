@@ -9,7 +9,7 @@
     }
   ],
   "discovered_via": "sitemap",
-  "fetched_at": "2026-08-27T11:18:46+00:00",
+  "fetched_at": "2026-11-24T11:00:10+00:00",
   "final_url": "https://www.protolabs.com/resources/blog/what-is-g-code-cnc-programming-and-how-it-works",
   "first_seen_at": "2026-08-27T11:18:46+00:00",
   "h1": "What Is G Code? CNC Programming and How It Works",
@@ -94,7 +94,7 @@
     },
     {
       "alt": "Tolerances for machined parts",
-      "src": "/media/1023236/pl-dt-july-2021_900x400-feature.png?width=115&height=115&v=1d7789953e9a730"
+      "src": "/media/a41kcwgj/pl_cnc_machining_mild_steel_black_oxide.jpg?width=115&height=115&v=1dc3c1605386000"
     }
   ],
   "meta_description": "What is G code? Learn how CNC programs control toolpaths, feed rates, spindle speeds, and tool changes, plus how good part design improves machining results.",
@@ -185,7 +185,7 @@
   ],
   "sitemap_lastmod": "2026-08-27T08:22:00+00:00",
   "status": 200,
-  "structure_hash": "aae8fa06c9a020ea9a8b2525a7399772b7c977e9",
+  "structure_hash": "e5d122c8785f6aa950f0dfc2ce64fd9ee0739ff5",
   "text_excerpt": "CNC machining August 27, 2026 What Is G Code? CNC Programming and How It Works Learn what G code is, how your CAD model becomes CNC machine instructions, and where good design fits into the process By Protolabs A CNC machine does the cutting, but it needs instructions telling it where to go, how fast to move, and what to do when it gets there. G code is part of the programming language used to control CNC machines. It translates a digital manufacturing plan into commands the machine can follow, from moving a cutting tool to a specific position to controlling how it travels through the material. In most modern CNC workflows, G code is automatically generated from your CAD model. CAM software uses the model to create toolpaths, then translates those toolpaths into machine-specific code. The basic process looks like this: CAD model → CAM toolpaths → G code → CNC machine → finished part CAD model: Defines the part’s geometry and dimensions. CAM toolpaths: Tell the cutting tool where and how to move to create that geometry. G code: Converts those toolpaths into instructions the CNC machine can understand. CNC machine: Follows the instructions to cut, drill, mill, or turn the material....",
   "text_hash": "a16affdc0a0b2ed2c5d2a60166719cd950534554",
   "title": "What Is G Code? CNC Programming Basics for Design Engineers",
