@@ -1,0 +1,327 @@
+{
+  "canonical": "",
+  "category": "content",
+  "competitor": "PCBWay",
+  "ctas": [
+    {
+      "href": "https://www.pcbway.com/orderonline.aspx",
+      "text": "PCB Instant Quote"
+    },
+    {
+      "href": "javascript:void(0)",
+      "text": "Sign Up"
+    },
+    {
+      "href": "https://www.pcbway.com/project/shareproject?order=1",
+      "text": "By Source Files"
+    },
+    {
+      "href": "https://www.pcbway.com/project/shareproject?order=1",
+      "text": "View all source files projects"
+    },
+    {
+      "href": "https://www.pcbway.com/project/shareproject?order=1",
+      "text": "Source Files"
+    },
+    {
+      "href": "https://www.pcbway.com/pcbdesign/quotelayout",
+      "text": "PCB designs"
+    },
+    {
+      "href": "https://www.pcbway.com/pcbdesign/quotelayout",
+      "text": "PCB layout"
+    },
+    {
+      "href": "https://www.pcbway.com/pcbdesign/quotelayout",
+      "text": "Get Free Layout Quote"
+    },
+    {
+      "href": "https://www.pcbway.com/blog/club-publish.html",
+      "text": "Submit for Publication"
+    },
+    {
+      "href": "https://www.pcbway.com/blog/Activities/Submit_for_Publication___Now_I_Write_Articles_in_PCBWay.html",
+      "text": "Write for PCBWay"
+    },
+    {
+      "href": "https://www.pcbway.com/blog?tag=PCB+industry",
+      "text": "PCB industry"
+    },
+    {
+      "href": "https://www.pcbway.com/contact.html",
+      "text": "Contact us"
+    }
+  ],
+  "discovered_via": "links",
+  "fetched_at": "2026-11-27T09:50:16+00:00",
+  "final_url": "https://www.pcbway.com/blog/PCB_Design_Layout/_Differential_Pair_Length_Matching_Is_5mil_Really_Necessary_c763d8ed.html",
+  "first_seen_at": "2026-11-27T09:50:16+00:00",
+  "h1": "Differential Pair Length Matching: Is ±5mil Really Necessary?",
+  "headings": [
+    {
+      "level": "h1",
+      "text": "Differential Pair Length Matching: Is ±5mil Really Necessary?"
+    },
+    {
+      "level": "h2",
+      "text": "Why Differential Pair Length Matching Matters"
+    },
+    {
+      "level": "h2",
+      "text": "Why Equal Length Does Not Always Mean Equal Delay"
+    },
+    {
+      "level": "h3",
+      "text": "Stripline"
+    },
+    {
+      "level": "h3",
+      "text": "Microstrip"
+    },
+    {
+      "level": "h2",
+      "text": "Factors That Affect Differential Pair Skew"
+    },
+    {
+      "level": "h3",
+      "text": "1. Pin Delay"
+    },
+    {
+      "level": "h3",
+      "text": "2. Via Delay"
+    },
+    {
+      "level": "h2",
+      "text": "Where Does the ±5mil Requirement Come From?"
+    },
+    {
+      "level": "h3",
+      "text": "1. Chip Manufacturer's Layout Guidelines"
+    },
+    {
+      "level": "h3",
+      "text": "2. Bus Protocol Specifications"
+    },
+    {
+      "level": "h3",
+      "text": "3. Hardware Engineer's Design Constraints"
+    },
+    {
+      "level": "h2",
+      "text": "Differential Pair Routing and Length Matching Guidelines"
+    },
+    {
+      "level": "h3",
+      "text": "1. Add Compensation Near the Mismatch"
+    },
+    {
+      "level": "h3",
+      "text": "2. Avoid Excessive Meandering"
+    },
+    {
+      "level": "h3",
+      "text": "3. Maintain Adequate Spacing Between Serpentine Segments"
+    },
+    {
+      "level": "h3",
+      "text": "4. Pay Attention to Differential Coupling"
+    },
+    {
+      "level": "h3",
+      "text": "5. Do Not Use Length Tuning to Fix Impedance Problems"
+    },
+    {
+      "level": "h3",
+      "text": "6. Use Symmetrical Vias and Provide Return Paths"
+    },
+    {
+      "level": "h3",
+      "text": "Related articles"
+    }
+  ],
+  "images": [
+    {
+      "alt": "",
+      "src": "/project/img/images/avatar/user-pic.png"
+    },
+    {
+      "alt": "",
+      "src": "/project/img/images/loading-pro.gif"
+    },
+    {
+      "alt": "",
+      "src": "https://pcbwayfile.s3.us-west-2.amazonaws.com/web/23/10/03/1152415436848m.jpeg"
+    },
+    {
+      "alt": "",
+      "src": "https://pcbwayfile.s3.us-west-2.amazonaws.com/web/25/02/01/195239553dd028d967de6453aa74b91ac0e5423e73248m.png"
+    },
+    {
+      "alt": "",
+      "src": "https://pcbwayfile.s3-us-west-2.amazonaws.com/web/21/08/30/1823256917346m.png"
+    },
+    {
+      "alt": "",
+      "src": "https://pcb-files.s3.us-west-2.amazonaws.com/web/26/11/27/14050738152c7e6824043475b8d8aaf3132d5c41b5850t.png"
+    },
+    {
+      "alt": "",
+      "src": "https://pcb-files.s3.us-west-2.amazonaws.com/web/26/11/27/1424063725ce77b29bd7c432eb2ceeca27ea5e00d0352t.png"
+    },
+    {
+      "alt": "",
+      "src": "https://pcb-files.s3.us-west-2.amazonaws.com/web/26/11/27/1426228748139d8316efa48e5a815d2046a1957933638t.png"
+    },
+    {
+      "alt": "",
+      "src": "https://pcb-files.s3.us-west-2.amazonaws.com/web/26/11/27/14385267453e8b50994294fbea8103ceb394976662676t.png"
+    },
+    {
+      "alt": "",
+      "src": "https://pcb-files.s3.us-west-2.amazonaws.com/web/26/11/27/143820514293c26330813434aa14daf39d70af8936110t.png"
+    },
+    {
+      "alt": "",
+      "src": "https://pcb-files.s3.us-west-2.amazonaws.com/web/26/11/27/1358304455fe2e7b600f54ab9b62d804cdaf6cec87242t.png"
+    },
+    {
+      "alt": "",
+      "src": "/img/images/note-tips.png"
+    }
+  ],
+  "meta_description": "",
+  "modified_at": "",
+  "monitored_text": "PCBWay Community Search title or content Search PCBWay PCB Instant Quote CNC | 3D Printing Login Sign Up More Notifications No notifications. My Profile My projects My Likes My Deals My Goods for Bazaar Settings Sign Out Projects Categories DIY Electronics Arduino Hardware Audio Computers & USB Breakout Board Projects Home Automation LED Displays & Matrices IoT Robotics View all categories By Source Files Onju Voice - AI assistant replacement to Google Nest Mini by @justLV LogicAnalyzer V6.0 DIY 1kW Open Source MPPT Solar Charge Controller Tad Boy Color SummerCart64 - a fully open source N64 flashcart kv4p HT v1.7b Arduino RC engine sound & light controller with inertia simulation for ESP32 QuinLED-Dig-Uno Bike Fingerprint - PCB Solar Powered WiFi Weather Station V2.0 RIP-Felix PS3 Tantalizer Frog Boy Color View all source files projects Featured Projects Onju Voice - AI assistant replacement to Google Nest Mini by @justLV LogicAnalyzer V6.0 DIY 1kW Open Source MPPT Solar Charge Controller Featured Source Files Video View all projects Questions Sponsorships PCBWay Future Innovators Program Feedback Blog Store PCB Design Contest - 9th Project Design Contest - 2026 KiCad PCB Design Contest - 8th Project Design Contest - 7th Project Design Contest - KiCad Design Contest - 6th Project Design Contest - 5th PCB Design Contest - 4th PCB Design Contest - Raspberry Pi Pico Contest - PCB Design Tutorial - 3rd PCB Design Contest - I CAN SOLDER Kit Contest - 2nd PCB Design Contest - 1st PCB Design Contest Add questions Create a project Please verify your email address so that you can enjoy our more comprehensive services. Verify Now Blog > Differential Pair Length Matching: Is ±5mil Really Necessary? Differential Pair Length Matching: Is ±5mil Really Necessary? by: Mila Nov 27,2026 <dynamic-value> <dynamic-value> Posted in PCB Design & Layout differential pair differential pair length matching differential pair routing pcb trace length matching In high-speed PCB design, differential pair length matching is often treated as a strict routing requirement. Engineers may encounter guidelines specifying that the length difference between the positive and negative traces should be kept within ±5mil. But is this tolerance necessary for every differential pair? The purpose of differential pair length matching is to minimize the timing difference between the two signals and ensure that they arrive at the receiver as expected. However, equal trace lengths do not always guarantee equal propagation delays. Factors such as PCB stackup, routing layers, via transitions, and package delays can also affect signal timing. This article explores why differential pair length matching matters, what factors influence differential pair skew, and how to determine an appropriate length-matching tolerance for different PCB designs . Why Differential Pair Length Matching Matters A differential pair consists of two traces, P and N, that carry signals with equal amplitudes but opposite polarities. The receiver determines the signal state by detecting the voltage difference between them. Ideally, both signals should arrive at the receiver at the same time. If the two traces have different lengths, a timing difference known as intra-pair skew occurs, preventing the signals from maintaining perfect symmetry. This imbalance can cause two main problems: Signal integrity degradation: The timing mismatch between P and N signals can distort the differential waveform and reduce the available eye margin. I ncreased common-mode noise: An imbalance in the differential pair can convert part of the differential-mode signal into common-mode noise, potentially increasing electromagnetic interference (EMI). Therefore, differential pair length matching is not simply about making two traces look symmetrical. Its purpose is to control signal skew, maintain transmission symmetry, and preserve signal integrity. However, it is important to understand that the actual concern is the difference in signal arrival time, not simply the physical length difference. Trace length is only an approximation of propagation delay, and the two do not always correspond directly, especially when traces use different PCB layers or routing structures. (Differential Pair Length Matching) Why Equal Length Does Not Always Mean Equal Delay The propagation speed of a signal through a PCB trace depends on the surrounding dielectric environment, particularly the effective dielectric constant. The propagation velocity can be approximately calculated using the following formula: v=c / √Dk Where: v is the signal propagation velocity. c is the speed of light in a vacuum. Dk is the effective dielectric constant. Different PCB transmission line structures have different effective dielectric constants. As a result, even traces with identical physical lengths may have different propagation delays. Stripline A stripline is embedded between two reference planes and is surrounded primarily by the PCB dielectric material. Assuming an effective dielectric constant of approximately 4.2–4.5, its propagation delay is about 6.9–7.1 ps/mm, or approximately 0.175 ps per mil. Microstrip A microstrip is routed on an outer PCB layer, with air or solder mask above the trace and dielectric material below it. Assuming an effective dielectric constant of approximately 3.0–3.3, its propagation delay is about 5.8–6.2 ps/mm, or approximately 0.15 ps per mil. These values are estimates for typical structures. Actual propagation velocity also depends on factors such as substrate Dk, trace width, dielectric thickness, solder mask, and operating frequency. The propagation velocity difference between these two structures can reach approximately 15%–20%. For example, if two traces are both 1,000mil long but use the two structures described above, their propagation delays may differ by approximately 25ps. Although 25ps may seem insignificant, it can be substantial for high-speed signals: For a 10Gbps signal, one unit interval (UI) is 100ps. A 25ps delay difference represents 0.25 UI. For a 25Gbps signal, one UI is 40ps. A 25ps delay difference represents 0.625 UI. This means that matching physical trace lengths without considering propagation velocity differences can result in a differential pair with matched lengths but mismatched arrival times. For example, a differential pair may include long routing sections on both outer and inner PCB layers, with additional length differences around layer transitions. Even if an EDA tool adjusts both traces to nearly identical physical lengths, their actual propagation delays may still differ. There are two common approaches to addressing this issue in high-speed PCB design: Apply layer-specific propagation delay coefficients: Convert physical trace lengths into equivalent delays based on the propagation velocity of each layer, then perform length matching. Use delay-based matching in EDA tools: If supported, use the delay matching function to adjust traces according to their actual propagation delays rather than simply comparing physical lengths. (Microstrip vs Stripline) Factors That Affect Differential Pair Skew In addition to trace length and propagation velocity, two other factors are easy to overlook: chip package delay and via structures. 1. Pin Delay Inside a chip package, the signal paths from the BGA balls to the die are not necessarily identical. Different pins may have different package trace lengths, structures, and propagation paths, resulting in different package delays. For example, the connections from inner-row and outer-row BGA balls to the die may have noticeably different path lengths. Some chip manufacturers provide Pin Delay or other package delay information, sometimes through package models or related design files. These values can be incorporated into the overall timing budget during PCB design. If only the PCB trace lengths are considered while package delays are ignored, the differential signals may still have timing mismatches even after PCB-level length matching is completed. （Pin Delay） 2. Via Delay Vias can also affect signal propagation delay. When one trace in a differential pair changes layers while the other remains on its original layer, the two signals experience different routing conditions. In addition, vias introduce parasitic inductance and capacitance, which can cause impedance discontinuities and signal distortion. The impact of a via depends on its geometry, board thickness, via type, antipad dimensions, unused via stubs, and reference plane structure. Therefore, its delay cannot be represented by one fixed value. When routing differential pairs through vias, keep the following points in mind: Use symmetrical via structures for the P and N traces whenever possible. Avoid changing the layer of only one trace in the differential pair. Place nearby ground vias to provide a suitable return path for high-frequency currents. For high-speed interfaces, evaluate the impact of via structures through simulation when necessary. Note: The placement and number of ground vias should be determined based on the actual stackup, via structure, and reference plane design. （Via Delay） Where Does the ±5mil Requirement Come From? Now, back to the original question: Why are differential signals in PCIe, HDMI, and DQS designs often required to meet a ±5mil length-matching tolerance? In fact, there is no single international standard that specifies a universal ±5mil length-matching requirement for all differential signals. Such requirements generally come from three sources. 1. Chip Manufacturer's Layout Guidelines Chip manufacturers often provide PCB Layout Guides or Hardware Design Guides that specify trace lengths, intra-pair skew limits, and other routing requirements. These requirements are developed based on the chip's operating speed and transmitter and receiver characteristics, making them important references for PCB design. 2. Bus Protocol Specifications Different high-speed interface protocols have different timing and skew requirements. For example, PCIe and HDMI specifications address channel delay, timing margins, and link equalization. However, protocol specifications generally define timing constraints at the system or link level. They do not necessarily specify that PCB differential pairs must always be matched within ±5mil. 3. Hardware Engineer's Design Constraints In actual projects, hardware engineers must also consider PCB materials, stackup structures, package delays, vias, and manufacturing capabilities. Based on these factors, they translate the overall timing budget into specific PCB layout constraints. Therefore, values such as ±5mil and ±10mil may also be design requirements established by engineers based on practical experience. So, what does a 5mil length difference actually mean in terms of propagation delay? Using the estimated propagation delay of approximately 0.175ps per mil for a stripline, a 5mil difference corresponds to about 0.875ps. Comparing this value with the UI at different data rates helps illustrate its relative significance. Note: The calculation assumes a 5mil single-trace length difference and a propagation delay of 0.175ps per mil. The table illustrates the approximate scale of the delay and does not represent the actual skew tolerance of any specific interface. As the table shows, the same 5mil length difference accounts for different proportions of the UI at different data rates. However, UI is not the only factor in determining whether a length-matching requirement is appropriate. Signal edge rates, protocol timing budgets, and receiver tolerances must also be considered. Therefore, it is not accurate to assume that low-speed signals do not require strict length matching or that all high-speed signals must meet a ±5mil requirement. The more important question is: How much skew, in picoseconds, can the differential pair tolerate? How much of the timing budget is consumed by PCB traces, package delays, and vias? Differential Pair Routing and Length Matching Guidelines Once the length-matching requirements have been established, the next step is to implement appropriate compensation during PCB layout. Serpentine routing is a common method of adjusting trace lengths. However, improper use can introduce additional signal integrity issues. 1. Add Compensation Near the Mismatch Whenever possible, add compensation near the location where the length mismatch occurs rather than concentrating all compensation at the receiver end. This helps avoid excessively long serpentine sections in one area and reduces unnecessary impedance discontinuities and coupling variations. 2. Avoid Excessive Meandering Compensation traces should follow smooth routing patterns, avoiding overly dense or large serpentine structures. When the required delay compensation can be achieved, distributing the additional length across suitable sections may help reduce localized changes in the routing structure. 3. Maintain Adequate Spacing Between Serpentine Segments If adjacent parallel sections of a serpentine trace are too close, strong electromagnetic coupling may occur. This can change the actual propagation delay and reduce the effectiveness of the added trace length. A common initial design guideline is to maintain spacing of at least 3W between adjacent segments. However, the appropriate spacing depends on trace width, parallel segment length, and the surrounding routing environment. 4. Pay Attention to Differential Coupling If only one trace in a differential pair is length-tuned, the local coupling between the two traces may change, potentially affecting differential impedance. Therefore, consider both the spacing between the two traces and their surrounding environment during compensation. Symmetrical compensation can be used when both traces need additional length. 5. Do Not Use Length Tuning to Fix Impedance Problems Length matching and impedance control are two different design objectives. Serpentine routing can adjust signal propagation delay, but it cannot correct existing impedance discontinuities. In fact, an improperly designed compensation structure may introduce additional impedance variations. Therefore, length matching and impedance control should be addressed separately. 6. Use Symmetrical Vias and Provide Return Paths When a differential pair needs to change layers, use symmetrical via structures for the P and N traces whenever possible. Ground vias should also be placed nearby to provide suitable return paths. The exact placement of ground vias should be determined based on the reference plane and via structure, helping prevent excessive return path lengths and parasitic effects. Differential pair length matching is not simply about making two traces physically equal in length. The real objective is to minimize timing skew and ensure that both signals arrive at the receiver within the required timing budget. A ±5mil requirement may be appropriate for one design but unnecessarily strict or insufficient for another. It depends on the interface specifications, chip manufacturer's layout guidelines, PCB stackup, package delays, and overall system timing requirements. When working on high-speed differential pair routing, engineers should focus on actual propagation delay rather than relying solely on physical trace length. Understanding where the length-matching requirement comes from is the first step toward making better PCB layout decisions. Enter the year of your birth and check your Chinese Zodiac. Get Free Layout Quote Join us Wanna be a dedicated PCBWay writer? We definately look forward to having you with us. Submit for Publication Become Our Writer Leave a Comment ( 0 ) Share to: Previous：LED Sizes and Package Dimensions for PCB Design Next：3 Common PCB Assembly Defects and How to Prevent Them Related articles Differential Pair Length Matching: Is ±5mil Really Necessary? Differential Pair Routing: 3 Common Design Mistakes to Avoid Differential Pair Routing Guidelines for High-Speed PCB Design Comments ( 0 ) Log in to post comments. Upload photo You can only upload 5 files in total. Each file cannot exceed 2MB. Supports JPG, JPEG, GIF, PNG, BMP 0 / 10000 It looks like you have not written anything. Please add a comment and try again. You can upload up to 5 images! Image size should not exceed 2MB! File format not supported! Post Comment View More Write for PCBWay Categories Select a Category Engineering Technical News PCB Layout Software Activities Help Center PCB Basic Information PCB Manufacturing Information PCB Design & Layout Flexible PCB Rigid-Flex PCB HDI PCB PCB Assembly Technology 3D Printing CNC Machining Sheet Metal Bending Countersink & Counterbore Hardware insertion Tapping Welding Sheet Cutting Injection Molding PCB Design Tutorial PCBWay Store Table of Contents HOT TAG PCB Printed Circuit Board PCB design PCB Board PCB layout Circuit Board Printed Circuit Boards PCB Design Tutorial PCB industry pcb manufacturing KiCad pcbway IF YOU MISSED IT 1 PCB Layout Design Process from Schematic to Manufacturing 2 3 Common PCB Assembly Defects and How to Prevent Them 3 Differential Pair Length Matching: Is ±5mil Really Necessary? 4 LED Sizes and Package Dimensions for PCB Design 5 Switching Power Supply PCB Design Guidelines and Best Practices 6 PCB Ground Plane Design: Routing Across Plane Splits and Signal Return Paths 7 How Does a Thermistor Circuit Work? NTC, PTC, and PCB Layout 8 What Is the Purpose of a 1MΩ Resistor in a Crystal Oscillator Circuit 9 Reverse Polarity Protection: Diode, PMOS, NMOS, and Ideal Diode Circuits The PCB Way that recognize the talent and effort of the best ELECTRONIC designers in the World. © COPYRIGHT 2019 About us Contact us Follow us on Share to Facebook Share to Twitter Share to Reddit Share to Linkedin Back to top",
+  "published_at": "2026-11-27T00:00:00+00:00",
+  "requested_url": "https://www.pcbway.com/blog/PCB_Design_Layout/_Differential_Pair_Length_Matching_Is_5mil_Really_Necessary_c763d8ed.html",
+  "schema_version": 2,
+  "sections": [
+    {
+      "hash": "bf53fb04f4aa1067f9d7c8b67ec1fea3932c07da",
+      "heading": "Differential Pair Length Matching: Is ±5mil Really Necessary?",
+      "level": "h1",
+      "text": "Differential Pair Length Matching: Is ±5mil Really Necessary? by: Mila Nov 27,2026 <dynamic-value> <dynamic-value> Posted in PCB Design & Layout differential pair differential pair length matching differential pair routing pcb trace length matching In high-speed PCB design, differential pair length matching is often treated as a strict routing requirement. Engineers may encounter guidelines specifying that the length difference between the positive and negative traces should be kept within ±5mil. But is this tolerance necessary for every differential pair? The purpose of differential pair length matching is to minimize the timing difference between the two signals and ensure that they arrive at the receiver as expected. However, equal trace lengths do not always guarantee equal propagation delays. Factors such as PCB stackup, routing layers, via transitions, and package delays can also affect signal timing. This article explores why differential pair length matching matters, what factors influence differential pair skew, and how to determine an appropriate length-matching tolerance for different PCB designs . Why Differential Pair Length Matching Matters A differential pair consis..."
+    },
+    {
+      "hash": "9c0539028be5e594e82ef6632d4fd647bc19eb0c",
+      "heading": "Why Differential Pair Length Matching Matters",
+      "level": "h2",
+      "text": "Why Differential Pair Length Matching Matters A differential pair consists of two traces, P and N, that carry signals with equal amplitudes but opposite polarities. The receiver determines the signal state by detecting the voltage difference between them. Ideally, both signals should arrive at the receiver at the same time. If the two traces have different lengths, a timing difference known as intra-pair skew occurs, preventing the signals from maintaining perfect symmetry. This imbalance can cause two main problems: Signal integrity degradation: The timing mismatch between P and N signals can distort the differential waveform and reduce the available eye margin. I ncreased common-mode noise: An imbalance in the differential pair can convert part of the differential-mode signal into common-mode noise, potentially increasing electromagnetic interference (EMI). Therefore, differential pair length matching is not simply about making two traces look symmetrical. Its purpose is to control signal skew, maintain transmission symmetry, and preserve signal integrity. However, it is important to understand that the actual concern is the difference in signal arrival time, not simply the phys..."
+    },
+    {
+      "hash": "695b43bf132cb7bed2d33f0d7069b924b687cff6",
+      "heading": "Why Equal Length Does Not Always Mean Equal Delay",
+      "level": "h2",
+      "text": "Why Equal Length Does Not Always Mean Equal Delay The propagation speed of a signal through a PCB trace depends on the surrounding dielectric environment, particularly the effective dielectric constant. The propagation velocity can be approximately calculated using the following formula: v=c / √Dk Where: v is the signal propagation velocity. c is the speed of light in a vacuum. Dk is the effective dielectric constant. Different PCB transmission line structures have different effective dielectric constants. As a result, even traces with identical physical lengths may have different propagation delays."
+    },
+    {
+      "hash": "657978f3a95c1d5c17f79bd33bc1a92da237f94e",
+      "heading": "Stripline",
+      "level": "h3",
+      "text": "Stripline A stripline is embedded between two reference planes and is surrounded primarily by the PCB dielectric material. Assuming an effective dielectric constant of approximately 4.2–4.5, its propagation delay is about 6.9–7.1 ps/mm, or approximately 0.175 ps per mil."
+    },
+    {
+      "hash": "053b02a2f4de32705cda78dbe41f665a21801c65",
+      "heading": "Microstrip",
+      "level": "h3",
+      "text": "Microstrip A microstrip is routed on an outer PCB layer, with air or solder mask above the trace and dielectric material below it. Assuming an effective dielectric constant of approximately 3.0–3.3, its propagation delay is about 5.8–6.2 ps/mm, or approximately 0.15 ps per mil. These values are estimates for typical structures. Actual propagation velocity also depends on factors such as substrate Dk, trace width, dielectric thickness, solder mask, and operating frequency. The propagation velocity difference between these two structures can reach approximately 15%–20%. For example, if two traces are both 1,000mil long but use the two structures described above, their propagation delays may differ by approximately 25ps. Although 25ps may seem insignificant, it can be substantial for high-speed signals: For a 10Gbps signal, one unit interval (UI) is 100ps. A 25ps delay difference represents 0.25 UI. For a 25Gbps signal, one UI is 40ps. A 25ps delay difference represents 0.625 UI. This means that matching physical trace lengths without considering propagation velocity differences can result in a differential pair with matched lengths but mismatched arrival times. For example, a differ..."
+    },
+    {
+      "hash": "e5a35360c7d698b2d5ec655f13d2f269cd364b74",
+      "heading": "Factors That Affect Differential Pair Skew",
+      "level": "h2",
+      "text": "Factors That Affect Differential Pair Skew In addition to trace length and propagation velocity, two other factors are easy to overlook: chip package delay and via structures."
+    },
+    {
+      "hash": "e863af83180866ec5b7f770fe294b949f94708c9",
+      "heading": "1. Pin Delay",
+      "level": "h3",
+      "text": "1. Pin Delay Inside a chip package, the signal paths from the BGA balls to the die are not necessarily identical. Different pins may have different package trace lengths, structures, and propagation paths, resulting in different package delays. For example, the connections from inner-row and outer-row BGA balls to the die may have noticeably different path lengths. Some chip manufacturers provide Pin Delay or other package delay information, sometimes through package models or related design files. These values can be incorporated into the overall timing budget during PCB design. If only the PCB trace lengths are considered while package delays are ignored, the differential signals may still have timing mismatches even after PCB-level length matching is completed. （Pin Delay）"
+    },
+    {
+      "hash": "87d978e68251f6eb18fe6afa85cd041f186de8df",
+      "heading": "2. Via Delay",
+      "level": "h3",
+      "text": "2. Via Delay Vias can also affect signal propagation delay. When one trace in a differential pair changes layers while the other remains on its original layer, the two signals experience different routing conditions. In addition, vias introduce parasitic inductance and capacitance, which can cause impedance discontinuities and signal distortion. The impact of a via depends on its geometry, board thickness, via type, antipad dimensions, unused via stubs, and reference plane structure. Therefore, its delay cannot be represented by one fixed value. When routing differential pairs through vias, keep the following points in mind: Use symmetrical via structures for the P and N traces whenever possible. Avoid changing the layer of only one trace in the differential pair. Place nearby ground vias to provide a suitable return path for high-frequency currents. For high-speed interfaces, evaluate the impact of via structures through simulation when necessary. Note: The placement and number of ground vias should be determined based on the actual stackup, via structure, and reference plane design. （Via Delay）"
+    },
+    {
+      "hash": "59108736dd6dd4f5d786e593da09ddb0e23c25af",
+      "heading": "Where Does the ±5mil Requirement Come From?",
+      "level": "h2",
+      "text": "Where Does the ±5mil Requirement Come From? Now, back to the original question: Why are differential signals in PCIe, HDMI, and DQS designs often required to meet a ±5mil length-matching tolerance? In fact, there is no single international standard that specifies a universal ±5mil length-matching requirement for all differential signals. Such requirements generally come from three sources."
+    },
+    {
+      "hash": "a312240a29ee8678d385552d043bcb77f3a8f0d9",
+      "heading": "1. Chip Manufacturer's Layout Guidelines",
+      "level": "h3",
+      "text": "1. Chip Manufacturer's Layout Guidelines Chip manufacturers often provide PCB Layout Guides or Hardware Design Guides that specify trace lengths, intra-pair skew limits, and other routing requirements. These requirements are developed based on the chip's operating speed and transmitter and receiver characteristics, making them important references for PCB design."
+    },
+    {
+      "hash": "eea6f549a0c9ad8cbfcfbdd6933a9bcc8d61a882",
+      "heading": "2. Bus Protocol Specifications",
+      "level": "h3",
+      "text": "2. Bus Protocol Specifications Different high-speed interface protocols have different timing and skew requirements. For example, PCIe and HDMI specifications address channel delay, timing margins, and link equalization. However, protocol specifications generally define timing constraints at the system or link level. They do not necessarily specify that PCB differential pairs must always be matched within ±5mil."
+    },
+    {
+      "hash": "e4f378cd2a5e6d601f2f389cddf3a2f1599fb782",
+      "heading": "3. Hardware Engineer's Design Constraints",
+      "level": "h3",
+      "text": "3. Hardware Engineer's Design Constraints In actual projects, hardware engineers must also consider PCB materials, stackup structures, package delays, vias, and manufacturing capabilities. Based on these factors, they translate the overall timing budget into specific PCB layout constraints. Therefore, values such as ±5mil and ±10mil may also be design requirements established by engineers based on practical experience. So, what does a 5mil length difference actually mean in terms of propagation delay? Using the estimated propagation delay of approximately 0.175ps per mil for a stripline, a 5mil difference corresponds to about 0.875ps. Comparing this value with the UI at different data rates helps illustrate its relative significance. Note: The calculation assumes a 5mil single-trace length difference and a propagation delay of 0.175ps per mil. The table illustrates the approximate scale of the delay and does not represent the actual skew tolerance of any specific interface. As the table shows, the same 5mil length difference accounts for different proportions of the UI at different data rates. However, UI is not the only factor in determining whether a length-matching requirement..."
+    },
+    {
+      "hash": "a906b0a04dd908eff84898623f037699bab6b15b",
+      "heading": "Differential Pair Routing and Length Matching Guidelines",
+      "level": "h2",
+      "text": "Differential Pair Routing and Length Matching Guidelines Once the length-matching requirements have been established, the next step is to implement appropriate compensation during PCB layout. Serpentine routing is a common method of adjusting trace lengths. However, improper use can introduce additional signal integrity issues."
+    },
+    {
+      "hash": "d9ebbd9afa92a79af239bd4a50e1b3991d3dc517",
+      "heading": "1. Add Compensation Near the Mismatch",
+      "level": "h3",
+      "text": "1. Add Compensation Near the Mismatch Whenever possible, add compensation near the location where the length mismatch occurs rather than concentrating all compensation at the receiver end. This helps avoid excessively long serpentine sections in one area and reduces unnecessary impedance discontinuities and coupling variations."
+    },
+    {
+      "hash": "3ee58fd2a503af1b8790f889e4d3b0fcf5f80cb9",
+      "heading": "2. Avoid Excessive Meandering",
+      "level": "h3",
+      "text": "2. Avoid Excessive Meandering Compensation traces should follow smooth routing patterns, avoiding overly dense or large serpentine structures. When the required delay compensation can be achieved, distributing the additional length across suitable sections may help reduce localized changes in the routing structure."
+    },
+    {
+      "hash": "8b7a49da03f9c17b79ae6ba8c43f0d8459d98f5a",
+      "heading": "3. Maintain Adequate Spacing Between Serpentine Segments",
+      "level": "h3",
+      "text": "3. Maintain Adequate Spacing Between Serpentine Segments If adjacent parallel sections of a serpentine trace are too close, strong electromagnetic coupling may occur. This can change the actual propagation delay and reduce the effectiveness of the added trace length. A common initial design guideline is to maintain spacing of at least 3W between adjacent segments. However, the appropriate spacing depends on trace width, parallel segment length, and the surrounding routing environment."
+    },
+    {
+      "hash": "c9656769592affcab5dd2fec93696fbe4f56c629",
+      "heading": "4. Pay Attention to Differential Coupling",
+      "level": "h3",
+      "text": "4. Pay Attention to Differential Coupling If only one trace in a differential pair is length-tuned, the local coupling between the two traces may change, potentially affecting differential impedance. Therefore, consider both the spacing between the two traces and their surrounding environment during compensation. Symmetrical compensation can be used when both traces need additional length."
+    },
+    {
+      "hash": "e4c299a0109ee63e6c4c7a877dab8663dc75d4c6",
+      "heading": "5. Do Not Use Length Tuning to Fix Impedance Problems",
+      "level": "h3",
+      "text": "5. Do Not Use Length Tuning to Fix Impedance Problems Length matching and impedance control are two different design objectives. Serpentine routing can adjust signal propagation delay, but it cannot correct existing impedance discontinuities. In fact, an improperly designed compensation structure may introduce additional impedance variations. Therefore, length matching and impedance control should be addressed separately."
+    },
+    {
+      "hash": "39fa1ccb7477d6e04044207b6e514bbdb6279da3",
+      "heading": "6. Use Symmetrical Vias and Provide Return Paths",
+      "level": "h3",
+      "text": "6. Use Symmetrical Vias and Provide Return Paths When a differential pair needs to change layers, use symmetrical via structures for the P and N traces whenever possible. Ground vias should also be placed nearby to provide suitable return paths. The exact placement of ground vias should be determined based on the reference plane and via structure, helping prevent excessive return path lengths and parasitic effects. Differential pair length matching is not simply about making two traces physically equal in length. The real objective is to minimize timing skew and ensure that both signals arrive at the receiver within the required timing budget. A ±5mil requirement may be appropriate for one design but unnecessarily strict or insufficient for another. It depends on the interface specifications, chip manufacturer's layout guidelines, PCB stackup, package delays, and overall system timing requirements. When working on high-speed differential pair routing, engineers should focus on actual propagation delay rather than relying solely on physical trace length. Understanding where the length-matching requirement comes from is the first step toward making better PCB layout decisions."
+    },
+    {
+      "hash": "7540c3ba2e97010c6ce2a76b2dcab885343a5689",
+      "heading": "Related articles",
+      "level": "h3",
+      "text": "Related articles Differential Pair Length Matching: Is ±5mil Really Necessary? Differential Pair Routing: 3 Common Design Mistakes to Avoid Differential Pair Routing Guidelines for High-Speed PCB Design"
+    }
+  ],
+  "sitemap_lastmod": "",
+  "status": 200,
+  "structure_hash": "6ddc9b8dff6bf344523f93511be2f4dd5d6a547b",
+  "text_excerpt": "PCBWay Community Search title or content Search PCBWay PCB Instant Quote CNC | 3D Printing Login Sign Up More Notifications No notifications. My Profile My projects My Likes My Deals My Goods for Bazaar Settings Sign Out Projects Categories DIY Electronics Arduino Hardware Audio Computers & USB Breakout Board Projects Home Automation LED Displays & Matrices IoT Robotics View all categories By Source Files Onju Voice - AI assistant replacement to Google Nest Mini by @justLV LogicAnalyzer V6.0 DIY 1kW Open Source MPPT Solar Charge Controller Tad Boy Color SummerCart64 - a fully open source N64 flashcart kv4p HT v1.7b Arduino RC engine sound & light controller with inertia simulation for ESP32 QuinLED-Dig-Uno Bike Fingerprint - PCB Solar Powered WiFi Weather Station V2.0 RIP-Felix PS3 Tantalizer Frog Boy Color View all source files projects Featured Projects Onju Voice - AI assistant replacement to Google Nest Mini by @justLV LogicAnalyzer V6.0 DIY 1kW Open Source MPPT Solar Charge Controller Featured Source Files Video View all projects Questions Sponsorships PCBWay Future Innovators Program Feedback Blog Store PCB Design Contest - 9th Project Design Contest - 2026 KiCad PCB Design...",
+  "text_hash": "f11feb6b0317548d55cb9017f2488b48d3c5f652",
+  "title": "Differential Pair Length Matching: Is ±5mil Really Necessary? - PCB Design & Layout - PCBway",
+  "url": "https://www.pcbway.com/blog/PCB_Design_Layout/_Differential_Pair_Length_Matching_Is_5mil_Really_Necessary_c763d8ed.html"
+}

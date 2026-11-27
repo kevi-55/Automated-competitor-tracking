@@ -1,0 +1,413 @@
+{
+  "canonical": "",
+  "category": "content",
+  "competitor": "PCBWay",
+  "ctas": [
+    {
+      "href": "https://www.pcbway.com/orderonline.aspx",
+      "text": "PCB Instant Quote"
+    },
+    {
+      "href": "javascript:void(0)",
+      "text": "Sign Up"
+    },
+    {
+      "href": "https://www.pcbway.com/project/shareproject?order=1",
+      "text": "By Source Files"
+    },
+    {
+      "href": "https://www.pcbway.com/project/shareproject?order=1",
+      "text": "View all source files projects"
+    },
+    {
+      "href": "https://www.pcbway.com/project/shareproject?order=1",
+      "text": "Source Files"
+    },
+    {
+      "href": "https://www.pcbway.com/pcbdesign/quotedesign",
+      "text": "PCB design"
+    },
+    {
+      "href": "https://www.pcbway.com/quotesmt.aspx",
+      "text": "PCB assembly services"
+    },
+    {
+      "href": "https://www.pcbway.com/quotesmt.aspx",
+      "text": "Get Free SMT Quote"
+    },
+    {
+      "href": "https://www.pcbway.com/blog/club-publish.html",
+      "text": "Submit for Publication"
+    },
+    {
+      "href": "https://www.pcbway.com/blog/Activities/Submit_for_Publication___Now_I_Write_Articles_in_PCBWay.html",
+      "text": "Write for PCBWay"
+    },
+    {
+      "href": "https://www.pcbway.com/blog?tag=PCB+industry",
+      "text": "PCB industry"
+    },
+    {
+      "href": "https://www.pcbway.com/contact.html",
+      "text": "Contact us"
+    }
+  ],
+  "discovered_via": "links",
+  "fetched_at": "2026-11-27T09:50:17+00:00",
+  "final_url": "https://www.pcbway.com/blog/PCB_Design_Layout/LED_Sizes_and_Package_Dimensions_for_PCB_Design_a2d19324.html",
+  "first_seen_at": "2026-11-27T09:50:17+00:00",
+  "h1": "LED Sizes and Package Dimensions for PCB Design",
+  "headings": [
+    {
+      "level": "h1",
+      "text": "LED Sizes and Package Dimensions for PCB Design"
+    },
+    {
+      "level": "h2",
+      "text": "1. Understanding LED Package Sizes and Naming"
+    },
+    {
+      "level": "h3",
+      "text": "Through-Hole LED Sizes"
+    },
+    {
+      "level": "h3",
+      "text": "SMD LED Sizes"
+    },
+    {
+      "level": "h3",
+      "text": "COB LED Sizes"
+    },
+    {
+      "level": "h3",
+      "text": "LED Chip Size vs. Package Size"
+    },
+    {
+      "level": "h2",
+      "text": "2. Common LED Package Sizes and Specifications"
+    },
+    {
+      "level": "h3",
+      "text": "Through-Hole LED Size Chart"
+    },
+    {
+      "level": "h3",
+      "text": "Common SMD LED Sizes"
+    },
+    {
+      "level": "h3",
+      "text": "COB LED Sizes"
+    },
+    {
+      "level": "h2",
+      "text": "3. How LED Package Size Affects PCB Design"
+    },
+    {
+      "level": "h3",
+      "text": "LED PCB Footprint and Pad Design"
+    },
+    {
+      "level": "h3",
+      "text": "Component Placement and Mechanical Clearance"
+    },
+    {
+      "level": "h3",
+      "text": "Thermal Management"
+    },
+    {
+      "level": "h3",
+      "text": "Assembly and Soldering Considerations"
+    },
+    {
+      "level": "h2",
+      "text": "4. Comparing Common LED Packages"
+    },
+    {
+      "level": "h3",
+      "text": "Through-Hole LED vs. SMD LED"
+    },
+    {
+      "level": "h3",
+      "text": "2835 vs. 3528 vs. 5050 LED Sizes"
+    },
+    {
+      "level": "h2",
+      "text": "5. How to Choose the Right LED Package"
+    },
+    {
+      "level": "h3",
+      "text": "Step 1: Define the Application"
+    },
+    {
+      "level": "h3",
+      "text": "Step 2: Check PCB Space and Mechanical Requirements"
+    },
+    {
+      "level": "h3",
+      "text": "Step 3: Evaluate Power and Thermal Requirements"
+    },
+    {
+      "level": "h3",
+      "text": "Step 4: Consider the Manufacturing Process"
+    },
+    {
+      "level": "h2",
+      "text": "6. Mini LED vs. Micro LED"
+    },
+    {
+      "level": "h2",
+      "text": "Conclusion"
+    },
+    {
+      "level": "h3",
+      "text": "Related articles"
+    }
+  ],
+  "images": [
+    {
+      "alt": "",
+      "src": "/project/img/images/avatar/user-pic.png"
+    },
+    {
+      "alt": "",
+      "src": "/project/img/images/loading-pro.gif"
+    },
+    {
+      "alt": "",
+      "src": "https://pcbwayfile.s3.us-west-2.amazonaws.com/web/23/10/03/1152415436848m.jpeg"
+    },
+    {
+      "alt": "",
+      "src": "https://pcbwayfile.s3.us-west-2.amazonaws.com/web/25/02/01/195239553dd028d967de6453aa74b91ac0e5423e73248m.png"
+    },
+    {
+      "alt": "",
+      "src": "https://pcbwayfile.s3-us-west-2.amazonaws.com/web/21/08/30/1823256917346m.png"
+    },
+    {
+      "alt": "",
+      "src": "https://pcb-files.s3.us-west-2.amazonaws.com/web/26/11/27/101522859f6a06cee811e4f949a1783588defb59a0888t.png"
+    },
+    {
+      "alt": "",
+      "src": "https://pcb-files.s3.us-west-2.amazonaws.com/web/26/11/27/1038221784feeb9885d1841fc8cf9b2a574c67cab2574t.png"
+    },
+    {
+      "alt": "",
+      "src": "https://pcb-files.s3.us-west-2.amazonaws.com/web/26/11/27/1037396620e72b6309edb43e4af04debef1887ebe8224t.jpg"
+    },
+    {
+      "alt": "",
+      "src": "https://pcb-files.s3.us-west-2.amazonaws.com/web/26/11/26/112230970d8e5d8094f354e08baa7e6a5e2a256964580t.png"
+    },
+    {
+      "alt": "",
+      "src": "https://pcb-files.s3.us-west-2.amazonaws.com/web/26/11/27/102237882f567de00c14146219905416ed7320f5c0332t.jpg"
+    },
+    {
+      "alt": "",
+      "src": "https://pcb-files.s3.us-west-2.amazonaws.com/web/26/11/27/102842472789dc27495a2426ea9b72fdffb61e2a91488t.png"
+    },
+    {
+      "alt": "",
+      "src": "https://pcb-files.s3.us-west-2.amazonaws.com/web/26/11/27/103333844e84de1526671423f93db84d8f8bfc7832176t.jpg"
+    },
+    {
+      "alt": "",
+      "src": "https://pcb-files.s3.us-west-2.amazonaws.com/web/26/11/26/112536167675cee6ededb4033a58faa7266d9f54a0033t.png"
+    },
+    {
+      "alt": "",
+      "src": "https://pcb-files.s3.us-west-2.amazonaws.com/web/26/11/27/102454819ed15686feb1e4834a5b863d940a0f9df3038t.jpg"
+    },
+    {
+      "alt": "",
+      "src": "https://pcb-files.s3.us-west-2.amazonaws.com/web/26/11/27/105909398906ba37022de4532953abd987fd462973570t.jpg"
+    },
+    {
+      "alt": "",
+      "src": "https://pcb-files.s3.us-west-2.amazonaws.com/web/26/11/27/110048334e6c53cadefbd41b0a70f8ef7747a32085575t.jpg"
+    },
+    {
+      "alt": "",
+      "src": "https://pcb-files.s3.us-west-2.amazonaws.com/web/26/11/26/135652813ea8e29b2621241a1987e91cb7b736cb77054t.png"
+    },
+    {
+      "alt": "",
+      "src": "https://pcb-files.s3.us-west-2.amazonaws.com/web/26/11/26/13592943168808e308ac64c2b934ecb18ccef8f4f7633t.png"
+    },
+    {
+      "alt": "",
+      "src": "https://pcb-files.s3.us-west-2.amazonaws.com/web/26/11/27/104056228a8324deaf0ac48eebed60fdaafe74d8b2086t.jpg"
+    },
+    {
+      "alt": "",
+      "src": "/img/images/note-tips.png"
+    }
+  ],
+  "meta_description": "",
+  "modified_at": "",
+  "monitored_text": "PCBWay Community Search title or content Search PCBWay PCB Instant Quote CNC | 3D Printing Login Sign Up More Notifications No notifications. My Profile My projects My Likes My Deals My Goods for Bazaar Settings Sign Out Projects Categories DIY Electronics Arduino Hardware Audio Computers & USB Breakout Board Projects Home Automation LED Displays & Matrices IoT Robotics View all categories By Source Files Onju Voice - AI assistant replacement to Google Nest Mini by @justLV LogicAnalyzer V6.0 DIY 1kW Open Source MPPT Solar Charge Controller Tad Boy Color SummerCart64 - a fully open source N64 flashcart kv4p HT v1.7b Arduino RC engine sound & light controller with inertia simulation for ESP32 QuinLED-Dig-Uno Bike Fingerprint - PCB Solar Powered WiFi Weather Station V2.0 RIP-Felix PS3 Tantalizer Frog Boy Color View all source files projects Featured Projects Onju Voice - AI assistant replacement to Google Nest Mini by @justLV LogicAnalyzer V6.0 DIY 1kW Open Source MPPT Solar Charge Controller Featured Source Files Video View all projects Questions Sponsorships PCBWay Future Innovators Program Feedback Blog Store PCB Design Contest - 9th Project Design Contest - 2026 KiCad PCB Design Contest - 8th Project Design Contest - 7th Project Design Contest - KiCad Design Contest - 6th Project Design Contest - 5th PCB Design Contest - 4th PCB Design Contest - Raspberry Pi Pico Contest - PCB Design Tutorial - 3rd PCB Design Contest - I CAN SOLDER Kit Contest - 2nd PCB Design Contest - 1st PCB Design Contest Add questions Create a project Please verify your email address so that you can enjoy our more comprehensive services. Verify Now Blog > LED Sizes and Package Dimensions for PCB Design LED Sizes and Package Dimensions for PCB Design by: Mila Nov 26,2026 <dynamic-value> <dynamic-value> Posted in PCB Design & Layout LED sizes SMD LED sizes LED package sizes LED size chart LEDs are available in a wide range of package sizes, from small surface-mount devices to large chip-on-board (COB) modules. Choosing the right LED size affects more than just the component's physical dimensions. It also influences PCB layout, thermal management, optical performance, and assembly. This guide covers common LED sizes, package dimensions, and the key factors to consider when selecting LEDs for PCB design . 1. Understanding LED Package Sizes and Naming LED package sizes are generally identified by their physical dimensions or package design. However, naming conventions differ between through-hole LEDs, surface-mount LEDs, and COB LEDs. Through-Hole LED Sizes Through-hole LEDs are commonly identified by the diameter of their lens or body. Typical sizes include 3 mm, 5 mm, 8 mm, and 10 mm. For example, 3 mm and 5 mm LEDs are widely used as indicator lights. Many standard models have a lead spacing of 2.54 mm, although the actual spacing depends on the specific component. The longer lead is usually the anode (positive terminal), while the shorter lead is usually the cathode (negative terminal). However, lead length should not be used as the only way to identify polarity. Always check the datasheet or package markings before assembly. (Through-hole LED sample) SMD LED Sizes SMD LED sizes are commonly identified by four-digit codes. However, these codes do not all follow the same naming convention. For smaller indicator LEDs, codes such as 0402, 0603, 0805, and 1206 typically use the imperial system. The first two digits represent the approximate length, and the last two represent the width, in hundredths of an inch. For example: 0402: approximately 1.0 × 0.5 mm 0603: approximately 1.6 × 0.8 mm 0805: approximately 2.0 × 1.25 mm 1206: approximately 3.2 × 1.6 mm Larger LED packages used for lighting often follow metric-based naming conventions. For example, a 2835 LED measures approximately 2.8 × 3.5 mm, while a 5050 LED measures approximately 5.0 × 5.0 mm. It is important to note that an LED package code describes its approximate physical size, not necessarily its power rating, brightness, or internal chip configuration. (SMD LED sample) COB LED Sizes Unlike conventional SMD LEDs, COB (Chip-on-Board) LEDs mount multiple LED chips directly onto a substrate. They are commonly used in lighting applications that require high luminous output or a relatively uniform light-emitting surface. COB LEDs are often identified by their light-emitting surface (LES) diameter rather than by a standard four-digit package code. Common LES sizes range from several millimeters to several tens of millimeters. There is no universal naming convention for COB LED sizes. When selecting a COB LED, check its datasheet for the overall dimensions, LES diameter, mounting requirements, and electrical specifications. (COB LED sample) LED Chip Size vs. Package Size LED chip size and LED package size are not the same. The chip is the semiconductor die that generates light, while the package includes the chip and other structures, such as the substrate, encapsulation, lens, and electrical connections. A larger package does not necessarily contain a larger chip or produce more light. The actual performance depends on the LED chip, drive current, thermal conditions, optical design, and other factors. 2. Common LED Package Sizes and Specifications The following LED size chart summarizes common package dimensions for through-hole, SMD, and COB LEDs. These values are typical references rather than universal specifications. Actual dimensions and recommended PCB footprints may vary between manufacturers and models. Through-Hole LED Size Chart Through-hole LEDs are commonly used for status indicators, panel lights, and applications where the light source needs to extend above the PCB. (Through-hole LED comparison and package dimensions) Common SMD LED Sizes Note: The heights listed above are typical reference values. Actual dimensions vary by manufacturer and product model. Smaller packages such as 0402 and 0603 are commonly used as indicators in compact electronic devices. They save PCB space and are well suited to automated assembly, although hand soldering can be more difficult. Larger packages, including 2835, 3528, and 5050, are widely used in LED lighting products. The 5050 LED size is often associated with RGB lighting, but single-color and other multi-chip versions are also available. Package dimensions alone do not determine luminous flux or efficiency. When comparing LEDs, check the datasheet for luminous flux, forward voltage, operating current, power rating, and thermal characteristics. （SMD LED size comparison and package dimensions） COB LED Sizes COB LED sizes are usually described by their overall dimensions and light-emitting surface (LES) diameter. The following ranges are provided for general reference, not as a standardized classification. For high-power COB LEDs, thermal management is particularly important. Depending on the power rating and operating conditions, the design may require a thermally conductive substrate, thermal interface material, and an external heatsink. (COB LED size comparison and package dimensions） 3. How LED Package Size Affects PCB Design Selecting an LED package is not just a matter of matching its dimensions to the available PCB space. The package also affects footprint design, component placement, thermal performance, and assembly. LED PCB Footprint and Pad Design The LED PCB footprint must match the component's actual package dimensions and terminal configuration. Do not create pads based solely on the nominal package code. Instead, use the manufacturer's recommended land pattern in the datasheet. Incorrect pad dimensions or spacing can lead to poor solder joints, misalignment, or assembly defects. For through-hole LEDs, the drill diameter and hole spacing should be determined by the lead dimensions and the manufacturer's specifications. The design should also account for PCB thickness and the required mechanical fit. (LED Footprint and Pad) Component Placement and Mechanical Clearance LED placement should consider both the electrical layout and the optical and mechanical requirements of the product. Before finalizing the layout, check: Component height: Make sure the LED fits within the enclosure and does not interfere with nearby components. Optical alignment: Align the LED with light guides, lenses, or panel openings where necessary. Mechanical clearance: Leave sufficient space around the component for mounting, assembly, and maintenance. Light distribution: Consider the LED's viewing angle and position to avoid unwanted shadows or uneven illumination. These considerations are particularly important for indicator LEDs mounted near enclosure openings and for lighting boards with closely spaced LED arrays. Thermal Management LEDs convert electrical energy into light and heat. As LED power increases, heat dissipation becomes an important part of PCB design. The appropriate thermal solution depends on the LED's power consumption, thermal resistance, copper area, ambient temperature, and maximum allowable junction temperature. Common approaches include: Low-power LEDs: Standard FR-4 PCBs are generally sufficient for many indicator and low-power lighting applications. Medium-power LEDs: Larger copper areas and thermal vias can help transfer heat away from the LED. High-power LEDs: Metal-core PCBs (MCPCBs), thermally conductive substrates, or external heatsinks may be required, depending on the thermal design. A larger LED package does not automatically require a more complex cooling solution. Thermal requirements should be evaluated using the component datasheet and the actual operating conditions. For more information on heat dissipation and temperature control, refer to our guide to PCB thermal management . (LED Thermal Management) Assembly and Soldering Considerations The LED package also affects the PCB assembly process. Through-hole LEDs are suitable for manual insertion and wave soldering. SMD LEDs are generally assembled using pick-and-place machines and reflow soldering. Very small packages, such as 0402 and 0603, require more precise placement and solder paste control. Larger packages may be easier to handle during prototyping, but their pad design and soldering requirements still need to follow the manufacturer's recommendations. When designing the PCB, consider the available assembly process, pad spacing, component orientation, and accessibility for inspection or rework. 4. Comparing Common LED Packages Different LED package types serve different purposes. The right choice depends on the application's space constraints, optical requirements, power consumption, thermal design, and manufacturing process. Through-Hole LED vs. SMD LED Through-hole LEDs are useful when the light source needs to protrude from the PCB or align with a panel opening. SMD LEDs are generally a better fit for compact designs and high-volume automated assembly. 2835 vs. 3528 vs. 5050 LED Sizes The 2835, 3528, and 5050 packages are commonly used in LED lighting products. Although their dimensions are different, package size alone does not determine which one performs better. For example, 2835 LEDs are widely used in general lighting, while 5050 LEDs are often selected for RGB applications. However, the best choice depends on the specific LED model and its electrical and optical specifications. 5. How to Choose the Right LED Package Choosing the right LED package requires balancing application requirements with PCB space, thermal performance, and manufacturing constraints. Step 1: Define the Application Start by identifying the LED's intended function. Status indicators: Small through-hole or SMD LEDs, such as 3 mm, 5 mm, 0603, or 0805 packages, are common choices. General lighting: Packages such as 2835 and 3528 are widely used, depending on the required luminous output and design. RGB lighting: RGB versions of 5050 and other SMD packages can be considered. High-power lighting: COB LEDs or high-power SMD LEDs may be suitable, provided that the thermal design meets the requirements. Step 2: Check PCB Space and Mechanical Requirements Compare the LED's package dimensions with the available PCB area and enclosure space. Consider the component's length, width, height, pad dimensions, mounting position, and clearance from nearby components. For applications involving light guides or lenses, also verify optical alignment. Step 3: Evaluate Power and Thermal Requirements LED power consumption can be estimated using: P=V F × I F Where: P is the electrical power consumption. V F is the forward voltage. I F is the forward current. (For example, an LED operating at a forward voltage of 3 V and a forward current of 20 mA consumes approximately 0.06 W) This value helps estimate the thermal load, but it does not represent the actual heat generated by the LED. Check the datasheet for thermal resistance and maximum junction temperature, then evaluate whether the PCB and cooling structure can keep the device within its operating limits. Step 4: Consider the Manufacturing Process The selected package should be compatible with the intended assembly process. For example, very small SMD LEDs require accurate placement and soldering control, while through-hole LEDs need properly sized drill holes and sufficient lead spacing. For production, also consider component availability, assembly cost, and inspection requirements. 6. Mini LED vs. Micro LED (Mini LED vs Micro LED) Mini LED and Micro LED are display technologies distinguished primarily by their LED chip dimensions and application approaches. However, their size boundaries are not defined by one universally accepted standard. Mini LED is commonly used as a backlight technology in LCD displays. By using a large number of smaller LEDs, it enables more precise local dimming and improved contrast compared with conventional LED backlighting. Micro LED uses much smaller self-emissive LED pixels, with each pixel generating its own light. It is being developed for applications such as high-end displays, wearable devices, and augmented reality (AR) systems. Although both technologies use smaller LED chips, they differ in display architecture, driving methods, manufacturing processes, and application requirements. Conclusion Choosing the right LED size involves more than comparing package dimensions. PCB footprint, component placement, thermal management, optical requirements, and assembly methods all affect the final design. Always refer to the manufacturer's datasheet when selecting an LED package and creating its PCB footprint, rather than relying on package codes alone. Once the LED package and PCB layout are finalized, the next step is reliable PCB assembly. Whether your project uses small SMD indicator LEDs or larger LED lighting components, proper component placement and soldering are essential for consistent assembly quality. PCBWay provides professional PCB assembly services to support your LED projects, from prototypes to production runs. Enter the year of your birth and check your Chinese Zodiac. Get Free SMT Quote Join us Wanna be a dedicated PCBWay writer? We definately look forward to having you with us. Submit for Publication Become Our Writer Leave a Comment ( 0 ) Share to: Previous：Switching Power Supply PCB Design Guidelines and Best Practices Next：Differential Pair Length Matching: Is ±5mil Really Necessary? Related articles LED Sizes and Package Dimensions for PCB Design Comments ( 0 ) Log in to post comments. Upload photo You can only upload 5 files in total. Each file cannot exceed 2MB. Supports JPG, JPEG, GIF, PNG, BMP 0 / 10000 It looks like you have not written anything. Please add a comment and try again. You can upload up to 5 images! Image size should not exceed 2MB! File format not supported! Post Comment View More Write for PCBWay Categories Select a Category Engineering Technical News PCB Layout Software Activities Help Center PCB Basic Information PCB Manufacturing Information PCB Design & Layout Flexible PCB Rigid-Flex PCB HDI PCB PCB Assembly Technology 3D Printing CNC Machining Sheet Metal Bending Countersink & Counterbore Hardware insertion Tapping Welding Sheet Cutting Injection Molding PCB Design Tutorial PCBWay Store Table of Contents HOT TAG PCB Printed Circuit Board PCB design PCB Board PCB layout Circuit Board Printed Circuit Boards PCB Design Tutorial PCB industry pcb manufacturing KiCad pcbway IF YOU MISSED IT 1 PCB Layout Design Process from Schematic to Manufacturing 2 3 Common PCB Assembly Defects and How to Prevent Them 3 Differential Pair Length Matching: Is ±5mil Really Necessary? 4 LED Sizes and Package Dimensions for PCB Design 5 Switching Power Supply PCB Design Guidelines and Best Practices 6 PCB Ground Plane Design: Routing Across Plane Splits and Signal Return Paths 7 How Does a Thermistor Circuit Work? NTC, PTC, and PCB Layout 8 What Is the Purpose of a 1MΩ Resistor in a Crystal Oscillator Circuit 9 Reverse Polarity Protection: Diode, PMOS, NMOS, and Ideal Diode Circuits The PCB Way that recognize the talent and effort of the best ELECTRONIC designers in the World. © COPYRIGHT 2019 About us Contact us Follow us on Share to Facebook Share to Twitter Share to Reddit Share to Linkedin Back to top",
+  "published_at": "2026-11-26T00:00:00+00:00",
+  "requested_url": "https://www.pcbway.com/blog/PCB_Design_Layout/LED_Sizes_and_Package_Dimensions_for_PCB_Design_a2d19324.html",
+  "schema_version": 2,
+  "sections": [
+    {
+      "hash": "7b037b824f504a9a1525400271d22205888ed48a",
+      "heading": "LED Sizes and Package Dimensions for PCB Design",
+      "level": "h1",
+      "text": "LED Sizes and Package Dimensions for PCB Design by: Mila Nov 26,2026 <dynamic-value> <dynamic-value> Posted in PCB Design & Layout LED sizes SMD LED sizes LED package sizes LED size chart LEDs are available in a wide range of package sizes, from small surface-mount devices to large chip-on-board (COB) modules. Choosing the right LED size affects more than just the component's physical dimensions. It also influences PCB layout, thermal management, optical performance, and assembly. This guide covers common LED sizes, package dimensions, and the key factors to consider when selecting LEDs for PCB design . 1. Understanding LED Package Sizes and Naming LED package sizes are generally identified by their physical dimensions or package design. However, naming conventions differ between through-hole LEDs, surface-mount LEDs, and COB LEDs. Through-Hole LED Sizes Through-hole LEDs are commonly identified by the diameter of their lens or body. Typical sizes include 3 mm, 5 mm, 8 mm, and 10 mm. For example, 3 mm and 5 mm LEDs are widely used as indicator lights. Many standard models have a lead spacing of 2.54 mm, although the actual spacing depends on the specific component. The longer lead..."
+    },
+    {
+      "hash": "75242091d9dfe427d9fa16176a54824585f3aff1",
+      "heading": "1. Understanding LED Package Sizes and Naming",
+      "level": "h2",
+      "text": "1. Understanding LED Package Sizes and Naming LED package sizes are generally identified by their physical dimensions or package design. However, naming conventions differ between through-hole LEDs, surface-mount LEDs, and COB LEDs."
+    },
+    {
+      "hash": "246db305c553762a9e7877bedb0cb9f7b15b6abb",
+      "heading": "Through-Hole LED Sizes",
+      "level": "h3",
+      "text": "Through-Hole LED Sizes Through-hole LEDs are commonly identified by the diameter of their lens or body. Typical sizes include 3 mm, 5 mm, 8 mm, and 10 mm. For example, 3 mm and 5 mm LEDs are widely used as indicator lights. Many standard models have a lead spacing of 2.54 mm, although the actual spacing depends on the specific component. The longer lead is usually the anode (positive terminal), while the shorter lead is usually the cathode (negative terminal). However, lead length should not be used as the only way to identify polarity. Always check the datasheet or package markings before assembly. (Through-hole LED sample)"
+    },
+    {
+      "hash": "e61891add390369707f579ef3abb072dd7b0b007",
+      "heading": "SMD LED Sizes",
+      "level": "h3",
+      "text": "SMD LED Sizes SMD LED sizes are commonly identified by four-digit codes. However, these codes do not all follow the same naming convention. For smaller indicator LEDs, codes such as 0402, 0603, 0805, and 1206 typically use the imperial system. The first two digits represent the approximate length, and the last two represent the width, in hundredths of an inch. For example: 0402: approximately 1.0 × 0.5 mm 0603: approximately 1.6 × 0.8 mm 0805: approximately 2.0 × 1.25 mm 1206: approximately 3.2 × 1.6 mm Larger LED packages used for lighting often follow metric-based naming conventions. For example, a 2835 LED measures approximately 2.8 × 3.5 mm, while a 5050 LED measures approximately 5.0 × 5.0 mm. It is important to note that an LED package code describes its approximate physical size, not necessarily its power rating, brightness, or internal chip configuration. (SMD LED sample)"
+    },
+    {
+      "hash": "720d8749c25be281f43fc281cf9d93b1ef898ae8",
+      "heading": "COB LED Sizes",
+      "level": "h3",
+      "text": "COB LED Sizes Unlike conventional SMD LEDs, COB (Chip-on-Board) LEDs mount multiple LED chips directly onto a substrate. They are commonly used in lighting applications that require high luminous output or a relatively uniform light-emitting surface. COB LEDs are often identified by their light-emitting surface (LES) diameter rather than by a standard four-digit package code. Common LES sizes range from several millimeters to several tens of millimeters. There is no universal naming convention for COB LED sizes. When selecting a COB LED, check its datasheet for the overall dimensions, LES diameter, mounting requirements, and electrical specifications. (COB LED sample)"
+    },
+    {
+      "hash": "05a89c59fec662e68915079dcebaeae19865bbf7",
+      "heading": "LED Chip Size vs. Package Size",
+      "level": "h3",
+      "text": "LED Chip Size vs. Package Size LED chip size and LED package size are not the same. The chip is the semiconductor die that generates light, while the package includes the chip and other structures, such as the substrate, encapsulation, lens, and electrical connections. A larger package does not necessarily contain a larger chip or produce more light. The actual performance depends on the LED chip, drive current, thermal conditions, optical design, and other factors."
+    },
+    {
+      "hash": "873e94253a4a6bb596960f86f7e98a03f8dcd58e",
+      "heading": "2. Common LED Package Sizes and Specifications",
+      "level": "h2",
+      "text": "2. Common LED Package Sizes and Specifications The following LED size chart summarizes common package dimensions for through-hole, SMD, and COB LEDs. These values are typical references rather than universal specifications. Actual dimensions and recommended PCB footprints may vary between manufacturers and models."
+    },
+    {
+      "hash": "203c455d40655a841752573095e97c8bc917bd3b",
+      "heading": "Through-Hole LED Size Chart",
+      "level": "h3",
+      "text": "Through-Hole LED Size Chart Through-hole LEDs are commonly used for status indicators, panel lights, and applications where the light source needs to extend above the PCB. (Through-hole LED comparison and package dimensions)"
+    },
+    {
+      "hash": "8e2c5942a56a6d05c7ba50fdd05d274ab2d8373f",
+      "heading": "Common SMD LED Sizes",
+      "level": "h3",
+      "text": "Common SMD LED Sizes Note: The heights listed above are typical reference values. Actual dimensions vary by manufacturer and product model. Smaller packages such as 0402 and 0603 are commonly used as indicators in compact electronic devices. They save PCB space and are well suited to automated assembly, although hand soldering can be more difficult. Larger packages, including 2835, 3528, and 5050, are widely used in LED lighting products. The 5050 LED size is often associated with RGB lighting, but single-color and other multi-chip versions are also available. Package dimensions alone do not determine luminous flux or efficiency. When comparing LEDs, check the datasheet for luminous flux, forward voltage, operating current, power rating, and thermal characteristics. （SMD LED size comparison and package dimensions）"
+    },
+    {
+      "hash": "466bd747f0d570d837753eacb13b252df822ee7c",
+      "heading": "3. How LED Package Size Affects PCB Design",
+      "level": "h2",
+      "text": "3. How LED Package Size Affects PCB Design Selecting an LED package is not just a matter of matching its dimensions to the available PCB space. The package also affects footprint design, component placement, thermal performance, and assembly."
+    },
+    {
+      "hash": "8fc6a80589f4c6a5338a2e31fb454f2d4ddf4def",
+      "heading": "LED PCB Footprint and Pad Design",
+      "level": "h3",
+      "text": "LED PCB Footprint and Pad Design The LED PCB footprint must match the component's actual package dimensions and terminal configuration. Do not create pads based solely on the nominal package code. Instead, use the manufacturer's recommended land pattern in the datasheet. Incorrect pad dimensions or spacing can lead to poor solder joints, misalignment, or assembly defects. For through-hole LEDs, the drill diameter and hole spacing should be determined by the lead dimensions and the manufacturer's specifications. The design should also account for PCB thickness and the required mechanical fit. (LED Footprint and Pad)"
+    },
+    {
+      "hash": "939fdf48bf8c6a252802796f2617e159c8833699",
+      "heading": "Component Placement and Mechanical Clearance",
+      "level": "h3",
+      "text": "Component Placement and Mechanical Clearance LED placement should consider both the electrical layout and the optical and mechanical requirements of the product. Before finalizing the layout, check: Component height: Make sure the LED fits within the enclosure and does not interfere with nearby components. Optical alignment: Align the LED with light guides, lenses, or panel openings where necessary. Mechanical clearance: Leave sufficient space around the component for mounting, assembly, and maintenance. Light distribution: Consider the LED's viewing angle and position to avoid unwanted shadows or uneven illumination. These considerations are particularly important for indicator LEDs mounted near enclosure openings and for lighting boards with closely spaced LED arrays."
+    },
+    {
+      "hash": "88a00fd607db41ce044cfbd65729a3a6b18799df",
+      "heading": "Thermal Management",
+      "level": "h3",
+      "text": "Thermal Management LEDs convert electrical energy into light and heat. As LED power increases, heat dissipation becomes an important part of PCB design. The appropriate thermal solution depends on the LED's power consumption, thermal resistance, copper area, ambient temperature, and maximum allowable junction temperature. Common approaches include: Low-power LEDs: Standard FR-4 PCBs are generally sufficient for many indicator and low-power lighting applications. Medium-power LEDs: Larger copper areas and thermal vias can help transfer heat away from the LED. High-power LEDs: Metal-core PCBs (MCPCBs), thermally conductive substrates, or external heatsinks may be required, depending on the thermal design. A larger LED package does not automatically require a more complex cooling solution. Thermal requirements should be evaluated using the component datasheet and the actual operating conditions. For more information on heat dissipation and temperature control, refer to our guide to PCB thermal management . (LED Thermal Management)"
+    },
+    {
+      "hash": "8d4363bb5ba7faf64dd7bab7624e57f61b0417de",
+      "heading": "Assembly and Soldering Considerations",
+      "level": "h3",
+      "text": "Assembly and Soldering Considerations The LED package also affects the PCB assembly process. Through-hole LEDs are suitable for manual insertion and wave soldering. SMD LEDs are generally assembled using pick-and-place machines and reflow soldering. Very small packages, such as 0402 and 0603, require more precise placement and solder paste control. Larger packages may be easier to handle during prototyping, but their pad design and soldering requirements still need to follow the manufacturer's recommendations. When designing the PCB, consider the available assembly process, pad spacing, component orientation, and accessibility for inspection or rework."
+    },
+    {
+      "hash": "42d40dfe3fd99dc91dce8f24ddc6dc4091aebf29",
+      "heading": "4. Comparing Common LED Packages",
+      "level": "h2",
+      "text": "4. Comparing Common LED Packages Different LED package types serve different purposes. The right choice depends on the application's space constraints, optical requirements, power consumption, thermal design, and manufacturing process."
+    },
+    {
+      "hash": "273f7d04108d911b1dff703444d77d4945f1ab21",
+      "heading": "Through-Hole LED vs. SMD LED",
+      "level": "h3",
+      "text": "Through-Hole LED vs. SMD LED Through-hole LEDs are useful when the light source needs to protrude from the PCB or align with a panel opening. SMD LEDs are generally a better fit for compact designs and high-volume automated assembly."
+    },
+    {
+      "hash": "c207b02503045747758062aa90cd7ba6b1028c2e",
+      "heading": "2835 vs. 3528 vs. 5050 LED Sizes",
+      "level": "h3",
+      "text": "2835 vs. 3528 vs. 5050 LED Sizes The 2835, 3528, and 5050 packages are commonly used in LED lighting products. Although their dimensions are different, package size alone does not determine which one performs better. For example, 2835 LEDs are widely used in general lighting, while 5050 LEDs are often selected for RGB applications. However, the best choice depends on the specific LED model and its electrical and optical specifications."
+    },
+    {
+      "hash": "86dc3ab9c9be37528bf0c52d8fdaf844025c48c3",
+      "heading": "5. How to Choose the Right LED Package",
+      "level": "h2",
+      "text": "5. How to Choose the Right LED Package Choosing the right LED package requires balancing application requirements with PCB space, thermal performance, and manufacturing constraints."
+    },
+    {
+      "hash": "1a7639fc1fb48dca9c280b384afef451d862224c",
+      "heading": "Step 1: Define the Application",
+      "level": "h3",
+      "text": "Step 1: Define the Application Start by identifying the LED's intended function. Status indicators: Small through-hole or SMD LEDs, such as 3 mm, 5 mm, 0603, or 0805 packages, are common choices. General lighting: Packages such as 2835 and 3528 are widely used, depending on the required luminous output and design. RGB lighting: RGB versions of 5050 and other SMD packages can be considered. High-power lighting: COB LEDs or high-power SMD LEDs may be suitable, provided that the thermal design meets the requirements."
+    },
+    {
+      "hash": "5e1bcab981571f4c6aa4c3102d52995decca5b06",
+      "heading": "Step 2: Check PCB Space and Mechanical Requirements",
+      "level": "h3",
+      "text": "Step 2: Check PCB Space and Mechanical Requirements Compare the LED's package dimensions with the available PCB area and enclosure space. Consider the component's length, width, height, pad dimensions, mounting position, and clearance from nearby components. For applications involving light guides or lenses, also verify optical alignment."
+    },
+    {
+      "hash": "9d901190b51156eb1ba928340b36290a0fe8da47",
+      "heading": "Step 3: Evaluate Power and Thermal Requirements",
+      "level": "h3",
+      "text": "Step 3: Evaluate Power and Thermal Requirements LED power consumption can be estimated using: P=V F × I F Where: P is the electrical power consumption. V F is the forward voltage. I F is the forward current. (For example, an LED operating at a forward voltage of 3 V and a forward current of 20 mA consumes approximately 0.06 W) This value helps estimate the thermal load, but it does not represent the actual heat generated by the LED. Check the datasheet for thermal resistance and maximum junction temperature, then evaluate whether the PCB and cooling structure can keep the device within its operating limits."
+    },
+    {
+      "hash": "387310c4877f68f5895784cb28a9c67653c28d44",
+      "heading": "Step 4: Consider the Manufacturing Process",
+      "level": "h3",
+      "text": "Step 4: Consider the Manufacturing Process The selected package should be compatible with the intended assembly process. For example, very small SMD LEDs require accurate placement and soldering control, while through-hole LEDs need properly sized drill holes and sufficient lead spacing. For production, also consider component availability, assembly cost, and inspection requirements."
+    },
+    {
+      "hash": "a04f359ac48e6b734f924a0d64f1837406a56b66",
+      "heading": "6. Mini LED vs. Micro LED",
+      "level": "h2",
+      "text": "6. Mini LED vs. Micro LED (Mini LED vs Micro LED) Mini LED and Micro LED are display technologies distinguished primarily by their LED chip dimensions and application approaches. However, their size boundaries are not defined by one universally accepted standard. Mini LED is commonly used as a backlight technology in LCD displays. By using a large number of smaller LEDs, it enables more precise local dimming and improved contrast compared with conventional LED backlighting. Micro LED uses much smaller self-emissive LED pixels, with each pixel generating its own light. It is being developed for applications such as high-end displays, wearable devices, and augmented reality (AR) systems. Although both technologies use smaller LED chips, they differ in display architecture, driving methods, manufacturing processes, and application requirements."
+    },
+    {
+      "hash": "8d47e329cf3b45a06d9049acc3fad79ccf1c4994",
+      "heading": "Conclusion",
+      "level": "h2",
+      "text": "Conclusion Choosing the right LED size involves more than comparing package dimensions. PCB footprint, component placement, thermal management, optical requirements, and assembly methods all affect the final design. Always refer to the manufacturer's datasheet when selecting an LED package and creating its PCB footprint, rather than relying on package codes alone. Once the LED package and PCB layout are finalized, the next step is reliable PCB assembly. Whether your project uses small SMD indicator LEDs or larger LED lighting components, proper component placement and soldering are essential for consistent assembly quality. PCBWay provides professional PCB assembly services to support your LED projects, from prototypes to production runs."
+    },
+    {
+      "hash": "8a1c586273030a30a230202bbdc407a0849032b7",
+      "heading": "Related articles",
+      "level": "h3",
+      "text": "Related articles LED Sizes and Package Dimensions for PCB Design"
+    }
+  ],
+  "sitemap_lastmod": "",
+  "status": 200,
+  "structure_hash": "f6b99ff470bf0fad9bd303b12395603e0709d0db",
+  "text_excerpt": "PCBWay Community Search title or content Search PCBWay PCB Instant Quote CNC | 3D Printing Login Sign Up More Notifications No notifications. My Profile My projects My Likes My Deals My Goods for Bazaar Settings Sign Out Projects Categories DIY Electronics Arduino Hardware Audio Computers & USB Breakout Board Projects Home Automation LED Displays & Matrices IoT Robotics View all categories By Source Files Onju Voice - AI assistant replacement to Google Nest Mini by @justLV LogicAnalyzer V6.0 DIY 1kW Open Source MPPT Solar Charge Controller Tad Boy Color SummerCart64 - a fully open source N64 flashcart kv4p HT v1.7b Arduino RC engine sound & light controller with inertia simulation for ESP32 QuinLED-Dig-Uno Bike Fingerprint - PCB Solar Powered WiFi Weather Station V2.0 RIP-Felix PS3 Tantalizer Frog Boy Color View all source files projects Featured Projects Onju Voice - AI assistant replacement to Google Nest Mini by @justLV LogicAnalyzer V6.0 DIY 1kW Open Source MPPT Solar Charge Controller Featured Source Files Video View all projects Questions Sponsorships PCBWay Future Innovators Program Feedback Blog Store PCB Design Contest - 9th Project Design Contest - 2026 KiCad PCB Design...",
+  "text_hash": "352a09eede6c48bda7992e9658ea9c9471ed3fc8",
+  "title": "LED Sizes and Package Dimensions for PCB Design - PCB Design & Layout - PCBway",
+  "url": "https://www.pcbway.com/blog/PCB_Design_Layout/LED_Sizes_and_Package_Dimensions_for_PCB_Design_a2d19324.html"
+}
