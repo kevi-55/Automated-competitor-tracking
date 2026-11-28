@@ -368,6 +368,7 @@
       "https://jlccnc.com/help/article/aluminum-7075-cnc-machining",
       "https://jlccnc.com/help/article/bakelite-cnc-machining",
       "https://jlccnc.com/help/article/brass-h59-cnc-machining",
+      "https://jlccnc.com/help/article/cnc-machining-design-guideline",
       "https://jlccnc.com/help/article/cnc-machining-ordering-guidelines",
       "https://jlccnc.com/help/article/cnc-plastic-material-selection-guide",
       "https://jlccnc.com/help/article/copper-t2-cnc-machining",
@@ -859,8 +860,8 @@
       "https://www.xometry.com/resources/blog/brett-blanchard",
       "https://www.xometry.com/resources/case-studies/nfc",
       "https://www.xometry.com/resources/blog/meet-the-team",
-      "https://www.xometry.com/resources/blog/shane-felton",
       "https://www.xometry.com/resources/blog/scott-benson",
+      "https://www.xometry.com/resources/blog/shane-felton",
       "https://www.xometry.com/resources/case-studies/ryvid",
       "https://www.xometry.com/resources/case-studies/iclick",
       "https://www.xometry.com/resources/design-guides/technical-drawing-best-practices",
@@ -947,15 +948,8 @@
       "https://quote.emachineshop.com/emachineshop/widget/upload"
     ]
   },
-  "last_run_at": "2026-11-27T09:57:20+00:00",
+  "last_run_at": "2026-11-28T09:10:22+00:00",
   "runs": [
-    {
-      "errors": 108,
-      "events": 108,
-      "finished_at": "2026-09-29T07:03:27+00:00",
-      "mode": "daily",
-      "run_id": "20260929T065044Z"
-    },
     {
       "errors": 103,
       "events": 144,
@@ -1368,6 +1362,13 @@
       "finished_at": "2026-11-27T09:57:20+00:00",
       "mode": "daily",
       "run_id": "20261127T093810Z"
+    },
+    {
+      "errors": 30,
+      "events": 79,
+      "finished_at": "2026-11-28T09:10:22+00:00",
+      "mode": "daily",
+      "run_id": "20261128T085322Z"
     }
   ],
   "schema_version": 2
